@@ -1,0 +1,2073 @@
+2026-05-29 09:51:01  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-05-29 09:51:01  INFO     📡 수집 중: https://www.itsnicethat.com/feed
+2026-05-29 09:51:02  WARNING  ⚠ RSS 파싱 실패 (https://www.itsnicethat.com/feed): HTTP Error 404: Not Found
+2026-05-29 09:51:02  INFO     📡 수집 중: https://filmmakermagazine.com/feed/
+2026-05-29 09:51:03  INFO     📡 수집 중: https://thecreativeindependent.com/feed.xml
+2026-05-29 09:51:04  INFO     ✓ 총 15개 기사 1차 수집 완료. AI 큐레이션 시작...
+2026-05-29 09:51:24  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 09:51:24  INFO     ✓ AI 큐레이션 완료. (6개 아이템)
+2026-05-29 09:51:24  INFO     ✓ JSON 데이터 갱신 완료
+2026-05-29 09:51:24  INFO     ✓ creative-insight.html 업데이트 완료
+2026-05-29 09:51:24  INFO     ✅ 파이프라인 전체 완료!
+2026-05-29 10:33:41  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-05-29 10:33:41  INFO     📡 수집 중: https://www.itsnicethat.com/feed
+2026-05-29 10:33:42  WARNING  ⚠ RSS 파싱 실패 (https://www.itsnicethat.com/feed): HTTP Error 404: Not Found
+2026-05-29 10:33:42  INFO     📡 수집 중: https://filmmakermagazine.com/feed/
+2026-05-29 10:33:43  INFO     📡 수집 중: https://thecreativeindependent.com/feed.xml
+2026-05-29 10:33:44  INFO     ✓ 총 15개 기사 1차 수집 완료. AI 큐레이션 시작...
+2026-05-29 10:34:38  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 10:34:38  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-05-29 10:34:38  INFO     ✓ JSON 데이터 갱신 완료
+2026-05-29 10:34:38  INFO     ✓ index.html 업데이트 완료
+2026-05-29 10:34:38  INFO     ✅ 파이프라인 전체 완료!
+2026-05-29 10:42:35  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-05-29 10:42:35  INFO     📡 수집 중: https://www.itsnicethat.com/feed
+2026-05-29 10:42:36  WARNING  ⚠ RSS 파싱 실패 (https://www.itsnicethat.com/feed): HTTP Error 404: Not Found
+2026-05-29 10:42:36  INFO     📡 수집 중: https://filmmakermagazine.com/feed/
+2026-05-29 10:42:37  INFO     📡 수집 중: https://thecreativeindependent.com/feed.xml
+2026-05-29 10:42:38  INFO     ✓ 총 15개 기사 1차 수집 완료. AI 큐레이션 시작...
+2026-05-29 10:43:04  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 10:43:04  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-05-29 10:43:04  INFO     ✓ JSON 데이터 갱신 완료
+2026-05-29 10:43:04  INFO     ✓ index.html 업데이트 완료
+2026-05-29 10:43:04  INFO     ✅ 파이프라인 전체 완료!
+2026-05-29 11:00:18  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-05-29 11:00:18  INFO     📡 수집 중: https://www.itsnicethat.com/articles.rss
+2026-05-29 11:00:19  INFO     📡 수집 중: https://filmmakermagazine.com/feed/
+2026-05-29 11:00:21  INFO     📡 수집 중: https://thecreativeindependent.com/feed.xml
+2026-05-29 11:00:22  INFO     ✓ 총 30개 기사 1차 수집 완료. AI 큐레이션 시작...
+2026-05-29 11:00:55  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 11:00:56  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-05-29 11:00:56  INFO     ✓ JSON 데이터 갱신 완료
+2026-05-29 11:00:56  INFO     ✓ index.html 업데이트 완료
+2026-05-29 11:00:56  INFO     ✅ 파이프라인 전체 완료!
+2026-06-05 10:05:13  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-06-05 10:05:13  INFO     📡 수집 중: https://www.itsnicethat.com/articles.rss
+2026-06-05 10:05:14  INFO     📡 수집 중: https://filmmakermagazine.com/feed/
+2026-06-05 10:05:15  INFO     📡 수집 중: https://thecreativeindependent.com/feed.xml
+2026-06-05 10:05:16  INFO     ✓ 총 30개 기사 1차 수집 완료. AI 큐레이션 시작...
+2026-06-05 10:05:41  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 10:05:41  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-05 10:05:41  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-05 10:05:41  INFO     ✓ index.html 업데이트 완료
+2026-06-05 10:05:41  INFO     ✅ 파이프라인 전체 완료!
+2026-06-06 07:35:42  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-06-06 07:35:42  INFO     📡 수집 중: https://www.itsnicethat.com/articles.rss
+2026-06-06 07:35:43  INFO     📡 수집 중: https://filmmakermagazine.com/feed/
+2026-06-06 07:35:44  INFO     📡 수집 중: https://thecreativeindependent.com/feed.xml
+2026-06-06 07:35:45  INFO     ✓ 총 30개 기사 1차 수집 완료. AI 큐레이션 시작...
+2026-06-06 07:36:07  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-06 07:36:07  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-06 07:36:07  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-06 07:36:07  INFO     ✓ index.html 업데이트 완료
+2026-06-06 07:36:07  INFO     ✅ 파이프라인 전체 완료!
+2026-06-06 08:32:45  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-06-06 08:32:45  INFO     ✓ 오늘 이미 큐레이션이 완료되었습니다. 중복 실행을 방지하기 위해 종료합니다.
+2026-06-07 08:42:11  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-06-07 08:42:11  INFO     📡 수집 중: https://www.itsnicethat.com/articles.rss
+2026-06-07 08:42:12  INFO     📡 수집 중: https://filmmakermagazine.com/feed/
+2026-06-07 08:42:13  INFO     📡 수집 중: https://thecreativeindependent.com/feed.xml
+2026-06-07 08:42:14  INFO     ✓ 총 30개 기사 1차 수집 완료. AI 큐레이션 시작...
+2026-06-07 10:04:19  INFO     Retrying request to /chat/completions in 0.418269 seconds
+2026-06-07 21:55:57  INFO     Retrying request to /chat/completions in 0.826908 seconds
+2026-06-07 22:49:40  ERROR    ❌ AI 큐레이션 중 오류 발생: Connection error.
+2026-06-08 08:43:54  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-06-08 08:43:54  INFO     📡 수집 중: https://www.itsnicethat.com/articles.rss
+2026-06-08 08:43:55  INFO     📡 수집 중: https://filmmakermagazine.com/feed/
+2026-06-08 08:43:56  INFO     📡 수집 중: https://thecreativeindependent.com/feed.xml
+2026-06-08 08:43:57  INFO     ✓ 총 30개 기사 1차 수집 완료. AI 큐레이션 시작...
+2026-06-08 15:10:47  INFO     Retrying request to /chat/completions in 0.492633 seconds
+2026-06-08 15:16:45  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 15:16:45  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-08 15:16:45  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-08 15:16:45  INFO     ✓ index.html 업데이트 완료
+2026-06-08 15:16:45  INFO     ✅ 파이프라인 전체 완료!
+2026-06-09 08:30:02  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-06-09 08:30:02  INFO     📡 수집 중: https://www.itsnicethat.com/articles.rss
+2026-06-09 08:30:03  INFO     📡 수집 중: https://filmmakermagazine.com/feed/
+2026-06-09 08:40:29  WARNING  ⚠ RSS 파싱 실패 (https://filmmakermagazine.com/feed/): [Errno 54] Connection reset by peer
+2026-06-09 08:40:29  INFO     📡 수집 중: https://thecreativeindependent.com/feed.xml
+2026-06-09 08:40:30  INFO     ✓ 총 15개 기사 1차 수집 완료. AI 큐레이션 시작...
+2026-06-09 08:40:56  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-09 08:40:56  INFO     ✓ AI 큐레이션 완료. (11개 아이템)
+2026-06-09 08:40:56  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-09 08:40:56  INFO     ✓ index.html 업데이트 완료
+2026-06-09 08:40:56  INFO     ✅ 파이프라인 전체 완료!
+2026-06-10 08:30:04  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-06-10 08:30:04  INFO     📡 수집 중: https://www.itsnicethat.com/articles.rss
+2026-06-10 08:30:05  INFO     📡 수집 중: https://filmmakermagazine.com/feed/
+2026-06-10 08:30:06  INFO     📡 수집 중: https://thecreativeindependent.com/feed.xml
+2026-06-10 08:30:07  INFO     ✓ 총 30개 기사 1차 수집 완료. AI 큐레이션 시작...
+2026-06-10 08:30:38  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 08:30:38  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-10 08:30:38  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-10 08:30:38  INFO     ✓ index.html 업데이트 완료
+2026-06-10 08:30:38  INFO     ✅ 파이프라인 전체 완료!
+2026-06-10 11:15:18  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-06-10 11:15:18  INFO     ✓ 오늘 이미 큐레이션이 완료되었습니다. 중복 실행을 방지하기 위해 종료합니다.
+2026-06-10 11:16:04  INFO     
+▶ 통합 큐레이션 파이프라인 시작
+2026-06-10 11:16:04  INFO     📡 수집 중: https://www.itsnicethat.com/articles.rss
+2026-06-10 11:16:05  INFO     📡 수집 중: https://filmmakermagazine.com/feed/
+2026-06-10 11:16:07  INFO     📡 수집 중: https://thecreativeindependent.com/feed.xml
+2026-06-10 11:16:07  INFO     📡 수집 중: https://coolhunting.com/feed/
+2026-06-10 11:16:09  INFO     📡 수집 중: https://www.promonews.tv/feed/
+2026-06-10 11:16:10  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-10 11:16:10  INFO     📡 수집 중: https://feeds.feedburner.com/ProductionParadiseMembersFeed
+2026-06-10 11:16:10  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 258, column 0
+2026-06-10 11:16:10  INFO     📡 수집 중: https://abduzeedo.com/rss.xml
+2026-06-10 11:16:11  INFO     📡 수집 중: https://honestart.tistory.com/rss
+2026-06-10 11:16:12  INFO     📡 수집 중: https://maxgoldmandp.com/feed/
+2026-06-10 11:16:14  INFO     📡 수집 중: https://thestylewatcher.wordpress.com/feed/
+2026-06-10 11:16:15  INFO     📡 수집 중: https://www.ignant.com/feed/
+2026-06-10 11:16:16  INFO     📡 수집 중: https://opendoors.gallery/feed
+2026-06-10 11:16:19  INFO     📡 수집 중: https://photoeditions.pub/rss
+2026-06-10 11:16:23  INFO     📡 수집 중: https://www.architecturaldigest.com/feed/rss
+2026-06-10 11:16:27  INFO     📡 수집 중: https://levineleavitt.com/feed/
+2026-06-10 11:16:35  INFO     📡 수집 중: https://strba.ch/feed/
+2026-06-10 11:16:38  INFO     📡 수집 중: https://uglyd.com/index.php/feed/
+2026-06-10 11:16:39  INFO     📡 수집 중: https://www.anothermag.com/Feed
+2026-06-10 11:16:42  INFO     📡 수집 중: https://www.silvanderwoerd.com/blog-feed.xml
+2026-06-10 11:16:43  INFO     📡 수집 중: https://www.lensculture.com/feeds/flipboard.rss
+2026-06-10 11:16:46  INFO     📡 수집 중: https://www.creativereview.co.uk/feed/
+2026-06-10 11:16:54  INFO     📡 수집 중: https://www.hubbardbirchler.net/feed/
+2026-06-10 11:16:55  INFO     ✓ 총 45개 기사 1차 수집 완료. AI 큐레이션 시작...
+2026-06-10 11:17:15  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 11:17:15  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-10 11:17:15  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-10 11:17:15  INFO     ✓ index.html 업데이트 완료
+2026-06-10 11:17:15  INFO     ✅ 파이프라인 전체 완료!
+2026-06-10 11:27:52  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-10 11:27:52  INFO     📡 22개 매체에서 병렬 수집 에이전트 시작...
+2026-06-10 11:27:52  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-10 11:27:52  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-10 11:27:52  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-10 11:27:52  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-10 11:27:52  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-10 11:27:53  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-10 11:27:53  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-10 11:27:53  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-10 11:27:53  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 258, column 0
+2026-06-10 11:27:53  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-10 11:27:53  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-10 11:27:53  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-10 11:27:53  INFO       ✓ 완료: https://www.ignant.com/feed/ (0개 확보)
+2026-06-10 11:27:53  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-10 11:27:54  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-10 11:27:54  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-10 11:27:54  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-10 11:27:54  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-10 11:27:55  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-10 11:27:55  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-10 11:27:56  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-10 11:27:56  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (3개 확보)
+2026-06-10 11:27:56  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-10 11:27:59  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-10 11:27:59  INFO     ✓ 총 33개 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-10 11:28:20  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 11:28:20  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-10 11:28:20  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-10 11:28:20  INFO     ✓ index.html 업데이트 완료
+2026-06-10 11:28:20  INFO     ✅ 파이프라인 전체 완료!
+2026-06-10 14:38:55  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-10 14:38:55  INFO     📡 22개 매체에서 병렬 수집 에이전트 시작...
+2026-06-10 14:38:56  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-10 14:38:56  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-10 14:38:56  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 258, column 0
+2026-06-10 14:38:56  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-10 14:38:56  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-10 14:38:56  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-10 14:38:56  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-10 14:38:56  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-10 14:38:56  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-10 14:38:57  INFO       ✓ 완료: https://www.ignant.com/feed/ (0개 확보)
+2026-06-10 14:38:57  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-10 14:38:57  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-10 14:38:58  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-10 14:38:58  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-10 14:38:58  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-10 14:38:58  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-10 14:38:58  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-10 14:38:59  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-10 14:38:59  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-10 14:38:59  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-10 14:39:00  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-10 14:39:00  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (3개 확보)
+2026-06-10 14:39:01  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-10 14:39:01  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-10 14:39:01  INFO     ✓ 총 33개 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-10 14:39:26  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 14:39:26  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-10 14:39:26  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-10 14:39:26  INFO     ✓ index.html 업데이트 완료
+2026-06-10 14:39:26  INFO     ✅ 파이프라인 전체 완료!
+2026-06-10 14:50:36  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-10 14:50:36  INFO     📡 22개 매체에서 병렬 수집 에이전트 시작...
+2026-06-10 14:50:37  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-10 14:50:37  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-10 14:50:37  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-10 14:50:37  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-10 14:50:37  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-10 14:50:37  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-10 14:50:37  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-10 14:50:38  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 258, column 0
+2026-06-10 14:50:38  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-10 14:50:38  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-10 14:50:38  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-10 14:50:38  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-10 14:50:38  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-10 14:50:38  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-10 14:50:38  INFO       ✓ 완료: https://www.ignant.com/feed/ (0개 확보)
+2026-06-10 14:50:39  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-10 14:50:39  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-10 14:50:40  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-10 14:50:40  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-10 14:50:40  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-10 14:50:40  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-10 14:50:41  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-10 14:50:43  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (3개 확보)
+2026-06-10 14:50:46  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-10 14:50:46  INFO     ✓ 총 33개 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-10 14:51:12  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 14:51:12  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-10 14:51:12  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-10 14:51:12  INFO     ✓ index.html 업데이트 완료
+2026-06-10 14:51:12  INFO     ✅ 파이프라인 전체 완료!
+2026-06-10 14:58:09  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-10 14:58:09  INFO     📡 22개 매체에서 병렬 수집 에이전트 시작...
+2026-06-10 14:58:09  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-10 14:58:10  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-10 14:58:10  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-10 14:58:10  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-10 14:58:10  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 258, column 0
+2026-06-10 14:58:10  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-10 14:58:10  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-10 14:58:10  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-10 14:58:10  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-10 14:58:10  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-10 14:58:10  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-10 14:58:11  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-10 14:58:11  INFO       ✓ 완료: https://www.ignant.com/feed/ (0개 확보)
+2026-06-10 14:58:11  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-10 14:58:11  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-10 14:58:11  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-10 14:58:12  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-10 14:58:12  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-10 14:58:12  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-10 14:58:13  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-10 14:58:14  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-10 14:58:14  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-10 14:58:15  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-10 14:58:23  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (3개 확보)
+2026-06-10 14:58:23  INFO     ✓ 총 33개 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-10 14:58:49  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-10 14:58:49  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-10 14:58:49  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-10 14:58:49  INFO     ✓ index.html 업데이트 완료
+2026-06-10 14:58:49  INFO     ✅ 파이프라인 전체 완료!
+2026-06-11 08:30:04  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-11 08:30:04  INFO     📡 22개 매체에서 병렬 수집 에이전트 시작...
+2026-06-11 08:30:04  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-11 08:30:04  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-11 08:30:04  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 264, column 0
+2026-06-11 08:30:04  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-11 08:30:05  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-11 08:30:05  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-11 08:30:05  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-11 08:30:05  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-11 08:30:05  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-11 08:30:05  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-11 08:30:05  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-11 08:30:05  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-11 08:30:05  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-11 08:30:05  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-11 08:30:06  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (3개 확보)
+2026-06-11 08:30:06  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-11 08:30:06  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-11 08:30:07  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-11 08:30:07  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-11 08:30:08  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-11 08:30:08  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-11 08:30:08  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-11 08:30:09  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-11 08:30:13  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-11 08:30:13  INFO     ✓ 총 34개 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-11 08:30:41  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-11 08:30:42  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-11 08:30:42  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-11 08:30:42  INFO     ✓ index.html 업데이트 완료
+2026-06-11 08:30:42  INFO     ✅ 파이프라인 전체 완료!
+2026-06-12 08:30:00  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-12 08:30:00  INFO     📡 22개 매체에서 병렬 수집 에이전트 시작...
+2026-06-12 08:30:01  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-12 08:30:01  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-12 08:30:01  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-12 08:30:01  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-12 08:30:01  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-12 08:30:01  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-12 08:30:02  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-12 08:30:02  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-12 08:30:02  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-12 08:30:02  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-12 08:30:02  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 266, column 0
+2026-06-12 08:30:02  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-12 08:30:02  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-12 08:30:02  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-12 08:30:02  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-12 08:30:02  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-12 08:30:02  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-12 08:30:03  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-12 08:30:03  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-12 08:30:03  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-12 08:30:04  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-12 08:30:04  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-12 08:30:04  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-12 08:30:05  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (3개 확보)
+2026-06-12 08:30:05  INFO     ✓ 총 34개 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-12 08:30:33  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-12 08:30:33  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-12 08:30:33  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-12 08:30:34  INFO     ✓ index.html 업데이트 완료
+2026-06-12 08:30:34  INFO     ✅ 파이프라인 전체 완료!
+2026-06-12 09:23:11  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-12 09:23:11  INFO     ✓ 오늘 이미 큐레이션이 완료되었습니다. 중복 실행을 방지하기 위해 종료합니다.
+2026-06-13 08:30:02  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-13 08:30:02  INFO     📡 22개 매체에서 병렬 수집 에이전트 시작...
+2026-06-13 08:30:02  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-13 08:30:03  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-13 08:30:03  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-13 08:30:03  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-13 08:30:03  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-13 08:30:03  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-13 08:30:03  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-13 08:30:03  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 266, column 0
+2026-06-13 08:30:03  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-13 08:30:03  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-13 08:30:03  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-13 08:30:04  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-13 08:30:04  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-13 08:30:04  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-13 08:30:04  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-13 08:30:04  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-13 08:30:04  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (3개 확보)
+2026-06-13 08:30:04  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-13 08:30:05  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-13 08:30:05  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-13 08:30:06  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-13 08:30:06  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-13 08:30:09  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-13 08:30:16  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-13 08:30:16  INFO     ✓ 총 34개 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-13 08:30:41  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 08:30:41  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-13 08:30:41  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-13 08:30:41  INFO     ✓ index.html 업데이트 완료
+2026-06-13 08:30:41  INFO     ✅ 파이프라인 전체 완료!
+2026-06-13 14:19:22  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-13 14:19:22  INFO     📡 37개 매체에서 병렬 수집 에이전트 시작...
+2026-06-13 14:19:23  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-13 14:19:23  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-13 14:19:23  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 266, column 0
+2026-06-13 14:19:23  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-13 14:19:23  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-13 14:19:23  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-13 14:19:23  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-13 14:19:23  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-13 14:19:23  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-13 14:19:24  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-13 14:19:24  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-13 14:19:24  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-13 14:19:24  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-13 14:19:24  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-13 14:19:24  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-13 14:19:24  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-13 14:19:24  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-13 14:19:24  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (2개 확보)
+2026-06-13 14:19:24  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-13 14:19:24  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-13 14:19:25  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-13 14:19:25  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-13 14:19:25  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-13 14:19:25  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-13 14:19:25  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-13 14:19:26  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-13 14:19:26  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-13 14:19:26  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-13 14:19:26  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-13 14:19:26  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-13 14:19:26  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-13 14:19:26  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-13 14:19:26  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-13 14:19:26  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-13 14:19:26  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-13 14:19:26  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): XML or text declaration not at start of entity: line 5, column 0
+2026-06-13 14:19:26  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-13 14:19:27  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-13 14:19:27  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-13 14:19:27  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (3개 확보)
+2026-06-13 14:19:27  INFO     ✓ 총 48개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-13 14:19:48  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 14:19:48  INFO     ✓ AI 큐레이션 완료. (12개 아이템)
+2026-06-13 14:19:48  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-13 14:19:48  INFO     ✓ index.html 업데이트 완료
+2026-06-13 14:19:48  INFO     ✅ 파이프라인 전체 완료!
+2026-06-13 17:27:20  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-13 17:27:20  INFO     📡 37개 매체에서 병렬 수집 에이전트 시작...
+2026-06-13 17:27:21  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-13 17:27:21  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 266, column 0
+2026-06-13 17:27:21  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-13 17:27:21  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-13 17:27:21  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-13 17:27:21  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-13 17:27:21  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-13 17:27:21  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-13 17:27:22  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-13 17:27:22  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-13 17:27:22  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-13 17:27:22  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-13 17:27:22  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-13 17:27:22  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-13 17:27:23  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-13 17:27:23  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-13 17:27:23  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-13 17:27:23  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (1개 확보)
+2026-06-13 17:27:23  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-13 17:27:23  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-13 17:27:24  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-13 17:27:24  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-13 17:27:24  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-13 17:27:24  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-13 17:27:24  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-13 17:27:24  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-13 17:27:25  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-13 17:27:25  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-13 17:27:25  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-13 17:27:25  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (3개 확보)
+2026-06-13 17:27:25  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-13 17:27:25  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-13 17:27:25  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-13 17:27:25  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-13 17:27:26  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-13 17:27:26  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-13 17:27:27  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): XML or text declaration not at start of entity: line 5, column 0
+2026-06-13 17:27:27  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-13 17:27:31  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-13 17:27:36  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-13 17:27:36  INFO     ✓ 총 42개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-13 17:28:01  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-13 17:28:01  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-13 17:28:01  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-13 17:28:01  INFO     ✓ index.html 업데이트 완료
+2026-06-13 17:28:01  INFO     ✅ 파이프라인 전체 완료!
+2026-06-14 08:30:03  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-14 08:30:03  INFO     📡 37개 매체에서 병렬 수집 에이전트 시작...
+2026-06-14 08:30:04  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-14 08:30:04  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-14 08:30:04  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-14 08:30:04  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-14 08:30:04  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-14 08:30:04  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-14 08:30:04  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 266, column 0
+2026-06-14 08:30:04  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-14 08:30:05  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-14 08:30:05  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-14 08:30:05  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-14 08:30:05  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-14 08:30:06  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-14 08:30:06  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-14 08:30:06  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-14 08:30:07  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-14 08:30:07  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-14 08:30:07  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-14 08:30:07  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-14 08:30:07  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-14 08:30:07  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-14 08:30:08  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-14 08:30:08  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-14 08:30:08  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-14 08:30:08  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (3개 확보)
+2026-06-14 08:30:08  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-14 08:30:09  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-14 08:30:09  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-14 08:30:09  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-14 08:30:09  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-14 08:30:09  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-14 08:30:10  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-14 08:30:10  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): XML or text declaration not at start of entity: line 5, column 0
+2026-06-14 08:30:10  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-14 08:30:10  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-14 08:30:12  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-14 08:30:12  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-14 08:30:15  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-14 08:30:19  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-14 08:30:22  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-14 08:30:22  INFO     ✓ 총 39개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-14 08:30:48  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-14 08:30:48  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-14 08:30:50  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-14 08:30:50  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-14 08:30:50  INFO     ✅ 파이프라인 전체 완료!
+2026-06-15 08:30:00  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-15 08:30:00  INFO     📡 37개 매체에서 병렬 수집 에이전트 시작...
+2026-06-15 08:30:01  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-15 08:30:01  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-15 08:30:01  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-15 08:30:02  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-15 08:30:02  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-15 08:30:02  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 266, column 0
+2026-06-15 08:30:02  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-15 08:30:02  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-15 08:30:02  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-15 08:30:02  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-15 08:30:02  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-15 08:30:02  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-15 08:30:03  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-15 08:30:03  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (3개 확보)
+2026-06-15 08:30:03  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-15 08:30:03  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-15 08:30:04  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-15 08:30:04  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-15 08:30:04  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-15 08:30:04  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-15 08:30:04  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-15 08:30:04  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-15 08:30:05  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-15 08:30:05  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-15 08:30:05  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-15 08:30:05  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-15 08:30:05  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-15 08:30:06  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-15 08:30:06  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-15 08:30:06  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-15 08:30:07  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-15 08:30:07  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): XML or text declaration not at start of entity: line 5, column 0
+2026-06-15 08:30:07  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-15 08:30:07  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-15 08:30:08  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-15 08:30:08  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-15 08:30:09  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-15 08:30:14  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-15 08:30:15  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-15 08:30:20  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-15 08:30:20  INFO     ✓ 총 29개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-15 08:30:44  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 08:30:45  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-15 08:30:47  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 08:30:47  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-15 08:30:47  INFO     ✅ 파이프라인 전체 완료!
+2026-06-15 10:47:07  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-15 10:47:07  INFO     📡 37개 매체에서 병렬 수집 에이전트 시작...
+2026-06-15 10:47:07  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-15 10:47:07  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-15 10:47:07  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-15 10:47:07  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): HTTP Error 308: Permanent Redirect
+2026-06-15 10:47:07  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-15 10:47:08  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): junk after document element: line 266, column 0
+2026-06-15 10:47:08  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-15 10:47:08  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-15 10:47:08  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-15 10:47:08  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-15 10:47:08  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-15 10:47:09  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-15 10:47:09  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-15 10:47:10  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-15 10:47:10  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-15 10:47:10  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-15 10:47:11  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-15 10:47:11  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-15 10:47:12  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (3개 확보)
+2026-06-15 10:47:12  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-15 10:47:12  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-15 10:47:12  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-15 10:47:12  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-15 10:47:13  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-15 10:47:13  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-15 10:47:13  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-15 10:47:13  INFO       ✓ 완료: https://www.nowness.com/rss (4개 확보)
+2026-06-15 10:47:13  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-15 10:47:14  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-15 10:47:14  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-15 10:47:14  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): XML or text declaration not at start of entity: line 5, column 0
+2026-06-15 10:47:14  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-15 10:47:14  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-15 10:47:14  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-15 10:47:15  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-15 10:47:17  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-15 10:47:17  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-15 10:47:20  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-15 10:47:21  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-15 10:47:24  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-15 10:47:24  INFO     ✓ 총 17개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-15 10:47:48  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 10:47:49  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-15 10:47:51  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-15 10:47:51  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-15 10:47:51  INFO     ✅ 파이프라인 전체 완료!
+2026-06-16 08:04:35  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-16 08:04:35  INFO     📡 37개 매체에서 병렬 수집 에이전트 시작...
+2026-06-16 08:04:37  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-16 08:04:38  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-16 08:04:38  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-16 08:04:38  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-16 08:04:38  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-16 08:04:38  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-16 08:04:38  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-16 08:04:39  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-16 08:04:39  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-16 08:04:40  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-16 08:04:40  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-16 08:04:40  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-16 08:04:40  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-16 08:04:41  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (2개 확보)
+2026-06-16 08:04:41  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-16 08:04:41  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-16 08:04:42  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-16 08:04:42  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-16 08:04:42  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (1개 확보)
+2026-06-16 08:04:43  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-16 08:04:43  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-16 08:04:43  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-16 08:04:43  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-16 08:04:44  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-16 08:04:44  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-16 08:04:44  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-16 08:04:45  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-16 08:04:45  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-16 08:04:45  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-16 08:04:45  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-16 08:04:45  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-16 08:04:46  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-16 08:04:46  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-16 08:04:48  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-16 08:04:48  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-16 08:04:50  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-16 08:04:54  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-16 08:04:55  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-16 08:04:58  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-16 08:04:58  INFO     ✓ 총 39개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-16 08:05:38  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-16 08:05:39  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-16 08:05:41  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-16 08:05:41  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-16 08:05:42  WARNING  ⚠ index.html 내에 INJECT_DATA_START/END 마커가 없습니다. 업데이트 실패.
+2026-06-16 08:05:42  INFO     ✅ 파이프라인 전체 완료!
+2026-06-16 08:18:26  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-16 08:18:26  INFO     📡 37개 매체에서 병렬 수집 에이전트 시작...
+2026-06-16 08:18:27  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-16 08:18:27  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-16 08:18:27  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-16 08:18:27  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-16 08:18:27  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-16 08:18:27  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-16 08:18:27  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-16 08:18:27  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-16 08:18:27  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-16 08:18:28  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-16 08:18:28  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-16 08:18:28  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-16 08:18:28  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-16 08:18:28  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-16 08:18:29  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-16 08:18:29  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-16 08:18:29  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (1개 확보)
+2026-06-16 08:18:29  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-16 08:18:29  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-16 08:18:30  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-16 08:18:30  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-16 08:18:30  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-16 08:18:30  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-16 08:18:31  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-16 08:18:31  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-16 08:18:31  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-16 08:18:31  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (2개 확보)
+2026-06-16 08:18:31  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-16 08:18:31  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-16 08:18:31  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-16 08:18:32  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-16 08:18:32  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-16 08:18:32  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-16 08:18:33  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-16 08:18:33  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-16 08:18:34  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-16 08:18:40  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-16 08:18:41  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-16 08:18:43  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-16 08:18:43  INFO     ✓ 총 24개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-16 08:19:11  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-16 08:19:11  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-16 08:19:14  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-16 08:19:14  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-16 08:19:14  WARNING  ⚠ index.html 내에 INJECT_DATA_START/END 마커가 없습니다. 업데이트 실패.
+2026-06-16 08:19:14  INFO     ✅ 파이프라인 전체 완료!
+2026-06-16 08:30:05  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-16 08:30:05  INFO     📡 37개 매체에서 병렬 수집 에이전트 시작...
+2026-06-16 08:30:07  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-16 08:30:07  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-16 08:30:07  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-16 08:30:07  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-16 08:30:07  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-16 08:30:07  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-16 08:30:08  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-16 08:30:08  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-16 08:30:08  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-16 08:30:08  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-16 08:30:08  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-16 08:30:09  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-16 08:30:09  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-16 08:30:09  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-16 08:30:09  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-16 08:30:10  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-16 08:30:10  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (1개 확보)
+2026-06-16 08:30:10  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-16 08:30:10  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-16 08:30:11  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-16 08:30:11  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-16 08:30:11  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-16 08:30:11  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-16 08:30:11  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-16 08:30:11  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-16 08:30:11  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (2개 확보)
+2026-06-16 08:30:12  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-16 08:30:12  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-16 08:30:12  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-16 08:30:13  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-16 08:30:13  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-16 08:30:13  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-16 08:30:13  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-16 08:30:14  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-16 08:30:15  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-16 08:30:15  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-16 08:30:17  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-16 08:30:22  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-16 08:30:26  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-16 08:30:26  INFO     ✓ 총 9개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-16 08:30:39  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-16 08:30:39  INFO     ✓ AI 큐레이션 완료. (4개 아이템, 1개 팝콘)
+2026-06-16 08:30:42  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-16 08:30:42  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-16 08:30:42  INFO     ✓ index.html 업데이트 완료
+2026-06-16 08:30:42  INFO     ✅ 파이프라인 전체 완료!
+2026-06-16 13:55:58  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-16 13:55:58  INFO     📡 37개 매체에서 병렬 수집 에이전트 시작...
+2026-06-16 13:55:59  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-16 13:55:59  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-16 13:55:59  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-16 13:55:59  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-16 13:55:59  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-16 13:55:59  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-16 13:56:00  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-16 13:56:00  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-16 13:56:00  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-16 13:56:00  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-16 13:56:00  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-16 13:56:00  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-16 13:56:00  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-16 13:56:01  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-16 13:56:01  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-16 13:56:01  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-16 13:56:01  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-16 13:56:01  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-16 13:56:01  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-16 13:56:02  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-16 13:56:02  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-16 13:56:03  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-16 13:56:03  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-16 13:56:03  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (2개 확보)
+2026-06-16 13:56:03  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-16 13:56:04  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-16 13:56:04  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-16 13:56:04  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-16 13:56:04  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-16 13:56:04  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-16 13:56:04  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-16 13:56:04  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-16 13:56:06  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-16 13:56:07  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-16 13:56:07  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-16 13:56:07  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-16 13:56:12  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-16 13:56:12  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-16 13:56:17  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-16 13:56:17  INFO     ✓ 총 13개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-16 13:56:34  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-16 13:56:34  INFO     ✓ AI 큐레이션 완료. (7개 아이템, 1개 팝콘)
+2026-06-16 13:56:36  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-16 13:56:36  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-16 13:56:36  INFO     ✓ index.html 업데이트 완료
+2026-06-16 13:56:36  INFO     ✅ 파이프라인 전체 완료!
+2026-06-16 14:02:35  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-16 14:02:35  INFO     📡 37개 매체에서 병렬 수집 에이전트 시작...
+2026-06-16 14:02:35  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-16 14:02:35  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-16 14:02:35  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-16 14:02:36  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-16 14:02:36  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-16 14:02:36  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-16 14:02:36  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-16 14:02:36  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-16 14:02:37  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-16 14:02:37  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-16 14:02:37  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-16 14:02:37  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-16 14:02:37  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-16 14:02:37  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-16 14:02:37  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-16 14:02:38  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-16 14:02:38  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-16 14:02:38  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-16 14:02:38  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-16 14:02:39  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-16 14:02:39  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-16 14:02:39  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-16 14:02:39  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-16 14:02:40  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (2개 확보)
+2026-06-16 14:02:40  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-16 14:02:40  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-16 14:02:40  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-16 14:02:40  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-16 14:02:40  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-16 14:02:40  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-16 14:02:40  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-16 14:02:41  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-16 14:02:41  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-16 14:02:41  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-16 14:02:42  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-16 14:02:43  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-16 14:02:49  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-16 14:02:49  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-16 14:02:52  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-16 14:02:52  INFO     ✓ 총 68개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-16 14:03:35  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-16 14:03:35  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-16 14:03:38  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-16 14:03:38  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-16 14:03:38  INFO     ✓ index.html 업데이트 완료
+2026-06-16 14:03:38  INFO     ✅ 파이프라인 전체 완료!
+2026-06-16 14:09:37  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-16 14:09:37  INFO     📡 37개 매체에서 병렬 수집 에이전트 시작...
+2026-06-16 14:09:38  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-16 14:09:38  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-16 14:09:38  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-16 14:09:38  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-16 14:09:38  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-16 14:09:38  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-16 14:09:38  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-16 14:09:38  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-16 14:09:39  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-16 14:09:39  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-16 14:09:39  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-16 14:09:39  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-16 14:09:39  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-16 14:09:40  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-16 14:09:40  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-16 14:09:40  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-16 14:09:40  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-16 14:09:40  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-16 14:09:40  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-16 14:09:41  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-16 14:09:41  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-16 14:09:41  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-16 14:09:41  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-16 14:09:41  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-16 14:09:42  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-16 14:09:42  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-16 14:09:42  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-16 14:09:42  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-16 14:09:42  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (2개 확보)
+2026-06-16 14:09:43  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-16 14:09:43  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-16 14:09:43  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-16 14:09:43  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-16 14:09:43  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-16 14:09:43  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-16 14:09:45  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-16 14:09:48  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-16 14:09:51  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-16 14:09:54  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-16 14:09:54  INFO     ✓ 총 68개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-16 14:10:40  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-16 14:10:40  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-16 14:10:43  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-16 14:10:43  INFO     ✓ JSON 데이터 갱신 완료
+2026-06-16 14:10:43  INFO     ✓ index.html 업데이트 완료
+2026-06-16 14:10:43  INFO     ✅ 파이프라인 전체 완료!
+2026-06-17 08:40:31  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-17 08:40:31  INFO     ▶ 북마크 자동 업데이트 및 자율형 신규 RSS 발굴 에이전트 가동...
+2026-06-17 08:41:58  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 08:42:06  INFO     📡 57개 매체에서 병렬 수집 에이전트 시작...
+2026-06-17 08:42:06  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-17 08:42:06  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-17 08:42:06  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-17 08:42:06  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-17 08:42:06  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-17 08:42:07  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-17 08:42:07  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-17 08:42:07  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-17 08:42:07  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-17 08:42:07  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-17 08:42:08  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-17 08:42:08  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-17 08:42:08  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-17 08:42:08  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-17 08:42:09  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-17 08:42:09  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-17 08:42:09  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-17 08:42:10  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-17 08:42:10  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-17 08:42:10  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-17 08:42:11  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-17 08:42:11  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-17 08:42:11  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (1개 확보)
+2026-06-17 08:42:11  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-17 08:42:12  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-17 08:42:12  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-17 08:42:12  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-17 08:42:12  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-17 08:42:12  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-17 08:42:13  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-17 08:42:13  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-17 08:42:13  INFO       ✓ 완료: https://rss.blog.naver.com/damwon.xml (0개 확보)
+2026-06-17 08:42:13  INFO       ✓ 완료: https://rss.blog.naver.com/justina75.xml (5개 확보)
+2026-06-17 08:42:13  INFO       ✓ 완료: http://graymonster.tistory.com/feed (0개 확보)
+2026-06-17 08:42:13  WARNING  ⚠ RSS 파싱 실패 (https://blog.naver.com/feed): not well-formed (invalid token): line 3, column 52
+2026-06-17 08:42:13  INFO       ✓ 완료: https://blog.naver.com/feed (0개 확보)
+2026-06-17 08:42:13  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-17 08:42:13  INFO       ✓ 완료: https://rss.blog.naver.com/sabids.xml (0개 확보)
+2026-06-17 08:42:14  INFO       ✓ 완료: http://feeds.feedburner.com/behance/vorr (5개 확보)
+2026-06-17 08:42:14  INFO       ✓ 완료: https://rss.blog.naver.com/nkj2001.xml (0개 확보)
+2026-06-17 08:42:15  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-17 08:42:15  INFO       ✓ 완료: https://thenationalgrid.com.au/welcome?format=rss (0개 확보)
+2026-06-17 08:42:16  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-17 08:42:16  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-17 08:42:16  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-17 08:42:16  INFO       ✓ 완료: https://www.juxtapoz.com/news/?format=feed&type=rss (0개 확보)
+2026-06-17 08:42:16  INFO       ✓ 완료: https://www.creativeboom.com/feed/ (5개 확보)
+2026-06-17 08:42:17  INFO       ✓ 완료: https://www.artinsight.co.kr/rss (5개 확보)
+2026-06-17 08:42:17  INFO       ✓ 완료: https://wepresent.wetransfer.com/rss (4개 확보)
+2026-06-17 08:42:17  INFO       ✓ 완료: http://www.adim21.co.kr/feed (1개 확보)
+2026-06-17 08:42:18  INFO       ✓ 완료: https://www.andrew-townsend.com/rss/ (0개 확보)
+2026-06-17 08:42:18  INFO       ✓ 완료: https://thedieline.com/feed/ (5개 확보)
+2026-06-17 08:42:18  INFO       ✓ 완료: http://feeds2.feedburner.com/itsnicethat/SlXC (0개 확보)
+2026-06-17 08:42:19  INFO       ✓ 완료: https://www.fubiz.net/feed/ (0개 확보)
+2026-06-17 08:42:19  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-17 08:42:20  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-17 08:42:21  INFO       ✓ 완료: https://adim21.co.kr/wp-content/plugins/kboard/rss.php (0개 확보)
+2026-06-17 08:42:23  INFO       ✓ 완료: http://smadani.com/feed (0개 확보)
+2026-06-17 08:42:24  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-17 08:42:25  INFO       ✓ 완료: https://designspotter.com/feed/ (0개 확보)
+2026-06-17 08:42:25  INFO     ✓ 총 89개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-17 08:43:04  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 08:43:04  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-17 08:43:06  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 08:52:52  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-17 08:52:52  INFO     ▶ 북마크 자동 업데이트 및 자율형 신규 RSS 발굴 에이전트 가동...
+2026-06-17 08:53:33  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 08:53:38  INFO     📡 59개 매체에서 병렬 수집 에이전트 시작...
+2026-06-17 08:53:38  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-17 08:53:38  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-17 08:53:38  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-17 08:53:39  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-17 08:53:39  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-17 08:53:39  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-17 08:53:39  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-17 08:53:39  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-17 08:53:39  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-17 08:53:39  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-17 08:53:39  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-17 08:53:39  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-17 08:53:40  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-17 08:53:40  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-17 08:53:40  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-17 08:53:41  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-17 08:53:41  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-17 08:53:41  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-17 08:53:42  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-17 08:53:42  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-17 08:53:42  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-17 08:53:42  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (1개 확보)
+2026-06-17 08:53:43  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-17 08:53:43  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-17 08:53:43  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-17 08:53:43  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-17 08:53:43  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-17 08:53:43  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-17 08:53:43  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-17 08:53:44  INFO       ✓ 완료: https://rss.blog.naver.com/damwon.xml (0개 확보)
+2026-06-17 08:53:44  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-17 08:53:44  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-17 08:53:44  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-17 08:53:44  INFO       ✓ 완료: https://rss.blog.naver.com/justina75.xml (5개 확보)
+2026-06-17 08:53:44  INFO       ✓ 완료: http://graymonster.tistory.com/feed (0개 확보)
+2026-06-17 08:53:44  WARNING  ⚠ RSS 파싱 실패 (https://blog.naver.com/feed): not well-formed (invalid token): line 3, column 52
+2026-06-17 08:53:44  INFO       ✓ 완료: https://blog.naver.com/feed (0개 확보)
+2026-06-17 08:53:44  INFO       ✓ 완료: https://rss.blog.naver.com/sabids.xml (0개 확보)
+2026-06-17 08:53:45  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-17 08:53:45  INFO       ✓ 완료: http://feeds.feedburner.com/behance/vorr (5개 확보)
+2026-06-17 08:53:45  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-17 08:53:45  INFO       ✓ 완료: https://rss.blog.naver.com/nkj2001.xml (0개 확보)
+2026-06-17 08:53:46  INFO       ✓ 완료: https://thenationalgrid.com.au/welcome?format=rss (0개 확보)
+2026-06-17 08:53:46  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-17 08:53:46  INFO       ✓ 완료: https://www.juxtapoz.com/news/?format=feed&type=rss (0개 확보)
+2026-06-17 08:53:47  INFO       ✓ 완료: https://www.andrew-townsend.com/rss/ (0개 확보)
+2026-06-17 08:53:47  WARNING  ⚠ RSS 파싱 실패 (https://www.artinsight.co.kr/rss): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+2026-06-17 08:53:47  INFO       ✓ 완료: https://wepresent.wetransfer.com/rss (4개 확보)
+2026-06-17 08:53:47  INFO       ✓ 완료: https://www.artinsight.co.kr/rss (0개 확보)
+2026-06-17 08:53:47  INFO       ✓ 완료: https://www.creativeboom.com/feed/ (5개 확보)
+2026-06-17 08:53:47  INFO       ✓ 완료: http://www.adim21.co.kr/feed (1개 확보)
+2026-06-17 08:53:48  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-17 08:53:48  INFO       ✓ 완료: https://thedieline.com/feed/ (5개 확보)
+2026-06-17 08:53:48  INFO       ✓ 완료: http://feeds2.feedburner.com/itsnicethat/SlXC (0개 확보)
+2026-06-17 08:53:48  INFO       ✓ 완료: https://www.creativebloq.com/feeds.xml (5개 확보)
+2026-06-17 08:53:49  INFO       ✓ 완료: https://www.wallpaper.com/feeds.xml (5개 확보)
+2026-06-17 08:53:49  INFO       ✓ 완료: https://www.fubiz.net/feed/ (0개 확보)
+2026-06-17 08:53:51  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-17 08:53:51  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-17 08:53:51  INFO       ✓ 완료: https://adim21.co.kr/wp-content/plugins/kboard/rss.php (0개 확보)
+2026-06-17 08:53:54  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-17 08:53:54  INFO       ✓ 완료: http://smadani.com/feed (0개 확보)
+2026-06-17 08:53:55  INFO       ✓ 완료: https://designspotter.com/feed/ (0개 확보)
+2026-06-17 08:53:55  INFO     ✓ 총 83개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-17 08:54:49  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 08:54:49  INFO     ✓ AI 큐레이션 완료. (11개 아이템, 3개 팝콘)
+2026-06-17 08:54:51  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 08:55:31  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-17 08:55:31  INFO     ▶ 북마크 자동 업데이트 및 자율형 신규 RSS 발굴 에이전트 가동...
+2026-06-17 08:56:09  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 08:56:15  INFO     📡 62개 매체에서 병렬 수집 에이전트 시작...
+2026-06-17 08:56:16  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-17 08:56:16  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-17 08:56:16  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-17 08:56:16  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-17 08:56:16  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-17 08:56:16  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-17 08:56:16  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-17 08:56:17  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-17 08:56:17  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-17 08:56:17  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-17 08:56:17  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-17 08:56:17  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-17 08:56:17  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-17 08:56:18  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-17 08:56:18  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-17 08:56:19  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-17 08:56:19  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-17 08:56:19  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-17 08:56:19  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-17 08:56:19  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-17 08:56:19  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-17 08:56:19  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-17 08:56:19  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-17 08:56:20  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-17 08:56:20  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-17 08:56:21  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-17 08:56:21  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-17 08:56:21  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-17 08:56:21  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (1개 확보)
+2026-06-17 08:56:21  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-17 08:56:21  INFO       ✓ 완료: https://rss.blog.naver.com/justina75.xml (5개 확보)
+2026-06-17 08:56:21  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-17 08:56:21  INFO       ✓ 완료: https://rss.blog.naver.com/damwon.xml (0개 확보)
+2026-06-17 08:56:21  INFO       ✓ 완료: http://graymonster.tistory.com/feed (0개 확보)
+2026-06-17 08:56:22  WARNING  ⚠ RSS 파싱 실패 (https://blog.naver.com/feed): not well-formed (invalid token): line 3, column 52
+2026-06-17 08:56:22  INFO       ✓ 완료: https://blog.naver.com/feed (0개 확보)
+2026-06-17 08:56:22  INFO       ✓ 완료: https://rss.blog.naver.com/sabids.xml (0개 확보)
+2026-06-17 08:56:22  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-17 08:56:22  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-17 08:56:22  INFO       ✓ 완료: https://rss.blog.naver.com/nkj2001.xml (0개 확보)
+2026-06-17 08:56:22  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-17 08:56:22  INFO       ✓ 완료: http://feeds.feedburner.com/behance/vorr (5개 확보)
+2026-06-17 08:56:22  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-17 08:56:22  INFO       ✓ 완료: https://thenationalgrid.com.au/welcome?format=rss (0개 확보)
+2026-06-17 08:56:22  INFO       ✓ 완료: https://www.juxtapoz.com/news/?format=feed&type=rss (0개 확보)
+2026-06-17 08:56:22  INFO       ✓ 완료: https://wepresent.wetransfer.com/rss (4개 확보)
+2026-06-17 08:56:23  WARNING  ⚠ RSS 파싱 실패 (https://www.artinsight.co.kr/rss): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+2026-06-17 08:56:23  INFO       ✓ 완료: https://www.artinsight.co.kr/rss (0개 확보)
+2026-06-17 08:56:23  INFO       ✓ 완료: https://www.andrew-townsend.com/rss/ (0개 확보)
+2026-06-17 08:56:23  INFO       ✓ 완료: https://www.creativeboom.com/feed/ (5개 확보)
+2026-06-17 08:56:23  INFO       ✓ 완료: http://feeds2.feedburner.com/itsnicethat/SlXC (0개 확보)
+2026-06-17 08:56:23  INFO       ✓ 완료: https://thedieline.com/feed/ (5개 확보)
+2026-06-17 08:56:23  INFO       ✓ 완료: https://www.wallpaper.com/feeds.xml (5개 확보)
+2026-06-17 08:56:24  INFO       ✓ 완료: https://www.creativebloq.com/feeds.xml (5개 확보)
+2026-06-17 08:56:24  INFO       ✓ 완료: http://www.adim21.co.kr/feed (1개 확보)
+2026-06-17 08:56:24  INFO       ✓ 완료: https://www.theartnewspaper.com/rss.xml (5개 확보)
+2026-06-17 08:56:24  INFO       ✓ 완료: https://www.thisiscolossal.com/feed/ (5개 확보)
+2026-06-17 08:56:25  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-17 08:56:25  INFO       ✓ 완료: https://www.fubiz.net/feed/ (0개 확보)
+2026-06-17 08:56:26  INFO       ✓ 완료: https://design-milk.com/feed (5개 확보)
+2026-06-17 08:56:27  INFO       ✓ 완료: https://adim21.co.kr/wp-content/plugins/kboard/rss.php (0개 확보)
+2026-06-17 08:56:27  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-17 08:56:30  INFO       ✓ 완료: http://smadani.com/feed (0개 확보)
+2026-06-17 08:56:32  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-17 08:56:32  INFO       ✓ 완료: https://designspotter.com/feed/ (0개 확보)
+2026-06-17 08:56:38  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-17 08:56:38  INFO     ✓ 총 84개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-17 08:57:20  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 08:57:20  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-17 08:57:22  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 08:57:22  INFO     ✓ 일일 데이터 및 manifest 저장 완료
+2026-06-17 08:57:22  INFO     ✅ 파이프라인 전체 완료! GitHub Pages로 자동 배포를 시작합니다...
+2026-06-17 10:32:22  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-17 10:32:22  INFO     ▶ 북마크 자동 업데이트 및 자율형 신규 RSS 발굴 에이전트 가동...
+2026-06-17 10:33:03  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 10:33:10  INFO     📡 64개 매체에서 병렬 수집 에이전트 시작...
+2026-06-17 10:33:11  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-17 10:33:11  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-17 10:33:11  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-17 10:33:11  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-17 10:33:11  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-17 10:33:11  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-17 10:33:11  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-17 10:33:11  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-17 10:33:12  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-17 10:33:12  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-17 10:33:12  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-17 10:33:12  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-17 10:33:12  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-17 10:33:12  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-17 10:33:13  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-17 10:33:13  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-17 10:33:13  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-17 10:33:13  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-17 10:33:13  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-17 10:33:14  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-17 10:33:14  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-17 10:33:14  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-17 10:33:14  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-17 10:33:14  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-17 10:33:15  INFO       ✓ 완료: https://www.nowness.com/rss (4개 확보)
+2026-06-17 10:33:15  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-17 10:33:15  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (1개 확보)
+2026-06-17 10:33:15  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-17 10:33:15  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-17 10:33:16  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-17 10:33:16  INFO       ✓ 완료: https://rss.blog.naver.com/justina75.xml (5개 확보)
+2026-06-17 10:33:16  INFO       ✓ 완료: http://graymonster.tistory.com/feed (0개 확보)
+2026-06-17 10:33:16  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-17 10:33:16  INFO       ✓ 완료: https://rss.blog.naver.com/damwon.xml (0개 확보)
+2026-06-17 10:33:16  WARNING  ⚠ RSS 파싱 실패 (https://blog.naver.com/feed): not well-formed (invalid token): line 3, column 52
+2026-06-17 10:33:16  INFO       ✓ 완료: https://blog.naver.com/feed (0개 확보)
+2026-06-17 10:33:16  INFO       ✓ 완료: https://rss.blog.naver.com/sabids.xml (0개 확보)
+2026-06-17 10:33:17  INFO       ✓ 완료: http://feeds.feedburner.com/behance/vorr (5개 확보)
+2026-06-17 10:33:17  INFO       ✓ 완료: https://www.andrew-townsend.com/rss/ (0개 확보)
+2026-06-17 10:33:17  INFO       ✓ 완료: https://rss.blog.naver.com/nkj2001.xml (0개 확보)
+2026-06-17 10:33:17  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-17 10:33:18  INFO       ✓ 완료: https://thenationalgrid.com.au/welcome?format=rss (0개 확보)
+2026-06-17 10:33:18  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-17 10:33:18  INFO       ✓ 완료: https://www.juxtapoz.com/news/?format=feed&type=rss (0개 확보)
+2026-06-17 10:33:18  INFO       ✓ 완료: https://wepresent.wetransfer.com/rss (4개 확보)
+2026-06-17 10:33:18  WARNING  ⚠ RSS 파싱 실패 (https://www.artinsight.co.kr/rss): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>
+2026-06-17 10:33:18  INFO       ✓ 완료: https://www.artinsight.co.kr/rss (0개 확보)
+2026-06-17 10:33:18  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-17 10:33:19  INFO       ✓ 완료: http://feeds2.feedburner.com/itsnicethat/SlXC (0개 확보)
+2026-06-17 10:33:19  INFO       ✓ 완료: https://www.creativeboom.com/feed/ (5개 확보)
+2026-06-17 10:33:19  INFO       ✓ 완료: http://www.adim21.co.kr/feed (1개 확보)
+2026-06-17 10:33:19  INFO       ✓ 완료: https://thedieline.com/feed/ (5개 확보)
+2026-06-17 10:33:19  INFO       ✓ 완료: https://www.wallpaper.com/feeds.xml (5개 확보)
+2026-06-17 10:33:20  INFO       ✓ 완료: https://www.creativebloq.com/feeds.xml (5개 확보)
+2026-06-17 10:33:20  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-17 10:33:20  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-17 10:33:20  INFO       ✓ 완료: https://www.thisiscolossal.com/feed/ (5개 확보)
+2026-06-17 10:33:20  INFO       ✓ 완료: https://www.fubiz.net/feed/ (0개 확보)
+2026-06-17 10:33:21  INFO       ✓ 완료: https://www.theartnewspaper.com/rss.xml (5개 확보)
+2026-06-17 10:33:22  INFO       ✓ 완료: https://design-milk.com/feed (5개 확보)
+2026-06-17 10:33:22  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-17 10:33:22  INFO       ✓ 완료: https://www.booooooom.com/feed (5개 확보)
+2026-06-17 10:33:23  INFO       ✓ 완료: https://adim21.co.kr/wp-content/plugins/kboard/rss.php (0개 확보)
+2026-06-17 10:33:26  INFO       ✓ 완료: http://smadani.com/feed (0개 확보)
+2026-06-17 10:33:26  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-17 10:33:27  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-17 10:33:28  INFO       ✓ 완료: https://designspotter.com/feed/ (0개 확보)
+2026-06-17 10:33:28  INFO       ✓ 완료: https://www.artforum.com/feed/rss/ (5개 확보)
+2026-06-17 10:33:28  INFO     ✓ 총 78개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-17 10:34:06  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 10:34:06  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-17 10:34:10  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-17 10:34:10  INFO     ✓ 일일 데이터 및 manifest 저장 완료
+2026-06-17 10:34:10  INFO     ✅ 파이프라인 전체 완료! GitHub Pages로 자동 배포를 시작합니다...
+2026-06-18 08:30:01  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-18 08:30:01  INFO     ▶ 북마크 자동 업데이트 및 자율형 신규 RSS 발굴 에이전트 가동...
+2026-06-18 08:30:53  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-18 08:31:06  INFO     📡 84개 매체에서 병렬 수집 에이전트 시작...
+2026-06-18 08:31:07  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-18 08:31:07  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-18 08:31:07  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-18 08:31:07  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-18 08:31:07  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-18 08:31:07  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-18 08:31:07  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-18 08:31:08  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-18 08:31:08  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-18 08:31:08  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-18 08:31:08  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-18 08:31:09  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-18 08:31:09  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-18 08:31:09  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-18 08:31:10  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-18 08:31:10  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-18 08:31:10  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-18 08:31:10  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-18 08:31:11  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-18 08:31:11  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-18 08:31:11  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-18 08:31:11  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-18 08:31:11  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-18 08:31:11  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (1개 확보)
+2026-06-18 08:31:12  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-18 08:31:12  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-18 08:31:12  INFO       ✓ 완료: https://www.nowness.com/rss (4개 확보)
+2026-06-18 08:31:12  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-18 08:31:13  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-18 08:31:13  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-18 08:31:13  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-18 08:31:13  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-18 08:31:13  INFO       ✓ 완료: https://rss.blog.naver.com/justina75.xml (5개 확보)
+2026-06-18 08:31:13  INFO       ✓ 완료: http://graymonster.tistory.com/feed (0개 확보)
+2026-06-18 08:31:13  INFO       ✓ 완료: https://rss.blog.naver.com/damwon.xml (0개 확보)
+2026-06-18 08:31:13  WARNING  ⚠ RSS 파싱 실패 (https://blog.naver.com/feed): not well-formed (invalid token): line 3, column 52
+2026-06-18 08:31:13  INFO       ✓ 완료: https://blog.naver.com/feed (0개 확보)
+2026-06-18 08:31:13  INFO       ✓ 완료: https://rss.blog.naver.com/sabids.xml (0개 확보)
+2026-06-18 08:31:14  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-18 08:31:14  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-18 08:31:14  INFO       ✓ 완료: https://rss.blog.naver.com/nkj2001.xml (0개 확보)
+2026-06-18 08:31:14  INFO       ✓ 완료: http://feeds.feedburner.com/behance/vorr (5개 확보)
+2026-06-18 08:31:15  INFO       ✓ 완료: https://www.andrew-townsend.com/rss/ (0개 확보)
+2026-06-18 08:31:15  INFO       ✓ 완료: https://thenationalgrid.com.au/welcome?format=rss (0개 확보)
+2026-06-18 08:31:15  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-18 08:31:15  INFO       ✓ 완료: https://www.juxtapoz.com/news/?format=feed&type=rss (0개 확보)
+2026-06-18 08:31:15  INFO       ✓ 완료: https://wepresent.wetransfer.com/rss (4개 확보)
+2026-06-18 08:31:15  INFO       ✓ 완료: https://www.creativeboom.com/feed/ (5개 확보)
+2026-06-18 08:31:16  INFO       ✓ 완료: https://www.artinsight.co.kr/rss (5개 확보)
+2026-06-18 08:31:16  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-18 08:31:16  INFO       ✓ 완료: http://www.adim21.co.kr/feed (1개 확보)
+2026-06-18 08:31:16  INFO       ✓ 완료: http://feeds2.feedburner.com/itsnicethat/SlXC (0개 확보)
+2026-06-18 08:31:16  INFO       ✓ 완료: https://thedieline.com/feed/ (5개 확보)
+2026-06-18 08:31:17  INFO       ✓ 완료: https://www.creativebloq.com/feeds.xml (5개 확보)
+2026-06-18 08:31:17  INFO       ✓ 완료: https://www.wallpaper.com/feeds.xml (5개 확보)
+2026-06-18 08:31:17  INFO       ✓ 완료: https://www.thisiscolossal.com/feed/ (5개 확보)
+2026-06-18 08:31:17  INFO       ✓ 완료: https://www.theartnewspaper.com/rss.xml (5개 확보)
+2026-06-18 08:31:18  INFO       ✓ 완료: https://www.fubiz.net/feed/ (0개 확보)
+2026-06-18 08:31:19  INFO       ✓ 완료: https://design-milk.com/feed (5개 확보)
+2026-06-18 08:31:19  WARNING  ⚠ RSS 파싱 실패 (https://art-it.asia/en/feed): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'art-it.asia'. (_ssl.c:1129)>
+2026-06-18 08:31:19  INFO       ✓ 완료: https://art-it.asia/en/feed (0개 확보)
+2026-06-18 08:31:19  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-18 08:31:20  INFO       ✓ 완료: https://adim21.co.kr/wp-content/plugins/kboard/rss.php (0개 확보)
+2026-06-18 08:31:20  INFO       ✓ 완료: https://www.booooooom.com/feed (5개 확보)
+2026-06-18 08:31:20  WARNING  ⚠ RSS 파싱 실패 (https://www.tokyoartbeat.com/rss): HTTP Error 404: Not Found
+2026-06-18 08:31:20  INFO       ✓ 완료: https://www.tokyoartbeat.com/rss (0개 확보)
+2026-06-18 08:31:21  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-18 08:31:21  WARNING  ⚠ RSS 파싱 실패 (https://shotenkenchiku.com/blog/en/feed): HTTP Error 404: Not Found Blog
+2026-06-18 08:31:21  INFO       ✓ 완료: https://shotenkenchiku.com/blog/en/feed (0개 확보)
+2026-06-18 08:31:21  INFO       ✓ 완료: https://adfwebmagazine.jp/en/feed (5개 확보)
+2026-06-18 08:31:22  WARNING  ⚠ RSS 파싱 실패 (http://www.spoon-tamago.com/feed/): HTTP Error 403: Forbidden
+2026-06-18 08:31:22  INFO       ✓ 완료: http://www.spoon-tamago.com/feed/ (0개 확보)
+2026-06-18 08:31:23  INFO       ✓ 완료: http://smadani.com/feed (0개 확보)
+2026-06-18 08:31:23  WARNING  ⚠ RSS 파싱 실패 (https://arquitecturaviva.com/feed): HTTP Error 404: Not Found
+2026-06-18 08:31:23  INFO       ✓ 완료: https://arquitecturaviva.com/feed (0개 확보)
+2026-06-18 08:31:23  WARNING  ⚠ RSS 파싱 실패 (https://shift.jp.org/en/blog/feed): not well-formed (invalid token): line 101, column 73
+2026-06-18 08:31:23  INFO       ✓ 완료: https://shift.jp.org/en/blog/feed (0개 확보)
+2026-06-18 08:31:24  INFO       ✓ 완료: https://www.artforum.com/feed/rss/ (5개 확보)
+2026-06-18 08:31:24  INFO       ✓ 완료: https://idea-mag.com/feed/ (0개 확보)
+2026-06-18 08:31:26  INFO       ✓ 완료: https://veryprivategallery.com/feed (0개 확보)
+2026-06-18 08:31:26  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-18 08:31:26  INFO       ✓ 완료: https://designspotter.com/feed/ (0개 확보)
+2026-06-18 08:31:26  INFO       ✓ 완료: https://streetartbcn.com/feed (0개 확보)
+2026-06-18 08:31:26  INFO       ✓ 완료: https://artaurea.com/feed/ (0개 확보)
+2026-06-18 08:31:27  INFO       ✓ 완료: https://archzine.net/feed/ (1개 확보)
+2026-06-18 08:31:28  INFO       ✓ 완료: https://www.artribune.com/feed/ (5개 확보)
+2026-06-18 08:31:29  INFO       ✓ 완료: https://italydreamdesign.com/en/feed/ (0개 확보)
+2026-06-18 08:31:30  INFO       ✓ 완료: https://www.theartwolf.com/feed/ (1개 확보)
+2026-06-18 08:31:30  INFO       ✓ 완료: https://www.slanted.de/feed/ (5개 확보)
+2026-06-18 08:31:32  INFO       ✓ 완료: https://www.arte.it/rss/feed_notizie.php (5개 확보)
+2026-06-18 08:31:35  INFO       ✓ 완료: https://www.berlinartlink.com/feed/ (5개 확보)
+2026-06-18 08:31:42  INFO       ✓ 완료: https://baseelements.net/blog/feed (0개 확보)
+2026-06-18 08:31:50  INFO       ✓ 완료: https://picamemag.com/feed/ (0개 확보)
+2026-06-18 08:31:50  INFO     ✓ 총 140개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-18 08:32:45  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-18 08:32:45  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-18 08:32:48  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-18 08:32:48  INFO     ✓ 일일 데이터 및 manifest 저장 완료
+2026-06-18 08:32:48  INFO     ✅ 파이프라인 전체 완료! GitHub Pages로 자동 배포를 시작합니다...
+2026-06-19 08:30:02  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-19 08:30:02  INFO     ▶ 북마크 자동 업데이트 및 자율형 신규 RSS 발굴 에이전트 가동...
+2026-06-19 08:30:49  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-19 08:31:01  INFO     📡 85개 매체에서 병렬 수집 에이전트 시작...
+2026-06-19 08:31:02  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-19 08:31:02  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-19 08:31:02  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-19 08:31:02  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-19 08:31:02  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-19 08:31:02  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-19 08:31:02  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-19 08:31:02  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-19 08:31:03  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-19 08:31:03  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-19 08:31:03  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-19 08:31:03  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-19 08:31:03  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-19 08:31:03  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-19 08:31:03  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (2개 확보)
+2026-06-19 08:31:04  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-19 08:31:04  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-19 08:31:04  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-19 08:31:04  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-19 08:31:04  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-19 08:31:04  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-19 08:31:05  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-19 08:31:05  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-19 08:31:05  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-19 08:31:05  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-19 08:31:05  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-19 08:31:05  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-19 08:31:06  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-19 08:31:06  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-19 08:31:07  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-19 08:31:07  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-19 08:31:07  INFO       ✓ 완료: https://rss.blog.naver.com/justina75.xml (5개 확보)
+2026-06-19 08:31:07  INFO       ✓ 완료: http://graymonster.tistory.com/feed (0개 확보)
+2026-06-19 08:31:08  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-19 08:31:08  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-19 08:31:08  WARNING  ⚠ RSS 파싱 실패 (https://blog.naver.com/feed): not well-formed (invalid token): line 3, column 52
+2026-06-19 08:31:08  INFO       ✓ 완료: https://blog.naver.com/feed (0개 확보)
+2026-06-19 08:31:08  INFO       ✓ 완료: https://rss.blog.naver.com/damwon.xml (0개 확보)
+2026-06-19 08:31:08  INFO       ✓ 완료: https://rss.blog.naver.com/sabids.xml (0개 확보)
+2026-06-19 08:31:08  INFO       ✓ 완료: https://rss.blog.naver.com/nkj2001.xml (0개 확보)
+2026-06-19 08:31:08  INFO       ✓ 완료: https://www.andrew-townsend.com/rss/ (0개 확보)
+2026-06-19 08:31:09  INFO       ✓ 완료: http://feeds.feedburner.com/behance/vorr (5개 확보)
+2026-06-19 08:31:09  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-19 08:31:09  INFO       ✓ 완료: https://thenationalgrid.com.au/welcome?format=rss (0개 확보)
+2026-06-19 08:31:09  INFO       ✓ 완료: https://www.juxtapoz.com/news/?format=feed&type=rss (0개 확보)
+2026-06-19 08:31:10  INFO       ✓ 완료: https://www.creativeboom.com/feed/ (5개 확보)
+2026-06-19 08:31:10  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-19 08:31:10  INFO       ✓ 완료: https://wepresent.wetransfer.com/rss (4개 확보)
+2026-06-19 08:31:10  INFO       ✓ 완료: https://www.artinsight.co.kr/rss (5개 확보)
+2026-06-19 08:31:11  INFO       ✓ 완료: http://feeds2.feedburner.com/itsnicethat/SlXC (0개 확보)
+2026-06-19 08:31:11  INFO       ✓ 완료: http://www.adim21.co.kr/feed (1개 확보)
+2026-06-19 08:31:11  INFO       ✓ 완료: https://thedieline.com/feed/ (5개 확보)
+2026-06-19 08:31:11  INFO       ✓ 완료: https://www.wallpaper.com/feeds.xml (5개 확보)
+2026-06-19 08:31:11  INFO       ✓ 완료: https://www.creativebloq.com/feeds.xml (5개 확보)
+2026-06-19 08:31:12  INFO       ✓ 완료: https://www.thisiscolossal.com/feed/ (5개 확보)
+2026-06-19 08:31:12  INFO       ✓ 완료: https://www.theartnewspaper.com/rss.xml (5개 확보)
+2026-06-19 08:31:12  INFO       ✓ 완료: https://www.fubiz.net/feed/ (0개 확보)
+2026-06-19 08:31:14  INFO       ✓ 완료: https://adim21.co.kr/wp-content/plugins/kboard/rss.php (0개 확보)
+2026-06-19 08:31:14  INFO       ✓ 완료: https://www.booooooom.com/feed (5개 확보)
+2026-06-19 08:31:14  INFO       ✓ 완료: https://design-milk.com/feed (5개 확보)
+2026-06-19 08:31:14  WARNING  ⚠ RSS 파싱 실패 (https://art-it.asia/en/feed): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'art-it.asia'. (_ssl.c:1129)>
+2026-06-19 08:31:14  INFO       ✓ 완료: https://art-it.asia/en/feed (0개 확보)
+2026-06-19 08:31:14  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-19 08:31:15  WARNING  ⚠ RSS 파싱 실패 (https://shotenkenchiku.com/blog/en/feed): HTTP Error 404: Not Found Blog
+2026-06-19 08:31:15  INFO       ✓ 완료: https://shotenkenchiku.com/blog/en/feed (0개 확보)
+2026-06-19 08:31:15  WARNING  ⚠ RSS 파싱 실패 (https://www.tokyoartbeat.com/rss): HTTP Error 404: Not Found
+2026-06-19 08:31:15  INFO       ✓ 완료: https://www.tokyoartbeat.com/rss (0개 확보)
+2026-06-19 08:31:16  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-19 08:31:16  WARNING  ⚠ RSS 파싱 실패 (http://www.spoon-tamago.com/feed/): HTTP Error 403: Forbidden
+2026-06-19 08:31:16  INFO       ✓ 완료: http://www.spoon-tamago.com/feed/ (0개 확보)
+2026-06-19 08:31:17  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-19 08:31:17  INFO       ✓ 완료: http://smadani.com/feed (0개 확보)
+2026-06-19 08:31:17  INFO       ✓ 완료: https://adfwebmagazine.jp/en/feed (5개 확보)
+2026-06-19 08:31:18  WARNING  ⚠ RSS 파싱 실패 (https://arquitecturaviva.com/feed): HTTP Error 404: Not Found
+2026-06-19 08:31:18  INFO       ✓ 완료: https://arquitecturaviva.com/feed (0개 확보)
+2026-06-19 08:31:18  WARNING  ⚠ RSS 파싱 실패 (https://shift.jp.org/en/blog/feed): not well-formed (invalid token): line 101, column 73
+2026-06-19 08:31:18  INFO       ✓ 완료: https://shift.jp.org/en/blog/feed (0개 확보)
+2026-06-19 08:31:19  INFO       ✓ 완료: https://idea-mag.com/feed/ (0개 확보)
+2026-06-19 08:31:19  INFO       ✓ 완료: https://designspotter.com/feed/ (0개 확보)
+2026-06-19 08:31:20  INFO       ✓ 완료: https://www.artforum.com/feed/rss/ (5개 확보)
+2026-06-19 08:31:20  INFO       ✓ 완료: https://artaurea.com/feed/ (0개 확보)
+2026-06-19 08:31:21  INFO       ✓ 완료: https://streetartbcn.com/feed (0개 확보)
+2026-06-19 08:31:21  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-19 08:31:22  INFO       ✓ 완료: https://veryprivategallery.com/feed (0개 확보)
+2026-06-19 08:31:22  INFO       ✓ 완료: https://archzine.net/feed/ (1개 확보)
+2026-06-19 08:31:23  INFO       ✓ 완료: https://www.artribune.com/feed/ (5개 확보)
+2026-06-19 08:31:24  INFO       ✓ 완료: https://italydreamdesign.com/en/feed/ (0개 확보)
+2026-06-19 08:31:25  INFO       ✓ 완료: https://www.arte.it/rss/feed_notizie.php (5개 확보)
+2026-06-19 08:31:27  INFO       ✓ 완료: https://www.slanted.de/feed/ (5개 확보)
+2026-06-19 08:31:29  INFO       ✓ 완료: https://www.berlinartlink.com/feed/ (5개 확보)
+2026-06-19 08:31:33  INFO       ✓ 완료: https://eyeondesign.aiga.org/feed (0개 확보)
+2026-06-19 08:31:36  INFO       ✓ 완료: https://baseelements.net/blog/feed (0개 확보)
+2026-06-19 08:31:39  INFO       ✓ 완료: https://www.theartwolf.com/feed/ (1개 확보)
+2026-06-19 08:31:49  INFO       ✓ 완료: https://picamemag.com/feed/ (0개 확보)
+2026-06-19 08:31:49  INFO     ✓ 총 154개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-19 08:32:30  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-19 08:32:30  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-19 08:32:32  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-19 08:32:32  INFO     ✓ 일일 데이터 및 manifest 저장 완료
+2026-06-19 08:32:32  INFO     ✅ 파이프라인 전체 완료! GitHub Pages로 자동 배포를 시작합니다...
+2026-06-20 08:30:05  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-20 08:30:05  INFO     ▶ 북마크 자동 업데이트 및 자율형 신규 RSS 발굴 에이전트 가동...
+2026-06-20 08:30:59  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-20 08:31:08  INFO     📡 85개 매체에서 병렬 수집 에이전트 시작...
+2026-06-20 08:31:09  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-20 08:31:09  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): syntax error: line 1, column 0
+2026-06-20 08:31:09  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-20 08:31:09  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-20 08:31:09  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-20 08:31:09  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-20 08:31:09  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-20 08:31:09  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-20 08:31:09  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-20 08:31:10  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-20 08:31:10  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-20 08:31:10  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-20 08:31:10  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-20 08:31:10  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-20 08:31:10  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-20 08:31:11  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-20 08:31:11  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-20 08:31:11  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-20 08:31:11  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-20 08:31:11  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-20 08:31:12  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-20 08:31:12  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-20 08:31:12  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-20 08:31:12  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-20 08:31:13  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-20 08:31:13  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-20 08:31:13  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (2개 확보)
+2026-06-20 08:31:13  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-20 08:31:13  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-20 08:31:13  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-20 08:31:14  INFO       ✓ 완료: https://rss.blog.naver.com/damwon.xml (0개 확보)
+2026-06-20 08:31:14  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-20 08:31:14  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-20 08:31:14  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-20 08:31:14  INFO       ✓ 완료: https://rss.blog.naver.com/justina75.xml (5개 확보)
+2026-06-20 08:31:14  INFO       ✓ 완료: http://graymonster.tistory.com/feed (0개 확보)
+2026-06-20 08:31:14  WARNING  ⚠ RSS 파싱 실패 (https://blog.naver.com/feed): not well-formed (invalid token): line 3, column 52
+2026-06-20 08:31:14  INFO       ✓ 완료: https://blog.naver.com/feed (0개 확보)
+2026-06-20 08:31:14  INFO       ✓ 완료: https://rss.blog.naver.com/sabids.xml (0개 확보)
+2026-06-20 08:31:14  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-20 08:31:14  INFO       ✓ 완료: https://rss.blog.naver.com/nkj2001.xml (0개 확보)
+2026-06-20 08:31:15  INFO       ✓ 완료: http://feeds.feedburner.com/behance/vorr (5개 확보)
+2026-06-20 08:31:15  INFO       ✓ 완료: https://www.andrew-townsend.com/rss/ (0개 확보)
+2026-06-20 08:31:15  INFO       ✓ 완료: https://thenationalgrid.com.au/welcome?format=rss (0개 확보)
+2026-06-20 08:31:16  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-20 08:31:17  INFO       ✓ 완료: https://www.juxtapoz.com/news/?format=feed&type=rss (0개 확보)
+2026-06-20 08:31:17  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-20 08:31:17  INFO       ✓ 완료: https://www.creativeboom.com/feed/ (5개 확보)
+2026-06-20 08:31:17  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-20 08:31:17  INFO       ✓ 완료: https://www.artinsight.co.kr/rss (5개 확보)
+2026-06-20 08:31:18  INFO       ✓ 완료: http://feeds2.feedburner.com/itsnicethat/SlXC (0개 확보)
+2026-06-20 08:31:18  INFO       ✓ 완료: http://www.adim21.co.kr/feed (1개 확보)
+2026-06-20 08:31:18  INFO       ✓ 완료: https://wepresent.wetransfer.com/rss (4개 확보)
+2026-06-20 08:31:18  INFO       ✓ 완료: https://thedieline.com/feed/ (5개 확보)
+2026-06-20 08:31:18  INFO       ✓ 완료: https://www.wallpaper.com/feeds.xml (5개 확보)
+2026-06-20 08:31:18  INFO       ✓ 완료: https://www.creativebloq.com/feeds.xml (5개 확보)
+2026-06-20 08:31:19  INFO       ✓ 완료: https://www.thisiscolossal.com/feed/ (5개 확보)
+2026-06-20 08:31:19  INFO       ✓ 완료: https://www.theartnewspaper.com/rss.xml (5개 확보)
+2026-06-20 08:31:19  INFO       ✓ 완료: https://www.fubiz.net/feed/ (0개 확보)
+2026-06-20 08:31:20  INFO       ✓ 완료: https://www.booooooom.com/feed (5개 확보)
+2026-06-20 08:31:20  INFO       ✓ 완료: https://design-milk.com/feed (5개 확보)
+2026-06-20 08:31:21  WARNING  ⚠ RSS 파싱 실패 (https://art-it.asia/en/feed): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'art-it.asia'. (_ssl.c:1129)>
+2026-06-20 08:31:21  INFO       ✓ 완료: https://art-it.asia/en/feed (0개 확보)
+2026-06-20 08:31:21  INFO       ✓ 완료: https://adim21.co.kr/wp-content/plugins/kboard/rss.php (0개 확보)
+2026-06-20 08:31:21  WARNING  ⚠ RSS 파싱 실패 (https://shotenkenchiku.com/blog/en/feed): HTTP Error 404: Not Found Blog
+2026-06-20 08:31:21  INFO       ✓ 완료: https://shotenkenchiku.com/blog/en/feed (0개 확보)
+2026-06-20 08:31:21  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-20 08:31:22  WARNING  ⚠ RSS 파싱 실패 (https://www.tokyoartbeat.com/rss): HTTP Error 404: Not Found
+2026-06-20 08:31:22  INFO       ✓ 완료: https://www.tokyoartbeat.com/rss (0개 확보)
+2026-06-20 08:31:23  INFO       ✓ 완료: https://adfwebmagazine.jp/en/feed (5개 확보)
+2026-06-20 08:31:23  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-20 08:31:23  WARNING  ⚠ RSS 파싱 실패 (http://www.spoon-tamago.com/feed/): HTTP Error 403: Forbidden
+2026-06-20 08:31:23  INFO       ✓ 완료: http://www.spoon-tamago.com/feed/ (0개 확보)
+2026-06-20 08:31:24  INFO       ✓ 완료: http://smadani.com/feed (0개 확보)
+2026-06-20 08:31:24  WARNING  ⚠ RSS 파싱 실패 (https://shift.jp.org/en/blog/feed): not well-formed (invalid token): line 101, column 73
+2026-06-20 08:31:24  INFO       ✓ 완료: https://shift.jp.org/en/blog/feed (0개 확보)
+2026-06-20 08:31:24  INFO       ✓ 완료: https://www.artforum.com/feed/rss/ (5개 확보)
+2026-06-20 08:31:25  WARNING  ⚠ RSS 파싱 실패 (https://arquitecturaviva.com/feed): HTTP Error 404: Not Found
+2026-06-20 08:31:25  INFO       ✓ 완료: https://arquitecturaviva.com/feed (0개 확보)
+2026-06-20 08:31:25  INFO       ✓ 완료: https://idea-mag.com/feed/ (0개 확보)
+2026-06-20 08:31:25  INFO       ✓ 완료: https://designspotter.com/feed/ (0개 확보)
+2026-06-20 08:31:26  INFO       ✓ 완료: https://streetartbcn.com/feed (0개 확보)
+2026-06-20 08:31:27  INFO       ✓ 완료: https://artaurea.com/feed/ (0개 확보)
+2026-06-20 08:31:27  INFO       ✓ 완료: https://veryprivategallery.com/feed (0개 확보)
+2026-06-20 08:31:27  INFO       ✓ 완료: https://archzine.net/feed/ (1개 확보)
+2026-06-20 08:31:28  INFO       ✓ 완료: https://www.artribune.com/feed/ (5개 확보)
+2026-06-20 08:31:29  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-20 08:31:30  INFO       ✓ 완료: https://www.arte.it/rss/feed_notizie.php (5개 확보)
+2026-06-20 08:31:30  INFO       ✓ 완료: https://italydreamdesign.com/en/feed/ (0개 확보)
+2026-06-20 08:31:31  INFO       ✓ 완료: https://www.theartwolf.com/feed/ (1개 확보)
+2026-06-20 08:31:32  INFO       ✓ 완료: https://www.slanted.de/feed/ (5개 확보)
+2026-06-20 08:31:36  INFO       ✓ 완료: https://www.berlinartlink.com/feed/ (5개 확보)
+2026-06-20 08:31:39  INFO       ✓ 완료: https://eyeondesign.aiga.org/feed (0개 확보)
+2026-06-20 08:31:43  INFO       ✓ 완료: https://baseelements.net/blog/feed (0개 확보)
+2026-06-20 08:31:49  INFO       ✓ 완료: https://picamemag.com/feed/ (0개 확보)
+2026-06-20 08:31:49  INFO     ✓ 총 148개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-20 08:32:33  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-20 08:32:33  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-20 08:32:35  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-20 08:32:35  INFO     ✓ 일일 데이터 및 manifest 저장 완료
+2026-06-20 08:32:35  INFO     ✅ 파이프라인 전체 완료! GitHub Pages로 자동 배포를 시작합니다...
+2026-06-21 08:30:04  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-21 08:30:04  INFO     ▶ 북마크 자동 업데이트 및 자율형 신규 RSS 발굴 에이전트 가동...
+2026-06-21 08:30:49  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-21 08:30:53  INFO     📡 85개 매체에서 병렬 수집 에이전트 시작...
+2026-06-21 08:30:53  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-21 08:30:53  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-21 08:30:54  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): syntax error: line 1, column 0
+2026-06-21 08:30:54  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-21 08:30:54  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-21 08:30:54  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-21 08:30:54  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-21 08:30:54  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-21 08:30:54  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-21 08:30:54  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-21 08:30:54  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-21 08:30:54  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-21 08:30:55  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-21 08:30:55  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-21 08:30:55  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-21 08:30:55  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-21 08:30:55  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-21 08:30:55  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-21 08:30:56  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-21 08:30:56  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-21 08:30:56  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-21 08:30:56  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-21 08:30:57  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-21 08:30:57  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-21 08:30:57  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-21 08:30:57  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-21 08:30:57  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (2개 확보)
+2026-06-21 08:30:58  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-21 08:30:58  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-21 08:30:58  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-21 08:30:58  INFO       ✓ 완료: https://rss.blog.naver.com/damwon.xml (0개 확보)
+2026-06-21 08:30:58  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-21 08:30:58  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-21 08:30:59  INFO       ✓ 완료: https://rss.blog.naver.com/justina75.xml (5개 확보)
+2026-06-21 08:30:59  INFO       ✓ 완료: http://graymonster.tistory.com/feed (0개 확보)
+2026-06-21 08:30:59  WARNING  ⚠ RSS 파싱 실패 (https://blog.naver.com/feed): not well-formed (invalid token): line 3, column 52
+2026-06-21 08:30:59  INFO       ✓ 완료: https://blog.naver.com/feed (0개 확보)
+2026-06-21 08:30:59  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-21 08:30:59  INFO       ✓ 완료: https://rss.blog.naver.com/sabids.xml (0개 확보)
+2026-06-21 08:30:59  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-21 08:30:59  INFO       ✓ 완료: https://rss.blog.naver.com/nkj2001.xml (0개 확보)
+2026-06-21 08:31:00  INFO       ✓ 완료: http://feeds.feedburner.com/behance/vorr (5개 확보)
+2026-06-21 08:31:00  INFO       ✓ 완료: https://www.andrew-townsend.com/rss/ (0개 확보)
+2026-06-21 08:31:00  INFO       ✓ 완료: https://thenationalgrid.com.au/welcome?format=rss (0개 확보)
+2026-06-21 08:31:00  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-21 08:31:01  INFO       ✓ 완료: https://www.juxtapoz.com/news/?format=feed&type=rss (0개 확보)
+2026-06-21 08:31:01  INFO       ✓ 완료: https://www.creativeboom.com/feed/ (5개 확보)
+2026-06-21 08:31:01  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-21 08:31:02  INFO       ✓ 완료: https://www.artinsight.co.kr/rss (5개 확보)
+2026-06-21 08:31:02  INFO       ✓ 완료: https://wepresent.wetransfer.com/rss (4개 확보)
+2026-06-21 08:31:02  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-21 08:31:02  INFO       ✓ 완료: https://thedieline.com/feed/ (5개 확보)
+2026-06-21 08:31:02  INFO       ✓ 완료: http://feeds2.feedburner.com/itsnicethat/SlXC (0개 확보)
+2026-06-21 08:31:03  INFO       ✓ 완료: http://www.adim21.co.kr/feed (1개 확보)
+2026-06-21 08:31:03  INFO       ✓ 완료: https://www.creativebloq.com/feeds.xml (5개 확보)
+2026-06-21 08:31:03  INFO       ✓ 완료: https://www.wallpaper.com/feeds.xml (5개 확보)
+2026-06-21 08:31:03  INFO       ✓ 완료: https://www.thisiscolossal.com/feed/ (5개 확보)
+2026-06-21 08:31:03  INFO       ✓ 완료: https://www.theartnewspaper.com/rss.xml (5개 확보)
+2026-06-21 08:31:04  INFO       ✓ 완료: https://www.fubiz.net/feed/ (0개 확보)
+2026-06-21 08:31:04  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-21 08:31:04  WARNING  ⚠ RSS 파싱 실패 (https://art-it.asia/en/feed): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'art-it.asia'. (_ssl.c:1129)>
+2026-06-21 08:31:04  INFO       ✓ 완료: https://art-it.asia/en/feed (0개 확보)
+2026-06-21 08:31:05  INFO       ✓ 완료: https://www.booooooom.com/feed (5개 확보)
+2026-06-21 08:31:05  INFO       ✓ 완료: https://design-milk.com/feed (5개 확보)
+2026-06-21 08:31:05  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-21 08:31:06  WARNING  ⚠ RSS 파싱 실패 (https://shotenkenchiku.com/blog/en/feed): HTTP Error 404: Not Found Blog
+2026-06-21 08:31:06  INFO       ✓ 완료: https://shotenkenchiku.com/blog/en/feed (0개 확보)
+2026-06-21 08:31:06  WARNING  ⚠ RSS 파싱 실패 (https://www.tokyoartbeat.com/rss): HTTP Error 404: Not Found
+2026-06-21 08:31:06  INFO       ✓ 완료: https://www.tokyoartbeat.com/rss (0개 확보)
+2026-06-21 08:31:06  INFO       ✓ 완료: https://adfwebmagazine.jp/en/feed (5개 확보)
+2026-06-21 08:31:07  WARNING  ⚠ RSS 파싱 실패 (http://www.spoon-tamago.com/feed/): HTTP Error 403: Forbidden
+2026-06-21 08:31:07  INFO       ✓ 완료: http://www.spoon-tamago.com/feed/ (0개 확보)
+2026-06-21 08:31:07  INFO       ✓ 완료: http://smadani.com/feed (0개 확보)
+2026-06-21 08:31:07  INFO       ✓ 완료: https://adim21.co.kr/wp-content/plugins/kboard/rss.php (0개 확보)
+2026-06-21 08:31:08  INFO       ✓ 완료: https://www.artforum.com/feed/rss/ (5개 확보)
+2026-06-21 08:31:08  WARNING  ⚠ RSS 파싱 실패 (https://arquitecturaviva.com/feed): HTTP Error 404: Not Found
+2026-06-21 08:31:08  WARNING  ⚠ RSS 파싱 실패 (https://shift.jp.org/en/blog/feed): not well-formed (invalid token): line 101, column 73
+2026-06-21 08:31:08  INFO       ✓ 완료: https://arquitecturaviva.com/feed (0개 확보)
+2026-06-21 08:31:08  INFO       ✓ 완료: https://shift.jp.org/en/blog/feed (0개 확보)
+2026-06-21 08:31:08  WARNING  ⚠ RSS 파싱 실패 (https://www.theartwolf.com/feed/): HTTP Error 429: Too Many Requests
+2026-06-21 08:31:08  INFO       ✓ 완료: https://www.theartwolf.com/feed/ (0개 확보)
+2026-06-21 08:31:09  INFO       ✓ 완료: https://idea-mag.com/feed/ (0개 확보)
+2026-06-21 08:31:10  INFO       ✓ 완료: https://designspotter.com/feed/ (0개 확보)
+2026-06-21 08:31:10  INFO       ✓ 완료: https://streetartbcn.com/feed (0개 확보)
+2026-06-21 08:31:11  INFO       ✓ 완료: https://artaurea.com/feed/ (0개 확보)
+2026-06-21 08:31:11  INFO       ✓ 완료: https://archzine.net/feed/ (1개 확보)
+2026-06-21 08:31:11  INFO       ✓ 완료: https://veryprivategallery.com/feed (0개 확보)
+2026-06-21 08:31:12  INFO       ✓ 완료: https://www.artribune.com/feed/ (5개 확보)
+2026-06-21 08:31:13  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-21 08:31:13  INFO       ✓ 완료: https://italydreamdesign.com/en/feed/ (0개 확보)
+2026-06-21 08:31:14  INFO       ✓ 완료: https://www.arte.it/rss/feed_notizie.php (5개 확보)
+2026-06-21 08:31:17  INFO       ✓ 완료: https://www.slanted.de/feed/ (5개 확보)
+2026-06-21 08:31:19  INFO       ✓ 완료: https://www.berlinartlink.com/feed/ (5개 확보)
+2026-06-21 08:31:22  INFO       ✓ 완료: https://eyeondesign.aiga.org/feed (0개 확보)
+2026-06-21 08:31:28  INFO       ✓ 완료: https://baseelements.net/blog/feed (0개 확보)
+2026-06-21 08:31:35  INFO       ✓ 완료: https://picamemag.com/feed/ (0개 확보)
+2026-06-21 08:31:35  INFO     ✓ 총 139개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-21 08:32:14  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-21 08:32:14  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-21 08:32:17  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-21 08:32:17  INFO     ✓ 일일 데이터 및 manifest 저장 완료
+2026-06-21 08:32:17  INFO     ✅ 파이프라인 전체 완료! GitHub Pages로 자동 배포를 시작합니다...
+2026-06-22 08:30:25  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-22 08:30:25  INFO     ▶ 북마크 자동 업데이트 및 자율형 신규 RSS 발굴 에이전트 가동...
+2026-06-22 08:32:11  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 08:32:17  INFO     📡 86개 매체에서 병렬 수집 에이전트 시작...
+2026-06-22 08:32:18  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-22 08:32:18  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-22 08:32:18  WARNING  ⚠ RSS 파싱 실패 (https://feeds.feedburner.com/ProductionParadiseMembersFeed): syntax error: line 1, column 0
+2026-06-22 08:32:18  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (0개 확보)
+2026-06-22 08:32:19  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-22 08:32:19  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-22 08:32:19  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-22 08:32:19  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-22 08:32:19  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-22 08:32:19  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-22 08:32:19  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-22 08:32:19  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-22 08:32:20  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-22 08:32:20  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-22 08:32:20  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-22 08:32:20  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-22 08:32:20  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-22 08:32:20  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-22 08:32:21  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-22 08:32:21  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-22 08:32:21  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-22 08:32:22  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-22 08:32:22  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-22 08:32:22  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-22 08:32:22  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-22 08:32:22  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-22 08:32:22  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-22 08:32:23  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-22 08:32:23  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (2개 확보)
+2026-06-22 08:32:23  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-22 08:32:24  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-22 08:32:24  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-22 08:32:24  INFO       ✓ 완료: https://rss.blog.naver.com/damwon.xml (0개 확보)
+2026-06-22 08:32:24  INFO       ✓ 완료: https://rss.blog.naver.com/justina75.xml (5개 확보)
+2026-06-22 08:32:24  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-22 08:32:24  INFO       ✓ 완료: http://graymonster.tistory.com/feed (0개 확보)
+2026-06-22 08:32:24  WARNING  ⚠ RSS 파싱 실패 (https://blog.naver.com/feed): not well-formed (invalid token): line 3, column 52
+2026-06-22 08:32:24  INFO       ✓ 완료: https://blog.naver.com/feed (0개 확보)
+2026-06-22 08:32:24  INFO       ✓ 완료: https://rss.blog.naver.com/sabids.xml (0개 확보)
+2026-06-22 08:32:24  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-22 08:32:24  INFO       ✓ 완료: https://rss.blog.naver.com/nkj2001.xml (0개 확보)
+2026-06-22 08:32:25  INFO       ✓ 완료: http://feeds.feedburner.com/behance/vorr (5개 확보)
+2026-06-22 08:32:25  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-22 08:32:25  INFO       ✓ 완료: https://www.andrew-townsend.com/rss/ (0개 확보)
+2026-06-22 08:32:25  INFO       ✓ 완료: https://thenationalgrid.com.au/welcome?format=rss (0개 확보)
+2026-06-22 08:32:25  INFO       ✓ 완료: https://www.juxtapoz.com/news/?format=feed&type=rss (0개 확보)
+2026-06-22 08:32:26  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-22 08:32:26  INFO       ✓ 완료: https://www.creativeboom.com/feed/ (5개 확보)
+2026-06-22 08:32:26  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-22 08:32:26  INFO       ✓ 완료: https://www.artinsight.co.kr/rss (5개 확보)
+2026-06-22 08:32:26  INFO       ✓ 완료: https://wepresent.wetransfer.com/rss (4개 확보)
+2026-06-22 08:32:27  INFO       ✓ 완료: https://thedieline.com/feed/ (5개 확보)
+2026-06-22 08:32:27  INFO       ✓ 완료: http://feeds2.feedburner.com/itsnicethat/SlXC (0개 확보)
+2026-06-22 08:32:27  INFO       ✓ 완료: https://www.wallpaper.com/feeds.xml (5개 확보)
+2026-06-22 08:32:27  INFO       ✓ 완료: http://www.adim21.co.kr/feed (1개 확보)
+2026-06-22 08:32:27  INFO       ✓ 완료: https://www.creativebloq.com/feeds.xml (5개 확보)
+2026-06-22 08:32:27  INFO       ✓ 완료: https://www.thisiscolossal.com/feed/ (5개 확보)
+2026-06-22 08:32:28  INFO       ✓ 완료: https://www.theartnewspaper.com/rss.xml (5개 확보)
+2026-06-22 08:32:28  INFO       ✓ 완료: https://www.fubiz.net/feed/ (0개 확보)
+2026-06-22 08:32:29  INFO       ✓ 완료: https://www.booooooom.com/feed (5개 확보)
+2026-06-22 08:32:29  WARNING  ⚠ RSS 파싱 실패 (https://art-it.asia/en/feed): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'art-it.asia'. (_ssl.c:1129)>
+2026-06-22 08:32:29  INFO       ✓ 완료: https://art-it.asia/en/feed (0개 확보)
+2026-06-22 08:32:29  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-22 08:32:29  INFO       ✓ 완료: https://design-milk.com/feed (5개 확보)
+2026-06-22 08:32:30  WARNING  ⚠ RSS 파싱 실패 (https://shotenkenchiku.com/blog/en/feed): HTTP Error 404: Not Found Blog
+2026-06-22 08:32:30  INFO       ✓ 완료: https://shotenkenchiku.com/blog/en/feed (0개 확보)
+2026-06-22 08:32:30  WARNING  ⚠ RSS 파싱 실패 (https://www.tokyoartbeat.com/rss): HTTP Error 404: Not Found
+2026-06-22 08:32:30  INFO       ✓ 완료: https://www.tokyoartbeat.com/rss (0개 확보)
+2026-06-22 08:32:30  INFO       ✓ 완료: https://adfwebmagazine.jp/en/feed (5개 확보)
+2026-06-22 08:32:31  INFO       ✓ 완료: https://adim21.co.kr/wp-content/plugins/kboard/rss.php (0개 확보)
+2026-06-22 08:32:31  WARNING  ⚠ RSS 파싱 실패 (http://www.spoon-tamago.com/feed/): HTTP Error 403: Forbidden
+2026-06-22 08:32:31  INFO       ✓ 완료: http://www.spoon-tamago.com/feed/ (0개 확보)
+2026-06-22 08:32:32  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-22 08:32:32  INFO       ✓ 완료: http://smadani.com/feed (0개 확보)
+2026-06-22 08:32:32  WARNING  ⚠ RSS 파싱 실패 (https://shift.jp.org/en/blog/feed): not well-formed (invalid token): line 101, column 73
+2026-06-22 08:32:32  INFO       ✓ 완료: https://shift.jp.org/en/blog/feed (0개 확보)
+2026-06-22 08:32:33  WARNING  ⚠ RSS 파싱 실패 (https://arquitecturaviva.com/feed): HTTP Error 404: Not Found
+2026-06-22 08:32:33  INFO       ✓ 완료: https://arquitecturaviva.com/feed (0개 확보)
+2026-06-22 08:32:35  INFO       ✓ 완료: https://streetartbcn.com/feed (0개 확보)
+2026-06-22 08:32:35  INFO       ✓ 완료: https://designspotter.com/feed/ (0개 확보)
+2026-06-22 08:32:35  INFO       ✓ 완료: https://idea-mag.com/feed/ (0개 확보)
+2026-06-22 08:32:35  INFO       ✓ 완료: https://opendoors.gallery/feed (0개 확보)
+2026-06-22 08:32:35  INFO       ✓ 완료: https://artaurea.com/feed/ (0개 확보)
+2026-06-22 08:32:36  INFO       ✓ 완료: https://veryprivategallery.com/feed (0개 확보)
+2026-06-22 08:32:37  INFO       ✓ 완료: https://www.artribune.com/feed/ (5개 확보)
+2026-06-22 08:32:38  INFO       ✓ 완료: https://archzine.net/feed/ (0개 확보)
+2026-06-22 08:32:38  INFO       ✓ 완료: https://italydreamdesign.com/en/feed/ (0개 확보)
+2026-06-22 08:32:39  INFO       ✓ 완료: https://www.theartwolf.com/feed/ (1개 확보)
+2026-06-22 08:32:39  INFO       ✓ 완료: https://www.artforum.com/feed/rss/ (5개 확보)
+2026-06-22 08:32:39  INFO       ✓ 완료: https://www.designboom.com/feed (5개 확보)
+2026-06-22 08:32:40  INFO       ✓ 완료: https://www.arte.it/rss/feed_notizie.php (5개 확보)
+2026-06-22 08:32:43  INFO       ✓ 완료: https://www.slanted.de/feed/ (5개 확보)
+2026-06-22 08:32:43  INFO       ✓ 완료: https://www.berlinartlink.com/feed/ (5개 확보)
+2026-06-22 08:34:43  INFO       ✓ 완료: https://baseelements.net/blog/feed (0개 확보)
+2026-06-22 08:34:48  INFO       ✓ 완료: https://eyeondesign.aiga.org/feed (0개 확보)
+2026-06-22 08:35:03  INFO       ✓ 완료: https://picamemag.com/feed/ (0개 확보)
+2026-06-22 08:35:03  INFO     ✓ 총 141개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-22 08:35:32  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 08:35:32  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-22 08:35:34  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-22 08:35:34  INFO     ✓ 일일 데이터 및 manifest 저장 완료
+2026-06-22 08:35:34  INFO     ✅ 파이프라인 전체 완료! GitHub Pages로 자동 배포를 시작합니다...
+2026-06-23 08:30:00  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-23 08:30:00  INFO     ▶ 북마크 자동 업데이트 및 자율형 신규 RSS 발굴 에이전트 가동...
+2026-06-23 08:30:44  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-23 08:30:50  INFO     📡 86개 매체에서 병렬 수집 에이전트 시작...
+2026-06-23 08:30:51  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-23 08:30:51  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-23 08:30:51  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-23 08:30:51  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-23 08:30:51  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-23 08:30:51  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-23 08:30:52  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-23 08:30:52  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-23 08:30:52  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-23 08:30:52  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-23 08:30:53  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-23 08:30:53  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-23 08:30:53  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-23 08:30:53  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-23 08:30:53  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-23 08:30:53  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-23 08:30:53  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-23 08:30:54  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-23 08:30:54  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-23 08:30:54  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-23 08:30:54  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-23 08:30:54  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-23 08:30:54  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-23 08:30:55  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-23 08:30:55  WARNING  ⚠ RSS 파싱 실패 (http://www.designtwoply.com/feed): not well-formed (invalid token): line 1, column 224
+2026-06-23 08:30:55  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-23 08:30:55  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-23 08:30:55  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-23 08:30:55  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (1개 확보)
+2026-06-23 08:30:55  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-23 08:30:56  INFO       ✓ 완료: https://rss.blog.naver.com/damwon.xml (0개 확보)
+2026-06-23 08:30:56  INFO       ✓ 완료: https://rss.blog.naver.com/justina75.xml (5개 확보)
+2026-06-23 08:30:56  INFO       ✓ 완료: http://graymonster.tistory.com/feed (0개 확보)
+2026-06-23 08:30:56  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-23 08:30:56  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-23 08:30:56  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-23 08:30:56  WARNING  ⚠ RSS 파싱 실패 (https://blog.naver.com/feed): not well-formed (invalid token): line 3, column 52
+2026-06-23 08:30:56  INFO       ✓ 완료: https://blog.naver.com/feed (0개 확보)
+2026-06-23 08:30:56  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-23 08:30:56  INFO       ✓ 완료: https://rss.blog.naver.com/sabids.xml (0개 확보)
+2026-06-23 08:30:56  INFO       ✓ 완료: https://rss.blog.naver.com/nkj2001.xml (0개 확보)
+2026-06-23 08:30:57  INFO       ✓ 완료: http://feeds.feedburner.com/behance/vorr (5개 확보)
+2026-06-23 08:30:57  INFO       ✓ 완료: https://thenationalgrid.com.au/welcome?format=rss (0개 확보)
+2026-06-23 08:30:58  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-23 08:30:59  INFO       ✓ 완료: https://www.creativeboom.com/feed/ (5개 확보)
+2026-06-23 08:30:59  INFO       ✓ 완료: https://www.juxtapoz.com/news/?format=feed&type=rss (0개 확보)
+2026-06-23 08:30:59  INFO       ✓ 완료: https://www.andrew-townsend.com/rss/ (0개 확보)
+2026-06-23 08:31:00  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-23 08:31:00  INFO       ✓ 완료: https://www.artinsight.co.kr/rss (5개 확보)
+2026-06-23 08:31:00  INFO       ✓ 완료: https://wepresent.wetransfer.com/rss (1개 확보)
+2026-06-23 08:31:01  INFO       ✓ 완료: http://www.adim21.co.kr/feed (1개 확보)
+2026-06-23 08:31:01  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-23 08:31:01  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-23 08:31:01  INFO       ✓ 완료: http://feeds2.feedburner.com/itsnicethat/SlXC (0개 확보)
+2026-06-23 08:31:01  INFO       ✓ 완료: https://www.creativebloq.com/feeds.xml (5개 확보)
+2026-06-23 08:31:01  INFO       ✓ 완료: https://thedieline.com/feed/ (5개 확보)
+2026-06-23 08:31:01  INFO       ✓ 완료: https://www.thisiscolossal.com/feed/ (5개 확보)
+2026-06-23 08:31:01  INFO       ✓ 완료: https://www.wallpaper.com/feeds.xml (5개 확보)
+2026-06-23 08:31:02  INFO       ✓ 완료: https://www.theartnewspaper.com/rss.xml (5개 확보)
+2026-06-23 08:31:02  INFO       ✓ 완료: https://www.fubiz.net/feed/ (0개 확보)
+2026-06-23 08:31:02  WARNING  ⚠ RSS 파싱 실패 (https://art-it.asia/en/feed): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'art-it.asia'. (_ssl.c:1129)>
+2026-06-23 08:31:02  INFO       ✓ 완료: https://art-it.asia/en/feed (0개 확보)
+2026-06-23 08:31:02  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-23 08:31:03  INFO       ✓ 완료: https://www.booooooom.com/feed (5개 확보)
+2026-06-23 08:31:03  INFO       ✓ 완료: https://adim21.co.kr/wp-content/plugins/kboard/rss.php (0개 확보)
+2026-06-23 08:31:03  WARNING  ⚠ RSS 파싱 실패 (https://www.tokyoartbeat.com/rss): <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2026-06-23 08:31:03  INFO       ✓ 완료: https://www.tokyoartbeat.com/rss (0개 확보)
+2026-06-23 08:31:03  WARNING  ⚠ RSS 파싱 실패 (https://shotenkenchiku.com/blog/en/feed): HTTP Error 404: Not Found Blog
+2026-06-23 08:31:03  INFO       ✓ 완료: https://shotenkenchiku.com/blog/en/feed (0개 확보)
+2026-06-23 08:31:03  INFO       ✓ 완료: https://design-milk.com/feed (5개 확보)
+2026-06-23 08:31:04  INFO       ✓ 완료: https://adfwebmagazine.jp/en/feed (5개 확보)
+2026-06-23 08:31:05  WARNING  ⚠ RSS 파싱 실패 (http://www.spoon-tamago.com/feed/): HTTP Error 403: Forbidden
+2026-06-23 08:31:05  INFO       ✓ 완료: http://www.spoon-tamago.com/feed/ (0개 확보)
+2026-06-23 08:31:05  INFO       ✓ 완료: http://smadani.com/feed (0개 확보)
+2026-06-23 08:31:06  WARNING  ⚠ RSS 파싱 실패 (https://arquitecturaviva.com/feed): HTTP Error 404: Not Found
+2026-06-23 08:31:06  INFO       ✓ 완료: https://arquitecturaviva.com/feed (0개 확보)
+2026-06-23 08:31:06  WARNING  ⚠ RSS 파싱 실패 (https://shift.jp.org/en/blog/feed): not well-formed (invalid token): line 101, column 73
+2026-06-23 08:31:06  INFO       ✓ 완료: https://shift.jp.org/en/blog/feed (0개 확보)
+2026-06-23 08:31:07  INFO       ✓ 완료: https://idea-mag.com/feed/ (0개 확보)
+2026-06-23 08:31:07  INFO       ✓ 완료: https://designspotter.com/feed/ (0개 확보)
+2026-06-23 08:31:07  INFO       ✓ 완료: https://streetartbcn.com/feed (0개 확보)
+2026-06-23 08:31:08  INFO       ✓ 완료: https://artaurea.com/feed/ (0개 확보)
+2026-06-23 08:31:08  INFO       ✓ 완료: https://veryprivategallery.com/feed (0개 확보)
+2026-06-23 08:31:10  INFO       ✓ 완료: https://www.artforum.com/feed/rss/ (5개 확보)
+2026-06-23 08:31:10  INFO       ✓ 완료: https://opendoors.gallery/feed (1개 확보)
+2026-06-23 08:31:10  INFO       ✓ 완료: https://archzine.net/feed/ (0개 확보)
+2026-06-23 08:31:11  INFO       ✓ 완료: https://www.artribune.com/feed/ (5개 확보)
+2026-06-23 08:31:11  INFO       ✓ 완료: https://italydreamdesign.com/en/feed/ (0개 확보)
+2026-06-23 08:31:12  INFO       ✓ 완료: https://www.designboom.com/feed (5개 확보)
+2026-06-23 08:31:12  INFO       ✓ 완료: https://www.arte.it/rss/feed_notizie.php (5개 확보)
+2026-06-23 08:31:12  INFO       ✓ 완료: https://www.theartwolf.com/feed/ (1개 확보)
+2026-06-23 08:31:15  INFO       ✓ 완료: https://www.slanted.de/feed/ (5개 확보)
+2026-06-23 08:31:17  INFO       ✓ 완료: https://www.berlinartlink.com/feed/ (5개 확보)
+2026-06-23 08:31:19  INFO       ✓ 완료: https://baseelements.net/blog/feed (0개 확보)
+2026-06-23 08:31:20  INFO       ✓ 완료: https://eyeondesign.aiga.org/feed (0개 확보)
+2026-06-23 08:31:32  INFO       ✓ 완료: https://picamemag.com/feed/ (0개 확보)
+2026-06-23 08:31:32  INFO     ✓ 총 155개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-23 08:32:03  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-23 08:32:03  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-23 08:32:06  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-23 08:32:06  INFO     ✓ 일일 데이터 및 manifest 저장 완료
+2026-06-23 08:32:06  INFO     ✅ 파이프라인 전체 완료! GitHub Pages로 자동 배포를 시작합니다...
+2026-06-25 19:03:35  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-25 19:03:35  INFO     ▶ 북마크 자동 업데이트 및 자율형 신규 RSS 발굴 에이전트 가동...
+2026-06-25 19:04:28  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-25 19:04:32  INFO     📡 87개 매체에서 병렬 수집 에이전트 시작...
+2026-06-25 19:04:33  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-25 19:04:33  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-25 19:04:33  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-25 19:04:33  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-25 19:04:33  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-25 19:04:33  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-25 19:04:33  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-25 19:04:33  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-25 19:04:34  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-25 19:04:34  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-25 19:04:34  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-25 19:04:35  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-25 19:04:35  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (1개 확보)
+2026-06-25 19:04:35  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-25 19:04:35  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-25 19:04:35  INFO       ✓ 완료: https://www.ignant.com/feed/ (0개 확보)
+2026-06-25 19:04:35  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-25 19:04:35  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-25 19:04:36  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-25 19:04:36  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-25 19:04:36  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-25 19:04:36  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-25 19:04:36  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-25 19:04:36  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-25 19:04:36  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-25 19:04:36  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-25 19:04:37  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-25 19:04:37  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-25 19:04:38  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-25 19:04:38  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-25 19:04:38  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-25 19:04:38  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-25 19:04:38  INFO       ✓ 완료: https://rss.blog.naver.com/justina75.xml (5개 확보)
+2026-06-25 19:04:38  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-25 19:04:38  WARNING  ⚠ RSS 파싱 실패 (https://blog.naver.com/feed): not well-formed (invalid token): line 3, column 52
+2026-06-25 19:04:38  INFO       ✓ 완료: http://graymonster.tistory.com/feed (0개 확보)
+2026-06-25 19:04:38  INFO       ✓ 완료: https://blog.naver.com/feed (0개 확보)
+2026-06-25 19:04:38  INFO       ✓ 완료: https://rss.blog.naver.com/sabids.xml (0개 확보)
+2026-06-25 19:04:38  INFO       ✓ 완료: https://rss.blog.naver.com/damwon.xml (0개 확보)
+2026-06-25 19:04:38  INFO       ✓ 완료: https://rss.blog.naver.com/nkj2001.xml (0개 확보)
+2026-06-25 19:04:38  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-25 19:04:39  INFO       ✓ 완료: http://feeds.feedburner.com/behance/vorr (5개 확보)
+2026-06-25 19:04:39  INFO       ✓ 완료: https://thenationalgrid.com.au/welcome?format=rss (0개 확보)
+2026-06-25 19:04:39  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-25 19:04:40  INFO       ✓ 완료: https://www.juxtapoz.com/news/?format=feed&type=rss (0개 확보)
+2026-06-25 19:04:40  INFO       ✓ 완료: https://www.creativeboom.com/feed/ (5개 확보)
+2026-06-25 19:04:40  INFO       ✓ 완료: https://www.artinsight.co.kr/rss (5개 확보)
+2026-06-25 19:04:40  INFO       ✓ 완료: https://wepresent.wetransfer.com/rss (1개 확보)
+2026-06-25 19:04:41  INFO       ✓ 완료: http://feeds2.feedburner.com/itsnicethat/SlXC (0개 확보)
+2026-06-25 19:04:41  INFO       ✓ 완료: http://www.adim21.co.kr/feed (0개 확보)
+2026-06-25 19:04:42  INFO       ✓ 완료: https://thedieline.com/feed/ (5개 확보)
+2026-06-25 19:04:42  INFO       ✓ 완료: https://www.wallpaper.com/feeds.xml (5개 확보)
+2026-06-25 19:04:42  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-25 19:04:42  INFO       ✓ 완료: https://www.creativebloq.com/feeds.xml (5개 확보)
+2026-06-25 19:04:43  INFO       ✓ 완료: https://www.andrew-townsend.com/rss/ (0개 확보)
+2026-06-25 19:04:43  INFO       ✓ 완료: https://www.thisiscolossal.com/feed/ (5개 확보)
+2026-06-25 19:04:43  INFO       ✓ 완료: https://www.theartnewspaper.com/rss.xml (5개 확보)
+2026-06-25 19:04:43  INFO       ✓ 완료: https://www.fubiz.net/feed/ (0개 확보)
+2026-06-25 19:04:44  INFO       ✓ 완료: https://www.booooooom.com/feed (5개 확보)
+2026-06-25 19:04:44  INFO       ✓ 완료: https://adim21.co.kr/wp-content/plugins/kboard/rss.php (0개 확보)
+2026-06-25 19:04:44  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-25 19:04:44  WARNING  ⚠ RSS 파싱 실패 (https://art-it.asia/en/feed): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'art-it.asia'. (_ssl.c:1129)>
+2026-06-25 19:04:44  INFO       ✓ 완료: https://art-it.asia/en/feed (0개 확보)
+2026-06-25 19:04:45  WARNING  ⚠ RSS 파싱 실패 (https://shotenkenchiku.com/blog/en/feed): HTTP Error 404: Not Found Blog
+2026-06-25 19:04:45  INFO       ✓ 완료: https://shotenkenchiku.com/blog/en/feed (0개 확보)
+2026-06-25 19:04:45  INFO       ✓ 완료: https://adfwebmagazine.jp/en/feed (5개 확보)
+2026-06-25 19:04:45  WARNING  ⚠ RSS 파싱 실패 (https://www.tokyoartbeat.com/rss): HTTP Error 404: Not Found
+2026-06-25 19:04:45  INFO       ✓ 완료: https://www.tokyoartbeat.com/rss (0개 확보)
+2026-06-25 19:04:46  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-25 19:04:46  INFO       ✓ 완료: http://smadani.com/feed (0개 확보)
+2026-06-25 19:04:46  WARNING  ⚠ RSS 파싱 실패 (http://www.spoon-tamago.com/feed/): HTTP Error 403: Forbidden
+2026-06-25 19:04:46  INFO       ✓ 완료: http://www.spoon-tamago.com/feed/ (0개 확보)
+2026-06-25 19:04:47  WARNING  ⚠ RSS 파싱 실패 (https://arquitecturaviva.com/feed): HTTP Error 404: Not Found
+2026-06-25 19:04:47  WARNING  ⚠ RSS 파싱 실패 (https://shift.jp.org/en/blog/feed): not well-formed (invalid token): line 101, column 73
+2026-06-25 19:04:47  INFO       ✓ 완료: https://arquitecturaviva.com/feed (0개 확보)
+2026-06-25 19:04:47  INFO       ✓ 완료: https://shift.jp.org/en/blog/feed (0개 확보)
+2026-06-25 19:04:48  INFO       ✓ 완료: https://idea-mag.com/feed/ (0개 확보)
+2026-06-25 19:04:49  INFO       ✓ 완료: https://designspotter.com/feed/ (0개 확보)
+2026-06-25 19:04:49  INFO       ✓ 완료: https://streetartbcn.com/feed (0개 확보)
+2026-06-25 19:04:50  INFO       ✓ 완료: https://veryprivategallery.com/feed (0개 확보)
+2026-06-25 19:04:51  INFO       ✓ 완료: https://artaurea.com/feed/ (0개 확보)
+2026-06-25 19:04:51  INFO       ✓ 완료: https://www.artforum.com/feed/rss/ (5개 확보)
+2026-06-25 19:04:51  INFO       ✓ 완료: https://opendoors.gallery/feed (1개 확보)
+2026-06-25 19:04:52  INFO       ✓ 완료: https://archzine.net/feed/ (0개 확보)
+2026-06-25 19:04:53  INFO       ✓ 완료: https://www.artribune.com/feed/ (5개 확보)
+2026-06-25 19:04:53  WARNING  ⚠ RSS 파싱 실패 (https://design-milk.com/feed): The read operation timed out
+2026-06-25 19:04:53  INFO       ✓ 완료: https://design-milk.com/feed (0개 확보)
+2026-06-25 19:04:53  INFO       ✓ 완료: https://italydreamdesign.com/en/feed/ (0개 확보)
+2026-06-25 19:04:54  INFO       ✓ 완료: https://www.theartwolf.com/feed/ (1개 확보)
+2026-06-25 19:04:54  INFO       ✓ 완료: https://www.arte.it/rss/feed_notizie.php (5개 확보)
+2026-06-25 19:04:54  INFO       ✓ 완료: https://designobserver.com/feed (2개 확보)
+2026-06-25 19:04:55  INFO       ✓ 완료: https://www.designboom.com/feed (5개 확보)
+2026-06-25 19:04:58  INFO       ✓ 완료: https://www.slanted.de/feed/ (5개 확보)
+2026-06-25 19:04:58  INFO       ✓ 완료: https://www.berlinartlink.com/feed/ (5개 확보)
+2026-06-25 19:05:03  INFO       ✓ 완료: https://eyeondesign.aiga.org/feed (0개 확보)
+2026-06-25 19:05:09  INFO       ✓ 완료: https://baseelements.net/blog/feed (0개 확보)
+2026-06-25 19:05:09  INFO       ✓ 완료: https://picamemag.com/feed/ (0개 확보)
+2026-06-25 19:05:09  INFO     ✓ 총 154개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-25 19:06:20  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-25 19:06:20  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-25 19:06:23  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-25 19:06:23  INFO     ✓ 일일 데이터 및 manifest 저장 완료
+2026-06-25 19:06:23  INFO     ✅ 파이프라인 전체 완료! GitHub Pages로 자동 배포를 시작합니다...
+2026-06-30 13:29:46  INFO     
+▶ 통합 큐레이션 파이프라인 시작 (멀티 스레드 및 위원회 프롬프트 적용)
+2026-06-30 13:29:46  INFO     ▶ 북마크 자동 업데이트 및 자율형 신규 RSS 발굴 에이전트 가동...
+2026-06-30 13:31:21  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-30 13:31:40  INFO     📡 87개 매체에서 병렬 수집 에이전트 시작...
+2026-06-30 13:31:40  INFO       ✓ 완료: https://coolhunting.com/feed/ (5개 확보)
+2026-06-30 13:31:41  WARNING  ⚠ RSS 파싱 실패 (https://www.promonews.tv/feed/): unknown url type: '/feed'
+2026-06-30 13:31:41  INFO       ✓ 완료: https://www.promonews.tv/feed/ (0개 확보)
+2026-06-30 13:31:41  INFO       ✓ 완료: https://thecreativeindependent.com/feed.xml (0개 확보)
+2026-06-30 13:31:41  INFO       ✓ 완료: https://feeds.feedburner.com/ProductionParadiseMembersFeed (5개 확보)
+2026-06-30 13:31:41  INFO       ✓ 완료: https://www.itsnicethat.com/articles.rss (5개 확보)
+2026-06-30 13:31:41  INFO       ✓ 완료: https://filmmakermagazine.com/feed/ (5개 확보)
+2026-06-30 13:31:41  INFO       ✓ 완료: https://thestylewatcher.wordpress.com/feed/ (0개 확보)
+2026-06-30 13:31:42  INFO       ✓ 완료: https://honestart.tistory.com/rss (0개 확보)
+2026-06-30 13:31:42  INFO       ✓ 완료: https://photoeditions.pub/rss (0개 확보)
+2026-06-30 13:31:42  INFO       ✓ 완료: https://maxgoldmandp.com/feed/ (0개 확보)
+2026-06-30 13:31:42  INFO       ✓ 완료: https://www.silvanderwoerd.com/blog-feed.xml (0개 확보)
+2026-06-30 13:31:42  INFO       ✓ 완료: https://www.ignant.com/feed/ (1개 확보)
+2026-06-30 13:31:43  INFO       ✓ 완료: https://www.anothermag.com/Feed (0개 확보)
+2026-06-30 13:31:44  INFO       ✓ 완료: https://www.hubbardbirchler.net/feed/ (0개 확보)
+2026-06-30 13:31:44  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-30 13:31:44  INFO       ✓ 완료: https://rss.blog.naver.com/tiger6107.xml (0개 확보)
+2026-06-30 13:31:44  INFO       ✓ 완료: https://strba.ch/feed/ (0개 확보)
+2026-06-30 13:31:45  INFO       ✓ 완료: https://www.lensculture.com/feeds/flipboard.rss (1개 확보)
+2026-06-30 13:31:46  INFO       ✓ 완료: https://feeds.feedburner.com/artofthetitle_rss (0개 확보)
+2026-06-30 13:31:46  INFO       ✓ 완료: https://motionographer.com/feed/ (5개 확보)
+2026-06-30 13:31:47  INFO       ✓ 완료: https://abduzeedo.com/rss.xml (5개 확보)
+2026-06-30 13:31:47  INFO       ✓ 완료: https://uglyd.com/index.php/feed/ (0개 확보)
+2026-06-30 13:31:47  INFO       ✓ 완료: https://rss.blog.naver.com/jujukey.xml (0개 확보)
+2026-06-30 13:31:48  INFO       ✓ 완료: http://www.dailymotion.com/rss (0개 확보)
+2026-06-30 13:31:48  INFO       ✓ 완료: https://www.nowness.com/rss (5개 확보)
+2026-06-30 13:31:50  INFO       ✓ 완료: https://hypebeast.kr/feed (5개 확보)
+2026-06-30 13:31:51  INFO       ✓ 완료: https://rss.blog.naver.com/rca_37art.xml (0개 확보)
+2026-06-30 13:31:51  INFO       ✓ 완료: https://www.creativereview.co.uk/feed/ (5개 확보)
+2026-06-30 13:31:51  INFO       ✓ 완료: http://www.designtwoply.com/feed (0개 확보)
+2026-06-30 13:31:52  INFO       ✓ 완료: https://directorslibrary.com/feed/ (0개 확보)
+2026-06-30 13:31:52  INFO       ✓ 완료: https://rss.blog.naver.com/justina75.xml (5개 확보)
+2026-06-30 13:31:52  INFO       ✓ 완료: http://graymonster.tistory.com/feed (0개 확보)
+2026-06-30 13:31:52  WARNING  ⚠ RSS 파싱 실패 (https://blog.naver.com/feed): not well-formed (invalid token): line 3, column 52
+2026-06-30 13:31:52  INFO       ✓ 완료: https://blog.naver.com/feed (0개 확보)
+2026-06-30 13:31:53  INFO       ✓ 완료: https://rss.blog.naver.com/sabids.xml (0개 확보)
+2026-06-30 13:31:53  INFO       ✓ 완료: https://rss.blog.naver.com/damwon.xml (0개 확보)
+2026-06-30 13:31:53  INFO       ✓ 완료: http://feeds.feedburner.com/behance/vorr (5개 확보)
+2026-06-30 13:31:54  INFO       ✓ 완료: https://rss.blog.naver.com/nkj2001.xml (0개 확보)
+2026-06-30 13:31:55  INFO       ✓ 완료: https://www.stashmedia.tv/feed/ (5개 확보)
+2026-06-30 13:31:55  INFO       ✓ 완료: https://vimeo.com/rss.xml (5개 확보)
+2026-06-30 13:31:56  INFO       ✓ 완료: https://www.andrew-townsend.com/rss/ (0개 확보)
+2026-06-30 13:31:56  INFO       ✓ 완료: https://thenationalgrid.com.au/welcome?format=rss (0개 확보)
+2026-06-30 13:31:56  INFO       ✓ 완료: https://www.architecturaldigest.com/feed/rss (5개 확보)
+2026-06-30 13:31:56  INFO       ✓ 완료: https://www.juxtapoz.com/news/?format=feed&type=rss (0개 확보)
+2026-06-30 13:31:57  INFO       ✓ 완료: https://wepresent.wetransfer.com/rss (2개 확보)
+2026-06-30 13:31:57  INFO       ✓ 완료: https://www.creativeboom.com/feed/ (5개 확보)
+2026-06-30 13:31:57  WARNING  ⚠ RSS 파싱 실패 (https://cheimread.com/feed): not well-formed (invalid token): line 8, column 16
+2026-06-30 13:31:57  INFO       ✓ 완료: https://cheimread.com/feed (0개 확보)
+2026-06-30 13:31:58  INFO       ✓ 완료: https://filmshortage.com/feed/ (5개 확보)
+2026-06-30 13:31:58  INFO       ✓ 완료: https://www.artinsight.co.kr/rss (5개 확보)
+2026-06-30 13:31:59  INFO       ✓ 완료: http://feeds2.feedburner.com/itsnicethat/SlXC (0개 확보)
+2026-06-30 13:31:59  INFO       ✓ 완료: https://thedieline.com/feed/ (5개 확보)
+2026-06-30 13:31:59  INFO       ✓ 완료: https://www.wallpaper.com/feeds.xml (5개 확보)
+2026-06-30 13:32:00  INFO       ✓ 완료: http://www.adim21.co.kr/feed (0개 확보)
+2026-06-30 13:32:00  INFO       ✓ 완료: https://www.creativebloq.com/feeds.xml (5개 확보)
+2026-06-30 13:32:00  INFO       ✓ 완료: https://www.thisiscolossal.com/feed/ (5개 확보)
+2026-06-30 13:32:00  INFO       ✓ 완료: https://www.theartnewspaper.com/rss.xml (5개 확보)
+2026-06-30 13:32:00  INFO       ✓ 완료: https://www.fubiz.net/feed/ (0개 확보)
+2026-06-30 13:32:01  WARNING  ⚠ RSS 파싱 실패 (https://art-it.asia/en/feed): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'art-it.asia'. (_ssl.c:1129)>
+2026-06-30 13:32:01  INFO       ✓ 완료: https://art-it.asia/en/feed (0개 확보)
+2026-06-30 13:32:02  INFO       ✓ 완료: https://design-milk.com/feed (5개 확보)
+2026-06-30 13:32:03  INFO       ✓ 완료: https://adfwebmagazine.jp/en/feed (5개 확보)
+2026-06-30 13:32:03  INFO       ✓ 완료: https://www.booooooom.com/feed (5개 확보)
+2026-06-30 13:32:03  WARNING  ⚠ RSS 파싱 실패 (https://shotenkenchiku.com/blog/en/feed): HTTP Error 404: Not Found Blog
+2026-06-30 13:32:03  INFO       ✓ 완료: https://shotenkenchiku.com/blog/en/feed (0개 확보)
+2026-06-30 13:32:03  WARNING  ⚠ RSS 파싱 실패 (https://www.tokyoartbeat.com/rss): HTTP Error 404: Not Found
+2026-06-30 13:32:03  INFO       ✓ 완료: https://www.tokyoartbeat.com/rss (0개 확보)
+2026-06-30 13:32:04  INFO       ✓ 완료: https://adim21.co.kr/wp-content/plugins/kboard/rss.php (0개 확보)
+2026-06-30 13:32:05  WARNING  ⚠ RSS 파싱 실패 (http://www.spoon-tamago.com/feed/): HTTP Error 403: Forbidden
+2026-06-30 13:32:05  INFO       ✓ 완료: http://www.spoon-tamago.com/feed/ (0개 확보)
+2026-06-30 13:32:07  WARNING  ⚠ RSS 파싱 실패 (https://shift.jp.org/en/blog/feed): not well-formed (invalid token): line 101, column 73
+2026-06-30 13:32:07  INFO       ✓ 완료: https://shift.jp.org/en/blog/feed (0개 확보)
+2026-06-30 13:32:08  WARNING  ⚠ RSS 파싱 실패 (https://arquitecturaviva.com/feed): HTTP Error 404: Not Found
+2026-06-30 13:32:08  INFO       ✓ 완료: https://arquitecturaviva.com/feed (0개 확보)
+2026-06-30 13:32:09  INFO       ✓ 완료: https://streetartbcn.com/feed (0개 확보)
+2026-06-30 13:32:10  INFO       ✓ 완료: https://veryprivategallery.com/feed (0개 확보)
+2026-06-30 13:32:10  INFO       ✓ 완료: https://opendoors.gallery/feed (1개 확보)
+2026-06-30 13:32:11  INFO       ✓ 완료: https://idea-mag.com/feed/ (0개 확보)
+2026-06-30 13:32:11  INFO       ✓ 완료: https://designspotter.com/feed/ (0개 확보)
+2026-06-30 13:32:11  INFO       ✓ 완료: http://smadani.com/feed (0개 확보)
+2026-06-30 13:32:11  INFO       ✓ 완료: https://levineleavitt.com/feed/ (0개 확보)
+2026-06-30 13:32:13  INFO       ✓ 완료: https://www.artforum.com/feed/rss/ (5개 확보)
+2026-06-30 13:32:13  INFO       ✓ 완료: https://www.artribune.com/feed/ (5개 확보)
+2026-06-30 13:32:13  INFO       ✓ 완료: https://italydreamdesign.com/en/feed/ (0개 확보)
+2026-06-30 13:32:13  WARNING  ⚠ RSS 파싱 실패 (https://eyeondesign.aiga.org/feed): <urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>
+2026-06-30 13:32:13  INFO       ✓ 완료: https://eyeondesign.aiga.org/feed (0개 확보)
+2026-06-30 13:32:14  INFO       ✓ 완료: https://archzine.net/feed/ (0개 확보)
+2026-06-30 13:32:14  INFO       ✓ 완료: https://www.arte.it/rss/feed_notizie.php (5개 확보)
+2026-06-30 13:32:15  INFO       ✓ 완료: https://designobserver.com/feed (3개 확보)
+2026-06-30 13:32:16  INFO       ✓ 완료: https://www.designboom.com/feed (5개 확보)
+2026-06-30 13:32:17  INFO       ✓ 완료: https://artaurea.com/feed/ (0개 확보)
+2026-06-30 13:32:20  INFO       ✓ 완료: https://www.theartwolf.com/feed/ (0개 확보)
+2026-06-30 13:32:21  INFO       ✓ 완료: https://www.slanted.de/feed/ (5개 확보)
+2026-06-30 13:32:22  INFO       ✓ 완료: https://www.berlinartlink.com/feed/ (5개 확보)
+2026-06-30 13:32:33  INFO       ✓ 완료: https://baseelements.net/blog/feed (0개 확보)
+2026-06-30 13:33:51  INFO       ✓ 완료: https://picamemag.com/feed/ (0개 확보)
+2026-06-30 13:33:51  INFO     ✓ 총 161개 신규 기사 중 최신 50개를 선별하여 AI 큐레이션 위원회에 전달합니다.
+2026-06-30 13:34:33  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-30 13:34:33  INFO     ✓ AI 큐레이션 완료. (12개 아이템, 3개 팝콘)
+2026-06-30 13:34:36  INFO     HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-30 13:34:36  INFO     ✓ 일일 데이터 및 manifest 저장 완료
+2026-06-30 13:34:36  INFO     ✅ 파이프라인 전체 완료! GitHub Pages로 자동 배포를 시작합니다...

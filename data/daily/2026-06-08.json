@@ -1,0 +1,330 @@
+{
+  "date": "2026-06-08",
+  "focusQ": "A브랜드의 캠페인은 미니멀리즘 미학이 아랍 디자인을 억누르는 문제를 비판적으로 조명했습니다. 쇼 미야케는 '두 시즌, 두 낯선 사람'을 통해 자유로운 꿈을 표현하며, 엘라 헌트는 솔직한 표현의 힘을 자신의 음악적 여정으로 풀어냈습니다. 이러한 창작자들은 각자의 분야에서 고유한 시각적 및 서사적 기법을 통해 현대 사회의 다양한 감성을 탐구하고 있습니다.",
+  "session": {
+    "timestamp": "2026-06-08T15:16:45.474921",
+    "considered": 30,
+    "selected": 12
+  },
+  "topPicks": [
+    {
+      "title_ko": "미니멀리즘 미학이 아랍 디자인을 억누르는 이유",
+      "summary": "미니멀리즘 미학이 진정한 아랍 디자인을 억누르고 있다는 비판적 시각을 제공합니다.",
+      "url": "https://www.itsnicethat.com/articles/the-view-from-cairo-minimalist-aesthetics-arab-design-critique-creative-industry-020626",
+      "source": "It's Nice That",
+      "category": "비평",
+      "thread": "T05",
+      "tags": [
+        "미니멀리즘",
+        "디자인",
+        "비평",
+        "문화"
+      ],
+      "why": "아랍 디자인에서 미니멀리즘 미학이 전통적 디자인 요소를 억누르고 있다는 비판은, 지역적 정체성을 시각적으로 복원하려는 시도로 완성되었습니다. 이는 전통과 현대의 갈등을 새로운 시각적 언어로 풀어내며, 디자인의 본질을 재고하게 합니다.",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/l_klQPKVZ7zCf5dyMQfG5VFDaik=/278301/width-1440%7Cformat-jpeg/TVF_Hero_Still.png"
+    },
+    {
+      "title_ko": "28세, 이 산업에 절대 늦지 않았다",
+      "summary": "28세에 이 산업에 늦었다고 생각하는 사람들에게 용기를 주는 조언을 제공합니다.",
+      "url": "https://www.itsnicethat.com/articles/creative-career-conundrums-if-you-could-jobs-advice-010626",
+      "source": "It's Nice That",
+      "category": "조언",
+      "thread": "T02",
+      "tags": [
+        "커리어",
+        "조언",
+        "창의성",
+        "산업"
+      ],
+      "why": "창작 산업에서 나이와 경험에 대한 고정관념을 깨고, 창작의 자유로움을 강조하는 메시지는 창작과정에서의 협업과 직관의 중요성을 잘 보여줍니다.",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/XidiBpaqLMWNXOHvJO80lk2_fXI=/278669/width-1440/CCC_Square_AM_I_TOO_OLD_ALREADY_1.jpg"
+    },
+    {
+      "title_ko": "디지털 향수: 백룸의 포인트 오브 노 리턴",
+      "summary": "디지털 향수를 주제로 한 백룸의 포인트 오브 노 리턴은 현대 사회의 감성을 탐구합니다.",
+      "url": "https://filmmakermagazine.com/133812-digital-nostalgia-backrooms/",
+      "source": "Filmmaker Magazine",
+      "category": "기사",
+      "thread": "T03",
+      "tags": [
+        "디지털",
+        "향수",
+        "사회",
+        "감성"
+      ],
+      "why": "디지털 향수에 관한 이 기사는 현대 사회의 감성을 디지털 미디어를 통해 탐구하며, 과거와 현재의 감정적 연결을 시각화한다. 창작자는 디지털 매체를 활용하여 과거의 향수를 현대적 시각으로 재해석하고, 이를 통해 감정적 공감을 이끌어낸다.",
+      "depth": 0.85,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/06/https___cdn.sanity.io_images_xq1bjtf4_production_6d473a14b009a4e561c8d4f0f5a732120a46e7f0-2400x1590-1-940x400.jpg"
+    },
+    {
+      "title_ko": "두 시즌, 두 낯선 사람: 쇼 미야케의 자유로운 꿈",
+      "summary": "쇼 미야케는 두 시즌, 두 낯선 사람을 통해 자유로운 꿈을 이야기합니다.",
+      "url": "https://filmmakermagazine.com/133749-interview-sho-miyake-two-seasons-two-strangers/",
+      "source": "Filmmaker Magazine",
+      "category": "인터뷰",
+      "thread": "T02",
+      "tags": [
+        "영화",
+        "자유",
+        "꿈",
+        "이야기"
+      ],
+      "why": "쇼 미야케의 '두 시즌, 두 낯선 사람'은 꿈의 자유를 서사적으로 표현하며, 시각적 자유로움과 서사적 유연성을 통해 관객에게 깊은 감정을 전달합니다. 이는 영화적 표현의 확장을 보여주는 사례입니다.",
+      "depth": 0.85,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/Sub2_Two-Seasons-Two-Strangers-940x400.jpg"
+    },
+    {
+      "title_ko": "여성 교도소에서의 영화 상영: 돌봄의 의식",
+      "summary": "여성 교도소에서의 영화 상영을 통해 돌봄의 의식을 탐구합니다.",
+      "url": "https://filmmakermagazine.com/133736-oscars-return-short-film-san-quentin-film-festival/",
+      "source": "Filmmaker Magazine",
+      "category": "기사",
+      "thread": "T04",
+      "tags": [
+        "영화",
+        "상영",
+        "돌봄",
+        "사회"
+      ],
+      "why": "영화 상영을 통해 사회적 돌봄의 중요성을 탐구하는 과정은 물성과 촉각을 디자인과 결합하는 데 중요한 통찰을 제공합니다.",
+      "depth": 0.85,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/20260328_SQFF_CCWF_JJ-363-X4-940x400.jpg"
+    },
+    {
+      "title_ko": "Bleak Week, C’est Chic",
+      "summary": "미국 시네마테크의 첫 시즌인 Bleak Week: Cinema of Despair는 여름철 카운터 프로그래밍으로 시작되었습니다. 다양한 라인업은 절망의 시네마를 완전히 포용하는 영화 제작자들을 조명하는 것을 목표로 했습니다.",
+      "url": "https://filmmakermagazine.com/133808-bleak-week-american-cinematheque-2026/",
+      "source": "Filmmaker Magazine",
+      "domain": "FILM",
+      "category": "영화",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "시네마테크",
+        "절망의 시네마"
+      ],
+      "why": "영화 예술의 다양한 측면을 조명하며, 절망이라는 주제를 통해 영화의 깊이를 탐구합니다.",
+      "social_proof": "시네마테크의 혁신적인 프로그래밍",
+      "depth": 0.85,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/28895id_098_w1600-940x400.jpg",
+      "pub_date": "Fri, 29 May 2026 14:40:46 +0000"
+    },
+    {
+      "title_ko": "Actor and musician Ella Hunt on the power of honest expression",
+      "summary": "엘라 헌트는 자신의 첫 정규 앨범에 대해 이야기하며, 어린 시절부터 음악을 만들어온 경험과 그 진화 과정을 공유합니다.",
+      "url": "https://thecreativeindependent.com/people/actor-and-musician-ella-hunt-on-the-power-of-honest-expression/",
+      "source": "Creative Independent",
+      "domain": "MUSIC",
+      "category": "음악",
+      "creator_name": "Ella Hunt",
+      "creator_insight": "진정성 있는 표현의 힘에 대해 이야기합니다.",
+      "tags": [
+        "음악",
+        "진정성"
+      ],
+      "why": "엘라 헌트는 자신의 음악적 여정을 통해 솔직한 표현의 힘을 탐구하며, 이는 감정의 진정성을 강조하는 음악적 스타일로 완성되었습니다. 그녀의 작업은 개인적 경험과 진화를 예술적으로 표현하는 데 중점을 두고 있습니다.",
+      "social_proof": "엘라 헌트의 솔직한 음악 여정",
+      "depth": 0.85,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/j2K7NyuR66KCj167REok",
+      "pub_date": "2026-06-08T03:00:00-04:00"
+    },
+    {
+      "title_ko": "Founder and mixed-media artist Kelsey Armstrong (Haricot Vert) on knowing when to stop",
+      "summary": "Kelsey Armstrong는 파리에서의 경험을 바탕으로 한 예술적 영감과 자신의 창작 과정에 대해 이야기합니다.",
+      "url": "https://thecreativeindependent.com/people/founder-and-mixed-media-artist-kelsey-armstrong-on-knowing-when-to-stop/",
+      "source": "Creative Independent",
+      "domain": "ART",
+      "category": "예술",
+      "creator_name": "Kelsey Armstrong",
+      "creator_insight": "언제 멈춰야 할지를 아는 것이 중요하다고 강조합니다.",
+      "tags": [
+        "혼합매체",
+        "예술"
+      ],
+      "why": "예술가의 창작 과정과 그 과정에서의 통찰을 통해 예술의 의미를 깊이 있게 조명합니다.",
+      "social_proof": "Kelsey Armstrong의 독창적인 예술 세계",
+      "depth": 0.85,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/RRD5lYOpTneT6jLr3G9I",
+      "pub_date": "2026-06-05T03:00:00-04:00"
+    },
+    {
+      "title_ko": "Sanghyeok Lee on ARC, Emptiness, and the Spaces Between",
+      "summary": "Sanghyeok Lee의 작품은 균형 잡힌 미니멀리즘과 지적 엄격함을 보여줍니다.",
+      "url": "https://www.ignant.com/2026/03/16/sanghyeok-lee-on-arc-emptiness-and-the-spaces-between/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "디자인",
+      "creator_name": "Sanghyeok Lee",
+      "creator_insight": "작품의 균형과 미니멀리즘을 강조합니다.",
+      "tags": [
+        "디자인",
+        "미니멀리즘"
+      ],
+      "why": "Sanghyeok Lee의 작품은 균형 잡힌 미니멀리즘과 지적 엄격함을 통해 공간의 의미를 탐구한다. 창작자는 미니멀리즘을 통해 공간의 여백과 의미를 강조하며, 이를 통해 관객에게 사유의 공간을 제공한다.",
+      "social_proof": "Sanghyeok Lee의 혁신적인 디자인 접근",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/03/ignant-sanghyeok-lee-clemens-poloczek-15-720x1081.jpg",
+      "pub_date": "Mon, 16 Mar 2026 13:50:51 +0000"
+    },
+    {
+      "title_ko": "Worlds Between Water and Waste: Leeroy New at Futurium’s Ocean Futures",
+      "summary": "베를린의 Futurium 박물관에서 열린 Ocean Futures 전시회는 물을 인프라, 아카이브, 이웃으로 탐구합니다.",
+      "url": "https://www.ignant.com/2025/12/11/worlds-between-water-and-waste-leeroy-new-at-futuriums-ocean-futures/",
+      "source": "ignant.com",
+      "domain": "ART",
+      "category": "예술",
+      "creator_name": "Leeroy New",
+      "creator_insight": "물과 폐기물 사이의 세계를 탐구합니다.",
+      "tags": [
+        "환경",
+        "예술"
+      ],
+      "why": "환경과 예술의 교차점을 탐구하며, 지속 가능성에 대한 새로운 시각을 제공합니다.",
+      "social_proof": "Leeroy New의 혁신적인 설치 예술",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2025/12/ignant-futurium-6-2-720x479.jpg",
+      "pub_date": "Thu, 11 Dec 2025 09:04:50 +0000"
+    },
+    {
+      "title_ko": "A Vocabulary of Form: At Home With Sculptor Veronika Janovec",
+      "summary": "Veronika Janovec의 조각 작품은 파괴와 성장의 방정식을 예술로 탐구합니다.",
+      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
+      "source": "ignant.com",
+      "domain": "ART",
+      "category": "조각",
+      "creator_name": "Veronika Janovec",
+      "creator_insight": "파괴와 성장이 예술의 방정식이 될 수 있는지를 탐구합니다.",
+      "tags": [
+        "조각",
+        "예술"
+      ],
+      "why": "조각 예술을 통해 파괴와 성장이라는 주제를 심도 있게 탐구합니다.",
+      "social_proof": "Veronika Janovec의 독창적인 조각 세계",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
+      "pub_date": "Wed, 29 Apr 2026 11:04:16 +0000"
+    },
+    {
+      "title_ko": "Photo London 2026 | Art Fair",
+      "summary": "Open Doors Gallery는 Photo London Fair에 참여하여 현대 예술가들의 독창적인 작품을 선보입니다.",
+      "url": "https://opendoors.gallery/photo-london-2026-art-fair",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "사진",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "예술"
+      ],
+      "why": "현대 사진 예술의 다양한 측면을 조명하며, 새로운 작가들의 작품을 소개합니다.",
+      "social_proof": "Photo London Fair의 혁신적인 사진 전시",
+      "depth": 0.85,
+      "pub_date": "Thu, 07 May 2026 14:59:50 +0000",
+      "image": "https://opendoors.gallery/wp-content/uploads/2026/05/SHODO4.jpg"
+    }
+  ],
+  "items": [],
+  "keywords": [
+    "디자인",
+    "음악",
+    "영감",
+    "창의성",
+    "사진",
+    "가족",
+    "감성",
+    "포토북"
+  ],
+  "popcorn": [
+    {
+      "title_ko": "Cold Brew Coffee + Tea Brewer",
+      "summary": "Brezi Cold는 커피와 차를 위한 목적별 콜드 브루 브루어로, 빠르고 부드러운 맛을 제공합니다.",
+      "url": "https://coolhunting.com/buy/cold-brew-coffee-tea-brewer/",
+      "source": "coolhunting.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "콜드브루",
+        "커피"
+      ],
+      "why": "Brezi Cold의 콜드 브루 브루어는 빠르고 부드러운 맛을 제공하는 기능적 디자인을 통해, 음료 준비의 효율성을 극대화했습니다. 이는 일상적인 경험을 향상시키는 제품 디자인의 좋은 예입니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://coolhunting.com/wp-content/uploads/2026/06/AD277BE4-BAD8-4FE7-95C0-7061E437C0F3_1_201_a.jpeg",
+      "pub_date": "Thu, 04 Jun 2026 12:02:08 +0000"
+    },
+    {
+      "title_ko": "Mocca Leopard Swim Shorts",
+      "summary": "CDLP의 클래식 남성 수영 반바지가 모카 레오파드 패턴으로 더욱 매력적으로 출시되었습니다.",
+      "url": "https://coolhunting.com/buy/mocca-leopard-swim-shorts/",
+      "source": "coolhunting.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "수영복",
+        "패션"
+      ],
+      "why": "트렌디한 패턴과 디자인으로 여름 패션 아이템으로 주목받고 있습니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://coolhunting.com/wp-content/uploads/2026/06/CDB10F1C-1461-4533-9ACD-811014034B09_1_201_a.jpeg",
+      "pub_date": "Tue, 02 Jun 2026 10:46:01 +0000"
+    },
+    {
+      "title_ko": "작가 엘레나 칼리스의 초현실적 수중 동화",
+      "summary": "엘레나 칼리스의 수중 촬영은 거대한 스케일과 많은 스태프들이 참여하는 초현실적 작품입니다.",
+      "url": "https://honestart.tistory.com/93",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "수중촬영",
+        "초현실"
+      ],
+      "why": "엘레나 칼리스의 수중 촬영은 초현실적 스케일과 많은 스태프의 협업을 통해, 시각적 상상력을 극대화했습니다. 이는 비현실적 장면을 현실로 구현하는 예술적 기법의 탁월한 사례입니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://t1.daumcdn.net/cfile/tistory/244C524B5388323122",
+      "pub_date": "Sat, 30 Aug 2014 16:10:53 +0900"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "지배적 미학의 문화 침식",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 시대의 향수",
+      "is_hot": true
+    },
+    {
+      "word": "창의적 자기 표현의 힘",
+      "is_hot": false
+    },
+    {
+      "word": "문화적 돌봄의 재발견",
+      "is_hot": false
+    },
+    {
+      "word": "균형적 미니멀리즘의 탐구",
+      "is_hot": false
+    },
+    {
+      "word": "물과 폐기물 사이의 세계",
+      "is_hot": false
+    },
+    {
+      "word": "형태의 어휘와 예술적 성장",
+      "is_hot": false
+    }
+  ],
+  "creator_message": "미니멀리즘 미학의 한계를 비판적으로 조명한 아랍 디자인 논평은, 전통과 현대의 갈등을 새로운 시각적 언어로 풀어냈습니다. 쇼 미야케의 영화는 꿈의 자유를 다루며, 엘라 헌트의 음악은 솔직한 표현의 힘을 통해 개인적 진화를 탐구합니다. 이러한 작업들은 각자의 독창적 시각을 통해 현대 사회의 복잡성을 예술적으로 해석하는 데 기여하고 있습니다."
+}

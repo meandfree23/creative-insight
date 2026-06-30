@@ -1,0 +1,361 @@
+{
+  "date": "2026-05-27",
+  "focusQ": "에드 라크만의 <마리아>는 필름 스톡을 시대별로 달리 사용하여 마리아 칼라스의 기억 구조를 형상화했습니다. 이 작품은 '카메라는 프로시니엄'이라는 개념을 통해 무대가 움직이는 듯한 시각적 경험을 제공하며, 촬영의 모든 결정을 설명합니다. 또한, 오스카 촬영상 노미네이트 감독들은 기술의 발전에도 불구하고 실제 촬영을 고집하며, VFX를 배제한 진정성을 강조하고 있습니다.",
+  "session": {
+    "focus": "기술 변화 앞에서 창작자들은 어떤 자세를 취하는가",
+    "duration": "~25분",
+    "considered": 18,
+    "selected": 12,
+    "timestamp": "2026-05-27T02:20:23",
+    "queries": [
+      "filmmaker interview creative process 2026",
+      "cinematographer visual philosophy interview 2026",
+      "photographer on practice intuition thecreativeindependent.com",
+      "visual essay film analysis 2026 criterion.com bfi.org.uk",
+      "graphic design typography material meaning 2026 itsnicethat.com",
+      "AI art creativity artist response 2026 artsy.net frieze.com",
+      "director craft storytelling technique interview 2026",
+      "씨네21 감독 인터뷰 2026 촬영 철학",
+      "Sundance 2026 cinematographer shooting strategy"
+    ]
+  },
+  "topPicks": [
+    {
+      "title": "Artist, Filmmaker Tourmaline on Cultivating Your Intuition",
+      "url": "https://thecreativeindependent.com/people/artist-filmmaker-and-writer-tourmaline-on-cultivating-your-intuition/",
+      "source": "The Creative Independent",
+      "category": "insight",
+      "image": "file:///Users/kk/Desktop/개인작업/배드씬/insight-images/tourmaline-intuition.png",
+      "summary": "아티스트·영화감독 투마린은 직관 계발이 결국 몸의 신호를 읽는 훈련이라 말한다. 열정이 느껴지면 직관과 동기화된 것, 앉아서 쓰는 시간보다 명상과 휴식 속에서 더 많은 작업이 일어난다.",
+      "why": "투마린은 직관을 계발하는 방법으로 명상과 휴식을 강조하며, 창작의 많은 부분이 이러한 내면의 탐구를 통해 이루어진다고 주장합니다. 이는 직관과 동기화된 열정을 통해 창작의 질을 높이는 기법으로, 앉아서 작업하는 시간보다 더 많은 창작적 성과를 가져옵니다.",
+      "depth": 0.92,
+      "thread": "T05",
+      "tags": [
+        "직관",
+        "창작과정",
+        "명상",
+        "제작의도"
+      ]
+    },
+    {
+      "title": "\"It's All Marketing\": Ed Lachman on HDR, Maria, and Lifetime Achievement",
+      "url": "https://thefilmstage.com/its-all-marketing-ed-lachman-on-hdr-maria-and-a-lifetime-achievement/",
+      "source": "The Film Stage",
+      "category": "interview",
+      "image": "file:///Users/kk/Desktop/개인작업/배드씬/insight-images/ed-lachman-lens.png",
+      "summary": "에드 라크만은 <마리아>에서 필름 스톡을 시대별로 달리 쓰며 마리아 칼라스의 기억 구조를 형식으로 만들었다. '카메라는 프로시니엄' — 무대가 움직인다는 이 한 문장이 모든 촬영 결정을 설명한다.",
+      "why": "에드 라크만은 <마리아>에서 필름 스톡을 시대별로 사용하여 기억의 구조를 시각적으로 표현했습니다. '카메라는 프로시니엄'이라는 개념을 통해 무대의 움직임을 시각적으로 구현하며, 이는 촬영의 모든 결정을 설명하는 중심 철학으로 작용합니다.",
+      "depth": 0.9,
+      "thread": "T01",
+      "tags": [
+        "촬영감독",
+        "필름형식",
+        "기억과빛",
+        "마리아칼라스"
+      ]
+    },
+    {
+      "title": "Cinematography Oscar Nominees on Authenticity and Avoiding VFX",
+      "url": "https://www.screendaily.com/features/cinematography-oscar-nominees-on-authenticity-and-avoiding-vfx/5145953.article",
+      "source": "Screen Daily",
+      "category": "interview",
+      "image": "file:///Users/kk/Desktop/개인작업/배드씬/insight-images/screendaily-vfx.png",
+      "summary": "오스카 촬영상 노미네이트 감독들이 공통으로 말하는 것 — VFX 대신 실제를 찍는다. 기술이 발전할수록 촬영감독들은 반대 방향으로 움직이고 있다.",
+      "why": "오스카 촬영상 노미네이트 감독들은 VFX 대신 실제 촬영을 선호하며, 이는 기술의 발전에도 불구하고 진정성을 유지하려는 의도로 해석됩니다. 실제 촬영을 통해 관객에게 더 진실된 경험을 제공하려는 노력이 돋보입니다.",
+      "depth": 0.87,
+      "thread": "T01",
+      "tags": [
+        "촬영감독",
+        "진정성",
+        "필름",
+        "VFX거부"
+      ]
+    },
+    {
+      "title_ko": "FGV Schmidle",
+      "summary": "FGV Schmidle는 '우리는 제작의 일환이다!'라는 말을 좋아합니다. 이는 카메라 뒤와 세트장에서 제작을 생동감 있게 만드는 수많은 전문가들에 대한 경의를 표합니다.",
+      "url": "https://www.productionparadise.comshowcase/germany-issue-1022-2306/fgv-schmidle-64066.html",
+      "source": "productionparadise.com",
+      "domain": "FILM",
+      "category": "제작",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "영화 제작",
+        "기술 전문성"
+      ],
+      "why": "FGV Schmidle는 '우리는 제작의 일환이다!'라는 철학을 통해 카메라 뒤와 세트장에서의 제작 과정을 생동감 있게 표현합니다. 이는 촬영 현장에서의 다양한 전문가들의 기여를 강조하며, 제작의 생동감을 높이는 데 기여합니다.",
+      "social_proof": "국제 영화 산업에서의 확고한 명성",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2306/photos/10023/newsletter/bildschirmfoto-2025-03-10-um-16.28.49.png",
+      "pub_date": "Thu, 11 Jun 2026 16:50:26"
+    },
+    {
+      "title_ko": "American Vogue July 2014",
+      "summary": "Lupita Nyong’o가 Prada를 입고 American Vogue 2014년 7월호 표지를 장식합니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/19/american-vogue-july-2014/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "DESIGN",
+      "category": "패션",
+      "creator_name": "Mikael Jansson",
+      "creator_insight": "",
+      "tags": [
+        "Lupita Nyong’o",
+        "Prada",
+        "패션"
+      ],
+      "why": "Lupita Nyong’o가 Prada를 입고 Vogue 표지를 장식하면서, 패션과 인물의 조화를 통해 강렬한 시각적 임팩트를 만들어낸다. 이는 패션 잡지의 커버가 가지는 상징성과 영향력을 극대화하는 사례로 볼 수 있다.",
+      "social_proof": "Vogue 표지",
+      "depth": 0.85,
+      "image": "https://thestylewatcher.wordpress.com/wp-content/uploads/2014/06/american-vogue-july-2014-cover.jpg",
+      "pub_date": "Thu, 19 Jun 2014 16:13:57 +0000"
+    },
+    {
+      "title_ko": "Vogue Germany – “Diane”",
+      "summary": "Vogue Germany의 에디토리얼에서 Diane Kruger가 Hugo Boss의 Jason Wu 디자인을 입고 등장합니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/12/vogue-germany-diane/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "DESIGN",
+      "category": "패션",
+      "creator_name": "Jason Wu",
+      "creator_insight": "",
+      "tags": [
+        "Diane Kruger",
+        "Hugo Boss",
+        "패션"
+      ],
+      "why": "Met Gala에서 주목받은 Diane Kruger의 스타일을 조명합니다.",
+      "social_proof": "Vogue Germany 에디토리얼",
+      "depth": 0.85,
+      "image": "https://thestylewatcher.wordpress.com/wp-content/uploads/2014/06/diane1.jpg",
+      "pub_date": "Thu, 12 Jun 2014 05:50:41 +0000"
+    },
+    {
+      "title_ko": "People’s Choice Award | OD Photo Prize, 2025",
+      "summary": "올해의 AJ Page Award는 OD Photo Prize의 후보에 오르지 못한 아티스트들의 뛰어난 단일 이미지를 기념합니다.",
+      "url": "https://opendoors.gallery/aj-page-award-2025",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "사진",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "예술",
+        "상"
+      ],
+      "why": "사진 예술의 다양성과 독창성을 인정하는 상입니다.",
+      "social_proof": "AJ Page Award",
+      "depth": 0.85,
+      "pub_date": "Thu, 30 Oct 2025 13:07:55 +0000",
+      "image": "https://opendoors.gallery/wp-content/uploads/2025/10/jieyu-deng-1199-10-copy.jpg"
+    },
+    {
+      "title_ko": "Approche 2025 | Art Fair",
+      "summary": "Open Doors Gallery는 파리의 Approche에 초대되어 Sander Coers의 새로운 작품을 선보입니다.",
+      "url": "https://opendoors.gallery/approche-2025",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "전시",
+      "creator_name": "Sander Coers",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "전시회",
+        "파리"
+      ],
+      "why": "예술 전시회에서 새로운 작품을 선보이는 기회를 조명합니다.",
+      "social_proof": "Approche 초대",
+      "depth": 0.85,
+      "pub_date": "Tue, 14 Oct 2025 15:47:48 +0000",
+      "image": "https://opendoors.gallery/wp-content/uploads/2025/12/dandi0587-SMALL.jpg"
+    },
+    {
+      "title_ko": "Lose Yourself in Some of David Hockney’s Most Memorable Works",
+      "summary": "David Hockney는 아마도 영국의 가장 위대한 생존 예술가일 것입니다. 그의 작품을 통해 그의 예술적 여정을 탐구합니다.",
+      "url": "https://www.anothermag.com/art-photography/13219/cool-and-clean-lose-yourself-in-david-hockneys-work-from-1966-to-1978",
+      "source": "anothermag.com",
+      "domain": "ART",
+      "category": "예술가",
+      "creator_name": "David Hockney",
+      "creator_insight": "",
+      "tags": [
+        "David Hockney",
+        "예술",
+        "작품"
+      ],
+      "why": "David Hockney의 작품을 통해 예술적 통찰을 제공합니다.",
+      "social_proof": "영국의 위대한 예술가",
+      "depth": 0.85,
+      "image": "https://images-prod.anothermag.com/1200/0-0-1920-1280/azure/another-prod/400/7/407876.jpeg"
+    },
+    {
+      "title_ko": "David Hockney: Ten Things to Know About the Late British Artist",
+      "summary": "David Hockney는 1937년 브래드포드에서 태어나 6년 이상 그의 예술적 실천을 끊임없이 재창조해왔습니다.",
+      "url": "https://www.anothermag.com/art-photography/9500/remembering-david-hockney-ten-things-you-didnt-know",
+      "source": "anothermag.com",
+      "domain": "ART",
+      "category": "예술가",
+      "creator_name": "David Hockney",
+      "creator_insight": "",
+      "tags": [
+        "David Hockney",
+        "예술",
+        "영국"
+      ],
+      "why": "David Hockney의 예술적 여정과 업적을 기념합니다.",
+      "social_proof": "영국의 위대한 예술가",
+      "depth": 0.85,
+      "image": "https://images-prod.anothermag.com/1200/0-30-1919-1279/azure/another-prod/400/7/407865.jpeg"
+    },
+    {
+      "title_ko": "Quae est in Nature",
+      "summary": "다양한 예술가들이 참여하는 'QUAE EST IN NATURE' 그룹 전시가 열립니다.",
+      "url": "https://strba.ch/2024/10/17/quae-est-in-nature/",
+      "source": "strba.ch",
+      "domain": "ART",
+      "category": "전시",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "전시",
+        "그룹"
+      ],
+      "why": "다양한 예술가들의 작품을 한 자리에서 감상할 수 있는 기회를 제공합니다.",
+      "social_proof": "다양한 예술가 참여",
+      "depth": 0.85,
+      "image": "https://strba.ch/wp-content/uploads/2024/10/strba_lange_pult24.jpg",
+      "pub_date": "Thu, 17 Oct 2024 09:17:22 +0000"
+    },
+    {
+      "title_ko": "Backstage Engelberg",
+      "summary": "Engelberg에서 53명의 예술가들이 참여하는 탐험 전시가 열립니다.",
+      "url": "https://strba.ch/2024/05/29/backstage-engelberg/",
+      "source": "strba.ch",
+      "domain": "ART",
+      "category": "전시",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "탐험",
+        "전시"
+      ],
+      "why": "다양한 예술가들이 참여하여 지역적 특색을 살린 전시를 제공합니다.",
+      "social_proof": "53명의 예술가 참여",
+      "depth": 0.85,
+      "image": "https://strba.ch/wp-content/uploads/2024/05/Backstage_Engelberg_2024.jpg",
+      "pub_date": "Wed, 29 May 2024 20:03:00 +0000"
+    }
+  ],
+  "items": [
+    {
+      "title": "내가 보고 싶은 영화를 만드는 재미에 대하여 — 감독 이희준의 <직사각형, 삼각형>",
+      "url": "https://cine21.com/news/view/?mag_id=109314",
+      "source": "씨네21",
+      "category": "interview",
+      "image": "file:///Users/kk/Desktop/개인작업/배드씬/insight-images/lee-heejun-cinema.png",
+      "summary": "배우 이희준이 말하는 감독으로서의 동기 — '애쓰며 사는 사람의 얼굴'을 영화로 담겠다는 의도. 로만 폴란스키의 밀실 연극과 법륜 스님의 종이 접기 우화에서 출발한 작품.",
+      "why": "영감의 경로가 폴란스키에서 법륜 스님으로 이어지는 감독의 언어가 흥미롭다. 같은 공간에서 한계를 부수려는 인간의 분투 — 이 의도가 제목 '직사각형, 삼각형'에서부터 이미 형식이 된다. 배우가 감독이 될 때 무엇이 달라지는지를 직접 언어화한 인터뷰.",
+      "depth": 0.83,
+      "thread": "T02",
+      "tags": [
+        "한국영화",
+        "감독의도",
+        "이희준",
+        "밀실극"
+      ]
+    },
+    {
+      "title": "재미는 기본이고 — 씨네21이 주목하는 2026년 연출자들",
+      "url": "https://cine21.com/news/view/?mag_id=109409",
+      "source": "씨네21",
+      "category": "analysis",
+      "image": "file:///Users/kk/Desktop/개인작업/배드씬/insight-images/cine21-director.png",
+      "summary": "2026년 한국 영화계가 가장 주목하는 연출자들 — 나홍진 10년 만의 귀환 <희망>을 포함한 신작 라인업. '재미'를 넘어선 작가적 의도가 어디서 교차하는지를 읽는 특집.",
+      "why": "2026년 한국 영화계가 어디를 바라보는지를 감독 이름으로 읽는 특집이다. 나홍진의 귀환이 갖는 의미 — 10년의 공백을 거쳐 돌아오는 작가가 어떤 언어를 가져오는지. '재미'를 출발점으로 삼으면서도 그것을 당연한 전제로 요청하는 시대의 연출 조건.",
+      "depth": 0.8,
+      "thread": "T02",
+      "tags": [
+        "한국영화",
+        "나홍진",
+        "연출자",
+        "작가주의"
+      ]
+    }
+  ],
+  "keywords": [
+    "직관",
+    "촬영철학",
+    "AI와창작자",
+    "타이포그래피",
+    "물성",
+    "큐레이션",
+    "진정성",
+    "기술과인간",
+    "협업",
+    "필름"
+  ],
+  "popcorn": [
+    {
+      "title_ko": "Keogh Dewar, 일상 속의 에로틱함을 찾는 남성복 레이블",
+      "summary": "Keogh Dewar는 클래식한 실루엣에 예상치 못한 질감과 색상을 결합하는 영국 디자인 듀오입니다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17247/keogh-dewar-spring-summer-2027-ss27-interview-harry-styles",
+      "source": "anothermag.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "패션",
+        "디자인",
+        "바이럴"
+      ],
+      "why": "Keogh Dewar는 클래식한 실루엣에 예상치 못한 질감과 색상을 결합하여 일상 속의 에로틱함을 탐구합니다. 이는 전통적 디자인에 현대적 감각을 더해 남성복의 새로운 가능성을 제시하는 기법입니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://images-prod.anothermag.com/1200/0-145-2179-1452/azure/another-prod/470/4/474288.jpg"
+    },
+    {
+      "title_ko": "A Tuscan Villa Airbnb Celebrating Classic Italian Design, Reviewed (2026)",
+      "summary": "무한대 풀장, 알프레스코 다이닝, 이상적인 풍경이 기다리고 있습니다.",
+      "url": "https://www.architecturaldigest.com/story/tuscan-villa-airbnb",
+      "source": "architecturaldigest.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "이탈리아",
+        "디자인",
+        "에어비앤비"
+      ],
+      "why": "이탈리아 디자인을 기념하는 투스카니 빌라는 무한대 풀장과 알프레스코 다이닝을 통해 고전적 아름다움과 현대적 편안함을 결합합니다. 이는 이상적인 풍경 속에서의 휴식을 제공하며, 건축적 미학과 실용성을 동시에 만족시킵니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "Fri, 12 Jun 2026 18:55:23 +0000",
+      "image": "https://media.architecturaldigest.com/photos/6a2b0b92f6a06757b9287b74/16:9/w_1280,c_limit/imgi_501_c137345e-b7e5-49e9-bf2c-ba3991571e11.jpg"
+    },
+    {
+      "title_ko": "Similac Mum",
+      "summary": "Similac Mum 'The Breastfeeding Life'는 모유 수유 엄마들을 위한 가장 완벽한 모유 대체유 캠페인입니다.",
+      "url": "https://uglyd.com/index.php/similac-mum/",
+      "source": "uglyd.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "모유 수유",
+        "캠페인",
+        "바이럴"
+      ],
+      "why": "모유 수유 엄마들을 위한 캠페인이 사회적 관심을 끌고 있습니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "Mon, 22 Mar 2021 06:24:08 +0000"
+    }
+  ],
+  "creator_message": "에드 라크만은 <마리아>에서 시대별 필름 스톡 변화를 통해 기억의 구조를 시각적으로 구현했습니다. 이는 '카메라는 프로시니엄'이라는 철학적 접근을 통해 무대의 움직임을 시각적으로 표현하며, 촬영의 모든 결정을 뒷받침합니다. 촬영감독들은 기술의 발전에도 불구하고 실제 촬영을 통해 진정성을 유지하려는 노력을 보여줍니다."
+}

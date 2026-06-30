@@ -1,0 +1,416 @@
+{
+  "date": "2026-06-19",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 '개인화된 경험과 사회적 책임의 결합'입니다. 현대인들은 자신만의 독특한 경험을 추구하면서도, 동시에 사회적, 환경적 책임을 고려하는 창작물에 열광하고 있습니다. 이는 물질적 풍요 속에서도 여전히 존재하는 정체성의 갈증과 공동체 의식의 결핍을 해소하려는 욕구로 해석할 수 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘날의 창작물들은 개인의 독특한 경험을 강조하면서도 사회적 책임을 잊지 않는 방향으로 나아가고 있습니다. 이는 현대인들이 단순한 소비를 넘어, 더 깊이 있는 의미와 가치를 찾고자 하는 욕구를 반영합니다.",
+  "session": {
+    "timestamp": "2026-06-19T08:32:32.380092",
+    "considered": 154,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "여름은 여름이기에 성스러운 - 여름의 카메라",
+      "summary": "영화 〈여름의 카메라〉는 사랑을 말하는 영화가 아니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81275",
+      "source": "Art Insight",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "영화",
+        "여름",
+        "감성"
+      ],
+      "execution_techniques": [
+        "영화"
+      ],
+      "why": "이 영화는 단순한 사랑 이야기가 아닌, 여름이라는 계절의 본질적 감성을 탐구합니다. 이는 현대인들이 일상 속에서 잊고 지내던 자연적 감성을 되찾고자 하는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260618132101_zhmckpna.jpg",
+      "pub_date": "2026-06-19T08:31:10.734386"
+    },
+    {
+      "title_ko": "가족을 위한 조연에서 내 인생의 주인공으로, 뮤지컬 '오지게 재밌는 가시나들'",
+      "summary": "모든 사람은 각자의 이야기를 담은 삶을 살고 있다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81278",
+      "source": "Art Insight",
+      "domain": "MUSIC",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "뮤지컬",
+        "자아",
+        "삶"
+      ],
+      "execution_techniques": [
+        "뮤지컬"
+      ],
+      "why": "이 뮤지컬은 개인의 삶과 이야기를 강조하며, 현대인들이 자신의 존재 가치를 찾고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260618211436_oceeygxq.jpg",
+      "pub_date": "2026-06-19T08:31:10.734058"
+    },
+    {
+      "title_ko": "죽음의 수용소 이후",
+      "summary": "빅터 프랭클의 미출간 유고작이 단행본으로 최초 공개되었습니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81277",
+      "source": "Art Insight",
+      "domain": "LITERATURE",
+      "category": "도서",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "문학",
+        "고통",
+        "인간"
+      ],
+      "execution_techniques": [
+        "도서"
+      ],
+      "why": "이 책은 인간의 고통과 존재의 의미를 깊이 탐구하며, 현대인들이 겪는 정체성의 혼란과 고통을 이해하고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260618211628_kamwuzwa.jpg",
+      "pub_date": "2026-06-19T08:31:10.733968"
+    },
+    {
+      "title_ko": "또 다시, 헤르만 헤세 – 싯다르타",
+      "summary": "책에도 인연처럼 느껴지는 이끌림이 있습니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81279",
+      "source": "Art Insight",
+      "domain": "LITERATURE",
+      "category": "Opinion",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "문학",
+        "인연",
+        "철학"
+      ],
+      "execution_techniques": [
+        "도서"
+      ],
+      "why": "이 글은 책과의 인연을 강조하며, 현대인들이 잊고 지내던 철학적 사유와 내면의 성찰을 되찾고자 하는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260618212108_pqooetit.jpg",
+      "pub_date": "2026-06-19T08:31:10.733883"
+    },
+    {
+      "title_ko": "Simone Rocha의 첫 남성복 쇼: '남성성의 부드러운 면에 끌린다'",
+      "summary": "아일랜드 디자이너가 S/S 2027 컬렉션의 이야기를 전합니다.",
+      "url": "https://www.wallpaper.com/fashion-beauty/simone-rocha-ss-2027-menswear-show-interview",
+      "source": "Wallpaper",
+      "domain": "DESIGN",
+      "category": "인터뷰",
+      "creator_name": "Simone Rocha",
+      "creator_insight": "남성성의 부드러운 면에 끌린다.",
+      "tags": [
+        "패션",
+        "남성성",
+        "부드러움"
+      ],
+      "execution_techniques": [
+        "패션쇼"
+      ],
+      "why": "이 컬렉션은 전통적인 남성성의 경계를 허물며, 현대인들이 젠더와 관련된 고정관념을 넘어서는 새로운 정체성을 탐구하는 데 도움을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/mDHBKvsdcU3MBgdHBTzYQb-1280-80.jpg",
+      "pub_date": "2026-06-18T23:16:39+00:00"
+    },
+    {
+      "title_ko": "Teresita Fernández, 휴스턴의 프레스코 빌딩 재개관을 장식하다",
+      "summary": "뉴욕 기반 아티스트가 휴스턴의 프레스코 빌딩 재개관을 위한 첫 아티스트로 선정되었습니다.",
+      "url": "https://www.artforum.com/news/teresita-fernandez-will-grace-menil-fresco-building-1234752574/",
+      "source": "Artforum",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "Teresita Fernández",
+      "creator_insight": "",
+      "tags": [
+        "아트",
+        "설치미술",
+        "재개관"
+      ],
+      "execution_techniques": [
+        "설치미술"
+      ],
+      "why": "이 설치미술은 공간의 재해석을 통해 현대인들이 일상 속에서 예술적 영감을 얻고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/06/Teresita-Fernandez-at-the-Fresco-Building-The-Menil-Collection-Houston.-Photo_-Sarah-Hobson.jpg",
+      "pub_date": "2026-06-18T21:21:01+00:00"
+    },
+    {
+      "title_ko": "46개의 블랙 소유 디자인 비즈니스",
+      "summary": "디자인 세계와 그 너머에서 주목할만한 블랙 소유 비즈니스",
+      "url": "https://www.architecturaldigest.com/story/black-owned-business-shop-guide",
+      "source": "Architectural Digest",
+      "domain": "DESIGN",
+      "category": "리스트",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디자인",
+        "블랙 소유",
+        "비즈니스"
+      ],
+      "execution_techniques": [
+        "리스트"
+      ],
+      "why": "이 리스트는 다양성과 포용성을 강조하며, 현대인들이 사회적 책임을 고려한 소비를 추구하는 데 도움을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://media.architecturaldigest.com/photos/6986676a9a362421a593f6fd/16:9/w_1280,c_limit/black-owned-businesses.jpg",
+      "pub_date": "2026-06-18T21:07:09+00:00"
+    },
+    {
+      "title_ko": "Refik Anadol의 Dataland, 세계 최초의 AI 아트 뮤지엄",
+      "summary": "Anadol의 스튜디오에서 시작된 몰입형 '상상력의 실험실'",
+      "url": "https://www.theartnewspaper.com/2026/06/18/refik-anadol-dataland-opens-los-angeles",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "Refik Anadol",
+      "creator_insight": "",
+      "tags": [
+        "AI",
+        "아트",
+        "뮤지엄"
+      ],
+      "execution_techniques": [
+        "AI"
+      ],
+      "why": "이 AI 아트 뮤지엄은 기술과 예술의 융합을 통해 현대인들이 미래의 예술적 가능성을 탐구하는 데 도움을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/3b644c7902c91b7b52023ef76f10168e7d1343cf-1908x1272.jpg",
+      "pub_date": "2026-06-18T19:01:45+00:00"
+    },
+    {
+      "title_ko": "Adobe, Firefly와 Creative Cloud에 AI 디자인 도구 확장",
+      "summary": "Adobe가 AI 디자인 도구를 Premiere, Photoshop, Illustrator 등으로 확장합니다.",
+      "url": "https://abduzeedo.com/adobe-expands-ai-design-tools-across-firefly-and-creative-cloud/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Adobe",
+        "AI",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "AI"
+      ],
+      "why": "AI 도구의 확장은 창작자들이 더 효율적으로 작업할 수 있도록 도와주며, 현대인들이 창작의 자유를 누리고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_adobe-ai.jpg",
+      "pub_date": "2026-06-18T13:48:00+00:00"
+    },
+    {
+      "title_ko": "Chloe Wise: '모든 것을 혼합 수프에 넣으려 한다'",
+      "summary": "화가로 더 잘 알려진 아티스트의 새로운 비디오 및 설치 쇼",
+      "url": "https://www.theartnewspaper.com/2026/06/18/chloe-wise-im-trying-to-put-all-of-these-things-into-a-mishmash-soup",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "인터뷰",
+      "creator_name": "Chloe Wise",
+      "creator_insight": "",
+      "tags": [
+        "비디오",
+        "설치",
+        "혼합"
+      ],
+      "execution_techniques": [
+        "비디오",
+        "설치"
+      ],
+      "why": "이 작품은 다양한 문화적 요소를 혼합하여 현대인들이 복잡한 정체성과 세계관을 탐구하는 데 도움을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/40efb0e78e8a557a31cf74a712099830a66af984-2250x1500.jpg",
+      "pub_date": "2026-06-18T14:58:55+00:00"
+    },
+    {
+      "title_ko": "새로운 멕시코시티 직물 박물관, 토착 예술을 기념하다",
+      "summary": "새로운 Museo de Arte Textil de los Pueblos Indígenas y Afromexicanos는 직물을 살아있는 유산으로 프레임합니다.",
+      "url": "https://www.theartnewspaper.com/2026/06/18/museo-arte-textil-mexico-city-opens",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "직물",
+        "토착 예술",
+        "박물관"
+      ],
+      "execution_techniques": [
+        "박물관"
+      ],
+      "why": "이 박물관은 전통 예술의 가치를 재조명하며, 현대인들이 잊고 지내던 문화적 뿌리를 되찾고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/8b3d144c4c13a500f21ac86993af928ac8f5ec2a-2000x1800.jpg",
+      "pub_date": "2026-06-18T16:30:45+00:00"
+    },
+    {
+      "title_ko": "Sour Soda Studio, 인간이 통제력을 잃은 감미로운 세계를 그리다",
+      "summary": "일러스트레이터는 인간이 통제력을 잃은 감미로운 세계를 재미있게 그립니다.",
+      "url": "https://www.thisiscolossal.com/2026/06/sour-soda-studio-digital-illustrations/",
+      "source": "This is Colossal",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디지털 아트",
+        "일러스트",
+        "통제"
+      ],
+      "execution_techniques": [
+        "디지털 아트"
+      ],
+      "why": "이 작품은 현대 사회의 혼란과 불확실성을 시각적으로 표현하며, 현대인들이 느끼는 불안과 통제력 상실에 대한 공감을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/sour-soda-8.jpg",
+      "pub_date": "2026-06-18T16:36:07+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "이 바이럴 인디 판타지 RPG는 모든 캐릭터를 일러스트 예술로 변환하여 수백만 뷰를 끌어모으고 있다",
+      "summary": "Sovereign Tower의 '작음'이 RPG 디자인에서 가장 대담한 움직임일 수 있습니다.",
+      "url": "https://www.creativebloq.com/art/digital-art/this-viral-indie-fantasy-rpg-is-pulling-millions-of-views-by-turning-every-character-into-a-piece-of-illustrated-fine-art-and-building-an-entire-game-world-inside-a-single-hand-painted-tower",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "RPG",
+        "인디게임",
+        "바이럴"
+      ],
+      "why": "이 게임은 독특한 예술적 스타일과 창의적인 세계관을 통해 대중의 시선을 사로잡습니다. 이는 현대인들이 새로운 경험과 시각적 자극을 갈망하는 욕구를 충족시킵니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/26n6DEWnYsBM9xsQ9H6xkc-1280-80.jpg",
+      "pub_date": "2026-06-18T14:00:00+00:00"
+    },
+    {
+      "title_ko": "GTA 6 공식 박스 아트 공개, Rockstar는 Vice City 향수를 강하게 밀고 있다",
+      "summary": "가장 좋은 방식으로 즉시 친숙합니다.",
+      "url": "https://www.creativebloq.com/entertainment/gaming/gta-6-official-box-art-is-out-and-rockstar-is-leaning-hard-into-vice-city-nostalgia",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "GTA 6",
+        "게임",
+        "향수"
+      ],
+      "why": "GTA 6의 박스 아트는 과거의 향수를 불러일으키며, 이는 현대인들이 과거의 감성을 재현하고자 하는 욕구를 반영합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/WymhGNabnXBzd3XRZkaQwm-1280-80.jpg",
+      "pub_date": "2026-06-18T13:53:47+00:00"
+    },
+    {
+      "title_ko": "Nike Air Force 1 07 Low SE “Philadelphia” 공식 공개",
+      "summary": "즉시 친숙한 방식으로 디자인되었습니다.",
+      "url": "https://hypebeast.kr/2026/6/official-look-at-the-nike-air-force-1-07-low-se-philadelphia",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "Nike",
+        "스니커즈",
+        "패션"
+      ],
+      "why": "이 스니커즈는 지역적 정체성과 패션을 결합하여 대중의 시선을 끌며, 현대인들이 개성과 스타일을 통해 자신을 표현하고자 하는 욕구를 충족시킵니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2Fnike-air-force-1-07-low-se-philadelphia-light-orewood-brown-metallic-gold-silk-phantom-mineral-teal-treasure-blue-sail-iv6205-104-official-images-release-info.jpg?cbr=1&fit=max",
+      "pub_date": "2026-06-18T14:17:24+00:00"
+    }
+  ],
+  "keywords": [
+    "뮤지엄",
+    "디지털 아트",
+    "감성",
+    "Adobe",
+    "AI",
+    "토착 예술",
+    "여름",
+    "디자인",
+    "블랙 소유",
+    "박물관",
+    "비디오",
+    "뮤지컬",
+    "영화",
+    "비즈니스",
+    "고통",
+    "남성성",
+    "설치",
+    "문학",
+    "통제",
+    "부드러움",
+    "설치미술",
+    "자아",
+    "혼합",
+    "인간",
+    "재개관",
+    "철학",
+    "패션",
+    "직물",
+    "삶",
+    "일러스트",
+    "아트",
+    "인연"
+  ],
+  "macro_keywords": [
+    {
+      "word": "미학의 개인화와 서사적 확장",
+      "is_hot": true
+    },
+    {
+      "word": "감각적 경험과 몰입의 시대",
+      "is_hot": true
+    },
+    {
+      "word": "문화적 기억의 재해석",
+      "is_hot": false
+    },
+    {
+      "word": "기술과 예술의 융합",
+      "is_hot": false
+    },
+    {
+      "word": "정체성과 소속의 재발견",
+      "is_hot": false
+    },
+    {
+      "word": "다양성의 내러티브",
+      "is_hot": false
+    },
+    {
+      "word": "아이덴티티의 부드러움",
+      "is_hot": false
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "date": "2026-06-21",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 '개인의 정체성을 찾고자 하는 열망'입니다. 현대인들은 자신만의 독특한 정체성을 구축하고, 이를 통해 사회와의 연결을 강화하고자 합니다. 이러한 욕망은 개인의 브랜드 아이덴티티 디자인, 음악과 예술을 통한 자기 표현, 그리고 과거와 현대의 조화를 통해 새로운 가치를 창출하는 다양한 시도들에서 드러납니다.",
+  "creator_message": "큐레이터의 메시지: 현대인들은 자신만의 독특한 정체성을 찾고자 하는 열망을 가지고 있습니다. 이러한 열망은 개인의 브랜드 아이덴티티 디자인, 음악과 예술을 통한 자기 표현, 그리고 과거와 현대의 조화를 통해 새로운 가치를 창출하는 다양한 시도들에서 드러납니다.",
+  "session": {
+    "timestamp": "2026-06-21T08:32:17.436936",
+    "considered": 139,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "현대음악이라는 낯선 문을 열다 - 앙상블블랭크 10",
+      "summary": "누군가에게 좋아하는 음악을 물어보면 선뜻 하나의 장르를 말하기 어렵다. 시즌에 따라 즐겨 찾는 음악이 다르며, 다양한 장르의 음악을 즐긴다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81310",
+      "source": "Art Insight",
+      "domain": "MUSIC",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "현대음악",
+        "다양성",
+        "음악취향"
+      ],
+      "execution_techniques": [
+        "공연"
+      ],
+      "why": "현대인들은 특정 장르에 국한되지 않고 다양한 음악을 통해 자신의 정체성을 탐색하고자 한다. 이는 음악을 통한 자기 표현의 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260620163443_rrngvqnt.jpg",
+      "pub_date": "2026-06-21T08:31:02.130349"
+    },
+    {
+      "title_ko": "늦어도 가장 찬란한 시들에 대하여 - 뮤지컬 ‘오지게 재밌는 가시나들’",
+      "summary": "뮤지컬은 '가시나'라는 이름처럼 시작부터 이미 시였다. 무대는 경북 칠곡을 배경으로 한다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81312",
+      "source": "Art Insight",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "뮤지컬",
+        "시작",
+        "정체성"
+      ],
+      "execution_techniques": [
+        "공연"
+      ],
+      "why": "뮤지컬은 개인의 정체성과 시작을 탐구하며, 이를 통해 현대인들이 자신의 삶을 다시 정의하고자 하는 욕구를 충족시킨다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260620182247_ofyhwwqf.jpg",
+      "pub_date": "2026-06-21T08:31:02.130318"
+    },
+    {
+      "title_ko": "'황금기'라는 이름의 결핍",
+      "summary": "황금기는 사회, 국가, 문화, 산업, 예술 분야 등이 가장 번성한 시기를 뜻한다. 이는 개인에게도 한 시대의 정점으로 다가온다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81307",
+      "source": "Art Insight",
+      "domain": "LITERATURE",
+      "category": "오피니언",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "황금기",
+        "문화",
+        "결핍"
+      ],
+      "execution_techniques": [
+        "AI 이미지 생성"
+      ],
+      "why": "현대인들은 과거의 황금기를 그리워하며, 현재의 결핍을 채우고자 한다. 이는 과거와 현대의 조화를 통해 새로운 가치를 창출하려는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260620111028_qdwkhypf.png",
+      "pub_date": "2026-06-21T08:31:02.130284"
+    },
+    {
+      "title_ko": "기억하고픈 파리",
+      "summary": "선악의 경계가 외부 조건과 상호작용하며 변모하듯, 사람의 성향과 기질도 일상 컨디션에 따라 변화한다.",
+      "url": "https://blog.naver.com/justina75/224322254991?fromRss=true&trackingCode=rss",
+      "source": "Naver Blog",
+      "domain": "LITERATURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "파리",
+        "기억",
+        "정체성"
+      ],
+      "execution_techniques": [
+        "에세이"
+      ],
+      "why": "파리를 기억하고 싶은 욕구는 개인의 정체성과 기억을 통해 과거와 현재를 연결하고자 하는 현대인의 심리를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MThfMjYx/MDAxNzgxNzkxNTkzNzgw.Uk7TRDND60OyLwakftLN2GyHSHZecJXFnZCGP4UbB_Qg.duVqw6ZvskypGZRy_cUwG2Y04VoNqMKmlb47LsXQuEQg.JPEG/900_Screenshot_20260618_154907_Gallery.jpg?type=s3",
+      "pub_date": "2026-06-21T06:49:54+09:00"
+    },
+    {
+      "title_ko": "Personal Brand Identity Designer: The Playmaker Logic",
+      "summary": "Algerian 디자이너 Mehdi Drd는 플레이메이커 시스템을 통해 개인 브랜드 아이덴티티를 디자인한다.",
+      "url": "https://abduzeedo.com/personal-brand-identity-designer-playmaker-logic/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Mehdi Drd",
+      "creator_insight": "",
+      "tags": [
+        "브랜드",
+        "아이덴티티",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "시스템 디자인"
+      ],
+      "why": "개인의 브랜드 아이덴티티는 현대인들이 자신만의 독특한 정체성을 구축하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_m10-studio-personal-brand-identity-visual-system-mehdi-drd.jpg",
+      "pub_date": "2026-06-20T22:01:11+00:00"
+    },
+    {
+      "title_ko": "Alla fiera Art Basel 2026 le vendite sono state tiepide",
+      "summary": "Art Basel 2026에서는 갤러리와 예술 작품의 품질이 높았으나 판매는 저조했다.",
+      "url": "https://www.artribune.com/professioni-e-professionisti/mercato/2026/06/fiera-art-basel-2026-report/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "아트바젤",
+        "예술",
+        "시장"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "예술 시장의 변화는 현대인들이 예술을 통해 자신의 정체성을 탐구하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/06/alfonso-artiaco1.jpeg",
+      "pub_date": "2026-06-20T21:00:00+00:00"
+    },
+    {
+      "title_ko": "SFC Brison — Bold Retro Western Typeface Bundle",
+      "summary": "SFC Brison은 BBQ 브랜드, 핫 소스 라벨, 아메리카나 패키지 디자인을 위한 레트로 서부 타이포그래피이다.",
+      "url": "https://abduzeedo.com/sfc-brison-bold-retro-western-typeface-bundle/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "타이포그래피",
+        "레트로",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "타이포그래피 디자인"
+      ],
+      "why": "레트로 디자인은 과거의 감성을 현대적 기술과 결합하여 새로운 가치를 창출하려는 현대인의 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_33.jpg",
+      "pub_date": "2026-06-20T20:58:15+00:00"
+    },
+    {
+      "title_ko": "CGI product visualization design: The Craft of Material Presence",
+      "summary": "CGI 제품 시각화 디자인이 전통 사진을 대체한다. Redshift 렌더링을 통해 산업 객체를 고품질로 번역한다.",
+      "url": "https://abduzeedo.com/cgi-product-visualization-design-craft-material-presence/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Matt Oxley",
+      "creator_insight": "",
+      "tags": [
+        "CGI",
+        "제품디자인",
+        "시각화"
+      ],
+      "execution_techniques": [
+        "CGI",
+        "Redshift 렌더링"
+      ],
+      "why": "CGI를 통한 제품 시각화는 현대인들이 물성의 귀환을 통해 디지털 시대의 정보 과잉을 극복하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_selected-cgi-product-visuals-2025-matt-oxley_1.jpg",
+      "pub_date": "2026-06-20T20:10:05+00:00"
+    },
+    {
+      "title_ko": "Le chiese sono sempre più vuote, cosa diventeranno?",
+      "summary": "독일에서 열린 비엔날레 Manifesta는 버려진 종교 건물을 새로운 용도로 변모시키는 방법을 모색한다.",
+      "url": "https://www.artribune.com/arti-visive/2026/06/germania-biennale-manifesta-chiese-sconsacrate-ruhr/",
+      "source": "Artribune",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "건축",
+        "비엔날레",
+        "변화"
+      ],
+      "execution_techniques": [
+        "비엔날레"
+      ],
+      "why": "버려진 공간의 재활용은 현대인들이 과거와 현재의 조화를 통해 새로운 가치를 창출하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/06/screenshot-2026-06-19-alle-120653.png",
+      "pub_date": "2026-06-20T19:00:00+00:00"
+    },
+    {
+      "title_ko": "Reinterpretazione e visione critica. Duchamp e Sturtevant dialogano in una mostra a Milano",
+      "summary": "밀라노에서 열린 전시회는 Duchamp와 Sturtevant의 작품을 통해 재해석과 비판적 시각을 탐구한다.",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/06/mostra-duchamp-sturtevant-milano/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "전시회",
+        "재해석",
+        "비판"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "작품의 재해석은 현대인들이 과거의 예술을 통해 현재의 정체성을 탐구하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/06/marcel-duchamp-sturtevant-dialogues-are-mostly-fried-snowballs-installation-view-thaddaeus-ropac-milan-2026-courtesy-thaddaeus-ropac-gallery-london-paris-salzburg-milan-seoul-photoroberto-marossi.jpg",
+      "pub_date": "2026-06-20T17:00:00+00:00"
+    },
+    {
+      "title_ko": "Inside the exhibition tracing dancehall and reggaetón's radical legacy",
+      "summary": "'Dancing the Revolution: From Dancehall to Reggaetón' 전시회는 40명의 아티스트를 통해 댄스홀과 레게톤의 급진적 유산을 탐구한다.",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/inside-the-exhibition-tracing-dancehall-and-reggaetons-radical-legacy",
+      "source": "Wallpaper",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "댄스홀",
+        "레게톤",
+        "전시회"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "댄스홀과 레게톤의 유산은 현대인들이 음악을 통해 자신의 정체성을 탐구하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/MjXTHfz3CA4v5zu42dXt3-1280-80.jpg",
+      "pub_date": "2026-06-20T11:00:00+00:00"
+    },
+    {
+      "title_ko": "A waterfront house in Miami is arranged as a sequence of densely planted courtyards",
+      "summary": "KoDA는 마이애미 비치에 있는 해안가 주택을 식재를 통해 보호된 시야를 형성하여 개인적인 공간을 창출하였다.",
+      "url": "https://www.wallpaper.com/architecture/residential/a-waterfront-house-koda-miami-usa",
+      "source": "Wallpaper",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "건축",
+        "주택",
+        "개인공간"
+      ],
+      "execution_techniques": [
+        "건축"
+      ],
+      "why": "개인적인 공간 창출은 현대인들이 자신만의 독특한 정체성을 구축하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/c2X9jhsQPykUZx8rC9Jo9B-1280-80.jpg",
+      "pub_date": "2026-06-20T06:00:00+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "Disney's Hexed 트레일러, 영화 프레이밍과 미장센에 대한 큰 논쟁을 불러일으키다",
+      "summary": "디즈니의 'Hexed' 트레일러가 영화 프레이밍과 미장센에 대한 논쟁을 불러일으켰다.",
+      "url": "https://www.creativebloq.com/art/animation/disneys-hexed-trailer-has-sparked-an-enormous-debate-about-movie-framing-and-mise-en-scene",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "디즈니",
+        "논쟁",
+        "미장센"
+      ],
+      "why": "디즈니의 'Hexed' 트레일러는 대중이 영화의 시각적 연출에 대해 적극적으로 참여하고 논의할 수 있는 기회를 제공하며, 이는 현대인들이 콘텐츠 소비에 있어 더욱 능동적인 역할을 하고자 하는 욕구를 반영한다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/GzHv669Yf4P3NG45Rg8fkK-1280-80.jpg",
+      "pub_date": "2026-06-20T09:00:00+00:00"
+    },
+    {
+      "title_ko": "Bad Bunny, 라틴 아티스트 최초 투어 누적 매출 10억 달러 돌파",
+      "summary": "Bad Bunny가 라틴 아티스트로서 최초로 투어 누적 매출 10억 달러를 돌파했다.",
+      "url": "https://hypebeast.kr/2026/6/bad-bunny-first-latin-artist-gross-1-billion-usd-from-touring-history-record-debi-tirar-mas-fotos-world-tour-news",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "Bad Bunny",
+        "라틴음악",
+        "기록"
+      ],
+      "why": "Bad Bunny의 성공은 라틴 음악의 세계적인 인기를 반영하며, 이는 문화적 다양성과 포용성을 중시하는 현대인의 가치관과 연결된다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2Fbad-bunny-first-latin-artist-gross-1-billion-usd-from-touring-history-record-debi-tirar-mas-fotos-world-tour-news-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-06-20T08:00:53+00:00"
+    },
+    {
+      "title_ko": "축구·리테일·게이밍·크래프트를 한 번에: Hypebeast Cup 2026, 한 달간의 싱가포르 랜딩 프로그램 공개",
+      "summary": "Hypebeast Cup 2026은 축구, 리테일, 게이밍, 크래프트를 결합한 프로그램을 싱가포르에서 공개한다.",
+      "url": "https://hypebeast.kr/2026/6/hypebeast-cup-2026-singapore-football-culture-program",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "Hypebeast",
+        "축구",
+        "문화"
+      ],
+      "why": "Hypebeast Cup 2026은 다양한 문화를 결합하여 현대인들이 여러 관심사를 동시에 충족할 수 있는 기회를 제공하며, 이는 다면적인 경험을 추구하는 현대인의 욕구를 반영한다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2Fhypebeast-cup-2026-singapore-football-culture-program-0.png?cbr=1&format=png&fit=max",
+      "pub_date": "2026-06-20T08:58:09+00:00"
+    }
+  ],
+  "keywords": [
+    "결핍",
+    "문화",
+    "다양성",
+    "브랜드",
+    "시장",
+    "변화",
+    "개인공간",
+    "디자인",
+    "제품디자인",
+    "파리",
+    "레게톤",
+    "정체성",
+    "비엔날레",
+    "아트바젤",
+    "타이포그래피",
+    "황금기",
+    "현대음악",
+    "뮤지컬",
+    "주택",
+    "기억",
+    "음악취향",
+    "비판",
+    "시각화",
+    "건축",
+    "댄스홀",
+    "아이덴티티",
+    "CGI",
+    "전시회",
+    "레트로",
+    "재해석",
+    "시작",
+    "예술"
+  ],
+  "macro_keywords": [
+    {
+      "word": "다양성에 기반한 음악적 여정",
+      "is_hot": false
+    },
+    {
+      "word": "감성적 공간의 재발견",
+      "is_hot": false
+    },
+    {
+      "word": "예술과 소비의 불균형",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 전환으로 인한 새로운 예술 표현",
+      "is_hot": false
+    },
+    {
+      "word": "급진적 문화 유산의 부흥",
+      "is_hot": true
+    },
+    {
+      "word": "개인의 브랜딩 혁명",
+      "is_hot": false
+    },
+    {
+      "word": "복합적 문화 체험의 시대",
+      "is_hot": false
+    }
+  ]
+}

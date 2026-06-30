@@ -1,0 +1,315 @@
+{
+  "date": "2026-06-05",
+  "focusQ": "Ey Studio는 이탈리아의 전통적인 파네토네 브랜드를 재브랜딩하면서 고메 트렌드를 피하고 브랜드의 본질에 집중하는 전략을 선택했습니다. 이는 브랜드의 진정성을 유지하면서도 현대적 감각을 더하는 시각적 디테일을 통해 이루어졌습니다. Widow's Bay는 공포 영화의 점프 스케어 장르를 새로운 미학적 관점으로 탐구하여 장르 영화의 진화를 제시합니다. 이러한 접근은 기존의 공포 영화 문법을 재해석하는 데 기여합니다.",
+  "session": {
+    "timestamp": "2026-06-05T10:05:41.105906",
+    "considered": 30,
+    "selected": 12
+  },
+  "topPicks": [
+    {
+      "title_ko": "이탈리아의 상징적 파네토네를 재브랜딩한 Ey Studio",
+      "summary": "Ey Studio는 이탈리아의 상징적 파네토네 브랜드를 '고메' 트렌드를 피하고 보다 진정성 있는 방향으로 재브랜딩했다. 이는 브랜드의 본질을 재해석하는 과정이다.",
+      "url": "https://www.itsnicethat.com/articles/ey-studio-alemagna-branding-project-010625",
+      "source": "It's Nice That",
+      "category": "프로젝트",
+      "thread": "T04",
+      "tags": [
+        "브랜딩",
+        "진정성",
+        "디자인",
+        "이탈리아"
+      ],
+      "why": "Ey Studio는 이탈리아 파네토네 브랜드의 본질을 유지하면서도 현대적 감각을 더하는 재브랜딩을 통해 브랜드의 진정성을 강조했습니다. 이는 고메 트렌드를 피하고, 브랜드의 전통적 가치를 시각적으로 재해석하는 전략을 통해 이루어졌습니다.",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/eWiwWtWbQZ3euYAvPYD-LwYCOdY=/278578/width-1440/Post3.jpg"
+    },
+    {
+      "title_ko": "점프 스케어 장르의 미학: Widow's Bay",
+      "summary": "Widow's Bay는 점프 스케어 장르의 미학을 탐구하며, 공포 영화의 새로운 방향성을 제시한다. 이는 장르 영화의 진화를 보여준다.",
+      "url": "https://filmmakermagazine.com/133803-widows-bay-genre-jump-scare/",
+      "source": "Filmmaker Magazine",
+      "category": "리뷰",
+      "thread": "T01",
+      "tags": [
+        "영화",
+        "공포",
+        "장르",
+        "미학"
+      ],
+      "why": "Widow's Bay는 점프 스케어 장르의 새로운 미학적 관점을 제시하여 공포 영화의 진화를 시도했습니다. 이는 기존의 공포 영화 문법을 재해석하고, 새로운 시각적 경험을 제공하는 데 중점을 두었습니다.",
+      "depth": 0.85,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/Widows_Bay_Photo_010106.jpg.photo_modal_show_home_large_2x-940x400.jpg"
+    },
+    {
+      "title_ko": "프리즈매틱 그라운드 2026: 창문과 문턱",
+      "summary": "프리즈매틱 그라운드 2026은 창문과 문턱이라는 주제로 다양한 작품을 선보인다. 이는 경계와 통로를 탐구하는 예술적 시도를 보여준다.",
+      "url": "https://filmmakermagazine.com/133758-prismatic-ground-2026-dispatch/",
+      "source": "Filmmaker Magazine",
+      "category": "디스패치",
+      "thread": "T05",
+      "tags": [
+        "예술",
+        "경계",
+        "통로",
+        "탐구"
+      ],
+      "why": "프리즈매틱 그라운드 2026은 창문과 문턱이라는 주제를 통해 경계와 통로를 탐구하는 예술적 시도를 보여주었습니다. 이는 다양한 작품을 통해 공간과 경계의 개념을 시각적으로 표현하는 데 중점을 두었습니다.",
+      "depth": 0.85,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/image-940x400.png"
+    },
+    {
+      "title_ko": "Hacks와 The Comeback의 성공 비결",
+      "summary": "The Comeback은 항상 TV 산업의 새로운 존재 위기를 맞이할 때마다 등장합니다. 2005년 HBO 코미디 시리즈는 전 시트콤 스타가 스포트라이트로 돌아가려는 절박한 상황을 풍자한 작품입니다.",
+      "url": "https://filmmakermagazine.com/133844-considerations-hacks-and-the-comeback-emmys-2026/",
+      "source": "Filmmaker Magazine",
+      "domain": "FILM",
+      "category": "TV 시리즈",
+      "creator_name": "Michael Patrick King, Lisa Kudrow",
+      "creator_insight": "",
+      "tags": [
+        "TV",
+        "코미디",
+        "HBO"
+      ],
+      "why": "The Comeback은 TV 산업의 존재 위기를 풍자하며, 시트콤 스타의 절박한 상황을 유머러스하게 표현했습니다. 이는 산업의 변화에 대한 비판적 시각을 제공하면서도, 코미디 장르의 특성을 잘 살린 접근입니다.",
+      "social_proof": "HBO의 인기 시리즈로 주목받고 있습니다.",
+      "depth": 0.85,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/06/matt-cook-lisa-kudrow-tim-bagley-940x400.jpg",
+      "pub_date": "Wed, 10 Jun 2026 20:23:24 +0000"
+    },
+    {
+      "title_ko": "브루노 다이안: 프랑스 패션 사진의 거장",
+      "summary": "브루노 다이안은 호화로운 배경과 감각적인 상황 속 몽환적인 사진으로 유명합니다. 그의 작품은 패션 광고에서 두각을 나타내며, 감각적인 매력을 발산합니다.",
+      "url": "https://honestart.tistory.com/91",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "패션 사진",
+      "creator_name": "브루노 다이안",
+      "creator_insight": "",
+      "tags": [
+        "패션",
+        "사진",
+        "광고"
+      ],
+      "why": "브루노 다이안은 호화로운 배경과 감각적인 상황을 통해 몽환적인 패션 사진을 창조했습니다. 그의 작품은 패션 광고에서의 감각적 매력을 극대화하는 데 중점을 두었습니다.",
+      "social_proof": "다수의 유명 패션 하우스와 작업한 경력을 가지고 있습니다.",
+      "depth": 0.85,
+      "image": "https://t1.daumcdn.net/cfile/tistory/27542D3A53FEA4BB12",
+      "pub_date": "Thu, 28 Aug 2014 12:47:19 +0900"
+    },
+    {
+      "title_ko": "음란과 아름다움의 경계: Corrado Dalcò의 사진",
+      "summary": "이탈리아 사진작가 코르라도 달코는 음란과 아름다움의 모호한 경계를 탐구합니다. 그의 작품은 누드의 아름다움을 새로운 시각으로 표현합니다.",
+      "url": "https://honestart.tistory.com/89",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "사진 예술",
+      "creator_name": "코르라도 달코",
+      "creator_insight": "음란한 것도 아름다운 표현이고 아름다움의 한 형태라고 생각한다.",
+      "tags": [
+        "사진",
+        "예술",
+        "누드"
+      ],
+      "why": "달코의 작품은 누드의 미학을 재해석하며, 예술적 경계를 확장합니다.",
+      "social_proof": "작품의 독창성과 예술성으로 주목받고 있습니다.",
+      "depth": 0.85,
+      "image": "https://t1.daumcdn.net/cfile/tistory/253E404153FD8E7C08",
+      "pub_date": "Wed, 27 Aug 2014 16:57:49 +0900"
+    },
+    {
+      "title_ko": "David Hockney at Home: 예술가의 일상 엿보기",
+      "summary": "고인이 된 데이비드 호크니의 유럽과 캘리포니아에서의 일상을 담은 31장의 컬러 사진을 통해 그의 삶을 회고합니다.",
+      "url": "https://www.architecturaldigest.com/story/david-hockney-at-home-see-28-colorful-photographs-of-the-artists-domestic-life",
+      "source": "Architectural Digest",
+      "domain": "ART",
+      "category": "사진",
+      "creator_name": "데이비드 호크니",
+      "creator_insight": "",
+      "tags": [
+        "예술가",
+        "사진",
+        "일상"
+      ],
+      "why": "거장 화가 데이비드 호크니의 일상을 통해 그의 예술 세계를 더 깊이 이해할 수 있습니다.",
+      "social_proof": "호크니의 작품은 전 세계적으로 사랑받고 있습니다.",
+      "depth": 0.85,
+      "pub_date": "Fri, 12 Jun 2026 16:50:26 +0000",
+      "image": "https://media.architecturaldigest.com/photos/6a2c079920ce570bd124cd72/16:9/w_1280,c_limit/GettyImages-1277035137.jpg"
+    },
+    {
+      "title_ko": "데이비드 호크니의 서해안 집 재조명",
+      "summary": "영향력 있는 예술가 데이비드 호크니가 88세의 나이로 사망했습니다. 그의 서해안 집과 독특한 수영장을 다시 살펴보며 그를 추억합니다.",
+      "url": "https://www.architecturaldigest.com/story/revisiting-david-hockneys-house-on-the-west-coast",
+      "source": "Architectural Digest",
+      "domain": "ARCHITECTURE",
+      "category": "건축",
+      "creator_name": "데이비드 호크니",
+      "creator_insight": "",
+      "tags": [
+        "예술가",
+        "건축",
+        "수영장"
+      ],
+      "why": "호크니의 건축적 감각과 예술적 시각을 동시에 엿볼 수 있는 기회입니다.",
+      "social_proof": "호크니의 작품과 삶은 많은 이들에게 영감을 줍니다.",
+      "depth": 0.85,
+      "pub_date": "Fri, 12 Jun 2026 16:14:38 +0000",
+      "image": "https://media.architecturaldigest.com/photos/570d5b3c7f73d77c2e0fcd06/16:9/w_1280,c_limit/david-hockney-west%20coast-home-009.jpg"
+    },
+    {
+      "title_ko": "Strom by Celeste Asfour: 상상과 놀이가 만나는 카페",
+      "summary": "베를린의 한 조용한 안뜰에 자리한 Strom은 상상과 놀이가 만나는 카페로, Celeste Asfour가 개념화한 공간입니다.",
+      "url": "https://www.ignant.com/2026/04/20/strom-by-celeste-asfour-a-seasonal-cafe-where-reverie-meets-play/",
+      "source": "ignant.com",
+      "domain": "ARCHITECTURE",
+      "category": "카페 디자인",
+      "creator_name": "Celeste Asfour",
+      "creator_insight": "",
+      "tags": [
+        "카페",
+        "디자인",
+        "베를린"
+      ],
+      "why": "역사적 건물과 현대적 디자인이 결합된 공간으로, 창의적인 영감을 제공합니다.",
+      "social_proof": "베를린의 새로운 랜드마크로 주목받고 있습니다.",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/strom-clemens-poloczek-20-720x1081.jpg",
+      "pub_date": "Mon, 20 Apr 2026 11:56:12 +0000"
+    },
+    {
+      "title_ko": "Essential Forms in Modern Jewelry: ORFÈVRE의 Walter Wittek",
+      "summary": "ORFÈVRE는 의미와 아름다움을 중시하는 주얼리의 본고장입니다. 독일 조각가이자 금세공사인 Walter Wittek은 미니멀리즘과 기술적 숙련도를 결합한 디자인으로 돋보입니다.",
+      "url": "https://www.ignant.com/2026/01/14/essential-forms-in-modern-jewelry-orfevre-presents-walter-wittek/",
+      "source": "ignant.com",
+      "domain": "OBJECT",
+      "category": "주얼리 디자인",
+      "creator_name": "Walter Wittek",
+      "creator_insight": "",
+      "tags": [
+        "주얼리",
+        "디자인",
+        "미니멀리즘"
+      ],
+      "why": "Wittek의 작품은 주얼리 디자인의 새로운 경지를 개척하며, 예술성과 기능성을 동시에 추구합니다.",
+      "social_proof": "국제적인 주얼리 디자인 플랫폼에서 주목받고 있습니다.",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/01/orfevre-walter-wittek-ignant-1-720x958.jpg",
+      "pub_date": "Wed, 14 Jan 2026 09:16:37 +0000"
+    },
+    {
+      "title_ko": "Aeyde Haus: 동베를린 랜드마크의 새로운 시대",
+      "summary": "베를린의 칼-마르크스-알레에 위치한 Aeyde Haus는 도시의 주요 디자인 수출품의 작업 공간으로 새롭게 변모했습니다.",
+      "url": "https://www.ignant.com/2026/01/07/aeyde-haus-by-gonzalez-haase-aas-marks-a-new-era-for-an-east-berlin-landmark/",
+      "source": "ignant.com",
+      "domain": "ARCHITECTURE",
+      "category": "건축 디자인",
+      "creator_name": "Gonzalez Haase AAS",
+      "creator_insight": "",
+      "tags": [
+        "건축",
+        "디자인",
+        "베를린"
+      ],
+      "why": "역사적 건축물의 현대적 재해석을 통해 도시 재생의 좋은 예시를 제공합니다.",
+      "social_proof": "베를린의 디자인 커뮤니티에서 긍정적인 평가를 받고 있습니다.",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/01/aeyde-gonzalez-haase-aas-ignant-clemens-poloczek-15-720x1081.jpg",
+      "pub_date": "Wed, 07 Jan 2026 10:02:31 +0000"
+    },
+    {
+      "title_ko": "OD Photo Prize 2025 | 수상자 발표",
+      "summary": "OD Photo Prize 2025는 새로운 재능을 발굴하고 Covid 이후의 도전을 극복하는 예술가들을 지원하기 위해 설립되었습니다.",
+      "url": "https://opendoors.gallery/od-photo-prize-2025",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "사진상",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "상",
+        "예술"
+      ],
+      "why": "신진 사진작가들에게 중요한 플랫폼을 제공하며, 예술계의 미래를 밝힙니다.",
+      "social_proof": "국제적인 사진 공모전으로 인정받고 있습니다.",
+      "depth": 0.85,
+      "pub_date": "Thu, 25 Sep 2025 07:45:45 +0000",
+      "image": "https://opendoors.gallery/wp-content/uploads/2025/09/ja-young-34-Cropped.jpg"
+    }
+  ],
+  "items": [],
+  "keywords": [
+    "사진",
+    "가족",
+    "세대",
+    "사랑",
+    "음악",
+    "그래픽",
+    "유산",
+    "창의성"
+  ],
+  "popcorn": [
+    {
+      "title_ko": "Mini Golf at Canary Wharf, London",
+      "summary": "런던의 캐너리 워프에 설치된 크레이그 & 칼의 미니 골프 코스는 밝은 색상과 재미있는 기하학적 모양으로 광장을 변모시켰습니다.",
+      "url": "https://levineleavitt.com/craig-karl-mini-golf-at-canary-wharf-london/",
+      "source": "levineleavitt.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "미니 골프",
+        "런던",
+        "디자인"
+      ],
+      "why": "크레이그 & 칼의 미니 골프 코스는 밝은 색상과 재미있는 기하학적 모양을 통해 캐너리 워프의 광장을 변모시켰습니다. 이는 공공 공간에 놀이적 요소를 더해 시각적 즐거움을 제공하는 데 중점을 두었습니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "Fri, 03 Jun 2022 17:23:53 +0000"
+    },
+    {
+      "title_ko": "13 Best Dishware Sets For Impressing Your Guests (2026)",
+      "summary": "IYKYK 조각들로 테이블을 장식하세요.",
+      "url": "https://www.architecturaldigest.com/story/dinnerware-sets",
+      "source": "Architectural Digest",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "디너웨어",
+        "홈데코",
+        "테이블"
+      ],
+      "why": "IYKYK 조각들은 테이블을 장식하여, 식사 공간에서의 시각적 인상을 강화하는 데 중점을 두었습니다. 이는 디자인과 기능성을 결합하여, 손님을 위한 독특한 경험을 제공하는 전략입니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "Fri, 12 Jun 2026 19:28:19 +0000",
+      "image": "https://media.architecturaldigest.com/photos/6850596d7bed20c99df4a7fe/16:9/w_1280,c_limit/AD_TableTop_Final%205.jpg"
+    },
+    {
+      "title_ko": "NBA Players’ Homes: Step Inside 8 Championship-Worthy Homes of Basketball Stars",
+      "summary": "NBA 스타들의 거대한 공간을 탐험하세요.",
+      "url": "https://www.architecturaldigest.com/story/inside-8-championship-worthy-homes-of-past-and-present-nba-players",
+      "source": "Architectural Digest",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "NBA",
+        "주택",
+        "스타"
+      ],
+      "why": "스타들의 화려한 라이프스타일을 엿볼 수 있는 콘텐츠로 인기를 끌고 있습니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "Fri, 12 Jun 2026 16:47:27 +0000",
+      "image": "https://media.architecturaldigest.com/photos/62018ece2013da0c504a5a4b/16:9/w_1280,c_limit/AD0322_BOOKER_2%20copy.jpg"
+    }
+  ],
+  "creator_message": "Ey Studio는 전통적인 브랜드의 본질을 유지하면서도 현대적 감각을 더하는 재브랜딩을 통해, 브랜드의 진정성을 강조하는 동시에 시각적 신선함을 부여했습니다. Widow's Bay는 점프 스케어 장르의 새로운 미학을 탐구하여, 공포 영화의 진화를 시도하는 독창적인 접근을 보여줍니다."
+}

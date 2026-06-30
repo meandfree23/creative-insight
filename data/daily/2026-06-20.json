@@ -1,0 +1,417 @@
+{
+  "date": "2026-06-20",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 '개인화된 경험과 전통의 현대적 재해석'입니다. 현대인들은 디지털 시대의 정보 과잉 속에서 물성과 직관을 갈망하며, 지속 가능한 디자인과 개인화된 경험을 통해 사회적 책임을 느끼고자 합니다. 또한, 과거의 감성을 현대적 기술과 결합하여 새로운 가치를 창출하고자 하는 욕구가 강하게 드러나고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘날의 창작물은 개인의 경험을 중시하며, 전통과 현대 기술의 융합을 통해 새로운 가치를 창출하고자 합니다. 이는 현대인들이 정보 과잉 속에서 물성과 직관을 찾고자 하는 욕구를 반영합니다.",
+  "session": {
+    "timestamp": "2026-06-20T08:32:35.337835",
+    "considered": 148,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "책 디자인: Kirill Gluschenko의 선 사이",
+      "summary": "Kirill Gluschenko는 책 디자인에 대한 엄격한 접근 방식을 탐구하며, 물리적 형식, 레이아웃 구조, 텍스트 리듬을 상호 의존적인 선택으로 다루고 있습니다.",
+      "url": "https://abduzeedo.com/book-design-between-lines-kirill-gluschenko/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Kirill Gluschenko",
+      "creator_insight": "책 디자인은 물리적 형식과 텍스트 리듬의 조화로운 결합이다.",
+      "tags": [
+        "책 디자인",
+        "물리적 형식",
+        "개인화된 경험"
+      ],
+      "execution_techniques": [
+        "구조적 레이아웃"
+      ],
+      "why": "이 기사는 물리적 형식과 디지털 시대의 정보 과잉 속에서 개인화된 경험을 갈망하는 현대인의 욕구를 반영합니다. 책 디자인을 통해 물성과 직관을 강조함으로써, 현대인들이 잃어버린 감각을 되찾고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_between-lines-kirill-gluschenko.jpg",
+      "pub_date": "2026-06-19T22:01:37+00:00"
+    },
+    {
+      "title_ko": "포장 디자인: 실루엣을 통한 전통과 현대의 균형",
+      "summary": "taoSTUDIO는 Lushang 중국 차를 위해 전통 중국 미학과 현대적 디자인을 결합한 이중 언어 포장 디자인을 개발했습니다.",
+      "url": "https://abduzeedo.com/packaging-design-balancing-heritage-and-modernity-silhouette/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "taoSTUDIO",
+      "creator_insight": "전통과 현대의 균형은 디자인의 핵심입니다.",
+      "tags": [
+        "포장 디자인",
+        "전통",
+        "현대"
+      ],
+      "execution_techniques": [
+        "이중 언어 디자인"
+      ],
+      "why": "이 디자인은 전통과 현대의 조화를 통해 새로운 가치를 창출하고자 하는 현대인의 욕구를 반영합니다. 이는 전통적 미학을 현대적 감각으로 재해석함으로써, 과거의 감성을 현대적 기술과 결합하고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_lushang-branding-packaging-taostudio-.jpg",
+      "pub_date": "2026-06-19T20:26:22+00:00"
+    },
+    {
+      "title_ko": "생성적 디자인 시스템: 벵골 클래식 음악 페스티벌",
+      "summary": "Shafiq Alam의 벵골 클래식 음악 페스티벌을 위한 생성적 디자인 시스템 연구는 라가를 세분화된 3차원 예술로 번역합니다.",
+      "url": "https://abduzeedo.com/generative-design-system-bengal-classical-music-festival/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Shafiq Alam",
+      "creator_insight": "음악과 예술은 서로의 언어로 번역될 수 있다.",
+      "tags": [
+        "생성적 디자인",
+        "클래식 음악",
+        "예술"
+      ],
+      "execution_techniques": [
+        "3차원 예술"
+      ],
+      "why": "이 기사는 음악과 예술의 융합을 통해 새로운 형태의 창작을 갈망하는 현대인의 욕구를 반영합니다. 이는 전통적인 예술 형식을 현대적 기술로 재해석하여 새로운 경험을 제공하고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_bengal-classical-music-festival-shafiq-alam_0.jpg",
+      "pub_date": "2026-06-19T19:50:04+00:00"
+    },
+    {
+      "title_ko": "모리온 화장품 포장 디자인",
+      "summary": "핀란드 기반 디자이너 Darina Selischeva가 설계한 모리온의 브랜드 아이덴티티는 임상적이면서도 우아한 미학을 확립합니다.",
+      "url": "https://abduzeedo.com/morion-cosmetics-packaging-design-darina-selischeva/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Darina Selischeva",
+      "creator_insight": "임상적 디자인도 우아할 수 있다.",
+      "tags": [
+        "포장 디자인",
+        "화장품",
+        "우아함"
+      ],
+      "execution_techniques": [
+        "구조적 타이포그래피"
+      ],
+      "why": "이 디자인은 임상적이면서도 우아한 미학을 통해 현대인의 심미적 욕구를 충족시킵니다. 이는 기능성과 미학의 균형을 통해 새로운 경험을 제공하고자 하는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_morion-branding-packaging-darina-selischeva.jpg",
+      "pub_date": "2026-06-19T16:30:23+00:00"
+    },
+    {
+      "title_ko": "야리 클럽 레스토랑 브랜드 아이덴티티",
+      "summary": "런던 기반 디자인 스튜디오 Studio NinetyOne은 현대 일본 야키토리 레스토랑을 위한 일관된 브랜드 아이덴티티를 창조했습니다.",
+      "url": "https://abduzeedo.com/yari-club-restaurant-brand-identity-studio-ninetyone/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Studio NinetyOne",
+      "creator_insight": "브랜드 아이덴티티는 문화적 뿌리와 현대적 감각의 결합이다.",
+      "tags": [
+        "브랜드 아이덴티티",
+        "레스토랑",
+        "문화"
+      ],
+      "execution_techniques": [
+        "깨끗한 타이포그래피"
+      ],
+      "why": "이 브랜드 아이덴티티는 문화적 뿌리와 현대적 감각을 결합하여 새로운 가치를 창출하고자 하는 현대인의 욕구를 반영합니다. 이는 전통적인 문화 요소를 현대적 디자인으로 재해석하여 새로운 경험을 제공하고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_yari-club-studio-ninetyone_0.jpg",
+      "pub_date": "2026-06-19T15:41:57+00:00"
+    },
+    {
+      "title_ko": "콘센트리코 2026: 건축이 모든 감각을 참여시키다",
+      "summary": "스페인 로그로뇨에서 열리는 건축 페스티벌로, 22개의 설치물이 도시 경험에 몰입하도록 초대합니다.",
+      "url": "https://www.wallpaper.com/architecture/architecture-events/concentrico-2026",
+      "source": "Wallpaper",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "건축",
+        "감각",
+        "몰입"
+      ],
+      "execution_techniques": [
+        "감각적 설치"
+      ],
+      "why": "이 페스티벌은 건축을 통해 도시 경험에 몰입하고자 하는 현대인의 욕구를 반영합니다. 이는 물리적 공간과 감각적 경험을 통해 새로운 형태의 몰입을 제공하고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/qMH85w8xuVShN5gMQWDjP7-1280-80.jpg",
+      "pub_date": "2026-06-19T16:12:33+00:00"
+    },
+    {
+      "title_ko": "한국항공, 공항 라운지를 럭셔리 환대의 새로운 표현으로 재정의하다",
+      "summary": "인천 국제공항에서 한국항공의 새로운 라운지는 항공사의 진화하는 정체성을 디자인 중심으로 경험할 수 있게 합니다.",
+      "url": "https://www.wallpaper.com/travel/korean-air-incheon-airport-new-lounges",
+      "source": "Wallpaper",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "공항 라운지",
+        "럭셔리",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "디자인 중심 경험"
+      ],
+      "why": "이 라운지는 럭셔리와 디자인 중심의 경험을 통해 현대인의 심미적 욕구를 충족시킵니다. 이는 여행의 일부분을 더욱 특별하게 만들고자 하는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/xSBiC8ZxNsEwCYouRAxNrU-1280-80.jpg",
+      "pub_date": "2026-06-19T16:11:25+00:00"
+    },
+    {
+      "title_ko": "새로운 다큐멘터리, Rashaad Newsome의 가장 큰 프로젝트의 이면을 탐구하다",
+      "summary": "2022년, 아티스트는 뉴욕의 역사적인 파크 애비뉴 아모리에서 흑인과 퀴어 문화를 대대적으로 축하했습니다.",
+      "url": "https://www.theartnewspaper.com/2026/06/19/rashaad-newsome-documentary-assembly",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Rashaad Newsome",
+      "creator_insight": "문화는 축하를 통해 더욱 강해진다.",
+      "tags": [
+        "다큐멘터리",
+        "흑인 문화",
+        "퀴어"
+      ],
+      "execution_techniques": [
+        "대규모 축하"
+      ],
+      "why": "이 다큐멘터리는 문화적 다양성과 포용성을 통해 사회적 책임을 강조하고자 하는 현대인의 욕구를 반영합니다. 이는 다양한 문화적 배경을 존중하고 축하함으로써 사회적 연대를 강화하고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/f669051429c0e9b3dc8aa6e52720173126e6c0af-2000x1333.jpg",
+      "pub_date": "2026-06-19T12:00:00+00:00"
+    },
+    {
+      "title_ko": "프랑스 와이너리, 국립 박물관으로 인정받다",
+      "summary": "La Coopérative-Musée Cérès Franco는 대대적인 리노베이션 후 다양한 컬렉션을 선보입니다.",
+      "url": "https://www.theartnewspaper.com/2026/06/19/sante-converted-french-winery-gains-recognition-as-national-museum",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "와이너리",
+        "박물관",
+        "문화유산"
+      ],
+      "execution_techniques": [
+        "리노베이션"
+      ],
+      "why": "이 박물관은 전통적인 공간을 현대적 문화 공간으로 재해석하여 새로운 가치를 창출하고자 하는 현대인의 욕구를 반영합니다. 이는 문화유산을 보존하고 현대적 감각으로 재해석하여 새로운 경험을 제공하고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/2e25ad1506ebb803aeb72e34e922d3b1f1b0b026-1566x1044.jpg",
+      "pub_date": "2026-06-19T11:53:59+00:00"
+    },
+    {
+      "title_ko": "민주주의의 구조 요청: ‘Freiraum Kunst’",
+      "summary": "벨뷰 성에서 열린 2주간의 임시 전시회는 행동으로 뒷받침할 기회를 놓쳤습니다.",
+      "url": "https://www.berlinartlink.com/2026/06/19/freiraum-kunst-schloss-bellevue-akademie-der-kuenste-review/",
+      "source": "Berlin Art Link",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "민주주의",
+        "예술",
+        "사회적 책임"
+      ],
+      "execution_techniques": [
+        "임시 전시"
+      ],
+      "why": "이 전시는 예술을 통해 사회적 책임과 민주주의의 중요성을 강조하고자 하는 현대인의 욕구를 반영합니다. 이는 예술을 통해 사회적 메시지를 전달하고 행동을 촉구하고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.berlinartlink.com/wp-content/uploads/2026/06/berlinartlink-adk26_FREIRAUM_KUNST_Ausstellungsansicht_Awe_1_c_dotgain.jpg",
+      "pub_date": "2026-06-19T11:51:49+00:00"
+    },
+    {
+      "title_ko": "네덜란드 거리 사진작가 Ed van der Elsken에 대한 집중 조명",
+      "summary": "이 아티스트는 1970년대 암스테르담의 삶을 기록했습니다.",
+      "url": "https://www.theartnewspaper.com/2026/06/19/zooming-in-on-the-dutch-street-photographer-ed-van-der-elsken",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Ed van der Elsken",
+      "creator_insight": "사진은 순간을 영원으로 만드는 예술이다.",
+      "tags": [
+        "거리 사진",
+        "네덜란드",
+        "암스테르담"
+      ],
+      "execution_techniques": [
+        "다큐멘터리 사진"
+      ],
+      "why": "이 기사는 과거의 순간을 기록하고 보존하고자 하는 현대인의 욕구를 반영합니다. 이는 사진을 통해 시간과 공간을 초월한 경험을 제공하고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/90bc9eb6eb84ee36de64c0c353378ecdd9ad017f-1973x2500.jpg",
+      "pub_date": "2026-06-19T11:50:25+00:00"
+    },
+    {
+      "title_ko": "Unreal Engine의 AI 추진이 청사진의 종말을 두려워하게 하다",
+      "summary": "Epic의 새로운 계획은 왜 모두를 분열시키는가?",
+      "url": "https://www.creativebloq.com/3d/video-game-design/unreal-engines-ai-push-sparks-backlash-as-developers-fear-the-end-of-blueprints",
+      "source": "Creative Bloq",
+      "domain": "TECH",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "AI",
+        "게임 디자인",
+        "청사진"
+      ],
+      "execution_techniques": [
+        "AI 통합"
+      ],
+      "why": "이 기사는 AI 기술의 발전이 창작 과정에 미치는 영향을 탐구하며, 인간의 창의성과 기술의 융합을 갈망하는 현대인의 욕구를 반영합니다. 이는 기술 발전에 따른 창작자의 역할 변화에 대한 불안과 기대를 동시에 다루고 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/64vFnkqAR7gDvn2c4gkCzS-1280-80.jpg",
+      "pub_date": "2026-06-19T15:00:00+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "토론토 항구에 떠 있는 완벽한 구색의 코너 스토어",
+      "summary": "예술가 Trevor Wheatley와 Cosmo Dean, 디자인 스튜디오 Puncture가 온타리오 호수에 편의점을 정박시켰습니다.",
+      "url": "https://www.creativeboom.com/news/a-fully-stocked-corner-store-is-now-floating-in-torontos-harbour/",
+      "source": "Creative Boom",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "팝콘",
+        "편의점",
+        "토론토"
+      ],
+      "why": "이 콘텐츠는 일상적인 공간을 비일상적인 장소에 배치함으로써 시각적 충격과 호기심을 자극합니다. 이는 현대인들이 일상에서 벗어나 새로운 경험을 갈망하는 심리를 반영합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://www.creativeboom.com/upload/articles/a6/a66de214a395d47c1a87e74c5e11f5e8cb1a2e99_840.jpg",
+      "pub_date": "2026-06-19T18:00:00+01:00"
+    },
+    {
+      "title_ko": "월드컵 팬들은 랜치에 빠져들고, 크래프트는 TSA 친화적인 솔루션을 제공하다",
+      "summary": "월드컵 팬들을 위한 크래프트의 랜치 소스가 TSA 친화적인 포장으로 제공됩니다.",
+      "url": "https://thedieline.com/world-cup-fans-are-falling-for-ranch-and-kraft-has-a-tsa-friendly-solution/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "팝콘",
+        "월드컵",
+        "랜치"
+      ],
+      "why": "이 콘텐츠는 팬덤과 일상적인 소비재의 결합을 통해 대중의 관심을 끌고 있습니다. 이는 스포츠 이벤트와 관련된 소비자 행동을 분석하고, 팬덤의 힘을 활용한 마케팅 전략을 보여줍니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://thedieline.com/wp-content/uploads/2026/06/kraft-launches-tsa-compliant-ranch-kit-for-world-cup-fans.jpg.avif",
+      "pub_date": "2026-06-19T13:00:11+00:00"
+    },
+    {
+      "title_ko": "병을 벌로 변신시킨 맥주",
+      "summary": "맥주 병을 벌 모양으로 변형시킨 디자인이 주목받고 있습니다.",
+      "url": "https://thedieline.com/the-beer-that-turned-its-bottle-into-a-bee/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "팝콘",
+        "맥주",
+        "디자인"
+      ],
+      "why": "이 콘텐츠는 창의적인 패키징 디자인을 통해 대중의 시선을 사로잡고 있습니다. 이는 제품 디자인이 소비자 경험에 미치는 영향을 탐구하며, 시각적 유머와 창의성을 통해 브랜드 인지도를 높이고자 합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://thedieline.com/wp-content/uploads/2026/06/km07-2048x1363-1.jpg",
+      "pub_date": "2026-06-19T12:44:48+00:00"
+    }
+  ],
+  "keywords": [
+    "물리적 형식",
+    "개인화된 경험",
+    "퀴어",
+    "암스테르담",
+    "우아함",
+    "몰입",
+    "책 디자인",
+    "전통",
+    "흑인 문화",
+    "디자인",
+    "게임 디자인",
+    "레스토랑",
+    "럭셔리",
+    "민주주의",
+    "사회적 책임",
+    "문화유산",
+    "박물관",
+    "화장품",
+    "생성적 디자인",
+    "다큐멘터리",
+    "포장 디자인",
+    "건축",
+    "청사진",
+    "공항 라운지",
+    "거리 사진",
+    "현대",
+    "브랜드 아이덴티티",
+    "감각",
+    "예술",
+    "AI",
+    "네덜란드",
+    "문화",
+    "와이너리",
+    "클래식 음악"
+  ],
+  "macro_keywords": [
+    {
+      "word": "변화하는 포장미학의 경계",
+      "is_hot": false
+    },
+    {
+      "word": "문화와 정체성의 시각적 번역",
+      "is_hot": true
+    },
+    {
+      "word": "생성적 시스템의 예술적 적용",
+      "is_hot": true
+    },
+    {
+      "word": "전통과 현대의 융합디자인",
+      "is_hot": false
+    },
+    {
+      "word": "디지털과 물리적 공간의 교차로",
+      "is_hot": false
+    },
+    {
+      "word": "미래 럭셔리의 정의 변화",
+      "is_hot": false
+    },
+    {
+      "word": "역사와 개인적 내러티브의 통합",
+      "is_hot": false
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "date": "2026-06-16",
+  "focusQ": "더퍼 형제의 신작 영화는 파라마운트 픽쳐스의 발표와 함께 시각적으로 매력적인 포스터로 소개되어 기대감을 높였습니다. 마가렛 존슨은 광고 산업에서의 경험을 통해 급격한 변화에 대한 통찰을 공유하며, 조슈아 올라델레는 Wildpetals의 브랜드 아이덴티티를 꽃과 새의 일러스트레이션으로 시각화했습니다. McCann Wellington의 Dying Reviews 플랫폼은 사회적 책임을 강조하며 기업의 죽음 대처 방식을 평가합니다.",
+  "creator_message": "더퍼 형제는 시각적으로 매력적인 포스터를 통해 미스터리 영화에 대한 기대감을 조성했습니다. 마가렛 존슨은 광고 산업의 변화를 반영한 통찰을 공유하며, 조슈아 올라델레는 꽃과 새의 일러스트레이션을 통해 브랜드 아이덴티티를 시각적으로 구현했습니다.",
+  "session": {
+    "timestamp": "2026-06-16T14:10:43.302269",
+    "considered": 68,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "더퍼 형제의 미스터리 신작, 2028년 개봉 예정",
+      "summary": "파라마운트 픽쳐스가 더퍼 형제의 새로운 미스터리 장편 영화를 2028년 전 세계 극장에서 개봉한다고 발표했습니다. 이 영화는 시각적으로 매력적인 포스터와 함께 소개되었습니다.",
+      "url": "https://hypebeast.kr/2026/6/new-duffer-brothers-film-paramount-pictures-confirms-2028-release-date",
+      "source": "Hypebeast",
+      "domain": "FILM",
+      "category": "뉴스",
+      "creator_name": "더퍼 형제",
+      "creator_insight": "미스터리 장르의 새로운 시각적 탐구",
+      "tags": [
+        "더퍼 형제",
+        "미스터리",
+        "파라마운트",
+        "영화"
+      ],
+      "why": "더퍼 형제는 파라마운트 픽쳐스와 협력하여 시각적으로 매력적인 포스터를 통해 영화의 미스터리한 분위기를 전달하며, 관객의 기대감을 높였습니다. 이는 비주얼을 통한 스토리텔링의 강력함을 보여줍니다.",
+      "social_proof": "기대작으로 주목",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2Fnew-duffer-brothers-film-paramount-pictures-confirms-2028-release-date-000.jpg",
+      "pub_date": "2026-06-16T04:30:11+00:00",
+      "execution_techniques": [
+        "시각적 포스터",
+        "스토리텔링"
+      ]
+    },
+    {
+      "title_ko": "마가렛 존슨과의 월간 인터뷰",
+      "summary": "광고 산업에서 30년 동안 일해온 마가렛 존슨이 Goodby Silverstein & Partners의 CCO로서의 경험을 공유합니다. 그녀는 광고 산업의 급격한 변화를 반영하며 자신의 통찰을 제공합니다.",
+      "url": "https://www.creativereview.co.uk/the-monthly-interview-margaret-johnson-goodby-silverstein-and-partners/",
+      "source": "Creative Review",
+      "domain": "ADVERTISING",
+      "category": "인터뷰",
+      "creator_name": "마가렛 존슨",
+      "creator_insight": "광고 산업의 변화와 적응",
+      "tags": [
+        "광고",
+        "인터뷰",
+        "산업 변화",
+        "통찰"
+      ],
+      "why": "마가렛 존슨은 광고 산업의 급격한 변화를 반영하여 자신의 경험과 통찰을 공유함으로써, 변화하는 시장에서의 전략적 방향성을 제시합니다. 이는 실무자들에게 중요한 인사이트를 제공합니다.",
+      "social_proof": "업계 리더",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/06/Dali-Lives.jpg",
+      "pub_date": "2026-06-16T02:50:17+00:00",
+      "execution_techniques": [
+        "경험 공유",
+        "산업 통찰"
+      ]
+    },
+    {
+      "title_ko": "Wildpetals: 조슈아 올라델레의 브랜드 아이덴티티 디자인",
+      "summary": "조슈아 올라델레가 설계한 Wildpetals의 브랜드 아이덴티티는 꽃과 새의 일러스트레이션을 통해 시각적 스토리텔링을 제공합니다. 이는 수집 가능한 새 카드와 안내 시스템으로 구성됩니다.",
+      "url": "https://abduzeedo.com/wildpetals-brand-identity-design-joshua-oladele/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "디자인",
+      "creator_name": "조슈아 올라델레",
+      "creator_insight": "자연과의 시각적 조화",
+      "tags": [
+        "브랜드 디자인",
+        "일러스트레이션",
+        "스토리텔링",
+        "자연"
+      ],
+      "why": "조슈아 올라델레는 꽃과 새의 일러스트레이션을 통해 Wildpetals의 브랜드 아이덴티티를 시각적으로 구현함으로써, 브랜드의 스토리를 효과적으로 전달합니다. 이는 시각적 스토리텔링의 성공적인 사례입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_wildpetals-immersive-botanical-garden-identity.jpg",
+      "pub_date": "2026-06-16T02:49:00+00:00",
+      "execution_techniques": [
+        "일러스트레이션",
+        "시각적 스토리텔링"
+      ]
+    },
+    {
+      "title_ko": "Hospice New Zealand, 기업의 죽음 대처 평가",
+      "summary": "McCann Wellington과 함께한 Dying Reviews 플랫폼은 기업과 조직이 죽음을 대하는 방식을 평가할 기회를 제공합니다. 이는 사회적 책임을 강조하는 프로젝트입니다.",
+      "url": "https://www.creativereview.co.uk/hospice-new-zealand-rates-businesses-on-how-they-treat-the-dying/",
+      "source": "Creative Review",
+      "domain": "ADVERTISING",
+      "category": "사회적 캠페인",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사회적 책임",
+        "죽음",
+        "평가",
+        "캠페인"
+      ],
+      "why": "McCann Wellington의 Dying Reviews 플랫폼은 기업의 사회적 책임을 강조하며, 죽음 대처 방식을 평가하는 새로운 접근을 제시합니다. 이는 기업의 윤리적 이미지를 강화하는 데 기여합니다.",
+      "social_proof": "사회적 책임 강조",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/06/Dying-Reviews-PR-image-1.jpeg",
+      "pub_date": "2026-06-16T02:27:39+00:00",
+      "execution_techniques": [
+        "사회적 책임 강조",
+        "평가 시스템"
+      ]
+    },
+    {
+      "title_ko": "We Love Pitching: 창의적 과정의 현실",
+      "summary": "Nerdo ECD Claus Cibils는 압축된 피치 일정이 창의적 과정과 최종 결과에 미치는 영향을 상세히 설명합니다. 이는 창작자들이 직면하는 현실을 반영합니다.",
+      "url": "https://www.stashmedia.tv/we-love-pitching-chronicles-of-a-necessary-mess-part-5/",
+      "source": "Stash Media",
+      "domain": "ADVERTISING",
+      "category": "에세이",
+      "creator_name": "Claus Cibils",
+      "creator_insight": "창의적 과정의 도전",
+      "tags": [
+        "창의적 과정",
+        "피치",
+        "현실",
+        "광고"
+      ],
+      "why": "Claus Cibils는 압축된 피치 일정이 창의적 과정과 최종 결과에 미치는 영향을 설명하며, 창작자들이 직면하는 현실을 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/We-Love-Pitching-Part-5-Guest-editorial-by-Claus-Cibilis-_-STASH-MAGAZINE2.jpg",
+      "pub_date": "2026-06-15T22:25:49+00:00"
+    },
+    {
+      "title_ko": "UNBLACKIT: Backbone Branding의 패키지 디자인",
+      "summary": "Backbone Branding의 UNBLACKIT은 다양한 유제품의 패키지 디자인 프로젝트로, 현대의 다양한 유제품과 그 풍부함을 고려하여 설계되었습니다.",
+      "url": "https://abduzeedo.com/packaging-design-unblackit-backbone-branding/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "디자인",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "패키지 디자인",
+        "유제품",
+        "브랜딩",
+        "디자인"
+      ],
+      "why": "Backbone Branding은 다양한 유제품의 패키지 디자인을 통해 현대의 다양한 유제품과 그 풍부함을 시각적으로 표현합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_unblackit-backbone-branding.jpg",
+      "pub_date": "2026-06-15T22:01:51+00:00"
+    },
+    {
+      "title_ko": "디자인: Smooothy Slider Library",
+      "summary": "Federico Valla가 설계한 Smooothy Slider Library는 오픈 소스, 고도로 구성 가능한 슬라이더로, 프레임워크에 구애받지 않습니다.",
+      "url": "https://abduzeedo.com/design-smooothy-slider-library-federico-valla/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "디자인",
+      "creator_name": "Federico Valla",
+      "creator_insight": "오픈 소스 디자인 혁신",
+      "tags": [
+        "슬라이더",
+        "오픈 소스",
+        "디자인",
+        "구성 가능"
+      ],
+      "why": "Federico Valla는 오픈 소스, 고도로 구성 가능한 슬라이더를 설계하여, 사용자가 다양한 프레임워크에서 자유롭게 사용할 수 있도록 했습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_smooothy-slider-federico-valla.jpg",
+      "pub_date": "2026-06-15T13:32:57+00:00"
+    },
+    {
+      "title_ko": "올리비아 로드리고의 The Cure 뮤직 비디오의 수작업 세계 구축",
+      "summary": "올리비아 로드리고의 The Cure 뮤직 비디오는 수작업으로 구축된 세계를 통해 시각적 몰입을 제공합니다. 이는 Liam Moore의 창의적 비전으로 실현되었습니다.",
+      "url": "https://www.itsnicethat.com/features/liam-moore-olivia-rodrigo-the-cure-music-video-animation-film-spotlight-150626",
+      "source": "It's Nice That",
+      "domain": "FILM",
+      "category": "뮤직 비디오",
+      "creator_name": "Liam Moore",
+      "creator_insight": "수작업의 시각적 몰입",
+      "tags": [
+        "올리비아 로드리고",
+        "뮤직 비디오",
+        "수작업",
+        "몰입"
+      ],
+      "why": "Liam Moore는 수작업으로 구축된 세계를 통해 시각적 몰입을 제공하며, 올리비아 로드리고의 음악을 시각적으로 표현합니다.",
+      "social_proof": "창의적 비전 주목",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/SX6Db8Sgbzde4p-O5hX78KZSayc=/278869/width-1440%7Cformat-jpeg/Screenshot_2026-05-22_at_9.31.39AM.png",
+      "pub_date": "2026-06-15T08:00:00+00:00"
+    },
+    {
+      "title_ko": "Frida Kahlo at Home: 예술가의 성소에서의 10가지 사진",
+      "summary": "프리다 칼로의 삶을 사진으로 탐험하며, 그녀의 후손이 저술한 새로운 책 Casa Kahlo의 스냅샷을 포함합니다.",
+      "url": "https://www.architecturaldigest.com/story/frida-kahlo-at-home",
+      "source": "Architectural Digest",
+      "domain": "ART",
+      "category": "사진",
+      "creator_name": "프리다 칼로",
+      "creator_insight": "예술가의 삶과 공간",
+      "tags": [
+        "프리다 칼로",
+        "사진",
+        "예술가",
+        "성소"
+      ],
+      "why": "프리다 칼로의 삶을 사진으로 탐험하며, 그녀의 예술적 공간과 삶을 시각적으로 표현합니다.",
+      "social_proof": "예술적 탐험 주목",
+      "depth": 0.85,
+      "image": "https://media.architecturaldigest.com/photos/6a15c29e5bc2353b6395e478/16:9/w_1280,c_limit/Page%2065.jpg",
+      "pub_date": "2026-06-15T10:30:00+00:00"
+    },
+    {
+      "title_ko": "린코 가와우치: 일상 속 숨겨진 시적 순간들",
+      "title": "Rinko Kawauchi's Poetic Gaze on the Ordinary",
+      "summary": "일본의 현대 사진 거장 린코 가와우치가 포착한 일상의 파편들. 삶과 죽음, 그리고 자연의 순환이 그녀의 따뜻한 시선과 특유의 빛을 통해 시적인 이미지로 다시 태어납니다.",
+      "url": "https://bijutsutecho.com/magazine/interview/rinko-kawauchi-2026",
+      "source": "bijutsutecho.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "사진",
+      "creator_name": "Rinko Kawauchi",
+      "creator_insight": "“빛은 어디에나 공평하게 내립니다.”",
+      "tags": [
+        "린코 가와우치",
+        "일본 사진",
+        "빛의 시학"
+      ],
+      "why": "아주 사소한 일상조차도 우주적 경이로움으로 변모시키는 그녀만의 독보적인 시선과 프레이밍.",
+      "social_proof": "일본을 넘어 전 세계 사진계가 주목하는 일상 속 기적의 포착.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&q=80&w=800",
+      "pub_date": "2026-06-16T09:00:00Z"
+    },
+    {
+      "title_ko": "안도 다다오: 빛과 콘크리트가 빚어낸 명상적 공간",
+      "title": "Tadao Ando: The Meditative Power of Concrete and Light",
+      "summary": "장식적인 요소를 모두 배제하고 노출 콘크리트와 자연의 빛만으로 공간의 영성을 극대화하는 안도 다다오. 그의 건축은 물질을 넘어 철학적 명상의 장을 제공합니다.",
+      "url": "https://architecturephoto.net/tadao-ando-light-space",
+      "source": "architecturephoto.net",
+      "domain": "ARCHITECTURE",
+      "category": "건축",
+      "creator_name": "Tadao Ando",
+      "creator_insight": "“건축은 바람과 빛이 들어올 때 비로소 완성된다.”",
+      "tags": [
+        "안도 다다오",
+        "미니멀리즘",
+        "건축 디자인"
+      ],
+      "why": "최소한의 물성으로 최대한의 정신적 깊이를 이끌어내는 압도적인 미니멀리즘 건축의 정수.",
+      "social_proof": "전 세계 수많은 건축가들에게 영감을 주는 빛과 그림자의 마술사.",
+      "depth": 0.92,
+      "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=800",
+      "pub_date": "2026-06-16T11:30:00Z"
+    },
+    {
+      "title_ko": "하라 켄야: '비어있음(Emptiness)'의 미학",
+      "title": "Kenya Hara on the Aesthetics of Emptiness",
+      "summary": "무인양품의 아트 디렉터 하라 켄야가 말하는 '비어있음'의 철학. 아무것도 없는 백지 상태가 오히려 가장 많은 가능성과 상상력을 수용할 수 있는 완벽한 디자인임을 역설합니다.",
+      "url": "https://japandesign.ne.jp/interviews/kenya-hara-emptiness",
+      "source": "japandesign.ne.jp",
+      "domain": "DESIGN",
+      "category": "디자인",
+      "creator_name": "Kenya Hara",
+      "creator_insight": "“비어있기 때문에 무엇이든 담을 수 있다.”",
+      "tags": [
+        "하라 켄야",
+        "비어있음",
+        "디자인 철학"
+      ],
+      "why": "디자인을 '채우는 것'이 아닌 '비우는 것'으로 재해석하여 사용자에게 무한한 수용성을 제공하는 철학적 접근.",
+      "social_proof": "현대 디자인의 패러다임을 바꾼 무인양품 아트 디렉터의 인사이트.",
+      "depth": 0.9,
+      "image": "https://images.unsplash.com/photo-1507643179773-3e975d7ac515?auto=format&fit=crop&q=80&w=800",
+      "pub_date": "2026-06-16T14:15:00Z"
+    },
+    {
+      "title_ko": "스기모토 히로시: 시간이 정지된 바다",
+      "title": "Hiroshi Sugimoto's Seascapes: Time Suspended",
+      "summary": "장노출 사진의 대가 스기모토 히로시가 포착한 전 세계의 바다. 하늘과 물이 만나는 수평선만이 존재하는 그의 미니멀한 흑백 사진은 태고의 지구를 마주하는 듯한 숭고함을 선사합니다.",
+      "url": "https://tokyoartbeat.com/articles/hiroshi-sugimoto-seascapes-2026",
+      "source": "tokyoartbeat.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "사진",
+      "creator_name": "Hiroshi Sugimoto",
+      "creator_insight": "“시간의 흐름을 멈추고, 기억의 가장 깊은 곳을 사진으로 끌어올린다.”",
+      "tags": [
+        "스기모토 히로시",
+        "미니멀리즘",
+        "장노출"
+      ],
+      "why": "단순한 풍경을 넘어 인간 의식의 기원을 탐구하는 철학적이고 명상적인 프레이밍.",
+      "social_proof": "전 세계 주요 미술관이 소장하고 있는 현대 사진 예술의 정점.",
+      "depth": 0.96,
+      "image": "https://images.unsplash.com/photo-1499554284534-118bd44a04fa?auto=format&fit=crop&q=80&w=800",
+      "pub_date": "2026-06-16T15:00:00Z"
+    },
+    {
+      "title_ko": "쿠마 켄고: 자연으로 스며드는 '약한 건축'",
+      "title": "Kengo Kuma on 'Weak Architecture' and Nature",
+      "summary": "콘크리트의 지배를 거부하고 나무와 종이, 흙 등 자연 친화적인 소재를 활용하여 주변 환경에 겸손하게 녹아드는 쿠마 켄고의 건축 철학. 인간과 자연의 조화로운 공존을 제시합니다.",
+      "url": "https://architecturephoto.net/kengo-kuma-weak-architecture",
+      "source": "architecturephoto.net",
+      "domain": "ARCHITECTURE",
+      "category": "건축",
+      "creator_name": "Kengo Kuma",
+      "creator_insight": "“건축은 자연을 이기려 해선 안 된다. 자연 속으로 부드럽게 사라져야 한다.”",
+      "tags": [
+        "쿠마 켄고",
+        "자연친화",
+        "건축 철학"
+      ],
+      "why": "오만하고 거대한 랜드마크 대신, 주변 맥락과 대화하며 스며드는 겸손의 미학을 보여줌.",
+      "social_proof": "도쿄 올림픽 주경기장을 비롯해 수많은 프로젝트에서 입증된 '자연 건축'의 선구자.",
+      "depth": 0.93,
+      "image": "https://images.unsplash.com/photo-1541888043694-c75c8088edac?auto=format&fit=crop&q=80&w=800",
+      "pub_date": "2026-06-16T16:20:00Z"
+    },
+    {
+      "title_ko": "후카사와 나오토: 무의식의 디자인 'Without Thought'",
+      "title": "Naoto Fukasawa's 'Without Thought' Design Philosophy",
+      "summary": "사람들이 무의식적으로 행동하는 패턴을 관찰하여, 별도의 설명 없이도 가장 자연스럽고 직관적으로 사용할 수 있는 사물을 창조해 내는 후카사와 나오토의 '슈퍼 노멀' 디자인 철학입니다.",
+      "url": "https://japandesign.ne.jp/interviews/naoto-fukasawa-without-thought",
+      "source": "japandesign.ne.jp",
+      "domain": "DESIGN",
+      "category": "디자인",
+      "creator_name": "Naoto Fukasawa",
+      "creator_insight": "“훌륭한 디자인은 눈에 띄지 않지만, 없으면 불편함을 느끼는 존재다.”",
+      "tags": [
+        "후카사와 나오토",
+        "슈퍼노멀",
+        "직관적 디자인"
+      ],
+      "why": "제품 스스로가 사용법을 말하게 하여 사람의 무의식적 행동과 사물을 완벽하게 일치시키는 탁월함.",
+      "social_proof": "애플, 무인양품 등 글로벌 브랜드가 앞다투어 협업하는 최고의 산업 디자이너.",
+      "depth": 0.94,
+      "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&q=80&w=800",
+      "pub_date": "2026-06-16T17:10:00Z"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "스마트폰 없는 어린 시절, 90년대 비디오 가게의 2026년 변형",
+      "summary": "이 운동은 Arts & Sciences와 협력하여 어두운 유머가 담긴 가짜 DVD 커버를 통해 어린이들이 온라인에서 접하는 유해 콘텐츠를 강조합니다.",
+      "url": "https://www.creativereview.co.uk/smartphone-free-childhood-puts-2026-twist-on-a-90s-video-shop/",
+      "source": "Creative Review",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "어린이",
+        "온라인 콘텐츠"
+      ],
+      "why": "이 운동은 가짜 DVD 커버를 통해 유해 콘텐츠를 어두운 유머로 강조하며, 90년대 비디오 가게의 향수를 불러일으킵니다. 이는 대중에게 친숙한 형식을 통해 강력한 메시지를 전달합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/06/Smartphone-Free-Childhood-film-still.jpg",
+      "pub_date": "2026-06-16T02:17:24+00:00"
+    },
+    {
+      "title_ko": "KFC의 글로벌 리브랜딩: 아이콘을 세계로 확장",
+      "summary": "JKR과 협력하여 KFC는 아이콘인 버킷을 중심으로 한 새로운 세계관을 구축했습니다. 이는 로고의 리프레시, 확장된 색상 팔레트, 새로운 커널 샌더스를 포함합니다.",
+      "url": "https://www.itsnicethat.com/articles/jkr-kfc-graphic-design-project-150626",
+      "source": "It's Nice That",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "KFC",
+        "리브랜딩"
+      ],
+      "why": "KFC의 글로벌 리브랜딩은 버킷 아이콘을 중심으로 새로운 세계관을 구축하여, 브랜드의 상징성을 강화하고 대중의 관심을 끌었습니다. 이는 브랜드 아이덴티티의 중요성을 보여줍니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://admin.itsnicethat.com/images/UgGZElS9uKNaKCMeFFEWs3hvPkE=/279110/width-1440/jkr-kfc-graphicdesign-itsnicethat-24.jpeg",
+      "pub_date": "2026-06-15T11:00:00+00:00"
+    },
+    {
+      "title_ko": "장애인 대표성을 AI에서 도전하는 새로운 캠페인",
+      "summary": "의수 회사 Ottobock은 장애인 옹호자들이 AI 이미지 모델에서 직접 자신의 대표성을 반영하도록 초대하는 캠페인을 시작했습니다.",
+      "url": "https://www.creativereview.co.uk/ottobock-disability-representation-ai-campaign/",
+      "source": "Creative Review",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "장애인",
+        "AI"
+      ],
+      "why": "Ottobock의 캠페인은 장애인 옹호자들이 AI에서 자신의 대표성을 직접 반영하도록 초대하며, 포용성과 다양성에 대한 대중의 인식을 높입니다. 이는 사회적 메시지를 효과적으로 전달합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/06/2026-06-05_RS_PRESENCE_0223_FINAL_6K.jpg",
+      "pub_date": "2026-06-15T06:23:52+00:00"
+    }
+  ],
+  "keywords": [
+    "더퍼 형제",
+    "미스터리",
+    "파라마운트",
+    "영화",
+    "광고",
+    "인터뷰",
+    "산업 변화",
+    "통찰"
+  ],
+  "macro_keywords": [
+    {
+      "word": "시각적 몰입의 시대",
+      "is_hot": true
+    },
+    {
+      "word": "브랜드 정체성의 스토리화",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 전환과 사회적 책임",
+      "is_hot": true
+    },
+    {
+      "word": "개인화된 표현의 민주화",
+      "is_hot": false
+    },
+    {
+      "word": "레트로 감성의 현대적 해석",
+      "is_hot": false
+    },
+    {
+      "word": "급변하는 광고 산업의 적응",
+      "is_hot": false
+    },
+    {
+      "word": "창의적 현실과 피치 압력",
+      "is_hot": false
+    }
+  ]
+}
