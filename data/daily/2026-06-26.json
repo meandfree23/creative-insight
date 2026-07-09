@@ -1,0 +1,410 @@
+{
+  "date": "2026-06-26",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 무엇인가? 현대인들은 지금 무엇을 갈망하고 있는가? 현대인들은 개성과 창의성을 발휘할 수 있는 독특하고 개인화된 경험을 갈망하고 있습니다. 디지털 기술과 전통적인 예술이 결합된 새로운 형태의 창작물들이 주목받고 있으며, 이는 사회적, 심리적 결핍을 해소하는 데 중요한 역할을 하고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘 수집된 기사들은 디지털 기술과 전통 예술의 융합을 통해 개인화된 경험을 창출하는 흐름을 보여줍니다. 이러한 창작물들은 현대인의 개성과 창의성을 발휘할 수 있는 기회를 제공하며, 사회적, 심리적 결핍을 해소하는 데 기여하고 있습니다.",
+  "session": {
+    "timestamp": "2026-07-06T11:59:27.149096",
+    "considered": 601,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "디지털 공예로 탄생한 공룡 구체",
+      "summary": "xTool F2 Ultra UV를 사용하여 유리 크리스탈 볼 안에 공룡 구체를 새기는 방법을 소개합니다.",
+      "url": "https://www.creativebloq.com/creative-inspiration/digital-crafting/heres-how-i-created-a-dino-sphere-with-the-xtool-f2-ultra-uv",
+      "source": "Creative Bloq",
+      "domain": "DESIGN",
+      "category": "튜토리얼",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디지털 공예",
+        "유리 조각",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "레이저 조각"
+      ],
+      "why": "디지털 공예는 전통적인 예술 형식을 현대 기술과 결합하여 새로운 창작 가능성을 열어줍니다. 이는 개인의 창의성을 발휘할 수 있는 기회를 제공하며, 현대인의 심리적 결핍을 해소하는 데 기여합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/CXo2aU7XBCNGjNfbX7LvkU-1280-80.jpg",
+      "pub_date": "2026-07-05T16:00:00+00:00"
+    },
+    {
+      "title_ko": "여름 더위 속 창의적 작업 유지하기",
+      "summary": "여름철 더위로 인한 창작 작업의 중단을 피하기 위한 방법을 소개합니다.",
+      "url": "https://www.creativebloq.com/professional-development/creative-careers/every-summer-i-lose-at-least-a-day-of-creative-work-to-the-heat-but-not-this-time",
+      "source": "Creative Bloq",
+      "domain": "DESIGN",
+      "category": "팁",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "창의성",
+        "여름",
+        "생산성"
+      ],
+      "execution_techniques": [
+        "작업 환경 개선"
+      ],
+      "why": "더위로 인한 생산성 저하는 창작자에게 큰 도전입니다. 이를 극복할 수 있는 방법을 제공함으로써 창의적 작업을 지속할 수 있도록 돕습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/aPkJgrm4kjY9kVzUpFHTRk-1280-80.jpg",
+      "pub_date": "2026-07-05T14:00:00+00:00"
+    },
+    {
+      "title_ko": "필리포 마리놀리의 예술 세계",
+      "summary": "스폴레토에서 열린 필리포 마리놀리의 전시회를 통해 그의 다중 세계를 탐구합니다.",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/07/spoleto-collicola-mostre-filippo-marignoli/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "전시회",
+      "creator_name": "필리포 마리놀리",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "전시회",
+        "다중 세계"
+      ],
+      "execution_techniques": [
+        "전시 기획"
+      ],
+      "why": "다중 세계를 탐구하는 예술 작품은 현대인의 복잡한 정체성과 경험을 반영하며, 예술을 통해 새로운 시각을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/filippo-marignoli-1960-photo-mimi-gnoli-e1783070445527.webp",
+      "pub_date": "2026-07-05T12:00:00+00:00"
+    },
+    {
+      "title_ko": "세라믹을 통한 공동체 의식",
+      "summary": "사보나 근처에서 열린 전시회에서 세라믹이 어떻게 공동체 의식을 형성하는지 탐구합니다.",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/07/mostra-luca-trevisani-albissola-marina/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "전시회",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "세라믹",
+        "공동체",
+        "전시회"
+      ],
+      "execution_techniques": [
+        "공예"
+      ],
+      "why": "세라믹은 전통적인 공예 기술을 현대 사회의 공동체 의식과 결합하여 새로운 사회적 경험을 창출합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/lt02-1-scaled.jpg",
+      "pub_date": "2026-07-05T08:00:00+00:00"
+    },
+    {
+      "title_ko": "MARROW: 홍콩의 새로운 미트 러버 핫플",
+      "summary": "홍콩의 새로운 팝업 레스토랑 'MARROW'는 미트 러버들을 위한 독특한 경험을 제공합니다.",
+      "url": "https://hypebeast.kr/2026/7/marrow-pop-up-restaurant-hong-kong",
+      "source": "Hypebeast",
+      "domain": "OBJECT",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "레스토랑",
+        "미트 러버",
+        "팝업"
+      ],
+      "execution_techniques": [
+        "레스토랑 기획"
+      ],
+      "why": "독특한 미식 경험은 현대인의 개성과 취향을 반영하며, 새로운 사회적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fmarrow-pop-up-restaurant-hong-kong-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-05T07:51:37+00:00"
+    },
+    {
+      "title_ko": "중년 남성의 몸속에서 펼쳐지는 레트로 만화 게임",
+      "summary": "핸드 드로잉으로 제작된 이 게임은 중년 남성의 몸속에서 벌어지는 이야기를 레트로 만화 스타일로 그려냅니다.",
+      "url": "https://www.creativebloq.com/3d/video-game-design/this-hand-drawn-game-is-like-a-retro-cartoon-set-in-the-deteriorating-body-of-a-middle-aged-man",
+      "source": "Creative Bloq",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "게임",
+        "레트로",
+        "핸드 드로잉"
+      ],
+      "execution_techniques": [
+        "핸드 드로잉"
+      ],
+      "why": "레트로 스타일의 게임은 과거의 감성을 현대 기술과 결합하여 새로운 경험을 제공합니다. 이는 현대인의 향수를 자극하며, 창의적 표현의 기회를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/NyT7QT49jbEfbfb9oHxibf-1280-80.jpg",
+      "pub_date": "2026-07-05T07:00:00+00:00"
+    },
+    {
+      "title_ko": "마틴 브루드니츠키의 호스팅 팁",
+      "summary": "인테리어 디자이너 마틴 브루드니츠키가 그의 독특한 스타일로 저녁 식사를 준비하는 방법을 공유합니다.",
+      "url": "https://www.wallpaper.com/entertaining/how-we-host-with-martin-brusnizki",
+      "source": "Wallpaper",
+      "domain": "DESIGN",
+      "category": "인터뷰",
+      "creator_name": "마틴 브루드니츠키",
+      "creator_insight": "‘Be entertaining, be sparkling. Effervescence is required,’",
+      "tags": [
+        "인테리어",
+        "호스팅",
+        "스타일"
+      ],
+      "execution_techniques": [
+        "디자인"
+      ],
+      "why": "개성 있는 호스팅 스타일은 현대인의 사회적 경험을 풍부하게 하고, 개인의 창의성을 발휘할 수 있는 기회를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/5KMb3ctjHVZmh7we7Kzo8f-1280-80.png",
+      "pub_date": "2026-07-05T07:00:00+00:00"
+    },
+    {
+      "title_ko": "알루미늄 카페 테이블의 혁신",
+      "summary": "벽에서 떨어져 나오는 알루미늄 카페 테이블이 유연한 환대 가구의 새로운 기준을 제시합니다.",
+      "url": "https://www.designboom.com/design/aluminum-cafe-table-wall-flexible-hospitality-furniture-george-willy/",
+      "source": "Designboom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "가구 디자인",
+        "유연한 디자인",
+        "환대"
+      ],
+      "execution_techniques": [
+        "가구 디자인"
+      ],
+      "why": "유연한 가구 디자인은 현대의 협소한 상업 공간에 적합하며, 공간 활용을 극대화하여 새로운 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/wall-mounted-cafe-table-removable-table-bracket-george-willy-designboom-700-500x400-22b08q85r679.jpg",
+      "pub_date": "2026-07-05T04:30:56+00:00"
+    },
+    {
+      "title_ko": "코페하겐의 서점: 건축과 도시의 재료 도서관",
+      "summary": "코페하겐에 위치한 코베 스튜디오 내에 건축, 도시, 디자인에 관한 큐레이션된 도서들을 제공하는 서점이 열렸습니다.",
+      "url": "https://www.designboom.com/architecture/bookstore-cobe-copenhagen-material-library-architecture-cities-ideas/",
+      "source": "Designboom",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "서점",
+        "건축",
+        "도시"
+      ],
+      "execution_techniques": [
+        "큐레이션"
+      ],
+      "why": "서점은 현대인의 지적 호기심을 충족시키고, 건축과 도시 디자인에 대한 새로운 시각을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/cobe-public-architecture-bookstore-copenhagen-studio-designboom-700-500x400-22b08q85r808.jpg",
+      "pub_date": "2026-07-05T02:50:54+00:00"
+    },
+    {
+      "title_ko": "이색적인 도자기 풍경: 켄 프라이스",
+      "summary": "노르웨이에서 열린 켄 프라이스의 전시회는 그의 독특한 도자기와 색채 접근 방식을 선보입니다.",
+      "url": "https://www.designboom.com/art/otherworldly-ken-prices-solo-exhibition-pomo-norway/",
+      "source": "Designboom",
+      "domain": "ART",
+      "category": "전시회",
+      "creator_name": "켄 프라이스",
+      "creator_insight": "",
+      "tags": [
+        "도자기",
+        "색채",
+        "전시회"
+      ],
+      "execution_techniques": [
+        "도자기 제작"
+      ],
+      "why": "켄 프라이스의 작품은 전통적인 도자기 기법을 현대적으로 재해석하여 새로운 예술적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/ken-price-pomo-designboom-700-500x400-22b08q85r523.jpg",
+      "pub_date": "2026-07-04T19:45:45+00:00"
+    },
+    {
+      "title_ko": "이비앙의 곡선형 콘서트 홀",
+      "summary": "프랑스-스위스 국경에 위치한 이 콘서트 홀은 구리 외관과 원시적인 석고 음향을 특징으로 합니다.",
+      "url": "https://www.designboom.com/architecture/copper-shingles-curving-concert-hall-la-source-vive-evian-france-philippe-chiambaretta/",
+      "source": "Designboom",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "건축",
+        "음향",
+        "콘서트 홀"
+      ],
+      "execution_techniques": [
+        "건축 디자인"
+      ],
+      "why": "이 콘서트 홀은 현대 건축의 혁신적인 디자인을 통해 새로운 문화적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/source-vive-philippe-chiambaretta-architecte-evian-bains-france-designboom-700-500x400-22b08q85r632.jpg",
+      "pub_date": "2026-07-04T14:35:26+00:00"
+    },
+    {
+      "title_ko": "이탈리아의 거대 엑스보토",
+      "summary": "이탈리아의 세기적 엑스보토가 한 무법자의 영혼과 기억을 되살리는 이야기를 전합니다.",
+      "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/07/patrimonio-culturale-tignale-exvoto-zanzanu/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "문화유산",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "문화유산",
+        "기억",
+        "예술"
+      ],
+      "execution_techniques": [
+        "문화재 복원"
+      ],
+      "why": "문화유산을 통해 과거의 이야기를 현대에 전달함으로써, 역사적 기억을 보존하고 새로운 문화적 가치를 창출합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/la-storia-del-brigante-zanzanu-e-dellex-voto-di-tignale-sul-garda-1000493933-scaled.jpg",
+      "pub_date": "2026-07-05T10:00:00+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "스테판 커리의 새로운 로고",
+      "summary": "농구 전설 스테판 커리가 Li-Ning과의 새로운 파트너십을 발표하며 새로운 로고를 공개했습니다.",
+      "url": "https://www.creativebloq.com/design/logos-icons/steph-currys-new-logo-is-the-ultimate-game-of-spot-the-difference",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "스테판 커리",
+        "로고"
+      ],
+      "why": "스포츠 스타의 새로운 브랜드 아이덴티티는 팬들의 관심을 끌며, 브랜드 충성도를 강화하는 데 기여합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/gJMP3UGAwJcxcBtshFLuwA-1280-80.jpg",
+      "pub_date": "2026-07-05T08:00:00+00:00"
+    },
+    {
+      "title_ko": "테이크 댓의 스위스 라이브 공연",
+      "summary": "90년대의 컬트 밴드 테이크 댓이 스위스에서 라이브 공연을 펼칩니다.",
+      "url": "https://www.artribune.com/arti-performative/cinema/2026/07/take-that-live-sky-arte/",
+      "source": "Artribune",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "테이크 댓",
+        "라이브 공연"
+      ],
+      "why": "과거의 인기 밴드가 다시 무대에 오르는 것은 팬들에게 향수를 불러일으키며, 새로운 세대에게는 신선한 경험을 제공합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/takethatbackgroundbg.jpg",
+      "pub_date": "2026-07-05T09:00:00+00:00"
+    },
+    {
+      "title_ko": "애니메이션 'Witch Hat Atelier' 시즌 2 티저",
+      "summary": "애니메이션 'Witch Hat Atelier'의 시즌 2가 더 어두워진 마법 시련을 예고하는 티저를 공개했습니다.",
+      "url": "https://hypebeast.kr/2026/7/witch-hat-atelier-season-2-teaser-reveals-darker-magical-trials",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "애니메이션",
+        "티저"
+      ],
+      "why": "인기 애니메이션의 새로운 시즌은 기존 팬들의 기대를 높이고, 새로운 시청자들을 끌어들입니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-05T06:10:58+00:00"
+    }
+  ],
+  "keywords": [
+    "디지털 공예",
+    "미트 러버",
+    "핸드 드로잉",
+    "레트로",
+    "콘서트 홀",
+    "도시",
+    "스타일",
+    "다중 세계",
+    "전시회",
+    "서점",
+    "건축",
+    "여름",
+    "팝업",
+    "음향",
+    "게임",
+    "도자기",
+    "생산성",
+    "가구 디자인",
+    "환대",
+    "기억",
+    "창의성",
+    "문화유산",
+    "예술",
+    "호스팅",
+    "공동체",
+    "색채",
+    "세라믹",
+    "인테리어",
+    "유리 조각",
+    "레스토랑",
+    "유연한 디자인"
+  ],
+  "macro_keywords": [
+    {
+      "word": "원자화된 미학",
+      "is_hot": true
+    },
+    {
+      "word": "창의적 지속 가능성",
+      "is_hot": false
+    },
+    {
+      "word": "다중 세계의 예술",
+      "is_hot": false
+    },
+    {
+      "word": "공동체와 세라믹",
+      "is_hot": false
+    },
+    {
+      "word": "레트로와 현대 문화의 융합",
+      "is_hot": true
+    },
+    {
+      "word": "공간의 혁신적 활용",
+      "is_hot": false
+    },
+    {
+      "word": "음악과 건축의 조화",
+      "is_hot": false
+    }
+  ]
+}

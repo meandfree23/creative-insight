@@ -1,0 +1,404 @@
+{
+  "date": "2026-06-29",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 무엇인가? 현대인들은 지금 무엇을 갈망하고 있는가? 현대인들은 예술과 창작을 통해 자기 표현과 정체성 탐구를 갈망하고 있습니다. 기술의 발전과 함께 예술의 경계는 더욱 확장되고 있으며, 이는 개인의 창의성과 독창성을 발휘할 수 있는 새로운 플랫폼을 제공합니다. 또한, 사회적 책임과 역사적 맥락을 고려한 창작물에 대한 관심이 높아지고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘 수집된 기사들을 통해 우리는 예술과 기술의 융합이 개인의 창의성과 사회적 책임을 동시에 담아낼 수 있는 가능성을 확인할 수 있습니다. 이는 현대 사회에서 창작자들이 직면한 도전과 기회를 반영하고 있습니다.",
+  "session": {
+    "timestamp": "2026-07-06T12:00:59.316036",
+    "considered": 557,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "사람들",
+      "summary": "이 프로젝트는 2023년 5월부터 6월까지의 인간 형상 드로잉 컬렉션을 소개합니다.",
+      "url": "https://www.behance.net/gallery/252145179/people",
+      "source": "Behance",
+      "domain": "ART",
+      "category": "프로젝트",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "드로잉",
+        "인간",
+        "예술"
+      ],
+      "execution_techniques": [
+        "드로잉"
+      ],
+      "why": "인간의 형상을 탐구하는 이 프로젝트는 예술가들이 인간의 본질과 정체성을 어떻게 해석하고 표현하는지를 보여줍니다. 이는 현대 사회에서 자기 표현과 정체성 탐구에 대한 갈망을 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/4c5811252145179.Y3JvcCwzOTA1LDMwNTUsMjksMA.png",
+      "pub_date": "2026-07-04T21:30:06+00:00"
+    },
+    {
+      "title_ko": "DARK GLOBE: 비디오게임 단편영화",
+      "summary": "Donato Sansone가 감독하고 Enrico Ascoli가 음악을 담당한 'DARK GLOBE'는 BASE ZERO와 협력하여 제작된 작품입니다.",
+      "url": "https://vimeo.com/channels/staffpicks/1127074431",
+      "source": "Vimeo",
+      "domain": "FILM",
+      "category": "단편영화",
+      "creator_name": "Donato Sansone",
+      "creator_insight": "",
+      "tags": [
+        "비디오게임",
+        "단편영화",
+        "음악"
+      ],
+      "execution_techniques": [
+        "비디오아트"
+      ],
+      "why": "이 작품은 비디오게임과 영화의 경계를 허물며, 시청자들에게 새로운 시각적 경험을 제공합니다. 이는 기술과 예술의 융합을 통해 창의적인 표현을 추구하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T14:32:31-04:00"
+    },
+    {
+      "title_ko": "첫 번째 에피소드: 우리가 그리는 선",
+      "summary": "루이지애나 주의 수백 명의 주민들이 투표권을 지키기 위해 주 의사당에 모이는 장면을 그린 다큐멘터리입니다.",
+      "url": "https://designobserver.com/draw_the-line_episode_one/",
+      "source": "Design Observer",
+      "domain": "FILM",
+      "category": "다큐멘터리",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "투표권",
+        "다큐멘터리",
+        "사회운동"
+      ],
+      "execution_techniques": [
+        "다큐멘터리"
+      ],
+      "why": "이 다큐멘터리는 사회적 정의와 시민 권리의 중요성을 강조하며, 현대 사회에서 개인의 목소리를 내는 것이 얼마나 중요한지를 상기시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T13:06:22+00:00"
+    },
+    {
+      "title_ko": "다이나믹 브랜드 아이덴티티 스포츠 캠페인: FOX 2",
+      "summary": "Juan Carlos Pagan Studio는 FOX 2를 위한 다이나믹한 브랜드 아이덴티티 스포츠 캠페인을 디자인했습니다.",
+      "url": "https://abduzeedo.com/dynamic-brand-identity-sports-branding-campaign-fox-2/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "캠페인",
+      "creator_name": "Juan Carlos Pagan Studio",
+      "creator_insight": "",
+      "tags": [
+        "브랜드",
+        "스포츠",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "브랜드 디자인"
+      ],
+      "why": "이 캠페인은 빠른 속도와 역동성을 예술적으로 표현하여 브랜드의 정체성을 강화합니다. 이는 현대 소비자들이 브랜드와의 감성적 연결을 원한다는 점을 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T13:01:27+00:00"
+    },
+    {
+      "title_ko": "아티스트 스포트라이트: Madeline Gallucci",
+      "summary": "Madeline Gallucci의 작업과 그녀의 예술적 여정을 조명하는 아티스트 스포트라이트입니다.",
+      "url": "https://www.booooooom.com/2026/07/03/artist-spotlight-madeline-gallucci/",
+      "source": "Booooooom",
+      "domain": "ART",
+      "category": "인터뷰",
+      "creator_name": "Madeline Gallucci",
+      "creator_insight": "",
+      "tags": [
+        "아티스트",
+        "예술",
+        "인터뷰"
+      ],
+      "execution_techniques": [
+        "인터뷰"
+      ],
+      "why": "이 스포트라이트는 예술가의 개인적 경험과 창의적 과정을 탐구하며, 현대 사회에서 예술가들이 어떻게 자신을 표현하고 있는지를 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/06/Gallucci1.jpg",
+      "pub_date": "2026-07-03T13:00:18+00:00"
+    },
+    {
+      "title_ko": "노아 루텐버그와 판틸라 파타라프라싯의 뉴욕 디너 파티",
+      "summary": "디자이너 노아 루텐버그와 Sabai의 창립자인 판틸라 파타라프라싯이 매력적인 테이블을 큐레이팅합니다.",
+      "url": "https://www.architecturaldigest.com/story/table-mates-noah-ruttenberg-phantila-phataraprasit",
+      "source": "Architectural Digest",
+      "domain": "DESIGN",
+      "category": "이벤트",
+      "creator_name": "Noah Ruttenberg, Phantila Phataraprasit",
+      "creator_insight": "",
+      "tags": [
+        "디자인",
+        "이벤트",
+        "테이블"
+      ],
+      "execution_techniques": [
+        "큐레이션"
+      ],
+      "why": "이 이벤트는 디자인을 통해 사람들을 연결하고, 일상 속에서의 아름다움을 강조합니다. 이는 현대인들이 일상 속에서의 특별함과 연결을 갈망하고 있음을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T12:12:00+00:00"
+    },
+    {
+      "title_ko": "영국 박물관, 두 번째 기금 모금 무도회 위해 붉게 변신",
+      "summary": "올해의 이벤트 티켓은 1인당 £3,500이며, 박물관의 10억 파운드 변화를 위한 기금을 모금합니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/03/british-museum-to-turn-red-for-second-fundraising-ball",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "이벤트",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "박물관",
+        "기금 모금",
+        "이벤트"
+      ],
+      "execution_techniques": [
+        "이벤트 기획"
+      ],
+      "why": "이 기금 모금 행사는 예술과 문화의 중요성을 강조하고, 사회적 책임을 다하는 예술 기관의 역할을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/a1e63853f25977bff14f11a3c6caca7f133a7bcd-6480x4320.jpg",
+      "pub_date": "2026-07-03T11:12:02+00:00"
+    },
+    {
+      "title_ko": "팝 스타 제이 초우, 마티스 작품 2천만 달러에 구매",
+      "summary": "대만의 뮤지션 제이 초우가 소더비 뉴욕에서 프랑스 예술가의 작품을 구매하며 오랜 꿈을 이뤘습니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/03/pop-star-jay-chous-matisse-dream-comes-true-with-20m-purchase",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "Jay Chou",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "구매",
+        "마티스"
+      ],
+      "execution_techniques": [
+        "예술 컬렉션"
+      ],
+      "why": "이 기사는 예술 작품 소유의 개인적 의미와 예술에 대한 열망을 보여줍니다. 이는 예술이 개인의 정체성과 꿈을 표현하는 중요한 수단임을 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/8d93614ac3571efe786704c349120b124be1984b-923x893.jpg",
+      "pub_date": "2026-07-03T10:23:52+00:00"
+    },
+    {
+      "title_ko": "단추를 꿰매는 것도 전복적일 수 있다: 아이 웨이웨이의 새로운 맨체스터 전시회",
+      "summary": "중국의 활동가이자 예술가인 아이 웨이웨이의 전시회 'Button Up!'은 그의 2011년 감금에 대한 재연을 포함합니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/03/even-sewing-a-button-can-be-subversive-ai-weiwei-weaves-stories-of-colonialism-and-exile-into-vast-new-manchester-show",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "전시회",
+      "creator_name": "Ai Weiwei",
+      "creator_insight": "",
+      "tags": [
+        "전시회",
+        "예술",
+        "사회적 메시지"
+      ],
+      "execution_techniques": [
+        "설치 미술"
+      ],
+      "why": "이 전시회는 예술을 통해 사회적 메시지를 전달하며, 예술이 사회적 변화의 도구가 될 수 있음을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/e2bbe50b3108e5f38621a353e40c6f59ecdc5d38-4724x3149.jpg",
+      "pub_date": "2026-07-03T10:16:03+00:00"
+    },
+    {
+      "title_ko": "미래의 정원: 바하르 베흐바하니와의 인터뷰",
+      "summary": "이란 태생의 브루클린 기반 예술가 바하르 베흐바하니와의 인터뷰로, 그녀의 회화, 설치 및 장소 만들기 작업을 다룹니다.",
+      "url": "https://www.berlinartlink.com/2026/07/03/interview-bahar-behbahani-persian-gardens/",
+      "source": "Berlin Art Link",
+      "domain": "ART",
+      "category": "인터뷰",
+      "creator_name": "Bahar Behbahani",
+      "creator_insight": "",
+      "tags": [
+        "인터뷰",
+        "예술",
+        "정원"
+      ],
+      "execution_techniques": [
+        "인터뷰"
+      ],
+      "why": "이 인터뷰는 예술가의 연구 기반 접근 방식을 통해 예술과 자연, 그리고 사회적 맥락의 연결을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T08:26:51+00:00"
+    },
+    {
+      "title_ko": "에프스타인 파일, 레온 블랙이 반 고흐의 주요 구매자임을 드러내다",
+      "summary": "뉴욕의 수집가 레온 블랙은 6천만 달러 이상의 가치를 지닌 반 고흐의 풍경화를 포함한 다섯 작품을 획득했습니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/03/epstein-papers-reveal-leon-black-as-key-collector-of-van-gogh-works",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "Leon Black",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "구매",
+        "반 고흐"
+      ],
+      "execution_techniques": [
+        "예술 컬렉션"
+      ],
+      "why": "이 기사는 예술 작품 소유의 중요성과 예술 시장의 복잡성을 보여줍니다. 이는 예술이 단순한 소유를 넘어 사회적 지위와 연결됨을 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/00dd015cdf986158bc42b129e07c0a2cabf856f4-1280x1042.jpg",
+      "pub_date": "2026-07-03T09:30:00+00:00"
+    },
+    {
+      "title_ko": "토요타의 GR 트리오를 위한 골든 울프의 글리치",
+      "summary": "ECD Stefan Falconer와 골든 울프 모션 팀은 토요타의 GR 성능 차량 범위를 위한 강렬한 작업을 선보입니다.",
+      "url": "https://www.stashmedia.tv/golden-wolf-glitch-it-up-for-toyotas-gr-trio/",
+      "source": "Stash Media",
+      "domain": "ADVERTISING",
+      "category": "광고",
+      "creator_name": "Stefan Falconer",
+      "creator_insight": "",
+      "tags": [
+        "광고",
+        "자동차",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "모션 그래픽"
+      ],
+      "why": "이 광고는 자동차의 성능과 디자인을 창의적으로 강조하며, 소비자들에게 브랜드의 혁신적 이미지를 전달합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/Toyota-GR-Range-commercial-by-Golden-Wolf-STASH-MAGAZINE6.jpg",
+      "pub_date": "2026-07-03T09:20:36+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "EVSentry",
+      "summary": "EVSentry 프로젝트는 미래형 디자인과 기술을 결합한 혁신적인 작품을 선보입니다.",
+      "url": "https://www.behance.net/gallery/252117981/EVSentry",
+      "source": "Behance",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "미래",
+        "디자인",
+        "기술"
+      ],
+      "why": "이 콘텐츠는 미래지향적 디자인과 기술의 융합을 통해 대중의 시선을 사로잡습니다. 이는 현대 사회에서 기술 발전에 대한 기대와 흥미를 반영합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/fd0ca5252117981.Y3JvcCwzMzY0LDI2MzIsNzQsMA.jpg",
+      "pub_date": "2026-07-04T05:30:38+00:00"
+    },
+    {
+      "title_ko": "사랑에 빠진 거리: 체임버스 스트리트",
+      "summary": "사랑에 빠진 거리 시리즈의 일환으로, 체임버스 스트리트의 과정을 다룹니다.",
+      "url": "https://www.nowness.com/series/lovesick/chambers-street",
+      "source": "Nowness",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "사랑",
+        "거리",
+        "시리즈"
+      ],
+      "why": "이 콘텐츠는 사랑과 도시의 일상을 결합하여 대중의 감성을 자극합니다. 이는 현대인들이 일상 속에서의 로맨스와 감정적 연결을 갈망하고 있음을 보여줍니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://img.nowness.com/nowness-frontend/ibrB4VPrSvqUzPighbpq_6%20(5).jpg",
+      "pub_date": "2026-07-03T09:00:00+00:00"
+    },
+    {
+      "title_ko": "우리는 피칭을 사랑한다: 필수적인 혼란의 연대기 – 파트 7",
+      "summary": "Nerdo ECD Claus Cibils는 창의적 브리프의 중요성과 투명성 및 존중의 필요성을 강조합니다.",
+      "url": "https://www.stashmedia.tv/we-love-pitching-chronicles-of-a-necessary-mess-part-7/",
+      "source": "Stash Media",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "피칭",
+        "창의성",
+        "브리프"
+      ],
+      "why": "이 콘텐츠는 창의적 과정의 혼란과 그 중요성을 유머러스하게 다루며, 창작 과정의 복잡성과 그 매력을 대중에게 전달합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "http://www.stashmedia.tv/wp-content/uploads/We-Love-Pitching-Part-7-_-STASH-MAGAZINE.jpg",
+      "pub_date": "2026-07-03T08:39:16+00:00"
+    }
+  ],
+  "keywords": [
+    "단편영화",
+    "테이블",
+    "구매",
+    "박물관",
+    "드로잉",
+    "음악",
+    "이벤트",
+    "기금 모금",
+    "사회적 메시지",
+    "투표권",
+    "사회운동",
+    "반 고흐",
+    "다큐멘터리",
+    "전시회",
+    "광고",
+    "자동차",
+    "아티스트",
+    "마티스",
+    "인터뷰",
+    "디자인",
+    "인간",
+    "브랜드",
+    "예술",
+    "스포츠",
+    "정원",
+    "비디오게임"
+  ],
+  "macro_keywords": [
+    {
+      "word": "예술과 큐레이션",
+      "is_hot": true
+    },
+    {
+      "word": "다양한 문화적 표현",
+      "is_hot": true
+    },
+    {
+      "word": "사회적 참여와 예술",
+      "is_hot": false
+    },
+    {
+      "word": "개인적 탐험",
+      "is_hot": false
+    },
+    {
+      "word": "디지털과 혁신",
+      "is_hot": false
+    },
+    {
+      "word": "문화적 아이덴티티",
+      "is_hot": false
+    },
+    {
+      "word": "예술적 컬렉션",
+      "is_hot": false
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "date": "2026-07-03",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 무엇인가? 현대인들은 지금 무엇을 갈망하고 있는가? 현대인들은 과거의 유산과 현재의 기술을 융합하여 새로운 가치를 창출하고자 하는 욕구를 강하게 느끼고 있습니다. 이러한 흐름은 예술, 디자인, 건축 등의 분야에서 과거의 전통을 재해석하거나 현대적 기술을 결합하여 새로운 형태의 창작물을 만들어내는 방식으로 나타나고 있습니다. 또한, 사회적 책임과 개인의 창의성을 결합하여 지속 가능한 미래를 모색하려는 움직임도 두드러집니다.",
+  "creator_message": "큐레이터의 메시지: 오늘날의 창작물은 과거와 현재의 경계를 넘나들며, 전통과 혁신을 결합하여 새로운 가치를 창출하고자 합니다. 이러한 흐름은 개인의 창의성과 사회적 책임을 결합하여 지속 가능한 미래를 모색하는 현대인의 욕구를 반영합니다.",
+  "session": {
+    "timestamp": "2026-07-06T12:02:15.706238",
+    "considered": 512,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "이 18가지 주방 리모델링 트렌드는 사실 당신의 집을 망치고 있다",
+      "summary": "이 트렌드들은 보기에는 좋지만, 실제로는 집에 도움이 되지 않습니다.",
+      "url": "https://www.architecturaldigest.com/story/-kitchen-remodel-trends-avoid",
+      "source": "Architectural Digest",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "주방",
+        "리모델링",
+        "트렌드"
+      ],
+      "execution_techniques": [
+        "디자인 분석"
+      ],
+      "why": "이 기사는 현대인들이 집의 기능성과 미적 가치를 동시에 추구하는 욕구를 반영합니다. 잘못된 트렌드에 대한 경고를 통해 소비자들이 더 나은 선택을 할 수 있도록 돕습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-02T20:03:35+00:00"
+    },
+    {
+      "title_ko": "자른 꽃을 신선하게 유지하는 방법",
+      "summary": "전문가의 팁을 통해 꽃을 더 오래 신선하게 유지하는 방법을 알아보세요.",
+      "url": "https://www.architecturaldigest.com/story/how-to-keep-cut-flowers-fresh-guide",
+      "source": "Architectural Digest",
+      "domain": "OBJECT",
+      "category": "가이드",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "꽃",
+        "신선함",
+        "지속성"
+      ],
+      "execution_techniques": [
+        "전문가 팁"
+      ],
+      "why": "이 기사는 자연의 아름다움을 오래 유지하려는 현대인의 욕구를 반영하며, 지속 가능한 생활 방식을 위한 실용적인 조언을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-02T18:24:55+00:00"
+    },
+    {
+      "title_ko": "12개의 최고의 모듈형 소파, AD 편집자가 테스트하고 리뷰한 2026년 버전",
+      "summary": "복잡한 방 레이아웃을 위한 분위기 조성을 위한 적응 가능한 가구들.",
+      "url": "https://www.architecturaldigest.com/story/best-modular-sofa",
+      "source": "Architectural Digest",
+      "domain": "OBJECT",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "모듈형 소파",
+        "적응성",
+        "가구"
+      ],
+      "execution_techniques": [
+        "제품 리뷰"
+      ],
+      "why": "이 기사는 현대인들이 공간의 유연성과 개인화된 인테리어를 추구하는 경향을 반영합니다. 다양한 공간에 적응할 수 있는 가구 선택을 통해 개인의 라이프스타일에 맞춘 공간을 만들 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-02T18:08:00+00:00"
+    },
+    {
+      "title_ko": "주방 영웅을 고양시키는 9가지 최고의 종이 타월 홀더 (2026)",
+      "summary": "주방의 일꾼을 재고려한 세심한 디자인.",
+      "url": "https://www.architecturaldigest.com/story/best-paper-towel-holders",
+      "source": "Architectural Digest",
+      "domain": "OBJECT",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "종이 타월 홀더",
+        "디자인",
+        "주방"
+      ],
+      "execution_techniques": [
+        "디자인 리뷰"
+      ],
+      "why": "이 기사는 일상적인 물건에 대한 디자인적 재해석을 통해 기능성과 미적 가치를 동시에 추구하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-02T17:55:26+00:00"
+    },
+    {
+      "title_ko": "젤만 컬렉션의 멕시코 걸작 관리에 대한 법적 압박 강화",
+      "summary": "멕시코 활동가 그룹이 멕시코 정부의 컬렉션 관리에 대한 법적 조사를 요구했습니다.",
+      "url": "https://www.artforum.com/news/legal-pressure-to-management-of-the-gelman-collection-1234753946/",
+      "source": "Artforum",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "법적 압박",
+        "컬렉션",
+        "멕시코"
+      ],
+      "execution_techniques": [
+        "법적 분석"
+      ],
+      "why": "이 기사는 문화유산의 보호와 관리에 대한 사회적 책임을 강조하며, 예술 작품의 소유와 관리에 대한 현대인의 관심을 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-02T17:37:25+00:00"
+    },
+    {
+      "title_ko": "MuCEM 마르세유의 사장 및 총괄 매니저, 비위 혐의로 정직",
+      "summary": "프랑스 마르세유의 유럽 지중해 문명 박물관(MuCEM)의 피에르 올리비에 코스타 사장이 성적 및 도덕적 비위 혐의로 직위에서 정직되었습니다.",
+      "url": "https://www.artforum.com/news/president-and-general-manager-of-mucem-suspended-1234753924/",
+      "source": "Artforum",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "비위",
+        "박물관",
+        "프랑스"
+      ],
+      "execution_techniques": [
+        "조사 보도"
+      ],
+      "why": "이 기사는 문화 기관의 윤리적 책임과 투명성에 대한 현대 사회의 요구를 반영하며, 문화적 리더십의 중요성을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-02T16:30:21+00:00"
+    },
+    {
+      "title_ko": "아부다비, 프랭크 게리 설계의 다르 알 푸눈 계획 발표",
+      "summary": "아부다비 문화관광부는 UAE 수도에 건립될 프랭크 게리 설계의 공연 예술 장소인 다르 알 푸눈의 렌더링을 공개했습니다.",
+      "url": "https://www.artforum.com/news/abu-dhabi-reveals-plans-for-frank-gehrys-dar-al-funoon-1234753909/",
+      "source": "Artforum",
+      "domain": "ARCHITECTURE",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "프랭크 게리",
+        "아부다비",
+        "건축"
+      ],
+      "execution_techniques": [
+        "건축 계획"
+      ],
+      "why": "이 기사는 현대 건축의 혁신과 문화적 발전을 추구하는 도시의 비전을 반영하며, 세계적인 건축가의 작품이 지역 사회에 미치는 영향을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-02T15:04:07+00:00"
+    },
+    {
+      "title_ko": "청동 라오콘, 경매에서 신고전주의 조각 기록 경신",
+      "summary": "라오콘과 그의 아들들을 묘사한 실물 크기의 청동 조각이 소더비 런던 경매에서 수수료 포함 1360만 파운드(1810만 달러)에 낙찰되었습니다.",
+      "url": "https://www.artforum.com/news/bronze-laocoon-sets-auction-record-neoclassical-sculpture-1234753900/",
+      "source": "Artforum",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "경매",
+        "조각",
+        "기록"
+      ],
+      "execution_techniques": [
+        "경매 분석"
+      ],
+      "why": "이 기사는 예술 작품의 시장 가치와 문화적 중요성에 대한 현대인의 관심을 반영하며, 예술 시장의 동향을 파악하는 데 도움을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-02T14:14:09+00:00"
+    },
+    {
+      "title_ko": "캐서린 월코프, 사슴 침대의 부재를 명상하는 그녀의 부드러운 사진들",
+      "summary": "예술가는 사슴 길을 따라 걸으며 부재를 명상하는 사진을 찍습니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/katherine-wolkoff-deer-beds-nature-photographs/",
+      "source": "This is Colossal",
+      "domain": "ART",
+      "category": "사진",
+      "creator_name": "캐서린 월코프",
+      "creator_insight": "부재의 아름다움을 사진으로 담아내다.",
+      "tags": [
+        "자연",
+        "사진",
+        "부재"
+      ],
+      "execution_techniques": [
+        "자연 사진"
+      ],
+      "why": "이 기사는 자연과 인간의 관계를 탐구하며, 부재와 존재의 미학을 통해 현대인의 내면적 성찰을 유도합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/wolkoff-8.jpeg",
+      "pub_date": "2026-07-02T13:14:33+00:00"
+    },
+    {
+      "title_ko": "코타오 토모자와, 방콕 CURU 갤러리에서 첫 동남아시아 개인전 '너무 많은 천국' 개최",
+      "summary": "코타오 토모자와는 방콕 CURU 갤러리에서 첫 동남아시아 개인전을 열었습니다.",
+      "url": "https://www.adfwebmagazine.jp/en/art/kotao-tomozawa-too-much-heaven-bangkok-2026/",
+      "source": "ADF Web Magazine",
+      "domain": "ART",
+      "category": "전시",
+      "creator_name": "코타오 토모자와",
+      "creator_insight": "예술을 통해 천국의 개념을 탐구하다.",
+      "tags": [
+        "전시",
+        "방콕",
+        "예술"
+      ],
+      "execution_techniques": [
+        "전시 기획"
+      ],
+      "why": "이 기사는 문화적 교류와 예술적 표현의 다양성을 강조하며, 현대 예술의 글로벌화 경향을 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/06/adf-web-magazine-too-much-heaven-1.jpg",
+      "pub_date": "2026-07-02T10:49:47+00:00"
+    },
+    {
+      "title_ko": "바르샤바 포스터 페스티벌에서 새로운 예술가들이 등장하며 그래픽 디자인의 간과된 역사를 조명하다",
+      "summary": "바르샤바 포스터 페스티벌에서 새로운 예술가들이 등장하며 그래픽 디자인의 간과된 역사를 조명합니다.",
+      "url": "https://www.itsnicethat.com/features/the-poster-festival-warsaw-round-up-graphic-design-spotlight-020726",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "페스티벌",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "포스터",
+        "그래픽 디자인",
+        "바르샤바"
+      ],
+      "execution_techniques": [
+        "디자인 페스티벌"
+      ],
+      "why": "이 기사는 그래픽 디자인의 역사와 현대적 재해석을 통해 디자인의 발전과 혁신을 추구하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/ssTRxAwQbuZ88R-r8mpvOHSJv_U=/279539/width-1440%7Cformat-jpeg/listt.png",
+      "pub_date": "2026-07-02T08:00:00+00:00"
+    },
+    {
+      "title_ko": "실바나 트레발레의 베네수엘라 청소년 사진은 불확실성 속에서 성장하는 세대에 대한 사랑의 편지",
+      "summary": "실바나 트레발레는 불확실성 속에서 성장하는 베네수엘라 청소년 세대에 대한 사랑의 편지를 사진으로 표현합니다.",
+      "url": "https://www.itsnicethat.com/articles/silvana-trevale-venezuelan-youth-photography-project-020726",
+      "source": "It's Nice That",
+      "domain": "PHOTOGRAPHY",
+      "category": "프로젝트",
+      "creator_name": "실바나 트레발레",
+      "creator_insight": "불확실한 시대에 청소년의 희망과 도전을 사진으로 담다.",
+      "tags": [
+        "청소년",
+        "베네수엘라",
+        "사진"
+      ],
+      "execution_techniques": [
+        "다큐멘터리 사진"
+      ],
+      "why": "이 기사는 불확실한 시대에 청소년의 희망과 도전을 조명하며, 사회적 변화를 위한 청소년 세대의 중요성을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/1gJPj-3a0qNlIAs9Mq1EPkzrR4A=/279144/width-1440/silvana-trevale-venezuelan-youth-photography-itsnicethat-6.jpg",
+      "pub_date": "2026-07-02T08:00:00+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "이어웜",
+      "summary": "Ulph Degerfors: Adam Lundgren, Doctor: Maria Sid, The Boss: Mikael Almqvist.",
+      "url": "https://vimeo.com/channels/staffpicks/1206783284",
+      "source": "Vimeo",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "이어웜"
+      ],
+      "why": "이 콘텐츠는 감각적이고 중독적인 요소로 대중의 시선을 사로잡습니다. 음악과 영상의 결합이 강렬한 인상을 남기며, 일상에서 벗어난 감각적 경험을 제공합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-03T10:14:55-04:00"
+    },
+    {
+      "title_ko": "무엇이든 물어보세요",
+      "summary": "수단 출신의 Abdulaal이 네덜란드를 여행하며 '무엇이든 물어보세요' 세션을 진행합니다.",
+      "url": "https://vimeo.com/channels/staffpicks/1205581221",
+      "source": "Vimeo",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "소통"
+      ],
+      "why": "이 콘텐츠는 대화와 소통을 통해 서로 다른 문화와 배경을 이해하려는 현대인의 욕구를 반영합니다. 사람들 간의 연결을 촉진하는 요소가 대중의 관심을 끌었습니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-02T09:17:31-04:00"
+    },
+    {
+      "title_ko": "포스포러스",
+      "summary": "이것들은 삽화가 아니라 존재의 외침입니다. 누구나 순간의 단절을 경험합니다.",
+      "url": "https://www.slanted.de/phosphorus/",
+      "source": "Slanted",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "존재"
+      ],
+      "why": "이 콘텐츠는 강렬한 감정과 존재의 의미를 탐구하는 요소로 대중의 관심을 끌었습니다. 감정적이고 철학적인 주제가 현대인의 공감을 이끌어냅니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-02T09:00:47+00:00"
+    }
+  ],
+  "keywords": [
+    "프랑스",
+    "박물관",
+    "자연",
+    "꽃",
+    "기록",
+    "비위",
+    "부재",
+    "포스터",
+    "주방",
+    "베네수엘라",
+    "경매",
+    "바르샤바",
+    "신선함",
+    "적응성",
+    "지속성",
+    "건축",
+    "트렌드",
+    "방콕",
+    "멕시코",
+    "가구",
+    "디자인",
+    "예술",
+    "사진",
+    "리모델링",
+    "그래픽 디자인",
+    "컬렉션",
+    "전시",
+    "종이 타월 홀더",
+    "아부다비",
+    "청소년",
+    "프랭크 게리",
+    "법적 압박",
+    "조각",
+    "모듈형 소파"
+  ],
+  "macro_keywords": [
+    {
+      "word": "원자화된 미학",
+      "is_hot": true
+    },
+    {
+      "word": "문화 다양성",
+      "is_hot": true
+    },
+    {
+      "word": "어댑터블 디자인"
+    },
+    {
+      "word": "법적 조치와 문화 보호"
+    },
+    {
+      "word": "공간과 존재의 사유"
+    },
+    {
+      "word": "새로운 예술가와 역사의 재조명"
+    },
+    {
+      "word": "불확실성 속의 성장"
+    }
+  ]
+}

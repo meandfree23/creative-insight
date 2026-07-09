@@ -1,0 +1,369 @@
+{
+  "date": "2026-07-05",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 통해 드러나는 시대정신은 '개인화된 경험과 과거의 감성을 현대적 기술과 결합하여 새로운 가치를 창출하는 것'입니다. 현대인들은 과거의 감성을 되살리면서도 현대적 기술을 통해 개인화된 경험을 원하고 있습니다. 이는 창의성과 협업을 통해 새로운 가치를 창출하려는 욕구와도 연결됩니다.",
+  "creator_message": "큐레이터의 메시지: 오늘 수집된 기사들은 창의성과 협업을 통해 과거의 감성을 현대적 기술과 결합하여 새로운 가치를 창출하는 흐름을 보여줍니다. 이는 개인화된 경험과 사회적 책임이 결합된 창작물로 현대인들에게 중요한 가치를 제공합니다.",
+  "session": {
+    "timestamp": "2026-07-06T12:03:04.860046",
+    "considered": 481,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "잘 디자인된 휴식을 위한 7가지 부드러운 필수품",
+      "summary": "반응형 매트리스와 통기성 있는 침구부터 따뜻한 조명과 촉감이 좋은 침대 옆 소품까지, 이 수면 중심 디자인은 부드러움이 더 회복적인 침실을 형성하는 방법을 보여줍니다.",
+      "url": "https://design-milk.com/7-soft-sleepy-time-essentials-to-consider-for-well-designed-rest/",
+      "source": "Design Milk",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "수면",
+        "디자인",
+        "휴식"
+      ],
+      "execution_techniques": [
+        "반응형 디자인"
+      ],
+      "why": "현대인들은 스트레스로 인해 질 높은 수면을 갈망하고 있으며, 이는 부드러운 촉감과 디자인을 통해 해결할 수 있습니다. 이러한 디자인은 개인화된 경험을 제공하여 심리적 안정감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/06/1-Violette-Bed-KLN-Studio.jpg",
+      "pub_date": "2026-07-01T18:03:06+00:00"
+    },
+    {
+      "title_ko": "미국의 성과 검토: 1776-2026",
+      "summary": "1776년부터 2026년까지의 미국의 성과를 검토하는 리뷰입니다.",
+      "url": "https://designobserver.com/performance-review-united-states-of-america/",
+      "source": "Design Observer",
+      "domain": "LITERATURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "역사",
+        "미국",
+        "리뷰"
+      ],
+      "execution_techniques": [
+        "역사적 분석"
+      ],
+      "why": "과거의 성과를 검토함으로써 현재와 미래의 방향성을 설정하는 데 도움을 줍니다. 이는 사회적 책임과 관련된 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-01T16:49:03+00:00"
+    },
+    {
+      "title_ko": "구이미 유의 대기감 있는 유화: 기억, 성찰, 재발견",
+      "summary": "서울 기반의 예술가 구이미 유의 대기감 있는 유화는 기억, 성찰, 재발견을 탐구합니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/guimi-you-oil-paintings-memory-creativity/",
+      "source": "This is Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "구이미 유",
+      "creator_insight": "기억과 성찰은 창작의 중요한 요소입니다.",
+      "tags": [
+        "기억",
+        "예술",
+        "유화"
+      ],
+      "execution_techniques": [
+        "유화"
+      ],
+      "why": "기억과 성찰을 통해 개인의 정체성을 찾고자 하는 현대인의 심리적 결핍을 충족시킵니다. 이는 창의성을 자극하여 새로운 가치를 창출합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/you-8.jpg",
+      "pub_date": "2026-07-01T16:00:00+00:00"
+    },
+    {
+      "title_ko": "남인도의 여성 보디빌더를 기록한 키르타나 쿠나스",
+      "summary": "키르타나 쿠나스는 남인도의 여성 보디빌더들이 여성성과 신체 이미지에 대한 새로운 서사를 구축하는 과정을 기록합니다.",
+      "url": "https://wepresent.wetransfer.com/stories/keerthana-kunnath-photography-not-what-you-saw",
+      "source": "WePresent",
+      "domain": "PHOTOGRAPHY",
+      "category": "인터뷰",
+      "creator_name": "키르타나 쿠나스",
+      "creator_insight": "여성의 신체 이미지는 사회적 서사에 영향을 미칩니다.",
+      "tags": [
+        "여성성",
+        "보디빌딩",
+        "사진"
+      ],
+      "execution_techniques": [
+        "다큐멘터리 사진"
+      ],
+      "why": "여성의 신체 이미지와 관련된 사회적 서사를 재구성하여 여성의 정체성을 강화하고자 하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/47L1WPWrN7WeZpUzMOXmIQ/7f5dd4f2249c94fd8c6ec21f9d0fc4f9/keerthanakunnath-wepresent1.jpg",
+      "pub_date": "2026-07-01T14:25:34+00:00"
+    },
+    {
+      "title_ko": "테오 보스붐의 '꽃 경관': 벌레의 시점에서 바라본 사진",
+      "summary": "테오 보스붐은 벌레의 시점에서 바라본 '꽃 경관'을 통해 시각을 전환하는 사진을 선보입니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/theo-bosboom-flowerscapes-bugs-eye-view-photography/",
+      "source": "This is Colossal",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "테오 보스붐",
+      "creator_insight": "시각의 전환은 새로운 발견을 가능하게 합니다.",
+      "tags": [
+        "자연",
+        "사진",
+        "시각"
+      ],
+      "execution_techniques": [
+        "매크로 사진"
+      ],
+      "why": "자연을 새로운 시각으로 바라봄으로써 일상에서 벗어나고자 하는 현대인의 심리적 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/bosboom-5.jpg",
+      "pub_date": "2026-07-01T13:18:53+00:00"
+    },
+    {
+      "title_ko": "최종 경계: 안드레아 데비아-누뇨 감독 및 시각 예술가 계약 체결",
+      "summary": "마드리드, 상하이, 로스앤젤레스의 최종 경계는 안드레아 데비아-누뇨 감독 및 시각 예술가와의 전 세계적 계약 체결을 발표했습니다.",
+      "url": "https://motionographer.com/news/final-frontier-signs-director-and-visual-artist-andrea-devia-nuno/",
+      "source": "Motionographer",
+      "domain": "FILM",
+      "category": "뉴스",
+      "creator_name": "안드레아 데비아-누뇨",
+      "creator_insight": "글로벌 협업은 창작의 새로운 가능성을 엽니다.",
+      "tags": [
+        "영화",
+        "글로벌",
+        "협업"
+      ],
+      "execution_techniques": [
+        "글로벌 계약"
+      ],
+      "why": "글로벌 협업을 통해 창의성을 확장하고자 하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Unknown-1.jpeg",
+      "pub_date": "2026-07-01T13:11:51+00:00"
+    },
+    {
+      "title_ko": "이메스 하우스: 현대 디자인을 형성한 주택들",
+      "summary": "'이메스 하우스'는 1945년부터 1954년까지 찰스와 레이 이메스가 설계한 모든 주거 프로젝트를 탐구합니다.",
+      "url": "https://design-milk.com/the-eames-houses-book/",
+      "source": "Design Milk",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "건축",
+        "디자인",
+        "역사"
+      ],
+      "execution_techniques": [
+        "역사적 분석"
+      ],
+      "why": "과거의 건축 디자인을 통해 현대적 감성을 찾고자 하는 욕구를 충족시킵니다. 이는 현대인의 심미적 욕구와 연결됩니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/06/Eames-House-Book-Club-0.jpg",
+      "pub_date": "2026-07-01T13:00:51+00:00"
+    },
+    {
+      "title_ko": "아티스트 에이드리언 웡의 '카톤'",
+      "summary": "에이드리언 웡의 '카톤'은 현대 예술의 새로운 가능성을 탐구합니다.",
+      "url": "https://www.booooooom.com/2026/07/01/carton-by-artist-adrian-wong/",
+      "source": "Booooooom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "에이드리언 웡",
+      "creator_insight": "현대 예술은 새로운 가능성을 탐구하는 과정입니다.",
+      "tags": [
+        "현대 예술",
+        "창의성",
+        "탐구"
+      ],
+      "execution_techniques": [
+        "현대 예술"
+      ],
+      "why": "현대 예술을 통해 창의성을 자극하고자 하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-01T13:00:24+00:00"
+    },
+    {
+      "title_ko": "베를린의 7월 추천 전시 및 이벤트",
+      "summary": "아카데미 데르 쿤스트, 헬무트 뉴턴 재단, 줄리아 스토쉑 재단 등 베를린의 다양한 전시와 이벤트를 소개합니다.",
+      "url": "https://www.berlinartlink.com/2026/07/01/things-to-do-in-berlin-featured-exhibitions-events-july/",
+      "source": "Berlin Art Link",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "베를린",
+        "전시",
+        "이벤트"
+      ],
+      "execution_techniques": [
+        "이벤트 기획"
+      ],
+      "why": "문화적 경험을 통해 개인의 정체성을 찾고자 하는 현대인의 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-01T12:18:02+00:00"
+    },
+    {
+      "title_ko": "윌리 경량 코튼 후디",
+      "summary": "산들바람이 부는 여름날과 밤에 적합한 윌리 경량 코튼 후디는 프레피한 운동 스타일을 제공합니다.",
+      "url": "https://coolhunting.com/buy/willie-lightweight-cotton-hoodie/",
+      "source": "Cool Hunting",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "패션",
+        "여름",
+        "스타일"
+      ],
+      "execution_techniques": [
+        "패션 디자인"
+      ],
+      "why": "스타일과 편안함을 동시에 추구하는 현대인의 패션 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/06/F595AEF9-5F18-47EF-A37F-B83DF8222C76_1_201_a.jpeg",
+      "pub_date": "2026-07-01T10:31:12+00:00"
+    },
+    {
+      "title_ko": "벤 샌더스: 글로벌 도시에서 로컬 아티스트로 살아가기",
+      "summary": "예술가이자 디자이너인 벤 샌더스가 자가 출판, 실험, 거대한 병뚜껑에 대해 이야기합니다.",
+      "url": "https://www.itsnicethat.com/articles/ben-sanders--nicer-tuesdays-la-020726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "인터뷰",
+      "creator_name": "벤 샌더스",
+      "creator_insight": "실험은 창작의 핵심입니다.",
+      "tags": [
+        "예술",
+        "실험",
+        "자가 출판"
+      ],
+      "execution_techniques": [
+        "자가 출판"
+      ],
+      "why": "창의적 실험을 통해 새로운 가능성을 탐구하고자 하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-01T09:00:00+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "아이폰을 성인용품으로: 민디 세우가 인터넷과의 에로틱한 관계를 탐구하다",
+      "summary": "사이버페미니즘 인덱스 창작자 민디 세우가 인터넷과의 에로틱한 관계를 탐구하는 과정을 소개합니다.",
+      "url": "https://www.itsnicethat.com/articles/mindy-seu-nicer-tuesdays-la-010726",
+      "source": "It's Nice That",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "사이버페미니즘"
+      ],
+      "why": "인터넷과의 관계를 에로틱하게 탐구하는 독특한 시각이 대중의 호기심을 자극합니다. 이는 밈 요소로 작용하여 바이럴 효과를 일으킵니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-01T09:00:00+00:00"
+    },
+    {
+      "title_ko": "WassupKaylee",
+      "summary": "17세의 장난 비디오 인플루언서 케일리 호드가 인기 소셜 미디어의 새로운 멤버가 됩니다.",
+      "url": "https://vimeo.com/channels/staffpicks/1206142064",
+      "source": "Vimeo",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "인플루언서"
+      ],
+      "why": "젊은 인플루언서의 등장과 그들의 장난 비디오 콘텐츠는 대중의 이목을 끌며, 소셜 미디어의 밈 요소로 작용합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-01T10:26:06-04:00"
+    },
+    {
+      "title_ko": "Word of Mouth: Lake Como",
+      "summary": "코모 호수는 단순히 아름다운 여행지가 아니라 지적으로 활발하고, 산업적이며, 깊이 있는 스타일을 가진 곳입니다.",
+      "url": "https://coolhunting.com/travel/word-of-mouth-lake-como/",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "여행"
+      ],
+      "why": "코모 호수의 독특한 매력과 스타일은 대중의 호기심을 자극하며, 여행 밈 요소로 작용하여 바이럴 효과를 일으킵니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://coolhunting.com/wp-content/uploads/2026/06/Como1_28_RGB_V2_str.jpg",
+      "pub_date": "2026-07-01T11:07:00+00:00"
+    }
+  ],
+  "keywords": [
+    "베를린",
+    "영화",
+    "자연",
+    "패션",
+    "리뷰",
+    "이벤트",
+    "역사",
+    "시각",
+    "보디빌딩",
+    "협업",
+    "미국",
+    "탐구",
+    "스타일",
+    "휴식",
+    "현대 예술",
+    "건축",
+    "여름",
+    "글로벌",
+    "자가 출판",
+    "기억",
+    "디자인",
+    "창의성",
+    "여성성",
+    "실험",
+    "예술",
+    "사진",
+    "전시",
+    "수면",
+    "유화"
+  ],
+  "macro_keywords": [
+    {
+      "word": "원자화된 미학",
+      "is_hot": true
+    },
+    {
+      "word": "문화적 다양성",
+      "is_hot": true
+    },
+    {
+      "word": "기억과 성찰"
+    },
+    {
+      "word": "디지털 혁신"
+    },
+    {
+      "word": "젠더와 신체 이미지"
+    },
+    {
+      "word": "자연과의 조화"
+    }
+  ]
+}

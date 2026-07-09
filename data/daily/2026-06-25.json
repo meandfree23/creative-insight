@@ -1,0 +1,414 @@
+{
+  "date": "2026-06-25",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 '과거와 현재의 융합을 통한 새로운 가치 창출'입니다. 현대인들은 기술의 발전과 함께 잃어버린 감성적이고 물리적인 경험을 갈망하고 있습니다. 이러한 갈망은 과거의 예술적 감성을 현대 기술과 결합하여 새로운 형태의 예술적 경험을 창출하는 데서 해소되고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘 수집된 기사들은 과거의 감성을 현대적 기술로 재해석하여 새로운 예술적 가치를 창출하는 흐름을 보여줍니다. 이는 현대인들이 잃어버린 물리적 경험과 감성을 되찾고자 하는 열망을 반영합니다.",
+  "session": {
+    "timestamp": "2026-06-25T19:06:23.327039",
+    "considered": 154,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "찰나의 빛이 남긴 오래된 위로 - 모네, 빛의 순간들",
+      "summary": "클로드 모네의 그림은 설명보다 먼저 감각으로 다가와 환하고, 고요하고, 아름다움을 전달합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81376",
+      "source": "Art Insight",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "모네",
+        "빛",
+        "위로"
+      ],
+      "execution_techniques": [
+        "회화"
+      ],
+      "why": "모네의 작품은 현대인들이 잃어버린 감각적 경험을 되찾고자 하는 욕구를 충족시킵니다. 빛과 색채를 통해 감성을 자극하며, 과거의 예술적 감성을 현대에 재현합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260624064955_ttdsgnms.jpg",
+      "pub_date": "2026-06-25T19:04:40.769630"
+    },
+    {
+      "title_ko": "서거 100주년 만에 나온 '본격적인' 전기 - 안토니 가우디, 삶과 일",
+      "summary": "유명 예술가들이 생전에 인정받지 못하다가 쓸쓸한 죽음을 맞이한 사례를 통해 가우디의 삶을 조명합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81383",
+      "source": "Art Insight",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "가우디",
+        "전기",
+        "예술가"
+      ],
+      "execution_techniques": [
+        "전기"
+      ],
+      "why": "가우디의 삶은 현대인들에게 예술적 열정과 헌신의 중요성을 일깨워줍니다. 그의 건축물은 과거의 예술적 가치를 현대에 재현하며, 잃어버린 감성을 되찾고자 하는 현대인의 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260624101332_sgokmxuv.jpg",
+      "pub_date": "2026-06-25T19:04:40.769502"
+    },
+    {
+      "title_ko": "라파엘로의 로지아, 5년간의 복원 프로젝트 시작",
+      "summary": "라파엘로의 로지아가 5년간의 복원 프로젝트를 시작하며, 예술적 유산의 보존과 현대적 재해석을 시도합니다.",
+      "url": "http://www.arte.it/notizie/mondo/la-loggia-di-raffaello-si-rifà-il-look-al-via-il-restauro-che-durerà-cinque-anni-22889",
+      "source": "Arte.it",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "라파엘로",
+        "복원",
+        "유산"
+      ],
+      "execution_techniques": [
+        "복원"
+      ],
+      "why": "라파엘로의 로지아 복원은 과거의 예술적 가치를 현대에 재현하는 과정에서 현대인들이 잃어버린 감성을 되찾고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-06-25T10:10:37+02:00"
+    },
+    {
+      "title_ko": "Inkiostro Bianco의 예술적 벽지, 문화와 예술적 깊이를 공간에 불어넣다",
+      "summary": "Gio Bressana와 Karen Knorr의 벽지는 빈 공간을 문화와 예술적 깊이가 풍부한 공간으로 변모시킵니다.",
+      "url": "https://www.designboom.com/design/inkiostro-bianco-fine-art-wallpaper/",
+      "source": "Designboom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "벽지",
+        "예술",
+        "문화"
+      ],
+      "execution_techniques": [
+        "디자인"
+      ],
+      "why": "이 벽지는 현대인들이 잃어버린 감성적 경험을 되찾고자 하는 욕구를 충족시킵니다. 예술적 깊이를 통해 공간을 새롭게 해석하며, 과거의 감성을 현대에 재현합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/06/inkiostro-bianco_designboom_700-500x400-22b08q85r515.jpg",
+      "pub_date": "2026-06-25T10:00:18+00:00"
+    },
+    {
+      "title_ko": "Ilse Crawford, 새로운 램프 디자인으로 고전의 품질을 포착하다",
+      "summary": "Ilse Crawford는 Ikea와의 협업을 통해 방에 '따뜻함과 생명'을 불어넣는 테이블 램프를 디자인합니다.",
+      "url": "https://www.wallpaper.com/design-interiors/lighting/ilse-crawford-ikea-halgatt-table-lamps",
+      "source": "Wallpaper",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Ilse Crawford",
+      "creator_insight": "디자인은 공간에 생명을 불어넣어야 한다.",
+      "tags": [
+        "디자인",
+        "램프",
+        "따뜻함"
+      ],
+      "execution_techniques": [
+        "제품 디자인"
+      ],
+      "why": "이 램프는 현대인들이 잃어버린 따뜻함과 감성을 되찾고자 하는 욕구를 충족시킵니다. 고전적 품질을 현대적으로 재해석하여 새로운 가치를 창출합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/4HERqrsG2bF34z6JTrQpKF-1280-80.jpg",
+      "pub_date": "2026-06-25T10:00:00+00:00"
+    },
+    {
+      "title_ko": "언리얼 엔진과 아이폰으로 제작된 스타트렉 팬 영화",
+      "summary": "두 명의 스타트렉 팬이 언리얼 엔진과 아이폰만으로 세 편의 영화를 제작하며, 인디 영화 제작에서 새로운 기술의 중요성을 강조합니다.",
+      "url": "https://www.creativebloq.com/3d/vfx-cgi/how-two-star-trek-fans-made-three-films-using-unreal-engine-and-just-an-iphone",
+      "source": "Creative Bloq",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "영화",
+        "언리얼 엔진",
+        "기술"
+      ],
+      "execution_techniques": [
+        "디지털 제작"
+      ],
+      "why": "이 영화는 현대인들이 기술을 통해 창의력을 발휘하고자 하는 욕구를 충족시킵니다. 저예산으로도 고품질의 콘텐츠를 제작할 수 있는 가능성을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/ptBgqT43MvJaVHgTrnYEKf-1280-80.jpg",
+      "pub_date": "2026-06-25T10:00:00+00:00"
+    },
+    {
+      "title_ko": "프랭크 게리의 새로운 회고전, 그의 시그니처 스타일을 조명하다",
+      "summary": "포르투갈에서 열린 전시회는 프리츠커상 수상 건축가 프랭크 게리의 경력을 정의한 프로젝트 모델들을 전시합니다.",
+      "url": "https://www.designboom.com/architecture/the-century-of-gehry-serralves-foundation-pritzker-architect-career/",
+      "source": "Designboom",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "Frank Gehry",
+      "creator_insight": "건축은 예술과 기술이 만나는 지점이다.",
+      "tags": [
+        "프랭크 게리",
+        "건축",
+        "회고전"
+      ],
+      "execution_techniques": [
+        "건축 모델"
+      ],
+      "why": "프랭크 게리의 작품은 현대인들이 건축을 통해 예술적 감성을 되찾고자 하는 욕구를 충족시킵니다. 그의 혁신적인 디자인은 과거와 현재를 연결합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/06/gehry-serralves-designboom-700-500x400-22b08q85r914.jpg",
+      "pub_date": "2026-06-25T09:30:27+00:00"
+    },
+    {
+      "title_ko": "소더비의 기록적인 유럽 경매, 모딜리아니, 클림트, 프로이트 작품 포함",
+      "summary": "소더비의 런던 경매에서 루이스 컬렉션의 명작들이 4억 파운드에 달하는 기록적인 판매를 기록했습니다.",
+      "url": "https://www.artribune.com/professioni-e-professionisti/mercato/2026/06/asta-record-sothebys-londra-400-milioni-sterline-collezione-lewis/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "경매",
+        "모딜리아니",
+        "클림트"
+      ],
+      "execution_techniques": [
+        "경매"
+      ],
+      "why": "이 경매는 현대인들이 예술적 가치와 투자 가치를 동시에 추구하는 욕구를 반영합니다. 예술 작품의 경제적 가치가 높아지는 현상을 통해 예술의 중요성을 재조명합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/06/3-1-1.png",
+      "pub_date": "2026-06-25T09:30:00+00:00"
+    },
+    {
+      "title_ko": "사막의 우아함을 담은 De Bethune DB25xs 타임피스",
+      "summary": "De Bethune의 새로운 타임피스는 사막의 우아함을 담아내며, 고급 시계 제작의 정수를 보여줍니다.",
+      "url": "https://hypebeast.kr/2026/6/de-bethune-db25xs-sand-winds-release-info",
+      "source": "Hypebeast",
+      "domain": "OBJECT",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "타임피스",
+        "우아함",
+        "사막"
+      ],
+      "execution_techniques": [
+        "시계 제작"
+      ],
+      "why": "이 타임피스는 현대인들이 고급스러움과 정교함을 추구하는 욕구를 충족시킵니다. 사막의 우아함을 현대적 디자인으로 재해석하여 새로운 가치를 창출합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2Fftde-bethune-db25xs-sand-winds-release-info.jpg?cbr=1&fit=max",
+      "pub_date": "2026-06-25T09:09:50+00:00"
+    },
+    {
+      "title_ko": "라벨 메이커 브랜드, 최대 47% 할인",
+      "summary": "Niimbot 라벨 메이커가 프라임 데이를 맞아 최대 47% 할인된 가격으로 제공됩니다.",
+      "url": "https://www.creativebloq.com/creative-inspiration/digital-crafting/bring-order-to-your-office-my-favourite-brand-of-label-makers-now-has-up-to-47-percent-off",
+      "source": "Creative Bloq",
+      "domain": "OBJECT",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "라벨 메이커",
+        "할인",
+        "정리"
+      ],
+      "execution_techniques": [
+        "제품 할인"
+      ],
+      "why": "이 제품은 현대인들이 일상 속에서 효율성과 정리를 추구하는 욕구를 충족시킵니다. 할인된 가격으로 제공되어 경제적 부담을 줄입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/XXLKEjdFoeHURyw7CdpivG-1280-80.jpg",
+      "pub_date": "2026-06-25T09:46:25+00:00"
+    },
+    {
+      "title_ko": "유럽에서 기록적인 경매, 모딜리아니, 클림트, 프로이트 작품 포함",
+      "summary": "소더비의 런던 경매에서 루이스 컬렉션의 명작들이 4억 파운드에 달하는 기록적인 판매를 기록했습니다.",
+      "url": "https://www.artribune.com/professioni-e-professionisti/mercato/2026/06/asta-record-sothebys-londra-400-milioni-sterline-collezione-lewis/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "경매",
+        "모딜리아니",
+        "클림트"
+      ],
+      "execution_techniques": [
+        "경매"
+      ],
+      "why": "이 경매는 현대인들이 예술적 가치와 투자 가치를 동시에 추구하는 욕구를 반영합니다. 예술 작품의 경제적 가치가 높아지는 현상을 통해 예술의 중요성을 재조명합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/06/3-1-1.png",
+      "pub_date": "2026-06-25T09:30:00+00:00"
+    },
+    {
+      "title_ko": "나이키 덩크 로우 ‘Game Day’ 거친 스웨이드와 골드 디테일",
+      "summary": "나이키 덩크 로우의 새로운 컬러웨이는 거친 스웨이드와 골드 디테일로 구성되어 있습니다.",
+      "url": "https://hypebeast.kr/2026/6/nike-dunk-low-game-day-iv5731-547-release-info",
+      "source": "Hypebeast",
+      "domain": "OBJECT",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "나이키",
+        "스니커즈",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "제품 디자인"
+      ],
+      "why": "이 스니커즈는 현대인들이 패션을 통해 자신을 표현하고자 하는 욕구를 충족시킵니다. 독특한 디자인과 컬러웨이는 개성을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2FNike-Dunk-Low-Game-Day-IV5731-547-release-info-0.jpg?cbr=1&fit=max",
+      "pub_date": "2026-06-25T09:00:29+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "픽사, '벅스 라이프'의 인기 캐릭터 두 명을 드디어 복귀시키다",
+      "summary": "18년 만에 '벅스 라이프'의 인기 캐릭터들이 돌아왔습니다. 후속작이 나올까요?",
+      "url": "https://www.creativebloq.com/art/animation/pixar-finally-just-brought-back-two-much-loved-characters-from-a-bug-life",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "픽사",
+        "벅스 라이프",
+        "복귀"
+      ],
+      "why": "픽사의 캐릭터 복귀는 향수를 자극하며, 과거의 감성을 다시금 불러일으킵니다. 이는 대중이 과거의 즐거움을 다시 경험하고자 하는 욕구를 반영합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/ysQfmVvmx7CF5GLQ7kattL-1280-80.jpg",
+      "pub_date": "2026-06-25T07:00:00+00:00"
+    },
+    {
+      "title_ko": "Ikea, 일상적인 물건을 월드컵 추측 게임으로 변신시키다",
+      "summary": "소파 + 문어 = 아르헨티나?",
+      "url": "https://www.creativebloq.com/design/branding/ikea-turns-everyday-objects-into-ingenious-world-cup-guessing-game",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "Ikea",
+        "월드컵",
+        "게임"
+      ],
+      "why": "Ikea의 창의적인 접근은 일상적인 물건을 새로운 시각으로 바라보게 하며, 대중에게 신선한 재미를 제공합니다. 이는 대중의 호기심과 놀이 본능을 자극합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZfCs5uV9dCH2XatX9DmXgK-1280-80.jpg",
+      "pub_date": "2026-06-25T08:00:00+00:00"
+    },
+    {
+      "title_ko": "이 아틱 어촌은 여름의 가장 문화적인 휴양지가 될 수 있다",
+      "summary": "문화가 노르웨이의 로포텐 군도의 누스피요르드에서 놀라운 놀이터를 찾았습니다.",
+      "url": "https://www.wallpaper.com/travel/nusfjord-lofoten-islands-norway-guide",
+      "source": "Wallpaper",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "여행",
+        "문화",
+        "노르웨이"
+      ],
+      "why": "이 기사는 아틱 어촌의 독특한 문화적 매력을 강조하며, 대중에게 새로운 여행지로서의 매력을 제공합니다. 이는 현대인들이 새로운 경험과 모험을 갈망하는 욕구를 반영합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/comLQcHqq26zCCrzkPDg7C-1280-80.jpg",
+      "pub_date": "2026-06-25T06:00:00+00:00"
+    }
+  ],
+  "keywords": [
+    "타임피스",
+    "유산",
+    "우아함",
+    "위로",
+    "할인",
+    "램프",
+    "사막",
+    "예술가",
+    "라파엘로",
+    "기술",
+    "모네",
+    "프랭크 게리",
+    "벽지",
+    "빛",
+    "예술",
+    "언리얼 엔진",
+    "가우디",
+    "모딜리아니",
+    "라벨 메이커",
+    "회고전",
+    "클림트",
+    "나이키",
+    "전기",
+    "디자인",
+    "복원",
+    "영화",
+    "경매",
+    "스니커즈",
+    "문화",
+    "건축",
+    "정리",
+    "따뜻함"
+  ],
+  "macro_keywords": [
+    {
+      "word": "영원한 순간의 미학",
+      "is_hot": true
+    },
+    {
+      "word": "복원과 재해석의 전통 혼합",
+      "is_hot": false
+    },
+    {
+      "word": "기술로 구현된 팬 열정",
+      "is_hot": false
+    },
+    {
+      "word": "예술적 상업화 및 대중화",
+      "is_hot": true
+    },
+    {
+      "word": "고전과 현대의 융합",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 시대의 창조적 자유",
+      "is_hot": false
+    },
+    {
+      "word": "문화적 정체성의 재발견",
+      "is_hot": false
+    }
+  ]
+}

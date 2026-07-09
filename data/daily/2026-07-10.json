@@ -1,0 +1,388 @@
+{
+  "date": "2026-07-10",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 '물성의 귀환과 현대적 기술의 융합'입니다. 현대인들은 과거의 감성을 현대적 기술과 결합하여 새로운 가치를 창출하는 것을 갈망하고 있습니다. 이는 물리적 경험과 디지털 경험의 조화를 통해 더욱 개인화되고 의미 있는 경험을 추구하는 욕망으로 나타납니다.",
+  "creator_message": "큐레이터의 메시지: 오늘 수집된 기사들은 물성과 디지털의 경계를 넘나들며 새로운 창작의 가능성을 탐구하는 흐름을 보여줍니다. 이는 현대인들이 과거의 감성과 현대적 기술의 융합을 통해 더욱 개인화된 경험을 추구하는 욕망을 반영합니다.",
+  "session": {
+    "timestamp": "2026-07-10T08:33:15.663318",
+    "considered": 148,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "시크릿 에이전트 영화 리뷰",
+      "summary": "브라질 대사가 한국 시사회에 참석하여 브라질을 맛볼 수 있는 기회라고 인사를 나눴습니다. 이는 한국의 탄탄한 내수 시장에 대한 외국의 관심을 보여줍니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81576",
+      "source": "Art Insight",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "영화",
+        "시크릿 에이전트",
+        "브라질"
+      ],
+      "execution_techniques": [
+        "시사회"
+      ],
+      "why": "이 기사는 글로벌 문화 교류의 중요성을 강조하며, 현대인들이 다양한 문화적 경험을 통해 자신을 확장하고자 하는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260709111615_pigrxkvy.jpg",
+      "pub_date": "2026-07-10T08:31:50.299758"
+    },
+    {
+      "title_ko": "새로운 일상, 두 개의 워크 재킷",
+      "summary": "Beautiful People와 Dickies의 협업은 클래식한 워크웨어를 재해석하여 여러 겹으로 쌓아 입는 스타일을 제안합니다.",
+      "url": "https://www.highsnobiety.com/p/beautiful-people-dickies-workwear/",
+      "source": "Highsnobiety",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "워크웨어",
+        "협업",
+        "패션"
+      ],
+      "execution_techniques": [
+        "레이어링"
+      ],
+      "why": "이 디자인은 현대인들이 기능성과 스타일을 동시에 추구하는 욕구를 충족시킵니다. 이는 실용성과 개성을 중시하는 현대 패션 트렌드를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1783433618-beautiful-people-dickies-fw26-collab-000.jpg",
+      "pub_date": "2026-07-09T21:33:00+00:00"
+    },
+    {
+      "title_ko": "구겐하임 박물관의 레지오넬라균 발견",
+      "summary": "구겐하임 박물관의 냉각탑에서 레지오넬라균이 발견되었으나, 건물은 여전히 안전하다고 합니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/09/bacteria-that-causes-legionnaires-disease-found-in-guggenheim-museum-cooling-tower",
+      "source": "The Art Newspaper",
+      "domain": "ARCHITECTURE",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "박물관",
+        "안전",
+        "레지오넬라균"
+      ],
+      "execution_techniques": [
+        "안전 검사"
+      ],
+      "why": "이 기사는 현대인들이 공공장소의 안전과 위생에 대한 높은 관심을 가지고 있음을 보여줍니다. 이는 건강과 안전에 대한 사회적 불안을 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/52528cfc0cf9c55e53cc5e176e054ecc7ba47ce0-1024x999.jpg",
+      "pub_date": "2026-07-09T21:35:12+00:00"
+    },
+    {
+      "title_ko": "Helen Mirren의 헐리우드 힐스 주택 매물로 나와",
+      "summary": "Helen Mirren은 1980년대부터 소유한 헐리우드 힐스의 주택을 1200만 달러에 매물로 내놓았습니다.",
+      "url": "https://www.architecturaldigest.com/story/helen-mirren-lists-revamped-hollywood-hills-home",
+      "source": "Architectural Digest",
+      "domain": "ARCHITECTURE",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "헐리우드 힐스",
+        "주택",
+        "부동산"
+      ],
+      "execution_techniques": [
+        "부동산 매물"
+      ],
+      "why": "이 기사는 유명인의 라이프스타일과 부동산 시장에 대한 대중의 관심을 반영합니다. 이는 개인의 성공과 사회적 지위에 대한 현대인의 욕망을 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://media.architecturaldigest.com/photos/6a4ffed5b805949a109eb467/16:9/w_1280,c_limit/2003LaBreaTerrace-mls-1.jpg",
+      "pub_date": "2026-07-09T21:19:44+00:00"
+    },
+    {
+      "title_ko": "마법적 사실주의로 이민을 그린 Ana Elisa Egreja의 정물화",
+      "summary": "Ana Elisa Egreja는 마법적 사실주의 접근법을 통해 이민을 주제로 한 풍부한 정물화를 그립니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/ana-elisa-egreja-still-life-oil-painting/",
+      "source": "This is Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Ana Elisa Egreja",
+      "creator_insight": "",
+      "tags": [
+        "이민",
+        "마법적 사실주의",
+        "정물화"
+      ],
+      "execution_techniques": [
+        "유화"
+      ],
+      "why": "이 작품은 현대 사회의 이민 문제와 정체성 탐구에 대한 관심을 반영합니다. 이는 문화적 다양성과 개인의 정체성에 대한 현대인의 욕구를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/egreja-1.jpg",
+      "pub_date": "2026-07-09T20:40:16+00:00"
+    },
+    {
+      "title_ko": "Honolulu 미술관의 새로운 디렉터 David Odo",
+      "summary": "Honolulu 미술관은 일본의 19세기 사진 전문가인 David Odo를 새로운 디렉터로 임명했습니다.",
+      "url": "https://www.artforum.com/news/david-odo-to-helm-honolulu-museum-of-art-1234754293/",
+      "source": "Artforum",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "David Odo",
+      "creator_insight": "",
+      "tags": [
+        "Honolulu 미술관",
+        "디렉터",
+        "사진"
+      ],
+      "execution_techniques": [
+        "임명"
+      ],
+      "why": "이 기사는 예술 기관의 리더십 변화와 그에 따른 새로운 방향성에 대한 관심을 반영합니다. 이는 문화적 리더십과 혁신에 대한 현대인의 기대를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/07/david-odo.webp",
+      "pub_date": "2026-07-09T19:50:25+00:00"
+    },
+    {
+      "title_ko": "Studio Varey, 빅토리아 시대 런던 플랫을 갤러리 같은 공간으로 변신",
+      "summary": "Studio Varey는 Marylebone의 pied-à-terre를 예술과 빛이 강조된 공간으로 재탄생시켰습니다.",
+      "url": "https://design-milk.com/studio-varey-moraine-house-london-flat-renovation/",
+      "source": "Design Milk",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "Studio Varey",
+      "creator_insight": "",
+      "tags": [
+        "런던",
+        "리노베이션",
+        "갤러리"
+      ],
+      "execution_techniques": [
+        "리노베이션"
+      ],
+      "why": "이 기사는 공간의 재해석과 개인화된 인테리어 디자인에 대한 현대인의 관심을 반영합니다. 이는 개인의 취향과 개성을 반영한 공간에 대한 욕구를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/07/Design-Milk-VAREY-Moraine-House-7.jpeg",
+      "pub_date": "2026-07-09T19:00:23+00:00"
+    },
+    {
+      "title_ko": "로브 한의 색채와 개성 넘치는 풍경 사진",
+      "summary": "로브 한은 미국의 장거리 여행을 연상시키는 색채와 개성 넘치는 풍경 사진을 선보입니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/rob-hann-photography-landscapes-united-states-nostlagia/",
+      "source": "This is Colossal",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "Rob Hann",
+      "creator_insight": "",
+      "tags": [
+        "풍경 사진",
+        "여행",
+        "노스탤지아"
+      ],
+      "execution_techniques": [
+        "사진"
+      ],
+      "why": "이 작품은 여행과 자유에 대한 현대인의 갈망을 반영합니다. 이는 일상에서 벗어나 새로운 경험을 추구하는 욕구를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/hann-11.jpeg",
+      "pub_date": "2026-07-09T15:28:12+00:00"
+    },
+    {
+      "title_ko": "타이의 코끼리 똥으로 만든 타워",
+      "summary": "Boonserm Premthada는 코끼리 똥 벽돌로 타워를 건축하여 새로운 건축적 가능성을 제시합니다.",
+      "url": "https://www.wallpaper.com/architecture/goya-thai-tower-boonserm-premthada-thailand",
+      "source": "Wallpaper",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "Boonserm Premthada",
+      "creator_insight": "",
+      "tags": [
+        "타이",
+        "건축",
+        "지속가능성"
+      ],
+      "execution_techniques": [
+        "친환경 건축"
+      ],
+      "why": "이 작품은 지속 가능한 건축과 자연과의 조화를 추구하는 현대인의 관심을 반영합니다. 이는 환경 보호와 혁신적인 재료 사용에 대한 욕구를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/gxNqYcsZUMigYt2Qxn5eUo-1280-80.jpg",
+      "pub_date": "2026-07-09T15:10:29+00:00"
+    },
+    {
+      "title_ko": "Koto의 새로운 폰트 디자인 규칙 재정의",
+      "summary": "CcType는 양보다 질을 중시하는 폰트 디자인을 추구합니다.",
+      "url": "https://www.creativebloq.com/design/fonts-typography/kotos-new-type-foundry-is-redefining-the-rules-of-font-design",
+      "source": "Creative Bloq",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "폰트 디자인",
+        "질",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "폰트 디자인"
+      ],
+      "why": "이 기사는 폰트 디자인의 혁신과 창의성에 대한 현대인의 관심을 반영합니다. 이는 시각적 커뮤니케이션의 중요성과 개성을 중시하는 욕구를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/zvLUe3zF3SkPmM2zCjb4JV-1280-80.jpg",
+      "pub_date": "2026-07-09T15:00:00+00:00"
+    },
+    {
+      "title_ko": "플라스틱 포장재의 순환 시스템을 위한 InFact의 시도",
+      "summary": "InFact는 EU에서 유연한 플라스틱 포장재의 순환 시스템을 구축하기 위해 노력하고 있습니다.",
+      "url": "https://thedieline.com/infact-attempts-to-create-a-circular-system-for-flexible-plastic-packaging-in-eu/",
+      "source": "The Dieline",
+      "domain": "DESIGN",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "플라스틱",
+        "순환 경제",
+        "지속 가능성"
+      ],
+      "execution_techniques": [
+        "지속 가능한 디자인"
+      ],
+      "why": "이 기사는 지속 가능한 디자인과 순환 경제에 대한 현대인의 관심을 반영합니다. 이는 환경 보호와 자원 절약에 대한 욕구를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/AdobeStock_300124287-scaled.jpeg",
+      "pub_date": "2026-07-09T14:14:37+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "나이키의 새로운 샌들, 스니커즈를 잊게 하다",
+      "summary": "나이키는 스니커즈 대신 세련된 샌들 라인을 확장하고 있습니다.",
+      "url": "https://www.highsnobiety.com/p/new-balance-best-sandals/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "샌들"
+      ],
+      "why": "이 콘텐츠는 대중이 패션에서의 편안함과 스타일을 동시에 추구하는 경향을 반영합니다. 이는 스니커즈의 대안으로 샌들이 주목받고 있는 현상을 보여줍니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1783583072-new-balance-best-sandals.jpg",
+      "pub_date": "2026-07-09T19:33:01+00:00"
+    },
+    {
+      "title_ko": "Monsieur Plant의 나무 껴안기 조각",
+      "summary": "Monsieur Plant의 작품 'tree hug'는 시간, 풍경, 인간 존재의 관계를 반영합니다.",
+      "url": "https://www.designboom.com/art/monsieur-plant-sculptural-human-arms-trees-tree-hug/",
+      "source": "Designboom",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "자연",
+        "조각"
+      ],
+      "why": "이 콘텐츠는 자연과 인간의 관계에 대한 대중의 관심을 유도하며, 자연과의 연결을 추구하는 현대인의 욕구를 반영합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/monsieur-plant-tree-hug-outdoor-installation-france-designboom-700-1-500x400-22b08q85r600.jpg",
+      "pub_date": "2026-07-09T14:30:24+00:00"
+    },
+    {
+      "title_ko": "나이키의 'Beef & Broccoli' 에어 포스 1",
+      "summary": "나이키 에어 포스 1 'Beef & Broccoli'는 팀버랜드로 유명한 클래식한 아웃도어 팔레트를 오마주합니다.",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-beef-broccoli/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "스니커즈"
+      ],
+      "why": "이 콘텐츠는 대중이 패션에서의 레트로 감성을 추구하는 경향을 반영합니다. 이는 과거의 스타일을 현대적으로 재해석하는 현상을 보여줍니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1783333610-head-shiny.png",
+      "pub_date": "2026-07-09T16:18:00+00:00"
+    }
+  ],
+  "keywords": [
+    "질",
+    "주택",
+    "워크웨어",
+    "지속 가능성",
+    "레지오넬라균",
+    "갤러리",
+    "헐리우드 힐스",
+    "노스탤지아",
+    "영화",
+    "건축",
+    "안전",
+    "여행",
+    "정물화",
+    "타이",
+    "플라스틱",
+    "런던",
+    "부동산",
+    "이민",
+    "Honolulu 미술관",
+    "패션",
+    "사진",
+    "리노베이션",
+    "풍경 사진",
+    "순환 경제",
+    "폰트 디자인",
+    "시크릿 에이전트",
+    "브라질",
+    "박물관",
+    "마법적 사실주의",
+    "디렉터",
+    "지속가능성",
+    "협업",
+    "창의성"
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 문화 융합",
+      "is_hot": true
+    },
+    {
+      "word": "오브제의 마법적 재해석",
+      "is_hot": false
+    },
+    {
+      "word": "지속가능한 건축의 혁신",
+      "is_hot": true
+    },
+    {
+      "word": "역사와 현대의 공존",
+      "is_hot": false
+    },
+    {
+      "word": "시각적 감성의 재발견",
+      "is_hot": false
+    },
+    {
+      "word": "내수 시장의 글로벌 주목",
+      "is_hot": false
+    },
+    {
+      "word": "지속가능 디자인의 미래",
+      "is_hot": false
+    }
+  ]
+}

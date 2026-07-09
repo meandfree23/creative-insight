@@ -1,0 +1,404 @@
+{
+  "date": "2026-07-04",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 통해 현대인들은 과거와 현재의 조화로운 결합을 통해 새로운 가치를 창출하고자 하는 욕구가 강하다는 것을 알 수 있습니다. 특히, 디자인과 예술 분야에서 전통적인 요소들을 현대적 기술과 융합하여 독창적인 작품을 만들어내려는 시도가 두드러집니다. 이는 개인의 정체성과 사회적 책임을 동시에 만족시키려는 현대인의 심리적 필요를 반영합니다.",
+  "creator_message": "큐레이터의 메시지: 오늘 수집된 기사들은 과거의 감성을 현대적 기술과 결합하여 새로운 가치를 창출하는 흐름을 보여줍니다. 이는 창의성과 협업을 통해 개인화된 경험을 제공함으로써 현대인의 욕구를 충족시키고자 하는 시도를 잘 나타냅니다.",
+  "session": {
+    "timestamp": "2026-07-06T12:02:42.220902",
+    "considered": 497,
+    "selected": 16
+  },
+  "topPicks": [
+    {
+      "title_ko": "알파벳 프로덕션",
+      "summary": "알파벳 프로덕션은 아시아 전역에서 영화 제작 서비스를 제공하는 회사로, 다양한 프로젝트를 통해 창의적인 비전을 실현하고 있습니다.",
+      "url": "https://www.productionparadise.comshowcase/asia-issue-1024-2307/alphabet-productions-62388.html",
+      "source": "Production Paradise",
+      "domain": "FILM",
+      "category": "소개",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "영화제작",
+        "창의성",
+        "협업"
+      ],
+      "execution_techniques": [
+        "비주얼 스토리텔링"
+      ],
+      "why": "이 기사는 영화 제작 분야에서 창의적이고 협업적인 접근이 어떻게 현대 사회의 복잡한 요구를 충족시킬 수 있는지를 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2307/photos/92707/newsletter/kv-group-01-159-n-alphabet-productions-film-production-services.jpg",
+      "pub_date": "2026-07-02T14:39:56"
+    },
+    {
+      "title_ko": "이지 프로덕션",
+      "summary": "이지 프로덕션 스튜디오는 독립적인 제작사로, 다양한 창의적 프로젝트를 통해 독특한 비주얼 경험을 제공합니다.",
+      "url": "https://www.productionparadise.comshowcase/asia-issue-1024-2307/easy-production-63380.html",
+      "source": "Production Paradise",
+      "domain": "FILM",
+      "category": "소개",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "독립제작",
+        "창의적프로젝트",
+        "비주얼경험"
+      ],
+      "execution_techniques": [
+        "비주얼 스토리텔링"
+      ],
+      "why": "이 기사는 독립적인 제작사가 어떻게 독창적인 비주얼 경험을 통해 관객의 감성을 자극할 수 있는지를 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2307/photos/94906/newsletter/00-main-easy-production.jpg",
+      "pub_date": "2026-07-02T14:29:56"
+    },
+    {
+      "title_ko": "세피 버거슨",
+      "summary": "인도 기반의 사진작가 세피 버거슨은 독특한 시각적 스타일로 다양한 문화와 이야기를 포착합니다.",
+      "url": "https://www.productionparadise.comshowcase/asia-issue-1024-2307/sephi-bergerson-63554.html",
+      "source": "Production Paradise",
+      "domain": "PHOTOGRAPHY",
+      "category": "소개",
+      "creator_name": "세피 버거슨",
+      "creator_insight": "문화와 이야기를 시각적으로 포착하는 것이 중요하다.",
+      "tags": [
+        "사진",
+        "문화",
+        "이야기"
+      ],
+      "execution_techniques": [
+        "다큐멘터리 사진"
+      ],
+      "why": "이 기사는 다양한 문화적 배경을 가진 사람들의 이야기를 시각적으로 전달하는 방법을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2307/photos/90739/newsletter/00-main-sepi-bergerson-20260527-178.jpg",
+      "pub_date": "2026-07-02T14:19:56"
+    },
+    {
+      "title_ko": "센트럴 스튜디오",
+      "summary": "센트럴 스튜디오는 아시아에서 다양한 창의적 프로젝트를 통해 독창적인 비주얼 콘텐츠를 제작합니다.",
+      "url": "https://www.productionparadise.comshowcase/asia-issue-1024-2307/central-studios-64321.html",
+      "source": "Production Paradise",
+      "domain": "FILM",
+      "category": "소개",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "비주얼콘텐츠",
+        "창의적프로젝트",
+        "스튜디오"
+      ],
+      "execution_techniques": [
+        "비주얼 스토리텔링"
+      ],
+      "why": "이 기사는 창의적인 스튜디오가 어떻게 독창적인 비주얼 콘텐츠를 통해 현대인의 감성을 자극할 수 있는지를 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2307/photos/35223/newsletter/00-main-01-central-studios-asia-maison-margiela-tabi-2026.jpg",
+      "pub_date": "2026-07-02T14:09:56"
+    },
+    {
+      "title_ko": "다리엔 로버트슨",
+      "summary": "다리엔 로버트슨은 아시아 전역에서 다양한 프로젝트를 통해 창의적인 비전을 실현하는 사진작가입니다.",
+      "url": "https://www.productionparadise.comshowcase/asia-issue-1024-2307/darien-robertson-64353.html",
+      "source": "Production Paradise",
+      "domain": "PHOTOGRAPHY",
+      "category": "소개",
+      "creator_name": "다리엔 로버트슨",
+      "creator_insight": "사진을 통해 창의적인 비전을 실현한다.",
+      "tags": [
+        "사진",
+        "창의성",
+        "비전"
+      ],
+      "execution_techniques": [
+        "다큐멘터리 사진"
+      ],
+      "why": "이 기사는 사진작가가 어떻게 창의적인 비전을 통해 현대 사회의 다양한 측면을 포착할 수 있는지를 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2307/photos/94179/newsletter/darien-robertson-production-paradise-asia-showcase.jpg",
+      "pub_date": "2026-07-02T13:59:56"
+    },
+    {
+      "title_ko": "메타람바 프로덕션",
+      "summary": "메타람바 프로덕션은 아시아에서 다양한 창의적 프로젝트를 통해 독창적인 비주얼 콘텐츠를 제작합니다.",
+      "url": "https://www.productionparadise.comshowcase/asia-issue-1024-2307/metaramba-productions-64628.html",
+      "source": "Production Paradise",
+      "domain": "FILM",
+      "category": "소개",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "비주얼콘텐츠",
+        "창의적프로젝트",
+        "스튜디오"
+      ],
+      "execution_techniques": [
+        "비주얼 스토리텔링"
+      ],
+      "why": "이 기사는 창의적인 스튜디오가 어떻게 독창적인 비주얼 콘텐츠를 통해 현대인의 감성을 자극할 수 있는지를 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2307/photos/11717/newsletter/00-main-metaramba-vivek-nap-3.4.24-ps-v3-more-contrast-rgb.jpg",
+      "pub_date": "2026-07-02T13:49:56"
+    },
+    {
+      "title_ko": "유양 리우",
+      "summary": "유양 리우는 독특한 시각적 스타일로 다양한 문화와 이야기를 포착하는 사진작가입니다.",
+      "url": "https://www.productionparadise.comshowcase/asia-issue-1024-2307/yuyang-liu-64648.html",
+      "source": "Production Paradise",
+      "domain": "PHOTOGRAPHY",
+      "category": "소개",
+      "creator_name": "유양 리우",
+      "creator_insight": "문화와 이야기를 시각적으로 포착하는 것이 중요하다.",
+      "tags": [
+        "사진",
+        "문화",
+        "이야기"
+      ],
+      "execution_techniques": [
+        "다큐멘터리 사진"
+      ],
+      "why": "이 기사는 다양한 문화적 배경을 가진 사람들의 이야기를 시각적으로 전달하는 방법을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2307/photos/85660/newsletter/00-main-yuyang-liu-rep-by-work-unit-agency03.jpg",
+      "pub_date": "2026-07-02T13:39:56"
+    },
+    {
+      "title_ko": "레이첼 매니의 포스터가 창의적인 엄마들이 산업 붕괴 속에서 두 배로 비용을 지불하는 방법을 강조하다",
+      "summary": "로스앤젤레스 디자이너 레이첼 매니는 모성의 수학을 예술로 바꾸어, 날카로운 비주얼과 유머러스하면서도 분노에 찬 에세이를 결합했습니다.",
+      "url": "https://www.creativeboom.com/inspiration/rachel-manys-posters-highlight-how-creative-mothers-are-paying-twice-for-an-industry-in-freefall/",
+      "source": "Creative Boom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "레이첼 매니",
+      "creator_insight": "모성의 수학을 예술로 바꾸는 것이 중요하다.",
+      "tags": [
+        "디자인",
+        "모성",
+        "산업붕괴"
+      ],
+      "execution_techniques": [
+        "비주얼 아트"
+      ],
+      "why": "이 기사는 창의적인 엄마들이 산업 붕괴 속에서 직면하는 도전을 시각적으로 표현하여 사회적 문제를 조명합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.creativeboom.com/upload/articles/d6/d6a03e09c91900ef79d667e6f6d46aabc8a67833_840.jpg",
+      "pub_date": "2026-07-02T07:05:00+01:00"
+    },
+    {
+      "title_ko": "해리 마투세비츠-밀네, 550개의 디자인 직업에서 거절당한 후 Acid House Designs를 설립하다",
+      "summary": "에든버러 기반의 인테리어 디자이너 해리 마투세비츠-밀네는 졸업 후 수백 개의 직업에 지원했으나 실패했고, 결국 그의 '너무 대담한' 포트폴리오가 문제가 아니라는 것을 깨달았습니다.",
+      "url": "https://www.creativeboom.com/inspiration/harry-matuszewicz-milne-was-rejected-for-550-design-jobs-so-he-built-acid-house-designs-instead/",
+      "source": "Creative Boom",
+      "domain": "DESIGN",
+      "category": "인터뷰",
+      "creator_name": "해리 마투세비츠-밀네",
+      "creator_insight": "대담한 포트폴리오가 문제가 아니다.",
+      "tags": [
+        "디자인",
+        "창업",
+        "도전"
+      ],
+      "execution_techniques": [
+        "창의적 해결"
+      ],
+      "why": "이 기사는 실패와 도전 속에서 창의적인 해결책을 찾는 과정을 통해 개인의 성장과 발전을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.creativeboom.com/upload/articles/0b/0b3913c06b95536c7b3f7cd468c101d9442a2b5e_840.png",
+      "pub_date": "2026-07-02T07:02:00+01:00"
+    },
+    {
+      "title_ko": "5번가 푸드 홀 아이덴티티가 어떻게 사람을 무드 보드보다 우선시하는지를 강조하다",
+      "summary": "Shaver Hall의 Love & War 아이덴티티는 명명, 역사, 잊혀진 아이콘이 적응적 재사용을 진정한 창의적 기회로 바꿀 수 있음을 보여줍니다.",
+      "url": "https://www.creativeboom.com/news/how-do-you-brand-a-110-year-old-department-store-into-a-food-hall-without-losing-its-soul/",
+      "source": "Creative Boom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "브랜딩",
+        "적응적재사용",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "브랜드 아이덴티티"
+      ],
+      "why": "이 기사는 오래된 공간을 현대적으로 재해석하여 새로운 가치를 창출하는 방법을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.creativeboom.com/upload/articles/a4/a47eaba41e4dff61a438b4e0152786db8dd4fc02_840.jpg",
+      "pub_date": "2026-07-02T07:00:00+01:00"
+    },
+    {
+      "title_ko": "스포르팅 CP, 120주년을 기념하여 새롭게 단장한 아이덴티티 공개",
+      "summary": "포르투갈 축구 클럽은 JKR과 협력하여 전통과 진보 사이의 균형을 맞추며 문장을 재구상하고 더 넓은 브랜딩을 새롭게 했습니다.",
+      "url": "https://www.creativereview.co.uk/sporting-cp-refreshed-identity-120th-anniversary/",
+      "source": "Creative Review",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "브랜딩",
+        "전통",
+        "진보"
+      ],
+      "execution_techniques": [
+        "브랜드 리뉴얼"
+      ],
+      "why": "이 기사는 전통적인 요소를 유지하면서도 현대적인 감각을 더해 브랜드 아이덴티티를 새롭게 하는 방법을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/SCP-rebrand-flag.jpg",
+      "pub_date": "2026-07-02T02:59:11+00:00"
+    },
+    {
+      "title_ko": "디자인이 미국의 정체성을 재구성할 수 있을까?",
+      "summary": "미국이 250주년을 맞이하면서, 우리는 정치적, 문화적 분열의 시기에 국가 상징을 재해석할 수 있는 디자인의 힘에 대해 주요 창작자들과 이야기를 나눕니다.",
+      "url": "https://www.creativereview.co.uk/the-conversation-america-250-national-identity-design/",
+      "source": "Creative Review",
+      "domain": "DESIGN",
+      "category": "인터뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디자인",
+        "정체성",
+        "분열"
+      ],
+      "execution_techniques": [
+        "문화적 해석"
+      ],
+      "why": "이 기사는 디자인이 어떻게 국가 정체성을 재구성하고 사회적 통합을 촉진할 수 있는지를 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/America-250-gold-logo.jpg",
+      "pub_date": "2026-07-02T02:58:25+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "슈퍼73 x 로우로우, 협업 라이딩 기어 컬렉션 출시",
+      "summary": "트립웨어 브랜드 로우로우와 프리미엄 전기 자전거 브랜드 슈퍼73이 협업하여 새로운 라이딩 기어 컬렉션을 출시했습니다.",
+      "url": "https://hypebeast.kr/2026/7/rawrow-x-super73-riding-gear-collection-release",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "협업",
+        "라이딩기어",
+        "트렌드"
+      ],
+      "why": "이 콘텐츠는 두 인기 브랜드의 협업을 통해 대중의 관심을 끌며, 트렌디한 라이프스타일을 반영합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2F29%2Frawrow_x_super73_release_ft.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-02T06:59:30+00:00"
+    },
+    {
+      "title_ko": "디자인 인 모션 페스티벌, 2027년 에디션 출품작 모집",
+      "summary": "세계 최고의 모션 디자인 페스티벌이 16개 주요 도시에서 확대된 프로그램으로 돌아오며, 참여할 수 있는 기회를 제공합니다.",
+      "url": "https://www.creativereview.co.uk/design-in-motion-festival-2027-submissions-call/",
+      "source": "Creative Review",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "모션디자인",
+        "페스티벌",
+        "참여"
+      ],
+      "why": "이 콘텐츠는 전 세계적으로 확장된 페스티벌의 참여 기회를 제공하며, 창작자들에게 새로운 도전을 제시합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/06/Design-in-motion-festival-2025.jpg",
+      "pub_date": "2026-07-02T02:42:30+00:00"
+    },
+    {
+      "title_ko": "캠퍼, 비트라 디자인 뮤지엄에서 아트 바젤 2026에 참여",
+      "summary": "캠퍼는 비트라 디자인 뮤지엄에서 아트 바젤 2026을 기념하여 특별한 협업 프로젝트를 선보입니다.",
+      "url": "https://www.fubiz.net/2026/07/01/camper-for-vitra-design-museum-at-art-basel-2026/",
+      "source": "Fubiz",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "협업",
+        "디자인뮤지엄",
+        "아트바젤"
+      ],
+      "why": "이 콘텐츠는 유명 브랜드와 디자인 뮤지엄의 협업을 통해 대중의 이목을 집중시키며, 예술과 상업의 경계를 허뭅니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://www.fubiz.net/wp-content/uploads/2026/07/06_VDM_Hella-Jongerius-Exhibition_hr.jpg",
+      "pub_date": "2026-07-01T16:51:39+00:00"
+    }
+  ],
+  "keywords": [
+    "비전",
+    "영화제작",
+    "전통",
+    "적응적재사용",
+    "협업",
+    "브랜딩",
+    "창업",
+    "비주얼경험",
+    "공공예술",
+    "이야기",
+    "비주얼콘텐츠",
+    "산업붕괴",
+    "진보",
+    "정체성",
+    "창의성",
+    "창의적프로젝트",
+    "디자인",
+    "사진",
+    "스튜디오",
+    "분열",
+    "문화",
+    "도전",
+    "독립제작",
+    "역사적건축",
+    "사운드설치",
+    "모성"
+  ],
+  "macro_keywords": [
+    {
+      "word": "창의적 비전 구현",
+      "is_hot": true
+    },
+    {
+      "word": "독창적인 비주얼 콘텐츠"
+    },
+    {
+      "word": "문화와 이야기 포착"
+    },
+    {
+      "word": "디자인의 힘"
+    },
+    {
+      "word": "적응적 재사용"
+    },
+    {
+      "word": "대담한 포트폴리오",
+      "is_hot": false
+    },
+    {
+      "word": "협업과 혁신"
+    }
+  ]
+}

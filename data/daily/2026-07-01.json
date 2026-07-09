@@ -1,0 +1,397 @@
+{
+  "date": "2026-07-01",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 예술과 디자인이 사회적, 환경적 책임을 강조하며, 창의성과 지속 가능성을 결합하는 방향으로 나아가고 있다는 것입니다. 현대인들은 과거의 감성을 현대 기술과 결합하여 새로운 가치를 창출하고, 예술을 통해 사회적 메시지를 전달하며, 지속 가능한 미래를 구축하는 것에 대한 갈망을 가지고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘 수집된 기사들은 예술과 디자인이 단순한 미적 표현을 넘어 사회적, 환경적 책임을 강조하는 방향으로 나아가고 있음을 보여줍니다. 창의성과 지속 가능성을 결합하여 새로운 가치를 창출하는 것이 현대인의 중요한 욕구로 자리잡고 있습니다.",
+  "session": {
+    "timestamp": "2026-07-06T12:01:24.821612",
+    "considered": 542,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "칸딘스키의 가을, 로마에서",
+      "summary": "칸딘스키의 작품들이 로마에서 전시됩니다. 이 전시는 그의 작품들이 어떻게 현대와 과거를 연결하는지를 보여줍니다.",
+      "url": "http://www.arte.it/notizie/roma/a-roma-l-autunno-è-di-kandinskij-22898",
+      "source": "Arte.it",
+      "domain": "ART",
+      "category": "전시",
+      "creator_name": "",
+      "creator_insight": "칸딘스키의 작품은 현대와 과거를 연결하는 다리 역할을 합니다.",
+      "tags": [
+        "칸딘스키",
+        "전시",
+        "현대와 과거"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "이 기사는 예술이 어떻게 현대와 과거를 연결하는지를 보여주며, 예술이 사회적 메시지를 전달하는 중요한 매체임을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T17:25:46+02:00"
+    },
+    {
+      "title_ko": "4월 4일 가구 세일",
+      "summary": "디자인 편집자가 추천하는 4월 4일 가구 세일을 소개합니다. 다양한 브랜드의 가구를 할인된 가격에 구매할 수 있는 기회입니다.",
+      "url": "https://www.architecturaldigest.com/story/best-fourth-of-july-furniture-sales-2026-1",
+      "source": "Architectural Digest",
+      "domain": "DESIGN",
+      "category": "세일",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "가구",
+        "세일",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "세일"
+      ],
+      "why": "이 기사는 현대인들이 합리적인 가격에 디자인 가구를 구매하고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T11:00:00+00:00"
+    },
+    {
+      "title_ko": "야외 가구 세일",
+      "summary": "야외 가구를 할인된 가격에 구매할 수 있는 기회를 제공합니다. 늦기 전에 야외 공간을 꾸밀 수 있는 기회입니다.",
+      "url": "https://www.architecturaldigest.com/story/best-outdoor-furniture-sales-2026-4",
+      "source": "Architectural Digest",
+      "domain": "DESIGN",
+      "category": "세일",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "야외 가구",
+        "세일",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "세일"
+      ],
+      "why": "이 기사는 현대인들이 야외 공간을 꾸미고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T11:00:00+00:00"
+    },
+    {
+      "title_ko": "주말을 함께한 르네 마틱",
+      "summary": "르네 마틱과 함께한 주말을 통해 그의 작품 세계를 탐험합니다. 그의 작품은 현대 사회의 다양한 이슈를 반영합니다.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-rene-matic-030726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "인터뷰",
+      "creator_name": "르네 마틱",
+      "creator_insight": "예술은 현대 사회의 다양한 이슈를 반영하는 중요한 매체입니다.",
+      "tags": [
+        "르네 마틱",
+        "예술",
+        "사회 이슈"
+      ],
+      "execution_techniques": [
+        "인터뷰"
+      ],
+      "why": "이 기사는 예술이 현대 사회의 다양한 이슈를 반영하는 중요한 매체임을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/i_u9Lec6DhAvawUdEXUoHb1FVSg=/279695/width-1440%7Cformat-jpeg/00-01_xl0tlQK.png",
+      "pub_date": "2026-07-03T08:00:00+00:00"
+    },
+    {
+      "title_ko": "치카노 예술은 미국 예술이다",
+      "summary": "치치 마린은 치카노 예술이 미국 예술의 중요한 부분임을 강조하며, 예술과 사회 운동의 연결성을 설명합니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/03/cheech-marin-interview-we-the-people-exhibition-riverside",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "인터뷰",
+      "creator_name": "치치 마린",
+      "creator_insight": "예술은 사회 운동과 깊이 연결되어 있습니다.",
+      "tags": [
+        "치카노 예술",
+        "미국 예술",
+        "사회 운동"
+      ],
+      "execution_techniques": [
+        "인터뷰"
+      ],
+      "why": "이 기사는 예술이 어떻게 사회 운동과 연결되어 있는지를 보여주며, 예술의 사회적 역할을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/4d5b82024bc4c27046249f8efb3b19ee8c0d1750-2000x1333.jpg",
+      "pub_date": "2026-07-03T08:00:00+00:00"
+    },
+    {
+      "title_ko": "20세기 북유럽 디자인의 거장들",
+      "summary": "요코하마 타카시마야에서 열린 스티그 린드버그 전시회를 통해 20세기 북유럽 디자인의 거장들을 만날 수 있습니다.",
+      "url": "https://www.adfwebmagazine.jp/en/design/masters-of-20th-century-nordic-design-the-stig-lindberg-exhibition-at-yokohama-takashima-ya/",
+      "source": "ADF Web Magazine",
+      "domain": "DESIGN",
+      "category": "전시",
+      "creator_name": "",
+      "creator_insight": "북유럽 디자인은 기능성과 미학을 결합한 독특한 스타일을 가지고 있습니다.",
+      "tags": [
+        "북유럽 디자인",
+        "스티그 린드버그",
+        "전시"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "이 기사는 북유럽 디자인의 독특한 스타일과 그 영향을 탐구하며, 디자인의 기능성과 미학을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/06/adf-web-magazine-yhm-takashimaya-stig-lindberg-1.jpg",
+      "pub_date": "2026-07-03T07:29:44+00:00"
+    },
+    {
+      "title_ko": "하기 도자기와 아르누보의 아름다움",
+      "summary": "히다 타카야마 미술관에서 열린 전시회는 하기 도자기와 아르누보의 아름다움을 탐구합니다.",
+      "url": "https://www.adfwebmagazine.jp/en/art/the-beauty-of-hagi-ware-and-art-nouveau-at-hida-takayama-museum-of-art/",
+      "source": "ADF Web Magazine",
+      "domain": "ART",
+      "category": "전시",
+      "creator_name": "",
+      "creator_insight": "도자기와 아르누보는 전통과 현대를 결합한 예술의 형태입니다.",
+      "tags": [
+        "하기 도자기",
+        "아르누보",
+        "전시"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "이 기사는 전통과 현대를 결합한 예술의 형태를 탐구하며, 예술의 다양성과 깊이를 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/06/adf-web-magazine-hida-takayama-museum-of-art-1.jpg",
+      "pub_date": "2026-07-03T05:53:36+00:00"
+    },
+    {
+      "title_ko": "알릭스 보르톨리의 수작업 세계",
+      "summary": "프랑스 예술가이자 감독인 알릭스 보르톨리는 실험을 기반으로 한 수작업 세계를 구축하며, AI 시대에 아날로그 공예의 새로운 중요성을 설명합니다.",
+      "url": "https://www.creativereview.co.uk/alix-bortoli-stop-motion-animation-director/",
+      "source": "Creative Review",
+      "domain": "ART",
+      "category": "인터뷰",
+      "creator_name": "알릭스 보르톨리",
+      "creator_insight": "아날로그 공예는 AI 시대에 새로운 중요성을 가지고 있습니다.",
+      "tags": [
+        "알릭스 보르톨리",
+        "수작업",
+        "아날로그 공예"
+      ],
+      "execution_techniques": [
+        "인터뷰"
+      ],
+      "why": "이 기사는 아날로그 공예의 중요성을 강조하며, 현대 기술과 전통 공예의 결합을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/ffern-alixbortoli.png",
+      "pub_date": "2026-07-03T02:29:32+00:00"
+    },
+    {
+      "title_ko": "세인트-술피스 세라믹 2026",
+      "summary": "파리는 세인트-술피스 세라믹 2026을 통해 세라믹의 중심지가 됩니다. 이 이벤트는 다양한 세라믹 작품을 선보입니다.",
+      "url": "https://www.adfwebmagazine.jp/en/art/saint-sulpice-ceramique-2026-paris-becomes-ceramic-central/",
+      "source": "ADF Web Magazine",
+      "domain": "ART",
+      "category": "이벤트",
+      "creator_name": "",
+      "creator_insight": "세라믹은 다양한 예술적 표현을 가능하게 합니다.",
+      "tags": [
+        "세라믹",
+        "파리",
+        "이벤트"
+      ],
+      "execution_techniques": [
+        "이벤트"
+      ],
+      "why": "이 기사는 세라믹의 다양한 예술적 표현을 탐구하며, 예술의 다양성과 깊이를 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/06/adf-web-masgazine-paris-ceramic-event-maeda.jpg",
+      "pub_date": "2026-07-03T02:17:32+00:00"
+    },
+    {
+      "title_ko": "2026 V&A 일러스트레이션 어워드 수상자 발표",
+      "summary": "V&A의 일러스트레이션 어워드는 다양한 형태와 카테고리의 일러스트레이션을 기념하며, 올해의 일러스트레이터를 선정합니다.",
+      "url": "https://www.creativereview.co.uk/winners-of-the-2026-va-illustration-awards-announced/",
+      "source": "Creative Review",
+      "domain": "ART",
+      "category": "어워드",
+      "creator_name": "",
+      "creator_insight": "일러스트레이션은 다양한 형태와 카테고리로 확장될 수 있습니다.",
+      "tags": [
+        "일러스트레이션",
+        "어워드",
+        "V&A"
+      ],
+      "execution_techniques": [
+        "어워드"
+      ],
+      "why": "이 기사는 일러스트레이션의 다양성과 그 중요성을 강조하며, 예술의 다양한 형태를 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/StephenSmith.jpg",
+      "pub_date": "2026-07-03T02:16:54+00:00"
+    },
+    {
+      "title_ko": "클로케 에스테이트: 지속 가능한 증류소 디자인",
+      "summary": "바를리스웨들릭 건축가들이 설계한 클로케 에스테이트는 지속 가능한 증류소 디자인과 허드슨 밸리의 환대를 결합합니다.",
+      "url": "https://www.adfwebmagazine.jp/en/architect/klocke-estate-blends-sustainable-distillery-design-with-hudson-valley-hospitality/",
+      "source": "ADF Web Magazine",
+      "domain": "ARCHITECTURE",
+      "category": "디자인",
+      "creator_name": "",
+      "creator_insight": "지속 가능한 디자인은 현대 건축의 중요한 요소입니다.",
+      "tags": [
+        "지속 가능성",
+        "증류소",
+        "건축"
+      ],
+      "execution_techniques": [
+        "디자인"
+      ],
+      "why": "이 기사는 지속 가능한 디자인의 중요성을 강조하며, 현대 건축의 방향성을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/06/adf-web-magazine-klocke-estate-barliswedlick-architects-1.jpg",
+      "pub_date": "2026-07-03T01:55:41+00:00"
+    },
+    {
+      "title_ko": "데이터 시각화: 포뮬러 1 데이터 아트 시리즈",
+      "summary": "니콜라스 펜코는 복잡한 포뮬러 1 텔레메트리 데이터를 구조화된 데이터 시각화 아트 디자인 포스터 시리즈로 변환합니다.",
+      "url": "https://abduzeedo.com/data-visualization-formula-1-data-art-series-nicolas-penco/",
+      "source": "Abduzeedo",
+      "domain": "ART",
+      "category": "디자인",
+      "creator_name": "니콜라스 펜코",
+      "creator_insight": "데이터는 예술의 새로운 매체가 될 수 있습니다.",
+      "tags": [
+        "데이터 시각화",
+        "포뮬러 1",
+        "아트"
+      ],
+      "execution_techniques": [
+        "디자인"
+      ],
+      "why": "이 기사는 데이터 시각화의 가능성을 탐구하며, 데이터가 예술의 새로운 매체가 될 수 있음을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-02T22:00:59+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "서버 캐비닛에서의 인사",
+      "summary": "미모사 에차드의 서버 캐비닛은 현대의 시대상을 반영하는 상자입니다.",
+      "url": "https://www.artforum.com/columns/greetings-from-mimosa-echards-server-cabinet-postcard-1234753356/",
+      "source": "Artforum",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "서버 캐비닛"
+      ],
+      "why": "이 콘텐츠는 현대의 디지털 시대를 상징하는 요소로, 기술과 예술의 결합을 보여줍니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-02T21:55:14+00:00"
+    },
+    {
+      "title_ko": "뉴욕 차이나타운의 예술 공간 폐쇄",
+      "summary": "뉴욕의 라이엘스 & 킹 갤러리가 문을 닫았습니다. 이 갤러리는 신진 예술가들을 지원하는 공간으로 알려져 있었습니다.",
+      "url": "https://www.artforum.com/news/lyles-and-king-closes-in-new-yorks-chinatown-1234753925/",
+      "source": "Artforum",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "갤러리 폐쇄"
+      ],
+      "why": "이 콘텐츠는 예술 공간의 중요성과 그 상실이 가져오는 충격을 보여줍니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-02T21:51:15+00:00"
+    },
+    {
+      "title_ko": "뉴욕시 문화 예산 기록적 할당",
+      "summary": "뉴욕시 문화부는 올해 시 예산에서 사상 최대의 할당을 받게 되었습니다.",
+      "url": "https://www.artforum.com/news/mamdani-allocates-a-record-323-million-for-culture-1234753986/",
+      "source": "Artforum",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "문화 예산"
+      ],
+      "why": "이 콘텐츠는 문화 예산의 중요성과 그 할당이 사회에 미치는 영향을 보여줍니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-02T20:22:04+00:00"
+    }
+  ],
+  "keywords": [
+    "아르누보",
+    "미국 예술",
+    "이벤트",
+    "치카노 예술",
+    "파리",
+    "북유럽 디자인",
+    "사회 이슈",
+    "수작업",
+    "어워드",
+    "건축",
+    "사회 운동",
+    "일러스트레이션",
+    "세일",
+    "르네 마틱",
+    "아날로그 공예",
+    "칸딘스키",
+    "지속 가능성",
+    "가구",
+    "V&A",
+    "증류소",
+    "데이터 시각화",
+    "포뮬러 1",
+    "디자인",
+    "현대와 과거",
+    "하기 도자기",
+    "예술",
+    "아트",
+    "전시",
+    "알릭스 보르톨리",
+    "세라믹",
+    "야외 가구",
+    "스티그 린드버그"
+  ],
+  "macro_keywords": [
+    {
+      "word": "예술과 사회",
+      "is_hot": true
+    },
+    {
+      "word": "전통과 현대의 결합"
+    },
+    {
+      "word": "지속 가능성"
+    },
+    {
+      "word": "아날로그 공예"
+    },
+    {
+      "word": "디자인 할인 행사"
+    },
+    {
+      "word": "데이터 시각화"
+    },
+    {
+      "word": "예술 공간의 변화",
+      "is_hot": true
+    }
+  ]
+}

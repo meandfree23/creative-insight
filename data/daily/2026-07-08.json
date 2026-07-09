@@ -1,0 +1,413 @@
+{
+  "date": "2026-07-08",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 '과거와 현재의 융합을 통한 새로운 가치 창출'입니다. 현대인들은 전통적인 가치와 현대 기술을 결합하여 새로운 경험과 의미를 찾고자 합니다. 이는 물성의 귀환, 예술과 기술의 융합, 그리고 지속 가능한 미래에 대한 갈망으로 나타납니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 큐레이션은 과거의 유산과 현대 기술의 조화를 통해 새로운 가치를 창출하려는 현대인의 욕구를 반영합니다. 이는 지속 가능한 미래와 개인화된 경험을 추구하는 현대 사회의 방향성을 보여줍니다.",
+  "session": {
+    "timestamp": "2026-07-08T08:32:36.102879",
+    "considered": 144,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "일본 미술로 보는 물(物)을 존중하는 태도",
+      "summary": "오늘날 소비와 폐기의 주기가 대폭 짧아지고 있다. 물건은 빠르게 생산되고 소비되며, 기능이 약해지거나 목적을 다했다고 판단되는 순간 쉽게 버려진다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81560",
+      "source": "Art Insight",
+      "domain": "ART",
+      "category": "Opinion",
+      "creator_name": "",
+      "creator_insight": "우리는 물건을 단순히 소비하는 대상으로 보지 않고, 그 자체로 존중해야 한다.",
+      "tags": [
+        "소비",
+        "존중",
+        "지속 가능성"
+      ],
+      "execution_techniques": [
+        "비평"
+      ],
+      "why": "이 기사는 현대 사회의 빠른 소비 문화에 대한 반성과 함께, 물건을 존중하는 태도의 중요성을 일깨워줍니다. 이는 지속 가능한 미래를 위한 가치관의 전환을 촉구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260707134940_tylfyxou.png",
+      "pub_date": "2026-07-08T08:31:21.800188"
+    },
+    {
+      "title_ko": "Yinka Ilori와 Dunelm의 새로운 가구 컬렉션",
+      "summary": "오늘 출시된 이 협업은 Yinka Ilori의 시그니처 패턴과 Leicester의 섬유 역사를 이야기합니다.",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/yinka-ilori-dunelm",
+      "source": "Wallpaper",
+      "domain": "DESIGN",
+      "category": "Collaboration",
+      "creator_name": "Yinka Ilori",
+      "creator_insight": "디자인은 과거의 이야기를 현대적 감각으로 전달하는 매개체입니다.",
+      "tags": [
+        "컬러풀",
+        "커뮤니티",
+        "역사"
+      ],
+      "execution_techniques": [
+        "협업"
+      ],
+      "why": "이 컬렉션은 과거의 역사와 현대 디자인을 결합하여 커뮤니티의 이야기를 전달합니다. 이는 현대인이 과거와의 연결을 통해 새로운 가치를 찾고자 하는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/cX3HQDSxVfiLfvmJuNKtG9-1280-80.jpg",
+      "pub_date": "2026-07-07T23:01:00+00:00"
+    },
+    {
+      "title_ko": "Faye Toogood의 'Bone, Roll, Slump' 가구 컬렉션",
+      "summary": "영국 디자이너의 새로운 가구 컬렉션은 화석처럼 조각된 식탁과 무거운 목재 콘솔을 특징으로 합니다.",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/faye-toogood-bone-roll-slump",
+      "source": "Wallpaper",
+      "domain": "DESIGN",
+      "category": "Launch",
+      "creator_name": "Faye Toogood",
+      "creator_insight": "디자인은 과거의 흔적을 현대적 형태로 재현하는 과정입니다.",
+      "tags": [
+        "조각",
+        "자연",
+        "과거"
+      ],
+      "execution_techniques": [
+        "조각"
+      ],
+      "why": "이 컬렉션은 과거의 흔적을 현대적 디자인으로 재현하여, 현대인들이 자연과의 연결을 통해 안정감을 찾을 수 있도록 돕습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/DSJprjyzCuNb5XNRKALKYU-1280-80.jpg",
+      "pub_date": "2026-07-07T23:01:00+00:00"
+    },
+    {
+      "title_ko": "레고 'Arcade Pinball Machine'",
+      "summary": "2,274개 브릭으로 완성된 진짜 레트로 핀볼 테이블입니다.",
+      "url": "https://hypebeast.kr/2026/7/lego-arcade-pinball-machine-release-info",
+      "source": "Hypebeast",
+      "domain": "OBJECT",
+      "category": "Product Release",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "레트로",
+        "레고",
+        "놀이"
+      ],
+      "execution_techniques": [
+        "조립"
+      ],
+      "why": "이 제품은 레트로 감성을 현대적 방식으로 재현하여, 현대인들이 과거의 즐거움을 다시 경험할 수 있도록 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Flego-arcade-pinball-machine-release-info-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-07T22:53:57+00:00"
+    },
+    {
+      "title_ko": "Victor Victor의 Nike Air Force 1 Low 'Red'",
+      "summary": "2001년식 툴링을 완벽 재현한 마스터피스입니다.",
+      "url": "https://hypebeast.kr/2026/7/victor-victor-nike-air-force-1-low-red-first-look-revealed",
+      "source": "Hypebeast",
+      "domain": "OBJECT",
+      "category": "Product Release",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "나이키",
+        "레트로",
+        "스니커즈"
+      ],
+      "execution_techniques": [
+        "복각"
+      ],
+      "why": "이 제품은 과거의 디자인을 현대적으로 재현하여, 소비자들이 과거의 감성을 현재의 패션 트렌드 속에서 경험할 수 있도록 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fvictor-victor-nike-air-force-1-low-red-first-look-revealed-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-07T22:45:37+00:00"
+    },
+    {
+      "title_ko": "Paramount+ 장편 애니메이션 ‘Avatar Aang: The Last Airbender’",
+      "summary": "전 세계 공개 일정이 앞당겨졌습니다.",
+      "url": "https://hypebeast.kr/2026/7/paramount-plus-avatar-aang-the-last-airbender-is-accelerating-global-premiere-official-trailer-release-info",
+      "source": "Hypebeast",
+      "domain": "FILM",
+      "category": "Announcement",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "애니메이션",
+        "아바타",
+        "글로벌"
+      ],
+      "execution_techniques": [
+        "애니메이션"
+      ],
+      "why": "이 애니메이션은 전 세계 팬들에게 과거의 인기 시리즈를 다시 경험할 수 있는 기회를 제공하며, 글로벌한 문화 교류를 촉진합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-07T22:33:32+00:00"
+    },
+    {
+      "title_ko": "ui ux 포트폴리오 디자인 시스템 인터페이스 - Nemish Zawar",
+      "summary": "Nemish Zawar의 새로운 UI UX 포트폴리오 디자인 시스템 인터페이스를 탐험합니다.",
+      "url": "https://abduzeedo.com/ui-ux-portfolio-design-system-interface-nemish-zawar/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "Portfolio",
+      "creator_name": "Nemish Zawar",
+      "creator_insight": "디자인은 복잡한 정보를 명확하게 전달하는 도구입니다.",
+      "tags": [
+        "UI",
+        "UX",
+        "디자인 시스템"
+      ],
+      "execution_techniques": [
+        "디자인 시스템"
+      ],
+      "why": "이 인터페이스는 복잡한 정보를 명확하게 전달하여 사용자 경험을 향상시키며, 현대인의 디지털 환경에서의 효율성을 높입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_nemish-uiux-portfolio-2025-nemish-zawar.jpg",
+      "pub_date": "2026-07-07T22:06:27+00:00"
+    },
+    {
+      "title_ko": "Collin van der Sluijs의 'Wanderland'",
+      "summary": "광대한 생태계를 상상하며 중요한 것과 일상적인 것을 아우릅니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/collin-van-der-sluijs-wanderland-chicago/",
+      "source": "This is Colossal",
+      "domain": "ART",
+      "category": "Exhibition",
+      "creator_name": "Collin van der Sluijs",
+      "creator_insight": "예술은 일상 속에서 중요한 것들을 발견하는 과정입니다.",
+      "tags": [
+        "생태계",
+        "예술",
+        "일상"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "이 전시는 일상 속에서 중요한 것들을 발견하는 과정을 통해, 현대인들이 자연과의 연결을 재조명할 수 있도록 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/2032__013.jpg",
+      "pub_date": "2026-07-07T21:50:52+00:00"
+    },
+    {
+      "title_ko": "Staud Home의 첫 컬렉션",
+      "summary": "새로운 홈웨어 컬렉션은 테이블 램프부터 재떨이까지 다양한 제품을 제공합니다.",
+      "url": "https://design-milk.com/staud-home-debut-ceramics-vintage-home-decor/",
+      "source": "Design Milk",
+      "domain": "DESIGN",
+      "category": "Launch",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "홈웨어",
+        "빈티지",
+        "자연"
+      ],
+      "execution_techniques": [
+        "런칭"
+      ],
+      "why": "이 컬렉션은 자연스러운 감성과 빈티지 디자인을 통해 현대인들이 집에서의 편안함과 안정감을 찾을 수 있도록 돕습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/07/STAUD_HOME_7-1280x900-1.jpg",
+      "pub_date": "2026-07-07T21:37:46+00:00"
+    },
+    {
+      "title_ko": "Spinneybeck의 Eelgrass 오프컷을 활용한 모듈형 음향 타일",
+      "summary": "Søuld Fragments는 자연 질감, 음향 성능, 순환 디자인을 결합한 모듈형 벽 타일입니다.",
+      "url": "https://design-milk.com/spinneybeck-sould-fragments-eelgrass-acoustic-wall-tiles/",
+      "source": "Design Milk",
+      "domain": "DESIGN",
+      "category": "Product",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "음향",
+        "자연",
+        "순환 디자인"
+      ],
+      "execution_techniques": [
+        "모듈형 디자인"
+      ],
+      "why": "이 제품은 자연 소재를 활용하여 지속 가능한 디자인을 구현하며, 현대인들이 환경 친화적인 생활을 추구할 수 있도록 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/07/SB-SOULDFR-22.jpg",
+      "pub_date": "2026-07-07T18:29:30+00:00"
+    },
+    {
+      "title_ko": "Phlegm의 벽화와 판화에서 합쳐지는 수수께끼 같은 아이콘과 미완성된 서사",
+      "summary": "런던 기반 아티스트 Phlegm의 벽화와 판화는 수수께끼 같은 아이콘과 미완성된 서사를 결합합니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/phlegm-murals-engravings-street-art-printmaking/",
+      "source": "This is Colossal",
+      "domain": "ART",
+      "category": "Exhibition",
+      "creator_name": "Phlegm",
+      "creator_insight": "예술은 미완성된 서사를 통해 상상력을 자극하는 힘을 가집니다.",
+      "tags": [
+        "아이콘",
+        "서사",
+        "상상력"
+      ],
+      "execution_techniques": [
+        "벽화"
+      ],
+      "why": "이 작품은 미완성된 서사를 통해 관객의 상상력을 자극하며, 현대인들이 예술을 통해 새로운 이야기를 창조할 수 있도록 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/phlegm-3.jpg",
+      "pub_date": "2026-07-07T17:00:00+00:00"
+    },
+    {
+      "title_ko": "Nevada Museum of Art의 지속 가능성을 핵심으로 한 접근",
+      "summary": "1931년 설립 이후, 이 기관은 모든 활동에서 기후 행동을 촉진해 왔습니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/07/the-nevada-museum-of-art-puts-sustainability-at-its-core",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "Institution",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "지속 가능성",
+        "기후 행동",
+        "예술"
+      ],
+      "execution_techniques": [
+        "지속 가능성"
+      ],
+      "why": "이 기사는 예술 기관이 지속 가능성을 중심으로 운영되며, 현대 사회에서 환경 문제에 대한 인식을 높이는 데 기여하고 있음을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/536fb79020f4406ee3c1656dcc69d99d4f2ac34a-8688x5768.jpg",
+      "pub_date": "2026-07-07T17:59:34+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "레고 'Iconic Trainer Moments' 몬스터볼",
+      "summary": "숨겨진 브릭 설계의 끝판왕",
+      "url": "https://hypebeast.kr/2026/7/lego-iconic-trainer-moments-poke-ball-pokemon-lego-set-professor-oak-famous-laboratory-release-info",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "레고",
+        "포켓몬",
+        "놀이"
+      ],
+      "why": "레고와 포켓몬이라는 두 강력한 브랜드의 결합은 대중의 향수를 자극하며, 놀이의 즐거움을 현대적으로 재해석합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Flego-iconic-trainer-moments-poke-ball-pokemon-lego-set-professor-oak-famous-laboratory-release-info-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-07T22:32:30+00:00"
+    },
+    {
+      "title_ko": "Crocs의 가장 멋진 트레일 스니커",
+      "summary": "Crocs Quick Trail Racer는 스타일리시한 데뷔를 이어가며 'Sky Ice' 출시를 맞이합니다.",
+      "url": "https://www.highsnobiety.com/p/crocs-quick-trail-racer-sky-ice/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "크록스",
+        "스니커",
+        "패션"
+      ],
+      "why": "이 제품은 크록스의 혁신적인 디자인과 기능성을 결합하여, 대중에게 새로운 패션 트렌드를 제시합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1783432437-crocs-quick-trail-racer-sky-ice-0.jpg",
+      "pub_date": "2026-07-07T19:05:00+00:00"
+    },
+    {
+      "title_ko": "Balenciaga의 이상하게 평범한 샌들",
+      "summary": "Pierpaolo Piccioli의 Hike Sandal Sneaker는 놀랍도록 평범하며, 디자이너의 스포츠적이고 더 절제된 전환의 논리적 다음 단계입니다.",
+      "url": "https://www.highsnobiety.com/p/balenciaga-hike-sandal-sneaker/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "발렌시아가",
+        "샌들",
+        "디자인"
+      ],
+      "why": "이 샌들은 패션계의 거장 발렌시아가가 평범함 속에서 독특함을 찾아내는 능력을 보여주며, 대중의 호기심을 자극합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1783413410-balenciaga-hike-sandal-sneaker-06-1.jpg",
+      "pub_date": "2026-07-07T17:49:01+00:00"
+    }
+  ],
+  "keywords": [
+    "레고",
+    "컬러풀",
+    "자연",
+    "애니메이션",
+    "기후 행동",
+    "과거",
+    "놀이",
+    "빈티지",
+    "나이키",
+    "예술",
+    "디자인 시스템",
+    "UX",
+    "서사",
+    "상상력",
+    "조각",
+    "커뮤니티",
+    "UI",
+    "아이콘",
+    "레트로",
+    "소비",
+    "글로벌",
+    "스니커즈",
+    "순환 디자인",
+    "지속 가능성",
+    "존중",
+    "역사",
+    "음향",
+    "홈웨어",
+    "일상",
+    "아바타",
+    "생태계"
+  ],
+  "macro_keywords": [
+    {
+      "word": "지속 가능성과 순환 디자인",
+      "is_hot": true
+    },
+    {
+      "word": "전통과 현대의 융합",
+      "is_hot": false
+    },
+    {
+      "word": "레트로의 현대적 재해석",
+      "is_hot": true
+    },
+    {
+      "word": "기능과 미학의 경계 허물기",
+      "is_hot": false
+    },
+    {
+      "word": "예술적 서사의 재발현",
+      "is_hot": false
+    },
+    {
+      "word": "감성적 패턴과 문화적 이야기",
+      "is_hot": false
+    },
+    {
+      "word": "일상 속의 자연 상상력",
+      "is_hot": false
+    }
+  ]
+}

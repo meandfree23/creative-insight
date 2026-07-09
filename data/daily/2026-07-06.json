@@ -1,0 +1,411 @@
+{
+  "date": "2026-07-06",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 '혼돈 속에서의 질서 찾기'입니다. 현대인들은 정보의 홍수 속에서 자신만의 의미와 질서를 찾고자 하는 욕구가 강합니다. 이는 과거의 감성과 현대 기술의 결합, 창의성과 협업을 통한 새로운 가치 창출, 그리고 개인화된 경험과 사회적 책임을 결합한 창작물에 대한 갈망으로 나타나고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘 수집된 기사들은 현대인들이 정보 과잉 속에서 자신만의 질서를 찾고자 하는 욕구를 반영합니다. 과거의 감성과 현대 기술의 결합, 창의성과 협업을 통한 새로운 가치 창출이 그 해답이 될 수 있습니다.",
+  "session": {
+    "timestamp": "2026-07-06T13:27:27.838474",
+    "considered": 56,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "Nike Air Max 90 프리미엄, 스텔스 무드의 ‘Black Croc’ 올블랙 리메이크",
+      "summary": "Nike Air Max 90의 새로운 올블랙 디자인은 '스텔스 무드'라는 컨셉 아래 고급스러운 크로크 패턴을 도입했습니다.",
+      "url": "https://hypebeast.kr/2026/7/nike-air-max-90-black-croc-leather-iv6309-010-release-info",
+      "source": "Hypebeast",
+      "domain": "OBJECT",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "패션",
+        "디자인",
+        "럭셔리"
+      ],
+      "execution_techniques": [
+        "크로크 패턴"
+      ],
+      "why": "현대인들은 개성과 스타일을 표현하는 수단으로 패션을 활용하며, 특히 고급스러움과 독특함을 동시에 추구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fnike-air-max-90-black-croc-leather-IV6309-010-release-info-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-06T04:13:00+00:00"
+    },
+    {
+      "title_ko": "천원돌파 그렌라간 전설의 제작진, 완전 신작 오리지널 애니로 돌아온다",
+      "summary": "전설적인 애니메이션 '천원돌파 그렌라간'의 제작진이 새로운 오리지널 애니메이션 프로젝트로 돌아옵니다.",
+      "url": "https://hypebeast.kr/2026/7/studio-trigger-hiroyuki-imaishi-kazuki-nakashima-4th-anime-project-announcement-news-info",
+      "source": "Hypebeast",
+      "domain": "FILM",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "애니메이션",
+        "창의성",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "오리지널 스토리"
+      ],
+      "why": "애니메이션 팬들은 새로운 창작물을 통해 과거의 감성을 다시 느끼고, 창의적인 스토리텔링을 통해 새로운 경험을 추구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fkr.hypebeast.com&#x25;2Ffiles&#x25;2F2026&#x25;2F07&#x25;2Fstudio-trigger-hiroyuki-imaishi-kazuki-nakashima-4th-anime-project-announcement-news-tw.jpg&#x3F;w&#x3D;1080&amp;cbr&#x3D;1&amp;q&#x3D;90&amp;fit&#x3D;max",
+      "pub_date": "2026-07-06T03:30:40+00:00"
+    },
+    {
+      "title_ko": "초저예산 기적의 호러 「Obsession」, 전 세계 흥행 수익 4억 달러 돌파 ‘역사적 대기록’",
+      "summary": "초저예산으로 제작된 호러 영화 'Obsession'이 전 세계에서 4억 달러의 흥행 수익을 기록하며 대성공을 거두었습니다.",
+      "url": "https://hypebeast.kr/2026/7/focus-features-thriller-obsession-crosses-historic-400-million-usd-mark-global-box-office",
+      "source": "Hypebeast",
+      "domain": "FILM",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "영화",
+        "호러",
+        "저예산"
+      ],
+      "execution_techniques": [
+        "저예산 제작"
+      ],
+      "why": "현대인들은 저예산으로도 창의적인 아이디어를 통해 큰 성공을 거둘 수 있다는 가능성을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Ffocus-features-thriller-obsession-crosses-historic-400-million-usd-mark-global-box-office-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-06T03:20:46+00:00"
+    },
+    {
+      "title_ko": "KFC, 새로운 캠페인에서 부드러움을 강조하다",
+      "summary": "KFC는 YouTube 스타 Frank Watkinson의 재능을 활용하여 부드러움을 강조하는 새로운 광고 캠페인을 선보였습니다.",
+      "url": "https://www.creativereview.co.uk/kfc-surrender-to-tender-campaign-mother/",
+      "source": "Creative Review",
+      "domain": "ADVERTISING",
+      "category": "캠페인",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "광고",
+        "캠페인",
+        "부드러움"
+      ],
+      "execution_techniques": [
+        "유명인 활용"
+      ],
+      "why": "현대인들은 광고에서 감성적 연결과 휴식을 찾고 있으며, 이는 일상에서의 스트레스를 해소하는 데 도움이 됩니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/STILL-2.jpg",
+      "pub_date": "2026-07-06T02:52:58+00:00"
+    },
+    {
+      "title_ko": "Van Gogh와 아를르 여인, 페루지아에서 이야기하다",
+      "summary": "Van Gogh의 작품 '아를르 여인'이 이탈리아 페루지아에서 전시됩니다.",
+      "url": "http://www.arte.it/notizie/perugia/van-gogh-e-il-ritratto-l-arlesiana-si-racconta-a-perugia-22896",
+      "source": "Arte",
+      "domain": "ART",
+      "category": "전시",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "전시",
+        "클래식"
+      ],
+      "execution_techniques": [
+        "전시회"
+      ],
+      "why": "예술 애호가들은 고전 작품을 통해 과거의 감성을 느끼고, 현대적 해석을 통해 새로운 영감을 얻고자 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.arte.it/foto/600x450/f0/106253-L_Arlesiana.jpg",
+      "pub_date": "2026-07-01T22:50:00+02:00"
+    },
+    {
+      "title_ko": "Kikkoman: 전설을 해방하라 | Hornet",
+      "summary": "Kikkoman의 새로운 광고 캠페인은 전설적인 요소를 강조하며 소비자들에게 강렬한 인상을 남깁니다.",
+      "url": "https://motionographer.com/quickie/kikkoman-unleash-legendary-hornet/",
+      "source": "Motionographer",
+      "domain": "ADVERTISING",
+      "category": "캠페인",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "광고",
+        "전설",
+        "브랜드"
+      ],
+      "execution_techniques": [
+        "강렬한 비주얼"
+      ],
+      "why": "브랜드는 소비자들에게 강력한 메시지를 전달하기 위해 전설적인 요소를 활용하여 브랜드의 가치를 높이고자 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Clubcamping_Kikkoman_DougDip_16x9_Hornet_Master_20.png",
+      "pub_date": "2026-07-01T13:06:44+00:00"
+    },
+    {
+      "title_ko": "The Story of The Northern Block’s Next Series",
+      "summary": "The Northern Block의 새로운 폰트 시리즈는 2012년부터 2017년까지의 발전을 보여줍니다.",
+      "url": "https://www.slanted.de/the-story-of-the-northern-blocks-next-series/",
+      "source": "Slanted",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디자인",
+        "폰트",
+        "발전"
+      ],
+      "execution_techniques": [
+        "폰트 디자인"
+      ],
+      "why": "디자인 업계에서는 폰트의 발전을 통해 시각적 커뮤니케이션의 중요성을 강조하며, 이는 브랜드 아이덴티티에 큰 영향을 미칩니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.slanted.de/wp-content/uploads/2026/05/2026-05-11_6a01e052e98b2_TNB_NextSeries_Slanted_1.jpg",
+      "pub_date": "2026-07-01T09:00:14+00:00"
+    },
+    {
+      "title_ko": "Inner Worlds: Khushnu Panthaki Hoof",
+      "summary": "Khushnu Panthaki Hoof의 작품은 내면의 세계를 탐구하며, 아트 바젤에서 전시됩니다.",
+      "url": "https://www.nowness.com/series/inner-worlds/khushnu-panthaki-hoof-art-basel",
+      "source": "Nowness",
+      "domain": "ART",
+      "category": "인터뷰",
+      "creator_name": "Khushnu Panthaki Hoof",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "내면",
+        "탐구"
+      ],
+      "execution_techniques": [
+        "내면 탐구"
+      ],
+      "why": "현대인들은 예술을 통해 자신의 내면을 탐구하고, 이를 통해 자기 이해와 성장을 추구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://img.nowness.com/nowness-frontend/J1sB23gSemeywPG43ysb_AB%20KHUSHNU%20HOOF%20STILL%209.jpg",
+      "pub_date": "2026-07-01T09:00:00+00:00"
+    },
+    {
+      "title_ko": "How Kaitlin Brito protects her 'pure making' so the paid work gets better",
+      "summary": "뉴저지의 일러스트레이터 Kaitlin Brito는 순수한 창작을 보호하여 유료 작업의 질을 높입니다.",
+      "url": "https://www.creativeboom.com/inspiration/how-kaitlin-brito-protects-her-pure-making-so-the-paid-work-gets-better/",
+      "source": "Creative Boom",
+      "domain": "ART",
+      "category": "인터뷰",
+      "creator_name": "Kaitlin Brito",
+      "creator_insight": "",
+      "tags": [
+        "창작",
+        "순수성",
+        "일러스트"
+      ],
+      "execution_techniques": [
+        "순수 창작"
+      ],
+      "why": "창작자들은 순수한 창작을 통해 자신의 예술적 정체성을 유지하며, 이를 통해 상업적 작업의 질을 높이고자 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.creativeboom.com/upload/articles/07/0719ae04782bfff9e28d52f04e724a533fe1e9ca_840.jpg",
+      "pub_date": "2026-07-01T07:04:00+01:00"
+    },
+    {
+      "title_ko": "Scan More than 60 Million Stars in the Most Detailed Photo of the Milky Way Ever Taken",
+      "summary": "유럽 우주국이 촬영한 은하수의 가장 상세한 사진은 6천만 개 이상의 별을 담고 있습니다.",
+      "url": "https://www.thisiscolossal.com/2026/06/european-space-agency-milky-way-photograph/",
+      "source": "This is Colossal",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "우주",
+        "사진",
+        "과학"
+      ],
+      "execution_techniques": [
+        "천체 사진"
+      ],
+      "why": "현대인들은 우주의 경이로움을 통해 자신의 존재를 되돌아보고, 과학적 발견을 통해 새로운 인사이트를 얻고자 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/euclid-5.jpg",
+      "pub_date": "2026-06-30T16:00:00+00:00"
+    },
+    {
+      "title_ko": "Painter Holly Keogh explores how opulence can conceal reality",
+      "summary": "Holly Keogh는 화려함이 어떻게 현실을 감출 수 있는지를 탐구합니다.",
+      "url": "https://wepresent.wetransfer.com/stories/holly-keogh-painting",
+      "source": "WePresent",
+      "domain": "ART",
+      "category": "인터뷰",
+      "creator_name": "Holly Keogh",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "화려함",
+        "현실"
+      ],
+      "execution_techniques": [
+        "회화"
+      ],
+      "why": "현대인들은 화려한 외관 뒤에 숨겨진 진실을 탐구하며, 이를 통해 사회적 메시지를 전달하고자 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/3oL1N68ZWjTGIXHErmw8bC/3d50195de802a5f4b034d35f69ca7996/unnamed__1__copy.jpg",
+      "pub_date": "2026-06-30T13:22:24+00:00"
+    },
+    {
+      "title_ko": "When the Algorithm Becomes a Battleground: Hao Wu on TikTok Never Dies",
+      "summary": "Hao Wu 감독은 실리콘 밸리 경험을 바탕으로 TikTok의 사회적 영향을 탐구합니다.",
+      "url": "https://motionographer.com/2026/06/30/when-the-algorithm-becomes-a-battleground-hao-wu-on-tiktok-never-dies/",
+      "source": "Motionographer",
+      "domain": "FILM",
+      "category": "인터뷰",
+      "creator_name": "Hao Wu",
+      "creator_insight": "",
+      "tags": [
+        "알고리즘",
+        "사회적 영향",
+        "다큐멘터리"
+      ],
+      "execution_techniques": [
+        "다큐멘터리"
+      ],
+      "why": "현대 사회에서 알고리즘은 개인의 선택과 사회적 흐름에 큰 영향을 미치며, 이에 대한 비판적 탐구가 필요합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/06/TikTokers-outside-Supreme-Court.jpg",
+      "pub_date": "2026-06-30T16:53:26+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "Meneer Bommel, 사이다계의 가장 매력적인 남자",
+      "summary": "Meneer Bommel은 사이다계에서 가장 매력적인 인물로 주목받고 있습니다.",
+      "url": "https://thedieline.com/meneer-bommel-might-be-the-most-charming-man-in-cider/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "사이다",
+        "매력",
+        "바이럴"
+      ],
+      "why": "Meneer Bommel의 매력은 대중에게 친근하고 유쾌한 이미지를 전달하며, 이는 소비자들에게 긍정적인 감정을 불러일으킵니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://thedieline.com/wp-content/uploads/2026/06/MB_01-afb6ce6f1b1863ef0264b1309588caba-1.jpg",
+      "pub_date": "2026-07-01T06:59:00+00:00"
+    },
+    {
+      "title_ko": "The Dieline’s Best of June 2026",
+      "summary": "2026년 6월의 최고의 디자인을 선정한 The Dieline의 리스트입니다.",
+      "url": "https://thedieline.com/the-dielines-best-of-june-2026/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "디자인",
+        "베스트",
+        "바이럴"
+      ],
+      "why": "디자인 트렌드에 민감한 현대인들은 최신의 창의적이고 혁신적인 디자인을 통해 영감을 얻고자 합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://thedieline.com/wp-content/uploads/2026/06/BESTOFJUNE.png",
+      "pub_date": "2026-07-01T03:00:00+00:00"
+    },
+    {
+      "title_ko": "Pack of the Month: Dukes Coffee Gets a Timeless Refresh Courtesy of SODAA",
+      "summary": "Dukes Coffee는 SODAA의 도움으로 시대를 초월한 새로운 디자인을 선보입니다.",
+      "url": "https://thedieline.com/pack-of-the-month-dukes-coffee-gets-a-timeless-refresh-courtesy-of-sodaa/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "커피",
+        "디자인",
+        "바이럴"
+      ],
+      "why": "Dukes Coffee의 새로운 디자인은 소비자들에게 신선함과 동시에 익숙함을 제공하며, 이는 브랜드 충성도를 높이는 데 기여합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://thedieline.com/wp-content/uploads/2026/06/dukes.png",
+      "pub_date": "2026-07-01T01:39:00+00:00"
+    }
+  ],
+  "keywords": [
+    "디자인",
+    "부드러움",
+    "영화",
+    "럭셔리",
+    "캠페인",
+    "패션",
+    "클래식",
+    "현실",
+    "광고",
+    "과학",
+    "다큐멘터리",
+    "전설",
+    "일러스트",
+    "순수성",
+    "알고리즘",
+    "예술",
+    "호러",
+    "애니메이션",
+    "브랜드",
+    "내면",
+    "저예산",
+    "전시",
+    "창의성",
+    "혁신",
+    "발전",
+    "폰트",
+    "화려함",
+    "우주",
+    "탐구",
+    "사진",
+    "사회적 영향",
+    "창작"
+  ],
+  "macro_keywords": [
+    {
+      "word": "스텔스 럭셔리",
+      "is_hot": false
+    },
+    {
+      "word": "애니메이션의 순환과 혁신",
+      "is_hot": true
+    },
+    {
+      "word": "저예산 메가히트의 무한 가능성",
+      "is_hot": true
+    },
+    {
+      "word": "경계 없는 크리에이터 협업",
+      "is_hot": false
+    },
+    {
+      "word": "화려함과 현실의 이중성",
+      "is_hot": false
+    },
+    {
+      "word": "알고리즘이 만든 사회적 충돌",
+      "is_hot": false
+    }
+  ]
+}

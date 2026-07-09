@@ -1,0 +1,364 @@
+{
+  "date": "2026-06-12",
+  "focusQ": "팀 하이데커와 에릭 웨어하임은 칸 영화제에서 그들만의 독특한 스타일로 관객의 주목을 받았습니다. 그들의 창작물은 관객의 반응을 두려워하지 않는 태도로 예술적 도전을 이어가며, 케이 언거와 제이미 드레이크는 소호 아파트를 예술 컬렉션과 건강한 재료를 활용해 새롭게 변신시켰습니다. 도미니크 페리뇽은 빌바오 구겐하임 미술관에서 빈티지 2018을 공개하며 와인과 예술을 결합한 독창적인 행사를 개최했습니다.",
+  "creator_message": "팀 하이데커와 에릭 웨어하임은 그들만의 독특한 스타일(How to say)로 칸 영화제에서 주목받으며 예술적 도전(What to say)을 이어갔습니다. 케이 언거와 제이미 드레이크는 예술 작품과 가구의 재활용(How to say)을 통해 소호 아파트를 새롭게 변신시키며 창의적인 공간 창출(What to say)을 이뤄냈습니다. 도미니크 페리뇽은 와인과 예술을 결합한 행사를 통해 와인 문화의 새로운 가능성(What to say)을 제시했습니다.",
+  "session": {
+    "timestamp": "2026-06-12T08:30:33.993785",
+    "considered": 34,
+    "selected": 12
+  },
+  "topPicks": [
+    {
+      "title_ko": "팀 하이데커와 에릭 웨어하임, 칸 영화제에서의 도전",
+      "summary": "팀 하이데커와 에릭 웨어하임은 칸 영화제에서 그들만의 독특한 스타일로 주목받고 있습니다. 그들은 관객의 반응을 두려워하지 않고 자신들의 창작물을 선보이며, 예술적 도전을 이어가고 있습니다.",
+      "url": "https://filmmakermagazine.com/133848-interview-tim-heidecker-eric-wareheim-full-phil-cannes-2026/",
+      "source": "Filmmaker Magazine",
+      "domain": "FILM",
+      "category": "인터뷰",
+      "creator_name": "팀 하이데커, 에릭 웨어하임",
+      "creator_insight": "예술적 도전은 관객의 반응을 두려워하지 않는 것에서 시작된다.",
+      "tags": [
+        "칸 영화제",
+        "영화",
+        "인터뷰",
+        "도전"
+      ],
+      "why": "팀 하이데커와 에릭 웨어하임은 그들만의 독특한 스타일을 통해 관객의 반응을 두려워하지 않고 예술적 도전을 이어갔습니다. 이는 그들의 창작물이 칸 영화제에서 주목받는 계기가 되었으며, 예술적 표현의 자유로움을 강조했습니다.",
+      "social_proof": "칸 영화제 주목",
+      "depth": 0.9,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/06/maxresdefault-940x400.jpg",
+      "pub_date": "2026-06-11T22:37:45+00:00"
+    },
+    {
+      "title_ko": "패션 디자이너 케이 언거와 제이미 드레이크의 아파트 변신",
+      "summary": "케이 언거와 제이미 드레이크는 소호 아파트를 예술 컬렉션과 건강한 재료를 활용해 새롭게 변신시켰습니다. 그들의 창의적인 접근은 기존의 예술 작품과 가구를 재활용하여 새로운 공간을 창출했습니다.",
+      "url": "https://www.architecturaldigest.com/story/fashion-designer-kay-unger-soho-apartment",
+      "source": "Architectural Digest",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "케이 언거, 제이미 드레이크",
+      "creator_insight": "기존의 것을 새롭게 바라보는 것이 창의성의 핵심이다.",
+      "tags": [
+        "디자인",
+        "아파트",
+        "예술",
+        "재활용"
+      ],
+      "why": "케이 언거와 제이미 드레이크는 기존의 예술 작품과 가구를 재활용하여 소호 아파트를 새롭게 변신시켰습니다. 이 창의적인 접근은 공간을 예술적 컬렉션과 건강한 재료로 채워 새로운 생명을 불어넣는 데 기여했습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-06-11T21:48:50+00:00",
+      "image": "https://media.architecturaldigest.com/photos/6a2adb82829da14cea8d1aae/16:9/w_1280,c_limit/JamieDrake_KayUnger_Soho_12182025-110-Edit-copy.jpg"
+    },
+    {
+      "title_ko": "도미니크 페리뇽의 빌바오에서의 계시",
+      "summary": "도미니크 페리뇽은 빌바오 구겐하임 미술관에서 빈티지 2018을 공개하며 시음회, 와인 문화, 시, 그리고 틸다 스윈튼과 올리비에 사일라드의 퍼포먼스 아트로 구성된 행사를 개최했습니다.",
+      "url": "https://coolhunting.com/culture/dom-perignons-revelations-in-bilbao/",
+      "source": "Cool Hunting",
+      "domain": "ART",
+      "category": "문화",
+      "creator_name": "틸다 스윈튼, 올리비에 사일라드",
+      "creator_insight": "예술과 와인의 만남은 새로운 감각적 경험을 창출한다.",
+      "tags": [
+        "와인",
+        "예술",
+        "퍼포먼스",
+        "구겐하임"
+      ],
+      "why": "도미니크 페리뇽은 와인과 예술을 결합한 독창적인 행사를 통해 빈티지 2018을 공개했습니다. 시음회와 퍼포먼스 아트를 결합하여 와인 문화의 새로운 가능성을 제시하며, 관객에게 감각적이고 문화적인 경험을 제공했습니다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/06/TildaSwinton-PERFORMANCE-HDP-0151-1-768x512.jpg",
+      "pub_date": "2026-06-11T11:03:00+00:00"
+    },
+    {
+      "title_ko": "축구 아이콘들이 가나 영화 포스터로 재탄생하다",
+      "summary": "런던에서 열리는 전시회 'Fantasy Football'은 메시, 지단 등 축구 아이콘들을 가나 영화 포스터 스타일로 새롭게 표현합니다.",
+      "url": "https://www.creativereview.co.uk/fantasy-football-exhibition-dead-prey-gallery-a-store-like-94-oof/",
+      "source": "Creative Review",
+      "domain": "ART",
+      "category": "전시",
+      "creator_name": "",
+      "creator_insight": "예술은 스포츠 아이콘들에게 새로운 시각적 아이덴티티를 부여할 수 있다.",
+      "tags": [
+        "축구",
+        "예술",
+        "전시",
+        "가나"
+      ],
+      "why": "런던의 'Fantasy Football' 전시회는 축구 아이콘들을 가나 영화 포스터 스타일로 재탄생시켜 시각적 신선함을 제공했습니다. 이는 축구와 영화 예술의 융합을 통해 새로운 문화적 해석을 가능하게 했습니다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/06/Dead-Prey-Galler-Messi.jpg",
+      "pub_date": "2026-06-11T02:58:05+00:00"
+    },
+    {
+      "title_ko": "월드컵 광고를 다시 위대하게 만드는 방법",
+      "summary": "축구의 주요 이벤트 동안 브랜드들이 주목받기 위해 경쟁하는 가운데, 네 명의 창작자들이 2026년 주목받은 캠페인과 광고주들이 변화하는 환경에 적응하는 방법에 대해 논의합니다.",
+      "url": "https://www.creativereview.co.uk/the-conversation-how-to-make-world-cup-ads-great-again/",
+      "source": "Creative Review",
+      "domain": "ADVERTISING",
+      "category": "토론",
+      "creator_name": "",
+      "creator_insight": "광고의 성공은 변화하는 환경에 대한 적응에 달려 있다.",
+      "tags": [
+        "광고",
+        "월드컵",
+        "브랜드",
+        "토론"
+      ],
+      "why": "네 명의 창작자들이 월드컵 광고 캠페인에서 주목받기 위한 전략을 논의했다. 이들은 변화하는 환경에 적응하기 위해 창의적인 접근과 기술적 혁신을 강조하며, 브랜드의 메시지를 효과적으로 전달하는 방법을 모색했다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/06/Stella-Artois-World-Cup-ad-David-Beckham.jpg",
+      "pub_date": "2026-06-11T02:41:51+00:00"
+    },
+    {
+      "title_ko": "린 소소의 콜드 프레스 주스 브랜드 디자인",
+      "summary": "린 소소는 콜드 프레스 주스 브랜드의 아이덴티티를 통해 기존 음료 패키징에 도전장을 던집니다. 이 디자인은 캐릭터 중심의 일러스트레이션을 활용하여 독창적인 시각적 경험을 제공합니다.",
+      "url": "https://abduzeedo.com/cold-pressed-juice-brand-raaawr-brand-design-lin-soso/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "디자인",
+      "creator_name": "린 소소",
+      "creator_insight": "기존의 틀을 깨는 것이 새로운 시각적 경험을 창출한다.",
+      "tags": [
+        "디자인",
+        "주스",
+        "패키징",
+        "일러스트"
+      ],
+      "why": "린 소소는 콜드 프레스 주스 브랜드의 아이덴티티를 캐릭터 중심의 일러스트레이션으로 표현했다. 이는 기존 음료 패키징에 도전장을 던지며, 소비자에게 독창적인 시각적 경험을 제공하는 데 중점을 두었다.",
+      "social_proof": "",
+      "depth": 0.84,
+      "pub_date": "2026-06-11T13:10:00+00:00",
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_raaawr-brand-design-lin-soso.jpg"
+    },
+    {
+      "title_ko": "마르셀로 코스타의 완벽한 티셔츠를 향한 집착",
+      "summary": "마르셀로 코스타는 일본의 장인 정신을 통해 세계에서 가장 희귀한 면을 사용하여 완벽한 티셔츠를 제작합니다. 그의 작품은 단순한 의류를 착용 가능한 캔버스로 변모시킵니다.",
+      "url": "https://coolhunting.com/style/marcelo-costas-obsessive-pursuit-of-the-perfect-t-shirt-through-japanese-craftsmanship/",
+      "source": "Cool Hunting",
+      "domain": "OBJECT",
+      "category": "스타일",
+      "creator_name": "마르셀로 코스타",
+      "creator_insight": "장인 정신은 단순한 것을 예술로 승화시킨다.",
+      "tags": [
+        "티셔츠",
+        "장인 정신",
+        "디자인",
+        "의류"
+      ],
+      "why": "마르셀로 코스타는 일본의 장인 정신을 통해 완벽한 티셔츠를 제작했다. 그의 작품은 희귀한 면을 사용하여 단순한 의류를 착용 가능한 예술로 변모시키며, 장인 정신과 현대 패션의 융합을 보여준다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/06/RR_Khaki4-768x512.jpg",
+      "pub_date": "2026-06-10T11:06:00+00:00"
+    },
+    {
+      "title_ko": "리플렉팅 뉴욕 - 거리 사진의 새로운 전환",
+      "summary": "스테판 팔케는 손에 든 거울과 날카로운 시각을 통해 뉴욕의 거리 장면을 새롭게 보여줍니다. 그의 사진은 일상의 장면을 특별한 순간으로 변모시킵니다.",
+      "url": "https://www.lensculture.com/articles/stefan-falke-reflecting-new-york-a-brilliant-twist-on-street-photography",
+      "source": "LensCulture",
+      "domain": "PHOTOGRAPHY",
+      "category": "사진",
+      "creator_name": "스테판 팔케",
+      "creator_insight": "일상의 장면을 특별한 순간으로 변모시키는 것이 사진의 힘이다.",
+      "tags": [
+        "사진",
+        "뉴욕",
+        "거리",
+        "창의성"
+      ],
+      "why": "스테판 팔케는 손에 든 거울을 통해 뉴욕의 거리 장면을 새롭게 보여준다. 그의 사진은 일상의 장면을 특별한 순간으로 변모시키며, 시각적 반전을 통해 관객에게 새로운 시각적 경험을 제공한다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://images.lensculture.com/image/4ccc3dad-02f6-4d61-1893-9484e7c1a300/large",
+      "pub_date": "2026-06-03T00:00:00+00:00"
+    },
+    {
+      "title_ko": "프리실라 사다의 사진 시리즈 'Moons'",
+      "summary": "프리실라 사다는 현대 모성의 모습을 유쾌하게 포착한 사진 시리즈 'Moons'를 선보입니다. 그녀의 작품은 모성의 다양한 측면을 탐구합니다.",
+      "url": "https://www.itsnicethat.com/articles/priscilla-saada-moons-photography-project-110626",
+      "source": "It's Nice That",
+      "domain": "PHOTOGRAPHY",
+      "category": "사진",
+      "creator_name": "프리실라 사다",
+      "creator_insight": "모성의 다양한 측면을 탐구하는 것이 사진의 새로운 가능성을 열어준다.",
+      "tags": [
+        "사진",
+        "모성",
+        "유쾌함",
+        "탐구"
+      ],
+      "why": "프리실라 사다는 사진 시리즈 'Moons'를 통해 현대 모성의 다양한 측면을 탐구했다. 그녀의 작품은 모성의 복합적인 감정을 유쾌하게 포착하며, 사회적 메시지를 시각적으로 전달한다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://admin.itsnicethat.com/images/BTMvCWfkZMd1LNRLuZJYuYIL3i0=/278110/width-1440/Priscillia_Saada_MOONS26.jpg",
+      "pub_date": "2026-06-11T07:00:00+00:00"
+    },
+    {
+      "title_ko": "큐리오: 데니스 엘의 UI/UX 디자인",
+      "summary": "데니스 엘은 현대 핀테크 SaaS 생태계의 속도와 효율성에 맞춘 앱 인터페이스 디자인 프로젝트 '큐리오'를 선보입니다. 이 디자인은 레거시 소프트웨어의 한계를 극복합니다.",
+      "url": "https://abduzeedo.com/uiux-kurio-denis-el/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "디자인",
+      "creator_name": "데니스 엘",
+      "creator_insight": "디자인은 기술의 한계를 극복하는 도구이다.",
+      "tags": [
+        "UI/UX",
+        "디자인",
+        "핀테크",
+        "인터페이스"
+      ],
+      "why": "데니스 엘은 '큐리오' 프로젝트를 통해 핀테크 SaaS 생태계에 맞춘 앱 인터페이스를 디자인했다. 이는 레거시 소프트웨어의 한계를 극복하고, 사용자 경험을 향상시키기 위한 혁신적인 접근을 보여준다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "pub_date": "2026-06-10T22:00:47+00:00",
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_kurio-saas-ui-ux-design-brand-identity-denis-el.jpg"
+    },
+    {
+      "title_ko": "WWF의 중력 도전 영화: 축구와 산림 보존의 만남",
+      "summary": "스튜디오 버스플레이스가 제작한 이 캠페인은 고공 곡예와 영화적 효과를 결합하여 세계의 열대 우림의 아름다움과 중요성을 기념합니다.",
+      "url": "https://www.creativereview.co.uk/wwf-team-forest-world-cup-rainforest-campaign/",
+      "source": "Creative Review",
+      "domain": "FILM",
+      "category": "캠페인",
+      "creator_name": "스튜디오 버스플레이스",
+      "creator_insight": "영화적 효과는 자연의 아름다움을 새롭게 조명할 수 있다.",
+      "tags": [
+        "영화",
+        "캠페인",
+        "환경",
+        "보존"
+      ],
+      "why": "WWF의 캠페인은 고공 곡예와 영화적 효과를 결합하여 열대 우림의 아름다움과 중요성을 기념했다. 이는 환경 보호 메시지를 시각적으로 강화하며, 관객의 참여를 유도하는 데 중점을 두었다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/06/WWF-Team-Forest-Film.jpg",
+      "pub_date": "2026-06-10T02:19:57+00:00"
+    },
+    {
+      "title_ko": "보이지 않는 빛: 호주의 영화적 거리 사진",
+      "summary": "샘 페리스는 대화에서 대기감 있는 거리 사진, 도시의 고독, 그리고 빛이 어떻게 평범한 도시 장면을 특별한 순간으로 변모시키는지를 탐구합니다.",
+      "url": "https://www.lensculture.com/articles/sam-ferris-in-visible-light-cinematic-street-photography-from-australia",
+      "source": "LensCulture",
+      "domain": "PHOTOGRAPHY",
+      "category": "사진",
+      "creator_name": "샘 페리스",
+      "creator_insight": "빛은 평범한 장면을 특별한 순간으로 변모시킨다.",
+      "tags": [
+        "사진",
+        "거리",
+        "호주",
+        "빛"
+      ],
+      "why": "샘 페리스는 영화적 거리 사진을 통해 도시의 고독과 빛의 역할을 탐구했다. 그의 작품은 평범한 도시 장면을 특별한 순간으로 변모시키며, 시각적 내러티브를 통해 감정적 깊이를 전달한다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://images.lensculture.com/image/58962aaa-4021-40c2-ea54-ebeac7e24800/large",
+      "pub_date": "2026-06-09T00:00:00+00:00"
+    }
+  ],
+  "items": [],
+  "keywords": [
+    "칸 영화제",
+    "영화",
+    "인터뷰",
+    "도전",
+    "디자인",
+    "아파트",
+    "예술",
+    "재활용"
+  ],
+  "popcorn": [
+    {
+      "title_ko": "초호화 스타선수의 생활 -플로이드 메이웨더 Floyd Mayweather Jr.",
+      "summary": "현재 전적 46전 46승 26KO.방어형 복서인 플로이드 메이웨더. \"숄더롤\"이라는 기술의 정밀함을 극한까지 끌어올린 것으로 유명합니다.복서 사상 최고의 스피드와 테크닉을 가졌다고 평가받고 있구요. 사상 최초로 무패로 5체급을 정복했습니다. 1998년과 2007년 링매거진 선정 올해의 파이터로 선정되었다. 현재에는 세계 1위의 스타선수로써 가장 많이 돈을 버는 선수이죠.릴존과 저스틴비버와 같이 등장하는 플로이드 메이웨더 선수그는 스타선수로써 아주 꿈같은 생활을 하는데요.저는 그의 선수생활보다는 개인 평상시 초호화 생활을 봤습니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "플로이드메이웨더",
+        "스타생활"
+      ],
+      "why": "플로이드 메이웨더는 '숄더롤' 기술을 극한까지 끌어올려 방어형 복서로서의 정체성을 확립했습니다. 그의 초호화 생활은 스타선수로서의 이미지와 결합되어 대중에게 꿈같은 라이프스타일을 제시합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "Wed, 10 Sep 2014 16:11:51 +0900"
+    },
+    {
+      "title_ko": "꿈을 담은 프랑스 시계 -akteo(악테오)",
+      "summary": "akteo(악테오)http://www.fashion-in.co.kr/ - 구매www.akteo.fr/\" WE WISH YOUR DREAMS COME TRUE ! \"dream - photo악테오 시계는 단순히 현재의 시간을 알려주는 기계장치가 아닙니다.무심히 흘러가는 시간 속에서 마음 깊숙이 자리잡고 있는 꿈과 그 꿈을 향한 열정의 모습들을 표현하는 상징물입니다.프랑스 디자이너 jean Christophe Mareshal은 과장되지 않은 다양한 오브제 들을 다이얼 위에 재치있게 배치함으로써 희미해져가는 꿈과 순수한 열정을현재로 이끌어",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "프랑스시계",
+        "디자인"
+      ],
+      "why": "프랑스 시계 브랜드 악테오는 다양한 오브제를 다이얼 위에 배치하여 꿈과 열정을 상징적으로 표현합니다. 이는 단순한 시계 이상의 의미를 부여하며, 사용자의 내면의 꿈을 현재로 이끌어냅니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "Wed, 10 Sep 2014 15:04:20 +0900"
+    },
+    {
+      "title_ko": "Gillette - 100 Years of Hair",
+      "summary": "Gillette - 100 Years of Hair from Grey London on Vimeo.노래로 시대를 보여준다는 것도 재미있고 화장실 배경의 악세사리와사진을 이어붙인듯한 느낌의 영상도 재미있네요.",
+      "url": "https://honestart.tistory.com/96",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "질레트",
+        "100년"
+      ],
+      "why": "Gillette의 '100 Years of Hair' 캠페인은 시대를 노래로 보여주며, 화장실 배경의 악세사리와 사진을 이어붙인듯한 영상으로 독특한 시각적 경험을 제공합니다. 이는 브랜드의 역사와 진화 과정을 창의적으로 전달합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "pub_date": "Tue, 2 Sep 2014 18:07:21 +0900"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "독창적 예술 형식의 도전",
+      "is_hot": true
+    },
+    {
+      "word": "창의적 재활용과 변신의 미학",
+      "is_hot": false
+    },
+    {
+      "word": "문화 융합 퍼포먼스",
+      "is_hot": true
+    },
+    {
+      "word": "전통과 현대의 결합",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 아트와 핀테크의 혁신",
+      "is_hot": false
+    },
+    {
+      "word": "도시의 고독을 담은 거리 예술",
+      "is_hot": false
+    },
+    {
+      "word": "누구나 꿈꾸는 초호화 삶",
+      "is_hot": false
+    }
+  ]
+}

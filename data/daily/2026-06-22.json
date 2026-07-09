@@ -1,0 +1,414 @@
+{
+  "date": "2026-06-22",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 인간의 존재와 기술의 경계에서의 고뇌와 탐구입니다. 현대인들은 기술의 발전 속에서 인간의 정체성과 감성을 잃지 않으려는 갈망을 가지고 있으며, 이는 예술과 디자인, 그리고 스토리텔링을 통해 표현되고 있습니다. 우리는 과거의 감성을 현대 기술과 결합하여 새로운 가치를 창출하고, 개인화된 경험을 통해 사회적 책임을 고민하는 시대에 살고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘날 우리는 기술과 인간의 경계에서 새로운 정체성을 찾고자 하는 여정에 있습니다. 예술과 디자인은 이러한 탐구의 도구가 되어, 개인의 고유한 경험과 사회적 책임을 결합하는 창작물로 발전하고 있습니다.",
+  "session": {
+    "timestamp": "2026-06-22T08:35:34.870660",
+    "considered": 141,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "노래가 저항이 되는 순간 - 뮤지컬 피리 부는 사나이",
+      "summary": "뮤지컬 '피리 부는 사나이'는 독립운동을 소재로 삼아 영웅의 이야기가 아닌 시대 속 청춘들의 모습을 조명한다. 이는 개인의 정체성과 사회적 책임을 고민하는 현대인의 모습과 닿아있다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81271",
+      "source": "Art Insight",
+      "domain": "FILM",
+      "category": "공연",
+      "creator_name": "",
+      "creator_insight": "각자의 방식으로 살아가야 했던 청춘들의 모습을 들여다본다.",
+      "tags": [
+        "뮤지컬",
+        "독립운동",
+        "정체성"
+      ],
+      "execution_techniques": [
+        "스토리텔링"
+      ],
+      "why": "이 작품은 개인의 정체성과 사회적 책임을 고민하는 현대인의 모습을 반영하며, 과거의 감성을 현대적 감각으로 재해석하는 데 기여한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260618024227_eqskdhkw.jpg",
+      "pub_date": "2026-06-22T08:32:26.720082"
+    },
+    {
+      "title_ko": "기술로 모든것이 되는 세상, 상상력은 어디로 갔을까 - 토이 스토리 5",
+      "summary": "토이 스토리 시리즈는 캐릭터들의 성장을 통해 기술이 모든 것을 가능케 하는 세상에서 상상력의 중요성을 다시금 일깨운다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81324",
+      "source": "Art Insight",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "기술이 모든 것을 가능케 하는 세상에서 상상력의 중요성을 일깨운다.",
+      "tags": [
+        "영화",
+        "상상력",
+        "기술"
+      ],
+      "execution_techniques": [
+        "애니메이션"
+      ],
+      "why": "기술의 발전 속에서 잃어버린 상상력과 인간성을 회복하고자 하는 현대인의 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260622015146_mrwbkvmf.png",
+      "pub_date": "2026-06-22T08:32:26.719921"
+    },
+    {
+      "title_ko": "미드나잇 가스펠 - 우리는 왜 존재하기 때문에 고통받는가",
+      "summary": "넷플릭스 애니메이션 '미드나잇 가스펠'은 다중우주 시뮬레이터를 소유한 주인공의 여정을 통해 존재의 고뇌와 의미를 탐구한다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81328",
+      "source": "Art Insight",
+      "domain": "FILM",
+      "category": "문화 전반",
+      "creator_name": "",
+      "creator_insight": "존재의 고뇌와 의미를 탐구한다.",
+      "tags": [
+        "애니메이션",
+        "존재",
+        "고뇌"
+      ],
+      "execution_techniques": [
+        "다중우주 시뮬레이터"
+      ],
+      "why": "존재의 의미와 고뇌를 탐구하는 것은 현대인이 직면한 심리적 결핍을 해결하는 데 도움을 준다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260621193045_xoezykdi.jpg",
+      "pub_date": "2026-06-22T08:32:26.719804"
+    },
+    {
+      "title_ko": "아름다움은 왜 인간을 불행하게 만드는가",
+      "summary": "장 지로두의 희곡을 통해 우리는 손에 넣을 수 없는 무언가를 갈망하는 인간의 본성을 탐구한다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81329",
+      "source": "Art Insight",
+      "domain": "LITERATURE",
+      "category": "공연",
+      "creator_name": "",
+      "creator_insight": "손에 넣을 수 없는 무언가를 갈망하는 인간의 본성을 탐구한다.",
+      "tags": [
+        "희곡",
+        "갈망",
+        "아름다움"
+      ],
+      "execution_techniques": [
+        "문학적 해석"
+      ],
+      "why": "인간의 본성과 갈망을 탐구함으로써 현대인의 심리적 결핍을 이해하고자 한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260621194449_ratsbcwg.png",
+      "pub_date": "2026-06-22T08:32:26.719653"
+    },
+    {
+      "title_ko": "Dutch Film Days Festival Branding by DE_FORM",
+      "summary": "DE_FORM은 네덜란드 오렌지와 다섯 가지 일일 색조를 사용하여 대담한 시각적 정체성을 창출했다.",
+      "url": "https://abduzeedo.com/dutch-film-days-festival-branding-deform/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "브랜딩",
+      "creator_name": "",
+      "creator_insight": "대담한 시각적 정체성을 창출했다.",
+      "tags": [
+        "브랜딩",
+        "디자인",
+        "색채"
+      ],
+      "execution_techniques": [
+        "색채 시스템"
+      ],
+      "why": "대담한 시각적 정체성을 통해 현대인의 개성과 정체성을 표현하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_35.jpg",
+      "pub_date": "2026-06-21T21:12:51+00:00"
+    },
+    {
+      "title_ko": "Alla Biennale Teatro 2026 vincono i linguaggi senza confini",
+      "summary": "2026 비엔날레 테아트로는 경계를 초월한 언어의 승리를 기념하며, Willem Dafoe가 국제 행사를 이끈다.",
+      "url": "https://www.artribune.com/uncategorized/2026/06/biennale-teatro-2026-willem-dafoe/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "행사",
+      "creator_name": "",
+      "creator_insight": "경계를 초월한 언어의 승리를 기념한다.",
+      "tags": [
+        "비엔날레",
+        "연극",
+        "언어"
+      ],
+      "execution_techniques": [
+        "다양한 언어 사용"
+      ],
+      "why": "경계를 초월한 언어와 문화의 융합은 현대인의 글로벌한 정체성을 탐구하는 데 기여한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/06/1-willem-dafoe-courtesy-la-biennale-di-venezia-ph-jacopo-salvi.jpg",
+      "pub_date": "2026-06-21T21:00:00+00:00"
+    },
+    {
+      "title_ko": "La più grande truffa dell’arte in Europa diventa un documentario",
+      "summary": "유럽에서의 가장 큰 예술 사기가 다큐멘터리로 제작되어 영화관에서 상영된다.",
+      "url": "https://www.artribune.com/arti-performative/cinema/2026/06/truffa-arte-documentario-cinema/",
+      "source": "Artribune",
+      "domain": "FILM",
+      "category": "다큐멘터리",
+      "creator_name": "",
+      "creator_insight": "가장 큰 예술 사기가 다큐멘터리로 제작된다.",
+      "tags": [
+        "다큐멘터리",
+        "예술",
+        "사기"
+      ],
+      "execution_techniques": [
+        "다큐멘터리 제작"
+      ],
+      "why": "예술의 진정성과 가치에 대한 현대인의 의문을 다루며, 진실을 탐구하려는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.youtube.com/embed/PVwFqRCIvbE",
+      "pub_date": "2026-06-21T20:00:00+00:00"
+    },
+    {
+      "title_ko": "Brume & Gunsmoke Open One Health Summit 2026 With Poetic Manifesto",
+      "summary": "Brume & Gunsmoke는 시적인 선언문으로 One Health Summit 2026을 시작하며, 건강과 예술의 융합을 탐구한다.",
+      "url": "https://www.stashmedia.tv/brume-gunsmoke-open-one-health-summit-2026-with-poetic-manifesto/",
+      "source": "Stash Media",
+      "domain": "ART",
+      "category": "행사",
+      "creator_name": "",
+      "creator_insight": "건강과 예술의 융합을 탐구한다.",
+      "tags": [
+        "건강",
+        "예술",
+        "융합"
+      ],
+      "execution_techniques": [
+        "시적 선언문"
+      ],
+      "why": "건강과 예술의 융합을 통해 현대인의 복합적인 삶의 질을 향상시키고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/Brume-Gunsmoke-Open-One-Health-Summit-2026-for-French-Government-_-STASH-MAGAZINE7.jpg",
+      "pub_date": "2026-06-21T19:32:02+00:00"
+    },
+    {
+      "title_ko": "How one creator is using AI to build an entire transmedia sci-fi universe",
+      "summary": "Gerard Bisbal은 AI를 활용해 전체 트랜스미디어 SF 유니버스를 구축하고 있다.",
+      "url": "https://www.creativebloq.com/ai/how-one-person-is-using-ai-to-create-a-transmedia-universe",
+      "source": "Creative Bloq",
+      "domain": "TECHNOLOGY",
+      "category": "인터뷰",
+      "creator_name": "Gerard Bisbal",
+      "creator_insight": "AI를 활용해 전체 트랜스미디어 SF 유니버스를 구축하고 있다.",
+      "tags": [
+        "AI",
+        "트랜스미디어",
+        "SF"
+      ],
+      "execution_techniques": [
+        "AI 활용"
+      ],
+      "why": "AI 기술을 통해 새로운 창작 가능성을 탐구하고자 하는 현대인의 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/u9eLVp4crWYmzUG6aWh369-1280-80.jpg",
+      "pub_date": "2026-06-21T18:12:55+00:00"
+    },
+    {
+      "title_ko": "D&AD Shift Marks 10 Years With Launch of Edition Platform",
+      "summary": "D&AD Shift는 비전통적 배경의 신진 인재를 위한 무료 야간 학교로, 10주년을 맞아 새로운 플랫폼을 출시했다.",
+      "url": "https://www.stashmedia.tv/dad-shift-marks-10-years-with-launch-of-edition-platform/",
+      "source": "Stash Media",
+      "domain": "EDUCATION",
+      "category": "행사",
+      "creator_name": "",
+      "creator_insight": "비전통적 배경의 신진 인재를 위한 무료 야간 학교.",
+      "tags": [
+        "교육",
+        "디자인",
+        "신진 인재"
+      ],
+      "execution_techniques": [
+        "교육 플랫폼"
+      ],
+      "why": "비전통적 배경의 인재를 발굴하고 육성함으로써 다양성과 포용성을 중시하는 현대인의 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/DAD-Shift-at-ten-free-night-school-2026-STASH-MAGAZINE.jpg",
+      "pub_date": "2026-06-21T18:11:13+00:00"
+    },
+    {
+      "title_ko": "A decade on: Brexit's impact on the UK art market",
+      "summary": "Brexit 이후 10년이 지난 지금, 영국 예술 시장에 미친 영향을 전문가들이 분석한다.",
+      "url": "https://www.theartnewspaper.com/2026/06/21/a-decade-on-brexits-impact-on-the-uk-art-market",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "분석",
+      "creator_name": "",
+      "creator_insight": "Brexit 이후 10년이 지난 지금, 영국 예술 시장에 미친 영향을 분석한다.",
+      "tags": [
+        "Brexit",
+        "예술 시장",
+        "영국"
+      ],
+      "execution_techniques": [
+        "시장 분석"
+      ],
+      "why": "정치적 변화가 예술 시장에 미치는 영향을 이해하고자 하는 현대인의 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/a4f3a2ae560abddd72078afdd3dfd761cce2ee26-2560x1704.jpg",
+      "pub_date": "2026-06-21T16:57:28+00:00"
+    },
+    {
+      "title_ko": "futurewave designs a wearable smart system reshaping communication in elder care facilities",
+      "summary": "futurewave는 노인 요양 시설의 커뮤니케이션을 혁신하는 웨어러블 스마트 시스템을 디자인했다.",
+      "url": "https://www.designboom.com/technology/futurewave-wearable-smart-system-communication-elder-care-facilities-kando/",
+      "source": "Designboom",
+      "domain": "TECHNOLOGY",
+      "category": "디자인",
+      "creator_name": "",
+      "creator_insight": "노인 요양 시설의 커뮤니케이션을 혁신한다.",
+      "tags": [
+        "웨어러블",
+        "스마트 시스템",
+        "노인 요양"
+      ],
+      "execution_techniques": [
+        "웨어러블 디자인"
+      ],
+      "why": "노인 요양 시설의 커뮤니케이션을 혁신함으로써 사회적 책임과 개인화된 경험을 결합하고자 하는 현대인의 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/06/kando-smart-care-system-futurewave-elder-care-facilities-designboom-700-500x400-22b08q85r146.jpg",
+      "pub_date": "2026-06-21T13:55:44+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "햄튼스, 골프가 이렇게나 다르다: 숨은 골프 문화 파헤치기",
+      "summary": "U.S. Open을 통해 햄튼스의 독특한 골프 문화를 탐구한다.",
+      "url": "https://hypebeast.kr/2026/6/golf-culture-hamptons-us-open",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "골프",
+        "문화"
+      ],
+      "why": "골프라는 스포츠를 통해 지역적 특성과 문화적 차이를 탐구하는 것이 대중의 호기심을 자극한다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2Fgolf-culture-hamptons-us-open-0.jpg?cbr=1&fit=max",
+      "pub_date": "2026-06-21T20:49:35+00:00"
+    },
+    {
+      "title_ko": "가짜 결항 방송, 나는 도넛, 그리고 15미터 크롬 거인까지: Butter Baby가 점령한 자카르타 공항의 하루",
+      "summary": "Butter Baby가 자카르타 공항을 점령하며 대중의 시선을 사로잡는다.",
+      "url": "https://hypebeast.kr/2026/6/butter-baby-cgk-airport-indonesia-opening-recap-sculpture-info",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "공항",
+        "예술 설치"
+      ],
+      "why": "대형 설치 예술과 독특한 퍼포먼스가 대중의 시선을 사로잡으며, 일상 속 비일상적 경험을 제공한다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2Fbutter-baby-cgk-airport-indonesia-opening-recap-sculpture-info-0.jpg?cbr=1&fit=max",
+      "pub_date": "2026-06-21T14:38:45+00:00"
+    },
+    {
+      "title_ko": "The Lidl logo is forever ruined for me thanks to this weird internet conspiracy",
+      "summary": "Lidl 로고에 숨겨진 음모론이 인터넷을 통해 퍼지며 화제를 모은다.",
+      "url": "https://www.creativebloq.com/design/logos-icons/the-lidl-logo-is-forever-ruined-for-me-thanks-to-this-weird-internet-conspiracy",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "로고",
+        "음모론"
+      ],
+      "why": "대중의 호기심을 자극하는 음모론이 인터넷을 통해 확산되며, 일상적 사물에 대한 새로운 시각을 제공한다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/3EP2oxms5cAppMuDuruJ7U-1280-80.jpg",
+      "pub_date": "2026-06-21T14:00:00+00:00"
+    }
+  ],
+  "keywords": [
+    "예술",
+    "노인 요양",
+    "존재",
+    "정체성",
+    "건강",
+    "트랜스미디어",
+    "기술",
+    "웨어러블",
+    "상상력",
+    "애니메이션",
+    "고뇌",
+    "영화",
+    "영국",
+    "뮤지컬",
+    "융합",
+    "독립운동",
+    "아름다움",
+    "신진 인재",
+    "Brexit",
+    "사기",
+    "비엔날레",
+    "교육",
+    "디자인",
+    "SF",
+    "언어",
+    "브랜딩",
+    "희곡",
+    "다큐멘터리",
+    "연극",
+    "AI",
+    "스마트 시스템",
+    "갈망",
+    "예술 시장",
+    "색채"
+  ],
+  "macro_keywords": [
+    {
+      "word": "정체성과 사회적 책임의 상호작용",
+      "is_hot": true
+    },
+    {
+      "word": "기술 시대의 상상력 회복",
+      "is_hot": false
+    },
+    {
+      "word": "존재의 고뇌와 다중우주 탐구",
+      "is_hot": false
+    },
+    {
+      "word": "열망과 인간의 본성",
+      "is_hot": false
+    },
+    {
+      "word": "경계를 초월한 언어의 공연 예술",
+      "is_hot": true
+    },
+    {
+      "word": "AI 주도 트랜스미디어 세계 구축",
+      "is_hot": false
+    },
+    {
+      "word": "웨어러블 기술의 새로운 커뮤니케이션 혁신",
+      "is_hot": false
+    }
+  ]
+}

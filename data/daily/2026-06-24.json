@@ -1,0 +1,403 @@
+{
+  "date": "2026-06-24",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘 수집된 기사들을 관통하는 시대정신은 '창의성과 협업을 통한 새로운 가치 창출'입니다. 현대인들은 기술과 예술의 경계를 허물고, 전통적인 요소와 현대 기술을 융합하여 새로운 경험을 창출하는 것을 갈망하고 있습니다. 이는 창작자들이 디지털과 아날로그를 결합하여 독창적인 작품을 만들어내고, 대중은 이러한 작품을 통해 감성적이고 개인화된 경험을 추구하는 데서 나타납니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 기사들은 창의성과 협업을 통해 과거와 현재를 연결하고, 새로운 가치를 창출하는 흐름을 보여줍니다. 이는 현대 사회에서 개인화된 경험과 사회적 책임이 결합된 창작물이 중요한 가치로 자리잡고 있음을 시사합니다.",
+  "session": {
+    "timestamp": "2026-07-06T11:59:02.059301",
+    "considered": 616,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title_ko": "M&S의 브랜드 패키지 혁신",
+      "summary": "M&S의 패키지 디자인 팀은 보다 표현력 있는 자체 브랜드 디자인 시스템을 구축했습니다. 이는 단순한 슈퍼마켓 제품을 넘어 브랜드의 정체성을 강화하기 위한 시도입니다.",
+      "url": "https://www.creativereview.co.uk/marks-and-spencers-food-packaging-graphic-design-brand/",
+      "source": "Creative Review",
+      "domain": "DESIGN",
+      "category": "인터뷰",
+      "creator_name": "John-Paul Hunter",
+      "creator_insight": "브랜드 패키지는 단순한 포장이 아니라 브랜드의 이야기를 전달하는 매개체입니다.",
+      "tags": [
+        "패키지 디자인",
+        "브랜드",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "그래픽 디자인"
+      ],
+      "why": "브랜드의 정체성을 강화하고, 소비자와의 감성적 연결을 구축하기 위해 패키지 디자인의 중요성이 커지고 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/29488636-29493203_POS_ONLY-6-INGREDIENTS-OLIVE-OIL-MAYONAISE-AND-ONLY-8-INGREDIENTS-TOMATO-KETCHUPfeatured.jpg",
+      "pub_date": "2026-07-06T02:29:39+00:00"
+    },
+    {
+      "title_ko": "기업가 정신의 감정적 혼란을 포착한 Justworks 광고",
+      "summary": "Quality Meats와 감독 Freddie Powell이 제작한 Justworks의 최신 캠페인은 소프트웨어 데모 대신 창의적인 시각적 은유를 사용하여 기업가 정신의 감정적 혼란을 포착합니다.",
+      "url": "https://www.creativereview.co.uk/justworks-campaign-film-quality-meats-freddie-powell/",
+      "source": "Creative Review",
+      "domain": "ADVERTISING",
+      "category": "리뷰",
+      "creator_name": "Freddie Powell",
+      "creator_insight": "광고는 단순한 제품 설명을 넘어 감정적 경험을 전달해야 합니다.",
+      "tags": [
+        "광고",
+        "기업가 정신",
+        "감정"
+      ],
+      "execution_techniques": [
+        "시각적 은유"
+      ],
+      "why": "현대 사회에서 기업가 정신은 많은 사람들에게 도전과 기회를 제공합니다. 이러한 감정적 경험을 시각적으로 표현함으로써 소비자와 더 깊은 연결을 구축할 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/Justworks-hero-film-still.jpg",
+      "pub_date": "2026-07-06T02:17:13+00:00"
+    },
+    {
+      "title_ko": "Giannina Censi: 현대 무용의 선구자",
+      "summary": "Giannina Censi는 현대 무용의 선구자로, 그녀의 강력한 신체적 표현과 혁신적인 안무는 그녀를 예술계의 중요한 인물로 만들었습니다.",
+      "url": "https://www.artribune.com/arti-performative/2026/07/dimenticati-giannina-censi/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "역사",
+      "creator_name": "",
+      "creator_insight": "예술은 신체적 표현을 통해 감정을 전달하는 강력한 도구입니다.",
+      "tags": [
+        "현대 무용",
+        "예술",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "신체적 표현"
+      ],
+      "why": "현대 무용의 발전과 예술적 표현의 중요성을 재조명함으로써, 예술이 사회적 변화를 이끌 수 있는 힘을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/photoofgianninacensi-by-guido-tovodett.jpg",
+      "pub_date": "2026-07-05T14:00:00+00:00"
+    },
+    {
+      "title_ko": "Fausto Delle Chiaie: 거리 예술의 선구자",
+      "summary": "Fausto Delle Chiaie는 로마의 거리를 야외 박물관으로 변모시킨 예술가로, 그의 작품은 공공 공간에서 예술의 새로운 가능성을 탐구합니다.",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/07/fausto-delle-chiaie-morto/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "추모",
+      "creator_name": "",
+      "creator_insight": "예술은 어디에서나 존재할 수 있으며, 일상의 공간을 예술적 경험으로 바꿀 수 있습니다.",
+      "tags": [
+        "거리 예술",
+        "공공 예술",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "공공 설치"
+      ],
+      "why": "공공 공간에서의 예술은 사람들에게 일상 속에서 예술을 경험할 기회를 제공하며, 이는 사회적 참여와 문화적 교류를 촉진합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/faustodellechiaie-artista-scaled.jpeg",
+      "pub_date": "2026-07-05T13:30:00+00:00"
+    },
+    {
+      "title_ko": "주목할 만한 디자인 프로젝트: 체계적 엄격함과 진화하는 정체성",
+      "summary": "이번 주의 주목할 만한 디자인 프로젝트는 체계적인 시각적 정체성과 촉각적인 패키지 구조, 그리고 디지털 우선 브랜드 생태계를 특징으로 합니다.",
+      "url": "https://abduzeedo.com/best-week-systematic-rigor-evolving-identities/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "디자인은 브랜드의 정체성을 전달하는 강력한 도구입니다.",
+      "tags": [
+        "디자인",
+        "정체성",
+        "브랜드"
+      ],
+      "execution_techniques": [
+        "시각적 정체성"
+      ],
+      "why": "디자인은 브랜드의 정체성을 강화하고, 소비자와의 감성적 연결을 구축하는 데 중요한 역할을 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-05T13:03:44+00:00"
+    },
+    {
+      "title_ko": "픽셀 아트, 3D 세계, 현대 조명을 결합한 RPG 'Full Circle'",
+      "summary": "이 솔로 인디 개발자는 오늘날 최고의 인디 JRPG가 실제로 레트로처럼 보이기를 원하지 않는 이유를 설명합니다.",
+      "url": "https://www.creativebloq.com/3d/video-game-design/how-full-circle-blends-pixel-art-3d-worlds-and-modern-lighting-into-one-gorgeous-rpg",
+      "source": "Creative Bloq",
+      "domain": "GAMES",
+      "category": "인터뷰",
+      "creator_name": "",
+      "creator_insight": "게임은 과거와 현재의 기술을 결합하여 새로운 경험을 창출할 수 있습니다.",
+      "tags": [
+        "게임 디자인",
+        "픽셀 아트",
+        "3D"
+      ],
+      "execution_techniques": [
+        "픽셀 아트",
+        "3D 모델링"
+      ],
+      "why": "게임 디자인에서의 혁신은 플레이어에게 새로운 경험을 제공하며, 이는 게임 산업의 지속적인 발전을 이끌고 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/F2jDHBYw4CWYL4VHM7Xjp5-1280-80.jpg",
+      "pub_date": "2026-07-05T13:00:00+00:00"
+    },
+    {
+      "title_ko": "밀라노 뮤직 위크 2026: 펑크와 디스코 50주년 기념",
+      "summary": "밀라노 뮤직 위크는 펑크와 디스코의 50주년을 기념하며, 음악의 역사적 발전과 사회적 영향을 조명합니다.",
+      "url": "https://www.artribune.com/arti-performative/musica/2026/07/milano-music-week-open-call-decima-edizione/",
+      "source": "Artribune",
+      "domain": "MUSIC",
+      "category": "이벤트",
+      "creator_name": "",
+      "creator_insight": "음악은 시대의 변화를 반영하고, 사회적 변화를 이끌 수 있는 힘을 가지고 있습니다.",
+      "tags": [
+        "음악",
+        "펑크",
+        "디스코"
+      ],
+      "execution_techniques": [
+        "이벤트 기획"
+      ],
+      "why": "음악의 역사적 발전을 기념하는 이벤트는 대중에게 음악의 사회적 영향을 이해하고, 새로운 문화적 흐름을 경험할 기회를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/06/la-milano-design-week-2026-alla-fabbrica-del-vapore.jpg",
+      "pub_date": "2026-07-05T13:00:00+00:00"
+    },
+    {
+      "title_ko": "브랜드 앰배서더의 역할과 안전한 선택의 가능성",
+      "summary": "콜 팔머가 잉글랜드 대표팀에서 제외된 것은 브랜드 앰배서더 선택의 중요성을 보여줍니다.",
+      "url": "https://www.creativebloq.com/design/branding/brand-ambassadors-explained-is-there-such-a-thing-as-a-safe-pick",
+      "source": "Creative Bloq",
+      "domain": "ADVERTISING",
+      "category": "분석",
+      "creator_name": "",
+      "creator_insight": "브랜드 앰배서더는 브랜드의 이미지를 대중에게 전달하는 중요한 역할을 합니다.",
+      "tags": [
+        "브랜드",
+        "마케팅",
+        "앰배서더"
+      ],
+      "execution_techniques": [
+        "마케팅 전략"
+      ],
+      "why": "브랜드 앰배서더의 선택은 브랜드의 이미지와 대중과의 연결을 강화하는 데 중요한 역할을 하며, 이는 브랜드의 성공에 직접적인 영향을 미칩니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/7T3SZmKKowDWY9FgUmuJ57-1280-80.jpg",
+      "pub_date": "2026-07-05T11:00:00+00:00"
+    },
+    {
+      "title_ko": "Thom Browne의 독특한 패션 유니폼 창조",
+      "summary": "Thom Browne의 축소된 회색 수트는 뉴욕의 작은 아파트에서 시작되어 5억 달러의 제국을 구축하는 데 기여했습니다.",
+      "url": "https://www.wallpaper.com/fashion-beauty/thom-browne-interview",
+      "source": "Wallpaper",
+      "domain": "FASHION",
+      "category": "인터뷰",
+      "creator_name": "Thom Browne",
+      "creator_insight": "패션은 개인의 정체성을 표현하는 강력한 수단입니다.",
+      "tags": [
+        "패션",
+        "디자인",
+        "브랜드"
+      ],
+      "execution_techniques": [
+        "패션 디자인"
+      ],
+      "why": "패션은 개인의 정체성을 표현하고, 사회적 메시지를 전달하는 데 중요한 역할을 하며, 이는 현대 사회에서 더욱 중요해지고 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/S4V83J8bPc8obCSopvDMUT-1280-80.jpg",
+      "pub_date": "2026-07-05T11:00:00+00:00"
+    },
+    {
+      "title_ko": "셰필드 FC의 로고 리디자인 논란",
+      "summary": "세계에서 가장 오래된 축구 클럽이 로고 디자인을 현대화했지만, 팬들은 이에 대해 분노하고 있습니다.",
+      "url": "https://www.creativebloq.com/design/logos-icons/the-worlds-oldest-football-club-just-modernised-its-logo-and-fans-are-furious",
+      "source": "Creative Bloq",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "디자인은 전통과 현대의 균형을 맞추는 것이 중요합니다.",
+      "tags": [
+        "로고 디자인",
+        "축구",
+        "팬"
+      ],
+      "execution_techniques": [
+        "브랜드 리디자인"
+      ],
+      "why": "전통적인 요소와 현대적 디자인의 균형을 맞추는 것은 팬들과의 관계를 유지하는 데 중요하며, 이는 브랜드의 지속 가능성을 보장합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/Ghp9XvZQSS6tmsxGuSXiYY-1280-80.jpg",
+      "pub_date": "2026-07-05T10:00:00+00:00"
+    },
+    {
+      "title_ko": "RAM 위기가 창작자에게 미치는 영향",
+      "summary": "RAM 가격 급등으로 인해 창작자들이 사용하는 노트북의 가격이 충격적으로 오를 전망입니다.",
+      "url": "https://www.creativebloq.com/tech/what-does-the-ram-crisis-mean-for-creatives",
+      "source": "Creative Bloq",
+      "domain": "TECH",
+      "category": "분석",
+      "creator_name": "",
+      "creator_insight": "기술적 변화는 창작자에게 새로운 도전과 기회를 제공합니다.",
+      "tags": [
+        "기술",
+        "RAM",
+        "창작"
+      ],
+      "execution_techniques": [
+        "기술 분석"
+      ],
+      "why": "기술적 변화는 창작자들에게 새로운 도전과 기회를 제공하며, 이는 창작 과정에 직접적인 영향을 미칩니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/XyrWyAr8hEJmBagjr5FZZR-1280-80.jpg",
+      "pub_date": "2026-07-05T09:00:00+00:00"
+    },
+    {
+      "title_ko": "Honor의 최신 플래그십 폴더블 폰 Magic V6",
+      "summary": "폴더블 폰은 여전히 틈새 시장이지만, Honor는 기술을 더욱 발전시키고 있습니다. Magic V6는 멀티태스킹에 최적화된 최신 모델입니다.",
+      "url": "https://www.wallpaper.com/tech/honor-magic-v6-foldable-phone-review",
+      "source": "Wallpaper",
+      "domain": "TECH",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "기술의 발전은 사용자 경험을 혁신하는 데 중요한 역할을 합니다.",
+      "tags": [
+        "폴더블 폰",
+        "기술",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "제품 리뷰"
+      ],
+      "why": "최신 기술의 발전은 사용자 경험을 혁신하고, 새로운 가능성을 열어줍니다. 이는 소비자에게 더 나은 삶의 질을 제공할 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/UYsirJibQvFNKd6SAaGVyk-1280-80.jpg",
+      "pub_date": "2026-07-05T05:30:00+00:00"
+    }
+  ],
+  "items": [],
+  "popcorn": [
+    {
+      "title_ko": "넷플릭스, ‘던전 밥’ 시즌 2 글로벌 공개",
+      "summary": "넷플릭스가 인기 애니메이션 ‘던전 밥’의 두 번째 시즌을 2027년 가을에 공개할 예정입니다.",
+      "url": "https://hypebeast.kr/2026/7/delicious-in-dungeon-season-2-anime-netflix-october-2027-release",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "애니메이션"
+      ],
+      "why": "애니메이션의 인기는 계속해서 상승하고 있으며, 이는 대중의 문화적 욕구를 반영합니다. '던전 밥'의 새로운 시즌은 팬들에게 큰 기대감을 주고 있습니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fdelicious-in-dungeon-season-2-anime-netflix-october-2027-release-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-06T02:30:53+00:00"
+    },
+    {
+      "title_ko": "‘STEEL BALL RUN 죠죠의 기묘한 모험’ 2nd 스테이지 공개",
+      "summary": "‘STEEL BALL RUN 죠죠의 기묘한 모험’의 두 번째 스테이지가 9월 넷플릭스에서 첫 공개됩니다.",
+      "url": "https://hypebeast.kr/2026/7/jojos-bizarre-adventure-part-7-steel-ball-run-2nd-stage-trailer-netflix-release-date-schedule-info",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "애니메이션"
+      ],
+      "why": "죠죠의 기묘한 모험은 독특한 스토리와 스타일로 많은 팬층을 보유하고 있으며, 새로운 시즌의 공개는 팬들에게 큰 기대감을 줍니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-05T08:37:23+00:00"
+    },
+    {
+      "title_ko": "애니메이션 극장판 ‘Solo Leveling: Beyond the System’ 발표",
+      "summary": "Aniplex와 Crunchyroll이 완전 신작 극장판 애니메이션 ‘Solo Leveling: Beyond the System’을 발표했습니다.",
+      "url": "https://hypebeast.kr/2026/7/solo-leveling-beyond-the-system-anime-film-announcement-info",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "애니메이션"
+      ],
+      "why": "Solo Leveling은 인기 있는 웹툰으로, 애니메이션 극장판 발표는 팬들에게 큰 기대감을 주고 있으며, 이는 대중의 문화적 욕구를 반영합니다.",
+      "depth": 0.5,
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-05T05:19:50+00:00"
+    }
+  ],
+  "keywords": [
+    "감정",
+    "패션",
+    "폴더블 폰",
+    "음악",
+    "기업가 정신",
+    "RAM",
+    "축구",
+    "펑크",
+    "광고",
+    "3D",
+    "거리 예술",
+    "마케팅",
+    "디스코",
+    "창작",
+    "로고 디자인",
+    "정체성",
+    "디자인",
+    "앰배서더",
+    "예술",
+    "브랜드",
+    "혁신",
+    "현대 무용",
+    "공공 예술",
+    "픽셀 아트",
+    "기술",
+    "팬",
+    "게임 디자인",
+    "패키지 디자인"
+  ],
+  "macro_keywords": [
+    {
+      "word": "원자화된 미학",
+      "is_hot": true
+    },
+    {
+      "word": "정체성 강화",
+      "is_hot": false
+    },
+    {
+      "word": "감정적 혼란의 시각적 은유",
+      "is_hot": false
+    },
+    {
+      "word": "상호작용적 예술 형식",
+      "is_hot": true
+    },
+    {
+      "word": "이색적 브랜드 표현",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 우선 생태계",
+      "is_hot": false
+    },
+    {
+      "word": "기술과 예술의 융합",
+      "is_hot": false
+    }
+  ]
+}
