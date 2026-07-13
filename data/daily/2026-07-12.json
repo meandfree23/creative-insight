@@ -1,0 +1,334 @@
+{
+  "date": "2026-07-12",
+  "focusQ": "Agent's Thought: 오늘의 큐레이션은 예술의 다채로운 스펙트럼을 통해 우리 내면의 깊은 곳을 탐구하는 여정입니다. 현재의 예술은 경계를 허물고 새로운 가능성을 제시하며, 우리는 그 흐름 속에서 진정한 자아를 발견하게 됩니다.",
+  "creator_message": "큐레이터의 메시지: 예술과 디자인의 세계에 오신 것을 환영합니다. 오늘의 큐레이션을 통해 각자의 영감을 찾고, 새로운 시각을 경험해 보세요.",
+  "session": {
+    "timestamp": "2026-07-13T13:18:35.795622",
+    "considered": 30,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "경험의 경계: 아를 레 사진 축제 2026",
+      "summary": "사진의 경계를 탐구하는 아를 레 사진 축제는 이미지의 힘을 재조명합니다. 이 거대한 축제는 200주년을 맞이한 사진 매체의 혁신적인 가능성을 보여줍니다.",
+      "url": "https://www.lensculture.com/articles/lensculture-editors-photography-still-restless-les-rencontres-d-arles-festival-2026-preview",
+      "source": "lensculture.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "축제",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "사진의 경계를 넘어서는 새로운 시각을 제시하기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "일본의 여름을 밝히는 5개의 예술 전시회",
+      "summary": "올 여름 일본에서 열리는 다섯 개의 주요 예술 전시회를 소개합니다. 각 전시는 독창적이고 감동적인 예술 작품들로 가득 차 있습니다.",
+      "url": "https://spoon-tamago.com/5-art-exhibitions-worth-traveling-for-in-japan-this-summer/?utm_source=rss&utm_medium=rss&utm_campaign=5-art-exhibitions-worth-traveling-for-in-japan-this-summer",
+      "source": "Spoon & Tamago",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "전시",
+        "여행",
+        "예술"
+      ],
+      "execution_techniques": [
+        "현대미술"
+      ],
+      "why": "여름을 특별하게 만들어 줄 예술적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "랜던 아트 페어 2026",
+      "summary": "랜던 아트 페어 2026에 오픈 도어 갤러리가 참가하여 현대 사진 작가들의 작품을 선보입니다. 새로운 작품과 신진 작가들을 만날 수 있는 기회입니다.",
+      "url": "https://opendoors.gallery/london-art-fair-2026",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "페어",
+        "현대미술"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "현대 사진 예술의 최신 경향을 탐색할 수 있는 기회입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "온리츠카 타이거의 새로운 댄서 슈즈",
+      "summary": "온리츠카 타이거가 새로운 댄서 슈즈, 짐나리나를 선보였습니다. 이 신발은 기존의 스니커와는 다른 독특한 디자인을 자랑합니다.",
+      "url": "https://www.highsnobiety.com/p/onitsuka-tiger-gymnarina-blue/",
+      "source": "Highsnobiety",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "신발",
+        "디자인",
+        "패션"
+      ],
+      "execution_techniques": [
+        "제품디자인"
+      ],
+      "why": "기존의 디자인 개념을 뛰어넘는 창의적인 접근이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "브뤼겔의 인쇄작품 전시회",
+      "summary": "슈타델 미술관에서 열리는 '브뤼겔. 인쇄됨' 전시회는 브뤼겔의 드로잉을 기반으로 한 45점의 인쇄 작품들을 선보입니다. 이 전시회는 2026년 6월 18일부터 9월 20일까지 진행됩니다.",
+      "url": "https://theartwolf.com/exhibitions/bruegel-printed-stadel-2026/",
+      "source": "The Art Wolf",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "인쇄",
+        "전시",
+        "브뤼겔"
+      ],
+      "execution_techniques": [
+        "인쇄기술"
+      ],
+      "why": "고전과 현대를 잇는 예술적 탐구의 장입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "모텔에서 감성 스테이 리브랜딩, 모키",
+      "summary": "전주의 오래된 모텔이 '모키'라는 이름으로 감성 스테이로 변신했습니다. 새로운 여행 트렌드에 맞춰 공간을 새롭게 재해석했습니다.",
+      "url": "https://www.designtwoply.com/works/commercial/%eb%aa%a8%ed%85%94%ec%97%90%ec%84%9c-%ec%8a%a4%ed%85%8c%ec%9d%b4%eb%a1%9c-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%eb%aa%a8%ed%82%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25aa%25a8%25ed%2585%2594%25ec%2597%2590%25ec%2584%259c-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25eb%25a1%259c-%25eb%25a6%25ac%25eb%25b8%258c%25eb%259e%259c%25eb%2594%25a9-%25eb%25aa%25a8%25ed%2582%25a4",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "리브랜딩",
+        "공간디자인",
+        "여행"
+      ],
+      "execution_techniques": [
+        "리노베이션"
+      ],
+      "why": "공간의 새로운 해석이 현대 여행자들의 기호를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "인터넷과 그 공포를 탐구하는 작가 B.R. 예이거",
+      "summary": "작가 B.R. 예이거는 디지털 스토리텔링과 인터넷의 어두운 면을 탐구합니다. 그의 작품은 기술이 인간에게 미치는 영향을 심도 있게 다루고 있습니다.",
+      "url": "https://www.artribune.com/editoria/2026/07/intervista-scrittore-yeager/",
+      "source": "Artribune",
+      "domain": "LITERATURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "인터넷",
+        "문학",
+        "기술"
+      ],
+      "execution_techniques": [
+        "스토리텔링"
+      ],
+      "why": "디지털 시대의 본질을 날카롭게 분석합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "‘거주된 침묵 속으로’ - 리앙 왕의 작품",
+      "summary": "리앙 왕의 작품 '거주된 침묵 속으로'는 조용하지만 강렬한 시각적 경험을 제공합니다. 그의 작품은 감성과 상상력을 자극합니다.",
+      "url": "https://www.booooooom.com/2026/07/10/into-the-inhabited-silence-by-artist-liang-wang/",
+      "source": "Booooooom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "감성",
+        "시각적경험"
+      ],
+      "execution_techniques": [
+        "회화"
+      ],
+      "why": "작품이 전달하는 감정의 깊이가 놀랍습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "음악가 H. Pruz와 새로운 길을 여는 GUNK",
+      "summary": "GUNK의 공동 창립자인 음악가 H. Pruz가 새로운 음악 비디오 작업 과정을 공유합니다. 이 인터뷰는 창조적 협업의 중요성을 강조합니다.",
+      "url": "https://thecreativeindependent.com/people/musician-and-gunk-co-founder-h-pruz-on-opening-a-new-door/",
+      "source": "Creative Independent",
+      "domain": "MUSIC",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "음악",
+        "협업",
+        "창조성"
+      ],
+      "execution_techniques": [
+        "뮤직비디오"
+      ],
+      "why": "창의적인 협업의 가치와 중요성을 일깨웁니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "연결의 시각적 언어: 그래픽 시",
+      "summary": "현대 시인과 디자이너들이 협력하여 시와 이미지를 결합한 '그래픽 시' 책을 출간했습니다. 이 작품은 시각적 표현의 경계를 확장합니다.",
+      "url": "https://www.andrew-townsend.com/Graphic-Poetry",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "시",
+        "그래픽",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "출판"
+      ],
+      "why": "예술적 경계를 넘나드는 혁신적인 시도가 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "타입페이스의 미학",
+      "summary": "이 프로젝트는 다양한 타입페이스의 미적 매력을 탐구합니다. 디자이너들은 각 글꼴의 독창성과 기능성을 강조합니다.",
+      "url": "https://www.behance.net/gallery/251972421/Typeface-",
+      "source": "Behance",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "타입페이스",
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "타이포그래피"
+      ],
+      "why": "글꼴의 새로운 미적 가능성을 탐색할 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "시각적 혼란: 이 착시 현상은 말을 어떻게 보이게 하는가?",
+      "summary": "이 착시 현상은 시각적 인식의 경계를 시험합니다. 보는 이로 하여금 현실을 다시 생각하게 만듭니다.",
+      "url": "https://www.creativebloq.com/creative-inspiration/optical-illusions/this-perplexing-optical-illusion-is-making-me-question-what-a-horse-looks-lke",
+      "source": "Creative Bloq",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "착시",
+        "디자인",
+        "인식"
+      ],
+      "execution_techniques": [
+        "시각디자인"
+      ],
+      "why": "인식의 경계를 도전하는 독특한 시각적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "세컨드 에디션: 아방가르드 그룹 전시회",
+      "summary": "아방가르드 그룹의 '세컨드 에디션'은 현대 미술의 새로운 흐름을 탐구합니다. 전시회는 다양한 미디어와 스타일을 결합하여 독창적인 예술을 창조합니다.",
+      "url": "https://www.baseelements.net/segunda-edicion-by-the-avant-groove-group-exhibition/",
+      "source": "Base Elements Blog",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "전시",
+        "아방가르드",
+        "현대미술"
+      ],
+      "execution_techniques": [
+        "혼합미디어"
+      ],
+      "why": "다양한 미디어를 통해 새로운 예술적 경향을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "여성 매 사냥꾼을 찍다: 소셜 미디어보다 매 사육을 선택한 소녀들",
+      "summary": "로렌 매카비는 매 사육에 몰입한 젊은 여성들을 사진으로 담았습니다. 이 프로젝트는 전통과 현대의 교차점을 탐구합니다.",
+      "url": "https://www.itsnicethat.com/articles/lauren-maccabee-young-falconers-photography-project-080726",
+      "source": "It's Nice That",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "전통",
+        "여성"
+      ],
+      "execution_techniques": [
+        "다큐멘터리"
+      ],
+      "why": "전통과 현대가 만나는 독특한 시선을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    }
+  ]
+}

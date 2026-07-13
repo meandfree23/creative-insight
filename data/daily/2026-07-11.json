@@ -1,0 +1,334 @@
+{
+  "date": "2026-07-11",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘의 큐레이션은 디자인과 예술의 경계를 넘나드는 독창적인 이야기를 통해 우리의 심미적 인식을 다시 한 번 재정립하게 합니다. 우리는 매일의 삶 속에서 발견할 수 있는 아름다움을 놓치지 말아야 합니다.",
+  "creator_message": "큐레이터의 메시지: 안녕하세요, 창조적 영감을 찾아 함께하는 여러분을 환영합니다. 오늘도 독특하고 혁신적인 디자인과 예술 작품들로 가득 찬 하루가 되길 바랍니다.",
+  "session": {
+    "timestamp": "2026-07-13T13:18:11.419304",
+    "considered": 30,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "영원함을 품은 콜로라도 농장 주택",
+      "summary": "Landed Interiors는 숙련된 장인들과 협력하여 '시간을 초월한 견고함과 따뜻함'을 품은 인테리어를 완성했습니다. 이 농장 주택은 자연과 조화를 이루며 오래된 듯한 매력을 발산합니다.",
+      "url": "https://www.architecturaldigest.com/story/landed-interiors-designed-colorado-farmhouse",
+      "source": "architecturaldigest.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "인테리어",
+        "건축",
+        "자연"
+      ],
+      "execution_techniques": [
+        "전통적 장인 기술"
+      ],
+      "why": "자연과 조화로운 디자인이 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "제한판 디지털 도구의 세계",
+      "summary": "Metapaper와 Gallery Print와의 협업을 통해 특별판 디지털 도구를 선보입니다. 이 에디션은 창의적인 실험과 혁신을 이끌어낼 것입니다.",
+      "url": "https://www.slanted.de/limited-special-edition-digital-tools/",
+      "source": "Slanted",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디지털",
+        "툴",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "협업"
+      ],
+      "why": "디지털과 종이의 융합이 새로운 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "오스카 수상작 듄의 인상적인 이미지들",
+      "summary": "드니 빌뇌브 감독의 영화 듄은 94회 아카데미 시상식에서 여섯 개의 상을 수상하며 큰 성공을 거두었습니다. 이 영화는 팀 로시와 젠다야의 출연으로 더욱 주목받고 있습니다.",
+      "url": "https://www.fubiz.net/2023/01/11/impressive-images-from-the-oscar-winning-movie-dunes/",
+      "source": "Fubiz",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "영화",
+        "아카데미",
+        "이미지"
+      ],
+      "execution_techniques": [
+        "영화 제작"
+      ],
+      "why": "영화의 시각적 효과가 깊은 인상을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "플러시 숭배자를 위한 일본의 첫 번째 신사",
+      "summary": "일본에서는 플러시 숭배자들을 위한 신사가 새로 개장되었습니다. 이곳은 인형 애호가들이 모여 서로의 취미를 공유할 수 있는 특별한 장소입니다.",
+      "url": "https://spoon-tamago.com/japan-first-plushie-shrine/",
+      "source": "Spoon & Tamago",
+      "domain": "CULTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "문화",
+        "인형",
+        "신사"
+      ],
+      "execution_techniques": [
+        "문화적 전통"
+      ],
+      "why": "현대와 전통의 융합이 독특합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "미국의 성과 리뷰: 1776-2026",
+      "summary": "미국의 역사를 되돌아보며 지난 250년간의 성과를 리뷰합니다. 디자인 옵서버의 포스트로, 국가의 변천사를 디자인적 관점에서 조망합니다.",
+      "url": "https://designobserver.com/performance-review-united-states-of-america/",
+      "source": "Design Observer",
+      "domain": "SOCIAL",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "역사",
+        "디자인",
+        "미국"
+      ],
+      "execution_techniques": [
+        "역사적 분석"
+      ],
+      "why": "역사와 디자인의 교차점이 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "아트 로테르담 2026 | 예술 박람회",
+      "summary": "Open Doors Gallery는 베를린 기반 아티스트 듀오 Wysocka / Pogo의 새로운 독창적 작품을 아트 로테르담 2026에서 소개합니다. 그들의 실험적 작업은 예술계에 신선한 바람을 불어넣습니다.",
+      "url": "https://opendoors.gallery/art-rotterdam-2026",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "박람회",
+        "독창성"
+      ],
+      "execution_techniques": [
+        "실험적 예술"
+      ],
+      "why": "새로운 예술적 표현을 탐구하는 기회입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "타이완의 섬세한 거리 사진",
+      "summary": "타이베이 완화구의 번잡한 도시 활동에서 벗어나 짧은 휴식을 취하는 사람들의 사진을 담았습니다. 이 작품은 일상의 순간들을 아름답게 포착합니다.",
+      "url": "https://www.lensculture.com/articles/vladimir-khorev-characters-subtle-street-photography-from-taiwan",
+      "source": "lensculture.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "거리",
+        "일상"
+      ],
+      "execution_techniques": [
+        "거리 사진"
+      ],
+      "why": "일상 속에서 발견되는 아름다움을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "패션 언폴디드",
+      "summary": "패션의 새로운 해석을 통해 독창적 스타일을 제안합니다. 이 프로젝트는 전통과 현대적 감각의 조화를 이룹니다.",
+      "url": "https://www.behance.net/gallery/251708465/Fashion-Unfolded",
+      "source": "Behance",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "패션",
+        "스타일",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "스타일링"
+      ],
+      "why": "패션의 경계를 넓히는 시각이 매력적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "혁신적 웹사이트 브랜딩",
+      "summary": "Ainur Yusupov는 SPACERA를 위한 미래지향적 웹사이트 아이덴티티를 런칭했습니다. 어두운 레이아웃과 전략적 브랜딩을 결합하여 기업 자산을 재구성했습니다.",
+      "url": "https://abduzeedo.com/ainur-yusupov-designs-futuristic-corporate-website-branding/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "웹디자인",
+        "브랜딩",
+        "미래"
+      ],
+      "execution_techniques": [
+        "브랜딩 전략"
+      ],
+      "why": "웹디자인의 새로운 경지를 개척합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "장 폴 고티에의 두란 란틴크",
+      "summary": "두란 란틴크는 마리 앙투아네트를 참고하여 장 폴 고티에에서 그의 오뜨 꾸뛰르 데뷔를 화려하게 선보였습니다. 이 컬렉션은 18세기를 미래로 끌어들이며 혁신적인 패션을 제안합니다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17313/duran-lantink-jean-paul-gaultier-haute-couture-ss26-review",
+      "source": "anothermag.com",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "패션",
+        "오뜨 꾸뛰르",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "컬렉션 디자인"
+      ],
+      "why": "역사적 요소와 현대적 창의성의 융합이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "왜 이 작품은 높은 평가를 받았을까",
+      "summary": "간단한 마음으로 시작했다가 치밀한 스토리와 심리 묘사에 빠져든 미스터리 애니메이션의 걸작을 분석합니다. 이 작품은 세심한 심리적 깊이와 스토리텔링으로 감탄을 자아냅니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81617",
+      "source": "Unknown Source",
+      "domain": "ANIMATION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "애니메이션",
+        "스토리텔링",
+        "평가"
+      ],
+      "execution_techniques": [
+        "심리 묘사"
+      ],
+      "why": "심오한 심리적 접근이 작품을 돋보이게 만듭니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "키드배쉬: 클래식 SNES 게임처럼 렌더링된 블렌더 게임",
+      "summary": "이 인디 게임은 Donkey Kong Country의 유명한 그래픽 트릭을 되살리고 있습니다. 블렌더를 활용하여 클래식한 게임 그래픽을 재현합니다.",
+      "url": "https://www.creativebloq.com/3d/video-game-design/kidbash-super-legend-is-built-in-blender-but-rendered-like-a-classic-snes-game",
+      "source": "Creative Bloq",
+      "domain": "GAMES",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "게임",
+        "그래픽",
+        "레트로"
+      ],
+      "execution_techniques": [
+        "그래픽 디자인"
+      ],
+      "why": "클래식과 현대 기술의 융합이 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "비주얼 아티스트 마이클 헤이트의 창작 거리",
+      "summary": "마이클 헤이트는 자신의 삶을 작품으로 만드는 데 필요한 거리와 과정에 대해 이야기합니다. 그의 스튜디오에서의 하루를 통해 창작의 여정을 탐구합니다.",
+      "url": "https://thecreativeindependent.com/people/visual-artist-michael-haight-on-the-distance-it-takes-to-make-work-from-your-own-life/",
+      "source": "Creative Independent",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "비주얼 아트",
+        "창작",
+        "삶"
+      ],
+      "execution_techniques": [
+        "예술적 탐구"
+      ],
+      "why": "개인적 경험을 예술로 승화시키는 과정이 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "광호신, 드로잉",
+      "summary": "광호신의 작품은 강렬한 색채와 형태로 감각적인 경험을 선사합니다. 그의 드로잉은 보는 이로 하여금 새로운 시각적 탐험을 가능하게 합니다.",
+      "url": "https://www.behance.net/gallery/251869211/Kwangho-Shin-Drawing",
+      "source": "Behance",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "드로잉",
+        "색채",
+        "형태"
+      ],
+      "execution_techniques": [
+        "드로잉"
+      ],
+      "why": "시각적 자극과 창의적인 상상력을 자극합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    }
+  ]
+}
