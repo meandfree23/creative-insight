@@ -52,13 +52,16 @@ def fetch_rss(sources):
         try:
             feed = feedparser.parse(url)
             for entry in feed.entries[:10]: # limit per source
+                img_url = extract_image(entry)
+                if not img_url:
+                    continue # Skip articles without images
                 articles.append({
                     "title": getattr(entry, "title", ""),
                     "link": getattr(entry, "link", ""),
                     "summary": getattr(entry, "summary", getattr(entry, "description", "")),
                     "source": name,
                     "domain": category,
-                    "image": extract_image(entry)
+                    "image": img_url
                 })
         except Exception as e:
             print(f"Failed to fetch {name}: {e}")
