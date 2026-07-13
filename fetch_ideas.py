@@ -19,6 +19,28 @@ def load_sources():
     with open(SOURCES_FILE, "r") as f:
         return json.load(f)
 
+import re
+
+def extract_image(entry):
+    if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
+        return entry.media_thumbnail[0].get('url', '')
+    if hasattr(entry, 'media_content') and entry.media_content:
+        return entry.media_content[0].get('url', '')
+    if hasattr(entry, 'enclosures') and entry.enclosures:
+        for enc in entry.enclosures:
+            if enc.get('type', '').startswith('image/'):
+                return enc.get('href', '')
+    summary = getattr(entry, "summary", getattr(entry, "description", ""))
+    match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
+    if match:
+        return match.group(1)
+    if hasattr(entry, 'content') and entry.content:
+        for c in entry.content:
+            match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', getattr(c, 'value', ''))
+            if match:
+                return match.group(1)
+    return ""
+
 def fetch_rss(sources):
     articles = []
     for src in sources:
@@ -35,7 +57,8 @@ def fetch_rss(sources):
                     "link": getattr(entry, "link", ""),
                     "summary": getattr(entry, "summary", getattr(entry, "description", "")),
                     "source": name,
-                    "domain": category
+                    "domain": category,
+                    "image": extract_image(entry)
                 })
         except Exception as e:
             print(f"Failed to fetch {name}: {e}")
@@ -73,7 +96,7 @@ def generate_daily_insight(date_str, articles_subset):
           "why": "(Why is this inspiring? 1 sentence in Korean)",
           "social_proof": "",
           "depth": 0.85,
-          "image": "",
+          "image": "(The article's image URL if provided, else empty string)",
           "pub_date": "{date_str}T08:00:00.000000"
         }}
       ]
@@ -83,7 +106,8 @@ def generate_daily_insight(date_str, articles_subset):
     """
     
     for i, a in enumerate(articles_subset):
-        prompt += f"\n[{i}] Title: {a['title']}\nLink: {a['link']}\nSource: {a['source']}\nCategory: {a['domain']}\nSummary: {a['summary'][:200]}...\n"
+        img_str = f"\nImage: {a['image']}" if a.get('image') else ""
+        prompt += f"\n[{i}] Title: {a['title']}\nLink: {a['link']}\nSource: {a['source']}\nCategory: {a['domain']}{img_str}\nSummary: {a['summary'][:200]}...\n"
 
     try:
         response = client.chat.completions.create(
