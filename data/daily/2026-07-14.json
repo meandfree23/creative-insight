@@ -1,0 +1,311 @@
+{
+  "date": "2026-07-14",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘날의 예술과 디자인은 경계를 허물고, 서로 다른 문화와 관습을 융합함으로써 새로운 가능성을 창조합니다. 이는 우리가 삶을 바라보는 방식에 대한 깊은 성찰을 요구하며, 혁신적인 창의성을 통해 미래를 밝혀줍니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 큐레이션을 통해 여러분이 예술과 디자인의 새로운 영감을 얻기를 바랍니다. 세상을 바라보는 시각을 넓히고, 창의적인 가능성을 탐구하는 여정에 함께 하세요.",
+  "session": {
+    "timestamp": "2026-07-13T21:48:58.660451",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "1930년대 디즈니의 특별 효과, 여전히 사람들을 놀라게 하다",
+      "summary": "디즈니는 애니메이션에서 생명감을 창조하기 위해 항상 노력해 왔으며, 1930년대의 특별한 효과는 오늘날에도 여전히 감탄을 자아냅니다. 이 아카이브 영상은 그들의 혁신적인 접근 방식을 보여줍니다.",
+      "url": "https://www.creativebloq.com/art/animation/this-disney-special-effect-from-the-1950s-is-still-blowing-peoples-minds",
+      "source": "Creative Bloq",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디즈니",
+        "애니메이션",
+        "역사"
+      ],
+      "execution_techniques": [
+        "아카이브 영상"
+      ],
+      "why": "디즈니의 창의성과 혁신을 엿볼 수 있기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "애쉬안테 M. 리스의 의식과 작품 연결 방법",
+      "summary": "애쉬안테 M. 리스는 의식을 통해 자신의 작업과 연결하는 방법을 공유합니다. 그녀의 접근 방식은 일상적인 행위를 창의적으로 재해석하는 데 영감을 줍니다.",
+      "url": "https://thecreativeindependent.com/people/author-and-anthropologist-ashante-m-reese-on-using-ritual-to-connect-to-your-work/",
+      "source": "Creative Independent",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "의식",
+        "창의성",
+        "연결"
+      ],
+      "execution_techniques": [
+        "인터뷰"
+      ],
+      "why": "의식이 예술적 창작 과정에 미치는 영향을 탐구하기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "다이앤 아버스: 새로운 시각의 발견",
+      "summary": "다이앤 아버스는 그녀의 독특한 사진작업으로 새로운 시각을 제시하며, 일상의 평범함 속에서 비범함을 찾아냅니다. 그녀의 작품은 보는 이로 하여금 기존의 관점을 재검토하게 만듭니다.",
+      "url": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-cheimread/usr/images/artworks/main_image/items/9a/9a606a57582e4fadb769336c330389b1/ar.16082.jpg",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "시각예술",
+        "독창성"
+      ],
+      "execution_techniques": [
+        "사진전"
+      ],
+      "why": "일상적인 것을 새롭게 바라보게 하기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "데이비드 치퍼필드, 스페인에서 새로운 박물관 개관",
+      "summary": "데이비드 치퍼필드는 스페인의 페레다 빌딩을 새로운 박물관으로 탈바꿈했습니다. 이 프로젝트는 역사와 현대성을 조화롭게 결합한 예로 주목받고 있습니다.",
+      "url": "https://www.designboom.com/architecture/david-chipperfield-opens-a-historic-waterfront-building-as-a-new-museum-in-spain/",
+      "source": "Designboom",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "건축",
+        "박물관",
+        "역사"
+      ],
+      "execution_techniques": [
+        "건축 리노베이션"
+      ],
+      "why": "역사적 건물의 현대적 재해석이 돋보이기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "바르셀로나의 거리 예술: 페르난도 알론소에 대한 헌정",
+      "summary": "바르셀로나의 거리 예술가들이 페르난도 알론소를 위한 특별한 벽화를 제작했습니다. 이 프로젝트는 예술과 스포츠가 어떻게 조화를 이룰 수 있는지를 보여줍니다.",
+      "url": "https://www.streetartbcn.com/tribute-to-fernando-alonso-for-aston-martin-f1-by-fert-one/",
+      "source": "Street Art Barcelona",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "거리 예술",
+        "스포츠",
+        "헌정"
+      ],
+      "execution_techniques": [
+        "벽화"
+      ],
+      "why": "스포츠와 예술의 융합을 창의적으로 표현했기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "버킹엄 궁전의 새로운 살롱 스타일 전시",
+      "summary": "버킹엄 궁전은 기존의 전시 스타일을 벗어나 많은 작품들을 한데 모은 살롱 스타일 전시를 선보였습니다. 이 시도는 전통과 현대의 조화를 이루며, 관람객들에게 새로운 경험을 제공합니다.",
+      "url": "https://www.artforum.com/news/buckingham-palace-embraces-salon-style-hang-1234754336/",
+      "source": "Artforum",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "전시",
+        "전통",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "살롱 스타일"
+      ],
+      "why": "전통을 현대적으로 재해석한 점이 인상적이기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "애니카 이, 미래를 상상하다",
+      "summary": "애니카 이는 새로운 생명체를 창조하여 환경과 상호작용하는 작품을 선보입니다. 그녀의 작품은 예술이 미래를 어떻게 예측하고 준비할 수 있는지를 탐구합니다.",
+      "url": "https://www.artribune.com/progettazione/new-media/2026/07/arte-futuro-serie-video-intelligenza-artificiale-anicka-yi/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "미래",
+        "창작",
+        "상상"
+      ],
+      "execution_techniques": [
+        "비디오 아트"
+      ],
+      "why": "미래와의 상호작용을 예술로 표현했기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "내부 인테리어 디자인의 예술: 럭셔리 가구의 변신",
+      "summary": "럭셔리 가구는 단순한 장식 이상의 의미를 지니며, 우리의 삶과 공간을 변화시킵니다. 각 디자인 요소는 정체성, 문화 및 개인 가치를 전달하는 언어로 작용합니다.",
+      "url": "https://italydreamdesign.com/en/the-art-of-interior-design-how-luxury-furniture-transforms-living-spaces/",
+      "source": "Italy Dream Design",
+      "domain": "INTERIOR DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "럭셔리",
+        "인테리어",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "가구 디자인"
+      ],
+      "why": "럭셔리 디자인이 생활 공간에 미치는 영향력이 크기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "피에 북스의 세계 건축 걸작들",
+      "summary": "피에 북스는 전 세계의 놀라운 건축물들을 소개하며, 이들의 역사와 디자인 철학을 탐구합니다. 이 책은 건축 애호가들에게 깊은 영감을 제공합니다.",
+      "url": "https://www.adfwebmagazine.jp/en/architect/architectural-masterpieces-in-the-world-by-pie-books/",
+      "source": "ADF Web Magazine",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "건축",
+        "디자인",
+        "철학"
+      ],
+      "execution_techniques": [
+        "서적 출판"
+      ],
+      "why": "세계적인 건축물의 아름다움과 역사적 가치를 탐구할 수 있기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "비주얼 온도: 카즈키 혼마의 예술 전시",
+      "summary": "카즈키 혼마는 '비주얼 온도'라는 주제로, 시각과 감각의 경계를 허무는 작품을 선보입니다. 그의 전시는 예술의 새로운 방향을 탐구하는 계기가 됩니다.",
+      "url": "https://www.adfwebmagazine.jp/en/art/visual-temperature-by-kazuki-honma-at-contrast/",
+      "source": "ADF Web Magazine",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "온도",
+        "시각",
+        "감각"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "감각과 시각의 경계를 예술로 표현했기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "미팅 포인트 뮌헨: 공예의 중심지",
+      "summary": "뮌헨과 상부 바이에른 공예상회의 특별 전시가 열립니다. 이 전시는 공예의 중요성을 부각시키고 있습니다.",
+      "url": "https://artaurea.com/2026/treffpunkt-muenchen/",
+      "source": "Art Aurea",
+      "domain": "CRAFT",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "공예",
+        "전시",
+        "뮌헨"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "공예의 중요성과 아름다움을 재조명하기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "시대의 우아함: 발레리아 시토바의 와인 브랜딩",
+      "summary": "발레리아 시토바는 EPOCH WINE을 위한 우아하고 전략적인 브랜딩을 선보입니다. 그녀의 디자인은 디지털 아이덴티티와 와인 병 모형을 창의적으로 결합합니다.",
+      "url": "https://abduzeedo.com/valeria-shitova-crafts-elegant-epoch-wine-branding-concept/",
+      "source": "abduzeedo.com",
+      "domain": "BRANDING",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "브랜딩",
+        "디자인",
+        "우아함"
+      ],
+      "execution_techniques": [
+        "브랜딩"
+      ],
+      "why": "브랜딩이 제품의 정체성을 어떻게 강화하는지를 보여주기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "내추럴한 헤어 연장: 자존감을 높이는 비밀",
+      "summary": "건강하고 빛나는 머리카락은 아름다움과 자존감과 연결됩니다. 자연스러운 헤어 연장은 볼륨과 길이를 원하는 많은 사람들에게 희망을 줍니다.",
+      "url": "https://archzine.net/lifestyle/natuerliche-haarverlaengerung-fuer-mehr-selbstbewusstsein/",
+      "source": "Archzine",
+      "domain": "LIFESTYLE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "헤어",
+        "자존감",
+        "자연스러움"
+      ],
+      "execution_techniques": [
+        "뷰티"
+      ],
+      "why": "외모와 자존감의 관계를 탐구하기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    }
+  ]
+}
