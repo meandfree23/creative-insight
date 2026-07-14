@@ -1,0 +1,311 @@
+{
+  "date": "2026-07-15",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 오늘의 큐레이션은 디자인과 예술이 우리의 삶에 어떤 의미를 부여하는지를 탐구합니다. 창의성의 경계를 넘나드는 작품들이 우리에게 던지는 메시지와 그로 인해 생기는 내면의 울림에 대해 생각해봅시다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 큐레이션에 오신 것을 환영합니다. 다양한 예술적 표현들이 모여 우리의 상상력을 자극하고, 일상에 새로운 시각을 부여합니다. 함께 이 여행을 즐기시길 바랍니다.",
+  "session": {
+    "timestamp": "2026-07-14T23:43:48.220225",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "사진작가 존 테스타의 'Wading'",
+      "summary": "존 테스타의 사진 시리즈 'Wading'는 물과 빛의 상호작용을 통해 자연의 신비를 포착합니다. 그의 사진은 일상 속에서 볼 수 있는 순간들을 예술로 승화시킵니다.",
+      "url": "https://www.booooooom.com/2026/07/06/wading-by-photographer-jon-testa/",
+      "source": "Booooooom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "자연",
+        "빛"
+      ],
+      "execution_techniques": [
+        "디지털 사진"
+      ],
+      "why": "자연의 순간을 예술로 승화시키는 능력이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/06/Wading_Jon_Testa_1.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "트렌스젠더 사람들을 사랑하게 만드는 이야기",
+      "summary": "프라이드 먼스를 기념하여 9개의 대형 초상화가 LGBTQ+ 역사를 반영합니다. 이 작품들은 트랜스젠더 커뮤니티에 대한 사랑과 이해를 촉구합니다.",
+      "url": "https://designobserver.com/if-anybody-knew-trans-people-of-course-theyd-love-them/",
+      "source": "Design Observer",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "LGBTQ+",
+        "커뮤니티",
+        "초상화"
+      ],
+      "execution_techniques": [
+        "회화"
+      ],
+      "why": "사회적 메시지를 담은 예술의 힘을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://designobserver.com/wp-content/uploads/2026/06/44cea562-47c3-314a-f3d2-7e0268cd239f-1-1024x768.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "시각적 사고: 새로운 디자인 언어",
+      "summary": "시각적 사고의 프로모션 포스터는 미니멀리즘과 색채의 조화를 통해 새로운 디자인 언어를 제시합니다. 이 작품은 실버와 시안 색상으로 인쇄된 독특한 미적 감각을 보여줍니다.",
+      "url": "https://www.andrew-townsend.com/Visual-Thinking",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "포스터",
+        "미니멀리즘",
+        "색채"
+      ],
+      "execution_techniques": [
+        "인쇄"
+      ],
+      "why": "색채와 미니멀리즘의 조화가 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://payload.cargocollective.com/1/1/33015/5083496/prt_1362754986.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "여름 독서 목록",
+      "summary": "디자이너들이 더 나은 디자이너가 되게 만든 책들을 소개합니다. 이 목록은 디자인 세계에 대한 새로운 시각을 제공합니다.",
+      "url": "https://designobserver.com/your-summer-reading-list/",
+      "source": "Design Observer",
+      "domain": "LITERATURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디자인",
+        "독서",
+        "목록"
+      ],
+      "execution_techniques": [
+        "문헌"
+      ],
+      "why": "다양한 시각을 제공하는 독서 목록이 매력적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://designobserver.com/wp-content/uploads/2026/06/Untitled-design-1024x791.jpeg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "밤하늘의 매력: 조슈아 트리 국립공원의 타임랩스",
+      "summary": "조슈아 트리 국립공원에서 촬영된 '문라이트 모하비'는 황홀한 별빛을 보여주는 타임랩스 영상입니다. 달빛 아래 펼쳐진 사막의 매력을 감상할 수 있습니다.",
+      "url": "https://www.fubiz.net/2023/01/07/timelapse-unveils-the-sky-vault-over-the-joshua-tree-national-park/",
+      "source": "Fubiz",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "타임랩스",
+        "자연",
+        "별빛"
+      ],
+      "execution_techniques": [
+        "영상"
+      ],
+      "why": "자연의 경이로움을 담아낸 영상이 감동적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.fubiz.net/wp-content/uploads/2022/04/skyglow-1-1536x862.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "보충제 포장 디자인: 실험실 미학",
+      "summary": "헬렌 아르키포치키나가 디자인한 보충제 포장은 건강을 위한 실험실 미학을 강조합니다. 클린 그리드 레이아웃과 정밀한 기술 메타데이터 라인이 돋보입니다.",
+      "url": "https://abduzeedo.com/supplement-packaging-design-wellness-branding-lab-aesthetic/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "포장 디자인",
+        "브랜딩",
+        "미학"
+      ],
+      "execution_techniques": [
+        "그래픽 디자인"
+      ],
+      "why": "실험실적 미학을 통해 건강의 미를 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_minimal-supplement-packaging-wellness-branding-helen-arkhipochkina.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "대규모 벽화: 엘리사 캡데빌라의 타리아 극장 오마주",
+      "summary": "엘리사 캡데빌라의 대형 벽화 'Fin de función'은 타리아 극장을 기리기 위해 제작되었습니다. 이 작품은 극장의 기억을 시각화하려는 의도를 가지고 있습니다.",
+      "url": "https://www.streetartbcn.com/mural-de-gran-formato-de-elisa-capdevila-en-homenaje-al-teatro-talia/",
+      "source": "Street Art Barcelona",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "벽화",
+        "극장",
+        "기억"
+      ],
+      "execution_techniques": [
+        "벽화"
+      ],
+      "why": "과거의 기억을 현재로 소환하는 예술적 시도가 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2026/05/670152598_18099558955964424_8244432673349426291_n.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "코트를 캔버스로: 스포츠 그라운드에서의 디자인 실험",
+      "summary": "이웃 농구 코트에서부터 흙으로 만든 테니스 시설까지, 예술가와 건축가들은 도시의 가장 친숙한 공공 공간에서 실험을 진행합니다. 스포츠 그라운드는 디자인의 새로운 무대가 됩니다.",
+      "url": "https://www.designboom.com/art/court-canvas-sports-grounds-design-favorite-public-spaces/",
+      "source": "Designboom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "스포츠",
+        "공공 공간",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "건축"
+      ],
+      "why": "스포츠 공간을 새로운 예술적 무대로 전환하는 시도가 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/court-canvas-sports-grounds-design-favorite-public-spaces-designboom-700-500x400-22b08q85r345.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "길레트 - 100년의 헤어 역사",
+      "summary": "길레트의 100년 간의 헤어 역사를 조명하는 이 작품은 브랜드의 역사와 변화를 담고 있습니다. 디자인과 스타일의 변화를 통해 길레트의 진화를 보여줍니다.",
+      "url": "https://honestart.tistory.com/96",
+      "source": "honestart.tistory.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "헤어",
+        "역사",
+        "진화"
+      ],
+      "execution_techniques": [
+        "브랜드 디자인"
+      ],
+      "why": "브랜드의 역사를 디자인으로 재조명하는 시도가 눈에 띕니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "세상을 이해하는 방법",
+      "summary": "개인적인 핸드메이드 프린트를 통해 세상을 이해하는 방법을 탐구합니다. 이 작품은 시각적 스토리텔링을 통해 감정과 사고를 표현합니다.",
+      "url": "https://www.behance.net/gallery/252508551/How-to-Make-Sense-of-the-World",
+      "source": "Behance",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "프린트",
+        "이해",
+        "스토리텔링"
+      ],
+      "execution_techniques": [
+        "핸드메이드"
+      ],
+      "why": "개인적 경험을 통해 보편적 이야기를 전달하는 방식이 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/d82479252508551.Y3JvcCwxMzQxLDEwNDksMjksMA.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "파리의 사생활: 이해의 간극",
+      "summary": "사람을 안다고 믿는 것과 실제로 이해하는 것 사이의 간극을 탐구합니다. 타인을 이해하려는 노력의 중요성을 강조합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81652",
+      "source": "Unknown Source",
+      "domain": "LITERATURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "이해",
+        "사람",
+        "간극"
+      ],
+      "execution_techniques": [
+        "문학"
+      ],
+      "why": "타인을 이해하려는 노력의 가치를 다시 한 번 생각하게 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260714133545_ouceqlrg.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "다이스케 타지마의 '무한한 공허': 공허한 미래의 불안",
+      "summary": "다이스케 타지마의 작품은 공허한 미래에 대한 불안을 포착합니다. 그의 독특한 스타일은 현대 사회의 불확실성을 시각적으로 표현합니다.",
+      "url": "https://spoon-tamago.com/daisuke-tajima-infinite-emptiness/?utm_source=rss&utm_medium=rss&utm_campaign=daisuke-tajima-infinite-emptiness",
+      "source": "Spoon & Tamago",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "공허",
+        "불안",
+        "미래"
+      ],
+      "execution_techniques": [
+        "회화"
+      ],
+      "why": "미래의 불확실성을 예술적으로 표현한 점이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/Daisuke-Tajima-Infinite-Emptiness-6-200x150.jpeg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "새로운 대화: 자연과의 대화 이끄는 다다시 가와마타",
+      "summary": "다다시 가와마타의 프로젝트는 자연과의 새로운 대화를 제안합니다. 그의 작품은 환경과의 조화로운 관계를 강조합니다.",
+      "url": "https://www.ignant.com/2026/04/29/tadashi-kawamata-leads-ruinarts-latest-conversation-with-nature/",
+      "source": "ignant.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "자연",
+        "대화",
+        "환경"
+      ],
+      "execution_techniques": [
+        "설치 미술"
+      ],
+      "why": "자연과의 조화로운 관계를 예술로 표현한 점이 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/kv-cmjn-a4-horiz-hd-720x509.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    }
+  ]
+}
