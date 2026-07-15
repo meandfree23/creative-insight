@@ -1,0 +1,311 @@
+{
+  "date": "2026-07-16",
+  "focusQ": "에이전트의 생각: [마인드 마이닝] 오늘날의 창작물은 우리에게 감정과 경험을 재조명하게 하는 힘을 줍니다. 그것은 과거와 현재, 그리고 미래의 경계를 흐리며, 우리 자신을 다시 발견하게 만듭니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 큐레이션에 오신 것을 환영합니다. 우리는 예술과 디자인의 경이로움을 함께 탐험하며, 새로운 시각과 감각을 경험하게 될 것입니다.",
+  "session": {
+    "timestamp": "2026-07-15T23:55:47.934849",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "마돈나, 움직임, 그리고 사라지지 않는 예술",
+      "summary": "비콘 극장에서 마돈나는 'Confessions II'를 선보이며 음악 이상의 시각적 세계를 창조해왔음을 상기시켰습니다. 그녀의 작품은 항상 음악과 예술의 경계를 허물며 새로운 경험을 제공합니다.",
+      "url": "https://motionographer.com/2026/07/06/madonna-motion-and-the-art-of-refusing-to-disappear/",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Madonna",
+        "Visual Art",
+        "Music"
+      ],
+      "execution_techniques": [
+        "Multimedia"
+      ],
+      "why": "마돈나는 예술의 경계를 확장하며, 음악과 시각 예술의 교차점을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/confessions-ii-featured-HQ_1-ezgif.com-overlay-700x394.gif",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "둥글고 말랑말랑한 상실 - 지상의 밤",
+      "summary": "상실 이후의 희망을 독특하고 부드럽게 표현한 소설이 소개됩니다. 이 작품은 독자에게 새로운 희망의 가능성을 제시합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81651",
+      "source": "Unknown Source",
+      "domain": "LITERATURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Loss",
+        "Hope",
+        "Literature"
+      ],
+      "execution_techniques": [
+        "Narrative"
+      ],
+      "why": "희망과 상실의 경계를 탐구하는 독특한 시각을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260715205358_tgmdqwrb.jpg",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "페르난도 알론소를 기리는 애스턴 마틴 F1의 벽화",
+      "summary": "애스턴 마틴 F1의 벽화는 페르난도 알론소를 기념하며 브랜드와 예술가의 독창적인 협업을 보여줍니다. 이 벽화는 스포츠와 예술의 경계를 넘나드는 창의성을 표현합니다.",
+      "url": "https://www.streetartbcn.com/tribute-to-fernando-alonso-for-aston-martin-f1-by-fert-one/",
+      "source": "Street Art Barcelona",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Street Art",
+        "Collaboration",
+        "Sports"
+      ],
+      "execution_techniques": [
+        "Mural"
+      ],
+      "why": "스포츠와 예술의 만남을 통해 새로운 형태의 표현을 창조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2025/09/Need_to_know_Spain_mural_2.jpg",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "LensCulture: 프라이드를 기념하는 독특한 목소리들",
+      "summary": "프라이드 달을 기념하며 정체성과 자기 표현을 주제로 한 다양한 작품을 조명합니다. 이 컬렉션은 퀴어 커뮤니티의 다채로운 목소리를 담고 있습니다.",
+      "url": "https://www.lensculture.com/articles/lensculture-editors-lensculture-distinct-voices-celebrating-pride",
+      "source": "lensculture.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Pride",
+        "Identity",
+        "Expression"
+      ],
+      "execution_techniques": [
+        "Photography"
+      ],
+      "why": "다양한 정체성과 표현을 통해 사회적 인식을 확장합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.lensculture.com/image/655da177-3e43-4dc6-63f5-4a52de9d7b00/large",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "Vibeke Tandberg: 사진 조작의 선구자",
+      "summary": "Vibeke Tandberg의 새로운 전시 'They Live'는 그녀의 독창적인 사진 조작 작품을 통해 예술의 경계를 탐구합니다. 이 전시는 노르웨이에서 그녀의 특별한 경력을 조명합니다.",
+      "url": "https://www.wallpaper.com/art/photography/vibeke-tandberg-they-live-bergen-art-museum-review",
+      "source": "Wallpaper*",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Photography",
+        "Manipulation",
+        "Exhibition"
+      ],
+      "execution_techniques": [
+        "Photo Manipulation"
+      ],
+      "why": "사진 조작을 통해 현실의 경계를 확장하고자 하는 창의적 시도를 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/dPVbdzexmDSXU6Tu2tCWzb-1280-80.jpg",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "새로운 감각: 맛의 소리",
+      "summary": "이 작품은 맛과 소리의 감각적 교차점을 탐구하며, 우리가 알고 있는 감각을 새롭게 재해석합니다. 감각의 경계를 넘나드는 실험적 접근이 돋보입니다.",
+      "url": "https://honestart.tistory.com/95",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Sound",
+        "Taste",
+        "Sensory Art"
+      ],
+      "execution_techniques": [
+        "Multisensory"
+      ],
+      "why": "감각의 경계를 허물며 새로운 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2471F1485405850E23",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "MESTIZ: 에르메스 창문을 위한 화려한 꽃과 생물의 세계",
+      "summary": "멕시코의 스튜디오 MESTIZ는 화려한 꽃과 생물의 상상 속 풍경을 창조하여 에르메스 창문에 생명을 불어넣었습니다. 이 작품은 자연과 예술의 경계를 넘나드는 시각적 향연을 제공합니다.",
+      "url": "https://www.designboom.com/art/mestiz-vibrant-world-flowers-curious-creatures-hermes-windows-mexico/",
+      "source": "Designboom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Hermès",
+        "Nature",
+        "Installation"
+      ],
+      "execution_techniques": [
+        "Installation Art"
+      ],
+      "why": "자연과 인공의 경계를 탐구하며 시각적 아름다움을 재창조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/mestiz-vibrant-world-flowers-curious-creatures-hermes-windows-mexico-designboom-700-500x400-22b08q85r980.jpg",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "헬레나 민기노비츠, 평범한 종이 타월을 신비로운 회화로 변형",
+      "summary": "헬레나 민기노비츠는 일상적인 종이 타월을 사용하여 신비롭고 독창적인 회화를 창작합니다. 이 작품은 평범함 속에 숨겨진 아름다움을 발견하게 합니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/helena-minginowicz-paper-towel-renaissance-paintings-value/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Painting",
+        "Transformation",
+        "Everyday Objects"
+      ],
+      "execution_techniques": [
+        "Painting"
+      ],
+      "why": "평범한 소재를 통해 새로운 예술적 가치를 창출합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/minginowicz-7-e1783955577732.jpeg",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "하나의 사람의 쓰레기는 다른 이의 보물: 사진 시리즈에서 쓰레기를 예술로 변환",
+      "summary": "Salina Studio는 사진 시리즈를 통해 버려진 물건을 새로운 시각으로 재조명합니다. 이 작품은 일상적인 물건을 예술로 탈바꿈시키는 창의적 과정을 보여줍니다.",
+      "url": "https://www.itsnicethat.com/articles/salina-studio-anna-sophia-john-obsolete-photography-publication-140726",
+      "source": "It's Nice That",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Photography",
+        "Transformation",
+        "Everyday Life"
+      ],
+      "execution_techniques": [
+        "Photography"
+      ],
+      "why": "일상 속 물건을 예술적 시각으로 재해석하는 독특한 접근입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://media.itsnicethat.com/original_images/ezgif.com-video-to-gif-converter_2_g5KLrBP.gif",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "기억하고픈 파리 (feat. 힐데 25선 #17 루브르 박물관)",
+      "summary": "파리의 저명한 미술관들을 방문하며 그들의 역사와 예술적 가치를 탐구합니다. 이 글은 잘 알려지지 않은 공간에 대한 새로운 발견을 제공합니다.",
+      "url": "https://blog.naver.com/justina75/224326470284?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Paris",
+        "Museum",
+        "Exploration"
+      ],
+      "execution_techniques": [
+        "Writing"
+      ],
+      "why": "유명한 장소를 새로운 관점에서 바라보게 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjRfMjMx/MDAxNzgyMjQwMTgyNTIz.A4-2z5PrlwmZJrGvGFhdb0izPVJDtBnx_Si2aFFaSiYg.R107rkpiAeXEVSrqukNffnsNezuqN1Z6PDVSClkuTTYg.JPEG/900_Screenshot_20260623_185453_Maps.jpg?type=s3",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "Homo Faber와 신성한 섭리",
+      "summary": "스위스 사진작가 Matthias Forster는 카메라를 통해 우리가 흔히 간과하는 풍경 속의 긴장과 놀라움, 유머를 찾습니다. 이 작품은 자연과 인간의 관계를 새로운 시각으로 조명합니다.",
+      "url": "https://www.lensculture.com/articles/matthias-forster-homo-faber-and-divine-providence",
+      "source": "lensculture.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Photography",
+        "Nature",
+        "Humanity"
+      ],
+      "execution_techniques": [
+        "Photography"
+      ],
+      "why": "자연 속에서 인간의 흔적을 발견하는 독창적인 시각을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.lensculture.com/image/5bab1c0b-5569-43ab-cc9a-987d7cda0900/large",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "바다의 파도는 말처럼 다가왔다",
+      "summary": "Stephanie O’Connor는 풍경과 유기적 형태를 겹쳐서 자아와 타인의 경계를 흐리는 이미지들을 만듭니다. 이 작품은 자연 속에서의 초현실적인 감각을 포착합니다.",
+      "url": "https://www.lensculture.com/articles/stephanie-o-connor-the-waves-came-in-like-horses",
+      "source": "lensculture.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Photography",
+        "Surrealism",
+        "Nature"
+      ],
+      "execution_techniques": [
+        "Composite Photography"
+      ],
+      "why": "자연과 자아의 경계를 초월하는 독특한 시각적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.lensculture.com/image/985ebf7c-d526-464e-5e94-05bf7b3dab00/large",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "아이디어 No.406",
+      "summary": "최신 디자인 트렌드와 창의적 아이디어를 소개하는 아이디어 매거진의 최신 호를 소개합니다. 다양한 분야의 창의적 작업이 담겨 있습니다.",
+      "url": "https://www.idea-mag.com/idea_magazine/idea-no-406/",
+      "source": "IDEA Magazine",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Design",
+        "Creativity",
+        "Trends"
+      ],
+      "execution_techniques": [
+        "Publishing"
+      ],
+      "why": "최신 디자인 트렌드를 한눈에 볼 수 있는 기회를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2024/06/H1-4-3_kobayashiikki_hb_240524-1-550x726.jpg",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    }
+  ]
+}
