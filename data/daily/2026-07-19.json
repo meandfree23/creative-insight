@@ -1,0 +1,311 @@
+{
+  "date": "2026-07-19",
+  "focusQ": "Agent's Thought: [마인드 마이닝] 예술과 디자인은 우리를 새로운 차원으로 인도합니다. 이러한 창조적인 여정은 개인의 내면을 탐구하고, 사회를 반영하며, 문화적 경계를 확장하는 힘을 가지고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 큐레이션에서는 전 세계의 다양한 예술 작품과 디자인을 만나보세요. 각 작품은 독창성과 영감을 불어넣어 줄 것입니다. 함께 새로운 시각을 발견하는 여정을 시작해봅시다.",
+  "session": {
+    "timestamp": "2026-07-18T23:44:18.758593",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "모두가 약간의 광기를 필요로 한다: 마리오 쿠치넬라가 팔레르모에 살아있는 정원을 가져오다.",
+      "summary": "팔레르모의 전통적인 페스티노 디 산타 로살리아에서 MCA의 정원 마차가 중심 무대를 차지합니다. 이는 삶, 믿음, 해방, 소속감을 기념하는 축제입니다.",
+      "url": "https://www.wallpaper.com/design-interiors/festino-di-santa-rosalia-palermo-mario-cucinella-mca",
+      "source": "Wallpaper*",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "정원",
+        "디자인",
+        "축제"
+      ],
+      "execution_techniques": [
+        "정원 설계"
+      ],
+      "why": "이 작품은 자연과 디자인의 경계를 허물며 감동을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/pxYAjNZ5SU8LC3feh4HtiK-1280-80.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "에세이: 감정 시리즈 03 - 후회라는 건",
+      "summary": "때로는 미친 척하고 20초만 용기를 내볼 필요가 있습니다. 그럼 멋진 일이 생길 것입니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81705",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "감정",
+        "용기",
+        "삶"
+      ],
+      "execution_techniques": [
+        "에세이 작성"
+      ],
+      "why": "짧은 순간의 용기가 삶을 변화시킬 수 있다는 메시지가 강렬합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260718211439_ggnfkcap.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "Saya Irie의 지우개 부스러기로 재구성된 정교한 조각들",
+      "summary": "Saya Irie는 지우개 부스러기로 정교한 조각 작품을 만들어냅니다. 일상의 작은 것들이 어떻게 예술로 변모하는지 보여줍니다.",
+      "url": "https://spoon-tamago.com/saya-irie-eraser-shavings/?utm_source=rss&utm_medium=rss&utm_campaign=saya-irie-eraser-shavings",
+      "source": "Spoon & Tamago",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "조각",
+        "리사이클링",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "리사이클링 아트"
+      ],
+      "why": "일상의 사물이 예술로 변하는 과정이 놀랍습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/saya-irie-eraser-shaving-art-8-200x133.webp",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "현대사진을 찍다 - 강의 7: 정연두",
+      "summary": "정연두의 작품은 현대사진을 공부하는데 가장 적합합니다. 그는 재현에서 벗어나 새로움을 탐구합니다.",
+      "url": "https://blog.naver.com/damwon/220838070147?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "현대예술",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "사진 촬영"
+      ],
+      "why": "재현의 한계를 넘는 창의적 접근이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/20161017_235/damwon_1476664456079vpPKT_JPEG/2016-10-17_09%3B33%3B54.JPEG?type=s3",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "포토샵 강좌: 클리핑 마스크 이해하기",
+      "summary": "클리핑 마스크는 디자인 작업에서 필수적인 도구입니다. 이 강좌는 그 사용법을 쉽게 설명합니다.",
+      "url": "https://graymonster.tistory.com/81",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "포토샵",
+        "디자인",
+        "강좌"
+      ],
+      "execution_techniques": [
+        "디지털 디자인"
+      ],
+      "why": "디자인의 필수 도구인 클리핑 마스크를 쉽게 배울 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://t1.daumcdn.net/cfile/tistory/99AABA33599DBA7A20",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "Luxury Hospitality Brands Bring Their Design DNA to the Sea",
+      "summary": "Aman, Four Seasons 등 럭셔리 브랜드가 요트 디자인으로 새로운 형태의 럭셔리 여행을 제공합니다. 각 브랜드의 시그니처 디자인 철학이 요트에 녹아있습니다.",
+      "url": "https://design-milk.com/luxury-hospitality-brands-yacht-design/",
+      "source": "Design Milk",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "럭셔리",
+        "디자인",
+        "여행"
+      ],
+      "execution_techniques": [
+        "요트 디자인"
+      ],
+      "why": "브랜드의 정체성을 새로운 방식으로 경험할 수 있는 기회를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/07/Aman7-1500x844.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "The WAVY App Turns Antique Singing Bowls into an Ever-Changing Composition",
+      "summary": "고대 티베트 및 크리스탈 보울을 녹음하여 끊임없이 변화하는 작곡을 만드는 앱입니다. 소리의 반복을 피하고 새로운 경험을 제공합니다.",
+      "url": "https://coolhunting.com/culture/wavy-turns-antique-singing-bowls-into-an-ever-changing-composition/",
+      "source": "coolhunting.com",
+      "domain": "MUSIC",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "음악",
+        "앱",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "음향 디자인"
+      ],
+      "why": "음악의 새로운 가능성을 탐구하는 혁신적인 접근이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/aska-new-crystal-bowls-768x512.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "Nuart Aberdeen 2026: 시에 담긴 거리의 예술",
+      "summary": "Nuart Aberdeen 2026에서는 거리 예술과 시의 조화로운 만남을 선보입니다. 도시 곳곳에서 발견할 수 있는 창의적인 작업들이 돋보입니다.",
+      "url": "https://www.juxtapoz.com/news/street-art/nuart-aberdeen-2026-poetry-in-the-streets/",
+      "source": "Juxtapoz",
+      "domain": "STREET ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "거리 예술",
+        "시",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "거리 예술"
+      ],
+      "why": "도시의 일상 속에 예술을 불어넣는 매력이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/1393cea878d4e556a989fa24f9c324ac_L.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "비주얼 아티스트 마이클 헤이트: 자신의 삶에서 작품을 만드는 거리",
+      "summary": "스튜디오에서의 하루 일과를 통해 마이클 헤이트의 창작 과정을 엿볼 수 있습니다. 개인의 경험을 예술로 승화시키는 방법을 탐구합니다.",
+      "url": "https://thecreativeindependent.com/people/visual-artist-michael-haight-on-the-distance-it-takes-to-make-work-from-your-own-life/",
+      "source": "Creative Independent",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "창작 과정",
+        "개인적 경험"
+      ],
+      "execution_techniques": [
+        "예술 창작"
+      ],
+      "why": "개인의 이야기가 어떻게 예술로 변모하는지 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/koMzAfhKTReX5dopcfBV",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "비주얼 사고",
+      "summary": "Visual Thinking이라는 회사의 홍보용 A1 포스터를 소개합니다. 은색과 시안색으로 인쇄되어 시각적으로 강렬합니다.",
+      "url": "https://www.andrew-townsend.com/Visual-Thinking",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "포스터",
+        "디자인",
+        "시각적 사고"
+      ],
+      "execution_techniques": [
+        "포스터 디자인"
+      ],
+      "why": "시각적 요소가 강하게 인식되는 디자인입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://payload.cargocollective.com/1/1/33015/5083496/prt_1362754986.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "Molly Bounds \"잃는 빛, 이기는 밤\" @ Mrs Gallery, Maspeth, NY",
+      "summary": "Molly Bounds의 전시 '잃는 빛, 이기는 밤'은 Maspeth의 Mrs Gallery에서 열립니다. 그녀의 작품은 빛과 어둠의 대조를 통해 강렬한 감정을 불러일으킵니다.",
+      "url": "https://www.juxtapoz.com/news/painting/molly-bounds-the-light-that-loses-the-night-that-wins-mrs-gallery-maspeth-ny/",
+      "source": "Juxtapoz",
+      "domain": "PAINTING",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "회화",
+        "전시",
+        "대조"
+      ],
+      "execution_techniques": [
+        "페인팅"
+      ],
+      "why": "빛과 어둠의 대조를 통해 감정의 깊이를 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/7bac6ecdec7150ac8a0c3053192d4431_L.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "Marc Padeu의 ‘Memento Vivere’에서 코코아 농장이 신성한 이벤트의 배경이 되다",
+      "summary": "Marc Padeu의 작품은 코코아 농장을 배경으로 인간의 존재와 기념을 탐구합니다. 그의 아크릴 페인팅은 강렬한 색채와 생동감으로 관객을 매료시킵니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/marc-padeu-memento-vivere-acrylic-paintings/",
+      "source": "Colossal",
+      "domain": "PAINTING",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "회화",
+        "코코아",
+        "색채"
+      ],
+      "execution_techniques": [
+        "아크릴 페인팅"
+      ],
+      "why": "강렬한 색채와 주제가 관객의 시선을 사로잡습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/padeu-3.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "Fossils Woven on a Bed of Embroidery",
+      "summary": "Rachel Crisp는 자연에서 영감을 받은 자수를 통해 화석을 재현합니다. 그녀의 작품은 고고학적이면서도 예술적인 매력을 발산합니다.",
+      "url": "https://www.fubiz.net/2023/01/09/fossils-woven-on-a-bed-of-embroidery/",
+      "source": "Fubiz",
+      "domain": "TEXTILE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "자수",
+        "화석",
+        "자연"
+      ],
+      "execution_techniques": [
+        "자수"
+      ],
+      "why": "자연과 예술의 경계를 넘나드는 독창적 접근이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.fubiz.net/wp-content/uploads/2022/02/RC1.png",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    }
+  ]
+}
