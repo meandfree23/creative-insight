@@ -137,10 +137,11 @@ def update_manifest(date_str):
         with open(MANIFEST_FILE, "w") as f:
             json.dump(manifest, f, indent=2)
 
+import sys
 def main():
     # Set target date to current KST date
     kst = datetime.timezone(datetime.timedelta(hours=9))
-    target_date = datetime.datetime.now(tz=kst).strftime("%Y-%m-%d")
+    target_date = sys.argv[1] if len(sys.argv) > 1 else datetime.datetime.now(tz=kst).strftime("%Y-%m-%d")
     
     # Do not overwrite if already exists
     out_path = os.path.join(DAILY_DIR, f"{target_date}.json")
