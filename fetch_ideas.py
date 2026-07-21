@@ -112,21 +112,23 @@ def generate_daily_insight(date_str, articles_subset):
         img_str = f"\nImage: {a['image']}" if a.get('image') else ""
         prompt += f"\n[{i}] Title: {a['title']}\nLink: {a['link']}\nSource: {a['source']}\nCategory: {a['domain']}{img_str}\nSummary: {a['summary'][:200]}...\n"
 
-    try:
-        response = client.chat.completions.create(
-            model="gpt-4o",
-            response_format={ "type": "json_object" },
-            messages=[
-                {"role": "system", "content": "You are a professional JSON generator. Output strictly valid JSON."},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.7,
-            max_tokens=4000
-        )
-        return json.loads(response.choices[0].message.content)
-    except Exception as e:
-        print(f"OpenAI error: {e}")
-        return None
+    for attempt in range(3):
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4o-2024-08-06",
+                response_format={ "type": "json_object" },
+                messages=[
+                    {"role": "system", "content": "You are a professional JSON generator. Output strictly valid JSON."},
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=0.7,
+                max_tokens=10000
+            )
+            return json.loads(response.choices[0].message.content)
+        except Exception as e:
+            print(f"OpenAI error on attempt {attempt+1}: {e}")
+            time.sleep(5)
+    return None
 
 def update_manifest(date_str):
     with open(MANIFEST_FILE, "r") as f:
