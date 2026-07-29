@@ -113,6 +113,27 @@ def generate_daily_insight(date_str, articles_subset):
           "image": "(The article's image URL if provided, else empty string)",
           "pub_date": "{date_str}T08:00:00.000000"
         }}
+      ],
+      "popcorn": [
+        {{
+          "title_ko": "(Select 3 trending/viral/pop-culture items from the remaining articles, title in Korean)",
+          "summary": "(1-sentence summary in Korean)",
+          "url": "(The article's original link)",
+          "source": "(Source name)",
+          "domain": "POPCORN",
+          "category": "바이럴",
+          "tags": ["(tag1)"],
+          "why": "(Why this is pop/viral reference in Korean)",
+          "depth": 0.5,
+          "image": "(Image URL if provided, else empty string)",
+          "pub_date": "{date_str}T08:00:00.000000"
+        }}
+      ],
+      "macro_keywords": [
+        {{
+          "word": "(Extract 5-8 Korean macro trend phrases capturing today's zeitgeist and subtle nuances e.g. 다층적 미학 융합, 감성적 모듈화, 디지털 물성 회복)",
+          "is_hot": true
+        }}
       ]
     }}
     
@@ -153,7 +174,7 @@ def update_manifest(date_str):
 import sys
 def process_date(target_date, sources=None):
     out_path = os.path.join(DAILY_DIR, f"{target_date}.json")
-    if os.path.exists(out_path):
+    if os.path.exists(out_path) and target_date != "ver.1":
         print(f"Data for {target_date} already exists. Skipping.")
         return True
 
