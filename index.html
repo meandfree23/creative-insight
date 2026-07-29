@@ -610,6 +610,12 @@ function renderPopcorn() {
   for (var i=0; i<DATA.history.length; i++) {
     var entry = DATA.history[i];
     var pItems = entry.popcorn || [];
+    if (!pItems || pItems.length === 0) {
+      var picks = entry.topPicks || entry.items || [];
+      pItems = picks.filter(function(p) {
+        return (p.domain === 'POPCORN' || p.category === '바이럴' || (p.tags && p.tags.indexOf('바이럴') !== -1) || p.depth <= 0.75);
+      }).slice(0, 3);
+    }
     
     if (pItems.length > 0) {
       h += '<div style="margin-bottom: 60px;">';
@@ -988,9 +994,21 @@ function renderWeeklyTrend() {
   var allKeywords = [];
   
   recentHistory.forEach(function(entry) {
-    if (entry.macro_keywords) {
+    if (entry.macro_keywords && entry.macro_keywords.length > 0) {
       entry.macro_keywords.forEach(function(kwObj) {
         allKeywords.push(kwObj);
+      });
+    } else {
+      var picks = entry.topPicks || entry.items || [];
+      var seen = {};
+      picks.forEach(function(p) {
+        var tags = (p.tags || []).concat(p.execution_techniques || []);
+        tags.forEach(function(t) {
+          if (t && t.length > 1 && !seen[t]) {
+            seen[t] = true;
+            allKeywords.push({ word: t, is_hot: Math.random() > 0.6 });
+          }
+        });
       });
     }
   });
