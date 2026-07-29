@@ -1024,6 +1024,46 @@ function renderArchive() {
   document.getElementById('main').innerHTML = h;
 }
 
+function renderMyThesis() {
+  var h = '<div style="max-width:900px; margin: 40px auto; padding: 0 20px; text-align:center;">';
+  h += '<h2 style="font-size:2.2rem; margin-bottom:12px; color:#a461db; font-family:\'Playfair Display\', serif;">🧠 MY THESIS</h2>';
+  h += '<p style="color:var(--sub); margin-bottom:50px; font-size:15px; font-family:\'Noto Serif KR\', serif; font-style:italic;">동시대 예술과 디자인, 미학적 흐름을 관통하는 디렉터의 마인드셋 & 철학적 테제 아카이브입니다.</p>';
+  
+  for (var i = 0; i < DATA.history.length; i++) {
+    var entry = DATA.history[i];
+    var thesisTxt = entry.focusQ || entry.creator_message || '';
+    var curatorMsg = entry.creator_message || '';
+    
+    if (thesisTxt || curatorMsg) {
+      h += '<div style="background: var(--card); border: 1px solid var(--border); border-radius: 20px; padding: 45px 35px; margin-bottom: 45px; text-align: center; box-shadow: 0 4px 25px rgba(0,0,0,0.03); transition: transform 0.25s;" onmouseover="this.style.transform=\'translateY(-4px)\'" onmouseout="this.style.transform=\'none\'">';
+      h += '<div style="font-size: 13px; font-weight: 700; color: #a461db; letter-spacing: 3px; margin-bottom: 25px; text-transform:uppercase;">' + fmtDate(entry.date) + ' THESIS</div>';
+      
+      if (entry.focusQ) {
+        var cleanQ = entry.focusQ.replace(/^Agent's Thought:\s*/i, '').replace(/^에이전트의 생각:\s*/i, '');
+        h += '<div style="font-family:\'Noto Serif KR\', serif; font-size: 19px; line-height: 1.8; color: var(--text); font-weight: 600; max-width: 720px; margin: 0 auto 25px auto; word-break: keep-all;">' + esc(cleanQ) + '</div>';
+      }
+      
+      if (curatorMsg) {
+        var cleanMsg = curatorMsg.replace(/^큐레이터의 메시지:\s*/i, '');
+        h += '<div style="font-family:\'Noto Serif KR\', serif; font-size: 15px; line-height: 1.8; color: var(--sub); font-style: italic; max-width: 680px; margin: 0 auto; padding-top: 20px; border-top: 1px dashed var(--border);">“ ' + esc(cleanMsg) + ' ”</div>';
+      }
+      
+      if (entry.macro_keywords && entry.macro_keywords.length > 0) {
+        h += '<div style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin-top:25px;">';
+        entry.macro_keywords.forEach(function(kw) {
+          h += '<span class="chip" style="font-size:11px; padding:4px 12px; background:rgba(164,97,219,0.1); color:#a461db; border-radius:12px; border: 1px solid rgba(164,97,219,0.2);">#' + esc(kw.word) + '</span>';
+        });
+        h += '</div>';
+      }
+      
+      h += '</div>';
+    }
+  }
+  
+  h += '</div>';
+  document.getElementById('main').innerHTML = h;
+}
+
 function renderWeeklyTrend() {
   var recentHistory = DATA.history.slice(0, 7);
   var allKeywords = [];
