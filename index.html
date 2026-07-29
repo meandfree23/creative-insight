@@ -555,48 +555,54 @@ function renderDomainTabs() {
 }
 
 function renderCreatorsInsight() {
-  var h = '<div style="max-width:1000px; margin: 40px auto; padding: 0 40px;">';
+  var h = '<div style="max-width:900px; margin: 40px auto; padding: 0 20px; text-align:center;">';
   
   for (var i=0; i<DATA.history.length; i++) {
     var entry = DATA.history[i];
     var cItems = [];
     var picks = getDayItems(entry);
     for (var j=0; j<picks.length; j++) {
-      if (picks[j].creator_name && picks[j].creator_insight) {
+      if (picks[j].creator_name || picks[j].creator_insight) {
         cItems.push(picks[j]);
       }
     }
     
     if (entry.creator_message || cItems.length > 0) {
-      h += '<div style="margin-bottom: 80px;">';
-      h += '<div style="font-size: 14px; font-weight: 600; color: var(--acc); letter-spacing: 2px; margin-bottom: 20px;">' + fmtDate(entry.date) + '</div>';
+      h += '<div style="margin-bottom: 80px; text-align:center;">';
+      h += '<div style="font-size: 13px; font-weight: 700; color: var(--acc); letter-spacing: 3px; margin-bottom: 25px; text-transform:uppercase;">' + fmtDate(entry.date) + '</div>';
       
       if (entry.creator_message) {
-        h += '<div style="background: #1a1a1a; color: #fff; padding: 40px; margin-bottom: 40px; text-align: center;">';
-        h += '<div style="font-family: \'Playfair Display\', serif; font-size: 40px; color: var(--acc); line-height: 0.5;">"</div>';
-        h += '<div style="font-family: \'Noto Serif KR\', serif; font-size: 20px; line-height: 1.8; color: #fbf9f6; max-width: 700px; margin: 0 auto; word-break: keep-all; font-style: italic;">' + entry.creator_message + '</div>';
-        h += '<div style="font-family: \'Playfair Display\', serif; font-size: 40px; color: var(--acc); line-height: 0.5; margin-top: 20px;">"</div>';
+        h += '<div style="background: var(--card); border: 1px solid var(--border); color: var(--text); padding: 40px 30px; margin-bottom: 50px; text-align: center; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.02);">';
+        h += '<div style="font-family: \'Playfair Display\', serif; font-size: 36px; color: var(--acc); line-height: 0.5;">"</div>';
+        h += '<div style="font-family: \'Noto Serif KR\', serif; font-size: 19px; line-height: 1.8; color: var(--text); max-width: 680px; margin: 15px auto; word-break: keep-all; font-style: italic;">' + entry.creator_message + '</div>';
+        h += '<div style="font-family: \'Playfair Display\', serif; font-size: 36px; color: var(--acc); line-height: 0.5;">"</div>';
         h += '</div>';
       }
       
       if (cItems.length > 0) {
-        h += '<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 30px;">';
+        h += '<div style="display: flex; flex-direction: column; gap: 35px; align-items: center;">';
         for (var k=0; k<cItems.length; k++) {
           var ci = cItems[k];
-          h += '<a href="'+esc(ci.url)+'" target="_blank" style="display:block; text-decoration:none; color:inherit; background: var(--card); border: 1px solid var(--border); padding: 30px; cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform=\'translateY(-5px)\'" onmouseout="this.style.transform=\'none\'">';
-          h += '<div style="font-family: \'Playfair Display\', serif; font-size: 24px; font-weight: 600; color: var(--text); margin-bottom: 16px;">' + ci.creator_name + '</div>';
-          h += '<div style="font-family: \'Noto Serif KR\', serif; font-size: 15px; line-height: 1.7; color: var(--text); margin-bottom: 20px; border-left: 3px solid var(--acc); padding-left: 16px; font-style: italic;">' + ci.creator_insight + '</div>';
-          h += '<div style="font-size: 12px; font-weight: 700; color: var(--sub); line-height: 1.4;">' + (ci.title_ko || ci.title) + '</div>';
+          var cName = ci.creator_name || 'CREATOR INSIGHT';
+          var cQuote = ci.creator_insight || ci.why || '';
+          
+          h += '<a href="'+esc(ci.url)+'" target="_blank" style="display:block; width:100%; max-width:720px; text-decoration:none; color:inherit; background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 40px 35px; text-align: center; transition: transform 0.25s, box-shadow 0.25s; box-shadow: 0 2px 15px rgba(0,0,0,0.02);" onmouseover="this.style.transform=\'translateY(-4px)\'; this.style.boxShadow=\'0 8px 30px rgba(0,0,0,0.06)\';" onmouseout="this.style.transform=\'none\'; this.style.boxShadow=\'0 2px 15px rgba(0,0,0,0.02)\';">';
+          h += '<div style="font-family: \'Playfair Display\', serif; font-size: 26px; font-weight: 700; color: var(--text); margin-bottom: 14px; text-align:center;">' + cName + '</div>';
+          
+          if (cQuote) {
+            h += '<div style="font-family: \'Noto Serif KR\', serif; font-size: 16px; line-height: 1.8; color: var(--acc); margin: 20px auto; max-width: 620px; font-style: italic; text-align: center; padding: 0 10px;">“ ' + cQuote + ' ”</div>';
+          }
+          
+          h += '<div style="font-size: 13px; font-weight: 600; color: var(--sub); line-height: 1.5; margin-top: 15px; text-align:center;">' + (ci.title_ko || ci.title) + '</div>';
           var dom = ci.domain || ci.thread || '';
-          h += '<div style="font-size: 10px; color: var(--dim); margin-top: 10px; letter-spacing: 1px; text-transform: uppercase;">' + dom + ' · ' + ci.source + '</div>';
-          h += '</div>';
+          h += '<div style="font-size: 11px; color: var(--dim); margin-top: 12px; letter-spacing: 1.5px; text-transform: uppercase; text-align:center;">' + dom + ' · ' + ci.source + '</div>';
+          h += '</a>';
         }
         h += '</div>';
       }
       
       h += '</div>';
-      h += '</div>';
-      h += '<hr style="border: 0; border-top: 1px dashed var(--border); margin-bottom: 80px;">';
+      h += '<hr style="border: 0; border-top: 1px dashed var(--border); margin: 60px 0;">';
     }
   }
   

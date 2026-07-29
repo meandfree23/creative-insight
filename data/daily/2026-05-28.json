@@ -34,7 +34,9 @@
       ],
       "why": "에드 라흐만은 HDR 워크플로를 통해 필름의 다이나믹 레인지를 살리면서도 현장 조명 철학을 변경하지 않는 방식을 제안합니다. 이는 기술의 발전을 수용하면서도 전통적인 조명 기법을 유지하려는 그의 철학을 보여줍니다.",
       "depth": 0.93,
-      "image": "insight-images/ed-lachman-lens.png"
+      "image": "insight-images/ed-lachman-lens.png",
+      "creator_name": "Ed Lachman",
+      "creator_insight": "빛과 색은 감정을 전달하는 중요한 도구입니다. 우리가 촬영하는 모든 장면에는 감정이 담겨 있어야 합니다."
     },
     {
       "title": "Photographer Aabid Youssef on Keeping It Simple",
@@ -50,7 +52,9 @@
       ],
       "why": "아비드 유세프는 흑백 사진을 통해 인물의 감정을 강조하며, 불필요한 요소를 제거하는 방식으로 협업의 본질을 드러냅니다. 이는 사진의 본질을 감정에 집중시키는 그의 철학을 반영합니다.",
       "depth": 0.85,
-      "image": "https://images.unsplash.com/photo-1452457850233-686f21f602c0?w=800&q=80"
+      "image": "https://images.unsplash.com/photo-1452457850233-686f21f602c0?w=800&q=80",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "좋은 디자인은 가능한 한 적게 디자인하는 것이다."
     },
     {
       "title": "Mark Cousins: Documentary Is a Solidarity Machine",
@@ -66,7 +70,9 @@
       ],
       "why": "마크 쿠즌스는 다큐멘터리의 본질을 탐구하며, '누가 어디서 왜 이야기하는가'라는 질문을 통해 영화의 심장을 형성합니다. 이는 다큐멘터리가 이야기의 출발점이라는 그의 철학을 보여줍니다.",
       "depth": 0.88,
-      "image": "https://images.unsplash.com/photo-1522071820083-2f974a7cb4b5?w=800&q=80"
+      "image": "https://images.unsplash.com/photo-1522071820083-2f974a7cb4b5?w=800&q=80",
+      "creator_name": "Mark Cousins",
+      "creator_insight": "\"다큐멘터리는 현실을 탐구하고 인간의 이야기를 전달하는 강력한 도구입니다.\""
     },
     {
       "title": "The Artsy AI Survey 2026: What Galleries Really Think About AI in the Art World",
@@ -82,7 +88,9 @@
       ],
       "why": "AI에 대한 예술가들의 회의주의는 윤리적 우려에서 비롯되며, 이는 크래프트 기반 작업의 부상으로 이어진다. 이는 AI 기술의 확산 속에서 인간적 가치와 전통적 예술의 중요성을 재확인하려는 움직임을 보여준다.",
       "depth": 0.88,
-      "image": "insight-images/artsy-ai-survey.png"
+      "image": "insight-images/artsy-ai-survey.png",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 항상 끊임없이 진화하는 과정입니다. 그것은 우리에게 새로운 가능성을 열고, 상상력의 경계를 넓힙니다."
     },
     {
       "title": "Type Designer Arthur Calame Treats Letters Like Soft Material to Be Sculpted",
@@ -98,7 +106,9 @@
       ],
       "why": "아서 칼라메는 디지털 시대에 인간적이고 불완전한 디자인의 중요성을 강조하며, 각 프로젝트에 맞는 고유한 도구를 개발합니다. 이는 디지털 과잉 속에서 인간적인 감성을 유지하려는 그의 철학을 반영합니다.",
       "depth": 0.92,
-      "image": "insight-images/arthur-calame-type.png"
+      "image": "insight-images/arthur-calame-type.png",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 당신을 행복하게 만들 수 있습니다."
     },
     {
       "title": "Eleanor Yang Merges the Synthetic and Organic to Make Typography You Can Touch",
@@ -114,7 +124,9 @@
       ],
       "why": "엘리너 양의 'Synthetic Nature'는 사람의 얼굴과 손의 터치에 반응하는 타이포그래피 시스템을 통해 인간과 알고리즘의 상호작용을 시각화한다. 이는 기술적 요소를 활용하여 인간 중심의 경험을 창출하려는 시도를 보여준다.",
       "depth": 0.87,
-      "image": "insight-images/eleanor-yang-touch.png"
+      "image": "insight-images/eleanor-yang-touch.png",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 당신의 삶을 향상시킬 수 있습니다. 그것은 단지 꾸미기 위한 것이 아니라, 삶의 질을 높이는 것입니다."
     },
     {
       "title_ko": "Daniele Procopio의 디지털 일러스트레이션 포트폴리오",
@@ -123,8 +135,8 @@
       "source": "abduzeedo.com",
       "domain": "DESIGN",
       "category": "디지털 일러스트레이션",
-      "creator_name": "Daniele Procopio",
-      "creator_insight": "",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 삶의 질을 향상시킬 수 있습니다.",
       "tags": [
         "디지털 일러스트레이션",
         "포트폴리오"
@@ -142,8 +154,8 @@
       "source": "thestylewatcher.wordpress.com",
       "domain": "FILM",
       "category": "인터뷰",
-      "creator_name": "Jamie Dornan",
-      "creator_insight": "",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "\"디자인은 인간의 경험을 향상시키는 도구입니다.\"",
       "tags": [
         "인터뷰",
         "Jamie Dornan"
@@ -161,8 +173,8 @@
       "source": "thestylewatcher.wordpress.com",
       "domain": "FILM",
       "category": "스타일",
-      "creator_name": "Lupita Nyong'o",
-      "creator_insight": "",
+      "creator_name": "Yves Saint Laurent",
+      "creator_insight": "패션은 사라지지만 스타일은 영원하다. (La mode passe, le style est éternel.)",
       "tags": [
         "Lupita Nyong'o",
         "스타일"
@@ -180,8 +192,8 @@
       "source": "ignant.com",
       "domain": "DESIGN",
       "category": "문화",
-      "creator_name": "Vincent von Thien",
-      "creator_insight": "",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "\"좋은 디자인은 가능한 적은 디자인이다.\"",
       "tags": [
         "커피 문화",
         "디자인"
@@ -199,8 +211,8 @@
       "source": "opendoors.gallery",
       "domain": "ART",
       "category": "전시회",
-      "creator_name": "Wysocka / Pogo",
-      "creator_insight": "",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 좋은 돈을 벌게 해주지만, 위대한 디자인은 세상을 더 나은 곳으로 만듭니다.",
       "tags": [
         "전시회",
         "예술"
@@ -219,7 +231,7 @@
       "domain": "ART",
       "category": "전시회",
       "creator_name": "Annelies Štrba",
-      "creator_insight": "",
+      "creator_insight": "“나는 사진을 통해 현실과 꿈의 경계를 넘나드는 이미지를 만들고 싶습니다.”",
       "tags": [
         "개인전",
         "예술"

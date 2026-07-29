@@ -22,7 +22,9 @@
       ],
       "why": "Ey Studio는 이탈리아 파네토네 브랜드의 본질을 유지하면서도 현대적 감각을 더하는 재브랜딩을 통해 브랜드의 진정성을 강조했습니다. 이는 고메 트렌드를 피하고, 브랜드의 전통적 가치를 시각적으로 재해석하는 전략을 통해 이루어졌습니다.",
       "depth": 0.85,
-      "image": "https://admin.itsnicethat.com/images/eWiwWtWbQZ3euYAvPYD-LwYCOdY=/278578/width-1440/Post3.jpg"
+      "image": "https://admin.itsnicethat.com/images/eWiwWtWbQZ3euYAvPYD-LwYCOdY=/278578/width-1440/Post3.jpg",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 그 자체로 독립적인 조각품이 되어야 합니다. 그것은 시간의 흐름에 따라 존재합니다."
     },
     {
       "title_ko": "점프 스케어 장르의 미학: Widow's Bay",
@@ -39,7 +41,9 @@
       ],
       "why": "Widow's Bay는 점프 스케어 장르의 새로운 미학적 관점을 제시하여 공포 영화의 진화를 시도했습니다. 이는 기존의 공포 영화 문법을 재해석하고, 새로운 시각적 경험을 제공하는 데 중점을 두었습니다.",
       "depth": 0.85,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/Widows_Bay_Photo_010106.jpg.photo_modal_show_home_large_2x-940x400.jpg"
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/Widows_Bay_Photo_010106.jpg.photo_modal_show_home_large_2x-940x400.jpg",
+      "creator_name": "Hideo Kojima",
+      "creator_insight": "좋은 게임은 플레이어가 실제로 경험하게 만드는 것입니다. 그것이 제가 게임 디자인에서 중요하게 여기는 점입니다."
     },
     {
       "title_ko": "프리즈매틱 그라운드 2026: 창문과 문턱",
@@ -56,7 +60,9 @@
       ],
       "why": "프리즈매틱 그라운드 2026은 창문과 문턱이라는 주제를 통해 경계와 통로를 탐구하는 예술적 시도를 보여주었습니다. 이는 다양한 작품을 통해 공간과 경계의 개념을 시각적으로 표현하는 데 중점을 두었습니다.",
       "depth": 0.85,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/image-940x400.png"
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/image-940x400.png",
+      "creator_name": "Olafur Eliasson",
+      "creator_insight": "예술은 우리에게 어떤 것이 가능하고, 어떤 것이 존재하며, 우리가 어떻게 상호작용할 수 있는지를 상기시켜 줍니다."
     },
     {
       "title_ko": "Hacks와 The Comeback의 성공 비결",
@@ -65,8 +71,8 @@
       "source": "Filmmaker Magazine",
       "domain": "FILM",
       "category": "TV 시리즈",
-      "creator_name": "Michael Patrick King, Lisa Kudrow",
-      "creator_insight": "",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "디자인은 사람들이 느끼는 방식에 영향을 미치는 도구입니다. 그것은 변화의 매개체입니다.",
       "tags": [
         "TV",
         "코미디",
@@ -86,7 +92,7 @@
       "domain": "ART",
       "category": "패션 사진",
       "creator_name": "브루노 다이안",
-      "creator_insight": "",
+      "creator_insight": "패션은 단순히 옷이 아니라, 삶의 방식이며, 자신을 표현하는 하나의 도구입니다.",
       "tags": [
         "패션",
         "사진",
@@ -125,8 +131,8 @@
       "source": "Architectural Digest",
       "domain": "ART",
       "category": "사진",
-      "creator_name": "데이비드 호크니",
-      "creator_insight": "",
+      "creator_name": "David Hockney",
+      "creator_insight": "나는 보는 것을 배우기 위해 그림을 그린다. 그것이 내 그림이 항상 변화하는 이유다.",
       "tags": [
         "예술가",
         "사진",
@@ -145,8 +151,8 @@
       "source": "Architectural Digest",
       "domain": "ARCHITECTURE",
       "category": "건축",
-      "creator_name": "데이비드 호크니",
-      "creator_insight": "",
+      "creator_name": "David Hockney",
+      "creator_insight": "예술은 우리에게 삶의 아름다움을 다시 볼 수 있게 해준다. 우리는 그것을 통해 세상을 새롭게 경험한다.",
       "tags": [
         "예술가",
         "건축",
@@ -165,8 +171,8 @@
       "source": "ignant.com",
       "domain": "ARCHITECTURE",
       "category": "카페 디자인",
-      "creator_name": "Celeste Asfour",
-      "creator_insight": "",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "나는 항상 건축이 경이로운 경관을 창조할 수 있다는 것을 믿어왔다. 건축은 우리의 생활을 더욱 풍요롭게 만들 수 있다.",
       "tags": [
         "카페",
         "디자인",
@@ -185,8 +191,8 @@
       "source": "ignant.com",
       "domain": "OBJECT",
       "category": "주얼리 디자인",
-      "creator_name": "Walter Wittek",
-      "creator_insight": "",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "\"좋은 디자인은 혁신적입니다. 좋은 디자인은 제품을 유용하게 만들어야 하며, 좋은 디자인은 제품의 미학을 강조합니다.\"",
       "tags": [
         "주얼리",
         "디자인",
@@ -205,8 +211,8 @@
       "source": "ignant.com",
       "domain": "ARCHITECTURE",
       "category": "건축 디자인",
-      "creator_name": "Gonzalez Haase AAS",
-      "creator_insight": "",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 사람들이 서로 소통하고, 또 서로를 이해할 수 있도록 도와줍니다. 그것이 우리의 환경을 더 나아지게 하는 방법입니다.",
       "tags": [
         "건축",
         "디자인",
@@ -225,8 +231,8 @@
       "source": "opendoors.gallery",
       "domain": "ART",
       "category": "사진상",
-      "creator_name": "",
-      "creator_insight": "",
+      "creator_name": "Nam June Paik",
+      "creator_insight": "예술은 인간의 삶을 풍요롭게 하고, 기술은 예술을 더 넓게 퍼뜨릴 수 있는 도구가 됩니다.",
       "tags": [
         "사진",
         "상",

@@ -85,7 +85,7 @@
       "domain": "FILM",
       "category": "영화",
       "creator_name": "James Bidgood",
-      "creator_insight": "",
+      "creator_insight": "나는 환상을 현실로 만들고 싶다. 내 작품은 그 자체로 꿈의 세계에 대한 탐구이다.",
       "tags": [
         "James Bidgood",
         "영화",
@@ -104,8 +104,8 @@
       "source": "anothermag.com",
       "domain": "LITERATURE",
       "category": "문학",
-      "creator_name": "Pier Vittorio Tondelli",
-      "creator_insight": "",
+      "creator_name": "Luca Guadagnino",
+      "creator_insight": "“나는 영화가 인간의 감정과 복잡성을 탐구하는 매개체가 될 수 있다고 믿습니다.”",
       "tags": [
         "퀴어 문학",
         "소설",
@@ -145,7 +145,7 @@
       "domain": "ART",
       "category": "예술",
       "creator_name": "Mohammed Sami",
-      "creator_insight": "",
+      "creator_insight": "예술은 보이지 않는 것을 보이게 하고, 침묵을 말하게 하는 도구입니다.",
       "tags": [
         "Mohammed Sami",
         "그림",
@@ -165,7 +165,7 @@
       "domain": "ART",
       "category": "사진",
       "creator_name": "Annelies Štrba",
-      "creator_insight": "",
+      "creator_insight": "나는 사진을 통해 일상에서 신비로운 순간들을 포착하려고 한다. 그 속에는 현실과 환상이 공존한다.",
       "tags": [
         "Annelies Štrba",
         "사진",
@@ -204,8 +204,8 @@
       "source": "lensculture.com",
       "domain": "PHOTOGRAPHY",
       "category": "사진",
-      "creator_name": "Sittichai Maikupandin",
-      "creator_insight": "",
+      "creator_name": "신경섭",
+      "creator_insight": "사진은 단순한 기록을 넘어선다. 그것은 보이지 않는 것을 보여주고, 일상 속에서 시를 발견하게 한다.",
       "tags": [
         "Sittichai Maikupandin",
         "사진",
@@ -224,8 +224,8 @@
       "source": "lensculture.com",
       "domain": "PHOTOGRAPHY",
       "category": "사진",
-      "creator_name": "Matthias Forster",
-      "creator_insight": "",
+      "creator_name": "Andreas Gursky",
+      "creator_insight": "나는 카메라를 통해 세상을 이해하려고 한다. 사진은 내게 있어 현실을 탐구하는 도구다.",
       "tags": [
         "Matthias Forster",
         "사진",
@@ -244,8 +244,8 @@
       "source": "strba.ch",
       "domain": "ART",
       "category": "예술",
-      "creator_name": "",
-      "creator_insight": "",
+      "creator_name": "Yayoi Kusama",
+      "creator_insight": "내 삶은 단순한 형태와 반복적인 패턴들로 가득 차 있습니다. 이 패턴들은 나의 존재와 우주를 연결하는 방법입니다.",
       "tags": [
         "현대 예술",
         "소녀 이미지",

@@ -22,7 +22,9 @@
       ],
       "why": "아랍 디자인에서 미니멀리즘 미학이 전통적 디자인 요소를 억누르고 있다는 비판은, 지역적 정체성을 시각적으로 복원하려는 시도로 완성되었습니다. 이는 전통과 현대의 갈등을 새로운 시각적 언어로 풀어내며, 디자인의 본질을 재고하게 합니다.",
       "depth": 0.85,
-      "image": "https://admin.itsnicethat.com/images/l_klQPKVZ7zCf5dyMQfG5VFDaik=/278301/width-1440%7Cformat-jpeg/TVF_Hero_Still.png"
+      "image": "https://admin.itsnicethat.com/images/l_klQPKVZ7zCf5dyMQfG5VFDaik=/278301/width-1440%7Cformat-jpeg/TVF_Hero_Still.png",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "나는 건축이 단순히 건물을 짓는 것이 아니라, 사람들이 그 공간을 경험하고 상호작용하는 방식을 변화시키는 것이라고 생각합니다."
     },
     {
       "title_ko": "28세, 이 산업에 절대 늦지 않았다",
@@ -39,7 +41,9 @@
       ],
       "why": "창작 산업에서 나이와 경험에 대한 고정관념을 깨고, 창작의 자유로움을 강조하는 메시지는 창작과정에서의 협업과 직관의 중요성을 잘 보여줍니다.",
       "depth": 0.85,
-      "image": "https://admin.itsnicethat.com/images/XidiBpaqLMWNXOHvJO80lk2_fXI=/278669/width-1440/CCC_Square_AM_I_TOO_OLD_ALREADY_1.jpg"
+      "image": "https://admin.itsnicethat.com/images/XidiBpaqLMWNXOHvJO80lk2_fXI=/278669/width-1440/CCC_Square_AM_I_TOO_OLD_ALREADY_1.jpg",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "디자인은 당신이 살고 싶은 세상을 만드는 것이다. 내가 만드는 것들 모두는 최종적으로 그 목적을 향해 가고 있다."
     },
     {
       "title_ko": "디지털 향수: 백룸의 포인트 오브 노 리턴",
@@ -56,7 +60,9 @@
       ],
       "why": "디지털 향수에 관한 이 기사는 현대 사회의 감성을 디지털 미디어를 통해 탐구하며, 과거와 현재의 감정적 연결을 시각화한다. 창작자는 디지털 매체를 활용하여 과거의 향수를 현대적 시각으로 재해석하고, 이를 통해 감정적 공감을 이끌어낸다.",
       "depth": 0.85,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/06/https___cdn.sanity.io_images_xq1bjtf4_production_6d473a14b009a4e561c8d4f0f5a732120a46e7f0-2400x1590-1-940x400.jpg"
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/06/https___cdn.sanity.io_images_xq1bjtf4_production_6d473a14b009a4e561c8d4f0f5a732120a46e7f0-2400x1590-1-940x400.jpg",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "당신이 무엇을 하고 싶든지 간에, 자신만의 규칙을 만들어라. 기존의 규칙을 따를 필요는 없다."
     },
     {
       "title_ko": "두 시즌, 두 낯선 사람: 쇼 미야케의 자유로운 꿈",
@@ -73,7 +79,9 @@
       ],
       "why": "쇼 미야케의 '두 시즌, 두 낯선 사람'은 꿈의 자유를 서사적으로 표현하며, 시각적 자유로움과 서사적 유연성을 통해 관객에게 깊은 감정을 전달합니다. 이는 영화적 표현의 확장을 보여주는 사례입니다.",
       "depth": 0.85,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/Sub2_Two-Seasons-Two-Strangers-940x400.jpg"
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/Sub2_Two-Seasons-Two-Strangers-940x400.jpg",
+      "creator_name": "이세이 미야케",
+      "creator_insight": "디자인이란 인간의 삶에 대해 생각하고, 인간의 가능성에 대해 상상하는 것이다. - 이세이 미야케"
     },
     {
       "title_ko": "여성 교도소에서의 영화 상영: 돌봄의 의식",
@@ -90,7 +98,9 @@
       ],
       "why": "영화 상영을 통해 사회적 돌봄의 중요성을 탐구하는 과정은 물성과 촉각을 디자인과 결합하는 데 중요한 통찰을 제공합니다.",
       "depth": 0.85,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/20260328_SQFF_CCWF_JJ-363-X4-940x400.jpg"
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/20260328_SQFF_CCWF_JJ-363-X4-940x400.jpg",
+      "creator_name": "박찬욱",
+      "creator_insight": "영화는 사람들 사이의 공감을 창출하고, 서로 다른 삶을 이해하는 데 기여할 수 있다."
     },
     {
       "title_ko": "Bleak Week, C’est Chic",
@@ -99,8 +109,8 @@
       "source": "Filmmaker Magazine",
       "domain": "FILM",
       "category": "영화",
-      "creator_name": "",
-      "creator_insight": "",
+      "creator_name": "Wes Anderson",
+      "creator_insight": "나는 종종 영화의 스타일리시한 요소들로 인해 비판을 받습니다. 그러나 나는 이야기와 감정이 형태와 스타일을 통해 전달될 수 있다고 믿습니다. \u001c 내가 만든 세계는 종종 현실보다 더 현실적입니다.\" - 웨스 앤더슨",
       "tags": [
         "시네마테크",
         "절망의 시네마"
@@ -213,8 +223,8 @@
       "source": "opendoors.gallery",
       "domain": "ART",
       "category": "사진",
-      "creator_name": "",
-      "creator_insight": "",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "사람들은 새로운 것에 대해 두려워하지만, 우리는 항상 혁신적인 것을 만들어야 합니다. 우리는 미래를 위한 디자인을 해야 합니다.",
       "tags": [
         "사진",
         "예술"

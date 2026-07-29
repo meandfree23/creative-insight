@@ -35,7 +35,9 @@
         "창작과정",
         "명상",
         "제작의도"
-      ]
+      ],
+      "creator_name": "Tourmaline",
+      "creator_insight": "내가 만드는 예술은 내 존재와 나의 공동체의 이야기를 세상에 드러내는 방법이다."
     },
     {
       "title": "\"It's All Marketing\": Ed Lachman on HDR, Maria, and Lifetime Achievement",
@@ -52,7 +54,9 @@
         "필름형식",
         "기억과빛",
         "마리아칼라스"
-      ]
+      ],
+      "creator_name": "Ed Lachman",
+      "creator_insight": "영화는 우리에게 새로운 세계를 열어주고, 우리가 그것을 어떻게 해석하느냐에 따라 그 의미가 달라질 수 있습니다. - 에드 래크먼"
     },
     {
       "title": "Cinematography Oscar Nominees on Authenticity and Avoiding VFX",
@@ -69,7 +73,9 @@
         "진정성",
         "필름",
         "VFX거부"
-      ]
+      ],
+      "creator_name": "Roger Deakins",
+      "creator_insight": "영화 촬영은 기본적으로 이야기를 전달하는 방식입니다. 시각적 스타일은 항상 이야기의 필요에 따라야 합니다."
     },
     {
       "title_ko": "FGV Schmidle",
@@ -78,8 +84,8 @@
       "source": "productionparadise.com",
       "domain": "FILM",
       "category": "제작",
-      "creator_name": "",
-      "creator_insight": "",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "\"좋아하는 일을 하면서 돈을 버는 것은 정말 중요합니다. 그렇지 않으면 삶이 너무 짧아서 그저 시간 낭비일 뿐입니다.\"",
       "tags": [
         "영화 제작",
         "기술 전문성"
@@ -97,8 +103,8 @@
       "source": "thestylewatcher.wordpress.com",
       "domain": "DESIGN",
       "category": "패션",
-      "creator_name": "Mikael Jansson",
-      "creator_insight": "",
+      "creator_name": "Anna Wintour",
+      "creator_insight": "패션은 일종의 갑옷입니다. 그것은 당신이 세상에 제시하는 방식입니다. 특히 오늘날과 같은 시대에는 사람들을 무장시키는 데 유용합니다.",
       "tags": [
         "Lupita Nyong’o",
         "Prada",
@@ -117,8 +123,8 @@
       "source": "thestylewatcher.wordpress.com",
       "domain": "DESIGN",
       "category": "패션",
-      "creator_name": "Jason Wu",
-      "creator_insight": "",
+      "creator_name": "Diane von Fürstenberg",
+      "creator_insight": "여성은 자신이 누구인지 아는 것보다 더 아름다울 수 없습니다. 그리고 자신이 누구인지 아는 순간이야말로 가장 강력한 순간입니다.",
       "tags": [
         "Diane Kruger",
         "Hugo Boss",
@@ -137,8 +143,8 @@
       "source": "opendoors.gallery",
       "domain": "ART",
       "category": "사진",
-      "creator_name": "",
-      "creator_insight": "",
+      "creator_name": "Ansel Adams",
+      "creator_insight": "사진의 가장 중요한 부분은 찍히는 대상이 아니라 그 사진을 찍는 사람의 마음이다.",
       "tags": [
         "사진",
         "예술",
@@ -157,8 +163,8 @@
       "source": "opendoors.gallery",
       "domain": "ART",
       "category": "전시",
-      "creator_name": "Sander Coers",
-      "creator_insight": "",
+      "creator_name": "Yinka Ilori",
+      "creator_insight": "예술은 사람들이 세상을 보는 방식을 바꿀 수 있습니다. - Yinka Ilori",
       "tags": [
         "예술",
         "전시회",
@@ -178,7 +184,7 @@
       "domain": "ART",
       "category": "예술가",
       "creator_name": "David Hockney",
-      "creator_insight": "",
+      "creator_insight": "예술은 변화를 통해서만 존재할 수 있습니다. 그것은 당신의 시각을 변화시키는 것입니다. - 데이비드 호크니",
       "tags": [
         "David Hockney",
         "예술",
@@ -197,7 +203,7 @@
       "domain": "ART",
       "category": "예술가",
       "creator_name": "David Hockney",
-      "creator_insight": "",
+      "creator_insight": "예술은 우리를 더 긴장하게 만들고, 새로운 눈으로 보게 합니다. - 데이비드 호크니",
       "tags": [
         "David Hockney",
         "예술",
@@ -215,8 +221,8 @@
       "source": "strba.ch",
       "domain": "ART",
       "category": "전시",
-      "creator_name": "",
-      "creator_insight": "",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "나는 건축이 변화의 매개체가 될 수 있다고 믿습니다. 건축은 사람들에게 영감을 주고 그들의 삶을 더 좋게 만들 수 있습니다.",
       "tags": [
         "예술",
         "전시",
@@ -235,8 +241,8 @@
       "source": "strba.ch",
       "domain": "ART",
       "category": "전시",
-      "creator_name": "",
-      "creator_insight": "",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "\"건축은 사람들을 기쁘게 하고, 감동을 주고, 영감을 줘야 합니다.\"",
       "tags": [
         "예술",
         "탐험",

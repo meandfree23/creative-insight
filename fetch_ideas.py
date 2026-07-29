@@ -41,7 +41,30 @@ def extract_image(entry):
                 return match.group(1)
     return ""
 
+import glob
+
+def load_existing_urls_and_titles():
+    seen_urls = set()
+    seen_titles = set()
+    for p in glob.glob(os.path.join(DAILY_DIR, "*.json")):
+        try:
+            with open(p, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            picks = (data.get("topPicks") or []) + (data.get("popcorn") or []) + (data.get("items") or [])
+            for item in picks:
+                if item.get("url"):
+                    seen_urls.add(item["url"].strip().lower())
+                if item.get("title_ko"):
+                    seen_titles.add(item["title_ko"].strip().lower())
+                if item.get("title"):
+                    seen_titles.add(item["title"].strip().lower())
+        except Exception:
+            pass
+    return seen_urls, seen_titles
+
 def fetch_rss(sources):
+    seen_urls, seen_titles = load_existing_urls_and_titles()
+    batch_seen = set()
     articles = []
     for src in sources:
         name = src.get("name", "Unknown Source")
@@ -52,6 +75,12 @@ def fetch_rss(sources):
         try:
             feed = feedparser.parse(url)
             for entry in feed.entries[:10]: # limit per source
+                link = getattr(entry, "link", "").strip().lower()
+                title = getattr(entry, "title", "").strip().lower()
+                if not link or link in seen_urls or link in batch_seen or title in seen_titles:
+                    continue # DEDUPLICATION SHIELD: Skip already collected articles!
+                batch_seen.add(link)
+                
                 img_url = extract_image(entry)
                 if not img_url:
                     continue # Skip articles without images
@@ -103,8 +132,8 @@ def generate_daily_insight(date_str, articles_subset):
           "source": "(The source name)",
           "domain": "(The source category, e.g., FASHION, ART, FILM, DESIGN, PHOTOGRAPHY)",
           "category": "리뷰",
-          "creator_name": "",
-          "creator_insight": "",
+          "creator_name": "(Name of the real-world creator, artist, designer, or master associated with or inspiring this piece e.g. Yinka Ilori, Faye Toogood, Dieter Rams, Paul Rand, Zaha Hadid, Picasso, Virgil Abloh)",
+          "creator_insight": "(An authentic, real quote or documented core creative philosophy of this actual creator/artist in Korean. Do NOT write generic AI filler phrases. Must be a genuine, inspiring master quote.)",
           "tags": ["(tag1)", "(tag2)", "(tag3)"],
           "execution_techniques": ["(Extract 1-2 precise Visual Taxonomy style hashtags e.g. KineticStructure, Glassmorphism, Neubrutalism, BiophilicForm, SubtractiveSculpture, DigitalEmbossing)"],
           "why": "(Write a compelling Curator View in Korean addressing: 1) Why relevant, 2) Reference perspective, 3) Visual value, 4) Cross-Disciplinary Connection: 다른 도메인/산업으로의 영감 확장 포인트)",
