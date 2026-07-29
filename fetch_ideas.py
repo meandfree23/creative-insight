@@ -140,39 +140,68 @@ def update_manifest(date_str):
             json.dump(manifest, f, indent=2)
 
 import sys
-def main():
-    # Set target date to current KST date
-    kst = datetime.timezone(datetime.timedelta(hours=9))
-    target_date = sys.argv[1] if len(sys.argv) > 1 else datetime.datetime.now(tz=kst).strftime("%Y-%m-%d")
-    
-    # Do not overwrite if already exists
+def process_date(target_date, sources=None):
     out_path = os.path.join(DAILY_DIR, f"{target_date}.json")
     if os.path.exists(out_path):
         print(f"Data for {target_date} already exists. Skipping.")
-        return
+        return True
 
-    sources = load_sources()
+    if sources is None:
+        sources = load_sources()
     all_articles = fetch_rss(sources)
     
     if len(all_articles) < 14:
-        print("Not enough articles fetched!")
-        return
+        print(f"Not enough articles fetched for {target_date}!")
+        return False
     
     random.shuffle(all_articles)
-    
-    # Pick a batch of 40 articles for the AI to choose 14 from
     batch = all_articles[:40]
         
     daily_json = generate_daily_insight(target_date, batch)
     if daily_json:
-        # Ensure directory exists
         os.makedirs(DAILY_DIR, exist_ok=True)
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(daily_json, f, ensure_ascii=False, indent=2)
         print(f"Saved {out_path}")
         update_manifest(target_date)
+        return True
     else:
         print(f"Failed to generate for {target_date}")
+        return False
+
+def main():
+    kst = datetime.timezone(datetime.timedelta(hours=9))
+    today_str = datetime.datetime.now(tz=kst).strftime("%Y-%m-%d")
+    
+    if len(sys.argv) > 1 and sys.argv[1] and sys.argv[1] != "auto":
+        target_date = sys.argv[1]
+        process_date(target_date)
+    else:
+        # Auto mode: check all missing dates up to today
+        with open(MANIFEST_FILE, "r") as f:
+            manifest = json.load(f)
+        existing_dates = set(manifest.get("dates", []))
+        
+        # Check from 2026-07-17 up to today
+        start_date = datetime.date(2026, 7, 17)
+        today_date = datetime.datetime.now(tz=kst).date()
+        
+        missing_dates = []
+        curr = start_date
+        while curr <= today_date:
+            d_str = curr.strftime("%Y-%m-%d")
+            if d_str not in existing_dates or not os.path.exists(os.path.join(DAILY_DIR, f"{d_str}.json")):
+                missing_dates.append(d_str)
+            curr += datetime.timedelta(days=1)
+            
+        if not missing_dates:
+            print(f"All dates up to {today_str} are updated.")
+            return
+            
+        print(f"Found {len(missing_dates)} missing dates: {missing_dates}. Processing in single batch...")
+        sources = load_sources()
+        for d_str in missing_dates:
+            process_date(d_str, sources=sources)
 
 if __name__ == "__main__":
     main()
