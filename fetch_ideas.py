@@ -71,14 +71,24 @@ def generate_daily_insight(date_str, articles_subset):
     print(f"Generating insight for {date_str} with {len(articles_subset)} articles...")
     
     prompt = f"""
-    You are an expert design and art curator. I will provide you with a list of recent articles from various design/art sources.
-    Your task is to select exactly 14 of the most inspiring and unique articles, and create a curated daily insight JSON.
+    You are a world-class design, art, and creative director curator.
+    Your evaluation must follow a strict, systematic scoring formula to select the top 14 articles out of the candidates:
+    
+    Curation Evaluation Formula:
+    Score = (Trustworthiness + Relevance + Timeliness + Visual/Video Quality + Cultural Insight + Originality) - Noise
+    
+    Do NOT sort or select based on simple publication recency. Sort and select the top 14 items strictly by their evaluation score based on the following 5 criteria:
+    1. Relevance & Importance: Why it is relevant to contemporary creators (왜 이 레퍼런스가 중요한지)
+    2. Reference Perspective: What specific style, technique, or cultural perspective it offers (어떤 관점의 레퍼런스인지)
+    3. Visual & Asset Value: Outstanding image/video visual aesthetic worth saving (이미지/영상으로 볼 가치가 높은지)
+    4. Taste Alignment: Alignment with high-end aesthetic taste network (취향 북마크 네트워크와의 밀접성)
+    5. Zeitgeist Value: High value in reading contemporary creative trends and culture (동시대 흐름을 읽는 데 도움이 되는지)
     
     Output strictly in this JSON format:
     {{
       "date": "{date_str}",
-      "focusQ": "Agent's Thought: ... (Write a deep, philosophical thought capturing the zeitgeist of today's curation in Korean, max 3 sentences)",
-      "creator_message": "큐레이터의 메시지: ... (Write a welcoming curator message in Korean)",
+      "focusQ": "Agent's Thought: (Write a deep, philosophical synthesis capturing the contemporary creative zeitgeist in Korean, max 3 sentences)",
+      "creator_message": "큐레이터의 메시지: (Write a welcoming curator message in Korean reflecting today's theme)",
       "session": {{
         "timestamp": "{datetime.datetime.now().isoformat()}",
         "considered": {len(articles_subset)},
@@ -86,19 +96,19 @@ def generate_daily_insight(date_str, articles_subset):
       }},
       "topPicks": [
         {{
-          "title_ko": "(Translate the article title to engaging Korean)",
-          "summary": "(Write a 2-sentence summary in Korean)",
+          "title_ko": "(Translate the article title to engaging, sophisticated Korean)",
+          "summary": "(Write a 2-sentence precise summary in Korean)",
           "url": "(The article's original link)",
           "source": "(The source name)",
-          "domain": "(The source category, e.g., FASHION, ART, FILM)",
+          "domain": "(The source category, e.g., FASHION, ART, FILM, DESIGN, PHOTOGRAPHY)",
           "category": "리뷰",
           "creator_name": "",
           "creator_insight": "",
           "tags": ["(tag1)", "(tag2)", "(tag3)"],
-          "execution_techniques": ["(technique1)"],
-          "why": "(Why is this inspiring? 1 sentence in Korean)",
+          "execution_techniques": ["(technique1)", "(technique2)"],
+          "why": "(Write a compelling Curator View in Korean addressing: 1) Why this is relevant, 2) What reference perspective it provides, 3) Its visual/cultural value)",
           "social_proof": "",
-          "depth": 0.85,
+          "depth": 0.95,
           "image": "(The article's image URL if provided, else empty string)",
           "pub_date": "{date_str}T08:00:00.000000"
         }}
