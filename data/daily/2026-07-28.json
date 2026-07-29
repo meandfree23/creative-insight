@@ -330,5 +330,97 @@
       "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/broz-8.jpg",
       "pub_date": "2026-07-28T08:00:00.000000"
     }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "Touchland와의 Hypebeast Cup 커뮤니티 인터뷰: 당신의 에너지를 위한 바디 스프레이",
+      "summary": "Touchland가 Hypebeast Cup 커뮤니티와 함께 당신의 에너지를 위한 퍼포먼스 바디 스프레이에 대해 논의합니다.",
+      "url": "https://hypebeast.kr/2026/7/touchland-performance-body-spray-hypebeast-cup-football-party-info",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "에너지",
+        "개성"
+      ],
+      "execution_techniques": [
+        "StreetAesthetic",
+        "PopMinimalism"
+      ],
+      "why": "1) 개성적이고 에너지를 높이는 제품, 2) 시각적 및 문화적 가치를 지닌 디자인, 3) 패션과 스포츠의 교차점에서 영감 확장",
+      "depth": 0.5,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Ftouchland-performance-body-spray-hypebeast-cup-football-party-info-0.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title_ko": "코코모코의 촉각적인 베이커리 브랜드 아이덴티티",
+      "summary": "코코모코 베이커리가 따뜻한 공예적 정체성을 가진 브랜드를 새롭게 런칭했습니다.",
+      "url": "https://abduzeedo.com/tactile-bakery-branding-cocomoco-identity-system/",
+      "source": "Abduzeedo",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "브랜딩",
+        "패키징"
+      ],
+      "execution_techniques": [
+        "TactileDesign",
+        "CraftedIdentity"
+      ],
+      "why": "1) 독창적이고 매력적인 패키징, 2) 공예적 정체성의 시각적 매력, 3) 브랜딩과 디자인의 융합으로 영감 제공",
+      "depth": 0.5,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/cocomoco_2.jpg",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title_ko": "FamilyMart의 새로운 힙스터 'FAMIMA': 편의점의 재발견",
+      "summary": "FamilyMart의 새로운 플래그십 스토어는 일본 편의점의 전통을 재해석합니다.",
+      "url": "https://spoon-tamago.com/familymart-new-famima-flagship/?utm_source=rss&utm_medium=rss&utm_campaign=familymart-new-famima-flagship",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "리테일",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "ModernRetail",
+        "HipsterAesthetic"
+      ],
+      "why": "1) 전통적인 편의점을 현대적으로 재해석, 2) 개성 넘치는 디자인의 시각적 가치, 3) 리테일과 문화의 교차점에서 영감 확장",
+      "depth": 0.5,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/07/famima-azabudai-3-200x134.jpeg",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": true
+    },
+    {
+      "word": "촉각적 디자인",
+      "is_hot": true
+    },
+    {
+      "word": "개성적 브랜딩",
+      "is_hot": true
+    },
+    {
+      "word": "현대적 전통 재해석",
+      "is_hot": true
+    }
   ]
 }

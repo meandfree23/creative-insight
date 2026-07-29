@@ -330,5 +330,90 @@
       "image": "https://admin.itsnicethat.com/images/5MdTK3bmTsQfM8P665kQ5axmNZw=/279286/width-1440/LM_FALCONERS_10_retouch.jpg",
       "pub_date": "2026-07-12T08:00:00.000000"
     }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "온리츠카 타이거의 새로운 댄서 슈즈",
+      "summary": "온리츠카 타이거가 새로운 댄서 슈즈, 짐나리나를 선보였습니다. 이 신발은 기존의 스니커와는 다른 독특한 디자인을 자랑합니다.",
+      "url": "https://www.highsnobiety.com/p/onitsuka-tiger-gymnarina-blue/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "스니커즈",
+        "댄서슈즈"
+      ],
+      "execution_techniques": [
+        "StreetAesthetic"
+      ],
+      "why": "1) 독특한 디자인과 브랜드의 대중적 인지도로 바이럴 가능성 높음, 2) 스니커즈 문화와 패션의 교차점, 3) 패션과 퍼포먼스의 융합으로 다른 분야에 영감을 줄 수 있음",
+      "depth": 0.5,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "인터넷과 그 공포를 탐구하는 작가 B.R. 예이거",
+      "summary": "작가 B.R. 예이거는 디지털 스토리텔링과 인터넷의 어두운 면을 탐구합니다. 그의 작품은 기술이 인간에게 미치는 영향을 심도 있게 다루고 있습니다.",
+      "url": "https://www.artribune.com/editoria/2026/07/intervista-scrittore-yeager/",
+      "source": "Artribune",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "디지털스토리텔링",
+        "인터넷"
+      ],
+      "execution_techniques": [
+        "KineticStructure"
+      ],
+      "why": "1) 인터넷과 디지털 미디어의 어두운 면을 다루어 현대 사회의 단면을 보여줌, 2) 시각적이고 서사적인 가치가 크며, 3) 기술과 인문학의 교차점에 위치하여 다양한 영감을 제공함",
+      "depth": 0.5,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/intervista-a.png",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "모텔에서 감성 스테이 리브랜딩, 모키",
+      "summary": "전주의 오래된 모텔이 '모키'라는 이름으로 감성 스테이로 변신했습니다. 새로운 여행 트렌드에 맞춰 공간을 새롭게 재해석했습니다.",
+      "url": "https://www.designtwoply.com/works/commercial/%eb%aa%a8%ed%85%94%ec%97%90%ec%84%9c-%ec%8a%a4%ed%85%8c%ec%9d%b4%eb%a1%9c-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%eb%aa%a8%ed%82%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25aa%25a8%25ed%2585%2594%25ec%2597%2590%25ec%2584%259c-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25eb%25a1%259c-%25eb%25a6%25ac%25eb%25b8%258c%25eb%259e%259c%25eb%2594%25a9-%25eb%25aa%25a8%25ed%2582%25a4",
+      "source": "DesignTwoply",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "리브랜딩",
+        "감성스테이"
+      ],
+      "execution_techniques": [
+        "PopMinimalism"
+      ],
+      "why": "1) 공간 재해석을 통한 새로운 경험 제공으로 주목, 2) 디자인적 가치와 감성적 요소가 결합되었으며, 3) 디자인과 여행 산업의 경계를 허물어 새로운 인사이트 제공",
+      "depth": 0.5,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2025/10/moki-썸네일사이즈.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": false
+    },
+    {
+      "word": "플랫폼 유동성",
+      "is_hot": true
+    },
+    {
+      "word": "경험 기반 디자인",
+      "is_hot": true
+    }
   ]
 }

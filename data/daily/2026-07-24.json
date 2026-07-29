@@ -330,5 +330,101 @@
       "image": "https://www.artribune.com/wp-content/uploads/2026/07/giorgia-lupi-other-stories-3.jpeg",
       "pub_date": "2026-07-24T08:00:00.000000"
     }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "초경량 여성 러닝화, Humtto-X Easy Run",
+      "summary": "Humtto의 새로운 러닝화는 초경량 디자인으로 뛰어난 착용감을 제공합니다.",
+      "url": "https://humtto.vn/giay-chay-bo-the-thao-sieu-nhe-nu-humtto-x-easy-run-370374b/",
+      "source": "Humtto",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "러닝화",
+        "초경량"
+      ],
+      "execution_techniques": [
+        "StreetAesthetic",
+        "PopMinimalism"
+      ],
+      "why": "1) 초경량 디자인으로 바이럴, 2) 혁신적 착용감, 3) 스포츠 패션과 기술 융합",
+      "depth": 0.5,
+      "image": "https://humtto.vn/wp-content/uploads/2026/05/giay-humtto-370374-3.png",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "크리스 데이즈 엘리스의 '지하철의 난초 비'",
+      "summary": "뉴욕 PPOW Gallery에서 전시 중인 크리스 데이즈 엘리스의 작품을 소개합니다.",
+      "url": "https://www.juxtapoz.com/news/graffiti/chris-daze-ellis-orchid-rain-on-the-underground-ppow-gallery-nyc/",
+      "source": "Juxtapoz",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "거리 예술",
+        "전시"
+      ],
+      "execution_techniques": [
+        "StreetAesthetic",
+        "KineticStructure"
+      ],
+      "why": "1) 도시와 예술의 융합으로 바이럴, 2) 시각적 충격, 3) 예술과 도시 문화의 교차점",
+      "depth": 0.5,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/6ea52af46917f156ac0499123960e4de_L.jpg",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "아우디, 신형 플래그십 SUV Q9·SQ9 공개",
+      "summary": "아우디가 새로운 플래그십 SUV 모델 Q9과 SQ9을 공개했습니다.",
+      "url": "https://hypebeast.kr/2026/7/audi-q9-sq9-flagship-suv-features",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "SUV",
+        "자동차"
+      ],
+      "execution_techniques": [
+        "PopMinimalism",
+        "Glassmorphism"
+      ],
+      "why": "1) 새로운 플래그십 모델로 주목, 2) 세련된 디자인, 3) 자동차와 럭셔리 라이프스타일의 융합",
+      "depth": 0.5,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Faudi-q9-sq9-flagship-suv-features-0.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": true
+    },
+    {
+      "word": "지속 가능한 디자인",
+      "is_hot": false
+    },
+    {
+      "word": "경험 경제",
+      "is_hot": true
+    },
+    {
+      "word": "기술과 감성의 융합",
+      "is_hot": true
+    },
+    {
+      "word": "지역 문화의 글로벌화",
+      "is_hot": false
+    }
   ]
 }

@@ -331,5 +331,97 @@
       "image": "https://www.fubiz.net/wp-content/uploads/2022/04/skyglow-1-1536x862.jpg",
       "pub_date": "2026-07-13T08:00:00.000000"
     }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "1970년대 러너 재해석: 나이키 Moon Shoe OG ‘Leather Pack’",
+      "summary": "나이키가 1970년대 러너 디자인을 현대적 감각으로 재해석했습니다.",
+      "url": "https://hypebeast.kr/2026/7/nike-moon-shoe-og-leather-pack-iu3162-600-iu3162-200-official-images",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "나이키",
+        "스니커즈"
+      ],
+      "execution_techniques": [
+        "StreetAesthetic",
+        "PopMinimalism"
+      ],
+      "why": "1) 클래식과 현대의 조화로 스니커즈 팬들에게 인상적입니다. 2) 시각적 매력과 문화적 가치를 동시에 제공합니다. 3) 시대를 초월하는 디자인으로 다양한 분야에 영감을 줍니다.",
+      "depth": 0.5,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2FNike-Moon-Shoe-OG-Leather-Pack-IU3162-600-IU3162-200-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title_ko": "스케어리 무비와 웨이언즈 패러디 제국",
+      "summary": "웨이언즈 형제의 최신 패러디 작품은 코미디 장르의 새로운 경지를 개척합니다.",
+      "url": "https://filmmakermagazine.com/133895-scary-movie-and-the-wayans-spoof-empire/",
+      "source": "Filmmaker Magazine",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "영화",
+        "코미디"
+      ],
+      "execution_techniques": [
+        "MemeWorthy",
+        "CulturalParody"
+      ],
+      "why": "1) 대중문화에 대한 날카로운 통찰력을 제공합니다. 2) 코미디 장르의 혁신적인 접근으로 시각적 및 문화적 가치를 높입니다. 3) 다양한 분야에서 창의적 영감을 불러일으킵니다.",
+      "depth": 0.5,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/scary-movie-6a-940x400.webp",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title_ko": "헤르베르트 호프만 상 2026",
+      "summary": "미라 김은 목금 가네 기법과 거의 잊혀진 기요셰 공정을 혁신적으로 결합한 반지로 수상했습니다.",
+      "url": "https://artaurea.com/2026/herbert-hofmann-preis-2026/",
+      "source": "Art Aurea",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "디자인",
+        "주얼리"
+      ],
+      "execution_techniques": [
+        "CraftRevival",
+        "MetalArtistry"
+      ],
+      "why": "1) 혁신적인 디자인으로 주얼리 업계에서 화제입니다. 2) 전통 기술의 현대적 해석으로 시각적 및 문화적 가치를 제공합니다. 3) 다양한 예술 및 디자인 분야에 영감을 줍니다.",
+      "depth": 0.5,
+      "image": "https://artaurea.com/wp-content/uploads/2026/03/Herbert-Hofmann-Preis-2026_Mira-Kim.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": true
+    },
+    {
+      "word": "문화적 경험 최적화",
+      "is_hot": true
+    },
+    {
+      "word": "크로스오버 디자인",
+      "is_hot": false
+    },
+    {
+      "word": "전통 기술의 현대적 해석",
+      "is_hot": true
+    }
   ]
 }

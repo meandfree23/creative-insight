@@ -307,5 +307,101 @@
       "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-1-700x394.jpg",
       "pub_date": "2026-07-25T08:00:00.000000"
     }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "Nuart Aberdeen 2026: 거리의 시",
+      "summary": "Nuart Aberdeen 2026은 거리 예술을 통해 도시 공간을 새롭게 해석합니다.",
+      "url": "https://www.juxtapoz.com/news/street-art/nuart-aberdeen-2026-poetry-in-the-streets/",
+      "source": "Juxtapoz",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "거리예술",
+        "도시재해석"
+      ],
+      "execution_techniques": [
+        "StreetAesthetic",
+        "UrbanPoetry"
+      ],
+      "why": "1) 거리 예술을 통해 도시 공간을 새롭게 해석하는 바이럴한 시도, 2) 도시 일상에 새로운 이야기를 불어넣는 시각적 가치, 3) 다른 문화적 영역으로의 영감 확장 가능성",
+      "depth": 0.5,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/1393cea878d4e556a989fa24f9c324ac_L.jpg",
+      "pub_date": "2026-07-25T08:00:00.000000"
+    },
+    {
+      "title_ko": "시카고를 빛내는 새로운 Colossal Shop 컬렉션",
+      "summary": "새로운 컬렉션이 지역 문화를 기념하고 지원하는 중요한 시도로 평가받고 있습니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/chicago-makers-collection/",
+      "source": "Colossal",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "지역문화",
+        "예술지원"
+      ],
+      "execution_techniques": [
+        "LocalArtistry",
+        "CulturalCelebration"
+      ],
+      "why": "1) 지역 예술가들과의 협업으로 지역 문화를 기념하는 바이럴 컬렉션, 2) 지역 문화를 지원하는 시각적 가치, 3) 지역사회와의 협력을 통해 다른 분야로의 확장 가능성",
+      "depth": 0.5,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/chicagoitems-33.jpg",
+      "pub_date": "2026-07-25T08:00:00.000000"
+    },
+    {
+      "title_ko": "셸프 라이프 120: 핑크 드링크 산업 복합체",
+      "summary": "핑크 드링크의 산업화는 현대 소비 문화의 한 단면을 보여줍니다.",
+      "url": "https://thedieline.com/shelf-life-120-the-pink-drink-industrial-complex/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "소비문화",
+        "시각적매력"
+      ],
+      "execution_techniques": [
+        "PopMinimalism",
+        "VisualAttraction"
+      ],
+      "why": "1) 핑크 드링크의 시각적 매력을 탐구하는 바이럴 디자인, 2) 소비자에게 영향을 미치는 시각적 가치, 3) 디자인과 소비 문화의 경계 확장",
+      "depth": 0.5,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/pinkdrinkwars.png",
+      "pub_date": "2026-07-25T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": false
+    },
+    {
+      "word": "시각적 경험의 극대화",
+      "is_hot": true
+    },
+    {
+      "word": "지속 가능한 미적 가치",
+      "is_hot": true
+    },
+    {
+      "word": "전통과 현대의 조화",
+      "is_hot": false
+    },
+    {
+      "word": "지역 문화의 재발견",
+      "is_hot": true
+    }
   ]
 }

@@ -307,5 +307,96 @@
       "image": "https://archzine.net/wp-content/uploads/2026/05/batch_extensions-echthaar-2-MAIN.webp",
       "pub_date": "2026-07-14T08:00:00.000000"
     }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "바르셀로나의 거리 예술: 페르난도 알론소에 대한 헌정",
+      "summary": "바르셀로나의 거리 예술가들이 페르난도 알론소를 위한 특별한 벽화를 제작했습니다.",
+      "url": "https://www.streetartbcn.com/tribute-to-fernando-alonso-for-aston-martin-f1-by-fert-one/",
+      "source": "StreetArtBCN",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "거리 예술",
+        "스포츠"
+      ],
+      "execution_techniques": [
+        "StreetAesthetic",
+        "KineticStructure"
+      ],
+      "why": "1) 페르난도 알론소라는 유명 인물과의 연결성, 2) 대중의 관심을 끄는 강력한 비주얼, 3) 예술과 스포츠의 융합으로 인한 영감 확장",
+      "depth": 0.5,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2025/09/Need_to_know_Spain_mural_2.jpg",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "내부 인테리어 디자인의 예술: 럭셔리 가구의 변신",
+      "summary": "럭셔리 가구는 단순한 장식 이상의 의미를 지니며, 우리의 삶과 공간을 변화시킵니다.",
+      "url": "https://italydreamdesign.com/en/the-art-of-interior-design-how-luxury-furniture-transforms-living-spaces/",
+      "source": "Italy Dream Design",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "인테리어 디자인",
+        "럭셔리"
+      ],
+      "execution_techniques": [
+        "PopMinimalism",
+        "Glassmorphism"
+      ],
+      "why": "1) 럭셔리 가구라는 키워드의 대중적 매력, 2) 현대적 인테리어 트렌드와의 연결성, 3) 디자인과 개인 가치 표현의 융합",
+      "depth": 0.5,
+      "image": "https://italydreamdesign.com/wp-content/uploads//ambiente-Svizzera-1024x576.jpg",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    },
+    {
+      "title_ko": "내추럴한 헤어 연장: 자존감을 높이는 비밀",
+      "summary": "자연스러운 헤어 연장은 볼륨과 길이를 원하는 많은 사람들에게 희망을 줍니다.",
+      "url": "https://archzine.net/lifestyle/natuerliche-haarverlaengerung-fuer-mehr-selbstbewusstsein/",
+      "source": "Archzine",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "헤어 스타일",
+        "자존감"
+      ],
+      "execution_techniques": [
+        "KineticStructure"
+      ],
+      "why": "1) 자연스러운 미와 자존감이라는 트렌디한 주제, 2) 개인의 스타일과 건강에 대한 새로운 접근, 3) 뷰티와 라이프스타일의 경계를 넘어선 융합",
+      "depth": 0.5,
+      "image": "https://archzine.net/wp-content/uploads/2026/05/batch_extensions-echthaar-2-MAIN.webp",
+      "pub_date": "2026-07-14T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": true
+    },
+    {
+      "word": "환경과의 상호작용",
+      "is_hot": false
+    },
+    {
+      "word": "전통과 현대의 조화",
+      "is_hot": true
+    },
+    {
+      "word": "개인 가치의 표현",
+      "is_hot": false
+    }
   ]
 }

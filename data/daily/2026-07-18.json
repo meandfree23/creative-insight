@@ -330,5 +330,93 @@
       "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/420_TitleSequence_Final_ProRes-86554-700x394.jpg",
       "pub_date": "2026-07-18T08:00:00.000000"
     }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "색채에 빠진 ChikaBOOM!",
+      "summary": "ChikaBOOM!은 손으로 그린 영혼을 CG 클라우드로 감싸는 단편 영화입니다.",
+      "url": "https://motionographer.com/2026/07/27/practice-makes-magic-the-human-hands-behind-chikaboom/",
+      "source": "Motionographer",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "(영화)",
+        "(애니메이션)"
+      ],
+      "execution_techniques": [
+        "(HandDrawnSoul)",
+        "(CGCloud)"
+      ],
+      "why": "(1) 영화와 애니메이션의 경계를 넘나드는 바이럴 요소, 2) 손으로 그린 영혼과 CG의 결합이 주는 비주얼 충격, 3) 영화, 예술, 기술 간의 융합을 통한 새로운 창작 방식 제시)",
+      "depth": 0.5,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-1-700x394.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "마틴 로즈와의 경계를 넘은 디자인",
+      "summary": "International Magic은 Martine Rose와의 협업을 통해 기술과 디자인의 경계를 확장합니다.",
+      "url": "https://www.itsnicethat.com/articles/international-magic-martine-rose-graphic-design-digital-280726",
+      "source": "It's Nice That",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "(디자인)",
+        "(기술)"
+      ],
+      "execution_techniques": [
+        "(TechDesignFusion)",
+        "(FashionInnovation)"
+      ],
+      "why": "(1) 디자인과 기술의 결합으로 주목받는 바이럴 협업, 2) 혁신적인 디자인 프로젝트의 시각적 가치, 3) 패션과 기술, 예술의 융합을 통한 새로운 경계 확장)",
+      "depth": 0.5,
+      "image": "https://admin.itsnicethat.com/images/HF5DGnkbVe6TpjN8XFo9ZC2qUf0=/280320/width-1440/MRxSSENSE-XX-3.jpeg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "PollenNav로 숨쉬기 좋은 도시 탐험",
+      "summary": "PollenNav 앱은 사람들이 숨쉬기 좋은 경로를 제공합니다.",
+      "url": "https://www.designboom.com/readers/pollennav-mobile-app-city-routes-allergies-yani-shi/",
+      "source": "Designboom",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "(모바일앱)",
+        "(건강)"
+      ],
+      "execution_techniques": [
+        "(UrbanMapping)",
+        "(HealthTech)"
+      ],
+      "why": "(1) 건강과 여행의 교차점에서 새로운 트렌드를 제시하는 바이럴 앱, 2) 도시 탐험과 건강 관리의 결합이 주는 문화적 가치, 3) 기술, 건강, 라이프스타일의 융합을 통한 새로운 사용자 경험 제공)",
+      "depth": 0.5,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/yani-shi-pollennav-mobile-application-routes-allergies-designboom-700-1-500x400-22b08q85r799.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": false
+    },
+    {
+      "word": "인간적 손길의 귀환",
+      "is_hot": true
+    },
+    {
+      "word": "기술과 예술의 경계 흐림",
+      "is_hot": true
+    }
   ]
 }

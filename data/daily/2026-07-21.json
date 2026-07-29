@@ -330,5 +330,97 @@
       "image": "https://media.architecturaldigest.com/photos/6914b3e39f2d309ff56f7477/master/pass/GettyImages-1233319234.jpg",
       "pub_date": "2026-07-21T08:00:00.000000"
     }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "드레이크와 NOCTA 매너: 브랜딩의 예술",
+      "summary": "드레이크는 그의 NOCTA 매너 프로젝트로 브랜드 정체성을 강화하며 창의적인 브랜딩을 선보입니다.",
+      "url": "https://hypebeast.kr/2026/7/nocta-manor-drake-new-jersey-info-merch",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "브랜딩",
+        "패션"
+      ],
+      "execution_techniques": [
+        "StreetAesthetic",
+        "PopMinimalism"
+      ],
+      "why": "1) 드레이크라는 대중적 아이콘의 참여로 높은 바이럴 가능성, 2) 고품질 비주얼과 현대적 패션의 융합, 3) 음악과 패션의 경계를 넘나드는 시너지",
+      "depth": 0.5,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fdrake-000.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "바르셀로나의 그래피티 워크샵: 거리 예술의 혁명",
+      "summary": "역사상 최대의 그래피티 워크샵이 바르셀로나에서 열려 거리 예술의 가능성을 새롭게 열었습니다.",
+      "url": "https://www.streetartbcn.com/the-biggest-graffiti-workshop-in-a/",
+      "source": "Street Art BCN",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "그래피티",
+        "거리예술"
+      ],
+      "execution_techniques": [
+        "KineticStructure",
+        "UrbanArt"
+      ],
+      "why": "1) 대규모 참여로 인한 바이럴 잠재력, 2) 거리 예술의 시각적 혁신, 3) 예술과 커뮤니티의 융합을 통한 사회적 영향력",
+      "depth": 0.5,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2025/07/503347986_18508521787043665_7685227957278570623_n.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "뱅크시 동상: 예술과 도시의 만남",
+      "summary": "뱅크시의 동상이 런던 중심부에 영구 설치될 가능성이 논의되며, 예술의 대중적 매력을 입증하고 있습니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/28/banksy-statue-in-central-london-could-become-permanent-as-westminster-council-deliberates",
+      "source": "The Art Newspaper",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "동상",
+        "대중예술"
+      ],
+      "execution_techniques": [
+        "PopMinimalism",
+        "UrbanArt"
+      ],
+      "why": "1) 뱅크시라는 인지도 높은 예술가의 작품으로 바이럴 잠재력, 2) 도시 공간과 예술의 융합으로 인한 시각적 가치, 3) 예술과 도시 계획의 상호작용",
+      "depth": 0.5,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/9296761518baade5f7b3c03ff1df3afb09e7e087-6024x4024.jpg?w=140",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": true
+    },
+    {
+      "word": "생태적 지속 가능성",
+      "is_hot": false
+    },
+    {
+      "word": "공간의 재발견",
+      "is_hot": true
+    },
+    {
+      "word": "브랜딩의 예술화",
+      "is_hot": true
+    }
   ]
 }
