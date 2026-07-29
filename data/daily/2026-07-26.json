@@ -1,0 +1,357 @@
+{
+  "date": "2026-07-26",
+  "focusQ": "Agent's Thought: 오늘날의 디자인과 예술은 우리의 일상을 영감으로 가득 채우는 방법을 제시합니다. 독특한 시각적 언어와 창의적 표현은 마음의 경계를 넘어 새로움을 탐구하게 만듭니다. 이러한 탐험은 우리에게 삶의 깊이를 더해주는 동시에, 예술을 통해 서로 연결되는 방법을 일깨워줍니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 큐레이션은 일상에서 발견할 수 있는 특별한 순간들을 포착한 기사들로 구성되었습니다. 이러한 이야기들이 여러분에게 새로운 영감과 생각의 출발점이 되기를 바랍니다.",
+  "session": {
+    "timestamp": "2026-07-29T06:05:11.446864",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "Celeste Asfour의 'Strom': 몽환과 놀이가 만나는 계절적 카페",
+      "summary": "이 카페는 꿈같은 분위기와 놀이의 즐거움을 결합한 공간입니다. Celeste Asfour의 혁신적인 접근은 일상의 피로를 잊고 창의성을 자극하는 공간을 제공합니다.",
+      "url": "https://www.ignant.com/2026/04/20/strom-by-celeste-asfour-a-seasonal-cafe-where-reverie-meets-play/",
+      "source": "ignant.com",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "카페",
+        "디자인",
+        "몽환"
+      ],
+      "execution_techniques": [
+        "디자인"
+      ],
+      "why": "Celeste Asfour의 카페는 현대적 디자인과 감각적 경험을 결합하여 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/strom-clemens-poloczek-20-720x1081.jpg",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "Kohei Yamada: 나의 스크린 테스트 @ Gr 갤러리, 뉴욕",
+      "summary": "Kohei Yamada의 전시회는 설치 이미지로 업데이트되었습니다. 그의 작품은 관람객에게 새로운 시각적 경험을 제공합니다.",
+      "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/",
+      "source": "Juxtapoz",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "전시회",
+        "예술",
+        "설치미술"
+      ],
+      "execution_techniques": [
+        "설치"
+      ],
+      "why": "새로운 시각적 경험을 제공하는 Kohei Yamada의 작품은 현대 미술의 진화된 모습을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/feb6fd8d21b05a9d2a007a4aa38955a2_L.jpg",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "흑색 아스팔트와 자작나무 합판으로 형성된 체코 헛간의 콤팩트 피난처",
+      "summary": "이 건축은 농촌 가족의 주거지 내에 계절적 피난처를 제공합니다. 현대적 디자인과 전통적인 재료의 조화가 돋보입니다.",
+      "url": "https://www.designboom.com/architecture/black-asphalt-birch-plywood-compact-retreat-czech-barn-facha-architekti/",
+      "source": "Designboom",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "건축",
+        "디자인",
+        "전통"
+      ],
+      "execution_techniques": [
+        "건축"
+      ],
+      "why": "전통적인 재료와 현대적 설계의 조화는 새로운 공간 활용의 가능성을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/box-barn-retreat-home-black-asphalt-birch-plywood-czech-republic-designboom-700-500x400-22b08q85r278.jpg",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "Trone: 조각적 화장실을 창조하는 브랜드",
+      "summary": "디자인의 마지막 금기를 깨는 화장실 디자인을 선보입니다. Trone의 혁신은 일상적인 사물을 예술적 대상으로 변모시킵니다.",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/trone-toilets-hugo-volpei",
+      "source": "Wallpaper*",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디자인",
+        "화장실",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "디자인"
+      ],
+      "why": "Trone의 접근은 일상의 물건을 혁신적으로 재해석합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/JyXzHvtW6fdSkxMLkjsrhi-1280-80.png",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "사진인문학 02-시간에 관하여",
+      "summary": "이 글은 일본 사진가 나라하라 잇코의 작품과 그의 시간 개념을 탐구합니다. 사진을 통한 시간의 흐름을 깊이 있게 살펴봅니다.",
+      "url": "https://blog.naver.com/sabids/223745538754?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "시간",
+        "인문학"
+      ],
+      "execution_techniques": [
+        "사진"
+      ],
+      "why": "시간의 흐름을 사진으로 담는 예술적 탐구가 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyNTAyMDJfMjE3/MDAxNzM4NTAwMjU3NzM0.SRV54-HyPVcQrpVV0atxuL7ZuB_pphi_zDlAGIhGdegg.3ywHImBJDx7_tkWUvie2PVMaxzeehiQj6FAWB-tvEgUg.JPEG/2013%2C_%C6%C4%B8%AE.jpg?type=s3",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "Damien Aubin: 시간에 멈춘 구 소련 광산 정착지 기록",
+      "summary": "Damien Aubin의 사진집은 과거의 시간에 멈춘 도시를 담고 있습니다. 그의 렌즈로 본 세상은 독특하고 감성적입니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/damien-aubin-pyramiden-photo-book/",
+      "source": "Colossal",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "역사",
+        "구 소련"
+      ],
+      "execution_techniques": [
+        "사진"
+      ],
+      "why": "과거의 시간을 포착하는 Aubin의 사진은 역사적 가치와 미적 감각을 동시에 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/aubin-2.jpg",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "Kohler: 위스콘신에서의 유산, 공예, 예술에 대한 헌신",
+      "summary": "John Michael Kohler Arts Center는 예술가와 지역 사회 간의 창의적인 교류를 지원합니다. 위스콘신의 예술적 풍경을 발견할 수 있습니다.",
+      "url": "https://coolhunting.com/culture/kohler-a-devotion-to-heritage-craft-and-the-arts-in-wisconsin/",
+      "source": "coolhunting.com",
+      "domain": "CULTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "예술",
+        "문화",
+        "공예"
+      ],
+      "execution_techniques": [
+        "공예"
+      ],
+      "why": "지역 사회와 예술가 간의 협력은 지역 문화의 발전을 도모합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/ap.2019.0036-768x542.jpg",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "재택알바, 블로그 수익 인프런 마케팅 파트너스 부업하기",
+      "summary": "블로그 운영과 부업 개념을 결합하여 수익성을 높이는 방법을 탐구합니다. 취미와 수익을 동시에 만족시키는 새로운 기회를 제공합니다.",
+      "url": "https://blog.naver.com/nkj2001/223985751227?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "BUSINESS",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "블로그",
+        "부업",
+        "수익"
+      ],
+      "execution_techniques": [
+        "마케팅"
+      ],
+      "why": "취미와 수익을 동시에 만족시키는 새로운 기회를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyNTA4MjdfMjE1/MDAxNzU2Mjk3Mjc4MjUy.MLSBWZVEbCTKwh7WczYfDps1SDCv5iVNnr7aKGoRG08g.V98J0KtRrxEKp34V9ftfhIXOYCl-0Y3LyDtI4mjuJbkg.PNG/image.png?type=s3",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "Touchland가 Hypebeast Cup 커뮤니티에 묻다: 당신의 에너지와 맞는 ‘Performance Body Spray’는?",
+      "summary": "Touchland는 퍼포먼스 바디 스프레이를 통해 개인의 에너지를 향상시키는 방법을 탐구합니다. 그들의 혁신적인 제품은 현대인의 라이프스타일에 맞춰져 있습니다.",
+      "url": "https://hypebeast.kr/2026/7/touchland-performance-body-spray-hypebeast-cup-football-party-info",
+      "source": "Unknown Source",
+      "domain": "LIFESTYLE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "바디스프레이",
+        "라이프스타일",
+        "에너지"
+      ],
+      "execution_techniques": [
+        "제품 디자인"
+      ],
+      "why": "현대인의 라이프스타일에 맞춘 혁신적인 제품을 소개합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Ftouchland-performance-body-spray-hypebeast-cup-football-party-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "Melt: 아이스크림 통로에서 혀를 내밀다",
+      "summary": "Melt는 아이스크림 패키지 디자인을 통해 독창성과 재미를 더한 새로운 경험을 제공합니다. 그들의 발랄한 접근은 소비자의 시선을 사로잡습니다.",
+      "url": "https://thedieline.com/melt-sticks-its-tongue-out-at-the-ice-cream-aisle/",
+      "source": "The Dieline",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "아이스크림",
+        "패키지 디자인",
+        "독창성"
+      ],
+      "execution_techniques": [
+        "디자인"
+      ],
+      "why": "독창적인 패키지 디자인은 소비자들에게 시각적 즐거움을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/f47b0e252200959.6a4965eae22dd.png",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "Bar Muntanya",
+      "summary": "Bar Muntanya는 단순한 식사 장소를 넘어서, 풍부한 경험을 제공하는 공간입니다. 독창적인 인테리어와 요리의 조화가 돋보입니다.",
+      "url": "https://www.behance.net/gallery/228769687/Bar-Muntanya",
+      "source": "Behance",
+      "domain": "INTERIOR",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "인테리어",
+        "레스토랑",
+        "경험"
+      ],
+      "execution_techniques": [
+        "인테리어 디자인"
+      ],
+      "why": "공간의 독창성과 요리의 예술적 표현이 조화를 이룹니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/481d05228769687.Y3JvcCwxMzA5LDEwMjQsMTY1LDA.png",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "Collier Schorr의 발레적 오마주, 샹탈 애커만에게",
+      "summary": "Collier Schorr는 샹탈 애커만의 작품을 발레로 재해석하여 독특한 예술적 경험을 제공합니다. 이 작품은 영화와 무용의 경계를 허물며 새로운 예술적 가능성을 탐구합니다.",
+      "url": "https://www.anothermag.com/art-photography/17336/collier-schorr-interview-chantal-akerman-je-ti-il-elle?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=collier-schorr-s-balletic-homage-to-chantal-akerman",
+      "source": "anothermag.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "발레",
+        "영화",
+        "예술"
+      ],
+      "execution_techniques": [
+        "무용"
+      ],
+      "why": "영화와 무용을 결합한 독창적인 표현이 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476128.jpeg",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "Reflecting New York - 거리 사진의 놀라운 변주",
+      "summary": "사진작가 Stefan Falke는 거울을 사용해 뉴욕의 거리 장면을 새로운 시각으로 포착합니다. 그의 작품은 일상적인 장면을 새롭게 재해석합니다.",
+      "url": "https://www.lensculture.com/articles/stefan-falke-reflecting-new-york-a-brilliant-twist-on-street-photography",
+      "source": "lensculture.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "거리사진",
+        "뉴욕",
+        "재해석"
+      ],
+      "execution_techniques": [
+        "사진"
+      ],
+      "why": "거울을 사용한 독특한 시각적 접근이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.lensculture.com/image/4ccc3dad-02f6-4d61-1893-9484e7c1a300/large",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "Il Pakistan torna alla Biennale di Venezia per raccontare il Punjab",
+      "summary": "파키스탄은 베니스 비엔날레에서 펀자브 지역의 이야기를 담은 전시를 선보입니다. 큐레이터와 아티스트의 인터뷰를 통해 이 전시의 깊이를 탐구합니다.",
+      "url": "https://www.artribune.com/dal-mondo/2026/07/intervista-curatrice-artista-padiglione-pakistan-biennale-2026/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "비엔날레",
+        "파키스탄",
+        "펀자브"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "펀자브의 예술적 이야기를 담은 전시가 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/4detail-faiza-buttphantasmagoric-22022-23oil-on-board48x96.jpg",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    },
+    {
+      "title_ko": "Moki: 모텔에서 감성 스테이 리브랜딩",
+      "summary": "전주의 오래된 모텔을 감성 스테이 공간으로 리브랜딩한 사례를 소개합니다. 여행객들에게 새로운 경험을 제공할 수 있는 공간으로 탈바꿈했습니다.",
+      "url": "https://www.designtwoply.com/works/commercial/%eb%aa%a8%ed%85%94%ec%97%90%ec%84%9c-%ec%8a%a4%ed%85%8c%ec%9d%b4%eb%a1%9c-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%eb%aa%a8%ed%82%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25aa%25a8%25ed%2585%2594%25ec%2597%2590%25ec%2584%259c-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25eb%25a1%259c-%25eb%25a6%25ac%25eb%25b8%258c%25eb%259e%259c%25eb%2594%25a9-%25eb%25aa%25a8%25ed%2582%25a4",
+      "source": "Unknown Source",
+      "domain": "INTERIOR",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "모텔",
+        "리브랜딩",
+        "감성"
+      ],
+      "execution_techniques": [
+        "인테리어 디자인"
+      ],
+      "why": "낡은 공간을 새롭게 변화시킨 리브랜딩 사례가 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2025/10/moki-썸네일사이즈.jpg",
+      "pub_date": "2026-07-26T08:00:00.000000"
+    }
+  ]
+}
