@@ -1,0 +1,311 @@
+{
+  "date": "ver.1",
+  "focusQ": "에이전트의 생각: 창의적 경향과 이종분야의 시너지를 이해하는 것은 오늘날의 문화적 흐름을 읽는 데 필수적입니다. 현대 예술은 다분야의 경계를 허물며, 새로운 영감을 창출하고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘 우리는 경계를 넘어서는 창의적 탐험을 환영합니다. 다양한 문화적, 예술적 관점을 통해 새로운 시각을 발견해봅시다.",
+  "session": {
+    "timestamp": "2026-07-29T06:17:36.105442",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "나비에의 전기 하이드로포일 - 몰디브로의 무탄소 해상여행",
+      "summary": "미국의 전기 하이드로포일 제조업체 나비에가 몰디브에 무탄소 해상 네트워크를 구축하려는 계획을 소개합니다. 이는 섬나라가 화석 연료에서 벗어나는 데 중요한 역할을 할 것으로 기대됩니다.",
+      "url": "https://www.wallpaper.com/transportation/navier-all-electic-hydrofoils-maldives",
+      "source": "Wallpaper*",
+      "domain": "TRANSPORTATION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Sustainability",
+        "Innovation",
+        "Nautical"
+      ],
+      "execution_techniques": [
+        "BiophilicDesign"
+      ],
+      "why": "환경적인 지속 가능성을 추구하는 현대 사회에서 필수적인 요소로, 전기 하이드로포일 기술은 해양 여행을 혁신적으로 변화시킬 수 있습니다. 이는 교통수단의 미래를 제시하며, 다른 산업에도 지속 가능한 발전의 방향성을 제시할 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/Yxrih2StVHwPW7J9YK4L4B-1280-80.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "클라라 베르곤드: 알프스 신화와 불 치유를 패션 일러스트로",
+      "summary": "프랑스 일러스트레이터 클라라 베르곤드가 알프스의 신화와 불 치유를 고급 패션 일러스트로 표현합니다. 그녀는 산의 마법과 그녀가 그리는 '자매들'을 통해 독특한 예술적 자부심을 드러냅니다.",
+      "url": "https://www.creativeboom.com/inspiration/how-clara-bergond-turns-alpine-folklore-and-fire-healing-into-dreamlike-high-fashion-illustration/",
+      "source": "Creative Boom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Illustration",
+        "Folklore",
+        "Fashion"
+      ],
+      "execution_techniques": [
+        "DreamlikeRealism"
+      ],
+      "why": "현대 패션과 예술의 경계를 넘나드는 작품으로, 전통적인 신화를 현대적 시각으로 재해석합니다. 이는 패션 산업뿐만 아니라 문화 예술 분야 전반에 걸쳐 새로운 영감을 주는 작품입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.creativeboom.com/upload/articles/a1/a1dec0f4c8010da893aae47e89e88cc95857cf8d_840.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "프랭크 게리의 구겐하임 아부다비, 2026년 12월 개관",
+      "summary": "프랭크 게리가 설계한 구겐하임 아부다비가 2026년 12월 사디야트 섬에 개관합니다. 오랜 계획과 건설 끝에 마침내 문을 여는 이 박물관은 새로운 문화적 랜드마크가 될 것입니다.",
+      "url": "https://www.designboom.com/architecture/frank-gehry-guggenheim-abu-dhabi-saadiyat-island-december-2026/",
+      "source": "Designboom",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Architecture",
+        "CulturalLandmark",
+        "FrankGehry"
+      ],
+      "execution_techniques": [
+        "Deconstructivism"
+      ],
+      "why": "현대 건축의 거장 프랭크 게리가 설계한 이 박물관은 글로벌 예술과 문화의 허브로서 중요한 역할을 할 것입니다. 이는 건축뿐만 아니라 예술, 문화 전반에 걸쳐 강력한 영향을 미칠 것입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/frank-gehry-guggenheim-abu-dhabi-saadiyat-island-december-2026-designboom-700-1-500x400-22b08q85r796.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "전통과 현대의 조화: 코코모코의 촉각적 베이커리 브랜딩",
+      "summary": "코코모코 스튜디오는 테라코타 포장을 통해 따뜻하고 예술적인 베이커리 정체성을 구축합니다. 전략적인 브랜딩으로 전통과 현대를 조화롭게 결합하였습니다.",
+      "url": "https://abduzeedo.com/tactile-bakery-branding-cocomoco-identity-system/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Branding",
+        "Artisanal",
+        "Design"
+      ],
+      "execution_techniques": [
+        "TactileDesign"
+      ],
+      "why": "전통적인 소재와 현대 디자인의 조화로, 브랜드 아이덴티티의 새로운 패러다임을 제시합니다. 이는 디자인뿐만 아니라 소비자 경험에도 신선한 관점을 제공할 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/cocomoco_2.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "타이포그래피의 새로운 경지: 호니먼 박물관의 맞춤형 서체",
+      "summary": "호니먼 박물관은 그들의 컬렉션과 정원에서 영감을 받아 독창적인 서체를 개발했습니다. 이 프로젝트는 그래픽 디자인의 새로운 가능성을 열었습니다.",
+      "url": "https://www.itsnicethat.com/articles/anatomy-horniman-museum-graphic-design-project-230726",
+      "source": "It's Nice That",
+      "domain": "GRAPHIC DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Typography",
+        "Museum",
+        "GraphicDesign"
+      ],
+      "execution_techniques": [
+        "CustomTypeface"
+      ],
+      "why": "타이포그래피와 박물관의 융합을 통해 새로운 그래픽 디자인의 장을 열었습니다. 이는 디자인과 문화유산 보호의 교차점에서 새로운 영감을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/V_ryxGqUmyplKx6uTi4h4-w1uog=/280280/width-1440/Horniman_Anatomy_Tote.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "아크로 리스본 2026: 아트 페어 연간 리뷰",
+      "summary": "아크로 리스본 아트 페어는 독립 출판 및 사진작가를 위한 세계적인 모임입니다. 이 행사에서는 사진작가, 출판사, 수집가들이 한자리에 모여 새로운 트렌드를 공유합니다.",
+      "url": "https://veryprivategallery.com/arco-lisbon-art-fair/",
+      "source": "Very Private Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "ArtFair",
+        "Photography",
+        "Publishing"
+      ],
+      "execution_techniques": [
+        "ArtNetworking"
+      ],
+      "why": "글로벌 예술 네트워크의 중심 역할을 하며, 다양한 창작자들에게 창작의 영감을 제공합니다. 이는 예술뿐만 아니라 출판 및 컬렉션 산업에도 새로운 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2024/06/Arco-lisboa-Art-fair-week-lisbon.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "지속 가능성을 추구하는 런던 건축가의 집",
+      "summary": "드레이퍼 스튜디오의 남런던 건축가는 새로운 디자인과 건축에 대한 사고를 탐구합니다. 이 집은 지속 가능한 소재와 구조에 집중하여 환경 친화적인 디자인을 실현합니다.",
+      "url": "https://www.wallpaper.com/architecture/residential/an-architects-house-draper-studio-london-uk",
+      "source": "Wallpaper*",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "SustainableArchitecture",
+        "Innovation",
+        "Design"
+      ],
+      "execution_techniques": [
+        "EcoFriendlyDesign"
+      ],
+      "why": "환경 지속 가능성을 강조한 건축으로, 디자인과 건축 분야에 새로운 표준을 제시합니다. 이는 건축뿐만 아니라 환경 보호에 대한 인식을 높이는 데 기여할 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/9BjuB88VSFaKNvhEKrXHqD-1280-80.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "폭탄의 상흔이 벽을 다시 바위로: 작가 파벨 로츠",
+      "summary": "파벨 로츠는 전쟁의 건축을 등반 가능한 지도처럼 표현합니다. 그의 작품은 전시 건축의 파편을 밝은 수지로 전환하여 집단적 상실을 탐구합니다.",
+      "url": "https://www.designboom.com/art/bomb-scars-wall-rock-artist-pavel-rotts-war-climbing-play/",
+      "source": "Designboom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "WarArt",
+        "Climbing",
+        "Sculpture"
+      ],
+      "execution_techniques": [
+        "InteractiveArt"
+      ],
+      "why": "전쟁과 평화의 주제를 예술적으로 해석하여, 관람자에게 강렬한 메시지를 전달합니다. 이는 예술과 사회적 메시지의 경계를 넘나드는 작품으로, 많은 이들에게 깊은 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/pavel-rotts-climbing-a-memory-helsinki-designboom-701-500x400-22b08q85r210.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "클라라 베르곤드: 알프스 신화와 불 치유를 패션 일러스트로",
+      "summary": "프랑스 일러스트레이터 클라라 베르곤드가 알프스의 신화와 불 치유를 고급 패션 일러스트로 표현합니다. 그녀는 산의 마법과 그녀가 그리는 '자매들'을 통해 독특한 예술적 자부심을 드러냅니다.",
+      "url": "https://www.creativeboom.com/inspiration/how-clara-bergond-turns-alpine-folklore-and-fire-healing-into-dreamlike-high-fashion-illustration/",
+      "source": "Creative Boom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Illustration",
+        "Folklore",
+        "Fashion"
+      ],
+      "execution_techniques": [
+        "DreamlikeRealism"
+      ],
+      "why": "현대 패션과 예술의 경계를 넘나드는 작품으로, 전통적인 신화를 현대적 시각으로 재해석합니다. 이는 패션 산업뿐만 아니라 문화 예술 분야 전반에 걸쳐 새로운 영감을 주는 작품입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.creativeboom.com/upload/articles/a1/a1dec0f4c8010da893aae47e89e88cc95857cf8d_840.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "아이디어 No.412",
+      "summary": "아이디어 매거진의 최신 호가 발행되었습니다. 다양한 시각적 영감과 디자인 트렌드를 제시합니다.",
+      "url": "https://www.idea-mag.com/idea_magazine/no-412/",
+      "source": "IDEA Magazine",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Design",
+        "Magazine",
+        "Trends"
+      ],
+      "execution_techniques": [
+        "EditorialDesign"
+      ],
+      "why": "최신 디자인 트렌드와 시각적 영감을 제공하는 중요한 자료입니다. 이는 디자이너뿐만 아니라 창의적인 사고를 촉진하는 다양한 분야에 도움이 될 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2025/12/be061351eef2b0680d3a58d67663246d-2-550x726.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "잭 쿨터, 엘튼 존과 에이미 와인하우스를 추상화로 번역하다",
+      "summary": "잭 쿨터는 엘튼 존과 에이미 와인하우스의 음악을 추상화로 표현합니다. 그의 작품들은 음악과 시각 예술의 경계를 허물며 새로운 감성을 제공합니다.",
+      "url": "https://hypebeast.kr/2026/7/jack-coulter-with-every-light-and-with-every-song-exhibition-winsor-birch",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "AbstractArt",
+        "Music",
+        "Exhibition"
+      ],
+      "execution_techniques": [
+        "MusicTranslation"
+      ],
+      "why": "음악과 시각 예술의 경계를 넘나드는 작품으로, 다양한 감각을 통해 색다른 예술적 경험을 제공합니다. 이는 예술과 음악의 융합을 촉진하며, 새로운 창작물을 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fjack-coulter-with-every-light-and-with-every-song-exhibition-winsor-birch-0.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "투명한 메커니즘: 코쿠요의 새로운 컬렉션",
+      "summary": "코쿠요는 투명한 메커니즘을 통해 그들의 엔지니어링을 공개합니다. 이 컬렉션은 기능성과 디자인의 조화로운 결합을 보여줍니다.",
+      "url": "https://spoon-tamago.com/kokuyo-transparent-mechanism/?utm_source=rss&utm_medium=rss&utm_campaign=kokuyo-transparent-mechanism",
+      "source": "Spoon & Tamago",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Engineering",
+        "Transparency",
+        "Design"
+      ],
+      "execution_techniques": [
+        "TransparentDesign"
+      ],
+      "why": "투명한 디자인을 통해 기능성과 미학을 결합하며, 디자인과 공학의 경계를 허물고 있습니다. 이는 다양한 분야에서 창의적인 발상을 유도할 수 있는 중요한 작품입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/07/KOKUYO-Transparent-Mechanism-6-200x134.jpeg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "모션그래퍼 20주년: 이것은 우리 모두의 것입니다",
+      "summary": "모션그래퍼는 20년의 작업, 아이디어, 논쟁, 우정, 영감을 기념합니다. 이 플랫폼은 창조적 커뮤니티의 새로운 시작을 알립니다.",
+      "url": "https://motionographer.com/2026/07/27/motionographer-at-20-this-belongs-to-all-of-us/",
+      "source": "Unknown Source",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "Anniversary",
+        "Community",
+        "Creativity"
+      ],
+      "execution_techniques": [
+        "CommunityBuilding"
+      ],
+      "why": "20년 동안 창의적 커뮤니티의 중심에서 작동해온 플랫폼으로, 다양한 창작자들의 교류와 영감을 촉진합니다. 이는 영화뿐만 아니라 모든 창작 분야에 걸쳐 창의적 협업을 촉진할 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/20Y_CINEMATIC_EDITABLE_4K-0-00-07-58-700x394.png",
+      "pub_date": "ver.1T08:00:00.000000"
+    }
+  ]
+}
