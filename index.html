@@ -627,15 +627,29 @@ function renderCreatorsInsight() {
 
 function renderPopcorn() {
   var h = '<div style="max-width:1200px; margin: 40px auto; padding: 0 40px;">';
+  var seenUrls = {};
+  var seenTitles = {};
   
   for (var i=0; i<DATA.history.length; i++) {
     var entry = DATA.history[i];
-    var pItems = entry.popcorn || [];
-    if (!pItems || pItems.length === 0) {
+    var rawItems = entry.popcorn || [];
+    if (!rawItems || rawItems.length === 0) {
       var picks = entry.topPicks || entry.items || [];
-      pItems = picks.filter(function(p) {
+      rawItems = picks.filter(function(p) {
         return (p.domain === 'POPCORN' || p.category === '바이럴' || (p.tags && p.tags.indexOf('바이럴') !== -1) || p.depth <= 0.75);
-      }).slice(0, 3);
+      });
+    }
+    
+    var pItems = [];
+    for (var m=0; m<rawItems.length; m++) {
+      var item = rawItems[m];
+      var uKey = (item.url || '').trim().toLowerCase();
+      var tKey = (item.title_ko || item.title || '').trim().toLowerCase();
+      if (uKey && seenUrls[uKey]) continue;
+      if (tKey && seenTitles[tKey]) continue;
+      if (uKey) seenUrls[uKey] = true;
+      if (tKey) seenTitles[tKey] = true;
+      pItems.push(item);
     }
     
     if (pItems.length > 0) {
