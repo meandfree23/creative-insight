@@ -77,7 +77,7 @@ def generate_daily_insight(date_str, articles_subset):
     Output strictly in this JSON format:
     {{
       "date": "{date_str}",
-      "focusQ": "Agent's Thought: [마인드 마이닝] ... (Write a deep, philosophical thought capturing the zeitgeist of today's curation in Korean, max 3 sentences)",
+      "focusQ": "Agent's Thought: ... (Write a deep, philosophical thought capturing the zeitgeist of today's curation in Korean, max 3 sentences)",
       "creator_message": "큐레이터의 메시지: ... (Write a welcoming curator message in Korean)",
       "session": {{
         "timestamp": "{datetime.datetime.now().isoformat()}",

@@ -57,14 +57,7 @@ jobs:
             cp /tmp/$FILENAME data/daily/$FILENAME
             
             # Rebuild manifest.json dynamically
-            cat << 'EOF' > rebuild.py
-            import os, json
-            dates = sorted([f.replace(".json", "") for f in os.listdir("data/daily") if f.endswith(".json")], reverse=True)
-            with open("data/manifest.json", "w") as f:
-                json.dump({"dates": dates}, f, indent=2)
-            EOF
-            python3 -c "import textwrap; exec(textwrap.dedent(open('rebuild.py').read()))"
-            rm rebuild.py
+            python3 -c "import os, json; json.dump({'dates': sorted([f.replace('.json', '') for f in os.listdir('data/daily') if f.endswith('.json')], reverse=True)}, open('data/manifest.json', 'w'), indent=2)"
             git add data/
             if git diff --staged --quiet; then
               echo "No changes to commit."
