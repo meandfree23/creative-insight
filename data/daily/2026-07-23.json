@@ -1,0 +1,334 @@
+{
+  "date": "2026-07-23",
+  "focusQ": "Agent's Thought: 오늘날의 예술과 디자인은 경계를 허물고 새로운 가능성을 탐구하고 있습니다. 이들은 우리의 일상 속에서 숨겨진 아름다움과 의미를 발견하게 해줍니다. 끊임없는 변화 속에 예술은 우리에게 영감을 주고 새로운 방향을 제시합니다.",
+  "creator_message": "큐레이터의 메시지: 안녕하세요, 오늘의 큐레이션을 통해 다양한 예술과 디자인의 세계를 탐험해보세요. 각 작품과 기사는 고유의 이야기를 담고 있으며, 여러분의 창의력을 자극할 것입니다.",
+  "session": {
+    "timestamp": "2026-07-29T06:05:13.266195",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "의심으로 가득한 시기? 좋습니다",
+      "summary": "현재의 혼란스러운 세상 속에서 우리는 종종 불확실성을 느낍니다. 그러나 이러한 의심은 새로운 시각을 발견할 수 있는 기회를 제공할 수 있습니다.",
+      "url": "https://designobserver.com/wracked-with-doubt-good/",
+      "source": "Design Observer",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "불확실성",
+        "창의성",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "철학적 탐구"
+      ],
+      "why": "이 기사는 불확실성 속에서도 창의성을 발견할 수 있는 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://designobserver.com/wp-content/uploads/2026/06/f74c0862-d89c-73c3-33f8-d6c73568d083-1.png",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "형식의 어휘: 조각가 베로니카 자노벡과의 집에서",
+      "summary": "조각가 베로니카 자노벡의 작업실을 통해 그녀의 독특한 형식의 언어를 탐구합니다. 그녀의 작품은 공간과 형태의 새로운 해석을 제공합니다.",
+      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
+      "source": "ignant.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "조각",
+        "형식",
+        "독창성"
+      ],
+      "execution_techniques": [
+        "공간 해석"
+      ],
+      "why": "베로니카 자노벡의 조각은 공간과 형태에 대한 새로운 시각을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "디프 문화: 차이의 세계에서",
+      "summary": "디핑이라는 숨겨진 세계에서, 공동체는 그들의 열정 안에서 위안을 찾고, 개인적인 고난을 극복해 나갑니다. 이 다큐멘터리는 그들의 이야기를 전합니다.",
+      "url": "https://vimeo.com/channels/staffpicks/1210585745",
+      "source": "Unknown Source",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "다큐멘터리",
+        "공동체",
+        "문화"
+      ],
+      "execution_techniques": [
+        "스토리텔링"
+      ],
+      "why": "이 다큐멘터리는 공동체의 힘과 개인의 고난 극복 과정을 감동적으로 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://i.vimeocdn.com/video/2182382825-6564f15f5f983463911e28ee3e4087bf2dce4d0e1c00d6fe30b2d1156de7c34f-d_960?region=us",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "창조에 중독된 사람들: OFFF 바르셀로나 2026에서의 오누르 센투르크",
+      "summary": "기술과 AI에 대한 대화 대신, 창조의 강박과 인간의 본질에 대한 논의가 펼쳐집니다. 오누르 센투르크와의 인터뷰를 통해 그가 창조에 대해 어떻게 생각하는지 알아봅니다.",
+      "url": "https://motionographer.com/2026/07/13/addicted-to-creation-onur-senturk-at-offf-barcelona-2026/",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "창조성",
+        "인터뷰",
+        "예술가"
+      ],
+      "execution_techniques": [
+        "심층 인터뷰"
+      ],
+      "why": "오누르 센투르크의 창조에 대한 통찰은 새로운 창의적 접근을 제안합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/trim2OnurSenturk-AmnestyInternational-Pens-ezgif.com-optimize.gif",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "Sophia Huitema '프러시안 블루' 하퍼의 아파트에서",
+      "summary": "Sophia Huitema의 '프러시안 블루'는 하퍼의 아파트에서 열리는 전시회에서 그녀의 독창적인 작품을 소개합니다. 그녀의 예술적 탐험은 색채와 감정의 깊이를 탐구합니다.",
+      "url": "https://www.juxtapoz.com/news/painting/sophia-huitema-prussian-blue-harper-s-apartment/",
+      "source": "Juxtapoz",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "색채",
+        "감정",
+        "회화"
+      ],
+      "execution_techniques": [
+        "전시 기획"
+      ],
+      "why": "Sophia Huitema의 작품은 색채를 통해 감정의 깊이를 전달합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/97776c38dce98abea2513551eb017d69_L.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "Acne Studios, 아오야마 플래그십 스토어 첫 기념일을 축하하다",
+      "summary": "Apollinaria Broche와 함께한 Acne Studios의 아오야마 플래그십 스토어 첫 기념일을 기념하는 행사. 패션과 예술이 결합된 이 기념일은 독특한 스타일을 선보입니다.",
+      "url": "https://www.adfwebmagazine.jp/en/design/acne-studios-aoyama-apollinaria-broche-anniversary/",
+      "source": "ADF Web Magazine",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "패션",
+        "기념일",
+        "스타일"
+      ],
+      "execution_techniques": [
+        "이벤트 기획"
+      ],
+      "why": "패션과 예술의 교차점을 보여주는 기념일 행사는 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-acne-studio-5-225x300.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "아르티스트와 디자이너의 독창적인 비전",
+      "summary": "비첸차에서 열리는 전시회에서는 아르티스트와 디자이너의 독창적인 비전을 탐구합니다. 그들의 작품은 사회적, 정치적 메시지를 전달합니다.",
+      "url": "https://www.artribune.com/arti-visive/2026/07/giorgia-lupi-gallerie-ditalia-vicenza/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "독창성",
+        "사회적 메시지",
+        "전시회"
+      ],
+      "execution_techniques": [
+        "사회적 탐구"
+      ],
+      "why": "이 전시회는 예술을 통해 사회적 메시지를 전달하는 방법을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/giorgia-lupi-other-stories-3.jpeg",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "무한한 공허함 - 다이스케 타지마의 불안한 미래",
+      "summary": "다이스케 타지마의 '무한한 공허함'은 불안한 미래의 공포를 포착합니다. 그의 작품은 도시의 풍경을 통해 미래에 대한 불안감을 표현합니다.",
+      "url": "https://spoon-tamago.com/daisuke-tajima-infinite-emptiness/?utm_source=rss&utm_medium=rss&utm_campaign=daisuke-tajima-infinite-emptiness",
+      "source": "Spoon & Tamago",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "미래",
+        "불안",
+        "도시 풍경"
+      ],
+      "execution_techniques": [
+        "감정의 시각화"
+      ],
+      "why": "다이스케 타지마의 작품은 미래에 대한 불안감을 강렬하게 전달합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/Daisuke-Tajima-Infinite-Emptiness-6-200x150.jpeg",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "Mr Cenz, 바르셀로나에서 색채와 감각을 그리다",
+      "summary": "런던의 역사적인 그래피티 아티스트 Mr Cenz는 바르셀로나에서 그의 독창적이고 활기찬 스타일을 선보입니다. 그의 작품은 색채와 감각의 조화를 보여줍니다.",
+      "url": "https://www.streetartbcn.com/mr-cenz-in-barcelona-for-guzzo-arnau-gallery/",
+      "source": "Street Art Barcelona",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "그래피티",
+        "색채",
+        "스타일"
+      ],
+      "execution_techniques": [
+        "라이브 아트"
+      ],
+      "why": "Mr Cenz의 그래피티는 색채와 감각의 조화로 새로운 시각적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2024/02/6-9.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "새로운 도시 정체성: Győr",
+      "summary": "Győr의 공식 도시 정체성 프로젝트는 도시의 새로운 비전을 제공합니다. 이 프로젝트는 시각적 정체성을 통해 도시의 독특한 매력을 강조합니다.",
+      "url": "https://www.behance.net/gallery/248004945/City-Identity-for-Gyor",
+      "source": "Behance",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "도시",
+        "정체성",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "브랜딩"
+      ],
+      "why": "도시 정체성 디자인은 도시의 독특함을 시각적으로 강조하는 방법을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/8e2253248004945.Y3JvcCwzNTE1LDI3NDksMTIyNiwyNjk.png",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "부모나 어른이 없을 때: John Oliver와 Buc-ee’s의 로고 소송",
+      "summary": "Buc-ee’s의 유명한 로고 디자인 소송은 John Oliver와의 대결에서 새로운 국면을 맞이합니다. 이 사건은 로고 디자인과 법적 문제에 대한 새로운 시각을 제공합니다.",
+      "url": "https://www.creativebloq.com/design/logos-icons/buc-ees-infamous-logo-design-lawsuits-might-have-finally-met-their-match-in-john-oliver",
+      "source": "Creative Bloq",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "로고",
+        "디자인",
+        "법적 문제"
+      ],
+      "execution_techniques": [
+        "법적 분석"
+      ],
+      "why": "이 사례는 로고 디자인의 법적 문제를 탐구하는 중요한 기회를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/AE4HoBMGdMwEnczEkkGMfT-1280-80.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "기억하고 싶은 파리",
+      "summary": "파리의 미술관과 박물관에 대한 개인적인 기록. 잘 알려지지 않은 공간에 대한 글을 통해 파리의 숨겨진 매력을 탐구합니다.",
+      "url": "https://blog.naver.com/justina75/224326470284?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "파리",
+        "미술관",
+        "문화"
+      ],
+      "execution_techniques": [
+        "개인적 기록"
+      ],
+      "why": "파리의 숨겨진 문화와 예술적 매력을 탐험할 수 있는 기회를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjRfMjMx/MDAxNzgyMjQwMTgyNTIz.A4-2z5PrlwmZJrGvGFhdb0izPVJDtBnx_Si2aFFaSiYg.R107rkpiAeXEVSrqukNffnsNezuqN1Z6PDVSClkuTTYg.JPEG/900_Screenshot_20260623_185453_Maps.jpg?type=s3",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "The Open Wound: 아름다움이 거부하는 해답",
+      "summary": "베니스의 Palazzo Naril Bernardo에서 열린 그룹 전시회는 지속적인 적응 상태를 탐구합니다. Daria Borisova와 Selcan Atilgan이 공동 큐레이터로 참여한 이 전시는 변화하는 세상 속에서의 아름다움을 탐구합니다.",
+      "url": "https://coolhunting.com/culture/the-open-wound-where-beauty-refuses-resolution/",
+      "source": "coolhunting.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "전시회",
+        "아름다움",
+        "적응"
+      ],
+      "execution_techniques": [
+        "큐레이션"
+      ],
+      "why": "이 전시는 아름다움의 본질에 대한 깊은 탐구를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/Geoffroy-Pithon_Bain-des-iles_Vent-et-fleurs_Heure-des-branches-en-fete-768x512.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    },
+    {
+      "title_ko": "Ant Blades & Birdbox Studio, 'The Close'로의 모험",
+      "summary": "영국의 캐릭터 코미디 마스터 Ant Blades와 Birdbox Studio가 제작한 애니메이션 단편 영화가 웃음을 선사합니다. 이 작품은 10분의 짧은 러닝타임 동안 자주 큰 웃음을 줍니다.",
+      "url": "https://www.stashmedia.tv/ant-blades-birdbox-studio-venture-into-the-close/",
+      "source": "Unknown Source",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "애니메이션",
+        "코미디",
+        "영화"
+      ],
+      "execution_techniques": [
+        "애니메이션 기술"
+      ],
+      "why": "이 단편 영화는 애니메이션을 통해 즐거운 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/The-Close-animated-short-film-by-Ant-Blades-Birdbox-Studio-for-BBC-STASH-MAGAZINE2-1920x1080.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000"
+    }
+  ]
+}
