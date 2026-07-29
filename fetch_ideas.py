@@ -75,19 +75,20 @@ def generate_daily_insight(date_str, articles_subset):
     Your evaluation must follow a strict, systematic scoring formula to select the top 14 articles out of the candidates:
     
     Curation Evaluation Formula:
-    Score = (Trustworthiness + Relevance + Timeliness + Visual/Video Quality + Cultural Insight + Originality) - Noise
+    Score = (Trustworthiness + Relevance + Timeliness + Visual/Video Quality + Cultural Insight + Originality + Cross-Disciplinary Synergy) - Noise
     
-    Do NOT sort or select based on simple publication recency. Sort and select the top 14 items strictly by their evaluation score based on the following 5 criteria:
+    Do NOT sort or select based on simple publication recency. Sort and select the top 14 items strictly by their evaluation score based on the following 6 criteria:
     1. Relevance & Importance: Why it is relevant to contemporary creators (왜 이 레퍼런스가 중요한지)
     2. Reference Perspective: What specific style, technique, or cultural perspective it offers (어떤 관점의 레퍼런스인지)
     3. Visual & Asset Value: Outstanding image/video visual aesthetic worth saving (이미지/영상으로 볼 가치가 높은지)
     4. Taste Alignment: Alignment with high-end aesthetic taste network (취향 북마크 네트워크와의 밀접성)
     5. Zeitgeist Value: High value in reading contemporary creative trends and culture (동시대 흐름을 읽는 데 도움이 되는지)
+    6. Cross-Disciplinary Synergy: How this piece inspires OTHER creative disciplines e.g., how architecture inspires fashion, how 3D motion inspires spatial design (이종 도메인 간의 영감 교차 연결성)
     
     Output strictly in this JSON format:
     {{
       "date": "{date_str}",
-      "focusQ": "Agent's Thought: (Write a deep, philosophical synthesis capturing the contemporary creative zeitgeist in Korean, max 3 sentences)",
+      "focusQ": "Agent's Thought: (Write a deep, philosophical synthesis capturing the contemporary creative zeitgeist and cross-disciplinary synergy in Korean, max 3 sentences)",
       "creator_message": "큐레이터의 메시지: (Write a welcoming curator message in Korean reflecting today's theme)",
       "session": {{
         "timestamp": "{datetime.datetime.now().isoformat()}",
@@ -105,8 +106,8 @@ def generate_daily_insight(date_str, articles_subset):
           "creator_name": "",
           "creator_insight": "",
           "tags": ["(tag1)", "(tag2)", "(tag3)"],
-          "execution_techniques": ["(technique1)", "(technique2)"],
-          "why": "(Write a compelling Curator View in Korean addressing: 1) Why this is relevant, 2) What reference perspective it provides, 3) Its visual/cultural value)",
+          "execution_techniques": ["(Extract 1-2 precise Visual Taxonomy style hashtags e.g. KineticStructure, Glassmorphism, Neubrutalism, BiophilicForm, SubtractiveSculpture, DigitalEmbossing)"],
+          "why": "(Write a compelling Curator View in Korean addressing: 1) Why relevant, 2) Reference perspective, 3) Visual value, 4) Cross-Disciplinary Connection: 다른 도메인/산업으로의 영감 확장 포인트)",
           "social_proof": "",
           "depth": 0.95,
           "image": "(The article's image URL if provided, else empty string)",
