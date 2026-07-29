@@ -1,75 +1,357 @@
 {
   "date": "ver.1",
-  "focusQ": "Agent's Thought: 창조적 시너지와 현대적 미학의 경계를 넘나드는 순간, 우리는 서로 다른 영역의 예술이 어떻게 조화를 이루며 새로운 문화를 창조해 내는지 목격하게 됩니다.",
-  "creator_message": "큐레이터의 메시지: 오늘의 테마는 '경계를 초월하는 창조성'입니다. 각 분야의 예술이 서로에게 영감을 주고, 새로운 가능성을 열어가는 과정을 함께 탐험해 보세요.",
+  "focusQ": "Agent's Thought: 동시대 창작의 흐름은 경계를 허물고 다양한 분야의 융합을 촉진하는데, 이는 새로운 미적 언어를 창조하고 문화적 맥락을 풍부하게 합니다. 이러한 창작의 물결은 디지털과 자연, 전통과 현대의 조화를 통해 예술의 새로운 경지를 개척하고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 테마는 다층적 미학의 융합입니다. 다양한 분야의 창작물들이 어떻게 서로에게 영감을 주고, 더 나아가 새로운 창작의 가능성을 열어가는지를 탐구합니다. 함께 창조적 여정을 떠나봅시다.",
   "session": {
-    "timestamp": "2026-07-29T06:23:57.349581",
+    "timestamp": "2026-07-29T06:25:03.937212",
     "considered": 40,
     "selected": 14
   },
   "topPicks": [
     {
-      "title_ko": "럭셔리 다이닝 룸 디자인: 비율, 조명 및 소재를 통한 타임리스 인테리어",
-      "summary": "다이닝 룸은 이제 단순한 기능을 넘어 현대 가정에서 중요한 공간으로 자리 잡았습니다. 이는 엔터테인먼트와 경험을 공유하는 공간으로 변화하고 있습니다.",
-      "url": "https://italydreamdesign.com/en/how-to-design-a-luxury-dining-room-proportions-lighting-and-materials-for-a-timeless-interior/",
-      "source": "Italy Dream Design",
+      "title_ko": "자연과의 연결을 창조하는 Patrick Dougherty의 'Stickwork' 설치 예술",
+      "summary": "Patrick Dougherty의 설치 예술은 자연과의 연결을 테마로 한 공공 조각을 통해 자연의 아름다움을 재조명합니다. 그의 작품은 버드나무 묘목을 사용하여 자연과 인간의 조화를 이루고 있습니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/patrick-dougherty-stickwork-public-sculpture-willow-saplings/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "자연예술",
+        "공공조각",
+        "버드나무"
+      ],
+      "execution_techniques": [
+        "BiophilicForm"
+      ],
+      "why": "1) 자연과의 연결에 대한 현대적 시각을 제공하며, 2) 자연 재료를 이용한 독창적인 설치 기법을 보여줍니다. 3) 시각적으로 흥미로운 작품으로, 4) 조경 디자인과 환경 예술 분야에 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/dougherty-8.jpeg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "세라믹 풍경의 시간의 층",
+      "summary": "Jo Brunner와 Gudrun Petzold는 세라믹 조각과 그림을 통해 시간의 흐름을 표현하며 관람객을 초대합니다. 이 작품들은 공간 속에서 산책을 유도하며 시각적 탐험을 제공합니다.",
+      "url": "https://artaurea.com/2026/zeitschichten/",
+      "source": "Art Aurea",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "세라믹아트",
+        "시간의층",
+        "예술산책"
+      ],
+      "execution_techniques": [
+        "SubtractiveSculpture"
+      ],
+      "why": "1) 현대 예술의 다양한 해석을 제공하며, 2) 세라믹 조각을 통해 시간의 흐름을 시각적으로 표현합니다. 3) 세라믹의 물리적 질감을 강조하여 시각적 가치를 높이고, 4) 건축과 인테리어 디자인에 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://artaurea.com/wp-content/uploads/2026/05/ZeitSchichten_W-Jo-Brunner-und-Gudrun-Petzold_Keramische-Skulptur.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "혁신적인 재활용 솔루션으로 치약 튜브에 도전하는 Suri",
+      "summary": "Suri는 혁신적인 리필 가능한 솔루션을 통해 환경 문제를 해결하고자 합니다. 이 디자인은 지속 가능성을 중심으로 한 혁신적 접근을 보여줍니다.",
+      "url": "https://thedieline.com/suri-takes-on-the-toothpaste-tube-with-its-innovative-and-refillable-solution/",
+      "source": "The Dieline",
       "domain": "DESIGN",
       "category": "리뷰",
       "creator_name": "",
       "creator_insight": "",
       "tags": [
-        "인테리어",
-        "럭셔리",
-        "디자인"
+        "지속가능디자인",
+        "재활용",
+        "혁신상품"
       ],
       "execution_techniques": [
-        "Neubrutalism",
-        "BiophilicForm"
+        "SustainableDesign"
       ],
-      "why": "같은 공간에서도 디자인의 비율과 조명이 주는 차별성을 느낄 수 있습니다. 이 레퍼런스는 건축과 인테리어 디자인에 있어 타임리스한 미학적 가치를 갖습니다.",
+      "why": "1) 지속 가능성에 대한 현대적 요구를 반영하며, 2) 리필 가능한 디자인을 통해 새로운 재활용 방법을 제시합니다. 3) 시각적으로 매력적인 제품 디자인으로, 4) 제품 디자인과 환경 공학 분야에 영감을 줄 수 있습니다.",
       "social_proof": "",
       "depth": 0.95,
-      "image": "https://italydreamdesign.com/wp-content/uploads/luxury-contemporary-italian-dining-room-200x300.jpg",
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/EDIT_suri_23_04_264905_V2-1.jpg",
       "pub_date": "ver.1T08:00:00.000000"
     },
     {
-      "title_ko": "Acne Studios, 아오야마 플래그십 스토어 1주년 기념",
-      "summary": "Acne Studios는 아오야마 플래그십 스토어의 1주년을 기념하며 아폴리나리아 브로체와 협업했습니다. 이 이벤트는 새로운 문화적 통찰을 제공합니다.",
-      "url": "https://www.adfwebmagazine.jp/en/design/acne-studios-aoyama-apollinaria-broche-anniversary/",
-      "source": "ADF Web Magazine",
-      "domain": "FASHION",
+      "title_ko": "Chantal Akerman의 발레적 오마주",
+      "summary": "Collier Schorr는 Chantal Akerman의 작품을 발레적 시각으로 재해석하여 새로운 창작의 방향을 제시합니다. 이 작품은 영화와 무용의 경계를 허물고 있습니다.",
+      "url": "https://www.anothermag.com/art-photography/17336/collier-schorr-interview-chantal-akerman-je-ti-il-elle?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=collier-schorr-s-balletic-homage-to-chantal-akerman",
+      "source": "anothermag.com",
+      "domain": "ART",
       "category": "리뷰",
       "creator_name": "",
       "creator_insight": "",
       "tags": [
-        "패션",
-        "아오야마",
-        "기념"
+        "발레",
+        "영화예술",
+        "콜라보레이션"
+      ],
+      "execution_techniques": [
+        "KineticStructure"
+      ],
+      "why": "1) 예술 장르 간의 융합을 강조하며, 2) 무용과 영화의 경계를 넘나드는 표현을 보여줍니다. 3) 시각적 예술과 퍼포먼스 아트를 연결하여 새로운 미적 경험을 제공합니다. 4) 공연 예술과 시각 예술에 새로운 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476128.jpeg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "Cocomoco 아이덴티티 시스템을 위한 촉각적인 베이커리 브랜딩",
+      "summary": "Cocomoco는 따뜻한 장인 정신의 정체성을 담은 테라코타 패키징을 통해 새로운 베이커리 브랜드 아이덴티티를 구축했습니다. 이 디자인은 감각적인 경험을 중시합니다.",
+      "url": "https://abduzeedo.com/tactile-bakery-branding-cocomoco-identity-system/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "브랜딩",
+        "베이커리",
+        "촉각디자인"
+      ],
+      "execution_techniques": [
+        "TexturedPackaging"
+      ],
+      "why": "1) 새로운 브랜드 아이덴티티를 통해 현대적 소비자의 요구에 부합하며, 2) 감각적이며 촉각적인 경험을 중시한 디자인을 선보입니다. 3) 독창적인 테라코타 패키징을 통해 시각적, 촉각적 가치를 높이고, 4) 패키지 디자인과 인테리어 디자인에 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/cocomoco_2.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "현대 미술을 재정의하는 Dose 브랜드",
+      "summary": "Dose는 정제된 웰니스 아이덴티티를 통해 의료 웰니스 미학을 재정의하고 있습니다. 이 디자인은 깨끗한 타이포그래피와 전략적 브랜딩을 결합합니다.",
+      "url": "https://abduzeedo.com/dose-branding-redefines-medical-wellness-aesthetics/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "브랜딩",
+        "웰니스",
+        "의료디자인"
+      ],
+      "execution_techniques": [
+        "CleanTypography"
+      ],
+      "why": "1) 현대 웰니스 문화에 대한 독창적 접근을 제공하며, 2) 정제된 디자인을 통해 새로운 미적 표준을 제시합니다. 3) 시각적 일관성을 강조하며, 4) 의료 디자인과 웰니스 산업에 새로운 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/dose_0.png",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "디즈니랜드 파리 (35 mm 필름 버전)",
+      "summary": "디즈니랜드 파리의 사진 시리즈는 35 mm 필름을 통해 기억 속의 순간을 포착합니다. 이 작품은 아날로그 감성을 현대적으로 재해석합니다.",
+      "url": "https://www.behance.net/gallery/253305009/DisneyLand-Paris-%2835-mm-film-version%29",
+      "source": "Behance",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "필름사진",
+        "디즈니랜드",
+        "아날로그"
+      ],
+      "execution_techniques": [
+        "AnalogPhotography"
+      ],
+      "why": "1) 아날로그 감성을 현대적으로 재해석하여, 2) 필름 사진의 독특한 질감과 분위기를 전달합니다. 3) 시각적 가치가 높은 작품으로, 4) 사진 예술과 그래픽 디자인에 새로운 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/34bed1253305009.Y3JvcCw5NzcsNzY0LDEyMSwzMw.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "Onur Senturk의 창작 중독",
+      "summary": "OFFF 바르셀로나 2026에서 Onur Senturk는 창작의 본질에 대한 깊은 대화를 나눕니다. 그의 작품은 도구나 기술보다 창작의 열정에 대한 이야기를 담고 있습니다.",
+      "url": "https://motionographer.com/2026/07/13/addicted-to-creation-onur-senturk-at-offf-barcelona-2026/",
+      "source": "Unknown Source",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "창작",
+        "열정",
+        "OFFF"
       ],
       "execution_techniques": [
         "DigitalEmbossing"
       ],
-      "why": "현대 패션과 문화적 아이덴티티의 융합을 보여주는 이 이벤트는 스타일과 미학의 다양성을 강조합니다. 패션이 다른 문화적 맥락에서 어떻게 변형되는지를 탐구합니다.",
+      "why": "1) 창작의 본질에 대한 심도 있는 탐구를 제공하며, 2) 디지털 아트와 모션 그래픽의 경계를 확장합니다. 3) 열정과 창작의 중요성을 강조하여, 4) 예술과 기술의 융합에 새로운 영감을 줄 수 있습니다.",
       "social_proof": "",
       "depth": 0.95,
-      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-acne-studio-5-225x300.jpg",
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/trim2OnurSenturk-AmnestyInternational-Pens-ezgif.com-optimize.gif",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "Andrea Roggi의 지중해적 조각 예술",
+      "summary": "Andrea Roggi는 엘바와 사르데냐의 풍경을 배경으로 그의 조각을 전시하며 지중해 문화의 깊이를 탐구합니다. 그의 작품은 역사와 자연을 재해석합니다.",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/07/andrea-roggi-elba-sardegna-mostra-estate-2026/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "조각",
+        "지중해",
+        "문화"
+      ],
+      "execution_techniques": [
+        "SubtractiveSculpture"
+      ],
+      "why": "1) 지중해 문화의 풍부한 역사적 맥락을 제공하며, 2) 자연과 인간의 관계를 재해석합니다. 3) 시각적으로 강렬한 조각 작품으로, 4) 건축과 환경 예술에 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/marenostrumsardegna2500pxdsf0742.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "유럽인들이 새로운 지폐 디자인에 투표할 수 있는 기회",
+      "summary": "유럽의 새로운 지폐 디자인에 대한 투표가 진행되고 있습니다. 이 프로젝트는 자연과 문화 중에서 선택할 수 있는 독특한 기회를 제공합니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/euro-banknote-design-central-bank/",
+      "source": "Colossal",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "지폐디자인",
+        "유럽",
+        "문화"
+      ],
+      "execution_techniques": [
+        "GraphicDesign"
+      ],
+      "why": "1) 유럽 문화와 자연의 조화를 탐구하며, 2) 대중 참여를 통한 디자인 혁신을 제공합니다. 3) 시각적으로 매력적인 디자인을 통해 사회적 가치를 높이고, 4) 금융 디자인과 문화 연구에 새로운 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/euro-3.jpeg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "Lucy Sparrow의 '편리함의 시작'에서 90년대 슈퍼마켓 향수를 불러일으키다",
+      "summary": "Lucy Sparrow는 '편리함의 시작'이라는 작품에서 90년대 슈퍼마켓의 향수를 불러일으키며, 예술을 통해 소비문화의 변화를 반영합니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/lucy-sparrow-the-beginning-of-convenience/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "향수",
+        "소비문화",
+        "슈퍼마켓"
+      ],
+      "execution_techniques": [
+        "NostalgicArt"
+      ],
+      "why": "1) 소비문화의 변화를 예술적으로 반영하며, 2) 90년대의 향수를 현대적으로 재현합니다. 3) 상업적 요소와 예술적 감각을 결합하여 시각적 가치를 높이고, 4) 사회학과 예술 연구에 새로운 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/sparrow-boc-10.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "프라이빗 아일랜드에서의 Bunker Boyz",
+      "summary": "Bunker Boyz는 프라이빗 아일랜드에서 독특한 공간적 경험을 제공하며, 관객들에게 새로운 시각적 탐험을 제안합니다.",
+      "url": "https://motionographer.com/quickie/bunker-boyz-private-island/",
+      "source": "Unknown Source",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "프라이빗섬",
+        "영화예술",
+        "시각적탐험"
+      ],
+      "execution_techniques": [
+        "SpatialDesign"
+      ],
+      "why": "1) 독특한 공간적 경험을 제공하며, 2) 시각적 탐험을 통해 영화와 건축의 경계를 허무는 작품입니다. 3) 시각 예술과 공간 디자인으로서의 가치를 높이고, 4) 건축과 영화 예술에 새로운 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/image-2026-06-19T123436.048-ezgif.com-overlay-700x394.png",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "OFFF 바르셀로나 2026에서의 창작의 집착",
+      "summary": "Onur Senturk는 OFFF 바르셀로나 2026에서의 창작 과정과 열정을 탐구하는 대화에 참여합니다. 그의 작품은 도구와 기술의 한계를 넘어서는 창작의 본질을 보여줍니다.",
+      "url": "https://motionographer.com/2026/07/13/addicted-to-creation-onur-senturk-at-offf-barcelona-2026/",
+      "source": "Unknown Source",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "창작",
+        "열정",
+        "OFFF"
+      ],
+      "execution_techniques": [
+        "DigitalEmbossing"
+      ],
+      "why": "1) 창작의 본질에 대한 심도 있는 탐구를 제공하며, 2) 디지털 아트와 모션 그래픽의 경계를 확장합니다. 3) 열정과 창작의 중요성을 강조하여, 4) 예술과 기술의 융합에 새로운 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/trim2OnurSenturk-AmnestyInternational-Pens-ezgif.com-optimize.gif",
       "pub_date": "ver.1T08:00:00.000000"
     }
   ],
   "popcorn": [
     {
-      "title_ko": "Joe Freshgoods, 시카고 커뮤니티를 품은 매장 ‘Every Now and Then’ 오픈",
-      "summary": "Joe Freshgoods가 시카고에 새로운 매장을 열며 지역 사회와의 연결을 강조합니다.",
-      "url": "https://hypebeast.kr/2026/7/joe-freshgoods-opens-every-now-and-then",
-      "source": "Hypebeast Korea",
+      "title_ko": "꿈을 담은 프랑스 시계 -akteo(악테오)",
+      "summary": "프랑스 시계 브랜드 악테오의 독창적인 디자인은 꿈과 상상력을 담고 있습니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "커뮤니티"
+        "시계"
       ],
-      "why": "지역 사회와의 연결을 강조하는 매장 오픈은 현대적 브랜드 전략의 중요한 요소로 주목받고 있습니다.",
+      "why": "독특한 디자인과 상상력을 결합한 제품으로, 현대 소비자들의 관심을 끌고 있습니다.",
       "depth": 0.5,
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fjoe-freshgoods-every-now-and-then-store-00.jpg?w=800&cbr=1&q=90&fit=max",
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "Backstage Engelberg",
+      "summary": "Annelies Štrba의 작품은 무대 뒤의 독특한 순간을 포착합니다.",
+      "url": "https://strba.ch/2024/05/29/backstage-engelberg/",
+      "source": "strba.ch",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "사진"
+      ],
+      "why": "무대 뒤의 순간을 예술적으로 재해석한 작품으로, 시각적 흥미를 유발합니다.",
+      "depth": 0.5,
+      "image": "https://strba.ch/wp-content/uploads/2024/05/Backstage_Engelberg_2024.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "삘기꽃 날리는 언덕",
+      "summary": "삘기꽃이 날리는 언덕을 주제로 한 작품은 자연의 아름다움을 포착합니다.",
+      "url": "https://blog.naver.com/jujukey/223463494255?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "자연"
+      ],
+      "why": "자연의 아름다움을 예술적으로 표현한 작품으로, 대중의 시선을 사로잡습니다.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNDA1MzBfMTg5/MDAxNzE3MDQ5MzM3MDA0.Mc1Pc88m69Ni8SIUEjoVzmxfWnBq825zsMaZzGMkwSkg.wCFX-JMPgSaL4gLesr4_KhYwzwwBwfI80FRnq8qSzKIg.JPEG/삘기꽃_날리는_언덕_60.6&times;72.7cm_Acrylic_on_canvas_2022..jpg?type=s3",
       "pub_date": "ver.1T08:00:00.000000"
     }
   ],
@@ -87,11 +369,23 @@
       "is_hot": true
     },
     {
-      "word": "문화적 아이덴티티",
+      "word": "자연과 문화의 조화",
       "is_hot": true
     },
     {
-      "word": "크로스디시플린",
+      "word": "창작의 본질 탐구",
+      "is_hot": true
+    },
+    {
+      "word": "지속 가능한 디자인",
+      "is_hot": true
+    },
+    {
+      "word": "예술과 기술의 융합",
+      "is_hot": true
+    },
+    {
+      "word": "사회적 가치 향상",
       "is_hot": true
     }
   ]
