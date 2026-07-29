@@ -90,8 +90,8 @@
       "source": "Creative Review",
       "domain": "ADVERTISING",
       "category": "사회적 캠페인",
-      "creator_name": "",
-      "creator_insight": "",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "디자인은 세상을 좀 더 멋지게 만들 수 있는 기회입니다.",
       "tags": [
         "사회적 책임",
         "죽음",
@@ -136,8 +136,8 @@
       "source": "Abduzeedo",
       "domain": "DESIGN",
       "category": "디자인",
-      "creator_name": "",
-      "creator_insight": "",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "좋은 디자인은 가능한 적은 디자인이다. - 디터 람스",
       "tags": [
         "패키지 디자인",
         "유제품",
@@ -327,7 +327,7 @@
       "domain": "DESIGN",
       "category": "디자인",
       "creator_name": "Naoto Fukasawa",
-      "creator_insight": "“훌륭한 디자인은 눈에 띄지 않지만, 없으면 불편함을 느끼는 존재다.”",
+      "creator_insight": "사람들이 아무 생각 없이 자연스럽게 사용할 수 있는 디자인을 만드는 것이 중요하다고 생각합니다.",
       "tags": [
         "후카사와 나오토",
         "슈퍼노멀",
