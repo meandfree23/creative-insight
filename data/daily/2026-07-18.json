@@ -1,0 +1,334 @@
+{
+  "date": "2026-07-18",
+  "focusQ": "Agent's Thought: 예술과 디자인은 우리 삶을 새로운 관점에서 바라보게 하는 거울입니다. 오늘의 큐레이션은 우리의 일상과 감성을 재조명하며, 작가들의 창의적 사고를 통해 세상이 어떻게 변화하는지를 보여줍니다. 각 작품은 우리에게 깊은 영감을 제공하며, 예술의 힘을 다시금 느끼게 합니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 큐레이션에 오신 것을 환영합니다. 이 공간은 예술과 디자인의 경이로운 세계로 여러분을 초대합니다. 함께 영감을 나누고, 새로운 시각을 발견하는 하루가 되시길 바랍니다.",
+  "session": {
+    "timestamp": "2026-07-29T06:04:34.799265",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "모텔에서 감성 스테이 리브랜딩, 모키",
+      "summary": "전주의 터미널 근처 오래된 모텔이 감성적인 스테이 공간으로 리브랜딩 되었습니다. 이 공간은 여행의 일부가 되어 머무는 경험을 제공합니다.",
+      "url": "https://www.designtwoply.com/works/commercial/%eb%aa%a8%ed%85%94%ec%97%90%ec%84%9c-%ec%8a%a4%ed%85%8c%ec%9d%b4%eb%a1%9c-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%eb%aa%a8%ed%82%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25aa%25a8%25ed%2585%2594%25ec%2597%2590%25ec%2584%259c-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25eb%25a1%259c-%25eb%25a6%25ac%25eb%25b8%258c%25eb%259e%259c%25eb%2594%25a9-%25eb%25aa%25a8%25ed%2582%25a4",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "리브랜딩",
+        "감성",
+        "스테이"
+      ],
+      "execution_techniques": [
+        "리브랜딩"
+      ],
+      "why": "이 새로운 공간은 여행의 본질을 탐구하며 현대인의 감성을 자극합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2025/10/moki-썸네일사이즈.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "Gleicher Standort macht Eisbegonien zu guten Pflanzenpartnern",
+      "summary": "얼음베고니아는 올바른 환경에서 아름다운 정원의 중심이 될 수 있습니다. 이들은 특히 화려한 꽃들과 조화롭게 어우러져 시각적 즐거움을 선사합니다.",
+      "url": "https://archzine.net/gartengestaltung/garten-pflanzen/eisbegonien-kombinieren-tipps-ideen-arrangements/",
+      "source": "Archzine",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "정원",
+        "조화",
+        "식물"
+      ],
+      "execution_techniques": [
+        "조화"
+      ],
+      "why": "식물의 조화로운 배치는 자연 속에서 미적 균형을 이룰 수 있음을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://archzine.net/wp-content/uploads/2026/07/eisbegonien-kombinieren-bunter-kuebel.webp",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "Absent Presences - 거리에서 발견한 시적 이미지",
+      "summary": "이 거리 사진들은 순간적인 장면 속에서 비주얼 아이디어를 예민하게 표현합니다. 각 사진은 놀이적인 감성을 통해 일상 속 감각을 새롭게 발견하게 합니다.",
+      "url": "https://www.lensculture.com/articles/sittichai-maikupandin-absent-presences-poetic-images-from-the-streets",
+      "source": "lensculture.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "거리",
+        "시적"
+      ],
+      "execution_techniques": [
+        "사진"
+      ],
+      "why": "사진 속에서 발견되는 시적 이미지는 일상에 감성을 더할 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.lensculture.com/image/eff63ab0-867e-4e4a-14e7-9f1c4b3e2900/large",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "PollenNav 모바일 앱: 호흡 가능한 도시 지도",
+      "summary": "PollenNav 앱은 사람들이 숨쉬기 좋은 경로를 제공합니다. 이는 알레르기 환자들에게 새로운 도시 탐험의 기회를 제공합니다.",
+      "url": "https://www.designboom.com/readers/pollennav-mobile-app-city-routes-allergies-yani-shi/",
+      "source": "Designboom",
+      "domain": "TECHNOLOGY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "앱",
+        "도시",
+        "알레르기"
+      ],
+      "execution_techniques": [
+        "모바일 앱"
+      ],
+      "why": "새로운 기술을 통해 도시 생활을 개선할 수 있는 가능성을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/yani-shi-pollennav-mobile-application-routes-allergies-designboom-700-1-500x400-22b08q85r799.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "NUOVO, 홍콩의 예술과 디자인을 위한 다감각적 순간 창조",
+      "summary": "NUOVO는 가구 전시장에서 디자인 문화 큐레이터로의 정체성을 발전시킵니다. Sequence - A Listening Room을 통해 공간을 가구, 소리, 물질이 어우러진 환경으로 전환합니다.",
+      "url": "https://coolhunting.com/design/nuovo-shapes-a-multi-sensory-moment-for-hong-kongs-art-and-design-scene/",
+      "source": "coolhunting.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "다감각",
+        "전시",
+        "홍콩"
+      ],
+      "execution_techniques": [
+        "큐레이션"
+      ],
+      "why": "다감각적 경험을 통해 디자인의 새로운 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/DSC_3554-768x512.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "‘Colorstruck!’ 인종과 색 표현의 연결 고리",
+      "summary": "‘Colorstruck!’은 인종과 색채적 표현의 관계를 탐구합니다. 이 작품은 감정과 정체성을 색을 통해 표현합니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/richard-j-powell-black-american-art-colorstruck/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "색채",
+        "인종",
+        "예술"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "색채를 통해 사회적 메시지를 전달하는 예술의 힘을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/colorstruck-2.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "Free Soul, 웰빙의 본질을 되찾다",
+      "summary": "Free Soul은 웰빙의 본질을 되찾기 위한 새로운 시도를 보여줍니다. 이는 우리의 삶 속에서 진정한 행복을 찾도록 돕습니다.",
+      "url": "https://thedieline.com/free-soul-puts-the-being-back-in-well-being/",
+      "source": "The Dieline",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "웰빙",
+        "행복",
+        "삶"
+      ],
+      "execution_techniques": [
+        "브랜딩"
+      ],
+      "why": "웰빙의 본질을 탐구하여 진정한 행복을 찾도록 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/Screenshot-2026-07-26-at-4.18.04-PM.png",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "Dose Branding, 의료 웰니스 미학을 재정의하다",
+      "summary": "Dose는 깨끗한 타이포그래피와 전략적 브랜딩을 통해 정제된 웰니스 정체성을 선보입니다. 디자이너 Sungsik Kim과 Hawon Lee가 디자인한 새로운 브랜드입니다.",
+      "url": "https://abduzeedo.com/dose-branding-redefines-medical-wellness-aesthetics/",
+      "source": "abduzeedo.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "브랜딩",
+        "웰니스",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "브랜딩"
+      ],
+      "why": "브랜딩을 통해 웰니스의 새로운 미적 기준을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/dose_0.png",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "스푼 & 타마고, 지우개 부스러기로 만든 정교한 조각",
+      "summary": "Saya Irie의 작품은 지우개 부스러기로 만들어졌습니다. 이는 일상적인 재료로도 예술이 될 수 있음을 보여줍니다.",
+      "url": "https://spoon-tamago.com/saya-irie-eraser-shavings/?utm_source=rss&utm_medium=rss&utm_campaign=saya-irie-eraser-shavings",
+      "source": "Spoon & Tamago",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "조각",
+        "재료",
+        "지우개"
+      ],
+      "execution_techniques": [
+        "조각"
+      ],
+      "why": "평범한 재료로도 창의적인 예술을 창조할 수 있음을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/saya-irie-eraser-shaving-art-8-200x133.webp",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "The Open Wound: 해결을 거부하는 아름다움",
+      "summary": "베니스의 Palazzo Naril Bernardo에서 열린 그룹 전시는 지속적인 적응 상태를 탐구합니다. 이는 끊임없는 변화 속에서의 아름다움을 묘사합니다.",
+      "url": "https://coolhunting.com/culture/the-open-wound-where-beauty-refuses-resolution/",
+      "source": "coolhunting.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "전시",
+        "베니스",
+        "적응"
+      ],
+      "execution_techniques": [
+        "큐레이션"
+      ],
+      "why": "끊임없는 변화 속에서 발견되는 아름다움을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/Geoffroy-Pithon_Bain-des-iles_Vent-et-fleurs_Heure-des-branches-en-fete-768x512.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "Search Art Keywords [Artist SEO guide]",
+      "summary": "이 가이드는 아티스트가 구글 검색에서 웹사이트를 최적화하는 방법을 제공합니다. 무료로 키워드를 찾고 리스트에 추가하는 방법을 제시합니다.",
+      "url": "https://veryprivategallery.com/art-keywords/",
+      "source": "Very Private Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "SEO",
+        "아티스트",
+        "키워드"
+      ],
+      "execution_techniques": [
+        "SEO"
+      ],
+      "why": "아티스트들이 온라인에서 더 많은 노출을 얻을 수 있는 방법을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2026/06/art-keywords.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "How International Magic established it’s technology-bending design collaboration with Martine Rose",
+      "summary": "International Magic은 Martine Rose와의 협업을 통해 기술과 디자인의 경계를 확장합니다. 이들은 혁신적인 디자인 프로젝트를 만들어 냈습니다.",
+      "url": "https://www.itsnicethat.com/articles/international-magic-martine-rose-graphic-design-digital-280726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디자인",
+        "협업",
+        "기술"
+      ],
+      "execution_techniques": [
+        "협업"
+      ],
+      "why": "디자인과 기술의 융합을 통해 새로운 창의적 가능성을 열었습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/HF5DGnkbVe6TpjN8XFo9ZC2qUf0=/280320/width-1440/MRxSSENSE-XX-3.jpeg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "Practice Makes Magic: ChikaBOOM!의 인간적 손길",
+      "summary": "ChikaBOOM!은 손으로 그린 영혼을 CG 클라우드로 감싸는 단편 영화입니다. Tribeca에서 상영된 이 작품은 예술가의 손이 매 프레임마다 드러납니다.",
+      "url": "https://motionographer.com/2026/07/27/practice-makes-magic-the-human-hands-behind-chikaboom/",
+      "source": "Unknown Source",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "영화",
+        "단편",
+        "애니메이션"
+      ],
+      "execution_techniques": [
+        "애니메이션"
+      ],
+      "why": "예술가의 손을 통해 창작의 과정을 엿볼 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-1-700x394.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "4×20: Quick Hits Title Sequence | Wesley Ebelhar.",
+      "summary": "Wesley Ebelhar의 타이틀 시퀀스는 빠른 편집과 창의적인 비주얼로 주목받고 있습니다. 이는 시청자에게 독특한 시각적 경험을 제공합니다.",
+      "url": "https://motionographer.com/quickie/4x20-quick-hits-title-sequence-wesley-ebelhar/",
+      "source": "Unknown Source",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "타이틀",
+        "시퀀스",
+        "비주얼"
+      ],
+      "execution_techniques": [
+        "편집"
+      ],
+      "why": "참신한 비주얼과 빠른 편집을 통해 독특한 시각적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/420_TitleSequence_Final_ProRes-86554-700x394.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    }
+  ]
+}
