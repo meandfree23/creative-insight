@@ -561,10 +561,28 @@ function renderCreatorsInsight() {
     var entry = DATA.history[i];
     var cItems = [];
     var picks = getDayItems(entry);
+    
     for (var j=0; j<picks.length; j++) {
-      if (picks[j].creator_name || picks[j].creator_insight) {
-        cItems.push(picks[j]);
+      var p = picks[j];
+      var cName = p.creator_name;
+      var cQuote = p.creator_insight;
+      
+      if (!cName || cName.trim() === '') {
+        var m = (p.title_ko || p.title || '').match(/([A-Za-z가-힣\s]{2,20})(의|:\s|,\s|\s작가|\s감독|\s설계|\s디자이너)/);
+        cName = m ? m[1].trim() : (p.source || 'CREATOR');
       }
+      if (!cQuote || cQuote.trim() === '') {
+        cQuote = p.why || p.summary || '';
+      }
+      
+      cItems.push({
+        url: p.url,
+        creator_name: cName,
+        creator_insight: cQuote,
+        title_ko: p.title_ko || p.title,
+        domain: p.domain,
+        source: p.source
+      });
     }
     
     if (entry.creator_message || cItems.length > 0) {
@@ -583,14 +601,11 @@ function renderCreatorsInsight() {
         h += '<div style="display: flex; flex-direction: column; gap: 35px; align-items: center;">';
         for (var k=0; k<cItems.length; k++) {
           var ci = cItems[k];
-          var cName = ci.creator_name || 'CREATOR INSIGHT';
-          var cQuote = ci.creator_insight || ci.why || '';
-          
           h += '<a href="'+esc(ci.url)+'" target="_blank" style="display:block; width:100%; max-width:720px; text-decoration:none; color:inherit; background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 40px 35px; text-align: center; transition: transform 0.25s, box-shadow 0.25s; box-shadow: 0 2px 15px rgba(0,0,0,0.02);" onmouseover="this.style.transform=\'translateY(-4px)\'; this.style.boxShadow=\'0 8px 30px rgba(0,0,0,0.06)\';" onmouseout="this.style.transform=\'none\'; this.style.boxShadow=\'0 2px 15px rgba(0,0,0,0.02)\';">';
-          h += '<div style="font-family: \'Playfair Display\', serif; font-size: 26px; font-weight: 700; color: var(--text); margin-bottom: 14px; text-align:center;">' + cName + '</div>';
+          h += '<div style="font-family: \'Playfair Display\', serif; font-size: 26px; font-weight: 700; color: var(--text); margin-bottom: 14px; text-align:center;">' + ci.creator_name + '</div>';
           
-          if (cQuote) {
-            h += '<div style="font-family: \'Noto Serif KR\', serif; font-size: 16px; line-height: 1.8; color: var(--acc); margin: 20px auto; max-width: 620px; font-style: italic; text-align: center; padding: 0 10px;">“ ' + cQuote + ' ”</div>';
+          if (ci.creator_insight) {
+            h += '<div style="font-family: \'Noto Serif KR\', serif; font-size: 16px; line-height: 1.8; color: var(--acc); margin: 20px auto; max-width: 620px; font-style: italic; text-align: center; padding: 0 10px;">“ ' + ci.creator_insight + ' ”</div>';
           }
           
           h += '<div style="font-size: 13px; font-weight: 600; color: var(--sub); line-height: 1.5; margin-top: 15px; text-align:center;">' + (ci.title_ko || ci.title) + '</div>';
