@@ -62,24 +62,40 @@ def get_smart_fallback_image(domain, seed_text=""):
     return pool[hash_val % len(pool)]
 
 def extract_image(entry, domain="DESIGN"):
-    if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
-        return entry.media_thumbnail[0].get('url', '')
+    # 1. Media Content
     if hasattr(entry, 'media_content') and entry.media_content:
-        return entry.media_content[0].get('url', '')
+        for mc in entry.media_content:
+            if mc.get('url'): return mc.get('url')
+    # 2. Media Thumbnail
+    if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
+        for mt in entry.media_thumbnail:
+            if mt.get('url'): return mt.get('url')
+    # 3. Enclosures
     if hasattr(entry, 'enclosures') and entry.enclosures:
         for enc in entry.enclosures:
-            if enc.get('type', '').startswith('image/'):
-                return enc.get('href', '')
+            if enc.get('href'): return enc.get('href')
+    # 4. Links
+    if hasattr(entry, 'links') and entry.links:
+        for lk in entry.links:
+            if lk.get('type', '').startswith('image/') and lk.get('href'):
+                return lk.get('href')
+    # 5. HTML img in summary or description
     summary = getattr(entry, "summary", getattr(entry, "description", ""))
     match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
-    if match:
+    if match and match.group(1):
         return match.group(1)
+    # 6. HTML img in full content
     if hasattr(entry, 'content') and entry.content:
         for c in entry.content:
-            match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', getattr(c, 'value', ''))
-            if match:
+            val = getattr(c, 'value', '')
+            match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', val)
+            if match and match.group(1):
                 return match.group(1)
-    # Smart dynamic fallback based on domain and title seed
+    # 7. Image attribute
+    if hasattr(entry, 'image') and entry.image:
+        if isinstance(entry.image, dict) and entry.image.get('href'):
+            return entry.image.get('href')
+    # Smart dynamic fallback only as last resort
     title = getattr(entry, "title", "")
     return get_smart_fallback_image(domain, title)
 
