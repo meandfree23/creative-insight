@@ -101,12 +101,16 @@ def generate_daily_insight(date_str, articles_subset):
     
     prompt = f"""
     You are a world-class design, art, and creative director curator.
-    Your evaluation must follow a strict, systematic scoring formula to select the top 14 articles out of the candidates:
+    Your evaluation must follow a strict, systematic scoring formula to select the top articles out of the candidates:
     
     Curation Evaluation Formula:
     Score = (Trustworthiness + Relevance + Timeliness + Visual/Video Quality + Cultural Insight + Originality + Cross-Disciplinary Synergy) - Noise
     
-    Do NOT sort or select based on simple publication recency. Sort and select the top 14 items strictly by their evaluation score based on the following 6 criteria:
+    CRITICAL QUANTITATIVE RULE:
+    - topPicks MUST contain EXACTLY 10 to 12 items. Do NOT return fewer than 10 or more than 12 items for topPicks.
+    - popcorn MUST contain EXACTLY 3 items.
+    
+    Sort and select items strictly by their evaluation score based on the following 6 criteria:
     1. Relevance & Importance: Why it is relevant to contemporary creators (왜 이 레퍼런스가 중요한지)
     2. Reference Perspective: What specific style, technique, or cultural perspective it offers (어떤 관점의 레퍼런스인지)
     3. Visual & Asset Value: Outstanding image/video visual aesthetic worth saving (이미지/영상으로 볼 가치가 높은지)
@@ -145,7 +149,7 @@ def generate_daily_insight(date_str, articles_subset):
       ],
       "popcorn": [
         {{
-          "title_ko": "(Select 3 trending/viral/pop-culture items from the remaining articles, title in Korean)",
+          "title_ko": "(Select EXACTLY 3 trending/viral/pop-culture items from the remaining articles, title in Korean)",
           "summary": "(1-sentence summary in Korean)",
           "url": "(The article's original link)",
           "source": "(Source name)",
