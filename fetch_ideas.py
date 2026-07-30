@@ -20,8 +20,48 @@ def load_sources():
         return json.load(f)
 
 import re
+import hashlib
 
-def extract_image(entry):
+DOMAIN_FALLBACKS = {
+    "DESIGN": [
+        "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ART": [
+        "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80"
+    ],
+    "ARCHITECTURE": [
+        "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=800&q=80"
+    ],
+    "FASHION": [
+        "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "BRANDING": [
+        "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "POPCORN": [
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=800&q=80"
+    ]
+}
+
+def get_smart_fallback_image(domain, seed_text=""):
+    domain = (domain or "DESIGN").upper()
+    pool = DOMAIN_FALLBACKS.get(domain, DOMAIN_FALLBACKS["DESIGN"])
+    hash_val = int(hashlib.md5((seed_text or "default").encode('utf-8')).hexdigest(), 16)
+    return pool[hash_val % len(pool)]
+
+def extract_image(entry, domain="DESIGN"):
     if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
         return entry.media_thumbnail[0].get('url', '')
     if hasattr(entry, 'media_content') and entry.media_content:
@@ -39,7 +79,9 @@ def extract_image(entry):
             match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', getattr(c, 'value', ''))
             if match:
                 return match.group(1)
-    return ""
+    # Smart dynamic fallback based on domain and title seed
+    title = getattr(entry, "title", "")
+    return get_smart_fallback_image(domain, title)
 
 import glob
 
