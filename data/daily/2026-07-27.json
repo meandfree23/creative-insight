@@ -308,68 +308,7 @@
       "pub_date": "2026-07-27T08:00:00.000000"
     }
   ],
-  "popcorn": [
-    {
-      "title_ko": "움직임 속의 예술: Doug Aitken의 Lightscape",
-      "summary": "Doug Aitken의 Lightscape 프로젝트는 공장 안에서 빛과 색의 움직임을 탐구하여 시각적 및 감각적 경험을 제공합니다.",
-      "url": "https://www.nowness.com/series/in-motion/doug-aitken-lightscape-factory",
-      "source": "NOWNESS",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "예술",
-        "빛"
-      ],
-      "execution_techniques": [
-        "KineticStructure",
-        "PopMinimalism"
-      ],
-      "why": "1) 독창적인 빛과 색의 사용으로 주목받는 프로젝트, 2) 감각적인 시각적 경험 제공, 3) 예술과 기술의 융합으로 새로운 영감을 제공",
-      "depth": 0.5,
-      "image": "https://img.nowness.com/nowness-frontend/90XzlJCZS4yTwIzw8Ehd_LIGHTSCAPE%20STILL%202.jpg",
-      "pub_date": "2026-07-27T08:00:00.000000"
-    },
-    {
-      "title_ko": "Harris Elliott의 변화하는 런던 '사회 살롱'",
-      "summary": "Harris Elliott의 'Le Parlour' 프로젝트는 런던 중심부에서 진화하는 사회 살롱을 통해 다양한 경험을 제공합니다.",
-      "url": "https://www.wallpaper.com/fashion-beauty/harris-elliott-le-parlour-installation-london",
-      "source": "Wallpaper",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "패션",
-        "사회"
-      ],
-      "execution_techniques": [
-        "StreetAesthetic",
-        "CulturalSynergy"
-      ],
-      "why": "1) 독특한 사회적 공간 창출로 화제, 2) 다양한 문화적 이벤트와 설치물 제공, 3) 패션과 사회적 경험의 융합",
-      "depth": 0.5,
-      "image": "https://cdn.mos.cms.futurecdn.net/mkFqDMpmoBwXnUGW2FmbyV-1280-80.jpg",
-      "pub_date": "2026-07-27T08:00:00.000000"
-    },
-    {
-      "title_ko": "Deit, 건강 강의 대신 맛을 전달하다",
-      "summary": "Deit의 새로운 음료는 맛 중심으로 건강을 강조하지 않지만 매력적입니다.",
-      "url": "https://thedieline.com/deit-skips-the-health-lecture-and-delivers-on-taste/",
-      "source": "The Dieline",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "음료",
-        "트렌드"
-      ],
-      "execution_techniques": [
-        "PopMinimalism",
-        "BrandInnovation"
-      ],
-      "why": "1) 건강 대신 맛을 강조하는 혁신적인 접근, 2) 소비자에게 새롭고 유쾌한 경험 제공, 3) 음식과 문화의 경계를 허무는 시도",
-      "depth": 0.5,
-      "image": "https://thedieline.com/wp-content/uploads/2026/07/DEIT-12-scaled.jpg",
-      "pub_date": "2026-07-27T08:00:00.000000"
-    }
-  ],
+  "popcorn": [],
   "macro_keywords": [
     {
       "word": "디지털 물성 회복",

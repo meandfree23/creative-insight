@@ -285,68 +285,7 @@
       "pub_date": "2026-07-11T08:00:00.000000"
     }
   ],
-  "popcorn": [
-    {
-      "title_ko": "플러시 숭배자를 위한 일본의 첫 번째 신사",
-      "summary": "일본에서 인형 애호가들을 위한 특별한 신사가 개장되었습니다.",
-      "url": "https://spoon-tamago.com/japan-first-plushie-shrine/",
-      "source": "Spoon Tamago",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "인형",
-        "문화"
-      ],
-      "execution_techniques": [
-        "CultureFusion",
-        "KawaiiAesthetic"
-      ],
-      "why": "1) 전 세계적으로 인형 문화를 사랑하는 커뮤니티와 관련된 바이럴 콘텐츠, 2) 귀여운 디자인의 문화적 가치, 3) 문화적 경계를 넘어서는 영감 확장 포인트",
-      "depth": 0.5,
-      "image": "",
-      "pub_date": "2026-07-11T08:00:00.000000"
-    },
-    {
-      "title_ko": "장 폴 고티에의 두란 란틴크",
-      "summary": "두란 란틴크가 장 폴 고티에에서 마리 앙투아네트를 참고하여 오뜨 꾸뛰르 데뷔를 선보였습니다.",
-      "url": "https://www.anothermag.com/fashion-beauty/17313/duran-lantink-jean-paul-gaultier-haute-couture-ss26-review",
-      "source": "Another Magazine",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "패션",
-        "혁신"
-      ],
-      "execution_techniques": [
-        "FashionFusion",
-        "TimeTravelAesthetic"
-      ],
-      "why": "1) 하이패션 브랜드와의 협업으로 인한 높은 주목도, 2) 전통과 현대적 감각의 조화로 디자인적 가치가 높음, 3) 다양한 시대적 요소를 결합한 혁신적 접근",
-      "depth": 0.5,
-      "image": "",
-      "pub_date": "2026-07-11T08:00:00.000000"
-    },
-    {
-      "title_ko": "키드배쉬: 클래식 SNES 게임처럼 렌더링된 블렌더 게임",
-      "summary": "블렌더를 활용하여 클래식한 게임 그래픽을 재현한 인디 게임이 주목받고 있습니다.",
-      "url": "https://www.creativebloq.com/3d/video-game-design/kidbash-super-legend-is-built-in-blender-but-rendered-like-a-classic-snes-game",
-      "source": "Creative Bloq",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "게임",
-        "레트로"
-      ],
-      "execution_techniques": [
-        "RetroGameAesthetic",
-        "DigitalNostalgia"
-      ],
-      "why": "1) 클래식 게임에 대한 향수를 불러일으키며 바이럴 요소가 강함, 2) 복고풍 그래픽의 시각적 매력, 3) 디지털 도구를 통한 새로운 창작 가능성",
-      "depth": 0.5,
-      "image": "https://cdn.mos.cms.futurecdn.net/tr6SwuWyyR7AYuvxP2oicg-1280-80.jpg",
-      "pub_date": "2026-07-11T08:00:00.000000"
-    }
-  ],
+  "popcorn": [],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",
