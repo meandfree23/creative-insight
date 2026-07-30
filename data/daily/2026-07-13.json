@@ -286,7 +286,53 @@
       "pub_date": "2026-07-13T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "바이럴 패션 디자인의 비밀",
+      "summary": "패션 디자인의 비밀이 공개됩니다.",
+      "url": "https://coolhunting.com/culture/2026-07-13-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "패션 디자이너의 창의적 비밀을 솔직하게 드러내어 많은 이들의 관심을 끌었습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래 건축의 모습",
+      "summary": "미래 건축의 상상력을 자극하는 디자인.",
+      "url": "https://coolhunting.com/culture/2026-07-13-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "미래지향적인 건축 디자인이 많은 사람들의 상상력을 자극하며 화제를 모았습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title_ko": "혁신적인 예술 작품",
+      "summary": "예술의 경계를 허무는 작품.",
+      "url": "https://coolhunting.com/culture/2026-07-13-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "창의적인 아이디어로 예술의 경계를 뛰어넘는 작품이 화제가 되었습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

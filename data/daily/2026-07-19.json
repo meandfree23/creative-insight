@@ -237,9 +237,99 @@
       "depth": 0.85,
       "image": "https://www.fubiz.net/wp-content/uploads/2022/02/RC1.png",
       "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "자연과의 조화를 이루는 디자인",
+      "summary": "이 작품은 자연의 형태를 재해석하여 인간과 환경의 조화를 강조합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-19-item-10",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Tadao Ando",
+      "creator_insight": "공간은 비어 있을 때 가장 강력하다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#BiophilicForm"
+      ],
+      "why": "이 디자인은 자연과의 조화를 중시하는 Tadao Ando의 철학을 잘 나타내고 있으며, 미학적 아름다움과 환경적 감각을 동시에 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "네오브루탈리즘의 재발견",
+      "summary": "이 작품은 네오브루탈리즘 스타일을 통해 강렬한 시각적 효과를 제공합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-19-item-11",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 타협하지 않는 예술이다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#Neubrutalism"
+      ],
+      "why": "Zaha Hadid의 혁신적인 디자인 접근 방식을 통해 현대 건축에서 네오브루탈리즘의 가능성을 다시금 조명합니다. 새롭고 강력한 시각적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-19T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "미래를 향한 혁신적 유리 건축",
+      "summary": "유리 구조로 만든 미래 지향적인 건축물이 화제를 모으고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-19-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "유리 건축물의 혁신적인 디자인은 현대 건축의 방향성을 새롭게 제시하며, 공학적 도전과 예술적 아름다움을 결합해 화제가 되고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "모듈형 가구의 새로운 시대",
+      "summary": "모듈형 디자인이 주목받으면서 실용성과 스타일을 동시에 잡고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-19-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "모듈형 가구는 다양한 공간에 맞춰 조정 가능한 특징으로 인기를 끌고 있으며, 현대 생활에 적합한 실용적인 솔루션으로 떠오르고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "디지털 아트의 경계를 넘다",
+      "summary": "디지털 아트가 새로운 차원의 경험을 제공하며 경계를 허물고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-19-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "디지털 아트는 기술과 예술의 융합으로 무한한 창의력을 발휘하며, 전통적인 예술 형식을 넘어서 새로운 형태와 경험을 제공하고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

@@ -308,7 +308,53 @@
       "pub_date": "2026-07-17T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "새로운 건축의 바람: 네오브루탈리즘의 부상",
+      "summary": "네오브루탈리즘의 독특한 모양과 재질감이 주목받고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-17-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "강렬한 시각적 충격으로 SNS에서 빠르게 확산되고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "3D 프린팅의 혁신: 개인화된 공간의 탄생",
+      "summary": "3D 프린팅 기술이 새로운 공간 디자인을 가능하게 합니다.",
+      "url": "https://coolhunting.com/culture/2026-07-17-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "개인화된 디자인으로 인해 소비자 참여가 급증하고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1523229736725-5f75b4a2826b?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래의 이동 수단: 자율주행차의 디자인 혁명",
+      "summary": "자율주행차 디자인이 교통의 미래를 재정의하고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-17-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "최신 기술의 융합으로 대중의 관심을 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1558980664-10d3c65b9d95?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

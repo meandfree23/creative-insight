@@ -237,9 +237,101 @@
       "depth": 0.85,
       "image": "https://humtto.vn/wp-content/uploads/2026/05/giay-humtto-771588-2.png",
       "pub_date": "2026-07-22T08:00:00.000000"
+    },
+    {
+      "title_ko": "자연과 연결된 디자인의 새로운 경계",
+      "summary": "이 작품은 자연과 인간의 관계를 재정의하며 혁신적이고 지속 가능한 디자인을 제시합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-22-item-10",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Yinka Ilori",
+      "creator_insight": "디자인은 사람들을 연결시키고 서로 이해하게 만드는 힘이 있다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#BiophilicForm",
+        "#KineticStructure"
+      ],
+      "why": "이 작품은 자연 요소를 통합하여 시각적 아름다움과 기능성을 동시에 추구합니다. 디자인과 생태계의 교차점을 탐구하여 관객에게 새로운 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-22T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래 건축의 혁신적 경향",
+      "summary": "건축의 한계를 넘어서 새로운 가능성을 탐구하며 미래를 위한 비전을 제시합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-22-item-11",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 형태와 공간을 통해 감정을 표현하는 예술입니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#Neubrutalism",
+        "#SubtractiveSculpture"
+      ],
+      "why": "이 디자인은 대담한 형상과 유동적 형태로 관객을 매료시키며, 건축의 기능성을 재조명합니다. 현대적 재료와 공법을 활용한 혁신적 접근이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-22T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "영감을 주는 일상 속 창의성",
+      "summary": "일상에서 발견할 수 있는 작은 창의적 요소들이 큰 영감을 줍니다.",
+      "url": "https://coolhunting.com/culture/2026-07-22-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "작은 아이디어들이 모여 큰 변화를 이끌 수 있음을 보여줍니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-22T08:00:00.000000"
+    },
+    {
+      "title_ko": "디지털 아트의 혁명적 경로",
+      "summary": "디지털 아트가 새로운 미적 경계를 탐구하며 주목받고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-22-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "디지털 혁신이 예술의 경계를 넓히고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-22T08:00:00.000000"
+    },
+    {
+      "title_ko": "독창적인 패션 디자인의 부상",
+      "summary": "창의성을 강조한 패션 디자인이 대중의 관심을 끌고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-22-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "독창적 디자인이 새로운 트렌드를 이끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-22T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

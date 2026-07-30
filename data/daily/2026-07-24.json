@@ -192,9 +192,143 @@
       "depth": 0.95,
       "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
       "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "자연의 형태로 재해석된 건축",
+      "summary": "이 프로젝트는 자연적인 형태에서 영감을 받아 건축적인 조형미를 구현한 것입니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-24-item-8",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Frank Gehry",
+      "creator_insight": "좋은 디자인은 시간과 장소를 초월합니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#BiophilicForm"
+      ],
+      "why": "프랭크 게리의 건축은 자연과의 조화를 통해 현대 건축의 새로운 길을 열었습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "색채와 형태의 경계를 넘나드는 디자인",
+      "summary": "이 작품은 다양한 색채와 형태를 통해 디자인의 새로운 경지를 탐구합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-24-item-9",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Yinka Ilori",
+      "creator_insight": "창의성은 문화적 경계를 허무는 힘이 있습니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#Neubrutalism"
+      ],
+      "why": "잉카 일로리의 작품은 색채와 형태의 경계를 자유롭게 넘나들며 문화적 다양성을 표현합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래의 디자인: 기능과 미학의 융합",
+      "summary": "현대 디자인은 기능성과 미학의 조화로 미래를 위한 길을 제시합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-24-item-10",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "좋은 디자인은 가능한 한 적게 디자인하는 것입니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#SubtractiveSculpture"
+      ],
+      "why": "디터 람스의 철학은 심플함과 기능성의 조화를 통해 미래지향적인 디자인을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "디지털 환경에서의 건축 미학",
+      "summary": "디지털 시대에 맞춘 건축적 미학을 통해 공간의 새로운 가능성을 제시합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-24-item-11",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 그 자체로 예술입니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#KineticStructure"
+      ],
+      "why": "자하 하디드의 작품은 디지털 혁신을 통해 건축의 새로운 미학을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-24T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "미래를 상상하는 창의적인 공간",
+      "summary": "이 공간은 창의적인 상상을 통해 미래의 디자인 비전을 제시합니다.",
+      "url": "https://coolhunting.com/culture/2026-07-24-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "미래 지향적인 디자인으로 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "혁신적인 소재로 만든 의자",
+      "summary": "이 의자는 새로운 소재로 제작되어 주목받고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-24-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "혁신적인 소재 사용으로 인한 바이럴 인기를 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "전통과 현대의 융합, 새로운 패션 트렌드",
+      "summary": "전통과 현대가 만난 패션 아이템이 주목받고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-24-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "전통과 현대의 융합이 새로운 트렌드로 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

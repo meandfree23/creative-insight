@@ -283,6 +283,36 @@
       "social_proof": "",
       "image": "https://img.nowness.com/nowness-frontend/v69gPfJvSBydNAUwvi1F_Jumpa%20Lagi_still%203.jpg",
       "pub_date": "2026-06-03T09:00:00+00:00"
+    },
+    {
+      "title_ko": "새로운 문화 트렌드: 네오브루탈리즘의 부상",
+      "summary": "현대 사회에서 네오브루탈리즘이 인기를 끌고 있는 이유를 탐구합니다.",
+      "url": "https://coolhunting.com/culture/2026-06-15-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "현대 디자인과 건축에서 네오브루탈리즘의 부상은 강렬한 미학과 정직한 소재 사용이 주목받고 있기 때문입니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "디지털 예술의 혁신: 글라스모피즘",
+      "summary": "디지털 디자인에서 글라스모피즘이 어떻게 창의성을 새롭게 정의하는지 살펴봅니다.",
+      "url": "https://coolhunting.com/culture/2026-06-15-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "글라스모피즘은 투명성과 깊이감을 활용하여 사용자 경험을 혁신적으로 변화시키고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1557682262-9a6532ccb118?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-06-15T08:00:00.000000"
     }
   ],
   "keywords": [

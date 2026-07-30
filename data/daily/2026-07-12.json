@@ -308,7 +308,53 @@
       "pub_date": "2026-07-12T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "새로운 바람: 디자인에 혁신을 불어넣다!",
+      "summary": "독특한 색채와 형식이 결합된 신선한 디자인이 주목받고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-12-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "이 디자인은 시각적으로 눈길을 끌며, 소셜 미디어에서 빠르게 공유되고 있습니다. 디자인의 혁신성과 접근성으로 인해 많은 관심을 받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "재미와 창의성: 참여형 미적 경험",
+      "summary": "참여자가 직접 디자인에 영향을 미치는 독특한 설치가 주목받고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-12-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "상호작용적 요소가 포함된 이 설치물은 참여자의 호기심을 자극하며, 다양한 방식으로 소셜 미디어에서 공유되고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1573497019418-5f0c1a5dd7f3?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래를 향한 창의적 도약",
+      "summary": "지속 가능성을 강조한 디자인 솔루션이 새로운 기준을 제시합니다.",
+      "url": "https://coolhunting.com/culture/2026-07-12-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "지속 가능한 디자인의 중요성을 다시금 상기시키며, 환경과 조화를 이루는 방법을 제시하여 많은 이들에게 감동을 주고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

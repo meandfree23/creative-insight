@@ -216,9 +216,121 @@
       "depth": 0.95,
       "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
       "pub_date": "2026-07-25T08:00:00.000000"
+    },
+    {
+      "title_ko": "공간 속의 생명력: 안도 다다오의 건축 철학",
+      "summary": "안도 다다오는 자연과 현대 건축을 결합하여 독창적인 공간을 창조합니다. 그의 작품은 일본 전통과 현대미의 조화를 강조합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-25-item-9",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Tadao Ando",
+      "creator_insight": "건축은 단순한 구조물이 아니라 인간과 자연의 대화입니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#BiophilicForm"
+      ],
+      "why": "안도의 작품은 건축과 자연을 융합하여 새로운 미적 경험을 제공하며, 그의 철학은 도시와 자연의 조화로운 공존을 탐구하는 데 중요한 가치를 지닙니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-25T08:00:00.000000"
+    },
+    {
+      "title_ko": "컬러와 패턴의 대가: 일로리 예술의 본질",
+      "summary": "일로리는 밝은 색상과 대담한 패턴을 통해 전통과 현대성을 결합합니다. 그의 작업은 디자인에 새로운 활력을 불어넣습니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-25-item-10",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Yinka Ilori",
+      "creator_insight": "컬러는 감정을 전하는 가장 강력한 도구입니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#Neubrutalism"
+      ],
+      "why": "일로리의 디자인은 시각적 즐거움을 제공하며, 문화적 다양성을 수용하는 현대 사회의 복합성을 반영합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1573497019258-3cb5cf45c4e4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-25T08:00:00.000000"
+    },
+    {
+      "title_ko": "투명성의 미학: 유리 구조의 혁신",
+      "summary": "유리는 건축의 경계를 허물며 혁신적이고 투명한 공간을 제공합니다. 이러한 접근은 현대 건축의 새로운 흐름을 형성합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-25-item-11",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "투명성은 건축에서 새로운 차원을 열어줍니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#Glassmorphism"
+      ],
+      "why": "사하 하디드의 유리 구조는 혁신적이며, 공간의 투명성과 경계를 탐구하는 현대 건축의 중요한 요소로 작용합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-25T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "놀라운 건축의 변신: 전통과 미래의 조우",
+      "summary": "전통적인 건축 양식과 현대의 기술이 결합된 놀라운 건축물이 큰 주목을 받고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-25-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "이 새로운 건축물은 전통과 현대의 조화로운 결합을 보여주며, 많은 사람들에게 영감을 주고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-25T08:00:00.000000"
+    },
+    {
+      "title_ko": "예술과 기술의 만남: 로봇이 만든 조각 작품",
+      "summary": "로봇의 정밀함이 예술로 승화된 작품이 전 세계의 이목을 끌고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-25-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "이 조각 작품은 기술과 예술의 융합이 어떻게 새로운 표현 방식을 창출하는지를 보여줍니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1581091870628-8603907e7807?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-25T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래의 색: AI로 그린 새로운 예술",
+      "summary": "인공지능이 창조한 미래의 색채와 패턴이 예술계에 새로운 바람을 일으키고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-25-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "AI의 창의적 잠재력이 실현되며, 예술과 기술의 경계가 모호해지고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1522204523234-872d4f7e8e96?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-25T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

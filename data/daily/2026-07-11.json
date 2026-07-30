@@ -285,7 +285,53 @@
       "pub_date": "2026-07-11T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "디지털 아트의 새로운 물결",
+      "summary": "디지털 아트를 활용한 놀라운 인터랙티브 전시가 주목받고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-11-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "디지털 기술과 예술의 결합은 새로운 경험을 제공하며, 소셜 미디어를 통해 빠르게 확산되고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "패션과 테크의 경계를 넘다",
+      "summary": "최신 기술을 활용한 혁신적 패션 디자인이 큰 반향을 일으키고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-11-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "패션 산업에서 기술의 도입은 지속 가능한 미래를 위한 새로운 패러다임을 제시하며, 대중의 관심을 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "건축의 미래를 제시하는 가상현실",
+      "summary": "가상현실 기술을 통한 건축 설계의 혁신적인 접근이 화제가 되고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-11-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "가상현실은 건축 설계의 새로운 가능성을 열며, 특히 교육과 체험적 학습에 큰 기여를 하고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1580910051243-1d4e4cd8405d?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

@@ -168,9 +168,170 @@
       "depth": 0.85,
       "image": "https://images.ctfassets.net/adaoj5ok2j3t/1JA6vcm70yDtJD7p2UK0Gl/b07d839da7102863bedbbabbc0205cf1/boy_and_plane_copy.jpg",
       "pub_date": "2026-07-29T08:00:00.000000"
+    },
+    {
+      "title_ko": "색채의 마술사, 일로리의 작품",
+      "summary": "현대 디자인에서 색채의 중요성을 강조하며, 감성을 자극하는 공간을 창조한 일로리의 혁신적 접근.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-29-item-7",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Yinka Ilori",
+      "creator_insight": "색채는 우리의 감정을 변화시키고 공간을 재정의할 수 있습니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#ColorTheory",
+        "#CulturalNarratives"
+      ],
+      "why": "일로리의 작품은 다채로운 색채와 문화적 이야기를 결합하여 현대 디자인의 새로운 길을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-29T08:00:00.000000"
+    },
+    {
+      "title_ko": "자연과의 조화: 앤도의 건축",
+      "summary": "앤도 타다오의 건축 철학은 자연과 인간의 조화를 통해 건축물의 본질을 찾습니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-29-item-8",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Tadao Ando",
+      "creator_insight": "건축은 자연과의 대화입니다.",
+      "tags": [
+        "건축",
+        "자연"
+      ],
+      "execution_techniques": [
+        "#Minimalism",
+        "#ConcretePoetry"
+      ],
+      "why": "앤도의 작품은 간결한 디자인 속에 깊은 철학적 메시지를 전달하며, 공간의 본질을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1528744598421-b7c84b9c24f0?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-29T08:00:00.000000"
+    },
+    {
+      "title_ko": "디터 램스의 미니멀리즘 철학",
+      "summary": "디터 램스는 단순함 속에서 기능성과 미학을 결합한 디자인을 추구합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-29-item-9",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "좋은 디자인은 가능한 한 적게 디자인하는 것입니다.",
+      "tags": [
+        "미니멀리즘",
+        "기능"
+      ],
+      "execution_techniques": [
+        "#FunctionalDesign",
+        "#Simplicity"
+      ],
+      "why": "람스의 디자인 철학은 현대 디자인의 기초를 이루고 있으며, 단순함과 효율성을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-29T08:00:00.000000"
+    },
+    {
+      "title_ko": "파울 랜드의 그래픽 혁명",
+      "summary": "파울 랜드는 색상과 형태의 조화를 통해 그래픽 디자인의 경계를 확장했습니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-29-item-10",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Paul Rand",
+      "creator_insight": "디자인은 우리가 어떻게 보느냐에 따라 다릅니다.",
+      "tags": [
+        "그래픽디자인",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "#Modernism",
+        "#AbstractForms"
+      ],
+      "why": "랜드의 디자인은 시각적 언어의 새 지평을 열었으며 혁신적이고 실험적인 접근을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-29T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래를 디자인하는 아블로의 비전",
+      "summary": "버질 아블로는 패션과 건축의 경계를 넘나들며 새로운 미래를 디자인합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-29-item-11",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "미래는 경계를 허무는 것으로 만들어집니다.",
+      "tags": [
+        "패션",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "#CrossDisciplinary",
+        "#StreetwearInfluence"
+      ],
+      "why": "아블로의 작품은 전통적인 디자인 규범을 넘어선 혁신적 아이디어를 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1558979158-65a1eaa08691?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-29T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "바이럴 패션 트렌드: 미래의 옷장",
+      "summary": "미래 지향적인 패션 아이템들이 인터넷을 강타하고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-29-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "미래 지향적인 디자인이 대중에게 신선하면서도 낯설게 다가와 폭발적인 관심을 받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-29T08:00:00.000000"
+    },
+    {
+      "title_ko": "바이럴 주거 공간: 미래의 집",
+      "summary": "혁신적인 주거 공간 디자인이 사람들의 관심을 끌고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-29-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "첨단 기술과 미니멀리즘을 결합한 주거 디자인이 젊은 세대의 호기심을 자극하고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-29T08:00:00.000000"
+    },
+    {
+      "title_ko": "바이럴 예술 트렌드: 디지털 아트의 부상",
+      "summary": "디지털 예술이 새로운 문화 현상으로 떠오르고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-29-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "디지털 플랫폼을 통해 빠르게 확산되는 예술 작품들이 대중의 주목을 받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-29T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

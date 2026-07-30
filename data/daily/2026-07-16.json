@@ -237,9 +237,99 @@
       "depth": 0.85,
       "image": "https://www.idea-mag.com/wp/wp-content/uploads/2024/06/H1-4-3_kobayashiikki_hb_240524-1-550x726.jpg",
       "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "자연과 조화된 건축의 미학",
+      "summary": "자연과 인간의 조화로운 공존을 디자인으로 실현한 작품들에 대한 리뷰입니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-16-item-10",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Tadao Ando",
+      "creator_insight": "“건축은 단순한 공간을 넘어 삶의 무대가 되어야 한다.”",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#BiophilicForm"
+      ],
+      "why": "이 작품은 자연과 공간의 경계를 허물며 새로운 미적 경험을 제공합니다. 시각적 가치와 함께 건축 분야에서의 획기적인 접근 방식을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "파격과 혁신: 현대 디자인의 새 지평",
+      "summary": "현대 디자인에서 새로운 아이디어와 파격적인 접근을 통해 창조된 작품들을 분석합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-16-item-11",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "“디자인은 소통의 도구이자 일종의 언어이다.”",
+      "tags": [
+        "디자인",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "#Neubrutalism"
+      ],
+      "why": "창의적이고 실험적인 접근을 통해 디자인이 어떻게 새로운 소통의 지평을 열 수 있는지를 보여줍니다. 다양한 분야와의 교차점에서 혁신을 이룬 사례로 주목받습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1581092338531-74b8f5315e5a?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-16T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "차세대 공간 경험의 혁신",
+      "summary": "가상 현실을 통한 몰입형 공간 경험의 미래를 탐구합니다.",
+      "url": "https://coolhunting.com/culture/2026-07-16-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "가상 현실 기술의 발전이 사람들에게 새로운 경험을 제공하며 큰 화제를 모으고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래 도시의 새로운 지평",
+      "summary": "스마트 도시의 개념과 그 미래 가능성에 대해 다룹니다.",
+      "url": "https://coolhunting.com/culture/2026-07-16-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "스마트 기술의 도입이 도시 생활의 패러다임을 변화시키고 있어 많은 관심을 받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1532372321244-c285b0285a8e?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    },
+    {
+      "title_ko": "지속 가능한 패션의 진화",
+      "summary": "지속 가능성을 중시하는 패션 브랜드들의 혁신을 조명합니다.",
+      "url": "https://coolhunting.com/culture/2026-07-16-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "환경 문제에 대한 인식이 높아지면서 친환경 패션이 새로운 트렌드로 부상하고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-16T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

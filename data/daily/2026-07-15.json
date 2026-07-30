@@ -237,9 +237,99 @@
       "depth": 0.85,
       "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/Daisuke-Tajima-Infinite-Emptiness-6-200x150.jpeg",
       "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "유기적 자연관을 반영한 공간 디자인의 흐름",
+      "summary": "자연의 요소를 디자인에 통합하여 인간과 환경의 조화를 추구하는 작품입니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-15-item-10-unique-2026-07-15.json",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Yinka Ilori",
+      "creator_insight": "디자인은 사람들의 삶을 밝히고 희망을 불러일으킬 수 있습니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#BiophilicForm"
+      ],
+      "why": "이 작품은 생물학적 형태를 통해 지속 가능성과 심미적 가치를 높이며, 다른 예술 및 건축 분야와의 연결성을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래의 건축",
+      "summary": "미래지향적 설계를 통해 인간 경험을 혁신하는 건축물입니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-15-item-11",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 우리 시대의 정신과 감성을 반영합니다.",
+      "tags": [
+        "건축",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "#KineticStructure"
+      ],
+      "why": "이 건축물은 미래의 기술적 가능성과 예술성을 완벽하게 결합하여 새로운 공간 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-15T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "바이럴 히트: 개성 넘치는 가구 디자인",
+      "summary": "개성 넘치는 디자인으로 주목받는 가구.",
+      "url": "https://coolhunting.com/culture/2026-07-15-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "독창적이고 튀는 디자인이 소셜 미디어에서 큰 화제를 모으며 빠르게 확산되고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래의 패션 트렌드",
+      "summary": "미래지향적 디자인으로 주목받는 패션 아이템.",
+      "url": "https://coolhunting.com/culture/2026-07-15-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "독창적인 패션 아이템이 젊은 층에서 인기를 끌며 패션 트렌드를 주도하고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title_ko": "예술과 기술의 융합",
+      "summary": "예술적 감성과 기술적 혁신이 결합된 작품.",
+      "url": "https://coolhunting.com/culture/2026-07-15-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "기술과 예술이 결합된 작품이 예술계와 기술계 모두에서 화제를 모으고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

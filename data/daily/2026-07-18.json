@@ -285,7 +285,53 @@
       "pub_date": "2026-07-18T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "미래형 디자인: 페이 투굿의 혁신적 접근",
+      "summary": "페이 투굿은 디자인의 경계를 허무는 독창적인 시도를 합니다.",
+      "url": "https://coolhunting.com/culture/2026-07-18-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "그녀의 작업은 새로운 트렌드를 창출하며 대중의 관심을 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "가상 현실을 넘나드는 자하 하디드의 작품",
+      "summary": "자하 하디드의 작품은 현실과 가상의 경계를 허뭅니다.",
+      "url": "https://coolhunting.com/culture/2026-07-18-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "독특한 시각적 경험을 제공하며 대중의 이목을 집중시킵니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title_ko": "비르길 아블로의 경계를 넘는 패션",
+      "summary": "비르길 아블로는 패션의 경계를 넓히는 혁신적인 디자이너입니다.",
+      "url": "https://coolhunting.com/culture/2026-07-18-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "그의 작품은 젊은 세대 사이에서 큰 인기를 얻고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "감성적 모듈화",

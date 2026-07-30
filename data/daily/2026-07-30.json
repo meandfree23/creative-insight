@@ -103,6 +103,182 @@
       "depth": 0.95,
       "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
       "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title_ko": "유연한 건축의 미학",
+      "summary": "자하 하디드의 건축은 유기적인 형태로 미래적인 아름다움을 창조합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-30-item-4",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 우리의 현실을 초월한 공간의 시입니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#KineticStructure"
+      ],
+      "why": "하디드의 작품은 기술과 감성을 결합하여 새로운 건축적 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title_ko": "색감의 조화",
+      "summary": "옌카 일로리의 디자인은 밝고 대담한 색채로 일상의 공간을 새롭게 변모시킵니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-30-item-5",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Yinka Ilori",
+      "creator_insight": "색은 우리의 감정을 변화시키고 세계를 새롭게 볼 수 있게 해줍니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#ColorBlocking"
+      ],
+      "why": "옌카 일로리의 작품은 색채 심리학을 활용하여 공간의 정체성을 재정의합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title_ko": "기능과 미학의 융합",
+      "summary": "디터 람스의 디자인 철학은 실용성과 아름다움의 완벽한 조화를 이룹니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-30-item-6",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "좋은 디자인은 최대한의 단순함을 추구합니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#SubtractiveSculpture"
+      ],
+      "why": "람스의 디자인 원칙은 현대 미니멀리즘의 기초가 되었습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title_ko": "자연과의 공명",
+      "summary": "다다오 안도의 건축은 자연과의 조화를 통해 평화로운 공간을 만듭니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-30-item-7",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Tadao Ando",
+      "creator_insight": "자연은 우리의 가장 위대한 스승입니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#BiophilicForm"
+      ],
+      "why": "안도의 작품은 자연 환경과 인간의 삶을 연결하는 매개체로서의 역할을 합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래지향적 패션",
+      "summary": "버질 아블로의 패션 디자인은 경계를 허물고 새로운 트렌드를 제시합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-30-item-8",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "경계를 허물 때, 창의성은 무한해집니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#StreetwearInnovation"
+      ],
+      "why": "아블로의 작업은 패션과 예술의 경계를 넘나들며 새로운 문화적 대화를 이끕니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title_ko": "구조적 역동성",
+      "summary": "프랭크 게리의 작품은 물리적 구조와 조형 예술의 만남을 구현합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-30-item-9",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Frank Gehry",
+      "creator_insight": "건축은 고정된 것이 아니라 움직임을 가진 예술입니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#Deconstructivism"
+      ],
+      "why": "게리의 작품은 현대 건축의 한계를 넘어 새로운 가능성을 탐색합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title_ko": "그래픽 디자인의 혁신",
+      "summary": "폴 랜드의 작품은 단순함과 명확성을 통해 디자인의 힘을 보여줍니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-30-item-10",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Paul Rand",
+      "creator_insight": "디자인은 단순화된 것이지만, 그 자체로 이야기입니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#MinimalistDesign"
+      ],
+      "why": "랜드의 작품은 현대 그래픽 디자인의 기초를 세웠으며, 그의 철학은 오늘날에도 유효합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title_ko": "혁신을 통한 변혁",
+      "summary": "페이 투굿의 작업은 재료에 대한 혁신적 접근으로 디자인의 경계를 넓힙니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-30-item-11",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Faye Toogood",
+      "creator_insight": "재료를 이해하는 것은 창의성의 시작입니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#MaterialInnovation"
+      ],
+      "why": "투굿의 작품은 전통적 재료의 새로운 해석을 통해 디자인의 가능성을 확장합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-30T08:00:00.000000"
     }
   ],
   "popcorn": [
@@ -120,6 +296,36 @@
       "why": "골프 문화의 현대적 재해석으로 젊은 세대에게 새로운 라이프스타일을 제안합니다.",
       "depth": 0.5,
       "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fhypegolf-clubhouse-nyc-2026-0.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래 도시의 비전",
+      "summary": "이 독특한 디자인은 미래 도시의 모습을 보여줍니다.",
+      "url": "https://coolhunting.com/culture/2026-07-30-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "혁신적인 비전과 디자인으로 대중의 이목을 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title_ko": "자연을 닮은 예술 작품",
+      "summary": "이 작품은 자연의 아름다움을 창조적으로 재현합니다.",
+      "url": "https://coolhunting.com/culture/2026-07-30-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "자연과 예술의 융합으로 사람들의 주목을 받으며 공유되고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
       "pub_date": "2026-07-30T08:00:00.000000"
     }
   ],

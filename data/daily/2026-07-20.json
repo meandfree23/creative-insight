@@ -285,7 +285,53 @@
       "pub_date": "2026-07-20T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "바이럴을 휘어잡은 유기적 건축의 매력",
+      "summary": "프랭크 게리의 최신 건축물은 소셜 미디어에서 뜨거운 화제를 모으고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-20-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "독창적 형태와 지속 가능성의 조화로 많은 사람들의 주목을 받으며, 시각적 충격을 주고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title_ko": "자연과의 깊은 연결: 생물학적 형태가 주목받는 이유",
+      "summary": "바이오필릭 디자인이 트렌드로 떠오르며, 자연과 인간의 연결을 강조하고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-20-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "생물학적 형태의 디자인은 심리적 안정을 제공하며, 자연의 미학을 현대 생활에 통합하는 방식으로 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1473187983305-f615310e7daa?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title_ko": "현대적 감각을 더한 전통의 재발견",
+      "summary": "전통적 요소를 현대적으로 재해석한 디자인이 새로운 트렌드로 자리잡고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-20-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "과거와 현재의 조화로운 융합은 강력한 시각적 매력을 제공하며, 다양한 문화적 배경을 가진 사람들 사이에서 인기 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

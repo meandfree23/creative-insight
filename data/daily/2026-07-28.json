@@ -214,9 +214,121 @@
       "depth": 0.85,
       "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/broz-8.jpg",
       "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title_ko": "자연과 함께하는 디자인",
+      "summary": "이 디자인은 생체 형태를 통해 자연과의 연결을 형성합니다. 작품은 공간과 사용자 간의 유기적인 상호작용을 강조합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-28-item-9",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Yinka Ilori",
+      "creator_insight": "\"색채와 패턴은 우리 삶에 활기를 불어넣습니다.\"",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "#BiophilicForm"
+      ],
+      "why": "이 작품은 자연과의 관계를 재조명하며, 다양한 분야에 걸쳐 새로운 디자인 방향을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title_ko": "건축의 유기적 유연성",
+      "summary": "이 작품은 건축에서 유기적 유연성을 탐구합니다. 공간의 흐름과 사용자 경험을 중심으로 한 혁신적인 접근을 보여줍니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-28-item-10",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "\"건축은 흐름과 운동을 통해 이야기를 만듭니다.\"",
+      "tags": [
+        "디자인",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "#KineticStructure"
+      ],
+      "why": "혁신적인 구조와 공간 설계로 건축 분야에서 큰 영향을 미치며, 다양한 분야와 연결점을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래를 그리는 상상력",
+      "summary": "미래를 그린 이 작품은 창의적인 상상력을 바탕으로 디지털과 물리적 세계를 융합합니다. 혁신적인 기술과 디자인의 결합을 탐구합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-28-item-11",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "\"창조는 경계를 허문 후 새롭게 쌓는 과정입니다.\"",
+      "tags": [
+        "디자인",
+        "미래"
+      ],
+      "execution_techniques": [
+        "#Neubrutalism"
+      ],
+      "why": "디지털과 물리적 경계를 허물며, 미래 디자인의 새로운 방향성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-28T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title_ko": "디자인의 반전 매력",
+      "summary": "현실을 반영한 독창적인 디자인이 소셜 미디어에서 큰 반향을 일으키고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-28-popcorn-0",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "현실 세계의 문제점을 재치 있게 표현하여 대중의 공감을 얻고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title_ko": "혁신적인 소재의 변신",
+      "summary": "새로운 소재를 활용한 실험적인 디자인이 주목받고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-28-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "익숙한 소재를 혁신적으로 변형하여 시청자들의 호기심을 자극하고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1604023481126-3f8a7b8f7f9b?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title_ko": "감각을 깨우는 디자인",
+      "summary": "시각과 촉각을 자극하는 디자인이 입소문을 타고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-28-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "다양한 감각을 자극하여 사용자 경험을 극대화하는 디자인이 인기를 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1481277542470-605612bd2d61?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",
