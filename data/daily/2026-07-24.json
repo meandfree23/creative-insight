@@ -214,6 +214,30 @@
       "depth": 0.85,
       "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Faudi-q9-sq9-flagship-suv-features-0.jpg?w=800&cbr=1&q=90&fit=max",
       "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "스튜디오 콤보의 비대칭 조형미가 돋보이는 가구 컬렉션",
+      "summary": "스튜디오 콤보는 기하학적 형태와 미니멀한 재료 조합을 통해 조형적 긴장감을 극대화한 새로운 파니쳐 라이브러리를 공개했습니다.",
+      "url": "https://www.designboom.com/design/studio-kombo-asymmetric-furniture-collection-07-29-2026/",
+      "source": "Designboom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Studio Kombo",
+      "creator_insight": "구조적 불균형 속에서 시각적 조화와 기능성을 탐구하는 것이 우리의 핵심 가치입니다.",
+      "tags": [
+        "가구디자인",
+        "미니멀리즘",
+        "비대칭"
+      ],
+      "execution_techniques": [
+        "Neubrutalism",
+        "SubtractiveSculpture"
+      ],
+      "why": "1) 조형적 시각 영감 제공, 2) 미니멀 가구 기법 레퍼런스, 3) 시각적 임팩트 높음, 4) 인테리어 및 공간 디자인 확장 포인트.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-24T08:00:00.000000"
     }
   ],
   "popcorn": [
@@ -255,6 +279,23 @@
       "why": "1) 새로운 플래그십 모델로 주목, 2) 세련된 디자인, 3) 자동차와 럭셔리 라이프스타일의 융합",
       "depth": 0.5,
       "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Faudi-q9-sq9-flagship-suv-features-0.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "도심 속 미니어처 거리 예술: 핑퐁 테이블 위의 작은 세상",
+      "summary": "아티스트 슬랭키는 스트리트 핑퐁 테이블 위에 정교한 3D 미니어처 스케이트파크를 조성하여 도심 스트리트 아트 씬에서 뜨거운 바이럴을 일으켰습니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/slinkachu-pingpong-miniature-skatepark/",
+      "source": "Colossal",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "미니어처",
+        "거리예술",
+        "바이럴"
+      ],
+      "why": "일상적인 스포츠 시설을 유쾌한 위트와 정교한 미니어처로 재해석하여 대중적 재미와 팝아트적 바이럴 가치가 높음.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=800&q=80",
       "pub_date": "2026-07-24T08:00:00.000000"
     }
   ],
