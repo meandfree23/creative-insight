@@ -262,25 +262,25 @@
       "pub_date": "2026-07-09T14:14:37+00:00"
     },
     {
-      "title_ko": "자연과 조화된 디자인",
-      "summary": "이 작품은 자연의 형태를 반영하면서도 현대적 감각을 유지합니다.",
-      "url": "https://www.itsnicethat.com/articles/2026-07-10-item-11",
-      "source": "It's Nice That",
+      "title_ko": "Weaving The Odyssey",
+      "summary": "When Christopher Nolan hired Jennifer Lame to edit Tenet, his 2020 sci-fi action thriller, she’d never worked on a project quite like it bef...",
+      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
+      "source": "Filmmaker Magazine",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Tadao Ando",
-      "creator_insight": "건축은 공간을 창조하는 예술로, 인간의 감정을 자아낼 수 있어야 합니다.",
+      "creator_name": "Filmmaker Magazine",
+      "creator_insight": "Filmmaker Magazine의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
       "tags": [
         "디자인",
         "미학"
       ],
       "execution_techniques": [
-        "#BiophilicForm"
+        "BiophilicForm"
       ],
       "why": "이 디자인은 자연의 요소를 현대적인 방식으로 해석하여, 건축과 자연의 경계를 허물고 있습니다. 이는 생태학적 설계와 인간의 감성에 대한 깊은 통찰을 제공합니다.",
       "social_proof": "",
       "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
       "pub_date": "2026-07-10T08:00:00.000000"
     }
   ],

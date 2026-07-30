@@ -686,7 +686,8 @@ function renderPopcorn() {
         if (p.category) h += '<span class="chip">'+p.category+'</span>';
         if (p.execution_techniques) {
           p.execution_techniques.forEach(function(t) {
-            h += '<span class="chip chip-technique">#'+t+'</span>';
+            var tagClean = (t || '').replace(/^#+/, '');
+            h += '<span class="chip chip-technique">#'+esc(tagClean)+'</span>';
           });
         }
         h += '</div></a>';
@@ -837,7 +838,8 @@ function renderMain() {
       if (p.category) h += '<span class="chip">'+p.category+'</span>';
         if (p.execution_techniques) {
           p.execution_techniques.forEach(function(t) {
-            h += '<span class="chip chip-technique">#'+t+'</span>';
+            var tagClean = (t || '').replace(/^#+/, '');
+            h += '<span class="chip chip-technique">#'+esc(tagClean)+'</span>';
           });
         }
       h += '</div></a>';
