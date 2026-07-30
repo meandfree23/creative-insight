@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-30",
+  "focusQ": "Agent's Thought: 현대 창작의 시대정신과 이종 도메인의 영감 교차성을 포착하는 심오한 철학적 통합을 이루어, 예술과 디자인의 경계를 허물고 새로운 창조적 가능성을 탐구합니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 주제는 경계 없는 창의성입니다. 예술과 디자인, 그리고 그 너머의 세계를 탐험하며, 당신의 창작에 새로운 영감을 제공합니다.",
+  "session": {
+    "timestamp": "2026-07-30T00:00:15.012583",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "환경적 취약성과 회복력을 시각화한 뉴욕 거버너스 아일랜드에서의 예술가들",
+      "summary": "앨런 미켈슨의 새로운 공공작품과 레슬리 웨인의 전시회가 기후 변화와 취약한 생태계를 탐구합니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/28/environmental-art-governors-island-alan-michelson-leslie-wayne",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Alan Michelson",
+      "creator_insight": "기후 변화와 생태계를 주제로 하는 작품을 통해 자연과 인간의 상호작용을 탐구하며, 경각심을 불러일으킵니다.",
+      "tags": [
+        "환경 예술",
+        "생태계",
+        "기후 변화"
+      ],
+      "execution_techniques": [
+        "EcoArt",
+        "PublicInstallation"
+      ],
+      "why": "1) 기후 변화와 예술의 접점을 탐구하며 현대 예술의 중요한 흐름을 제시합니다. 2) 생태계의 취약성과 회복력에 대한 독창적인 시각을 제공합니다. 3) 자연과 인간의 관계를 재조명하는 시각적 가치가 높습니다. 4) 환경 과학과 예술의 융합을 통해 새로운 창작의 가능성을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/8d66eb77cf5b7228e96415dbc07bdc797b9c25a0-2000x1500.jpg?w=140",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title_ko": "뉴욕의 네온 레이티드 사무실: 영화 제작의 에토스를 포착하다",
+      "summary": "LA의 혁신적인 영화 제작 회사 네온 레이티드의 사무실은 올드 할리우드와 영화적 이야기 전개를 디자인 렌즈로 재해석합니다.",
+      "url": "https://www.wallpaper.com/design-interiors/neon-rated-offices-los-angeles-studio-muka",
+      "source": "Wallpaper*",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Studio Muka",
+      "creator_insight": "고전 영화의 미학을 현대적 디자인으로 녹여내며, 공간을 통해 이야기를 전달하는 독창적인 접근을 보여줍니다.",
+      "tags": [
+        "영화 디자인",
+        "공간 디자인",
+        "할리우드"
+      ],
+      "execution_techniques": [
+        "CinematicDesign",
+        "RetroFuturism"
+      ],
+      "why": "1) 영화와 디자인의 경계를 허물며 현대적 공간 디자인의 새로운 방향성을 제시합니다. 2) 고전 할리우드의 미학을 현대적으로 재해석하여 독특한 문화적 관점을 제공합니다. 3) 영화적 서사의 공간화를 통해 시각적 가치가 뛰어납니다. 4) 디자인과 영화, 두 분야의 영감 교류를 통해 새로운 창작의 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/YQCgBmqhCF78rFfJWzmhKZ-1280-80.png",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "모던 골프 클럽하우스를 선보인 하이프골프, 소호",
+      "summary": "하이프골프가 소호에 모던한 골프 클럽하우스를 새롭게 공개합니다.",
+      "url": "https://hypebeast.kr/2026/7/hypegolf-clubhouse-nyc-2026",
+      "source": "Hypebeast",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "골프",
+        "모던 디자인"
+      ],
+      "why": "골프 문화의 현대적 재해석으로 젊은 세대에게 새로운 라이프스타일을 제안합니다.",
+      "depth": 0.5,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fhypegolf-clubhouse-nyc-2026-0.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    }
+  ]
+}
