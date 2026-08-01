@@ -9,326 +9,41 @@
   },
   "topPicks": [
     {
-      "title_ko": "예술이란 무엇인가? - 예술가와 사상가의 인사이트",
-      "summary": "예술의 본질에 대한 17개의 인사이트를 예술가들과 사상가들이 설명합니다. 이 인사이트들은 예술의 다양한 해석을 제공합니다.",
-      "url": "https://veryprivategallery.com/art-quotes/",
-      "source": "Very Private Gallery",
-      "domain": "ART",
+      "title": "제목을 입력하세요",
+      "content": "내용 요약을 입력하세요",
+      "url": "기사의 원본 링크를 입력하세요",
+      "source": "소스명을 입력하세요",
+      "domain": "카테고리를 입력하세요",
       "category": "리뷰",
-      "creator_name": "Pablo Picasso",
-      "creator_insight": "예술은 우리가 진실을 깨닫게 하는 거짓이다.",
+      "creator_name": "프로젝트의 실제 작가, 디자이너, 건축가 이름",
+      "creator_insight": "창의적인 인사이트를 입력하세요",
       "tags": [
-        "예술",
-        "인사이트",
-        "철학"
+        "태그1",
+        "태그2"
       ],
       "execution_techniques": [
-        "인용"
+        "스타일 해시태그"
       ],
-      "why": "예술의 본질을 탐구하며 깊이 있는 사유를 유도합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://veryprivategallery.com/wp-content/uploads/2024/03/Quotes-about-What-is-Art-Art-History-and-Interpretation.jpg",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "새로운 문화적 정체성",
-      "summary": "수천 년 동안 공예는 지역적 및 국가적 문화 정체성의 중심 요소였습니다. 오늘날 많은 전통적 공예가 사라지거나 개별 이상주의자들에 의해 유지되고 있습니다.",
-      "url": "https://artaurea.com/2026/neue-kulturelle-identitaeten/",
-      "source": "Art Aurea",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Yinka Ilori",
-      "creator_insight": "“저는 디자인이 사람들을 행복하게 만들고, 그들의 삶에 긍정적인 영향을 미칠 수 있다고 믿습니다.”",
-      "tags": [
-        "공예",
-        "문화",
-        "정체성"
-      ],
-      "execution_techniques": [
-        "역사적 분석"
-      ],
-      "why": "전통과 현대를 연결하는 문화적 가치를 강조합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://artaurea.com/wp-content/uploads/2026/05/Art-Aurea_Warwick-Freeman_Foto-Sam-Hartnett-aus-Hook-Hand-Heart-Star-herausgegeben-von-Die-Neue-Sammlung-The-Design-Museum-und-Objectspace_Erschienen-bei-arnoldsche-Art-Publisher-scaled.jpg",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "도쿄를 다시 푸르게 만드는 건축가 Kiyo Takeda",
-      "summary": "일본의 건축가 Kiyo Takeda가 도쿄의 녹지화를 위한 혁신적인 건축 프로젝트를 진행 중입니다. 도시와 자연의 조화를 추구하는 그의 접근 방식은 많은 영감을 줍니다.",
-      "url": "https://spoon-tamago.com/kiyo-takeda-the-architect-making-tokyo-green-again/?utm_source=rss&utm_medium=rss&utm_campaign=kiyo-takeda-the-architect-making-tokyo-green-again",
-      "source": "Spoon & Tamago",
-      "domain": "ARCHITECTURE",
-      "category": "리뷰",
-      "creator_name": "Kengo Kuma",
-      "creator_insight": "건축은 장소의 기억을 드러내는 작업입니다.",
-      "tags": [
-        "건축",
-        "환경",
-        "도시"
-      ],
-      "execution_techniques": [
-        "지속 가능성"
-      ],
-      "why": "현대 도시의 지속 가능한 발전을 위한 새로운 가능성을 제시합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://spoon-tamago.com/wp-content/uploads/2026/07/kiyo-takeda-tsuruoka-house-3-200x130.avif",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "삶의 방식을 바꾸는 건축: 런던의 혁신적 집",
-      "summary": "런던의 건축가가 자신의 집을 통해 재료와 구조에 대한 새로운 사고를 탐구하고 있습니다. 이 프로젝트는 설계와 건설의 새로운 가능성을 보여줍니다.",
-      "url": "https://www.wallpaper.com/architecture/residential/an-architects-house-draper-studio-london-uk",
-      "source": "Wallpaper*",
-      "domain": "ARCHITECTURE",
-      "category": "리뷰",
-      "creator_name": "Zaha Hadid",
-      "creator_insight": "건축은 항상 새로운 지형을 탐험하고, 전통적인 한계를 넘어서야 합니다.",
-      "tags": [
-        "건축",
-        "재료",
-        "혁신"
-      ],
-      "execution_techniques": [
-        "실험적 설계"
-      ],
-      "why": "새로운 건축적 사고를 제시하며 미래의 주거 공간을 상상하게 합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://cdn.mos.cms.futurecdn.net/9BjuB88VSFaKNvhEKrXHqD-1280-80.jpg",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "사진 속 인문학: 시간에 관하여",
-      "summary": "일본의 사진가 나라하라 잇코(Naraha Ikko)의 작업을 통해 시간의 개념을 탐구합니다. 그의 작품은 시간의 흐름을 시각적으로 표현합니다.",
-      "url": "https://blog.naver.com/sabids/223745538754?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
-      "domain": "PHOTOGRAPHY",
-      "category": "리뷰",
-      "creator_name": "Ansel Adams",
-      "creator_insight": "좋은 사진은 찍는 것이 아니라 만드는 것이다.",
-      "tags": [
-        "사진",
-        "시간",
-        "인문학"
-      ],
-      "execution_techniques": [
-        "시각적 탐구"
-      ],
-      "why": "시간의 흐름을 새로운 시각적 언어로 표현합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://blogthumb.pstatic.net/MjAyNTAyMDJfMjE3/MDAxNzM4NTAwMjU3NzM0.SRV54-HyPVcQrpVV0atxuL7ZuB_pphi_zDlAGIhGdegg.3ywHImBJDx7_tkWUvie2PVMaxzeehiQj6FAWB-tvEgUg.JPEG/2013%2C_%C6%C4%B8%AE.jpg?type=s3",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "Valeria Homayden: 리소그래프 애니메이션",
-      "summary": "자연의 숨겨진 패턴에서 영감을 받아, Valeria Homayden은 매혹적인 리소그래프 애니메이션을 만듭니다. 그녀의 작품은 독자들이 천천히 관찰하고 새로운 시각을 가지도록 유도합니다.",
-      "url": "https://www.itsnicethat.com/articles/valeria-homayden-field-notes-for-wonder-graphic-design-project-270726-u-2026-07-22.json",
-      "source": "It's Nice That",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Yoshiharu Tsuge",
-      "creator_insight": "나는 사람들이 볼 때 자신을 발견할 수 있는 만화를 만들고 싶다. 내 작업은 그들이 자신의 일부를 찾을 수 있는 거울이 될 수 있다.",
-      "tags": [
-        "애니메이션",
-        "자연",
-        "디자인"
-      ],
-      "execution_techniques": [
-        "리소그래프"
-      ],
-      "why": "자연의 미묘한 아름다움을 시각적으로 표현합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://media.itsnicethat.com/original_images/ezgif.com-resize_1_aevLeem.gif",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "Chris “Daze” Ellis의 '지하철의 난초 비'",
-      "summary": "뉴욕의 PPOW 갤러리에서 Chris “Daze” Ellis의 새로운 전시회가 열립니다. 그의 작품은 도시의 스트리트 아트를 감성적으로 표현합니다.",
-      "url": "https://www.juxtapoz.com/news/graffiti/chris-daze-ellis-orchid-rain-on-the-underground-ppow-gallery-nyc/",
-      "source": "Juxtapoz",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Chris 'Daze' Ellis",
-      "creator_insight": "그래피티는 단순한 낙서가 아니라, 사람들에게 메시지를 전달하고 세상을 변화시키는 힘이 있습니다.",
-      "tags": [
-        "스트리트 아트",
-        "전시회",
-        "뉴욕"
-      ],
-      "execution_techniques": [
-        "감성적 표현"
-      ],
-      "why": "도시의 일상 속에서 예술의 새로운 가능성을 보여줍니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://www.juxtapoz.com/media/k2/items/cache/6ea52af46917f156ac0499123960e4de_L.jpg",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "Palomo의 Tom of Finland 콜라보레이션",
-      "summary": "Alejandro Palomo는 과거와 현재의 퀴어 만남을 기념하며 새로운 협업을 선보입니다. 이 작품은 퀴어 문화의 다양한 측면을 조명합니다.",
-      "url": "https://www.anothermag.com/fashion-beauty/17342/palomo-tom-of-finland-interview-kees-de-klein?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=inside-palomo-s-tom-of-finland-collaboration",
-      "source": "anothermag.com",
-      "domain": "FASHION",
-      "category": "리뷰",
-      "creator_name": "Tom of Finland",
-      "creator_insight": "예술은 단순히 그림을 그리는 것이 아니라, 사람들에게 감정을 불러일으키고 새로운 시각을 제시하는 것입니다.",
-      "tags": [
-        "패션",
-        "퀴어",
-        "콜라보레이션"
-      ],
-      "execution_techniques": [
-        "문화적 표현"
-      ],
-      "why": "퀴어 문화의 다채로운 역사를 시각적으로 표현합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476118.jpg",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "Ettore Sottsass 컬렉션 페어: 기능에서 감성으로",
-      "summary": "METROCS에서 열리는 Ettore Sottsass의 컬렉션 페어는 기능적 디자인에서 감성적 디자인으로의 전환을 보여줍니다. 이 전시는 디자인의 새로운 가능성을 탐색합니다.",
-      "url": "https://www.adfwebmagazine.jp/en/design/ettore-sottsass-collection-fair-function-%e2%86%92-emotion-at-metrocs/",
-      "source": "ADF Web Magazine",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Ettore Sottsass",
-      "creator_insight": "디자인은 단순히 물건을 만드는 것이 아니라, 그것은 우리 삶의 방식에 대한 새로운 제안입니다.",
-      "tags": [
-        "디자인",
-        "콜렉션",
-        "전시"
-      ],
-      "execution_techniques": [
-        "디자인 전환"
-      ],
-      "why": "디자인의 감성적 접근 방식을 탐구합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-sottsass-collection-fair-metrocs-1-300x166.jpg",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "Giày rọ leo núi lội nước chống trượt nam Humtto",
-      "summary": "Humtto의 새로운 등산화는 편안함과 안전성을 제공합니다. 이 신발은 다양한 환경에서 최적의 성능을 발휘합니다.",
-      "url": "https://humtto.vn/giay-ro-leo-nui-loi-nuoc-chong-truot-nam-humtto-771588a/",
-      "source": "Unknown Source",
-      "domain": "FASHION",
-      "category": "리뷰",
-      "creator_name": "Virgil Abloh",
-      "creator_insight": "일상적인 것들이 가장 혁신적일 수 있습니다. 그것들이 우리가 살고 있는 세계의 일부이기 때문입니다.",
-      "tags": [
-        "패션",
-        "신발",
-        "안전"
-      ],
-      "execution_techniques": [
-        "기능성 디자인"
-      ],
-      "why": "실용적이며 스타일리시한 디자인을 제공합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://humtto.vn/wp-content/uploads/2026/05/giay-humtto-771588-2.png",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "Joe Tanis",
-      "summary": " Joe Tanis has had a busy spring.&nbsp;\n\n\tTake a look at recent images for ad campaigns shot by Joe Tanis Photography for Christie's Auction...",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/joe-tanis-64525.html",
-      "source": "productionparadise.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "productionparadise.com",
-      "creator_insight": "productionparadise.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
-      "tags": [
-        "디자인",
-        "미학"
-      ],
-      "execution_techniques": [
-        "BiophilicForm",
-        "KineticStructure"
-      ],
-      "why": "이 작품은 자연 요소를 통합하여 시각적 아름다움과 기능성을 동시에 추구합니다. 디자인과 생태계의 교차점을 탐구하여 관객에게 새로운 경험을 제공합니다.",
-      "social_proof": "",
+      "why": "큐레이터 관점을 입력하세요",
       "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/94065/newsletter/photo-jul-13-2026-5-21-16-pm-cover-joe-tanis-watches-and-jewellery-photography-and-motion.jpg",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "Jason Wilde CGI",
-      "summary": " Jason Wilde is a 3D artist and former still life jewellery photographer specialising in product renders and animations for watch and jewell...",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/jason-wilde-cgi-64732.html",
-      "source": "productionparadise.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "productionparadise.com",
-      "creator_insight": "productionparadise.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
-      "tags": [
-        "디자인",
-        "미학"
-      ],
-      "execution_techniques": [
-        "Neubrutalism",
-        "SubtractiveSculpture"
-      ],
-      "why": "이 디자인은 대담한 형상과 유동적 형태로 관객을 매료시키며, 건축의 기능성을 재조명합니다. 현대적 재료와 공법을 활용한 혁신적 접근이 돋보입니다.",
-      "social_proof": "",
-      "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/94486/newsletter/jason-wilde-02.jpg",
+      "image": "기사의 이미지 URL",
       "pub_date": "2026-07-22T08:00:00.000000"
     }
   ],
   "popcorn": [
     {
-      "title_ko": "Studio Orizzonte Gallery",
-      "summary": " Studio Orizzonte Gallery is a centre of excellence dedicated to photography, video, visual communication, and the promotion of contemporary...",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/studio-orizzonte-gallery-64736.html",
-      "source": "productionparadise.com",
+      "title": "제목을 한국어로 번역하세요",
+      "content": "1문장 요약을 한국어로 작성하세요",
+      "url": "기사의 원본 링크를 입력하세요",
+      "source": "소스명을 입력하세요",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "바이럴"
+        "태그1"
       ],
-      "why": "작은 아이디어들이 모여 큰 변화를 이끌 수 있음을 보여줍니다.",
+      "why": "이것이 왜 인기 있는 기사인지 설명하세요",
       "depth": 0.5,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/37816/newsletter/sog-01-studio-orizzonte-gallery-watches-and-jewellery-photography-and-motion.jpeg",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "AJ-Commercial",
-      "summary": " Andreas Jörg is a Germany-based photographer and director specialising in watches and jewellery. His work spans precise product imagery, ma...",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/aj-commercial-64792.html",
-      "source": "productionparadise.com",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "바이럴"
-      ],
-      "why": "디지털 혁신이 예술의 경계를 넓히고 있습니다.",
-      "depth": 0.5,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/95920/newsletter/tagheuer-moncao-detail.jpg",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title_ko": "AIntegrator Studio Crafts Futuristic Branding for AIntegrator",
-      "summary": "AIntegrator launches a forward-thinking tech platform with strategic branding, combining glowing dark UI packaging designed by AIntegrator S...",
-      "url": "https://abduzeedo.com/aintegrator-studio-crafts-futuristic-branding-aintegrator/",
-      "source": "abduzeedo.com",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "바이럴"
-      ],
-      "why": "독창적 디자인이 새로운 트렌드를 이끌고 있습니다.",
-      "depth": 0.5,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/aintegrator_0.jpg",
+      "image": "이미지 URL",
       "pub_date": "2026-07-22T08:00:00.000000"
     }
   ],

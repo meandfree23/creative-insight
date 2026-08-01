@@ -1,335 +1,486 @@
 [
     {
         "name": "It's Nice That",
-        "url": "https://www.itsnicethat.com/articles.rss"
+        "url": "https://www.itsnicethat.com/articles.rss",
+        "category": "ART"
     },
     {
         "name": "Filmmaker Magazine",
-        "url": "https://filmmakermagazine.com/feed/"
+        "url": "https://filmmakermagazine.com/feed/",
+        "category": "MOTION_FILM"
     },
     {
         "name": "Creative Independent",
-        "url": "https://thecreativeindependent.com/feed.xml"
+        "url": "https://thecreativeindependent.com/feed.xml",
+        "category": "DESIGN"
     },
     {
         "name": "coolhunting.com",
-        "url": "https://coolhunting.com/feed/"
+        "url": "https://coolhunting.com/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "promonews.tv",
-        "url": "https://www.promonews.tv/feed/"
+        "url": "https://www.promonews.tv/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "productionparadise.com",
-        "url": "https://feeds.feedburner.com/ProductionParadiseMembersFeed"
+        "url": "https://feeds.feedburner.com/ProductionParadiseMembersFeed",
+        "category": "DESIGN"
     },
     {
         "name": "abduzeedo.com",
-        "url": "https://abduzeedo.com/rss.xml"
+        "url": "https://abduzeedo.com/rss.xml",
+        "category": "DESIGN"
     },
     {
         "name": "honestart.tistory.com",
-        "url": "https://honestart.tistory.com/rss"
+        "url": "https://honestart.tistory.com/rss",
+        "category": "ART"
     },
     {
         "name": "maxgoldmandp.com",
-        "url": "https://maxgoldmandp.com/feed/"
+        "url": "https://maxgoldmandp.com/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "thestylewatcher.wordpress.com",
-        "url": "https://thestylewatcher.wordpress.com/feed/"
+        "url": "https://thestylewatcher.wordpress.com/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "ignant.com",
-        "url": "https://www.ignant.com/feed/"
+        "url": "https://www.ignant.com/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "opendoors.gallery",
-        "url": "https://opendoors.gallery/feed"
+        "url": "https://opendoors.gallery/feed",
+        "category": "ART"
     },
     {
         "name": "photobookstore.co.uk",
-        "url": "https://photoeditions.pub/rss"
+        "url": "https://photoeditions.pub/rss",
+        "category": "PHOTOGRAPHY"
     },
     {
         "name": "architecturaldigest.com",
-        "url": "https://www.architecturaldigest.com/feed/rss"
+        "url": "https://www.architecturaldigest.com/feed/rss",
+        "category": "SPATIAL"
     },
     {
         "name": "levineleavitt.com",
-        "url": "https://levineleavitt.com/feed/"
+        "url": "https://levineleavitt.com/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "strba.ch",
-        "url": "https://strba.ch/feed/"
+        "url": "https://strba.ch/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "uglyd.com",
-        "url": "https://uglyd.com/index.php/feed/"
+        "url": "https://uglyd.com/index.php/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "anothermag.com",
-        "url": "https://www.anothermag.com/Feed"
+        "url": "https://www.anothermag.com/Feed",
+        "category": "DESIGN"
     },
     {
         "name": "silvanderwoerd.com",
-        "url": "https://www.silvanderwoerd.com/blog-feed.xml"
+        "url": "https://www.silvanderwoerd.com/blog-feed.xml",
+        "category": "DESIGN"
     },
     {
         "name": "lensculture.com",
-        "url": "https://www.lensculture.com/feeds/flipboard.rss"
+        "url": "https://www.lensculture.com/feeds/flipboard.rss",
+        "category": "PHOTOGRAPHY"
     },
     {
         "name": "creativereview.co.uk",
-        "url": "https://www.creativereview.co.uk/feed/"
+        "url": "https://www.creativereview.co.uk/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "hubbardbirchler.net",
-        "url": "https://www.hubbardbirchler.net/feed/"
+        "url": "https://www.hubbardbirchler.net/feed/",
+        "category": "DESIGN"
     },
     {
-        "url": "https://rss.blog.naver.com/jujukey.xml"
+        "url": "https://rss.blog.naver.com/jujukey.xml",
+        "category": "DESIGN"
     },
     {
-        "url": "https://motionographer.com/feed/"
+        "url": "https://motionographer.com/feed/",
+        "category": "MOTION_FILM"
     },
     {
-        "url": "https://rss.blog.naver.com/tiger6107.xml"
+        "url": "https://rss.blog.naver.com/tiger6107.xml",
+        "category": "DESIGN"
     },
     {
-        "url": "https://filmshortage.com/feed/"
+        "url": "https://filmshortage.com/feed/",
+        "category": "MOTION_FILM"
     },
     {
-        "url": "https://feeds.feedburner.com/artofthetitle_rss"
+        "url": "https://feeds.feedburner.com/artofthetitle_rss",
+        "category": "ART"
     },
     {
-        "url": "https://rss.blog.naver.com/rca_37art.xml"
+        "url": "https://rss.blog.naver.com/rca_37art.xml",
+        "category": "ART"
     },
     {
-        "url": "https://cheimread.com/feed"
+        "url": "https://cheimread.com/feed",
+        "category": "DESIGN"
     },
     {
-        "url": "https://rss.blog.naver.com/jujukey.xml"
+        "url": "https://rss.blog.naver.com/jujukey.xml",
+        "category": "DESIGN"
     },
     {
-        "url": "http://www.designtwoply.com/feed"
+        "url": "http://www.designtwoply.com/feed",
+        "category": "DESIGN"
     },
     {
-        "url": "https://www.nowness.com/rss"
+        "url": "https://www.nowness.com/rss",
+        "category": "MOTION_FILM"
     },
     {
-        "url": "http://www.dailymotion.com/rss"
+        "url": "http://www.dailymotion.com/rss",
+        "category": "MOTION_FILM"
     },
     {
-        "url": "https://hypebeast.kr/feed"
+        "url": "https://hypebeast.kr/feed",
+        "category": "DESIGN"
     },
     {
-        "url": "https://vimeo.com/rss.xml"
+        "url": "https://vimeo.com/rss.xml",
+        "category": "MOTION_FILM"
     },
     {
-        "url": "https://directorslibrary.com/feed/"
+        "url": "https://directorslibrary.com/feed/",
+        "category": "DESIGN"
     },
     {
-        "url": "https://www.stashmedia.tv/feed/"
+        "url": "https://www.stashmedia.tv/feed/",
+        "category": "MOTION_FILM"
     },
     {
-        "url": "https://rss.blog.naver.com/damwon.xml"
+        "url": "https://rss.blog.naver.com/damwon.xml",
+        "category": "DESIGN"
     },
     {
-        "url": "https://rss.blog.naver.com/justina75.xml"
+        "url": "https://rss.blog.naver.com/justina75.xml",
+        "category": "DESIGN"
     },
     {
-        "url": "http://graymonster.tistory.com/feed"
+        "url": "http://graymonster.tistory.com/feed",
+        "category": "DESIGN"
     },
     {
-        "url": "https://www.andrew-townsend.com/rss/"
+        "url": "https://www.andrew-townsend.com/rss/",
+        "category": "DESIGN"
     },
     {
-        "url": "https://blog.naver.com/feed"
+        "url": "https://blog.naver.com/feed",
+        "category": "DESIGN"
     },
     {
-        "url": "https://rss.blog.naver.com/sabids.xml"
+        "url": "https://rss.blog.naver.com/sabids.xml",
+        "category": "DESIGN"
     },
     {
-        "url": "http://feeds.feedburner.com/behance/vorr"
+        "url": "http://feeds.feedburner.com/behance/vorr",
+        "category": "DESIGN"
     },
     {
-        "url": "https://designspotter.com/feed/"
+        "url": "https://designspotter.com/feed/",
+        "category": "DESIGN"
     },
     {
-        "url": "https://rss.blog.naver.com/nkj2001.xml"
+        "url": "https://rss.blog.naver.com/nkj2001.xml",
+        "category": "DESIGN"
     },
     {
-        "url": "https://thenationalgrid.com.au/welcome?format=rss"
+        "url": "https://thenationalgrid.com.au/welcome?format=rss",
+        "category": "DESIGN"
     },
     {
-        "url": "https://adim21.co.kr/wp-content/plugins/kboard/rss.php"
+        "url": "https://adim21.co.kr/wp-content/plugins/kboard/rss.php",
+        "category": "DESIGN"
     },
     {
-        "url": "http://smadani.com/feed"
+        "url": "http://smadani.com/feed",
+        "category": "DESIGN"
     },
     {
         "name": "Creative Boom",
-        "url": "https://www.creativeboom.com/feed/"
+        "url": "https://www.creativeboom.com/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "Juxtapoz",
-        "url": "https://www.juxtapoz.com/news/?format=feed&type=rss"
+        "url": "https://www.juxtapoz.com/news/?format=feed&type=rss",
+        "category": "ART"
     },
     {
         "name": "WePresent",
-        "url": "https://wepresent.wetransfer.com/rss"
+        "url": "https://wepresent.wetransfer.com/rss",
+        "category": "DESIGN"
     },
     {
-        "url": "https://www.artinsight.co.kr/rss"
+        "url": "https://www.artinsight.co.kr/rss",
+        "category": "ART"
     },
     {
-        "url": "http://www.adim21.co.kr/feed"
+        "url": "http://www.adim21.co.kr/feed",
+        "category": "DESIGN"
     },
     {
         "name": "It's Nice That",
-        "url": "http://feeds2.feedburner.com/itsnicethat/SlXC"
+        "url": "http://feeds2.feedburner.com/itsnicethat/SlXC",
+        "category": "DESIGN"
     },
     {
         "name": "Fubiz",
-        "url": "https://www.fubiz.net/feed/"
+        "url": "https://www.fubiz.net/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "The Dieline",
-        "url": "https://thedieline.com/feed/"
+        "url": "https://thedieline.com/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "Wallpaper*",
-        "url": "https://www.wallpaper.com/feeds.xml"
+        "url": "https://www.wallpaper.com/feeds.xml",
+        "category": "DESIGN"
     },
     {
         "name": "Creative Bloq",
-        "url": "https://www.creativebloq.com/feeds.xml"
+        "url": "https://www.creativebloq.com/feeds.xml",
+        "category": "DESIGN"
     },
     {
         "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/feed/"
+        "url": "https://www.thisiscolossal.com/feed/",
+        "category": "ART"
     },
     {
         "name": "The Art Newspaper",
-        "url": "https://www.theartnewspaper.com/rss.xml"
+        "url": "https://www.theartnewspaper.com/rss.xml",
+        "category": "ART"
     },
     {
         "name": "Design Milk",
-        "url": "https://design-milk.com/feed"
+        "url": "https://design-milk.com/feed",
+        "category": "DESIGN"
     },
     {
         "name": "Artforum",
-        "url": "https://www.artforum.com/feed/rss/"
+        "url": "https://www.artforum.com/feed/rss/",
+        "category": "ART"
     },
     {
         "name": "Booooooom",
-        "url": "https://www.booooooom.com/feed"
+        "url": "https://www.booooooom.com/feed",
+        "category": "ART"
     },
     {
         "name": "ADF Web Magazine",
-        "url": "https://adfwebmagazine.jp/en/feed"
+        "url": "https://adfwebmagazine.jp/en/feed",
+        "category": "DESIGN"
     },
     {
         "name": "ART iT",
-        "url": "https://art-it.asia/en/feed"
+        "url": "https://art-it.asia/en/feed",
+        "category": "ART"
     },
     {
         "name": "SHIFT",
-        "url": "https://shift.jp.org/en/blog/feed"
+        "url": "https://shift.jp.org/en/blog/feed",
+        "category": "DESIGN"
     },
     {
         "name": "Shotenkenchiku",
-        "url": "https://shotenkenchiku.com/blog/en/feed"
+        "url": "https://shotenkenchiku.com/blog/en/feed",
+        "category": "DESIGN"
     },
     {
         "name": "Spoon & Tamago",
-        "url": "http://www.spoon-tamago.com/feed/"
+        "url": "http://www.spoon-tamago.com/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "Tokyo Art Beat",
-        "url": "https://www.tokyoartbeat.com/rss"
+        "url": "https://www.tokyoartbeat.com/rss",
+        "category": "ART"
     },
     {
         "name": "IDEA Magazine",
-        "url": "https://idea-mag.com/feed/"
+        "url": "https://idea-mag.com/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "Street Art Barcelona",
-        "url": "https://streetartbcn.com/feed"
+        "url": "https://streetartbcn.com/feed",
+        "category": "ART"
     },
     {
         "name": "Base Elements Blog",
-        "url": "https://baseelements.net/blog/feed"
+        "url": "https://baseelements.net/blog/feed",
+        "category": "DESIGN"
     },
     {
         "name": "Very Private Gallery",
-        "url": "https://veryprivategallery.com/feed"
+        "url": "https://veryprivategallery.com/feed",
+        "category": "ART"
     },
     {
         "name": "Arquitectura Viva",
-        "url": "https://arquitecturaviva.com/feed"
+        "url": "https://arquitecturaviva.com/feed",
+        "category": "DESIGN"
     },
     {
         "name": "The Art Wolf",
-        "url": "https://www.theartwolf.com/feed/"
+        "url": "https://www.theartwolf.com/feed/",
+        "category": "ART"
     },
     {
         "name": "Berlin Art Link",
-        "url": "https://www.berlinartlink.com/feed/"
+        "url": "https://www.berlinartlink.com/feed/",
+        "category": "ART"
     },
     {
         "name": "Art Aurea",
-        "url": "https://artaurea.com/feed/"
+        "url": "https://artaurea.com/feed/",
+        "category": "ART"
     },
     {
         "name": "Archzine",
-        "url": "https://archzine.net/feed/"
+        "url": "https://archzine.net/feed/",
+        "category": "SPATIAL"
     },
     {
         "name": "Slanted",
-        "url": "https://www.slanted.de/feed/"
+        "url": "https://www.slanted.de/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "Arte.it",
-        "url": "https://www.arte.it/rss/feed_notizie.php"
+        "url": "https://www.arte.it/rss/feed_notizie.php",
+        "category": "ART"
     },
     {
         "name": "Artribune",
-        "url": "https://www.artribune.com/feed/"
+        "url": "https://www.artribune.com/feed/",
+        "category": "ART"
     },
     {
         "name": "Italy Dream Design",
-        "url": "https://italydreamdesign.com/en/feed/"
+        "url": "https://italydreamdesign.com/en/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "Picame",
-        "url": "https://picamemag.com/feed/"
+        "url": "https://picamemag.com/feed/",
+        "category": "DESIGN"
     },
     {
         "name": "Eye on Design",
-        "url": "https://eyeondesign.aiga.org/feed"
+        "url": "https://eyeondesign.aiga.org/feed",
+        "category": "DESIGN"
     },
     {
         "name": "Designboom",
-        "url": "https://www.designboom.com/feed"
+        "url": "https://www.designboom.com/feed",
+        "category": "DESIGN"
     },
     {
         "name": "Design Observer",
-        "url": "https://designobserver.com/feed"
+        "url": "https://designobserver.com/feed",
+        "category": "DESIGN"
     },
     {
         "name": "Highsnobiety",
-        "url": "https://www.highsnobiety.com/feed"
+        "url": "https://www.highsnobiety.com/feed",
+        "category": "DESIGN"
     },
     {
         "name": "Behance",
-        "url": "https://www.behance.net/rss"
+        "url": "https://www.behance.net/rss",
+        "category": "DESIGN"
     },
     {
-        "url": "https://www.hubbardbirchler.net/feed"
+        "url": "https://www.hubbardbirchler.net/feed",
+        "category": "DESIGN"
     },
     {
-        "url": "https://motionographer.com/feed"
+        "url": "https://motionographer.com/feed",
+        "category": "MOTION_FILM"
+    },
+    {
+        "name": "Dezeen",
+        "url": "https://www.dezeen.com/feed/",
+        "category": "SPATIAL"
+    },
+    {
+        "name": "ArchDaily",
+        "url": "https://www.archdaily.com/rss.xml",
+        "category": "SPATIAL"
+    },
+    {
+        "name": "Frame Web",
+        "url": "https://frameweb.com/rss",
+        "category": "SPATIAL"
+    },
+    {
+        "name": "Yellowtrace",
+        "url": "https://www.yellowtrace.com.au/feed/",
+        "category": "SPATIAL"
+    },
+    {
+        "name": "Retail Design Blog",
+        "url": "https://retaildesignblog.net/feed/",
+        "category": "SPATIAL"
+    },
+    {
+        "name": "Smashing Magazine",
+        "url": "https://www.smashingmagazine.com/feed",
+        "category": "UIUX"
+    },
+    {
+        "name": "UX Collective",
+        "url": "https://uxdesign.cc/feed",
+        "category": "UIUX"
+    },
+    {
+        "name": "Adweek",
+        "url": "https://www.adweek.com/feed/",
+        "category": "BRANDING"
+    },
+    {
+        "name": "UnderConsideration: Brand New",
+        "url": "https://feeds.feedburner.com/brandnew",
+        "category": "BRANDING"
+    },
+    {
+        "name": "The Drum",
+        "url": "https://www.thedrum.com/rss",
+        "category": "BRANDING"
+    },
+    {
+        "name": "Creative Applications",
+        "url": "https://www.creativeapplications.net/feed/",
+        "category": "TECH_ART"
+    },
+    {
+        "name": "80 Level",
+        "url": "https://80.lv/feed/",
+        "category": "MOTION_FILM"
     }
 ]

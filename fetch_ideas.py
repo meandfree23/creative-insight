@@ -23,10 +23,33 @@ import re
 import hashlib
 
 DOMAIN_FALLBACKS = {
+    "SPATIAL": [
+        "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1600&q=80",
+        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&q=80",
+        "https://images.unsplash.com/photo-1541888081622-1db3e61c5df6?w=1600&q=80",
+        "https://images.unsplash.com/photo-1600607688969-a5bfcd64bd40?w=1600&q=80",
+        "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=1600&q=80"
+    ],
+    "TECH_ART": [
+        "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=1600&q=80",
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&q=80",
+        "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=1600&q=80"
+    ],
+    "BRANDING": [
+        "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1600&q=80",
+        "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=1600&q=80"
+    ],
+    "UIUX": [
+        "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600&q=80",
+        "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=1600&q=80"
+    ],
     "DESIGN": [
-        "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80"
+    ],
+    "FASHION": [
+        "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=80"
     ],
     "ART": [
         "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80",
@@ -38,10 +61,6 @@ DOMAIN_FALLBACKS = {
         "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80",
         "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=800&q=80"
     ],
-    "FASHION": [
-        "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=80"
     ],
     "BRANDING": [
         "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
@@ -188,17 +207,17 @@ def generate_daily_insight(date_str, articles_subset):
       }},
       "topPicks": [
         {{
-          "title_ko": "(Translate the article title to engaging, sophisticated Korean)",
-          "summary": "(Write a 2-sentence precise summary in Korean)",
+          "title": "(Translate the article title to engaging, sophisticated Korean)",
+          "content": "(Write a 2-3 sentence precise summary of the actual scraped article content in Korean)",
           "url": "(The article's original link)",
           "source": "(The source name)",
           "domain": "(The source category, e.g., FASHION, ART, FILM, DESIGN, PHOTOGRAPHY)",
           "category": "리뷰",
-          "creator_name": "(Specific real-world artist, designer, architect, or creative lead behind this project, e.g. Bruno King, Clara Bergoënd, Pavel Rotts, Frank Gehry, Yinka Ilori)",
-          "creator_insight": "(Specific, high-density creative insight in Korean directly connecting this specific figure to their unique project concept, technique, or artistic statement, e.g., '타이포그래피의 역사적 맥락을 현대적 디자인으로 풀이내는 점이 인상적입니다.')",
+          "creator_name": "(Specific real-world artist, designer, architect, or creative lead behind this project)",
+          "creator_insight": "(Specific, high-density creative insight in Korean directly connecting this specific figure to their unique project concept)",
           "tags": ["(tag1)", "(tag2)", "(tag3)"],
-          "execution_techniques": ["(Extract 1-2 precise Visual Taxonomy style hashtags e.g. KineticStructure, Glassmorphism, Neubrutalism, BiophilicForm, SubtractiveSculpture, DigitalEmbossing)"],
-          "why": "(Write a compelling Curator View in Korean addressing: 1) Why relevant, 2) Reference perspective, 3) Visual value, 4) Cross-Disciplinary Connection: 다른 도메인/산업으로의 영감 확장 포인트)",
+          "execution_techniques": ["(Extract 1-2 precise Visual Taxonomy style hashtags)"],
+          "why": "(Write a compelling Curator View in Korean addressing: 1) Why relevant, 2) Reference perspective, 3) Visual value, 4) Cross-Disciplinary Connection)",
           "social_proof": "",
           "depth": 0.95,
           "image": "(The article's image URL if provided, else empty string)",
@@ -207,8 +226,8 @@ def generate_daily_insight(date_str, articles_subset):
       ],
       "popcorn": [
         {{
-          "title_ko": "(Select EXACTLY 3 trending/viral/pop-culture items from the remaining articles, title in Korean)",
-          "summary": "(1-sentence summary in Korean)",
+          "title": "(Select EXACTLY 2 trending/viral/pop-culture items from the remaining articles, title in Korean)",
+          "content": "(1-sentence summary of the content in Korean)",
           "url": "(The article's original link)",
           "source": "(Source name)",
           "domain": "POPCORN",

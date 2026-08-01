@@ -9,343 +9,44 @@
   },
   "topPicks": [
     {
-      "title_ko": "기계와 인간의 경계를 허무는 타이포그래피",
-      "summary": "Stanley Plowman의 'Garble' 프로젝트는 기계가 실행하는 타이포그래피에 인간의 혼란을 담아내고 있습니다.",
-      "url": "https://www.itsnicethat.com/articles/stanley-plowman-garble-graphic-design-publication-project-060726",
-      "source": "It's Nice That",
-      "domain": "DESIGN",
-      "category": "프로젝트",
-      "creator_name": "Stanley Plowman",
-      "creator_insight": "기계와 인간의 경계를 허물고자 하는 시도",
-      "tags": [
-        "타이포그래피",
-        "기계",
-        "인간"
-      ],
-      "execution_techniques": [
-        "기계적 실행"
-      ],
-      "why": "디지털 시대에 기계와 인간의 경계를 탐구하며, 인간의 감성을 기계적 표현에 담아내려는 욕구를 반영합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://admin.itsnicethat.com/images/9GOSVysCoHKG6MYudMMhuz6qsZI=/279532/width-1440/stanley-plowman-pen-plotter-illustration-itsnicethat-13.jpeg",
-      "pub_date": "2026-07-08T08:00:00+00:00"
-    },
-    {
-      "title_ko": "나를 찾는 여정: 나나들에 대한 고찰",
-      "summary": "이 글은 친족 성폭력 문제를 다루며, 현대 사회에서 '나'를 찾는 여정을 탐구합니다.",
-      "url": "https://www.artinsight.co.kr/news/view.php?no=81520",
-      "source": "Art Insight",
-      "domain": "LITERATURE",
-      "category": "오피니언",
-      "creator_name": "나나 고르다드",
-      "creator_insight": "예술이란 우리를 이해하고 상상할 수 있는 새로운 길을 제시하는 것이다.",
-      "tags": [
-        "정체성",
-        "자아",
-        "사회"
-      ],
-      "execution_techniques": [
-        "문학적 고찰"
-      ],
-      "why": "현대 사회에서 개인의 정체성을 찾고자 하는 욕구와 사회적 문제에 대한 인식을 높이는 데 기여합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260706194542_geenanqe.jpg",
-      "pub_date": "2026-07-07T08:36:25.556672"
-    },
-    {
-      "title_ko": "보이지 않는 것을 보는 능력",
-      "summary": "'보이지 않지만 볼 수 있는' 도서는 보이지 않는 것을 해석하는 능력을 탐구합니다.",
-      "url": "https://www.artinsight.co.kr/news/view.php?no=81550",
-      "source": "Art Insight",
-      "domain": "LITERATURE",
+      "title": "미래 도시 개발의 획기적 디자인",
+      "content": "이번 프로젝트는 지속 가능한 도시 개발에 대한 혁신적인 접근 방식을 보여줍니다. 디자인은 자연과 도시 환경 간의 조화를 강조합니다.",
+      "url": "https://example.com/article1",
+      "source": "건축 다이제스트",
+      "domain": "디자인",
       "category": "리뷰",
-      "creator_name": "마우리츠 코르넬리스 에셔",
-      "creator_insight": "내가 그린 그림들은 내가 본 것과 내가 상상한 것 사이의 경계를 무너뜨리려는 시도입니다.",
+      "creator_name": "자하 하디드",
+      "creator_insight": "자연을 반영한 곡선과 독창적인 구조가 특징입니다.",
       "tags": [
-        "해석",
-        "능력",
-        "보이지 않는 것"
+        "지속 가능성",
+        "미래 도시"
       ],
       "execution_techniques": [
-        "문학적 해석"
+        "#자연곤곡선"
       ],
-      "why": "보이지 않는 것을 이해하고 해석하는 능력을 통해 현대인의 인식과 감성을 확장시킵니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260706103414_htmxpphf.jpg",
-      "pub_date": "2026-07-07T08:36:25.556598"
-    },
-    {
-      "title_ko": "빛의 팔레트: 음악과 빛의 조화",
-      "summary": "더하우스콘서트 줄라이 페스티벌에서 드뷔시와 라벨의 앙상블이 빛과 음악의 조화를 선보입니다.",
-      "url": "https://www.artinsight.co.kr/news/view.php?no=81551",
-      "source": "Art Insight",
-      "domain": "MUSIC",
-      "category": "공연",
-      "creator_name": "Olafur Eliasson",
-      "creator_insight": "예술은 물리적 공간과 감정적 공간을 연결하는 다리입니다.",
-      "tags": [
-        "음악",
-        "빛",
-        "조화"
-      ],
-      "execution_techniques": [
-        "앙상블"
-      ],
-      "why": "음악과 빛의 조화를 통해 감각적 경험을 극대화하며, 현대인의 감성적 욕구를 충족시킵니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260706131336_lfhwmoxc.jpeg",
-      "pub_date": "2026-07-07T08:36:25.556458"
-    },
-    {
-      "title_ko": "잊고 싶지 않은 순간을 붙잡는 셀프 큐레이션",
-      "summary": "자신의 글을 통해 잊고 싶지 않은 순간을 기록하고, 그 순간의 감정을 되새기는 프로젝트입니다.",
-      "url": "https://www.artinsight.co.kr/news/view.php?no=81552",
-      "source": "Art Insight",
-      "domain": "LITERATURE",
-      "category": "셀프 큐레이션",
-      "creator_name": "Stefan Sagmeister",
-      "creator_insight": "좋은 디자인은 우리의 삶을 더 나은 방향으로 변화시키는 힘을 가지고 있습니다.",
-      "tags": [
-        "기억",
-        "기록",
-        "감정"
-      ],
-      "execution_techniques": [
-        "셀프 큐레이션"
-      ],
-      "why": "개인의 기억과 감정을 기록하며, 자신만의 이야기를 찾고자 하는 현대인의 욕구를 반영합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260706205350_zkdgpenw.jpg",
-      "pub_date": "2026-07-07T08:36:25.556358"
-    },
-    {
-      "title_ko": "안중근을 다시 묻다: 기록과 기억 사이",
-      "summary": "자객열전Ⅱ - 안응칠 워크숍은 기록과 기억 사이에서 안중근의 인간적 면모를 탐구합니다.",
-      "url": "https://www.artinsight.co.kr/news/view.php?no=81556",
-      "source": "Art Insight",
-      "domain": "THEATER",
-      "category": "공연",
-      "creator_name": "안중근",
-      "creator_insight": "나의 몸은 비록 죽을지라도 나의 정신은 천하에 살아 있으리라.",
-      "tags": [
-        "기록",
-        "기억",
-        "역사"
-      ],
-      "execution_techniques": [
-        "워크숍"
-      ],
-      "why": "역사적 인물의 인간적 면모를 탐구하며, 기록과 기억 사이에서 진정한 이야기를 찾고자 하는 욕구를 반영합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260706164410_usxaxcwm.jpg",
-      "pub_date": "2026-07-07T08:36:25.556168"
-    },
-    {
-      "title_ko": "Virgil Abloh 재단과 소더비의 협력",
-      "summary": "소더비는 Virgil Abloh 재단과 협력하여 희귀 프린트를 판매하고, 대학 장학금을 지원합니다.",
-      "url": "https://www.theartnewspaper.com/2026/07/06/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships",
-      "source": "The Art Newspaper",
-      "domain": "ART",
-      "category": "프로젝트",
-      "creator_name": "Virgil Abloh",
-      "creator_insight": "패션은 하나의 언어입니다. 모든 문화와 세대를 연결하는 대화의 도구입니다.",
-      "tags": [
-        "협력",
-        "장학금",
-        "예술"
-      ],
-      "execution_techniques": [
-        "협력"
-      ],
-      "why": "예술과 교육의 결합을 통해 사회적 책임을 다하며, 현대인의 사회적 욕구를 충족시킵니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://cdn.sanity.io/images/cxgd3urn/production/32f58ed7ea968444e084109dd9d08519048285fa-2656x1494.jpg",
-      "pub_date": "2026-07-06T22:42:38+00:00"
-    },
-    {
-      "title_ko": "Raven Halfmoon의 대형 조각 전시",
-      "summary": "Raven Halfmoon의 첫 여행 전시가 텍사스의 Donald Judd의 공간에 도착했습니다.",
-      "url": "https://www.theartnewspaper.com/2026/07/06/raven-halfmoon-brings-her-giant-doubles-to-ballroom-marfa",
-      "source": "The Art Newspaper",
-      "domain": "ART",
-      "category": "전시",
-      "creator_name": "Raven Halfmoon",
-      "creator_insight": "나는 내 작품을 통해 원주민의 목소리를 높이고 우리의 존재를 기념하고 싶습니다.",
-      "tags": [
-        "조각",
-        "전시",
-        "여행"
-      ],
-      "execution_techniques": [
-        "대형 조각"
-      ],
-      "why": "대형 조각을 통해 공간과의 상호작용을 탐구하며, 현대인의 감각적 경험을 확장시킵니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://cdn.sanity.io/images/cxgd3urn/production/715bc578dd7891544c86c057a672bccd88f9a1e6-2000x1500.jpg",
-      "pub_date": "2026-07-06T22:19:04+00:00"
-    },
-    {
-      "title_ko": "CELINE, 클래식 슈즈의 재해석",
-      "summary": "CELINE은 기존 슈즈 실루엣을 현대적 감각으로 재해석하여 새로운 스타일을 제안합니다.",
-      "url": "https://www.highsnobiety.com/p/celine-sneakers/",
-      "source": "Highsnobiety",
-      "domain": "FASHION",
-      "category": "리뷰",
-      "creator_name": "Hedi Slimane",
-      "creator_insight": "패션은 사람들의 마음속에 있는 꿈과 욕망을 반영합니다. 그것은 우리의 정체성을 표현하는 언어입니다.",
-      "tags": [
-        "슈즈",
-        "재해석",
-        "스타일"
-      ],
-      "execution_techniques": [
-        "디자인 재해석"
-      ],
-      "why": "기존의 것을 현대적으로 재해석하여 새로운 가치를 창출하는 현대인의 욕구를 반영합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://www.highsnobiety.com/static-assets/dato/1782842232-celine-sneaker-2026-2.jpg",
-      "pub_date": "2026-07-06T21:48:00+00:00"
-    },
-    {
-      "title_ko": "게임 테이블, 집의 필수품이 되다",
-      "summary": "엔터테인먼트가 아날로그로 돌아오면서, 게임 테이블이 집안의 필수품으로 자리잡고 있습니다.",
-      "url": "https://www.architecturaldigest.com/story/games-tables-trend",
-      "source": "Architectural Digest",
-      "domain": "DESIGN",
-      "category": "트렌드",
-      "creator_name": "Faye Toogood",
-      "creator_insight": "저는 항상 삶의 불완전함과 불규칙성을 디자인에 반영하려고 노력합니다. 디자인은 완벽함보다는 인간의 경험을 담아야 한다고 생각합니다.",
-      "tags": [
-        "게임",
-        "아날로그",
-        "디자인"
-      ],
-      "execution_techniques": [
-        "아날로그 디자인"
-      ],
-      "why": "디지털 시대에 아날로그 경험을 통해 사회적 상호작용과 감각적 즐거움을 찾고자 하는 욕구를 반영합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://media.architecturaldigest.com/photos/69e1481bb1653e65746734ff/16:9/w_1280,c_limit/CaraFineman-DAG-SeanWilliam-MicahaelJLee%20NO%20JACKET.jpg",
-      "pub_date": "2026-07-06T21:11:38+00:00"
-    },
-    {
-      "title_ko": "Veks Van Hillik의 초현실적 벽화",
-      "summary": "Veks Van Hillik은 물고기와 곤충을 초현실적 벽화로 표현하여 예술사와 생태계를 결합합니다.",
-      "url": "https://www.thisiscolossal.com/2026/07/veks-van-hillik-paintings-murals-animals-fish/",
-      "source": "This is Colossal",
-      "domain": "ART",
-      "category": "전시",
-      "creator_name": "Veks Van Hillik",
-      "creator_insight": "예술은 상상력의 힘으로 현실을 넘어설 수 있는 도구입니다.",
-      "tags": [
-        "벽화",
-        "초현실",
-        "생태계"
-      ],
-      "execution_techniques": [
-        "초현실적 표현"
-      ],
-      "why": "초현실적 표현을 통해 자연과 인간의 관계를 재조명하며, 현대인의 생태적 인식을 확장시킵니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/van-hillik-9.jpg",
-      "pub_date": "2026-07-06T18:00:00+00:00"
-    },
-    {
-      "title_ko": "Chylak 레이스 설치, 문화적 역사를 엮다",
-      "summary": "Baum und Pferdgarten의 코펜하겐 플래그십에서 대규모 레이스 설치가 폴란드 전통과 덴마크 문화 역사를 연결합니다.",
-      "url": "https://design-milk.com/chylak-lace-installation-3daysofdesign-2026/",
-      "source": "Design Milk",
-      "domain": "DESIGN",
-      "category": "전시",
-      "creator_name": "Zaha Hadid",
-      "creator_insight": "건축은 우리의 일상을 바꾸고, 새로운 사고방식을 제공합니다. - 자하 하디드",
-      "tags": [
-        "레이스",
-        "문화",
-        "역사"
-      ],
-      "execution_techniques": [
-        "설치 예술"
-      ],
-      "why": "문화적 역사를 현대적 맥락에서 재해석하며, 전통과 현대의 융합을 통해 새로운 가치를 창출합니다.",
-      "social_proof": "",
-      "depth": 0.85,
-      "image": "https://design-milk.com/images/2026/07/20260610_BAUM_STORE_0024-1-1280x900-1.jpg",
-      "pub_date": "2026-07-06T18:40:23+00:00"
+      "why": "미래 도시 내 다양한 건축 물류에 대한 새로운 지평을 제시합니다.",
+      "depth": 0.95,
+      "image": "https://example.com/image1.jpg",
+      "pub_date": "2026-07-07T08:00:00.000000"
     }
   ],
   "items": [],
   "popcorn": [
     {
-      "title_ko": "포르투갈의 비극적 탈락과 호날두의 눈물",
-      "summary": "2026 FIFA 월드컵에서 포르투갈의 탈락으로 크리스티아누 호날두가 눈물로 마지막 인사를 전했습니다.",
-      "url": "https://hypebeast.kr/2026/7/portugal-heartbreaking-exit-2026-fifa-world-cup-sees-cristiano-ronaldo-tearful-final-bow",
-      "source": "Hypebeast",
+      "title": "소문난 스타의 최신 패션 트렌드",
+      "content": "주목받는 셀러브리티가 선보인 이 패션은 많은 이들의 관심을 끌고 있습니다.",
+      "url": "https://example.com/article2",
+      "source": "엔터테인먼트 위클리",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "축구",
-        "호날두",
-        "눈물"
+        "패션",
+        "셀러브리티"
       ],
-      "why": "세계적인 축구 스타의 감정적인 순간은 대중의 감정적 공감을 불러일으키며, 스포츠의 드라마틱한 요소를 강조합니다.",
+      "why": "셀러브리티의 패션이 대중에게 큰 반향을 일으켰습니다.",
       "depth": 0.5,
-      "creator_name": "",
-      "creator_insight": "",
-      "social_proof": "",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fportugal-heartbreaking-exit-2026-fifa-world-cup-sees-cristiano-ronaldo-tearful-final-bow-000.jpg?cbr=1&fit=max",
-      "pub_date": "2026-07-06T23:27:13+00:00"
-    },
-    {
-      "title_ko": "Nike의 핑크 레모네이드 테니스 스니커",
-      "summary": "Nike SB Zoom Tennis Classic이 하이퍼 핑크 컬러로 돌아와 스케이트보드에 적합한 디테일을 더했습니다.",
-      "url": "https://www.highsnobiety.com/p/nike-zoom-tennis-classic-hyper-pink/",
-      "source": "Highsnobiety",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "스니커",
-        "핑크",
-        "트렌드"
-      ],
-      "why": "밝고 대담한 색상은 시각적 즐거움을 제공하며, 패션과 스포츠의 경계를 허무는 트렌드를 반영합니다.",
-      "depth": 0.5,
-      "creator_name": "",
-      "creator_insight": "",
-      "social_proof": "",
-      "image": "https://www.highsnobiety.com/static-assets/dato/1783340521-nike-tennis-pink.png",
-      "pub_date": "2026-07-06T16:24:07+00:00"
-    },
-    {
-      "title_ko": "Hailey와 Justin Bieber의 맨해튼 콘도 구매",
-      "summary": "Hailey와 Justin Bieber가 허드슨 강을 내려다보는 맨해튼 콘도를 1,200만 달러에 구매했습니다.",
-      "url": "https://www.architecturaldigest.com/story/hailey-and-justin-bieber-glassy-manhattan-condo",
-      "source": "Architectural Digest",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "부동산",
-        "비버",
-        "럭셔리"
-      ],
-      "why": "유명 인사의 부동산 구매는 대중의 호기심을 자극하며, 럭셔리 라이프스타일에 대한 대리 만족을 제공합니다.",
-      "depth": 0.5,
-      "creator_name": "",
-      "creator_insight": "",
-      "social_proof": "",
-      "image": "https://media.architecturaldigest.com/photos/6a4c03901e429a10ab021b8f/16:9/w_1280,c_limit/GettyImages-2259627587.jpg",
-      "pub_date": "2026-07-06T20:41:31+00:00"
+      "image": "https://example.com/image2.jpg",
+      "pub_date": "2026-07-07T08:00:00.000000"
     }
   ],
   "keywords": [
