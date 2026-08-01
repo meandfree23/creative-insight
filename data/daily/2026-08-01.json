@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-01",
+  "focusQ": "에이전트의 생각: 창의적인 흐름과 다양한 분야의 시너지가 한국의 문화에 어떻게 반영되는지를 탐구하며, 우리는 예술과 디자인의 경계를 넘나드는 상호작용을 목도합니다. 이러한 상호작용은 새로운 영감의 원천이 되며, 동시대 문화의 정수를 담고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘도 창의적인 여정을 함께하게 되어 기쁩니다. 다양한 시각과 문화적 관점을 통해 우리의 세계를 더욱 풍요롭게 하는 레퍼런스를 만나보세요.",
+  "session": {
+    "timestamp": "2026-08-01T00:01:09.178010",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "신성한 색채: 현대 벵골의 힌두 판화",
+      "summary": "보스턴 미술관에서 2026년 1월 31일부터 5월 31일까지 열리는 '신성한 색채: 현대 벵골의 힌두 판화' 전시회는 다양한 문화적 시각을 제공합니다.",
+      "url": "https://theartwolf.com/exhibitions/bengal-mfa-boston-2026/",
+      "source": "The Art Wolf",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "불명",
+      "creator_insight": "힌두 교리와 예술적 표현의 융합을 통해 전통과 현대의 경계를 탐구합니다.",
+      "tags": [
+        "힌두교",
+        "판화",
+        "문화"
+      ],
+      "execution_techniques": [
+        "BiophilicForm"
+      ],
+      "why": "현대 사회에서 전통 문화의 중요성을 다시금 상기시키는 작품으로, 다양한 문화적 관점을 이해하는 데 도움을 줍니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title_ko": "흙, 광물, 빛의 예술",
+      "summary": "뉘른베르크에서 개최되는 이 전시는 세 명의 아티스트가 흙, 광물, 빛을 탐구하며 이루어지는 예술적 대화입니다.",
+      "url": "https://artaurea.com/2026/von-erde-erzen-und-licht/",
+      "source": "Art Aurea",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Kati Jünger",
+      "creator_insight": "자연 소재를 활용한 예술적 실험이 돋보이며, 재료의 본질을 탐구합니다.",
+      "tags": [
+        "자연",
+        "세라믹",
+        "빛"
+      ],
+      "execution_techniques": [
+        "SubtractiveSculpture"
+      ],
+      "why": "자연과 인간의 상호작용을 예술적으로 해석하며, 다른 분야의 창의적 시너지를 불러일으킵니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://artaurea.com/wp-content/uploads/2026/03/Eva-Maisch-im-Hofstall_Helen-Britton_Brosche_Dark-Messenger.jpg",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "나이키 에어 맥스 축구화의 전설",
+      "summary": "나이키 에어 맥스 조가 보니토는 클래식한 디자인을 현대적으로 해석한 제품입니다.",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-joga-bonito/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "스포츠"
+      ],
+      "why": "스포츠와 패션의 경계를 허무는 디자인으로 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title_ko": "뮤지의 일본 전통 가구 복원 프로젝트",
+      "summary": "무지는 일본의 전통 가옥에서 수집한 앤틱 가구를 복원하는 프로젝트를 진행 중입니다.",
+      "url": "https://spoon-tamago.com/muji-antique-furniture/",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "가구",
+        "복원"
+      ],
+      "why": "전통과 현대의 조화를 통해 새로운 가치를 창출하고 있습니다.",
+      "depth": 0.5,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/nihonnohurukagu-5-150x200.jpeg",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title_ko": "페프시 바디워시, 소다향으로 변신",
+      "summary": "페프시 바디워시는 소다 향을 담은 독특한 제품입니다.",
+      "url": "https://thedieline.com/want-to-smell-like-soda-theres-a-pepsi-bodywash-for-that/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바디케어"
+      ],
+      "why": "기발한 아이디어로 호기심을 자극하며, 바이럴 마케팅의 사례로 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/pepsi-2.png",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "전통과 현대의 상호작용",
+      "is_hot": true
+    },
+    {
+      "word": "문화적 다양성",
+      "is_hot": true
+    }
+  ]
+}
