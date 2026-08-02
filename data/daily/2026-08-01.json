@@ -33,9 +33,265 @@
       "title_en": "",
       "title": "신성한 색채: 현대 벵골의 힌두 판화",
       "content": "보스턴 미술관에서 2026년 1월 31일부터 5월 31일까지 열리는 '신성한 색채: 현대 벵골의 힌두 판화' 전시회는 다양한 문화적 시각을 제공합니다."
+    },
+    {
+      "title": "Present & Correct 뒤의 이야기: 모든 그래픽 디자이너의 꿈인 완벽하게 큐레이션 된 문구점",
+      "content": "Neal Whittington 공동 창업자인 Present & Correct 문구 브랜드와의 인터뷰에서 이 브랜드의 전설적인 재고들 뒤에 숨겨진 이야기를 밝혀봅니다.",
+      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "이 인터뷰는 브랜드의 독특한 큐레이션과 출판 세계로의 첫 진입을 조명합니다.",
+      "tags": [
+        "문구",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "브랜드의 깊이와 독창성을 이해할 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "Karlovy Vary에서의 스파 에클렉틱스",
+      "content": "1946년부터 시작된 Karlovy Vary 국제 영화제는 점령과 타협, 생존의 놀라운 과정을 밟아왔습니다. 이러한 배경 속에서 영화제가 어떤 변화를 겪었는지 소개합니다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "영화제의 역사적 맥락을 깊이 있게 파악할 수 있는 기회입니다.",
+      "tags": [
+        "영화제",
+        "역사"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "연속성과 변화의 역사를 이해할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "Edie Fake: 이미지를 통한 소통",
+      "content": "아티스트이자 활동가, 작가인 Edie Fake 가 이미지로 소통하는 방식에 대한 개인적 경험을 공유합니다.",
+      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "다양한 매체를 통한 창의적 소통 방식을 이해할 수 있습니다.",
+      "tags": [
+        "아트",
+        "커뮤니케이션"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "이미지의 힘을 새롭게 조명합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "강렬한 감정에 따르는 음악가이자 예술가, Alexandra Drewchin",
+      "content": "Alexandra Drewchin이 엄마가 된 이후 어떻게 예술을 만들어가고 있는지에 대한 심층 인터뷰를 제공합니다.",
+      "url": "https://thecreativeindependent.com/people/musician-and-artist-alexandra-drewchin-eartheater-on-following-the-deep-feeling/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "예술과 개인 생활의 균형을 조명합니다.",
+      "tags": [
+        "음악",
+        "예술"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "감정의 변화가 창의성에 미치는 영향을 이해할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "Kim Justin Hell의 흥미로운 잡지 피처",
+      "content": "스위스의 상업 사진가 Kim Justin Hell은 럭셔리 시계 및 고급 제품 사진에서 두각을 나타내며 화려한 작품들을 선보입니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "정교한 조명과 매크로 전문 기술로 완성된 고급 시각 이미지를 탐구합니다.",
+      "tags": [
+        "사진",
+        "럭셔리"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "기술적 완벽성과 창의적 방향의 결합을 볼 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "Ayala Coffee Co.의 비주얼 아이덴티티: 촉각적 패키지 제작",
+      "content": "Ayala Coffee Co.의 브랜드 아이덴티티는 건축적 비례와 구조적 타이포그래피 패키징 디자인을 통해 기업의 정체성을 확립합니다.",
+      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "타이포그래피와 비주얼 아이덴티티에서 구조적 비례의 중요성을 강조합니다.",
+      "tags": [
+        "브랜딩",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "기업의 시각적 아이덴티티를 인식하고 분석할 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "플로이드 메이웨더 주니어의 생활",
+      "content": "플로이드 메이웨더 주니어는 현역 시절 무패의 전적과 5체급 제패로 유명하며, 오늘날 가장 많은 수입을 올리는 스포츠 스타입니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "전통적인 스포츠 전설과 현대적 부와 명예의 상징을 탐구합니다.",
+      "tags": [
+        "스포츠",
+        "라이프스타일"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "그의 성공과 개인 삶이 어떻게 결합되는지 이해할 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "꿈을 담은 프랑스 시계 -akteo",
+      "content": "akteo 시계는 단순한 시계가 아니라 꿈과 열정을 표현하는 상징물로, 프랑스 디자이너 Jean Christophe Marechal에 의해 만들어졌습니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "단순함 속에 독창적인 오브제를 통해 감정을 연결합니다.",
+      "tags": [
+        "시계",
+        "브랜드"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "브랜드의 철학과 디자이너의 의도를 이해할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "Spa Eclectics: At Karlovy Vary",
+      "content": "Karlovy Vary 국제 영화제는 점령과 타협, 살아남은 역사가 담긴 놀라운 경로를 걸어왔습니다. 1946년부터 시작된 그 역사를 조명합니다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "영화제의 역사적 변화를 심층적으로 이해할 수 있습니다.",
+      "tags": [
+        "역사",
+        "문화"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "역사 속 문화적 전통과 현대적 이야기를 결합합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "Ayala Coffee Co. Visual",
+      "content": "Ayala Coffee Co.의 브랜드 아이덴티티는 건축적 비례와 구조적 타이포그래피 패키징 디자인을 통해 기업의 정체성을 확립합니다.",
+      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "타이포그래피와 비주얼 아이덴티티에서 구조적 비례의 중요성을 강조합니다.",
+      "tags": [
+        "브랜드",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "기업의 시각적 아이덴티티를 인식하고 분석할 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
+      "pub_date": "2026-08-01T08:00:00.000000"
     }
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "초호화 스타선수의 생활  -플로이드 메이웨더 Floyd Mayweather Jr.",
+      "content": "플로이드 메이웨더는 무패로 5체급을 정복한 복서로 유명하며, 현재 세계에서 가장 많이 돈을 벌고 있는 선수 중 하나입니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "복싱"
+      ],
+      "why": "그의 화려한 라이프스타일을 엿볼 수 있는 기회입니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "꿈을 담은 프랑스 시계 -akteo(악테오)",
+      "content": "akteo 시계는 꿈과 열정을 표현하는 상징물로, 다양한 오브제를 통한 독특한 디자인을 선보입니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "시계"
+      ],
+      "why": "디자인의 예술성과 상징성을 탐험합니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "Interview Magazine – “Jamie Dornan”",
+      "content": "Jamie Dornan의 '그레이' 역으로 주목받기 전에 출연한 인터뷰 매거진에 관련된 내용을 다룹니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "연예"
+      ],
+      "why": "Jamie Dornan의 초기 모습을 볼 수 있는 흥미로운 콘텐츠입니다.",
+      "depth": 0.5,
+      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

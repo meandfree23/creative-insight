@@ -7,8 +7,289 @@
     "considered": 40,
     "selected": 14
   },
-  "topPicks": [],
-  "popcorn": [],
+  "topPicks": [
+    {
+      "title": "Karlovy Vary 영화제의 역사",
+      "content": "Karlovy Vary 국제 영화제는 1946년 첫 개최 이후 최고의 국제적 영향력을 인정받는 카테고리-A 영화제로 성장했다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "역사적으로 중요한 영화제로의 발전 과정에 대한 통찰 제공",
+      "tags": [
+        "영화제",
+        "역사"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "국제적 영화제의 역사적 및 문화적 중요성에 대한 심도 있는 분석",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "실제 감각의 마요네즈 머신",
+      "content": "ChaChaanTeng의 Heinz Mayo 캠페인은 음식의 감각적이고 로맨틱한 체험을 일본의 자동 판매기와 결합하였다.",
+      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "물리적 체험과 음식 문화가 결합된 독창적 시도",
+      "tags": [
+        "디자인",
+        "마케팅"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "디지털 시대의 물리적 경험의 중요성을 환기시킴",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "엔터테인먼트와 식사의 만남",
+      "content": "Delilah는 뉴욕에서 선보이는 최초의 영구적인 식사 및 공연 공간으로, 식사와 쇼가 결합된 경험을 제공한다.",
+      "url": "https://coolhunting.com/culture/outside-the-four-walls-delilah-chase-sapphire-reserve-and-the-return-of-the-supper-club/",
+      "source": "coolhunting.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "전통적 식사 공간을 새로운 형태로 재매개",
+      "tags": [
+        "엔터테인먼트",
+        "문화"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "문화적 트렌드 변화에 대한 심도 있는 이해를 제공",
+      "depth": 0.95,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/176_Chase-Sapphire-Delilah_Montauk_jermcohen-7.23.2026-768x512.jpg",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "프리스 레인지 2026: 새로운 사진 작가 발견",
+      "content": "프리스 레인지는 새로운 창의적 인재를 발굴하는 주요 목적지로, 독자적인 랭킹에서 10대 신흥 사진작가를 선정한다.",
+      "url": "https://opendoors.gallery/top-ten",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "자기 발굴에 충실한 예술적 경로 제공",
+      "tags": [
+        "사진",
+        "아트"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "신진 예술가들이 어떻게 인정받고 있는지를 이해",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "제니퍼 램과의 오디세이 편집 여행",
+      "content": "Jennifer Lame은 작은 영화에서 Nolan의 대작에 도전하면서, 영화의 캐릭터를 상상하여 편집에 임했다.",
+      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "작은 작업에서 거대한 영화로의 전환 과정을 기술",
+      "tags": [
+        "편집",
+        "영화"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "편집의 창조성과 도전 과제를 탐구",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "향기로 가득한 베를린의 일본식 티바",
+      "content": "Kissabō는 전통과 현대가 어우러진 독특한 분위기의 베를린에 위치한 현대적인 일본식 티바이다.",
+      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "현대적 공간 속의 전통 체험 제공",
+      "tags": [
+        "티바",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "전통과 현대의 문화적 융합을 탐색",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/06/kissabo-720x1280.jpg",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "미래를 향한 악테오 시계의 비전",
+      "content": "프랑스의 악테오 시계는 단순한 시간 측정기를 넘어서 꿈과 열정을 상징화하여 사용자의 감성을 자극한다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "개개의 창의성과 감성에 초점을 맞춘 디자인",
+      "tags": [
+        "시계",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "꿈과 미래를 시각적으로 연결",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "Sam Neill의 기억",
+      "content": "Sam Neill의 사망 후 그의 연기와 토론토 생활에 대한 추억이 영화커뮤니티 내에서 활발히 공유되었다.",
+      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "예상치 못한 부재의 영향력과 기억의 중요성을 탐구",
+      "tags": [
+        "회고",
+        "영화"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "문화 아이콘의 죽음이 지역 사회에 미치는 영향을 조명",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "금운의 문화적 표현",
+      "content": "양식화된 일본식 맥주 바아이의 독특한 디자인을 다룬다.",
+      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "특정한 재질 및 형태의 주요 감성적 잠재력을 재해석",
+      "tags": [
+        "디자인",
+        "맥주"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "새로운 디자인 언어의 개발 및 적용을 조명",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "스위스 시계의 미적 호사",
+      "content": "스위스에서 제작된 고급 시계인 악테오는 강력한 상징적 의미를 담고 있어 더 많은 사람들에게 다가가려 한다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "일상 생활에서 새로운 경험을 제공하는 다리 역할",
+      "tags": [
+        "시계",
+        "럭셔리"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "고급 상품에 대한 상징성과 접근성을 동시에 논의",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "작가의 삶과 감수성",
+      "content": "작가가 경험한 예술과 삶 속의 무수한 감정과 순간들이 그녀의 작품에 어떻게 나타나는지를 묘사한다.",
+      "url": "https://strba.ch/2025/10/29/lucid-dreams/",
+      "source": "strba.ch",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "작가의 내면 세계와 외부 세계 사이의 상호작용을 탐구",
+      "tags": [
+        "예술",
+        "삶"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "창작자의 삶과 예술 작품 간의 관계를 심도 있게 조명",
+      "depth": 0.95,
+      "image": "https://strba.ch/wp-content/uploads/2025/10/lucid_dreams_01-3030x2161.jpeg",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "플로이드 메이웨더 Jr.의 사치스러운 삶",
+      "content": "플로이드 메이웨더는 사상 최초로 무패로 5체급을 정복하였으며, 그의 초호화로운 생활에 대한 인사이트를 제공한다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "복싱",
+        "스타"
+      ],
+      "why": "스타의 개인 생활과 사치에 대한 대중의 관심 제공",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "인터뷰 매거진: 제이미 도넌",
+      "content": "제이미 도넌이 크리스찬 그레이로 캐스팅된 이후 많은 사람들이 그에 대한 기대를 품고 있으며, 그의 인터뷰를 통해 새로운 인사이트를 제공한다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "배우",
+        "인터뷰"
+      ],
+      "why": "유명 배우의 삶과 커리어에 대한 관심",
+      "depth": 0.5,
+      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "프랑스 시계 공예의 아름다움",
+      "content": "프랑스에서 제작된 악테오 시계는 단순한 시계를 넘어 꿈과 열정을 상징하는 팬시있는 기계장치로 설명된다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "시계",
+        "프랑스"
+      ],
+      "why": "시계 디자인과 기능의 통합에 대한 관심",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",
