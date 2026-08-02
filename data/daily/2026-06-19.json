@@ -9,283 +9,389 @@
   },
   "topPicks": [
     {
-      "title": "조드렐 뱅크 천문대 예산 삭감의 경고음",
-      "content": "영국 예술가 콘래드 쇼크로스는 영국 북서부에 위치한 유네스코 세계문화유산인 조드렐 뱅크 천문대의 예산 삭감 문제를 알리고 있습니다.",
-      "url": "https://www.theartnewspaper.com/2026/07/31/uk-artist-conrad-shawcross-sounds-alarm-on-jodrell-bank-observatory-funding-cuts",
+      "title_ko": "여름은 여름이기에 성스러운 - 여름의 카메라",
+      "summary": "영화 〈여름의 카메라〉는 사랑을 말하는 영화가 아니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81275",
+      "source": "Art Insight",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "Wim Wenders",
+      "creator_insight": "사진은 순간을 포착하는 것이 아니라, 그 순간이 가진 모든 이야기를 담아내는 것이다.",
+      "tags": [
+        "영화",
+        "여름",
+        "감성"
+      ],
+      "execution_techniques": [
+        "영화"
+      ],
+      "why": "이 영화는 단순한 사랑 이야기가 아닌, 여름이라는 계절의 본질적 감성을 탐구합니다. 이는 현대인들이 일상 속에서 잊고 지내던 자연적 감성을 되찾고자 하는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260618132101_zhmckpna.jpg",
+      "pub_date": "2026-06-19T08:31:10.734386",
+      "title_en": "",
+      "title": "여름은 여름이기에 성스러운 - 여름의 카메라",
+      "content": "영화 〈여름의 카메라〉는 사랑을 말하는 영화가 아니다."
+    },
+    {
+      "title_ko": "가족을 위한 조연에서 내 인생의 주인공으로, 뮤지컬 '오지게 재밌는 가시나들'",
+      "summary": "모든 사람은 각자의 이야기를 담은 삶을 살고 있다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81278",
+      "source": "Art Insight",
+      "domain": "MUSIC",
+      "category": "리뷰",
+      "creator_name": "임재범",
+      "creator_insight": "음악은 그 자체로 언어이고, 감정을 전달하는 가장 강력한 도구입니다.",
+      "tags": [
+        "뮤지컬",
+        "자아",
+        "삶"
+      ],
+      "execution_techniques": [
+        "뮤지컬"
+      ],
+      "why": "이 뮤지컬은 개인의 삶과 이야기를 강조하며, 현대인들이 자신의 존재 가치를 찾고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260618211436_oceeygxq.jpg",
+      "pub_date": "2026-06-19T08:31:10.734058",
+      "title_en": "",
+      "title": "가족을 위한 조연에서 내 인생의 주인공으로, 뮤지컬 '오지게 재밌는 가시나들'",
+      "content": "모든 사람은 각자의 이야기를 담은 삶을 살고 있다."
+    },
+    {
+      "title_ko": "죽음의 수용소 이후",
+      "summary": "빅터 프랭클의 미출간 유고작이 단행본으로 최초 공개되었습니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81277",
+      "source": "Art Insight",
+      "domain": "LITERATURE",
+      "category": "도서",
+      "creator_name": "빅터 프랭클",
+      "creator_insight": "삶에서 가장 중요한 것은 의미를 찾는 것이며, 인간은 그 의미를 찾을 때 진정으로 살아갈 수 있다.",
+      "tags": [
+        "문학",
+        "고통",
+        "인간"
+      ],
+      "execution_techniques": [
+        "도서"
+      ],
+      "why": "이 책은 인간의 고통과 존재의 의미를 깊이 탐구하며, 현대인들이 겪는 정체성의 혼란과 고통을 이해하고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260618211628_kamwuzwa.jpg",
+      "pub_date": "2026-06-19T08:31:10.733968",
+      "title_en": "",
+      "title": "죽음의 수용소 이후",
+      "content": "빅터 프랭클의 미출간 유고작이 단행본으로 최초 공개되었습니다."
+    },
+    {
+      "title_ko": "또 다시, 헤르만 헤세 – 싯다르타",
+      "summary": "책에도 인연처럼 느껴지는 이끌림이 있습니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81279",
+      "source": "Art Insight",
+      "domain": "LITERATURE",
+      "category": "Opinion",
+      "creator_name": "헤르만 헤세",
+      "creator_insight": "“모든 진리는 단순한 것이며, 단순한 것 안에만 진리가 있다.”",
+      "tags": [
+        "문학",
+        "인연",
+        "철학"
+      ],
+      "execution_techniques": [
+        "도서"
+      ],
+      "why": "이 글은 책과의 인연을 강조하며, 현대인들이 잊고 지내던 철학적 사유와 내면의 성찰을 되찾고자 하는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260618212108_pqooetit.jpg",
+      "pub_date": "2026-06-19T08:31:10.733883",
+      "title_en": "",
+      "title": "또 다시, 헤르만 헤세 – 싯다르타",
+      "content": "책에도 인연처럼 느껴지는 이끌림이 있습니다."
+    },
+    {
+      "title_ko": "Simone Rocha의 첫 남성복 쇼: '남성성의 부드러운 면에 끌린다'",
+      "summary": "아일랜드 디자이너가 S/S 2027 컬렉션의 이야기를 전합니다.",
+      "url": "https://www.wallpaper.com/fashion-beauty/simone-rocha-ss-2027-menswear-show-interview",
+      "source": "Wallpaper",
+      "domain": "DESIGN",
+      "category": "인터뷰",
+      "creator_name": "Simone Rocha",
+      "creator_insight": "남성성의 부드러운 면에 끌린다.",
+      "tags": [
+        "패션",
+        "남성성",
+        "부드러움"
+      ],
+      "execution_techniques": [
+        "패션쇼"
+      ],
+      "why": "이 컬렉션은 전통적인 남성성의 경계를 허물며, 현대인들이 젠더와 관련된 고정관념을 넘어서는 새로운 정체성을 탐구하는 데 도움을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/mDHBKvsdcU3MBgdHBTzYQb-1280-80.jpg",
+      "pub_date": "2026-06-18T23:16:39+00:00",
+      "title_en": "",
+      "title": "Simone Rocha의 첫 남성복 쇼: '남성성의 부드러운 면에 끌린다'",
+      "content": "아일랜드 디자이너가 S/S 2027 컬렉션의 이야기를 전합니다."
+    },
+    {
+      "title_ko": "Teresita Fernández, 휴스턴의 프레스코 빌딩 재개관을 장식하다",
+      "summary": "뉴욕 기반 아티스트가 휴스턴의 프레스코 빌딩 재개관을 위한 첫 아티스트로 선정되었습니다.",
+      "url": "https://www.artforum.com/news/teresita-fernandez-will-grace-menil-fresco-building-1234752574/",
+      "source": "Artforum",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "Teresita Fernández",
+      "creator_insight": "\"작품은 보는 사람이 스스로 연결하고 해석하게 하는 도구입니다. 작품이 완성되는 것은 관객이 참여할 때입니다.\"",
+      "tags": [
+        "아트",
+        "설치미술",
+        "재개관"
+      ],
+      "execution_techniques": [
+        "설치미술"
+      ],
+      "why": "이 설치미술은 공간의 재해석을 통해 현대인들이 일상 속에서 예술적 영감을 얻고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/06/Teresita-Fernandez-at-the-Fresco-Building-The-Menil-Collection-Houston.-Photo_-Sarah-Hobson.jpg",
+      "pub_date": "2026-06-18T21:21:01+00:00",
+      "title_en": "",
+      "title": "Teresita Fernández, 휴스턴의 프레스코 빌딩 재개관을 장식하다",
+      "content": "뉴욕 기반 아티스트가 휴스턴의 프레스코 빌딩 재개관을 위한 첫 아티스트로 선정되었습니다."
+    },
+    {
+      "title_ko": "46개의 블랙 소유 디자인 비즈니스",
+      "summary": "디자인 세계와 그 너머에서 주목할만한 블랙 소유 비즈니스",
+      "url": "https://www.architecturaldigest.com/story/black-owned-business-shop-guide",
+      "source": "Architectural Digest",
+      "domain": "DESIGN",
+      "category": "리스트",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "\"저는 패션을 통해 사람들에게 영감을 주고 싶습니다. 사람들이 자신의 방식으로 자신을 표현할 수 있는 플랫폼을 제공하고 싶습니다.\"",
+      "tags": [
+        "디자인",
+        "블랙 소유",
+        "비즈니스"
+      ],
+      "execution_techniques": [
+        "리스트"
+      ],
+      "why": "이 리스트는 다양성과 포용성을 강조하며, 현대인들이 사회적 책임을 고려한 소비를 추구하는 데 도움을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://media.architecturaldigest.com/photos/6986676a9a362421a593f6fd/16:9/w_1280,c_limit/black-owned-businesses.jpg",
+      "pub_date": "2026-06-18T21:07:09+00:00",
+      "title_en": "",
+      "title": "46개의 블랙 소유 디자인 비즈니스",
+      "content": "디자인 세계와 그 너머에서 주목할만한 블랙 소유 비즈니스"
+    },
+    {
+      "title_ko": "Refik Anadol의 Dataland, 세계 최초의 AI 아트 뮤지엄",
+      "summary": "Anadol의 스튜디오에서 시작된 몰입형 '상상력의 실험실'",
+      "url": "https://www.theartnewspaper.com/2026/06/18/refik-anadol-dataland-opens-los-angeles",
       "source": "The Art Newspaper",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "콘래드 쇼크로스",
-      "creator_insight": "예술과 과학의 융합에 대한 중요성을 알리는 데 있어 영향을 미치고 있습니다.",
-      "tags": [
-        "예술",
-        "과학"
-      ],
-      "execution_techniques": [
-        "#융합예술"
-      ],
-      "why": "조드렐 뱅크의 예산 삭감 이슈는 과학 문화 유산의 보존의 중요성을 인식시키는 기회를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.sanity.io/images/cxgd3urn/production/236cfba2b93da8f5488747466851837bf174ad09-4300x2978.jpg?w=140",
-      "pub_date": "2026-06-19T08:00:00.000000"
-    },
-    {
-      "title": "칼로비 바리의 스파 미학",
-      "content": "칼로비 바리 국제 영화제는 1946년 나치 통치에서 복구된 체코슬로바키아에서 첫 개최되었으며, 이후 수많은 변천사를 겪으며 국제적인 영향력을 확보하게 되었습니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "무명",
-      "creator_insight": "영화제의 역사는 문화의 생존과 타협의 중요성을 강조합니다.",
-      "tags": [
-        "영화제",
-        "역사"
-      ],
-      "execution_techniques": [
-        "#역사기록"
-      ],
-      "why": "칼로비 바리 영화제의 역사적 배경은 예술적 생존과 정체성의 중요성을 일깨웁니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-06-19T08:00:00.000000"
-    },
-    {
-      "title": "AI 에이전트와 사주팔자의 결합",
-      "content": "AI 에이전트를 활용하여 사주, 만세력, 자미두수 등의 전문 분석 체계를 처리할 수 있는 n8n과 Python 강의가 인프런에서 소개되었습니다.",
-      "url": "https://blog.naver.com/nkj2001/224261853861?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "남박사",
-      "creator_insight": "전통적인 동양의 분석 체계를 현대 기술과 접목하여 새로운 가능성을 탐색합니다.",
+      "category": "뉴스",
+      "creator_name": "Refik Anadol",
+      "creator_insight": "데이터는 우리가 상상할 수 있는 가장 중요한 재료입니다. 그것은 우리에게 보이지 않는 세계를 시각화하고 새로운 형태의 예술을 창조할 수 있게 합니다.",
       "tags": [
         "AI",
-        "사주"
+        "아트",
+        "뮤지엄"
       ],
       "execution_techniques": [
-        "#기술융합"
+        "AI"
       ],
-      "why": "AI와 동양 분석 체계의 결합은 혁신적인 서비스 개발 가능성을 제시합니다.",
-      "depth": 0.95,
-      "image": "https://blogthumb.pstatic.net/MjAyNjA0MjJfNjEg/MDAxNzc2ODY2Nzc0NzQ5.X9F0MAnoae_PKuuPnUWdBC6eCFuTvL56AopatQkJzSwg.jNEsj-_cL_IvShCRzv5tyWNI-SE5kAkphrJK8GtAuUcg.JPEG/cover3.jpg?type=s3",
-      "pub_date": "2026-06-19T08:00:00.000000"
+      "why": "이 AI 아트 뮤지엄은 기술과 예술의 융합을 통해 현대인들이 미래의 예술적 가능성을 탐구하는 데 도움을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/3b644c7902c91b7b52023ef76f10168e7d1343cf-1908x1272.jpg",
+      "pub_date": "2026-06-18T19:01:45+00:00",
+      "title_en": "",
+      "title": "Refik Anadol의 Dataland, 세계 최초의 AI 아트 뮤지엄",
+      "content": "Anadol의 스튜디오에서 시작된 몰입형 '상상력의 실험실'"
     },
     {
-      "title": "퍼블릭 아트로 제안하는 펀드 매니저 업무",
-      "content": "T. 로우 프라이스는 뉴욕 오큘러스에서 37피트 크기의 데이터 조각으로 펀드 매니저의 역할을 시각적으로 설명하는 예술 설치물을 제작했습니다.",
-      "url": "https://www.creativeboom.com/news/most-people-dont-know-what-a-fund-manager-actually-does-so-t-rowe-price-built-a-giant-art-installation-to-explain-it/",
-      "source": "Creative Boom",
+      "title_ko": "Adobe, Firefly와 Creative Cloud에 AI 디자인 도구 확장",
+      "summary": "Adobe가 AI 디자인 도구를 Premiere, Photoshop, Illustrator 등으로 확장합니다.",
+      "url": "https://abduzeedo.com/adobe-expands-ai-design-tools-across-firefly-and-creative-cloud/",
+      "source": "Abduzeedo",
       "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "T. 로우 프라이스",
-      "creator_insight": "복잡한 금융 개념을 대중에게 이해시키기 위한 창의적인 시도입니다.",
+      "category": "뉴스",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 사람들을 행복하게 만드는 것이다.",
       "tags": [
-        "공공예술",
-        "금융"
-      ],
-      "execution_techniques": [
-        "#시각예술"
-      ],
-      "why": "대중 예술 설치물은 복잡한 주제를 쉽게 이해할 수 있도록 돕습니다.",
-      "depth": 0.95,
-      "image": "https://www.creativeboom.com/upload/articles/fa/fac66796fa8d2a709210b5f2da8e25c3ee9c252b_840.jpg",
-      "pub_date": "2026-06-19T08:00:00.000000"
-    },
-    {
-      "title": "풀트레이 깊이감의 사진 인문학",
-      "content": "사진가 마이너 화이트의 심상 사진은 기본적으로 모든 마음이 다르다는 철학을 바탕으로 하고 있으며, 이를 통해 마음 없이도 가능한 사진의 표현 가능성을 탐구합니다.",
-      "url": "https://blog.naver.com/sabids/223758408225?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "마이너 화이트",
-      "creator_insight": "사진 표현에 있어 심상이 아닌 다른 요소를 통한 가능성을 제시합니다.",
-      "tags": [
-        "사진",
-        "인문학"
-      ],
-      "execution_techniques": [
-        "#사진철학"
-      ],
-      "why": "심상 사진은 기존 사진의 정의와 경계를 확장하는 시도를 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://blogthumb.pstatic.net/MjAyNTAyMTJfNTEg/MDAxNzM5MzYwMDY3ODY2.vUaTnBgRoubDCDb9DLuswkHsXB5Y0YWSPmjMc_UlM-Eg.8B2RANIpkFHF30FfWJIPPOlqlT8NtOjw3R1cGlgL63kg.JPEG/DSC00004.jpg?type=s3",
-      "pub_date": "2026-06-19T08:00:00.000000"
-    },
-    {
-      "title": "디자인으로 구현하는 럭셔리 다이닝 룸",
-      "content": "럭셔리 다이닝 룸을 설계하는 것은 비율, 조명, 소재를 완벽하게 조화시키는 것을 의미하며, 이는 개인의 라이프스타일과 성격을 반영하는 공간을 만드는 것입니다.",
-      "url": "https://italydreamdesign.com/en/how-to-design-a-luxury-dining-room-proportions-lighting-and-materials-for-a-timeless-interior/",
-      "source": "Italy Dream Design",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "무명",
-      "creator_insight": "디자인의 세련된 문맥을 통해 실생활 공간에 예술적 터치를 더합니다.",
-      "tags": [
-        "인테리어",
+        "Adobe",
+        "AI",
         "디자인"
       ],
       "execution_techniques": [
-        "#럭셔리디자인"
+        "AI"
       ],
-      "why": "현대적 디자인 감각을 접목하여 개성을 표현할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://italydreamdesign.com/wp-content/uploads/luxury-contemporary-italian-dining-room-200x300.jpg",
-      "pub_date": "2026-06-19T08:00:00.000000"
+      "why": "AI 도구의 확장은 창작자들이 더 효율적으로 작업할 수 있도록 도와주며, 현대인들이 창작의 자유를 누리고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_adobe-ai.jpg",
+      "pub_date": "2026-06-18T13:48:00+00:00",
+      "title_en": "",
+      "title": "Adobe, Firefly와 Creative Cloud에 AI 디자인 도구 확장",
+      "content": "Adobe가 AI 디자인 도구를 Premiere, Photoshop, Illustrator 등으로 확장합니다."
     },
     {
-      "title": "파리에서의 기억을 담다",
-      "content": "파리의 묘지와 광장은 역사적 인물들과 문화적인 지점을 나타내며, 파리를 방문하는 관광객들에게 큰 인상을 남깁니다.",
-      "url": "https://blog.naver.com/justina75/224330021977?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "무명",
-      "creator_insight": "관광지의 역사적 의미와 인상 깊은 경험을 통해 지나간 시대를 되새깁니다.",
-      "tags": [
-        "파리",
-        "역사"
-      ],
-      "execution_techniques": [
-        "#현지탐방"
-      ],
-      "why": "문화적유산은 현대 사회에 그 가치와 의미를 재조명하게 만듭니다.",
-      "depth": 0.95,
-      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjhfMTQz/MDAxNzgyNjQ1MjU3MDY2.LWAxUGSoO4GTEOHuX3h2NMtDhf_I71cer_rEI2TkvW4g.-kLH6IevN63Xe1zuPDNKhTHzubRGpfpl3iFestw60S8g.JPEG/900_Screenshot_20260628_130313_Maps.jpg?type=s3",
-      "pub_date": "2026-06-19T08:00:00.000000"
-    },
-    {
-      "title": "매혹적인 슈퍼내추럴 미스터리 게임",
-      "content": "에드워드 호퍼의 그림처럼 보이는 장면에서 초현실적이며 신비로운 미스터리 게임이 전개됩니다.",
-      "url": "https://80.lv/articles/this-supernatural-mystery-game-looks-like-an-edward-hopper-painting/",
-      "source": "80 Level",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "무명",
-      "creator_insight": "미술 작품의 독특한 스타일을 게임 디자인에 적용하여 몰입을 극대화합니다.",
-      "tags": [
-        "게임",
-        "미스터리"
-      ],
-      "execution_techniques": [
-        "#스타일적용"
-      ],
-      "why": "시각 예술과 게임이 결합된 혁신적인 시도입니다.",
-      "depth": 0.95,
-      "image": "https://cdn.80.lv/api/upload/post/41100/images/6a6ce9d9e03f1/cover_800x800.jpg",
-      "pub_date": "2026-06-19T08:00:00.000000"
-    },
-    {
-      "title": "조각으로 구성된 정교한 세상의 미학",
-      "content": "베로니카 파비안이 수상한 2026 프리드리히 베커 상은 주얼리의 생명력과 지속 가능성을 기념하는 자리였습니다.",
-      "url": "https://artaurea.com/2026/2026-friedrich-becker-prize/",
-      "source": "Art Aurea",
+      "title_ko": "Chloe Wise: '모든 것을 혼합 수프에 넣으려 한다'",
+      "summary": "화가로 더 잘 알려진 아티스트의 새로운 비디오 및 설치 쇼",
+      "url": "https://www.theartnewspaper.com/2026/06/18/chloe-wise-im-trying-to-put-all-of-these-things-into-a-mishmash-soup",
+      "source": "The Art Newspaper",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "베로니카 파비안",
-      "creator_insight": "주얼리 및 오브제 디자인을 통해 전통과 현대의 조화를 이끌어냅니다.",
+      "category": "인터뷰",
+      "creator_name": "Chloe Wise",
+      "creator_insight": "예술은 명확한 메시지를 전달하기보다는 관객에게 질문을 던지고, 그들이 스스로 해답을 찾도록 유도하는 것입니다.",
       "tags": [
-        "주얼리",
-        "디자인상"
+        "비디오",
+        "설치",
+        "혼합"
       ],
       "execution_techniques": [
-        "#정교한디자인"
+        "비디오",
+        "설치"
       ],
-      "why": "예술적 가치와 지속 가능성을 중시하는 디자인 철학의 중요성을 부각합니다.",
-      "depth": 0.95,
-      "image": "https://artaurea.com/wp-content/uploads/2026/06/Friedrich-Becker-Preis_Fabian_Veronika_Spring-ring-XXXL.jpg",
-      "pub_date": "2026-06-19T08:00:00.000000"
+      "why": "이 작품은 다양한 문화적 요소를 혼합하여 현대인들이 복잡한 정체성과 세계관을 탐구하는 데 도움을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/40efb0e78e8a557a31cf74a712099830a66af984-2250x1500.jpg",
+      "pub_date": "2026-06-18T14:58:55+00:00",
+      "title_en": "",
+      "title": "Chloe Wise: '모든 것을 혼합 수프에 넣으려 한다'",
+      "content": "화가로 더 잘 알려진 아티스트의 새로운 비디오 및 설치 쇼"
     },
     {
-      "title": "고휘도의 빛으로 펼쳐진 아우디 Q9 및 SQ9",
-      "content": "브루클린에서 데뷔한 아우디 Q9 및 SQ9은 혁신적인 라이트 기술로 새로운 드라이빙 경험을 선사합니다.",
-      "url": "https://coolhunting.com/technology/audis-q9-and-sq9-make-their-case-in-light/",
-      "source": "coolhunting.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "아우디",
-      "creator_insight": "적응형 빔과 얇은 테일라이트는 안전성과 스타일 모두를 고려한 설계입니다.",
+      "title_ko": "새로운 멕시코시티 직물 박물관, 토착 예술을 기념하다",
+      "summary": "새로운 Museo de Arte Textil de los Pueblos Indígenas y Afromexicanos는 직물을 살아있는 유산으로 프레임합니다.",
+      "url": "https://www.theartnewspaper.com/2026/06/18/museo-arte-textil-mexico-city-opens",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "Frida Kahlo",
+      "creator_insight": "나는 내 현실을 그린다. 왜냐하면 그것이 내가 아는 전부이기 때문이다.",
       "tags": [
-        "자동차",
-        "디자인"
+        "직물",
+        "토착 예술",
+        "박물관"
       ],
       "execution_techniques": [
-        "#혁신적인조명"
+        "박물관"
       ],
-      "why": "혁신적인 조명 기술은 자동차 디자인의 미래를 제시합니다.",
-      "depth": 0.95,
-      "image": "https://coolhunting.com/wp-content/uploads/2026/07/A263893_large-768x576.jpg",
-      "pub_date": "2026-06-19T08:00:00.000000"
+      "why": "이 박물관은 전통 예술의 가치를 재조명하며, 현대인들이 잊고 지내던 문화적 뿌리를 되찾고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/8b3d144c4c13a500f21ac86993af928ac8f5ec2a-2000x1800.jpg",
+      "pub_date": "2026-06-18T16:30:45+00:00",
+      "title_en": "",
+      "title": "새로운 멕시코시티 직물 박물관, 토착 예술을 기념하다",
+      "content": "새로운 Museo de Arte Textil de los Pueblos Indígenas y Afromexicanos는 직물을 살아있는 유산으로 프레임합니다."
     },
     {
-      "title": "세밀하게 구성된 지우개 조각 예술",
-      "content": "일본 예술가 사야 이리에가 지우개 가루를 사용하여 만든 섬세한 조각들은 일상의 흔적을 예술로 승화시킵니다.",
-      "url": "https://spoon-tamago.com/saya-irie-eraser-shavings/?utm_source=rss&utm_medium=rss&utm_campaign=saya-irie-eraser-shavings",
-      "source": "Spoon & Tamago",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "사야 이리에",
-      "creator_insight": "지우개의 자국을 예술 작품으로 변모시키는 창조적 발상을 제안합니다.",
+      "title_ko": "Sour Soda Studio, 인간이 통제력을 잃은 감미로운 세계를 그리다",
+      "summary": "일러스트레이터는 인간이 통제력을 잃은 감미로운 세계를 재미있게 그립니다.",
+      "url": "https://www.thisiscolossal.com/2026/06/sour-soda-studio-digital-illustrations/",
+      "source": "This is Colossal",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 삶을 개선합니다. 디자인은 우리의 감정과 일상에 깊이 영향을 미칠 수 있습니다.",
       "tags": [
-        "조각",
-        "예술"
+        "디지털 아트",
+        "일러스트",
+        "통제"
       ],
       "execution_techniques": [
-        "#서정적조각"
+        "디지털 아트"
       ],
-      "why": "일상의 사물을 예술적 가치로 변환하는 창의성이 돋보입니다.",
-      "depth": 0.95,
-      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/saya-irie-eraser-shaving-art-8-200x133.webp",
-      "pub_date": "2026-06-19T08:00:00.000000"
+      "why": "이 작품은 현대 사회의 혼란과 불확실성을 시각적으로 표현하며, 현대인들이 느끼는 불안과 통제력 상실에 대한 공감을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/sour-soda-8.jpg",
+      "pub_date": "2026-06-18T16:36:07+00:00",
+      "title_en": "",
+      "title": "Sour Soda Studio, 인간이 통제력을 잃은 감미로운 세계를 그리다",
+      "content": "일러스트레이터는 인간이 통제력을 잃은 감미로운 세계를 재미있게 그립니다."
     }
   ],
   "items": [],
   "popcorn": [
     {
-      "title": "어릴 때 갖고 놀았던 지우개 조각들",
-      "content": "일본 예술가 사야 이리에가 지우개 가루로 조각을 만드는 방법을 선보입니다.",
-      "url": "https://spoon-tamago.com/saya-irie-eraser-shavings/?utm_source=rss&utm_medium=rss&utm_campaign=saya-irie-eraser-shavings",
-      "source": "Spoon & Tamago",
+      "title_ko": "이 바이럴 인디 판타지 RPG는 모든 캐릭터를 일러스트 예술로 변환하여 수백만 뷰를 끌어모으고 있다",
+      "summary": "Sovereign Tower의 '작음'이 RPG 디자인에서 가장 대담한 움직임일 수 있습니다.",
+      "url": "https://www.creativebloq.com/art/digital-art/this-viral-indie-fantasy-rpg-is-pulling-millions-of-views-by-turning-every-character-into-a-piece-of-illustrated-fine-art-and-building-an-entire-game-world-inside-a-single-hand-painted-tower",
+      "source": "Creative Bloq",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "조각"
+        "RPG",
+        "인디게임",
+        "바이럴"
       ],
-      "why": "일상 사물을 예술로 승화시켜 많은 이들의 이목을 끌고 있습니다.",
+      "why": "이 게임은 독특한 예술적 스타일과 창의적인 세계관을 통해 대중의 시선을 사로잡습니다. 이는 현대인들이 새로운 경험과 시각적 자극을 갈망하는 욕구를 충족시킵니다.",
       "depth": 0.5,
-      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/saya-irie-eraser-shaving-art-8-200x133.webp",
-      "pub_date": "2026-06-19T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/26n6DEWnYsBM9xsQ9H6xkc-1280-80.jpg",
+      "pub_date": "2026-06-18T14:00:00+00:00",
+      "title_en": "",
+      "title": "이 바이럴 인디 판타지 RPG는 모든 캐릭터를 일러스트 예술로 변환하여 수백만 뷰를 끌어모으고 있다",
+      "content": "Sovereign Tower의 '작음'이 RPG 디자인에서 가장 대담한 움직임일 수 있습니다."
     },
     {
-      "title": "거인의 펀드 매니저 설치미술",
-      "content": "T. 로우 프라이스가 돈의 움직임을 시각적으로 보여줍니다.",
-      "url": "https://www.creativeboom.com/news/most-people-dont-know-what-a-fund-manager-actually-does-so-t-rowe-price-built-a-giant-art-installation-to-explain-it/",
-      "source": "Creative Boom",
+      "title_ko": "GTA 6 공식 박스 아트 공개, Rockstar는 Vice City 향수를 강하게 밀고 있다",
+      "summary": "가장 좋은 방식으로 즉시 친숙합니다.",
+      "url": "https://www.creativebloq.com/entertainment/gaming/gta-6-official-box-art-is-out-and-rockstar-is-leaning-hard-into-vice-city-nostalgia",
+      "source": "Creative Bloq",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "설치미술"
+        "GTA 6",
+        "게임",
+        "향수"
       ],
-      "why": "복잡한 금융 개념을 대중에게 쉽게 전달한 창의적 사례입니다.",
+      "why": "GTA 6의 박스 아트는 과거의 향수를 불러일으키며, 이는 현대인들이 과거의 감성을 재현하고자 하는 욕구를 반영합니다.",
       "depth": 0.5,
-      "image": "https://www.creativeboom.com/upload/articles/fa/fac66796fa8d2a709210b5f2da8e25c3ee9c252b_840.jpg",
-      "pub_date": "2026-06-19T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/WymhGNabnXBzd3XRZkaQwm-1280-80.jpg",
+      "pub_date": "2026-06-18T13:53:47+00:00",
+      "title_en": "",
+      "title": "GTA 6 공식 박스 아트 공개, Rockstar는 Vice City 향수를 강하게 밀고 있다",
+      "content": "가장 좋은 방식으로 즉시 친숙합니다."
     },
     {
-      "title": "버려진 지우개 가루로 만든 예술",
-      "content": "사야 이리에는 지우개 가루로부터 예술 작품을 만들어내었습니다.",
-      "url": "https://spoon-tamago.com/saya-irie-eraser-shavings/?utm_source=rss&utm_medium=rss&utm_campaign=saya-irie-eraser-shavings",
-      "source": "Spoon & Tamago",
+      "title_ko": "Nike Air Force 1 07 Low SE “Philadelphia” 공식 공개",
+      "summary": "즉시 친숙한 방식으로 디자인되었습니다.",
+      "url": "https://hypebeast.kr/2026/6/official-look-at-the-nike-air-force-1-07-low-se-philadelphia",
+      "source": "Hypebeast",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "예술"
+        "Nike",
+        "스니커즈",
+        "패션"
       ],
-      "why": "일상에서 흔히 보이는 것을 예술로 승화시켰다는 점에서 주목받고 있습니다.",
+      "why": "이 스니커즈는 지역적 정체성과 패션을 결합하여 대중의 시선을 끌며, 현대인들이 개성과 스타일을 통해 자신을 표현하고자 하는 욕구를 충족시킵니다.",
       "depth": 0.5,
-      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/saya-irie-eraser-shaving-art-8-200x133.webp",
-      "pub_date": "2026-06-19T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2Fnike-air-force-1-07-low-se-philadelphia-light-orewood-brown-metallic-gold-silk-phantom-mineral-teal-treasure-blue-sail-iv6205-104-official-images-release-info.jpg?cbr=1&fit=max",
+      "pub_date": "2026-06-18T14:17:24+00:00",
+      "title_en": "",
+      "title": "Nike Air Force 1 07 Low SE “Philadelphia” 공식 공개",
+      "content": "즉시 친숙한 방식으로 디자인되었습니다."
     }
   ],
   "keywords": [

@@ -9,285 +9,357 @@
   },
   "topPicks": [
     {
-      "title": "빠른 AI 변혁이 산업을 재편하고 있다",
-      "content": "AI 기술의 급격한 발전은 여러 산업 분야에 혁신을 일으키고 있으며, 전문가들은 이로 인해 기업의 효율성과 생산성이 향상될 것이라고 보고 있습니다.",
-      "url": "https://example.com/ai_transformation",
-      "source": "테크뉴스",
-      "domain": "기술",
+      "title_ko": "시크릿 에이전트 영화 리뷰",
+      "summary": "브라질 대사가 한국 시사회에 참석하여 브라질을 맛볼 수 있는 기회라고 인사를 나눴습니다. 이는 한국의 탄탄한 내수 시장에 대한 외국의 관심을 보여줍니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81576",
+      "source": "Art Insight",
+      "domain": "FILM",
       "category": "리뷰",
-      "creator_name": "존 스미스",
-      "creator_insight": "존 스미스는 AI 기술이 기존 비즈니스 모델을 완전히 새로운 방식으로 변화시키고 있다고 설명합니다.",
-      "tags": [
-        "AI",
-        "혁신"
-      ],
-      "execution_techniques": [
-        "#AI혁신"
-      ],
-      "why": "현재 AI는 모든 산업에 혁신을 가져오고 있으며 이는 기업에게 엄청난 기회를 줍니다.",
-      "depth": 0.95,
-      "image": "https://example.com/ai_image.jpg",
-      "pub_date": "2026-07-10T08:00:00.000000"
-    },
-    {
-      "title": "지속 가능한 건축의 미래",
-      "content": "최근 건축 트렌드는 지속 가능성과 환경 보호를 중점으로 하고 있습니다. 지속 가능한 자재와 에너지 효율적인 디자인이 주된 요소입니다.",
-      "url": "https://example.com/sustainable_architecture",
-      "source": "건축다이제스트",
-      "domain": "건축",
-      "category": "리뷰",
-      "creator_name": "안나 리",
-      "creator_insight": "안나 리는 환경적 책임을 강조하며, 지속 가능한 설계가 향후 건축의 핵심이 될 것이라고 주장합니다.",
-      "tags": [
-        "지속 가능성",
-        "환경"
-      ],
-      "execution_techniques": [
-        "#친환경건축"
-      ],
-      "why": "지속 가능한 건축은 환경 보호와 함께 미래의 도시 계획에 중요한 역할을 할 것입니다.",
-      "depth": 0.95,
-      "image": "https://example.com/architecture_image.jpg",
-      "pub_date": "2026-07-10T08:00:00.000000"
-    },
-    {
-      "title": "완벽하게 큐레이션된 문구점, Present & Correct 이야기",
-      "content": "그래픽 디자이너들의 꿈의 가게로 불리는 Present & Correct는 팬들이 오랜 시간 사랑해 온 브랜드입니다. 공동 창업자인 닐 휘팅턴과의 인터뷰를 통해 기존의 인쇄 에페메라와 문구류 브랜드가 출판 세계에 첫 발을 내딛은 이야기를 들어봅니다.",
-      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
-      "source": "It's Nice That",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "유명 문구 브랜드의 숨겨진 스토리를 밝히는 매력적인 인터뷰입니다.",
-      "tags": [
-        "문구점",
-        "디자이너"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "문구점이지만 디자인의 깊이와 스토리가 뛰어난 콘텐츠입니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
-      "pub_date": "2026-07-10T08:00:00.000000"
-    },
-    {
-      "title": "칼로비 바리에서 만나는 스파 익학틱스",
-      "content": "카를로비 바리 국제 영화제는 1946년에 시작된 유서 깊은 영화제입니다. 나치 점령에서 해방된 후 시작되어, 1958년에는 국제 영화 제작자 연맹에서 A급 영화제로 인정받았습니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "전통 깊은 영화제가 현대에서 유지되고 있는 이야기입니다.",
-      "tags": [
-        "영화제",
-        "역사"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "영화제의 역사와 현재의 모습을 동시에 조명하는 깊이 있는 기사.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-07-10T08:00:00.000000"
-    },
-    {
-      "title": "에디 페이크: 이미지와 소통하는 예술가",
-      "content": "이미지는 에디 페이크 예술 실천의 중심입니다. 건축과 이미지 사이의 상관관계에 대한 깊은 통찰력을 공유합니다.",
-      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
-      "source": "Creative Independent",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "이미지와 건축을 융합한 독특한 접근법을 탐구합니다.",
-      "tags": [
-        "이미지",
-        "건축"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "예술가의 시각적 스토리텔링 과정에 대한 훌륭한 통찰을 제공합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
-      "pub_date": "2026-07-10T08:00:00.000000"
-    },
-    {
-      "title": "Delilah: 네 개의 벽을 넘어",
-      "content": "The h.wood Group이 Chase Sapphire Reserve와 함께 Montauk에서 저녁 식사와 쇼를 결합한 새로운 형태의 사교 공간을 선보입니다.",
-      "url": "https://coolhunting.com/culture/outside-the-four-walls-delilah-chase-sapphire-reserve-and-the-return-of-the-supper-club/",
-      "source": "coolhunting.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "고급스러운 사교 클럽의 부활과 도시 생활의 새로운 트렌드를 소개합니다.",
-      "tags": [
-        "사교 클럽",
-        "도시 트렌드"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "고급스러운 사회적 트렌드와 도시 문화의 새 방향성을 소개합니다.",
-      "depth": 0.95,
-      "image": "https://coolhunting.com/wp-content/uploads/2026/07/176_Chase-Sapphire-Delilah_Montauk_jermcohen-7.23.2026-768x512.jpg",
-      "pub_date": "2026-07-10T08:00:00.000000"
-    },
-    {
-      "title": "김 저스틴 헬과의 만남",
-      "content": "김 저스틴 헬은 럭셔리 시계와 고급 제품 이미지를 전문으로 하는 스위스 상업 사진작가입니다. 그가 창의성과 기술을 결합하여 어떻게 고급 브랜드의 독특한 비전을 전달하는지 알아봅시다.",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
-      "source": "productionparadise.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "고급 제품 사진에 대한 그의 독창적인 접근 방식이 특히 주목받습니다.",
-      "tags": [
-        "상업 사진",
-        "럭셔리"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "고급 그리고 정밀한 제품 사진을 접할 수 있는 소중한 기회입니다.",
-      "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
-      "pub_date": "2026-07-10T08:00:00.000000"
-    },
-    {
-      "title": "정확하게 조화된 시각적 디자인",
-      "content": "Ayala Coffee Co.의 브랜드는 구조적 타이포그래피와 함께 명료한 디자인 전략을 보여줍니다. 이 프로젝트는 고대비의 패키지 디자인을 통해 커피 브랜드를 시각적으로 표현합니다.",
-      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
-      "source": "abduzeedo.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "디자인에서 구조와 감각을 결합하여 브랜드를 하나의 예술로 승화시킵니다.",
-      "tags": [
-        "브랜딩",
-        "디자인"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "브랜드와 디자인에서 일관성을 유지하면서도 독창적으로 접근하는 방식이 흥미를 끕니다.",
-      "depth": 0.95,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
-      "pub_date": "2026-07-10T08:00:00.000000"
-    },
-    {
-      "title": "샘 닐을 추모하며",
-      "content": "샘 닐을 추모하며 그의 독특한 영화적 업적을 되새깁니다. 인디펜던트 정신을 보여준 그의 작품들은 많은 사람들에게 지속적인 영감을 제공합니다.",
-      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "희귀한 영화 무결성을 보존한 그의 작품 경력은 특별한 가치를 지닙니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
         "영화",
-        "배우"
+        "시크릿 에이전트",
+        "브라질"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "시사회"
       ],
-      "why": "영화 업계에서의 그의 경력과 영향력을 인정하는 기사입니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
-      "pub_date": "2026-07-10T08:00:00.000000"
+      "why": "이 기사는 글로벌 문화 교류의 중요성을 강조하며, 현대인들이 다양한 문화적 경험을 통해 자신을 확장하고자 하는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260709111615_pigrxkvy.jpg",
+      "pub_date": "2026-07-10T08:31:50.299758",
+      "title_en": "",
+      "title": "시크릿 에이전트 영화 리뷰",
+      "content": "브라질 대사가 한국 시사회에 참석하여 브라질을 맛볼 수 있는 기회라고 인사를 나눴습니다. 이는 한국의 탄탄한 내수 시장에 대한 외국의 관심을 보여줍니다."
     },
     {
-      "title": "아야라 커피의 택타일 패키징",
-      "content": "아야라 커피의 브랜드 아이덴티티는 체계적인 타이포그래피 배치를 통해 기능성과 미적 조화를 이룹니다.",
-      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
-      "source": "abduzeedo.com",
-      "domain": "DESIGN",
+      "title_ko": "새로운 일상, 두 개의 워크 재킷",
+      "summary": "Beautiful People와 Dickies의 협업은 클래식한 워크웨어를 재해석하여 여러 겹으로 쌓아 입는 스타일을 제안합니다.",
+      "url": "https://www.highsnobiety.com/p/beautiful-people-dickies-workwear/",
+      "source": "Highsnobiety",
+      "domain": "FASHION",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "브랜딩에서 촉감적 요소를 활용하여 깊이 있는 브랜드 경험을 만듭니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "브랜딩",
-        "패키징"
+        "워크웨어",
+        "협업",
+        "패션"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "레이어링"
       ],
-      "why": "패키징 디자인의 모든 측면이 브랜드와 일체감을 개선했던 성공 사례로 평가됩니다.",
-      "depth": 0.95,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
-      "pub_date": "2026-07-10T08:00:00.000000"
+      "why": "이 디자인은 현대인들이 기능성과 스타일을 동시에 추구하는 욕구를 충족시킵니다. 이는 실용성과 개성을 중시하는 현대 패션 트렌드를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1783433618-beautiful-people-dickies-fw26-collab-000.jpg",
+      "pub_date": "2026-07-09T21:33:00+00:00",
+      "title_en": "",
+      "title": "새로운 일상, 두 개의 워크 재킷",
+      "content": "Beautiful People와 Dickies의 협업은 클래식한 워크웨어를 재해석하여 여러 겹으로 쌓아 입는 스타일을 제안합니다."
     },
     {
-      "title": "델릴라, 네 벽 밖으로",
-      "content": "Delilah는 더 h.wood Group에 의해 소개된 사교 모임입니다. 이들은 Chase Sapphire Reserve와 협력하여 Montauk에 독특한 저녁과 공연을 결합한 클럽을 선보였습니다.",
-      "url": "https://coolhunting.com/culture/outside-the-four-walls-delilah-chase-sapphire-reserve-and-the-return-of-the-supper-club/",
-      "source": "coolhunting.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "스트리트와 고급을 결합한 사회 문화적 혁신의 일례입니다.",
+      "title_ko": "구겐하임 박물관의 레지오넬라균 발견",
+      "summary": "구겐하임 박물관의 냉각탑에서 레지오넬라균이 발견되었으나, 건물은 여전히 안전하다고 합니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/09/bacteria-that-causes-legionnaires-disease-found-in-guggenheim-museum-cooling-tower",
+      "source": "The Art Newspaper",
+      "domain": "ARCHITECTURE",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "클럽",
-        "사교"
+        "박물관",
+        "안전",
+        "레지오넬라균"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "안전 검사"
       ],
-      "why": "기존의 사교 생활을 새로운 방식으로 해석한 문화적 시도입니다.",
-      "depth": 0.95,
-      "image": "https://coolhunting.com/wp-content/uploads/2026/07/176_Chase-Sapphire-Delilah_Montauk_jermcohen-7.23.2026-768x512.jpg",
-      "pub_date": "2026-07-10T08:00:00.000000"
+      "why": "이 기사는 현대인들이 공공장소의 안전과 위생에 대한 높은 관심을 가지고 있음을 보여줍니다. 이는 건강과 안전에 대한 사회적 불안을 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/52528cfc0cf9c55e53cc5e176e054ecc7ba47ce0-1024x999.jpg",
+      "pub_date": "2026-07-09T21:35:12+00:00",
+      "title_en": "",
+      "title": "구겐하임 박물관의 레지오넬라균 발견",
+      "content": "구겐하임 박물관의 냉각탑에서 레지오넬라균이 발견되었으나, 건물은 여전히 안전하다고 합니다."
+    },
+    {
+      "title_ko": "Helen Mirren의 헐리우드 힐스 주택 매물로 나와",
+      "summary": "Helen Mirren은 1980년대부터 소유한 헐리우드 힐스의 주택을 1200만 달러에 매물로 내놓았습니다.",
+      "url": "https://www.architecturaldigest.com/story/helen-mirren-lists-revamped-hollywood-hills-home",
+      "source": "Architectural Digest",
+      "domain": "ARCHITECTURE",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "헐리우드 힐스",
+        "주택",
+        "부동산"
+      ],
+      "execution_techniques": [
+        "부동산 매물"
+      ],
+      "why": "이 기사는 유명인의 라이프스타일과 부동산 시장에 대한 대중의 관심을 반영합니다. 이는 개인의 성공과 사회적 지위에 대한 현대인의 욕망을 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://media.architecturaldigest.com/photos/6a4ffed5b805949a109eb467/16:9/w_1280,c_limit/2003LaBreaTerrace-mls-1.jpg",
+      "pub_date": "2026-07-09T21:19:44+00:00",
+      "title_en": "",
+      "title": "Helen Mirren의 헐리우드 힐스 주택 매물로 나와",
+      "content": "Helen Mirren은 1980년대부터 소유한 헐리우드 힐스의 주택을 1200만 달러에 매물로 내놓았습니다."
+    },
+    {
+      "title_ko": "마법적 사실주의로 이민을 그린 Ana Elisa Egreja의 정물화",
+      "summary": "Ana Elisa Egreja는 마법적 사실주의 접근법을 통해 이민을 주제로 한 풍부한 정물화를 그립니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/ana-elisa-egreja-still-life-oil-painting/",
+      "source": "This is Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Ana Elisa Egreja",
+      "creator_insight": "",
+      "tags": [
+        "이민",
+        "마법적 사실주의",
+        "정물화"
+      ],
+      "execution_techniques": [
+        "유화"
+      ],
+      "why": "이 작품은 현대 사회의 이민 문제와 정체성 탐구에 대한 관심을 반영합니다. 이는 문화적 다양성과 개인의 정체성에 대한 현대인의 욕구를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/egreja-1.jpg",
+      "pub_date": "2026-07-09T20:40:16+00:00",
+      "title_en": "",
+      "title": "마법적 사실주의로 이민을 그린 Ana Elisa Egreja의 정물화",
+      "content": "Ana Elisa Egreja는 마법적 사실주의 접근법을 통해 이민을 주제로 한 풍부한 정물화를 그립니다."
+    },
+    {
+      "title_ko": "Honolulu 미술관의 새로운 디렉터 David Odo",
+      "summary": "Honolulu 미술관은 일본의 19세기 사진 전문가인 David Odo를 새로운 디렉터로 임명했습니다.",
+      "url": "https://www.artforum.com/news/david-odo-to-helm-honolulu-museum-of-art-1234754293/",
+      "source": "Artforum",
+      "domain": "ART",
+      "category": "뉴스",
+      "creator_name": "David Odo",
+      "creator_insight": "",
+      "tags": [
+        "Honolulu 미술관",
+        "디렉터",
+        "사진"
+      ],
+      "execution_techniques": [
+        "임명"
+      ],
+      "why": "이 기사는 예술 기관의 리더십 변화와 그에 따른 새로운 방향성에 대한 관심을 반영합니다. 이는 문화적 리더십과 혁신에 대한 현대인의 기대를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/07/david-odo.webp",
+      "pub_date": "2026-07-09T19:50:25+00:00",
+      "title_en": "",
+      "title": "Honolulu 미술관의 새로운 디렉터 David Odo",
+      "content": "Honolulu 미술관은 일본의 19세기 사진 전문가인 David Odo를 새로운 디렉터로 임명했습니다."
+    },
+    {
+      "title_ko": "Studio Varey, 빅토리아 시대 런던 플랫을 갤러리 같은 공간으로 변신",
+      "summary": "Studio Varey는 Marylebone의 pied-à-terre를 예술과 빛이 강조된 공간으로 재탄생시켰습니다.",
+      "url": "https://design-milk.com/studio-varey-moraine-house-london-flat-renovation/",
+      "source": "Design Milk",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "Studio Varey",
+      "creator_insight": "",
+      "tags": [
+        "런던",
+        "리노베이션",
+        "갤러리"
+      ],
+      "execution_techniques": [
+        "리노베이션"
+      ],
+      "why": "이 기사는 공간의 재해석과 개인화된 인테리어 디자인에 대한 현대인의 관심을 반영합니다. 이는 개인의 취향과 개성을 반영한 공간에 대한 욕구를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/07/Design-Milk-VAREY-Moraine-House-7.jpeg",
+      "pub_date": "2026-07-09T19:00:23+00:00",
+      "title_en": "",
+      "title": "Studio Varey, 빅토리아 시대 런던 플랫을 갤러리 같은 공간으로 변신",
+      "content": "Studio Varey는 Marylebone의 pied-à-terre를 예술과 빛이 강조된 공간으로 재탄생시켰습니다."
+    },
+    {
+      "title_ko": "로브 한의 색채와 개성 넘치는 풍경 사진",
+      "summary": "로브 한은 미국의 장거리 여행을 연상시키는 색채와 개성 넘치는 풍경 사진을 선보입니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/rob-hann-photography-landscapes-united-states-nostlagia/",
+      "source": "This is Colossal",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "Rob Hann",
+      "creator_insight": "",
+      "tags": [
+        "풍경 사진",
+        "여행",
+        "노스탤지아"
+      ],
+      "execution_techniques": [
+        "사진"
+      ],
+      "why": "이 작품은 여행과 자유에 대한 현대인의 갈망을 반영합니다. 이는 일상에서 벗어나 새로운 경험을 추구하는 욕구를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/hann-11.jpeg",
+      "pub_date": "2026-07-09T15:28:12+00:00",
+      "title_en": "",
+      "title": "로브 한의 색채와 개성 넘치는 풍경 사진",
+      "content": "로브 한은 미국의 장거리 여행을 연상시키는 색채와 개성 넘치는 풍경 사진을 선보입니다."
+    },
+    {
+      "title_ko": "타이의 코끼리 똥으로 만든 타워",
+      "summary": "Boonserm Premthada는 코끼리 똥 벽돌로 타워를 건축하여 새로운 건축적 가능성을 제시합니다.",
+      "url": "https://www.wallpaper.com/architecture/goya-thai-tower-boonserm-premthada-thailand",
+      "source": "Wallpaper",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "Boonserm Premthada",
+      "creator_insight": "",
+      "tags": [
+        "타이",
+        "건축",
+        "지속가능성"
+      ],
+      "execution_techniques": [
+        "친환경 건축"
+      ],
+      "why": "이 작품은 지속 가능한 건축과 자연과의 조화를 추구하는 현대인의 관심을 반영합니다. 이는 환경 보호와 혁신적인 재료 사용에 대한 욕구를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/gxNqYcsZUMigYt2Qxn5eUo-1280-80.jpg",
+      "pub_date": "2026-07-09T15:10:29+00:00",
+      "title_en": "",
+      "title": "타이의 코끼리 똥으로 만든 타워",
+      "content": "Boonserm Premthada는 코끼리 똥 벽돌로 타워를 건축하여 새로운 건축적 가능성을 제시합니다."
+    },
+    {
+      "title_ko": "Koto의 새로운 폰트 디자인 규칙 재정의",
+      "summary": "CcType는 양보다 질을 중시하는 폰트 디자인을 추구합니다.",
+      "url": "https://www.creativebloq.com/design/fonts-typography/kotos-new-type-foundry-is-redefining-the-rules-of-font-design",
+      "source": "Creative Bloq",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "폰트 디자인",
+        "질",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "폰트 디자인"
+      ],
+      "why": "이 기사는 폰트 디자인의 혁신과 창의성에 대한 현대인의 관심을 반영합니다. 이는 시각적 커뮤니케이션의 중요성과 개성을 중시하는 욕구를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/zvLUe3zF3SkPmM2zCjb4JV-1280-80.jpg",
+      "pub_date": "2026-07-09T15:00:00+00:00",
+      "title_en": "",
+      "title": "Koto의 새로운 폰트 디자인 규칙 재정의",
+      "content": "CcType는 양보다 질을 중시하는 폰트 디자인을 추구합니다."
+    },
+    {
+      "title_ko": "플라스틱 포장재의 순환 시스템을 위한 InFact의 시도",
+      "summary": "InFact는 EU에서 유연한 플라스틱 포장재의 순환 시스템을 구축하기 위해 노력하고 있습니다.",
+      "url": "https://thedieline.com/infact-attempts-to-create-a-circular-system-for-flexible-plastic-packaging-in-eu/",
+      "source": "The Dieline",
+      "domain": "DESIGN",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "플라스틱",
+        "순환 경제",
+        "지속 가능성"
+      ],
+      "execution_techniques": [
+        "지속 가능한 디자인"
+      ],
+      "why": "이 기사는 지속 가능한 디자인과 순환 경제에 대한 현대인의 관심을 반영합니다. 이는 환경 보호와 자원 절약에 대한 욕구를 드러냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/AdobeStock_300124287-scaled.jpeg",
+      "pub_date": "2026-07-09T14:14:37+00:00",
+      "title_en": "",
+      "title": "플라스틱 포장재의 순환 시스템을 위한 InFact의 시도",
+      "content": "InFact는 EU에서 유연한 플라스틱 포장재의 순환 시스템을 구축하기 위해 노력하고 있습니다."
     }
   ],
   "items": [],
   "popcorn": [
     {
-      "title": "귀여운 고양이 영상 다시 인기",
-      "content": "귀여운 고양이 영상이 SNS에서 다시 트렌드로 떠오르고 있습니다.",
-      "url": "https://example.com/cat_video_trend",
-      "source": "바이럴뉴스",
+      "title_ko": "나이키의 새로운 샌들, 스니커즈를 잊게 하다",
+      "summary": "나이키는 스니커즈 대신 세련된 샌들 라인을 확장하고 있습니다.",
+      "url": "https://www.highsnobiety.com/p/new-balance-best-sandals/",
+      "source": "Highsnobiety",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "고양이"
+        "샌들"
       ],
-      "why": "SNS에서 빠르게 퍼지는 귀여운 고양이 영상은 사람들에게 웃음과 즐거움을 주며 바이럴 콘텐츠의 대표적 사례가 되고 있습니다.",
+      "why": "이 콘텐츠는 대중이 패션에서의 편안함과 스타일을 동시에 추구하는 경향을 반영합니다. 이는 스니커즈의 대안으로 샌들이 주목받고 있는 현상을 보여줍니다.",
       "depth": 0.5,
-      "image": "https://example.com/cat_video_image.jpg",
-      "pub_date": "2026-07-10T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1783583072-new-balance-best-sandals.jpg",
+      "pub_date": "2026-07-09T19:33:01+00:00",
+      "title_en": "",
+      "title": "나이키의 새로운 샌들, 스니커즈를 잊게 하다",
+      "content": "나이키는 스니커즈 대신 세련된 샌들 라인을 확장하고 있습니다."
     },
     {
-      "title": "플로이드 메이웨더 주니어의 초호화 생활",
-      "content": "46전 전승을 기록한 복서 플로이드 메이웨더 주니어의 개인적인 생활과 그의 호화로운 일상에 대해 알아봅니다. 메이웨더는 독특한 스타일과 사치스러운 생활 방식으로 잘 알려져 있습니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title_ko": "Monsieur Plant의 나무 껴안기 조각",
+      "summary": "Monsieur Plant의 작품 'tree hug'는 시간, 풍경, 인간 존재의 관계를 반영합니다.",
+      "url": "https://www.designboom.com/art/monsieur-plant-sculptural-human-arms-trees-tree-hug/",
+      "source": "Designboom",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "플로이드 메이웨더",
-        "복싱"
+        "자연",
+        "조각"
       ],
-      "why": "세계 챔피언 복서의 생활을 엿볼 수 있는 매력적인 기회입니다.",
+      "why": "이 콘텐츠는 자연과 인간의 관계에 대한 대중의 관심을 유도하며, 자연과의 연결을 추구하는 현대인의 욕구를 반영합니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-07-10T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/monsieur-plant-tree-hug-outdoor-installation-france-designboom-700-1-500x400-22b08q85r600.jpg",
+      "pub_date": "2026-07-09T14:30:24+00:00",
+      "title_en": "",
+      "title": "Monsieur Plant의 나무 껴안기 조각",
+      "content": "Monsieur Plant의 작품 'tree hug'는 시간, 풍경, 인간 존재의 관계를 반영합니다."
     },
     {
-      "title": "꿈을 담은 프랑스 시계 - 악테오",
-      "content": "악테오 시계는 단순한 시간 표시를 넘어 꿈과 열정을 상징하는 특별한 제품입니다. 프랑스 디자이너 Jean Christophe Mareshal이 디자인한 이 시계는 꿈꾸는 이들을 위한 예술적 작품입니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
+      "title_ko": "나이키의 'Beef & Broccoli' 에어 포스 1",
+      "summary": "나이키 에어 포스 1 'Beef & Broccoli'는 팀버랜드로 유명한 클래식한 아웃도어 팔레트를 오마주합니다.",
+      "url": "https://www.highsnobiety.com/p/nike-air-force-1-beef-broccoli/",
+      "source": "Highsnobiety",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "시계",
-        "디자인"
+        "스니커즈"
       ],
-      "why": "시간의 의미를 예술적으로 표현하여 독자에게 영감을 주는 콘텐츠입니다.",
+      "why": "이 콘텐츠는 대중이 패션에서의 레트로 감성을 추구하는 경향을 반영합니다. 이는 과거의 스타일을 현대적으로 재해석하는 현상을 보여줍니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-07-10T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1783333610-head-shiny.png",
+      "pub_date": "2026-07-09T16:18:00+00:00",
+      "title_en": "",
+      "title": "나이키의 'Beef & Broccoli' 에어 포스 1",
+      "content": "나이키 에어 포스 1 'Beef & Broccoli'는 팀버랜드로 유명한 클래식한 아웃도어 팔레트를 오마주합니다."
     }
   ],
   "keywords": [

@@ -9,285 +9,375 @@
   },
   "topPicks": [
     {
-      "title": "The Weekend With Zara McIntosh",
-      "content": "팝 문화 전문가이자 물리적 미디어의 여왕인 Zara McIntosh가 이상적인 주말을 소개합니다. 그녀는 최상의 런던 명소와 특이한 퀴어 매거진, 여름 사운드트랙을 공개합니다.",
-      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
+      "title_ko": "칸딘스키의 가을, 로마에서",
+      "summary": "칸딘스키의 작품들이 로마에서 전시됩니다. 이 전시는 그의 작품들이 어떻게 현대와 과거를 연결하는지를 보여줍니다.",
+      "url": "http://www.arte.it/notizie/roma/a-roma-l-autunno-è-di-kandinskij-22898",
+      "source": "Arte.it",
+      "domain": "ART",
+      "category": "전시",
+      "creator_name": "Wassily Kandinsky",
+      "creator_insight": "예술은 외적인 것에서 내적인 것으로 넘어가는 여정입니다. 진정한 예술가는 내면의 소리를 들어야 합니다. - 바실리 칸딘스키",
+      "tags": [
+        "칸딘스키",
+        "전시",
+        "현대와 과거"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "이 기사는 예술이 어떻게 현대와 과거를 연결하는지를 보여주며, 예술이 사회적 메시지를 전달하는 중요한 매체임을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T17:25:46+02:00",
+      "title_en": "",
+      "title": "칸딘스키의 가을, 로마에서",
+      "content": "칸딘스키의 작품들이 로마에서 전시됩니다. 이 전시는 그의 작품들이 어떻게 현대와 과거를 연결하는지를 보여줍니다."
+    },
+    {
+      "title_ko": "4월 4일 가구 세일",
+      "summary": "디자인 편집자가 추천하는 4월 4일 가구 세일을 소개합니다. 다양한 브랜드의 가구를 할인된 가격에 구매할 수 있는 기회입니다.",
+      "url": "https://www.architecturaldigest.com/story/best-fourth-of-july-furniture-sales-2026-1",
+      "source": "Architectural Digest",
+      "domain": "DESIGN",
+      "category": "세일",
+      "creator_name": "Faye Toogood",
+      "creator_insight": "디자인을 할 때, 우리는 그저 물건을 만드는 것이 아니라 그 안에 이야기를 담습니다. 우리의 작업은 형태와 기능을 넘어선 감정적 연결을 추구합니다.",
+      "tags": [
+        "가구",
+        "세일",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "세일"
+      ],
+      "why": "이 기사는 현대인들이 합리적인 가격에 디자인 가구를 구매하고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T11:00:00+00:00",
+      "title_en": "",
+      "title": "4월 4일 가구 세일",
+      "content": "디자인 편집자가 추천하는 4월 4일 가구 세일을 소개합니다. 다양한 브랜드의 가구를 할인된 가격에 구매할 수 있는 기회입니다."
+    },
+    {
+      "title_ko": "야외 가구 세일",
+      "summary": "야외 가구를 할인된 가격에 구매할 수 있는 기회를 제공합니다. 늦기 전에 야외 공간을 꾸밀 수 있는 기회입니다.",
+      "url": "https://www.architecturaldigest.com/story/best-outdoor-furniture-sales-2026-4",
+      "source": "Architectural Digest",
+      "domain": "DESIGN",
+      "category": "세일",
+      "creator_name": "Faye Toogood",
+      "creator_insight": "좋은 디자인은 단지 물건을 만드는 것이 아니라, 그 물건이 어떻게 사람들에게 영향을 미칠지를 이해하는 것입니다.",
+      "tags": [
+        "야외 가구",
+        "세일",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "세일"
+      ],
+      "why": "이 기사는 현대인들이 야외 공간을 꾸미고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T11:00:00+00:00",
+      "title_en": "",
+      "title": "야외 가구 세일",
+      "content": "야외 가구를 할인된 가격에 구매할 수 있는 기회를 제공합니다. 늦기 전에 야외 공간을 꾸밀 수 있는 기회입니다."
+    },
+    {
+      "title_ko": "주말을 함께한 르네 마틱",
+      "summary": "르네 마틱과 함께한 주말을 통해 그의 작품 세계를 탐험합니다. 그의 작품은 현대 사회의 다양한 이슈를 반영합니다.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-rene-matic-030726",
       "source": "It's Nice That",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "런던의 다양성과 창의적인 씬을 발견하게 됩니다.",
+      "category": "인터뷰",
+      "creator_name": "르네 마그리트",
+      "creator_insight": "내 그림은 보이는 것과 보이지 않는 것 사이의 관계를 탐구합니다. 이는 우리가 보는 현실을 재해석하게 합니다.",
       "tags": [
-        "pop culture",
-        "London"
+        "르네 마틱",
+        "예술",
+        "사회 이슈"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "인터뷰"
       ],
-      "why": "현대 문화의 다양한 측면을 조명하고 있는 흥미로운 기사입니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
-      "pub_date": "2026-07-01T08:00:00.000000"
+      "why": "이 기사는 예술이 현대 사회의 다양한 이슈를 반영하는 중요한 매체임을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/i_u9Lec6DhAvawUdEXUoHb1FVSg=/279695/width-1440%7Cformat-jpeg/00-01_xl0tlQK.png",
+      "pub_date": "2026-07-03T08:00:00+00:00",
+      "title_en": "",
+      "title": "주말을 함께한 르네 마틱",
+      "content": "르네 마틱과 함께한 주말을 통해 그의 작품 세계를 탐험합니다. 그의 작품은 현대 사회의 다양한 이슈를 반영합니다."
     },
     {
-      "title": "The story behind Present & Correct, the perfectly curated stationery shop that’s every graphic designers dream",
-      "content": "그래픽 디자이너의 꿈 같은 문구점, Present & Correct의 비하인드 스토리를 소개합니다. 공동 창업자 Neal Whittington과의 인터뷰를 통해 출판 세계로의 새로운 도전도 엿볼 수 있습니다.",
-      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
-      "source": "It's Nice That",
+      "title_ko": "치카노 예술은 미국 예술이다",
+      "summary": "치치 마린은 치카노 예술이 미국 예술의 중요한 부분임을 강조하며, 예술과 사회 운동의 연결성을 설명합니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/03/cheech-marin-interview-we-the-people-exhibition-riverside",
+      "source": "The Art Newspaper",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "와치매니아와 그래픽 디자이너에게 꿈과 같은 공간을 자세히 설명합니다.",
+      "category": "인터뷰",
+      "creator_name": "치치 마린",
+      "creator_insight": "예술은 사회 운동과 깊이 연결되어 있습니다.",
       "tags": [
-        "stationery",
-        "design"
+        "치카노 예술",
+        "미국 예술",
+        "사회 운동"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "인터뷰"
       ],
-      "why": "창의적이고 혁신적인 문구점의 운영 철학과 그 역사에 대해 깊이 알 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
-      "pub_date": "2026-07-01T08:00:00.000000"
+      "why": "이 기사는 예술이 어떻게 사회 운동과 연결되어 있는지를 보여주며, 예술의 사회적 역할을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/4d5b82024bc4c27046249f8efb3b19ee8c0d1750-2000x1333.jpg",
+      "pub_date": "2026-07-03T08:00:00+00:00",
+      "title_en": "",
+      "title": "치카노 예술은 미국 예술이다",
+      "content": "치치 마린은 치카노 예술이 미국 예술의 중요한 부분임을 강조하며, 예술과 사회 운동의 연결성을 설명합니다."
     },
     {
-      "title": "ChaChaanTeng’s saucy auto-mayo-mat activation for Heinz is a fantastically physical opponent to AI slop",
-      "content": "ChaChaanTeng의 하인즈 마요네즈 자판기 프로젝트는 음식의 감각과 일본 자판기의 물리성을 강조하며 AI의 허술함에 저항합니다.",
-      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
-      "source": "It's Nice That",
+      "title_ko": "20세기 북유럽 디자인의 거장들",
+      "summary": "요코하마 타카시마야에서 열린 스티그 린드버그 전시회를 통해 20세기 북유럽 디자인의 거장들을 만날 수 있습니다.",
+      "url": "https://www.adfwebmagazine.jp/en/design/masters-of-20th-century-nordic-design-the-stig-lindberg-exhibition-at-yokohama-takashima-ya/",
+      "source": "ADF Web Magazine",
+      "domain": "DESIGN",
+      "category": "전시",
+      "creator_name": "Arne Jacobsen",
+      "creator_insight": "좋은 디자인이란 사람들이 그것을 사용했을 때 더 나은 삶을 살 수 있도록 하는 것입니다.",
+      "tags": [
+        "북유럽 디자인",
+        "스티그 린드버그",
+        "전시"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "이 기사는 북유럽 디자인의 독특한 스타일과 그 영향을 탐구하며, 디자인의 기능성과 미학을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/06/adf-web-magazine-yhm-takashimaya-stig-lindberg-1.jpg",
+      "pub_date": "2026-07-03T07:29:44+00:00",
+      "title_en": "",
+      "title": "20세기 북유럽 디자인의 거장들",
+      "content": "요코하마 타카시마야에서 열린 스티그 린드버그 전시회를 통해 20세기 북유럽 디자인의 거장들을 만날 수 있습니다."
+    },
+    {
+      "title_ko": "하기 도자기와 아르누보의 아름다움",
+      "summary": "히다 타카야마 미술관에서 열린 전시회는 하기 도자기와 아르누보의 아름다움을 탐구합니다.",
+      "url": "https://www.adfwebmagazine.jp/en/art/the-beauty-of-hagi-ware-and-art-nouveau-at-hida-takayama-museum-of-art/",
+      "source": "ADF Web Magazine",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "독특한 음식 문화와 창의적인 디자인의 완벽한 결합을 경험할 수 있습니다.",
+      "category": "전시",
+      "creator_name": "이타야 하젠",
+      "creator_insight": "도자기를 만들 때 가장 중요한 것은 자연과의 조화입니다. 형태와 색상, 질감 등 모든 요소가 자연스럽게 어우러져야 합니다.",
       "tags": [
-        "food",
-        "design"
+        "하기 도자기",
+        "아르누보",
+        "전시"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "전시"
       ],
-      "why": "창의적인 접근 방식으로 음식을 새롭게 경험할 수 있는 기회를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
-      "pub_date": "2026-07-01T08:00:00.000000"
+      "why": "이 기사는 전통과 현대를 결합한 예술의 형태를 탐구하며, 예술의 다양성과 깊이를 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/06/adf-web-magazine-hida-takayama-museum-of-art-1.jpg",
+      "pub_date": "2026-07-03T05:53:36+00:00",
+      "title_en": "",
+      "title": "하기 도자기와 아르누보의 아름다움",
+      "content": "히다 타카야마 미술관에서 열린 전시회는 하기 도자기와 아르누보의 아름다움을 탐구합니다."
     },
     {
-      "title": "Spa Eclectics: At Karlovy Vary",
-      "content": "칼로비바리 국제 영화제는 점령과 타협, 생존의 경로를 걸어왔습니다. 1946년 첫 개최 후 세계적으로 큰 영향을 미치는 A등급 영화제로 지정되었습니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "영화제의 역사와 그 중요성을 통해 영화 문화의 다양한 측면을 이해할 수 있습니다.",
-      "tags": [
-        "film",
-        "festival"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "영화제의 복잡한 역사와 그 영향력을 조명하는 기사입니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-07-01T08:00:00.000000"
-    },
-    {
-      "title": "Weaving The Odyssey",
-      "content": "Christopher Nolan의 영화 'Tenet' 편집을 맡은 Jennifer Lame과의 인터뷰. 역동적인 액션 신의 제작 비하인드를 살펴봅니다.",
-      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "독창적이고 복잡한 영화 제작 과정을 이해할 수 있는 기회를 제공합니다.",
-      "tags": [
-        "film",
-        "editing"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "대규모 예산의 영화 제작의 복잡성을 이해하는 데 도움이 됩니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
-      "pub_date": "2026-07-01T08:00:00.000000"
-    },
-    {
-      "title": "Remembering Sam Neill",
-      "content": "Sam Neill을 떠올리며 영화 'In the Mouth of Madness'의 추억을 나눕니다. 그는 사람들에게 가까운 배우로 기억됩니다.",
-      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "영화를 통해 그의 영향력을 재조명하는 기사를 통해 감성적인 추억을 상기시킵니다.",
-      "tags": [
-        "actor",
-        "tribute"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "영화계에 큰 영향을 미친 배우를 다시 조명하는 감동적인 이야기입니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
-      "pub_date": "2026-07-01T08:00:00.000000"
-    },
-    {
-      "title": "Musician and artist Alexandra Drewchin (Eartheater) on following the deep feeling",
-      "content": "Alexandra Drewchin (Eartheater)와 그녀의 새로운 삶의 변화에 대해 이야기합니다. 새로운 모험이 음악과 예술에 가져온 영향을 살펴봅니다.",
-      "url": "https://thecreativeindependent.com/people/musician-and-artist-alexandra-drewchin-eartheater-on-following-the-deep-feeling/",
-      "source": "Creative Independent",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "예술과 개인적인 성장 간의 깊은 연결을 보여줍니다.",
-      "tags": [
-        "music",
-        "art"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "개인의 삶의 변화가 예술에 미치는 영향을 이해하는 데 유익합니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-01T08:00:00.000000"
-    },
-    {
-      "title": "Faception Reloaded Tee",
-      "content": "얼굴 인식 시스템을 혼란스럽게 만드는 Urban Privacy의 Faception 티셔츠. 100% 유기농을 사용하여 환경 친화적입니다.",
-      "url": "https://coolhunting.com/buy/faception-reloaded-tee/",
-      "source": "coolhunting.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "신기술에 대한 도전과 환경을 고려한 디자인의 측면을 보여줍니다.",
-      "tags": [
-        "fashion",
-        "technology"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "현대 패션과 기술의 교차를 보여주는 신선한 시각입니다.",
-      "depth": 0.95,
-      "image": "https://coolhunting.com/wp-content/uploads/2026/07/6B4F4DEC-4E02-46D7-A7E8-577616AA85CB_1_201_a-768x768.jpeg",
-      "pub_date": "2026-07-01T08:00:00.000000"
-    },
-    {
-      "title": "Outside the Four Walls: Delilah, Chase Sapphire Reserve and the Return of the Supper Club",
-      "content": "h.wood Group이 저녁과 공연이 결합된 클럽 Delilah를 Montauk로 가져옵니다. 새로운 뉴욕 공간의 첫 번째 영구 지점을 미리 볼 수 있습니다.",
-      "url": "https://coolhunting.com/culture/outside-the-four-walls-delilah-chase-sapphire-reserve-and-the-return-of-the-supper-club/",
-      "source": "coolhunting.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "전통적인 사회적 변화를 통해 현대 문화를 표현합니다.",
-      "tags": [
-        "culture",
-        "supper club"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "음식과 문화의 새로운 형태를 제시합니다.",
-      "depth": 0.95,
-      "image": "https://coolhunting.com/wp-content/uploads/2026/07/176_Chase-Sapphire-Delilah_Montauk_jermcohen-7.23.2026-768x512.jpg",
-      "pub_date": "2026-07-01T08:00:00.000000"
-    },
-    {
-      "title": "Kim Justin Hell",
-      "content": "럭셔리 시계 촬영에 특화된 Kim Justin Hell이 글로벌 광고 캠페인을 위해 다채로운 시각을 제공합니다.",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
-      "source": "productionparadise.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "품질과 창의성을 결합하여 고급 제품을 돋보이게 합니다.",
-      "tags": [
-        "photography",
-        "luxury"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "고급 브랜드가 어떻게 시각적으로 표현되는지를 깊이 있게 분석합니다.",
-      "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
-      "pub_date": "2026-07-01T08:00:00.000000"
-    },
-    {
-      "title": "Gillette - 100 Years of Hair",
-      "content": "Gillette의 '100 Years of Hair' 캠페인은 세기의 변화를 노래와 재미있는 영상으로 보여줍니다.",
-      "url": "https://honestart.tistory.com/96",
-      "source": "honestart.tistory.com",
+      "title_ko": "알릭스 보르톨리의 수작업 세계",
+      "summary": "프랑스 예술가이자 감독인 알릭스 보르톨리는 실험을 기반으로 한 수작업 세계를 구축하며, AI 시대에 아날로그 공예의 새로운 중요성을 설명합니다.",
+      "url": "https://www.creativereview.co.uk/alix-bortoli-stop-motion-animation-director/",
+      "source": "Creative Review",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "시대의 변화를 창의적으로 표현하는 캠페인을 통해 브랜드의 의미를 전달합니다.",
+      "category": "인터뷰",
+      "creator_name": "알릭스 보르톨리",
+      "creator_insight": "아날로그 공예는 AI 시대에 새로운 중요성을 가지고 있습니다.",
       "tags": [
-        "advertising",
-        "campaign"
+        "알릭스 보르톨리",
+        "수작업",
+        "아날로그 공예"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "인터뷰"
       ],
-      "why": "브랜드의 역사를 음악과 시각 예술로 연계함으로써 고객과의 관계를 강화합니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
-      "pub_date": "2026-07-01T08:00:00.000000"
+      "why": "이 기사는 아날로그 공예의 중요성을 강조하며, 현대 기술과 전통 공예의 결합을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/ffern-alixbortoli.png",
+      "pub_date": "2026-07-03T02:29:32+00:00",
+      "title_en": "",
+      "title": "알릭스 보르톨리의 수작업 세계",
+      "content": "프랑스 예술가이자 감독인 알릭스 보르톨리는 실험을 기반으로 한 수작업 세계를 구축하며, AI 시대에 아날로그 공예의 새로운 중요성을 설명합니다."
+    },
+    {
+      "title_ko": "세인트-술피스 세라믹 2026",
+      "summary": "파리는 세인트-술피스 세라믹 2026을 통해 세라믹의 중심지가 됩니다. 이 이벤트는 다양한 세라믹 작품을 선보입니다.",
+      "url": "https://www.adfwebmagazine.jp/en/art/saint-sulpice-ceramique-2026-paris-becomes-ceramic-central/",
+      "source": "ADF Web Magazine",
+      "domain": "ART",
+      "category": "이벤트",
+      "creator_name": "에토레 소츠사스",
+      "creator_insight": "디자인은 삶을 더 좋게 만들어야 합니다. 그렇지 않으면 디자인이 아니라 예술일 뿐입니다.",
+      "tags": [
+        "세라믹",
+        "파리",
+        "이벤트"
+      ],
+      "execution_techniques": [
+        "이벤트"
+      ],
+      "why": "이 기사는 세라믹의 다양한 예술적 표현을 탐구하며, 예술의 다양성과 깊이를 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/06/adf-web-masgazine-paris-ceramic-event-maeda.jpg",
+      "pub_date": "2026-07-03T02:17:32+00:00",
+      "title_en": "",
+      "title": "세인트-술피스 세라믹 2026",
+      "content": "파리는 세인트-술피스 세라믹 2026을 통해 세라믹의 중심지가 됩니다. 이 이벤트는 다양한 세라믹 작품을 선보입니다."
+    },
+    {
+      "title_ko": "2026 V&A 일러스트레이션 어워드 수상자 발표",
+      "summary": "V&A의 일러스트레이션 어워드는 다양한 형태와 카테고리의 일러스트레이션을 기념하며, 올해의 일러스트레이터를 선정합니다.",
+      "url": "https://www.creativereview.co.uk/winners-of-the-2026-va-illustration-awards-announced/",
+      "source": "Creative Review",
+      "domain": "ART",
+      "category": "어워드",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "행복은 당신이 어디에 있는지, 그리고 어떤 사람이 당신 주위에 있는지에 크게 달려 있습니다. 좋은 디자인은 우리의 삶을 더 좋게 만들 수 있습니다.",
+      "tags": [
+        "일러스트레이션",
+        "어워드",
+        "V&A"
+      ],
+      "execution_techniques": [
+        "어워드"
+      ],
+      "why": "이 기사는 일러스트레이션의 다양성과 그 중요성을 강조하며, 예술의 다양한 형태를 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/StephenSmith.jpg",
+      "pub_date": "2026-07-03T02:16:54+00:00",
+      "title_en": "",
+      "title": "2026 V&A 일러스트레이션 어워드 수상자 발표",
+      "content": "V&A의 일러스트레이션 어워드는 다양한 형태와 카테고리의 일러스트레이션을 기념하며, 올해의 일러스트레이터를 선정합니다."
+    },
+    {
+      "title_ko": "클로케 에스테이트: 지속 가능한 증류소 디자인",
+      "summary": "바를리스웨들릭 건축가들이 설계한 클로케 에스테이트는 지속 가능한 증류소 디자인과 허드슨 밸리의 환대를 결합합니다.",
+      "url": "https://www.adfwebmagazine.jp/en/architect/klocke-estate-blends-sustainable-distillery-design-with-hudson-valley-hospitality/",
+      "source": "ADF Web Magazine",
+      "domain": "ARCHITECTURE",
+      "category": "디자인",
+      "creator_name": "비외르케 잉겔스",
+      "creator_insight": "우리는 지구를 구하려는 것이 아니라, 우리 스스로를 구하려는 것이다. 우리가 지구를 구할 수 있는 유일한 방법은 스스로를 구하는 것이다.",
+      "tags": [
+        "지속 가능성",
+        "증류소",
+        "건축"
+      ],
+      "execution_techniques": [
+        "디자인"
+      ],
+      "why": "이 기사는 지속 가능한 디자인의 중요성을 강조하며, 현대 건축의 방향성을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/06/adf-web-magazine-klocke-estate-barliswedlick-architects-1.jpg",
+      "pub_date": "2026-07-03T01:55:41+00:00",
+      "title_en": "",
+      "title": "클로케 에스테이트: 지속 가능한 증류소 디자인",
+      "content": "바를리스웨들릭 건축가들이 설계한 클로케 에스테이트는 지속 가능한 증류소 디자인과 허드슨 밸리의 환대를 결합합니다."
+    },
+    {
+      "title_ko": "데이터 시각화: 포뮬러 1 데이터 아트 시리즈",
+      "summary": "니콜라스 펜코는 복잡한 포뮬러 1 텔레메트리 데이터를 구조화된 데이터 시각화 아트 디자인 포스터 시리즈로 변환합니다.",
+      "url": "https://abduzeedo.com/data-visualization-formula-1-data-art-series-nicolas-penco/",
+      "source": "Abduzeedo",
+      "domain": "ART",
+      "category": "디자인",
+      "creator_name": "니콜라스 펜코",
+      "creator_insight": "데이터는 예술의 새로운 매체가 될 수 있습니다.",
+      "tags": [
+        "데이터 시각화",
+        "포뮬러 1",
+        "아트"
+      ],
+      "execution_techniques": [
+        "디자인"
+      ],
+      "why": "이 기사는 데이터 시각화의 가능성을 탐구하며, 데이터가 예술의 새로운 매체가 될 수 있음을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-02T22:00:59+00:00",
+      "title_en": "",
+      "title": "데이터 시각화: 포뮬러 1 데이터 아트 시리즈",
+      "content": "니콜라스 펜코는 복잡한 포뮬러 1 텔레메트리 데이터를 구조화된 데이터 시각화 아트 디자인 포스터 시리즈로 변환합니다."
     }
   ],
   "items": [],
   "popcorn": [
     {
-      "title": "초호화 스타선수의 생활  -플로이드 메이웨더 Floyd Mayweather Jr.",
-      "content": "무패 전적을 자랑하는 플로이드 메이웨더 주니어의 초호화 생활을 소개합니다. 일상적인 결정마저 그의 돈의 힘을 보여줍니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title_ko": "서버 캐비닛에서의 인사",
+      "summary": "미모사 에차드의 서버 캐비닛은 현대의 시대상을 반영하는 상자입니다.",
+      "url": "https://www.artforum.com/columns/greetings-from-mimosa-echards-server-cabinet-postcard-1234753356/",
+      "source": "Artforum",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "Floyd Mayweather"
+        "서버 캐비닛"
       ],
-      "why": "유명 인사의 화려한 일상을 통해 대중의 호기심을 자극합니다.",
+      "why": "이 콘텐츠는 현대의 디지털 시대를 상징하는 요소로, 기술과 예술의 결합을 보여줍니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-07-01T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-02T21:55:14+00:00",
+      "title_en": "",
+      "title": "서버 캐비닛에서의 인사",
+      "content": "미모사 에차드의 서버 캐비닛은 현대의 시대상을 반영하는 상자입니다."
     },
     {
-      "title": "꿈을 담은 프랑스 시계 -akteo(악테오)",
-      "content": "Akteo 시계는 꿈과 열정을 표현하는 디자인으로, 프랑스의 세련된 시계 메이커로부터 인기를 얻고 있습니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
+      "title_ko": "뉴욕 차이나타운의 예술 공간 폐쇄",
+      "summary": "뉴욕의 라이엘스 & 킹 갤러리가 문을 닫았습니다. 이 갤러리는 신진 예술가들을 지원하는 공간으로 알려져 있었습니다.",
+      "url": "https://www.artforum.com/news/lyles-and-king-closes-in-new-yorks-chinatown-1234753925/",
+      "source": "Artforum",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "watch",
-        "design"
+        "갤러리 폐쇄"
       ],
-      "why": "디자인의 독창성과 문화를 연결하여 호기심을 자극합니다.",
+      "why": "이 콘텐츠는 예술 공간의 중요성과 그 상실이 가져오는 충격을 보여줍니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-07-01T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-02T21:51:15+00:00",
+      "title_en": "",
+      "title": "뉴욕 차이나타운의 예술 공간 폐쇄",
+      "content": "뉴욕의 라이엘스 & 킹 갤러리가 문을 닫았습니다. 이 갤러리는 신진 예술가들을 지원하는 공간으로 알려져 있었습니다."
     },
     {
-      "title": "57 Best Bathroom Accessories That AD Editors Swear By (2026)",
-      "content": "AD 편집자들이 추천하는 욕실 액세서리들은 실용적이면서도 스타일리시합니다.",
-      "url": "https://www.architecturaldigest.com/story/best-bathroom-accessories",
-      "source": "architecturaldigest.com",
+      "title_ko": "뉴욕시 문화 예산 기록적 할당",
+      "summary": "뉴욕시 문화부는 올해 시 예산에서 사상 최대의 할당을 받게 되었습니다.",
+      "url": "https://www.artforum.com/news/mamdani-allocates-a-record-323-million-for-culture-1234753986/",
+      "source": "Artforum",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "bathroom",
-        "accessories"
+        "문화 예산"
       ],
-      "why": "실생활에 바로 적용할 수 있는 실용적인 아이디어를 제공합니다.",
+      "why": "이 콘텐츠는 문화 예산의 중요성과 그 할당이 사회에 미치는 영향을 보여줍니다.",
       "depth": 0.5,
-      "image": "https://media.architecturaldigest.com/photos/68d42b946988e55aa3d597b3/master/pass/AD0921_HART_DN_6.jpg",
-      "pub_date": "2026-07-01T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-02T20:22:04+00:00",
+      "title_en": "",
+      "title": "뉴욕시 문화 예산 기록적 할당",
+      "content": "뉴욕시 문화부는 올해 시 예산에서 사상 최대의 할당을 받게 되었습니다."
     }
   ],
   "keywords": [

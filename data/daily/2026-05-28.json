@@ -135,109 +135,136 @@
       "content": "디자이너 엘리너 양의 Synthetic Nature는 사람의 얼굴 근접도와 손의 터치에 반응하는 살아있는 타이포그래피 시스템이다. 웹캠과 촉각 소재를 활용해 알고리즘이 인간에게 반응하는 생태계를 구성한다."
     },
     {
-      "title": "AI 시대에서 디지털 디자인의 미래: 기회와 도전",
-      "content": "Andy Budd는 AI의 발전이 상품 디자인 분야에 가져올 수 있는 다양한 가능성과 위협 요소를 탐구합니다. 디자이너들이 더욱 자율성을 가질 수 있는 기회를 얻을 수 있는 반면, 그 자율성이 오히려 더 큰 노력을 요구할 수도 있음을 경고합니다.",
-      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
-      "source": "Smashing Magazine",
-      "domain": "UIUX",
-      "category": "리뷰",
-      "creator_name": "Andy Budd",
-      "creator_insight": "디자이너들로 하여금 더욱 자율적이면서도 책임감 있는 창조를 요구하는 시대가 도래하고 있습니다.",
+      "title_ko": "Daniele Procopio의 디지털 일러스트레이션 포트폴리오",
+      "summary": "Bologna에 기반을 둔 일러스트레이터 Daniele Procopio가 디지털 워크플로우를 활용하여 구조적인 접근을 통해 형상화된 그림을 그리는 방법을 보여줍니다.",
+      "url": "https://abduzeedo.com/digital-illustration-portfolio-daniele-procopio/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "디지털 일러스트레이션",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 삶의 질을 향상시킬 수 있습니다.",
       "tags": [
-        "디자인",
-        "인공지능"
+        "디지털 일러스트레이션",
+        "포트폴리오"
       ],
-      "execution_techniques": [
-        "#디지털디자인"
-      ],
-      "why": "AI 기술이 디지털 디자인의 관행을 어떻게 변화시키고 있는지를 깊이 있게 분석하고 있기 때문입니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600&q=80",
-      "pub_date": "2026-05-28T08:00:00.000000"
+      "why": "Daniele Procopio는 디지털 워크플로우를 통해 구조적인 접근으로 그림을 형상화한다. 이는 디지털 도구를 활용하여 명확하고 체계적인 시각적 표현을 만들어내려는 그의 의도를 반영한다.",
+      "social_proof": "디지털 아트 커뮤니티에서 주목받는 작품",
+      "depth": 0.85,
+      "pub_date": "Thu, 11 Jun 2026 13:01:48 GMT",
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_illustration-portfolio-2025-daniele-procopio_0.jpg",
+      "title_en": "",
+      "title": "Daniele Procopio의 디지털 일러스트레이션 포트폴리오",
+      "content": "Bologna에 기반을 둔 일러스트레이터 Daniele Procopio가 디지털 워크플로우를 활용하여 구조적인 접근을 통해 형상화된 그림을 그리는 방법을 보여줍니다."
     },
     {
-      "title": "신화 속으로: Carolina Panthers 스타디움 리모델링 계획",
-      "content": "HOK는 노스캐롤라이나의 Bank of America Stadium을 새롭게 단장하여 미래의 팬과 선수들의 기대에 부응하는 공간으로 발전시킬 계획입니다. 경기장의 외관과 편의 시설을 현대적으로 재구성할 계획입니다.",
-      "url": "https://www.dezeen.com/2026/07/30/hok-carolina-panthers-nfl-stadium-charlotte/",
-      "source": "Dezeen",
-      "domain": "SPATIAL",
-      "category": "리뷰",
-      "creator_name": "HOK",
-      "creator_insight": "오랜 시간 동안 스포츠 팬들의 기대에 부응할 수 있는 지속 가능한 공간 설계가 중요합니다.",
+      "title_ko": "Jamie Dornan과의 인터뷰",
+      "summary": "Jamie Dornan이 영화 Fifty Shades of Grey에서 Christian Grey 역할을 맡기 전, Calvin Klein 모델로서의 활동을 통해 많은 팬들의 관심을 끌고 있습니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "FILM",
+      "category": "인터뷰",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "\"디자인은 인간의 경험을 향상시키는 도구입니다.\"",
       "tags": [
-        "건축",
-        "스타디움"
+        "인터뷰",
+        "Jamie Dornan"
       ],
-      "execution_techniques": [
-        "#현대건축"
-      ],
-      "why": "공간의 재구성으로 얼마나 팬들과 선수들의 경험을 혁신적으로 변화시킬 수 있는지 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://static.dezeen.com/uploads/2026/07/panthers-stadium-redeign-hok-north-carolina_dezeen_2364_sq-852x852.jpg",
-      "pub_date": "2026-05-28T08:00:00.000000"
+      "why": "Jamie Dornan의 경력은 모델에서 배우로의 전환을 통해 대중의 관심을 끌었다. 이는 그의 이미지와 역할 변화가 어떻게 대중의 인식에 영향을 미치는지를 보여준다.",
+      "social_proof": "팬들 사이에서 높은 관심을 끌고 있는 인터뷰",
+      "depth": 0.85,
+      "image": "https://thestylewatcher.wordpress.com/wp-content/uploads/2014/06/jamie-dornan1.jpg",
+      "pub_date": "Wed, 25 Jun 2014 16:35:41 +0000",
+      "title_en": "",
+      "title": "Jamie Dornan과의 인터뷰",
+      "content": "Jamie Dornan이 영화 Fifty Shades of Grey에서 Christian Grey 역할을 맡기 전, Calvin Klein 모델로서의 활동을 통해 많은 팬들의 관심을 끌고 있습니다."
     },
     {
-      "title": "AI 속에서의 마찰 개념 재해석",
-      "content": "UX 디자인에서 마찰이란 사용자가 목표를 달성하는 데 방해가 되는 모든 것을 의미합니다. 그러나, 의미 있는 마찰은 사용자가 경험을 더 깊게 이해하는 데 도움을 주며, 디자인에서 이러한 마찰을 전략적으로 사용하는 방법을 모색해야 합니다.",
-      "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e",
-      "source": "UX Collective",
-      "domain": "UIUX",
-      "category": "리뷰",
-      "creator_name": "Singapore Airlines",
-      "creator_insight": "사용자의 경험을 더욱 인간적으로 만들기 위해 '좋은 마찰'을 디자인 과정에 포함시키는 것이 중요합니다.",
+      "title_ko": "Lupita Nyong'o의 Grace Notes",
+      "summary": "Lupita Nyong'o가 Oscar 수상 후, 그녀의 개인적인 스타일과 매력으로 많은 이들의 관심을 끌고 있습니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/25/american-vogue-grace-notes/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "FILM",
+      "category": "스타일",
+      "creator_name": "Yves Saint Laurent",
+      "creator_insight": "패션은 사라지지만 스타일은 영원하다. (La mode passe, le style est éternel.)",
       "tags": [
-        "UX",
+        "Lupita Nyong'o",
+        "스타일"
+      ],
+      "why": "Lupita Nyong'o는 Oscar 수상 이후 개인적인 스타일과 매력으로 주목받는다. 이는 그녀의 이미지가 대중 문화에서 어떻게 형성되고 있는지를 보여준다.",
+      "social_proof": "스타일 아이콘으로 자리잡은 Lupita Nyong'o에 대한 찬사",
+      "depth": 0.85,
+      "image": "https://thestylewatcher.wordpress.com/wp-content/uploads/2014/06/grace-notes1.jpg",
+      "pub_date": "Wed, 25 Jun 2014 12:19:41 +0000",
+      "title_en": "",
+      "title": "Lupita Nyong'o의 Grace Notes",
+      "content": "Lupita Nyong'o가 Oscar 수상 후, 그녀의 개인적인 스타일과 매력으로 많은 이들의 관심을 끌고 있습니다."
+    },
+    {
+      "title_ko": "TRADER HiFi, 함부르크의 커피 문화에 새로운 주파수를 맞추다",
+      "summary": "Vincent von Thien의 TRADER Gallery는 스페셜티 커피와 예술, 디자인을 결합하여 함부르크에 새로운 문화 공간을 제공합니다.",
+      "url": "https://www.ignant.com/2025/12/12/trader-hifi-tunes-hamburgs-coffee-culture-to-a-new-frequency/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "문화",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "\"좋은 디자인은 가능한 적은 디자인이다.\"",
+      "tags": [
+        "커피 문화",
         "디자인"
       ],
-      "execution_techniques": [
-        "#사용자경험"
-      ],
-      "why": "사용자 경험에서 마찰의 역할을 재평가하여 디자인에 혁신적인 인사이트를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://cdn-images-1.medium.com/max/862/0*awQhwQtyDfSv3nDp",
-      "pub_date": "2026-05-28T08:00:00.000000"
+      "why": "Vincent von Thien의 TRADER Gallery는 커피와 예술, 디자인을 결합하여 새로운 문화 공간을 창출한다. 이는 다양한 요소를 융합하여 독특한 경험을 제공하려는 시도를 반영한다.",
+      "social_proof": "함부르크에서 주목받는 문화 공간",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2025/12/trader.hifi-hamburg-clemens-poloczek-17-720x1081.jpg",
+      "pub_date": "Fri, 12 Dec 2025 08:21:35 +0000",
+      "title_en": "",
+      "title": "TRADER HiFi, 함부르크의 커피 문화에 새로운 주파수를 맞추다",
+      "content": "Vincent von Thien의 TRADER Gallery는 스페셜티 커피와 예술, 디자인을 결합하여 함부르크에 새로운 문화 공간을 제공합니다."
     },
     {
-      "title": "반짝이는 공간: Geller Studio의 Cinderella Deep",
-      "content": "Geller Studio는 레드펀에 소재한 소재 중심의 작업 공간인 Cinderella Deep을 소개하였습니다. 이 공간은 off-form 콘크리트와 재생된 벽돌 등을 사용하여 산업적이며 촉각적인 느낌을 주고 있습니다.",
-      "url": "https://www.yellowtrace.com.au/geller-studio-cinderella-deep-redfern-workspace-australian-interior-design/",
-      "source": "Yellowtrace",
-      "domain": "SPATIAL",
-      "category": "리뷰",
-      "creator_name": "Valeria Geller",
-      "creator_insight": "Ubuntu 철학과 소재 중심의 디자인을 결합하여 현대적인 공간을 창조했습니다.",
+      "title_ko": "Wysocka / Pogo의 Fax From Hell 전시회",
+      "summary": "Wysocka / Pogo 듀오의 새로운 작품 컬렉션이 그들의 최신 전시회 'Fax From Hell'에서 공개됩니다.",
+      "url": "https://opendoors.gallery/fax-from-hell-exhibition",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "전시회",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 좋은 돈을 벌게 해주지만, 위대한 디자인은 세상을 더 나은 곳으로 만듭니다.",
       "tags": [
-        "인테리어",
-        "건축"
+        "전시회",
+        "예술"
       ],
-      "execution_techniques": [
-        "#산업디자인"
-      ],
-      "why": "재생 소재와 혁신적인 디자인 철학을 결합하여 독특한 공간을 만들어 냈기 때문입니다.",
-      "depth": 0.95,
-      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16184237/Yellowtrace-Geller-Studio-Cinderella-Deep-Redfern-Photo-Anson-Smart-11_opt80.jpg",
-      "pub_date": "2026-05-28T08:00:00.000000"
+      "why": "Wysocka / Pogo의 'Fax From Hell' 전시회는 새로운 작품 컬렉션을 통해 그들의 예술적 비전을 드러낸다. 이는 그들의 창의적 접근이 어떻게 전시를 통해 구현되는지를 보여준다.",
+      "social_proof": "예술 애호가들 사이에서 화제가 되고 있는 전시회",
+      "depth": 0.85,
+      "pub_date": "Thu, 21 Aug 2025 16:27:47 +0000",
+      "image": "https://opendoors.gallery/wp-content/uploads/2025/08/Fax_From_Hell_Install-4.jpg",
+      "title_en": "",
+      "title": "Wysocka / Pogo의 Fax From Hell 전시회",
+      "content": "Wysocka / Pogo 듀오의 새로운 작품 컬렉션이 그들의 최신 전시회 'Fax From Hell'에서 공개됩니다."
     },
     {
-      "title": "Guggenheim 아부다비의 개관일이 확정되었습니다!",
-      "content": "고 프랭크 게리가 설계한 Guggenheim 아부다비 박물관이 12월 개관할 예정입니다. 아부다비의 사디야트 아일랜드에 위치한 이 박물관은 독특한 디자인으로 주목받고 있습니다.",
-      "url": "https://www.dezeen.com/2026/07/30/dezeen-agenda-features-guggenheim-abu-dhabi-opening-date/",
-      "source": "Dezeen",
-      "domain": "SPATIAL",
-      "category": "리뷰",
-      "creator_name": "Frank Gehry",
-      "creator_insight": "사막의 풍경과 조화를 이루며 문화와 예술의 교차점으로 작용할 특별한 공간입니다.",
+      "title_ko": "Annelies Štrba의 Lucid Dreams",
+      "summary": "Annelies Štrba의 개인전 'Lucid Dreams'가 Art on Paper Gallery에서 열립니다.",
+      "url": "https://strba.ch/2025/10/29/lucid-dreams/",
+      "source": "strba.ch",
+      "domain": "ART",
+      "category": "전시회",
+      "creator_name": "Annelies Štrba",
+      "creator_insight": "“나는 사진을 통해 현실과 꿈의 경계를 넘나드는 이미지를 만들고 싶습니다.”",
       "tags": [
-        "박물관",
-        "건축"
+        "개인전",
+        "예술"
       ],
-      "execution_techniques": [
-        "#현대건축"
-      ],
-      "why": "독창적인 설계와 문화적 중요성으로 인해 주목할 만한 가치가 있는 프로젝트입니다.",
-      "depth": 0.95,
-      "image": "https://static.dezeen.com/uploads/2026/07/guggenheim-abu-dhabi-completion-date-news-architecture-frank-gehry_dezeen_2364_col_13_square-852x852.jpg",
-      "pub_date": "2026-05-28T08:00:00.000000"
+      "why": "Annelies Štrba의 'Lucid Dreams' 전시는 개인전으로서 그녀의 예술적 탐구를 심화한다. 이는 그녀의 작품이 어떻게 관객에게 전달되는지를 보여준다.",
+      "social_proof": "스위스 예술계에서 주목받는 전시회",
+      "depth": 0.85,
+      "image": "https://strba.ch/wp-content/uploads/2025/10/lucid_dreams_01-3030x2161.jpeg",
+      "pub_date": "Wed, 29 Oct 2025 21:26:59 +0000",
+      "title_en": "",
+      "title": "Annelies Štrba의 Lucid Dreams",
+      "content": "Annelies Štrba의 개인전 'Lucid Dreams'가 Art on Paper Gallery에서 열립니다."
     }
   ],
   "items": [
@@ -357,50 +384,70 @@
   ],
   "popcorn": [
     {
-      "title": "Stanley 1913, 새로운 소셜 전략에 집중",
-      "content": "Stanley는 Quencher Woman을 넘어 새로운 소셜 전략으로 나아가려 합니다.",
-      "url": "https://www.adweek.com/agencies/after-viral-fame-stanley-1913-chooses-new-aor-born-social/",
-      "source": "Adweek",
+      "title_ko": "Vogue China – 청춘의 향기",
+      "summary": "모든 사람이 자유롭기를 원하는 깊은 욕망을 가지고 있지만, 그것을 실현할 용기를 가진 사람은 많지 않습니다. Vogue China의 이 에디토리얼은 그러한 자유를 추구하는 사람들을 조명합니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/12/vogue-china-smells-like-teen-spirit/",
+      "source": "thestylewatcher.wordpress.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "브랜딩"
+        "자유",
+        "청춘"
       ],
-      "why": "바이럴 성공 후 새로운 시장 접근을 모색하는 브랜드 전략이 흥미롭습니다.",
+      "why": "Vogue China의 에디토리얼은 자유를 추구하는 사람들을 조명하며, 이러한 주제를 스타일리시한 비주얼로 표현합니다. 이는 자유의 본질을 탐구하는 동시에 패션의 미학을 결합한 접근을 보여줍니다.",
       "depth": 0.5,
-      "image": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=1600&q=80",
-      "pub_date": "2026-05-28T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://thestylewatcher.wordpress.com/wp-content/uploads/2014/06/smells-like-teen-spirit1.jpg",
+      "pub_date": "Thu, 12 Jun 2014 15:25:52 +0000",
+      "title_en": "",
+      "title": "Vogue China – 청춘의 향기",
+      "content": "모든 사람이 자유롭기를 원하는 깊은 욕망을 가지고 있지만, 그것을 실현할 용기를 가진 사람은 많지 않습니다. Vogue China의 이 에디토리얼은 그러한 자유를 추구하는 사람들을 조명합니다."
     },
     {
-      "title": "철학이 돋보이는 새로운 이소토닉 음료!",
-      "content": "ZHEST는 보리와 홉을 바탕으로 한 새로운 이소토닉 음료 브랜드입니다.",
-      "url": "https://retaildesignblog.net/2026/07/23/zhest-by-max-lippolis/",
-      "source": "Retail Design Blog",
+      "title_ko": "Vogue Germany – 몸에 담긴 예술",
+      "summary": "바우하우스 스타일은 모든 순수 예술의 창의적인 협력을 통해 아름답고 실용적인 무언가를 만드는 것을 목표로 합니다. Vogue Germany의 이 에디토리얼은 그러한 스타일을 조명합니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/12/vogue-germany-kunst-am-korper/",
+      "source": "thestylewatcher.wordpress.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "브랜딩"
+        "바우하우스",
+        "예술"
       ],
-      "why": "독특한 구성과 건강한 삶을 향한 브랜드 철학이 돋보입니다.",
+      "why": "Vogue Germany의 에디토리얼은 바우하우스 스타일을 통해 창의적 협력의 아름다움을 조명합니다. 이는 예술적 협업을 통해 실용적 아름다움을 창출하려는 시도를 반영합니다.",
       "depth": 0.5,
-      "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1600&q=80",
-      "pub_date": "2026-05-28T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://thestylewatcher.wordpress.com/wp-content/uploads/2014/06/kunst-am-kc3b6rper1.jpg",
+      "pub_date": "Thu, 12 Jun 2014 03:23:41 +0000",
+      "title_en": "",
+      "title": "Vogue Germany – 몸에 담긴 예술",
+      "content": "바우하우스 스타일은 모든 순수 예술의 창의적인 협력을 통해 아름답고 실용적인 무언가를 만드는 것을 목표로 합니다. Vogue Germany의 이 에디토리얼은 그러한 스타일을 조명합니다."
     },
     {
-      "title": "Do You Love Me에서 레바논의 문화적 기억을 재조립하기",
-      "content": "레바논의 문화적 기억을 탐구한 라나 다헤르의 첫 장편 영화입니다.",
-      "url": "https://filmmakermagazine.com/133997-do-you-love-me-reassembles-lebanons-cultural-memory/",
-      "source": "Filmmaker Magazine",
+      "title_ko": "Elle France – 리비에라",
+      "summary": "많은 사람들이 프랑스 또는 이탈리아 리비에라에서 휴가를 보내고 싶어합니다. Elle France의 이 에디토리얼은 그러한 꿈을 반영합니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/07/elle-france-riviera/",
+      "source": "thestylewatcher.wordpress.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "문화",
-        "레바논"
+        "리비에라",
+        "휴가"
       ],
-      "why": "레바논의 역사를 독특한 시각적 방식으로 표현한 다헤르 감독의 예술적 도전이 주목받고 있습니다.",
+      "why": "Elle France의 에디토리얼은 리비에라의 꿈을 반영하며, 휴가의 낭만을 시각적으로 표현합니다. 이는 일상의 탈출을 꿈꾸는 사람들을 위한 비주얼적 상상을 제공합니다.",
       "depth": 0.5,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/do-you-love-me-940x400.jpg",
-      "pub_date": "2026-05-28T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://thestylewatcher.wordpress.com/wp-content/uploads/2014/06/riviera1.jpg",
+      "pub_date": "Sat, 07 Jun 2014 16:00:39 +0000",
+      "title_en": "",
+      "title": "Elle France – 리비에라",
+      "content": "많은 사람들이 프랑스 또는 이탈리아 리비에라에서 휴가를 보내고 싶어합니다. Elle France의 이 에디토리얼은 그러한 꿈을 반영합니다."
     }
   ],
   "creator_message": "에드 라흐만은 HDR을 통해 전통적 조명 철학을 유지하며 필름의 다이나믹 레인지를 살리는 방식을 제안합니다. 아비드 유세프는 흑백 사진을 통해 감정의 본질을 강조하며, 협업의 중요성을 드러냅니다. 마크 쿠즌스는 다큐멘터리의 본질을 탐구하며, 이야기의 출발점을 질문하는 방식으로 영화의 심장을 형성합니다."

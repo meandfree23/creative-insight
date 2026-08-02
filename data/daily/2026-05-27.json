@@ -81,172 +81,208 @@
       "content": "오스카 촬영상 노미네이트 감독들이 공통으로 말하는 것 — VFX 대신 실제를 찍는다. 기술이 발전할수록 촬영감독들은 반대 방향으로 움직이고 있다."
     },
     {
-      "title": "남미의 영화적인 매력을 가진 뮌헨 주택 리노베이션",
-      "content": "독일의 Holzrausch 아키텍처 스튜디오는 뮌헨에 위치한 타운하우스를 영화적인 남미 분위기를 모티브로 디자인하여 진한 목재와 자연석, 열대 식물을 조합해 독특한 내부 환경을 조성했습니다.",
-      "url": "https://www.dezeen.com/2026/07/31/holzrausch-renovated-munich-townhouse/",
-      "source": "Dezeen",
-      "domain": "SPATIAL",
-      "category": "리뷰",
-      "creator_name": "Holzrausch",
-      "creator_insight": "영화적인 모티브를 사용한 독창적인 공간 연출이 돋보였습니다.",
+      "title_ko": "FGV Schmidle",
+      "summary": "FGV Schmidle는 '우리는 제작의 일환이다!'라는 말을 좋아합니다. 이는 카메라 뒤와 세트장에서 제작을 생동감 있게 만드는 수많은 전문가들에 대한 경의를 표합니다.",
+      "url": "https://www.productionparadise.comshowcase/germany-issue-1022-2306/fgv-schmidle-64066.html",
+      "source": "productionparadise.com",
+      "domain": "FILM",
+      "category": "제작",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "\"좋아하는 일을 하면서 돈을 버는 것은 정말 중요합니다. 그렇지 않으면 삶이 너무 짧아서 그저 시간 낭비일 뿐입니다.\"",
       "tags": [
-        "리노베이션",
-        "영화적디자인"
+        "영화 제작",
+        "기술 전문성"
       ],
-      "execution_techniques": [
-        "#영화적연출"
-      ],
-      "why": "특별한 테마를 공간 디자인에 반영한 흥미로운 사례입니다.",
-      "depth": 0.95,
-      "image": "https://static.dezeen.com/uploads/2026/07/holzrausch-munich-townhouse-renovation-interior-design-south-american-cinema-sq-852x852.jpg",
-      "pub_date": "2026-05-27T08:00:00.000000"
+      "why": "FGV Schmidle는 '우리는 제작의 일환이다!'라는 철학을 통해 카메라 뒤와 세트장에서의 제작 과정을 생동감 있게 표현합니다. 이는 촬영 현장에서의 다양한 전문가들의 기여를 강조하며, 제작의 생동감을 높이는 데 기여합니다.",
+      "social_proof": "국제 영화 산업에서의 확고한 명성",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2306/photos/10023/newsletter/bildschirmfoto-2025-03-10-um-16.28.49.png",
+      "pub_date": "Thu, 11 Jun 2026 16:50:26",
+      "title_en": "",
+      "title": "FGV Schmidle",
+      "content": "FGV Schmidle는 '우리는 제작의 일환이다!'라는 말을 좋아합니다. 이는 카메라 뒤와 세트장에서 제작을 생동감 있게 만드는 수많은 전문가들에 대한 경의를 표합니다."
     },
     {
-      "title": "Decoy Font: AI 읽기를 피하는 글꼴",
-      "content": "Mixfont는 인간과 AI에게 각각 다른 메시지를 전달하는 Decoy Font를 개발했습니다. 이 글꼴은 AI 봇이 메시지를 잘못 인식하도록 광학 착시를 활용합니다.",
-      "url": "https://www.dezeen.com/2026/07/31/decoy-font-ai-mixfont/",
-      "source": "Dezeen",
-      "domain": "SPATIAL",
-      "category": "리뷰",
-      "creator_name": "Mixfont",
-      "creator_insight": "데이터 수집에 대한 창의적인 방어 기법을 제안합니다.",
-      "tags": [
-        "글꼴",
-        "데이터보호"
-      ],
-      "execution_techniques": [
-        "#광학착시"
-      ],
-      "why": "데이터 프라이버시와 관련된 혁신적인 접근 방법을 소개합니다.",
-      "depth": 0.95,
-      "image": "https://static.dezeen.com/uploads/2026/07/decoy-font-mixfont-eric-lu-design_dezeen_2364_sq-852x852.jpg",
-      "pub_date": "2026-05-27T08:00:00.000000"
-    },
-    {
-      "title": "파리시립현대미술관 MAM",
-      "content": "파리시립현대미술관은 기록이 감상에 미치는 영향을 탐구하는 연구결과를 언급하며, 사진보다 감상에 집중할 때 얻는 인상에 대해 논의합니다. 하지만 수많은 인파와 빠른 시간에도 불구하고 작품을 몰입해 감상하려던 과거의 경험을 회상합니다.",
-      "url": "https://blog.naver.com/justina75/224329340597?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
+      "title_ko": "American Vogue July 2014",
+      "summary": "Lupita Nyong’o가 Prada를 입고 American Vogue 2014년 7월호 표지를 장식합니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/19/american-vogue-july-2014/",
+      "source": "thestylewatcher.wordpress.com",
       "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "파리시립현대미술관",
-      "creator_insight": "사진보다 몰입하여 감상할 때 얻는 예술적 인상을 강조합니다.",
+      "category": "패션",
+      "creator_name": "Anna Wintour",
+      "creator_insight": "패션은 일종의 갑옷입니다. 그것은 당신이 세상에 제시하는 방식입니다. 특히 오늘날과 같은 시대에는 사람들을 무장시키는 데 유용합니다.",
       "tags": [
-        "미술관",
-        "사진"
+        "Lupita Nyong’o",
+        "Prada",
+        "패션"
       ],
-      "execution_techniques": [
-        "#감상몰입"
-      ],
-      "why": "시각적 기록물의 빈틈을 채우는 감각적 체험의 중요성을 알립니다.",
-      "depth": 0.95,
-      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjdfMzUg/MDAxNzgyNTYyNjk5MDc5.345YZrw9lXIbOspsXHd4c8FuZYwCyWXxHzmpQn3L6sMg.v0ll0Ibl-8UBIbZnrZmomkiLLHO_CK4QgBsqgpuM0L0g.JPEG/900_20260627_141646.jpg?type=s3",
-      "pub_date": "2026-05-27T08:00:00.000000"
+      "why": "Lupita Nyong’o가 Prada를 입고 Vogue 표지를 장식하면서, 패션과 인물의 조화를 통해 강렬한 시각적 임팩트를 만들어낸다. 이는 패션 잡지의 커버가 가지는 상징성과 영향력을 극대화하는 사례로 볼 수 있다.",
+      "social_proof": "Vogue 표지",
+      "depth": 0.85,
+      "image": "https://thestylewatcher.wordpress.com/wp-content/uploads/2014/06/american-vogue-july-2014-cover.jpg",
+      "pub_date": "Thu, 19 Jun 2014 16:13:57 +0000",
+      "title_en": "",
+      "title": "American Vogue July 2014",
+      "content": "Lupita Nyong’o가 Prada를 입고 American Vogue 2014년 7월호 표지를 장식합니다."
     },
     {
-      "title": "세 계절 만남의 공간, Celeste Asfour의 Strom 카페",
-      "content": "Celeste Asfour의 프로젝트 Strom은 카페 공간에서 놀이와 꿈의 만남을 융합하여 계절별로 새로운 경험을 제공합니다. 이에 사용된 디자인은 고객들에게 잠시나마 다른 세상을 경험할 수 있는 기회를 제공합니다.",
-      "url": "https://www.ignant.com/2026/04/20/strom-by-celeste-asfour-a-seasonal-cafe-where-reverie-meets-play/",
-      "source": "ignant.com",
+      "title_ko": "Vogue Germany – “Diane”",
+      "summary": "Vogue Germany의 에디토리얼에서 Diane Kruger가 Hugo Boss의 Jason Wu 디자인을 입고 등장합니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/12/vogue-germany-diane/",
+      "source": "thestylewatcher.wordpress.com",
       "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Celeste Asfour",
-      "creator_insight": "카페 공간에서 매 계절 색다른 경험을 창출하여 일상 탈출을 제공합니다.",
+      "category": "패션",
+      "creator_name": "Diane von Fürstenberg",
+      "creator_insight": "여성은 자신이 누구인지 아는 것보다 더 아름다울 수 없습니다. 그리고 자신이 누구인지 아는 순간이야말로 가장 강력한 순간입니다.",
       "tags": [
-        "카페",
-        "계절"
+        "Diane Kruger",
+        "Hugo Boss",
+        "패션"
       ],
-      "execution_techniques": [
-        "#공간디자인"
-      ],
-      "why": "일상 생활에 변화를 제공하여 고객 경험을 크게 향상시킵니다.",
-      "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/04/strom-clemens-poloczek-20-720x1081.jpg",
-      "pub_date": "2026-05-27T08:00:00.000000"
+      "why": "Met Gala에서 주목받은 Diane Kruger의 스타일을 조명합니다.",
+      "social_proof": "Vogue Germany 에디토리얼",
+      "depth": 0.85,
+      "image": "https://thestylewatcher.wordpress.com/wp-content/uploads/2014/06/diane1.jpg",
+      "pub_date": "Thu, 12 Jun 2014 05:50:41 +0000",
+      "title_en": "",
+      "title": "Vogue Germany – “Diane”",
+      "content": "Vogue Germany의 에디토리얼에서 Diane Kruger가 Hugo Boss의 Jason Wu 디자인을 입고 등장합니다."
     },
     {
-      "title": "과거의 그림자, Elisa Capdevila의 대형 벽화",
-      "content": "Elisa Capdevila는 바르셀로나의 Talía 극장을 기념하며 그의 대형 벽화를 통해 지역의 문화적 역사를 강조합니다. 이 벽화는 당시 지역 사회의 기억을 살아나게 합니다.",
-      "url": "https://www.streetartbcn.com/mural-de-gran-formato-de-elisa-capdevila-en-homenaje-al-teatro-talia/",
-      "source": "Street Art Barcelona",
+      "title_ko": "People’s Choice Award | OD Photo Prize, 2025",
+      "summary": "올해의 AJ Page Award는 OD Photo Prize의 후보에 오르지 못한 아티스트들의 뛰어난 단일 이미지를 기념합니다.",
+      "url": "https://opendoors.gallery/aj-page-award-2025",
+      "source": "opendoors.gallery",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Elisa Capdevila",
-      "creator_insight": "문화적 상징성을 통해 잊혀질 수 없는 사회적 기억을 되살립니다.",
+      "category": "사진",
+      "creator_name": "Ansel Adams",
+      "creator_insight": "사진의 가장 중요한 부분은 찍히는 대상이 아니라 그 사진을 찍는 사람의 마음이다.",
       "tags": [
-        "벽화",
-        "기억"
+        "사진",
+        "예술",
+        "상"
       ],
-      "execution_techniques": [
-        "#대형벽화"
-      ],
-      "why": "지역 사회의 기억을 예술로써 살아나게 하는 데 기여합니다.",
-      "depth": 0.95,
-      "image": "https://www.streetartbcn.com/wp-content/uploads/2026/05/670152598_18099558955964424_8244432673349426291_n.jpg",
-      "pub_date": "2026-05-27T08:00:00.000000"
+      "why": "사진 예술의 다양성과 독창성을 인정하는 상입니다.",
+      "social_proof": "AJ Page Award",
+      "depth": 0.85,
+      "pub_date": "Thu, 30 Oct 2025 13:07:55 +0000",
+      "image": "https://opendoors.gallery/wp-content/uploads/2025/10/jieyu-deng-1199-10-copy.jpg",
+      "title_en": "",
+      "title": "People’s Choice Award | OD Photo Prize, 2025",
+      "content": "올해의 AJ Page Award는 OD Photo Prize의 후보에 오르지 못한 아티스트들의 뛰어난 단일 이미지를 기념합니다."
     },
     {
-      "title": "Andrea Canepa 인터뷰: 신체적 지식을 게임판으로",
-      "content": "Andrea Canepa는 예술 공간을 신체적 경험의 게임판으로 변형하여 관람객과 상호작용하는 독특한 경험을 제공합니다. 그녀의 목표는 예술 작품과 사람 사이의 다리를 놓아주는 것입니다.",
-      "url": "https://www.berlinartlink.com/2026/07/28/bodily-knowledge-an-interview-with-andrea-canepa/",
-      "source": "Berlin Art Link",
+      "title_ko": "Approche 2025 | Art Fair",
+      "summary": "Open Doors Gallery는 파리의 Approche에 초대되어 Sander Coers의 새로운 작품을 선보입니다.",
+      "url": "https://opendoors.gallery/approche-2025",
+      "source": "opendoors.gallery",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Andrea Canepa",
-      "creator_insight": "신체와 예술의 연결을 통해 새로운 관람 방식을 제안합니다.",
+      "category": "전시",
+      "creator_name": "Yinka Ilori",
+      "creator_insight": "예술은 사람들이 세상을 보는 방식을 바꿀 수 있습니다. - Yinka Ilori",
       "tags": [
-        "인터뷰",
-        "게임판"
+        "예술",
+        "전시회",
+        "파리"
       ],
-      "execution_techniques": [
-        "#신체예술"
-      ],
-      "why": "예술 작품을 통해 관람객의 신체적 참여를 유도합니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-05-27T08:00:00.000000"
+      "why": "예술 전시회에서 새로운 작품을 선보이는 기회를 조명합니다.",
+      "social_proof": "Approche 초대",
+      "depth": 0.85,
+      "pub_date": "Tue, 14 Oct 2025 15:47:48 +0000",
+      "image": "https://opendoors.gallery/wp-content/uploads/2025/12/dandi0587-SMALL.jpg",
+      "title_en": "",
+      "title": "Approche 2025 | Art Fair",
+      "content": "Open Doors Gallery는 파리의 Approche에 초대되어 Sander Coers의 새로운 작품을 선보입니다."
     },
     {
-      "title": "Kiyo Takeda, 도쿄를 푸르게 만드는 건축가",
-      "content": "Kiyo Takeda는 자연과의 조화를 중시하는 새로운 세대의 건축가로, 전통적 건축 개념을 바꾸고 있습니다. 그의 작업은 생태계와의 상호작용을 통해 지속 가능한 도시를 제안합니다.",
-      "url": "https://spoon-tamago.com/kiyo-takeda-the-architect-making-tokyo-green-again/?utm_source=rss&utm_medium=rss&utm_campaign=kiyo-takeda-the-architect-making-tokyo-green-again",
-      "source": "Spoon & Tamago",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Kiyo Takeda",
-      "creator_insight": "시간의 흐름에 따라 변화하는 건축물을 통해 자연과 건축의 조화를 추구합니다.",
-      "tags": [
-        "건축",
-        "자연"
-      ],
-      "execution_techniques": [
-        "#자연친화건축"
-      ],
-      "why": "시대를 초월하여 지속 가능한 건축의 접근방식을 제안합니다.",
-      "depth": 0.95,
-      "image": "https://spoon-tamago.com/wp-content/uploads/2026/07/kiyo-takeda-tsuruoka-house-3-200x130.avif",
-      "pub_date": "2026-05-27T08:00:00.000000"
-    },
-    {
-      "title": "Niagara Falls: 워싱턴 국립 미술관의 전시회",
-      "content": "워싱턴 국립 미술관의 이번 전시회는 나이아가라 폭포의 역사적 층위를 탐구하며, 현대 미술 관점에서 폭포의 매력을 다시금 조명합니다.",
-      "url": "https://theartwolf.com/exhibitions/niagara-falls-nga-washington-2026/",
-      "source": "The Art Wolf",
+      "title_ko": "Lose Yourself in Some of David Hockney’s Most Memorable Works",
+      "summary": "David Hockney는 아마도 영국의 가장 위대한 생존 예술가일 것입니다. 그의 작품을 통해 그의 예술적 여정을 탐구합니다.",
+      "url": "https://www.anothermag.com/art-photography/13219/cool-and-clean-lose-yourself-in-david-hockneys-work-from-1966-to-1978",
+      "source": "anothermag.com",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "워싱턴 국립 미술관",
-      "creator_insight": "자연의 역사적, 문화적 가치를 현대 미술과 연결 짓습니다.",
+      "category": "예술가",
+      "creator_name": "David Hockney",
+      "creator_insight": "예술은 변화를 통해서만 존재할 수 있습니다. 그것은 당신의 시각을 변화시키는 것입니다. - 데이비드 호크니",
       "tags": [
-        "미술관",
-        "자연"
+        "David Hockney",
+        "예술",
+        "작품"
       ],
-      "execution_techniques": [
-        "#전시기획"
+      "why": "David Hockney의 작품을 통해 예술적 통찰을 제공합니다.",
+      "social_proof": "영국의 위대한 예술가",
+      "depth": 0.85,
+      "image": "https://images-prod.anothermag.com/1200/0-0-1920-1280/azure/another-prod/400/7/407876.jpeg",
+      "title_en": "",
+      "title": "Lose Yourself in Some of David Hockney’s Most Memorable Works",
+      "content": "David Hockney는 아마도 영국의 가장 위대한 생존 예술가일 것입니다. 그의 작품을 통해 그의 예술적 여정을 탐구합니다."
+    },
+    {
+      "title_ko": "David Hockney: Ten Things to Know About the Late British Artist",
+      "summary": "David Hockney는 1937년 브래드포드에서 태어나 6년 이상 그의 예술적 실천을 끊임없이 재창조해왔습니다.",
+      "url": "https://www.anothermag.com/art-photography/9500/remembering-david-hockney-ten-things-you-didnt-know",
+      "source": "anothermag.com",
+      "domain": "ART",
+      "category": "예술가",
+      "creator_name": "David Hockney",
+      "creator_insight": "예술은 우리를 더 긴장하게 만들고, 새로운 눈으로 보게 합니다. - 데이비드 호크니",
+      "tags": [
+        "David Hockney",
+        "예술",
+        "영국"
       ],
-      "why": "자연의 미적 가치와 역사적 변화를 알립니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-05-27T08:00:00.000000"
+      "why": "David Hockney의 예술적 여정과 업적을 기념합니다.",
+      "social_proof": "영국의 위대한 예술가",
+      "depth": 0.85,
+      "image": "https://images-prod.anothermag.com/1200/0-30-1919-1279/azure/another-prod/400/7/407865.jpeg",
+      "title_en": "",
+      "title": "David Hockney: Ten Things to Know About the Late British Artist",
+      "content": "David Hockney는 1937년 브래드포드에서 태어나 6년 이상 그의 예술적 실천을 끊임없이 재창조해왔습니다."
+    },
+    {
+      "title_ko": "Quae est in Nature",
+      "summary": "다양한 예술가들이 참여하는 'QUAE EST IN NATURE' 그룹 전시가 열립니다.",
+      "url": "https://strba.ch/2024/10/17/quae-est-in-nature/",
+      "source": "strba.ch",
+      "domain": "ART",
+      "category": "전시",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "나는 건축이 변화의 매개체가 될 수 있다고 믿습니다. 건축은 사람들에게 영감을 주고 그들의 삶을 더 좋게 만들 수 있습니다.",
+      "tags": [
+        "예술",
+        "전시",
+        "그룹"
+      ],
+      "why": "다양한 예술가들의 작품을 한 자리에서 감상할 수 있는 기회를 제공합니다.",
+      "social_proof": "다양한 예술가 참여",
+      "depth": 0.85,
+      "image": "https://strba.ch/wp-content/uploads/2024/10/strba_lange_pult24.jpg",
+      "pub_date": "Thu, 17 Oct 2024 09:17:22 +0000",
+      "title_en": "",
+      "title": "Quae est in Nature",
+      "content": "다양한 예술가들이 참여하는 'QUAE EST IN NATURE' 그룹 전시가 열립니다."
+    },
+    {
+      "title_ko": "Backstage Engelberg",
+      "summary": "Engelberg에서 53명의 예술가들이 참여하는 탐험 전시가 열립니다.",
+      "url": "https://strba.ch/2024/05/29/backstage-engelberg/",
+      "source": "strba.ch",
+      "domain": "ART",
+      "category": "전시",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "\"건축은 사람들을 기쁘게 하고, 감동을 주고, 영감을 줘야 합니다.\"",
+      "tags": [
+        "예술",
+        "탐험",
+        "전시"
+      ],
+      "why": "다양한 예술가들이 참여하여 지역적 특색을 살린 전시를 제공합니다.",
+      "social_proof": "53명의 예술가 참여",
+      "depth": 0.85,
+      "image": "https://strba.ch/wp-content/uploads/2024/05/Backstage_Engelberg_2024.jpg",
+      "pub_date": "Wed, 29 May 2024 20:03:00 +0000",
+      "title_en": "",
+      "title": "Backstage Engelberg",
+      "content": "Engelberg에서 53명의 예술가들이 참여하는 탐험 전시가 열립니다."
     }
   ],
   "items": [
@@ -301,49 +337,71 @@
   ],
   "popcorn": [
     {
-      "title": "접근성 역설: 인간과 AI를 동시에 위해",
-      "content": "웹 접근성이 인류와 기계를 위한 역할을 어떻게 변화시켰는지에 대한 이야기입니다.",
-      "url": "https://uxdesign.cc/the-accessibility-paradox-d2c073256660?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
+      "title_ko": "Keogh Dewar, 일상 속의 에로틱함을 찾는 남성복 레이블",
+      "summary": "Keogh Dewar는 클래식한 실루엣에 예상치 못한 질감과 색상을 결합하는 영국 디자인 듀오입니다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17247/keogh-dewar-spring-summer-2027-ss27-interview-harry-styles",
+      "source": "anothermag.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "접근성"
+        "패션",
+        "디자인",
+        "바이럴"
       ],
-      "why": "웹 접근성이 AI 발전과 맞물려 다양한 결과를 초래하고 있음을 보여줍니다.",
+      "why": "Keogh Dewar는 클래식한 실루엣에 예상치 못한 질감과 색상을 결합하여 일상 속의 에로틱함을 탐구합니다. 이는 전통적 디자인에 현대적 감각을 더해 남성복의 새로운 가능성을 제시하는 기법입니다.",
       "depth": 0.5,
-      "image": "https://cdn-images-1.medium.com/max/1024/1*4s_Qp2whVbrZgedYJXCL0Q.jpeg",
-      "pub_date": "2026-05-27T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://images-prod.anothermag.com/1200/0-145-2179-1452/azure/another-prod/470/4/474288.jpg",
+      "title_en": "",
+      "title": "Keogh Dewar, 일상 속의 에로틱함을 찾는 남성복 레이블",
+      "content": "Keogh Dewar는 클래식한 실루엣에 예상치 못한 질감과 색상을 결합하는 영국 디자인 듀오입니다."
     },
     {
-      "title": "베이징의 신비로운 향기 Le Labo 'SHIU 25'",
-      "content": "Le Labo가 베이징의 전통적 공간에 대한 오마주로 'SHIU 25' 향수를 선보였습니다.",
-      "url": "https://hypebeast.kr/2026/8/le-labo-shiu-25-eau-de-parfum-beijing-city-exclusive-collection-release-info",
-      "source": "Unknown Source",
+      "title_ko": "A Tuscan Villa Airbnb Celebrating Classic Italian Design, Reviewed (2026)",
+      "summary": "무한대 풀장, 알프레스코 다이닝, 이상적인 풍경이 기다리고 있습니다.",
+      "url": "https://www.architecturaldigest.com/story/tuscan-villa-airbnb",
+      "source": "architecturaldigest.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "향수"
+        "이탈리아",
+        "디자인",
+        "에어비앤비"
       ],
-      "why": "베이징의 문화와 예술적 영감을 결합한 새로운 향수로 주목받고 있습니다.",
+      "why": "이탈리아 디자인을 기념하는 투스카니 빌라는 무한대 풀장과 알프레스코 다이닝을 통해 고전적 아름다움과 현대적 편안함을 결합합니다. 이는 이상적인 풍경 속에서의 휴식을 제공하며, 건축적 미학과 실용성을 동시에 만족시킵니다.",
       "depth": 0.5,
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2Fle-labo-shiu-25-eau-de-parfum-city-exclusive-collection-release-info-000.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
-      "pub_date": "2026-05-27T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "Fri, 12 Jun 2026 18:55:23 +0000",
+      "image": "https://media.architecturaldigest.com/photos/6a2b0b92f6a06757b9287b74/16:9/w_1280,c_limit/imgi_501_c137345e-b7e5-49e9-bf2c-ba3991571e11.jpg",
+      "title_en": "",
+      "title": "A Tuscan Villa Airbnb Celebrating Classic Italian Design, Reviewed (2026)",
+      "content": "무한대 풀장, 알프레스코 다이닝, 이상적인 풍경이 기다리고 있습니다."
     },
     {
-      "title": "최고의 컬렉션과 새로운 시선 'Convocatoria RavaleArt'",
-      "content": "RavaleArt는 바르셀로나의 Raval 지역을 아트와 교육적 소통으로 활성화하는 프로젝트입니다.",
-      "url": "https://www.streetartbcn.com/convocatoria-ravaleart-tercera-edicion/",
-      "source": "Street Art Barcelona",
+      "title_ko": "Similac Mum",
+      "summary": "Similac Mum 'The Breastfeeding Life'는 모유 수유 엄마들을 위한 가장 완벽한 모유 대체유 캠페인입니다.",
+      "url": "https://uglyd.com/index.php/similac-mum/",
+      "source": "uglyd.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "예술"
+        "모유 수유",
+        "캠페인",
+        "바이럴"
       ],
-      "why": "지역사회를 활성화하고자 하는 예술 및 사회교육 프로젝트로 주목받고 있습니다.",
+      "why": "모유 수유 엄마들을 위한 캠페인이 사회적 관심을 끌고 있습니다.",
       "depth": 0.5,
-      "image": "https://www.streetartbcn.com/wp-content/uploads/2025/09/gY8hAfHQ.png",
-      "pub_date": "2026-05-27T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "Mon, 22 Mar 2021 06:24:08 +0000",
+      "title_en": "",
+      "title": "Similac Mum",
+      "content": "Similac Mum 'The Breastfeeding Life'는 모유 수유 엄마들을 위한 가장 완벽한 모유 대체유 캠페인입니다."
     }
   ],
   "creator_message": "에드 라크만은 <마리아>에서 시대별 필름 스톡 변화를 통해 기억의 구조를 시각적으로 구현했습니다. 이는 '카메라는 프로시니엄'이라는 철학적 접근을 통해 무대의 움직임을 시각적으로 표현하며, 촬영의 모든 결정을 뒷받침합니다. 촬영감독들은 기술의 발전에도 불구하고 실제 촬영을 통해 진정성을 유지하려는 노력을 보여줍니다."

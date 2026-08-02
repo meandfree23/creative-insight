@@ -9,299 +9,410 @@
   },
   "topPicks": [
     {
-      "title": "The Weekend with Zara McIntosh",
-      "content": "대중문화 애호가이자 물리적 미디어의 여왕인 Zara McIntosh가 자신이 좋아하는 주말을 소개합니다. 그녀는 런던의 최고의 장소, 읽고 있는 퀴어 잡지, 여름에 듣는 사운드트랙에 대해 이야기합니다.",
-      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
-      "source": "It's Nice That",
+      "title_ko": "경험의 경계: 아를 레 사진 축제 2026",
+      "summary": "사진의 경계를 탐구하는 아를 레 사진 축제는 이미지의 힘을 재조명합니다. 이 거대한 축제는 200주년을 맞이한 사진 매체의 혁신적인 가능성을 보여줍니다.",
+      "url": "https://www.lensculture.com/articles/lensculture-editors-photography-still-restless-les-rencontres-d-arles-festival-2026-preview",
+      "source": "lensculture.com",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Zara McIntosh는 트렌드의 최전선에 있는 예술가로, 그녀의 주말 경험은 창의적 통찰력을 제공합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "Zara McIntosh",
-        "주말",
-        "런던"
+        "사진",
+        "축제",
+        "혁신"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "전시"
       ],
-      "why": "Zara McIntosh의 뷰티풀 마인드와 문화적 통찰력을 보여주는 풍부한 주말 소개",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
-      "pub_date": "2026-07-12T08:00:00.000000"
+      "why": "사진의 경계를 넘어서는 새로운 시각을 제시하기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.lensculture.com/image/f58ece2f-9ca5-4fd8-dc7b-cf6b88d77b00/large",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "경험의 경계: 아를 레 사진 축제 2026",
+      "content": "사진의 경계를 탐구하는 아를 레 사진 축제는 이미지의 힘을 재조명합니다. 이 거대한 축제는 200주년을 맞이한 사진 매체의 혁신적인 가능성을 보여줍니다."
     },
     {
-      "title": "Present & Correct의 이야기: 완벽하게 큐레이트된 문구류 숍",
-      "content": "팬이 사랑하는 프린트 에페메라와 문구류 브랜드인 Present & Correct가 출판 세계에 첫 발을 내딛으며 Neal Whittington 공동 창립자와 이야기를 나누었습니다. 브랜드의 전설적인 재고의 이야기를 알아봅니다.",
-      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
-      "source": "It's Nice That",
+      "title_ko": "일본의 여름을 밝히는 5개의 예술 전시회",
+      "summary": "올 여름 일본에서 열리는 다섯 개의 주요 예술 전시회를 소개합니다. 각 전시는 독창적이고 감동적인 예술 작품들로 가득 차 있습니다.",
+      "url": "https://spoon-tamago.com/5-art-exhibitions-worth-traveling-for-in-japan-this-summer/?utm_source=rss&utm_medium=rss&utm_campaign=5-art-exhibitions-worth-traveling-for-in-japan-this-summer",
+      "source": "Spoon & Tamago",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "완벽하게 큐레이트된 문구류는 창의적 취향을 보여주는 데 중요한 역할을 합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "문구류",
-        "큐레이션",
-        "출판"
+        "전시",
+        "여행",
+        "예술"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "현대미술"
       ],
-      "why": "디테일한 큐레이션의 중요성과 창의적 공간의 영향력을 보여주는 사례",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
-      "pub_date": "2026-07-12T08:00:00.000000"
+      "why": "여름을 특별하게 만들어 줄 예술적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/Tsubaki-Noboru-Towada-3-200x134.jpeg",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "일본의 여름을 밝히는 5개의 예술 전시회",
+      "content": "올 여름 일본에서 열리는 다섯 개의 주요 예술 전시회를 소개합니다. 각 전시는 독창적이고 감동적인 예술 작품들로 가득 차 있습니다."
     },
     {
-      "title": "아트리스트 에디 페이크, 이미지로 소통하는 법",
-      "content": "건축은 에디 페이크의 작품에서 반복되는 테마입니다. 언제 이 주제가 중요한 문제가 되었는지, 그때의 감정에 대해 이야기합니다.",
-      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
-      "source": "Creative Independent",
+      "title_ko": "온리츠카 타이거의 새로운 댄서 슈즈",
+      "summary": "온리츠카 타이거가 새로운 댄서 슈즈, 짐나리나를 선보였습니다. 이 신발은 기존의 스니커와는 다른 독특한 디자인을 자랑합니다.",
+      "url": "https://www.highsnobiety.com/p/onitsuka-tiger-gymnarina-blue/",
+      "source": "Highsnobiety",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "신발",
+        "디자인",
+        "패션"
+      ],
+      "execution_techniques": [
+        "제품디자인"
+      ],
+      "why": "기존의 디자인 개념을 뛰어넘는 창의적인 접근이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "온리츠카 타이거의 새로운 댄서 슈즈",
+      "content": "온리츠카 타이거가 새로운 댄서 슈즈, 짐나리나를 선보였습니다. 이 신발은 기존의 스니커와는 다른 독특한 디자인을 자랑합니다."
+    },
+    {
+      "title_ko": "브뤼겔의 인쇄작품 전시회",
+      "summary": "슈타델 미술관에서 열리는 '브뤼겔. 인쇄됨' 전시회는 브뤼겔의 드로잉을 기반으로 한 45점의 인쇄 작품들을 선보입니다. 이 전시회는 2026년 6월 18일부터 9월 20일까지 진행됩니다.",
+      "url": "https://theartwolf.com/exhibitions/bruegel-printed-stadel-2026/",
+      "source": "The Art Wolf",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "인쇄",
+        "전시",
+        "브뤼겔"
+      ],
+      "execution_techniques": [
+        "인쇄기술"
+      ],
+      "why": "고전과 현대를 잇는 예술적 탐구의 장입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "브뤼겔의 인쇄작품 전시회",
+      "content": "슈타델 미술관에서 열리는 '브뤼겔. 인쇄됨' 전시회는 브뤼겔의 드로잉을 기반으로 한 45점의 인쇄 작품들을 선보입니다. 이 전시회는 2026년 6월 18일부터 9월 20일까지 진행됩니다."
+    },
+    {
+      "title_ko": "모텔에서 감성 스테이 리브랜딩, 모키",
+      "summary": "전주의 오래된 모텔이 '모키'라는 이름으로 감성 스테이로 변신했습니다. 새로운 여행 트렌드에 맞춰 공간을 새롭게 재해석했습니다.",
+      "url": "https://www.designtwoply.com/works/commercial/%eb%aa%a8%ed%85%94%ec%97%90%ec%84%9c-%ec%8a%a4%ed%85%8c%ec%9d%b4%eb%a1%9c-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%eb%aa%a8%ed%82%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25aa%25a8%25ed%2585%2594%25ec%2597%2590%25ec%2584%259c-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25eb%25a1%259c-%25eb%25a6%25ac%25eb%25b8%258c%25eb%259e%259c%25eb%2594%25a9-%25eb%25aa%25a8%25ed%2582%25a4",
+      "source": "Unknown Source",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "건축과 이미지 소통의 관계를 통해 창의적 듣기를 강화합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "건축",
-        "이미지 커뮤니케이션",
-        "아트"
+        "리브랜딩",
+        "공간디자인",
+        "여행"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "리노베이션"
       ],
-      "why": "에디 페이크의 이미지 소통 기술은 창의적 표현에 영감을 줍니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
-      "pub_date": "2026-07-12T08:00:00.000000"
+      "why": "공간의 새로운 해석이 현대 여행자들의 기호를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2025/10/moki-썸네일사이즈.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "모텔에서 감성 스테이 리브랜딩, 모키",
+      "content": "전주의 오래된 모텔이 '모키'라는 이름으로 감성 스테이로 변신했습니다. 새로운 여행 트렌드에 맞춰 공간을 새롭게 재해석했습니다."
     },
     {
-      "title": "클래식 향을 현대적으로 재해석한 'Gillette - 100 Years of Hair'",
-      "content": "시대의 노래를 보여주며, 화장실 배경의 악세사리와 사진을 이어붙인듯한 느낌의 영상이 흥미롭습니다.",
-      "url": "https://honestart.tistory.com/96",
-      "source": "honestart.tistory.com",
+      "title_ko": "인터넷과 그 공포를 탐구하는 작가 B.R. 예이거",
+      "summary": "작가 B.R. 예이거는 디지털 스토리텔링과 인터넷의 어두운 면을 탐구합니다. 그의 작품은 기술이 인간에게 미치는 영향을 심도 있게 다루고 있습니다.",
+      "url": "https://www.artribune.com/editoria/2026/07/intervista-scrittore-yeager/",
+      "source": "Artribune",
+      "domain": "LITERATURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "인터넷",
+        "문학",
+        "기술"
+      ],
+      "execution_techniques": [
+        "스토리텔링"
+      ],
+      "why": "디지털 시대의 본질을 날카롭게 분석합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/intervista-a.png",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "인터넷과 그 공포를 탐구하는 작가 B.R. 예이거",
+      "content": "작가 B.R. 예이거는 디지털 스토리텔링과 인터넷의 어두운 면을 탐구합니다. 그의 작품은 기술이 인간에게 미치는 영향을 심도 있게 다루고 있습니다."
+    },
+    {
+      "title_ko": "‘거주된 침묵 속으로’ - 리앙 왕의 작품",
+      "summary": "리앙 왕의 작품 '거주된 침묵 속으로'는 조용하지만 강렬한 시각적 경험을 제공합니다. 그의 작품은 감성과 상상력을 자극합니다.",
+      "url": "https://www.booooooom.com/2026/07/10/into-the-inhabited-silence-by-artist-liang-wang/",
+      "source": "Booooooom",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "다양한 시대의 흔적을 상징적으로 담아내었습니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "Gillette",
-        "역사",
+        "예술",
+        "감성",
+        "시각적경험"
+      ],
+      "execution_techniques": [
+        "회화"
+      ],
+      "why": "작품이 전달하는 감정의 깊이가 놀랍습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/07/LiangWang1.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "‘거주된 침묵 속으로’ - 리앙 왕의 작품",
+      "content": "리앙 왕의 작품 '거주된 침묵 속으로'는 조용하지만 강렬한 시각적 경험을 제공합니다. 그의 작품은 감성과 상상력을 자극합니다."
+    },
+    {
+      "title_ko": "음악가 H. Pruz와 새로운 길을 여는 GUNK",
+      "summary": "GUNK의 공동 창립자인 음악가 H. Pruz가 새로운 음악 비디오 작업 과정을 공유합니다. 이 인터뷰는 창조적 협업의 중요성을 강조합니다.",
+      "url": "https://thecreativeindependent.com/people/musician-and-gunk-co-founder-h-pruz-on-opening-a-new-door/",
+      "source": "Creative Independent",
+      "domain": "MUSIC",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "음악",
+        "협업",
+        "창조성"
+      ],
+      "execution_techniques": [
+        "뮤직비디오"
+      ],
+      "why": "창의적인 협업의 가치와 중요성을 일깨웁니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "음악가 H. Pruz와 새로운 길을 여는 GUNK",
+      "content": "GUNK의 공동 창립자인 음악가 H. Pruz가 새로운 음악 비디오 작업 과정을 공유합니다. 이 인터뷰는 창조적 협업의 중요성을 강조합니다."
+    },
+    {
+      "title_ko": "연결의 시각적 언어: 그래픽 시",
+      "summary": "현대 시인과 디자이너들이 협력하여 시와 이미지를 결합한 '그래픽 시' 책을 출간했습니다. 이 작품은 시각적 표현의 경계를 확장합니다.",
+      "url": "https://www.andrew-townsend.com/Graphic-Poetry",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "시",
+        "그래픽",
         "디자인"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "출판"
       ],
-      "why": "100년 간의 변화를 흥미롭게 담아낸 영상으로, 디자인의 진화를 이해할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
-      "pub_date": "2026-07-12T08:00:00.000000"
+      "why": "예술적 경계를 넘나드는 혁신적인 시도가 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://payload.cargocollective.com/1/1/33015/5083540/prt_1362743647.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "연결의 시각적 언어: 그래픽 시",
+      "content": "현대 시인과 디자이너들이 협력하여 시와 이미지를 결합한 '그래픽 시' 책을 출간했습니다. 이 작품은 시각적 표현의 경계를 확장합니다."
     },
     {
-      "title": "차차앙테의 하인즈 마요네즈 프로젝트: 물리적 경험",
-      "content": "하인즈 마요네즈를 위한 차차앙테 프로젝트는 일본 자판기의 물리성을 탐험하며, 음식의 낭만적인 감각을 표현합니다.",
-      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
-      "source": "It's Nice That",
+      "title_ko": "타입페이스의 미학",
+      "summary": "이 프로젝트는 다양한 타입페이스의 미적 매력을 탐구합니다. 디자이너들은 각 글꼴의 독창성과 기능성을 강조합니다.",
+      "url": "https://www.behance.net/gallery/251972421/Typeface-",
+      "source": "Behance",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "타입페이스",
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "타이포그래피"
+      ],
+      "why": "글꼴의 새로운 미적 가능성을 탐색할 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/9e9887251972421.Y3JvcCwxMTY5LDkxNSwxNTksMjAy.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "타입페이스의 미학",
+      "content": "이 프로젝트는 다양한 타입페이스의 미적 매력을 탐구합니다. 디자이너들은 각 글꼴의 독창성과 기능성을 강조합니다."
+    },
+    {
+      "title_ko": "시각적 혼란: 이 착시 현상은 말을 어떻게 보이게 하는가?",
+      "summary": "이 착시 현상은 시각적 인식의 경계를 시험합니다. 보는 이로 하여금 현실을 다시 생각하게 만듭니다.",
+      "url": "https://www.creativebloq.com/creative-inspiration/optical-illusions/this-perplexing-optical-illusion-is-making-me-question-what-a-horse-looks-lke",
+      "source": "Creative Bloq",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "착시",
+        "디자인",
+        "인식"
+      ],
+      "execution_techniques": [
+        "시각디자인"
+      ],
+      "why": "인식의 경계를 도전하는 독특한 시각적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/MvjXfQNwSKkdGdDaEpfviP-1280-80.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "시각적 혼란: 이 착시 현상은 말을 어떻게 보이게 하는가?",
+      "content": "이 착시 현상은 시각적 인식의 경계를 시험합니다. 보는 이로 하여금 현실을 다시 생각하게 만듭니다."
+    },
+    {
+      "title_ko": "세컨드 에디션: 아방가르드 그룹 전시회",
+      "summary": "아방가르드 그룹의 '세컨드 에디션'은 현대 미술의 새로운 흐름을 탐구합니다. 전시회는 다양한 미디어와 스타일을 결합하여 독창적인 예술을 창조합니다.",
+      "url": "https://www.baseelements.net/segunda-edicion-by-the-avant-groove-group-exhibition/",
+      "source": "Base Elements Blog",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "전통적 경험과 현대적 기술의 조화를 통해 신선함과 참신함을 제공합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "음식 디자인",
-        "자판기",
-        "물리적 경험"
+        "전시",
+        "아방가르드",
+        "현대미술"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "혼합미디어"
       ],
-      "why": "기술과 전통의 독창적 조합은 창의적 디자인의 새로운 가능성을 제시합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
-      "pub_date": "2026-07-12T08:00:00.000000"
+      "why": "다양한 미디어를 통해 새로운 예술적 경향을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "세컨드 에디션: 아방가르드 그룹 전시회",
+      "content": "아방가르드 그룹의 '세컨드 에디션'은 현대 미술의 새로운 흐름을 탐구합니다. 전시회는 다양한 미디어와 스타일을 결합하여 독창적인 예술을 창조합니다."
     },
     {
-      "title": "Karlovy Vary: 영화제의 생존 이야기",
-      "content": "Karlovy Vary 국제 영화제는 점령, 타협, 생존의 길을 걸어왔습니다. 1946년 처음 개최되었으며, 국제 영화 제작자 협회에서 가장 높은 국제적 영향을 미치는 카테고리에 지정되었습니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
+      "title_ko": "여성 매 사냥꾼을 찍다: 소셜 미디어보다 매 사육을 선택한 소녀들",
+      "summary": "로렌 매카비는 매 사육에 몰입한 젊은 여성들을 사진으로 담았습니다. 이 프로젝트는 전통과 현대의 교차점을 탐구합니다.",
+      "url": "https://www.itsnicethat.com/articles/lauren-maccabee-young-falconers-photography-project-080726",
+      "source": "It's Nice That",
+      "domain": "PHOTOGRAPHY",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "영화제의 역사와 그 영향을 이해하면 영화의 진화와 글로벌 영향력을 더 깊이 이해할 수 있습니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "영화제",
-        "역사",
-        "생존"
+        "사진",
+        "전통",
+        "여성"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "다큐멘터리"
       ],
-      "why": "상징적 위치에서의 영화제 개최는 글로벌 영화 커뮤니티와의 지속적인 연결을 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-07-12T08:00:00.000000"
-    },
-    {
-      "title": "Jennifer Lame과 영화 편집기술의 한계 확장",
-      "content": "Christopher Nolan의 영화 'Tenet'을 편집했던 Jennifer Lame의 경험을 소개합니다. 그녀는 이전에 작고 표현력이 풍부한 영화들을 작업했습니다.",
-      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "복잡한 이야기 구조와 시각적 요소의 조화를 통해 영화의 편집 기술에 대한 이해를 확장시킵니다.",
-      "tags": [
-        "영화 편집",
-        "Christopher Nolan",
-        "기술 확장"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "복잡한 이야기를 분해하고 재구성하는 과정을 통해 시각적 스토리텔링의 영감을 제공",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
-      "pub_date": "2026-07-12T08:00:00.000000"
-    },
-    {
-      "title": "김 저스틴 헬",
-      "content": "김 저스틴 헬은 스위스의 상업 사진가로, 고급 시계 촬영과 고품질 제품 이미지를 전문으로 합니다. 그의 작품은 정밀한 조명과 세심한 창의적 방향을 결합합니다.",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
-      "source": "productionparadise.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "김 저스틴 헬의 촬영 기술은 기술적 완벽함과 창의적 비전을 결합하여 고급 브랜드의 가치를 강조합니다.",
-      "tags": [
-        "고급 사진",
-        "시계",
-        "조명 기술"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "정밀한 이미지화 작업을 통해 창의적인 무드를 완성하고 브랜드의 정체성을 강화할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
-      "pub_date": "2026-07-12T08:00:00.000000"
-    },
-    {
-      "title": "자네 안할트",
-      "content": "상업 사진가 자네 안할트는 고급 보석, 스위스 시계 및 프리미엄 제품의 사진을 전문으로 합니다. 그녀의 사진은 장인의 기술과 독창성을 강조합니다.",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/jana-anhalt-64432.html",
-      "source": "productionparadise.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "섬세한 조명과 세심한 색상 재현으로 장인의 작품을 돋보이게 합니다.",
-      "tags": [
-        "보석",
-        "시계",
-        "고급 사진"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "세심한 디테일과 개인 맞춤형 접근 방식을 통해 사진의 가치와 장인의 기술을 이끌어냅니다.",
-      "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/94206/newsletter/swiss-pearls-70-copy.jpg",
-      "pub_date": "2026-07-12T08:00:00.000000"
-    },
-    {
-      "title": "김 저스틴 헬 블로그 게시물",
-      "content": "김 저스틴 헬은 스위스의 상업 사진가로, 고급 시계 촬영과 고품질 제품 이미지를 전문으로 합니다. 그의 작품은 정밀한 조명과 세심한 창의적 방향을 결합하여 고급 브랜드의 인상적인 비주얼을 창조합니다.",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
-      "source": "productionparadise.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "정밀한 사진 촬영을 통해 고급 브랜드의 가치를 더욱 돋보이게 합니다.",
-      "tags": [
-        "제품 사진",
-        "시계",
-        "브랜드"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "정밀한 조명 기술과 창의적 디자인을 통해 고급 제품의 매력을 극대화합니다.",
-      "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
-      "pub_date": "2026-07-12T08:00:00.000000"
-    },
-    {
-      "title": "자네 안할트: 기술과 예술이 만나는 지점",
-      "content": "상업 사진가 자네 안할트는 고급 보석 사진과 프리미엄 제품 사진을 전문으로 하며, 정교한 조명을 통해 각 작품의 장인의 기술을 부각시킵니다.",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/jana-anhalt-64432.html",
-      "source": "productionparadise.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "고급 브랜드의 진정한 가치를 드러내기 위한 세심함과 조화로운 작업을 보여줍니다.",
-      "tags": [
-        "보석",
-        "프리미엄 제품",
-        "광고 사진"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "고급스러움을 강조하는 사진 기술을 통해 브랜드와 작품의 가치를 높입니다.",
-      "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/94206/newsletter/swiss-pearls-70-copy.jpg",
-      "pub_date": "2026-07-12T08:00:00.000000"
+      "why": "전통과 현대가 만나는 독특한 시선을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/5MdTK3bmTsQfM8P665kQ5axmNZw=/279286/width-1440/LM_FALCONERS_10_retouch.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "여성 매 사냥꾼을 찍다: 소셜 미디어보다 매 사육을 선택한 소녀들",
+      "content": "로렌 매카비는 매 사육에 몰입한 젊은 여성들을 사진으로 담았습니다. 이 프로젝트는 전통과 현대의 교차점을 탐구합니다."
     }
   ],
   "popcorn": [
     {
-      "title": "Floyd Mayweather Jr. - 초호화 스타 선수의 생활",
-      "content": "플로이드 메이웨더 주니어는 무패로 5체급을 정복한 최초의 복서로, 개인적으로도 초호화 생활을 하고 있습니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title_ko": "온리츠카 타이거의 새로운 댄서 슈즈",
+      "summary": "온리츠카 타이거가 새로운 댄서 슈즈, 짐나리나를 선보였습니다. 이 신발은 기존의 스니커와는 다른 독특한 디자인을 자랑합니다.",
+      "url": "https://www.highsnobiety.com/p/onitsuka-tiger-gymnarina-blue/",
+      "source": "Highsnobiety",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "Floyd Mayweather Jr.",
-        "스타 선수",
-        "초호화 생활"
+        "스니커즈",
+        "댄서슈즈"
       ],
-      "why": "대중적으로 알려진 스타 선수의 개인적인 호화생활이 많은 사람의 관심을 끌기 때문입니다.",
+      "execution_techniques": [
+        "StreetAesthetic"
+      ],
+      "why": "1) 독특한 디자인과 브랜드의 대중적 인지도로 바이럴 가능성 높음, 2) 스니커즈 문화와 패션의 교차점, 3) 패션과 퍼포먼스의 융합으로 다른 분야에 영감을 줄 수 있음",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-07-12T08:00:00.000000"
+      "image": "",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "온리츠카 타이거의 새로운 댄서 슈즈",
+      "content": "온리츠카 타이거가 새로운 댄서 슈즈, 짐나리나를 선보였습니다. 이 신발은 기존의 스니커와는 다른 독특한 디자인을 자랑합니다."
     },
     {
-      "title": "꿈을 담은 프랑스 시계 - akteo(악테오)",
-      "content": "프랑스 디자이너가 만든 악테오 시계는 시간 속에서 꿈과 열정을 표현하는 상징물입니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
+      "title_ko": "인터넷과 그 공포를 탐구하는 작가 B.R. 예이거",
+      "summary": "작가 B.R. 예이거는 디지털 스토리텔링과 인터넷의 어두운 면을 탐구합니다. 그의 작품은 기술이 인간에게 미치는 영향을 심도 있게 다루고 있습니다.",
+      "url": "https://www.artribune.com/editoria/2026/07/intervista-scrittore-yeager/",
+      "source": "Artribune",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "akteo",
-        "프랑스 시계",
-        "꿈과 열정"
+        "디지털스토리텔링",
+        "인터넷"
       ],
-      "why": "프랑스 시계의 디자인과 철학이 새로운 트렌드를 이끌고 있습니다.",
+      "execution_techniques": [
+        "KineticStructure"
+      ],
+      "why": "1) 인터넷과 디지털 미디어의 어두운 면을 다루어 현대 사회의 단면을 보여줌, 2) 시각적이고 서사적인 가치가 크며, 3) 기술과 인문학의 교차점에 위치하여 다양한 영감을 제공함",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-07-12T08:00:00.000000"
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/intervista-a.png",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "인터넷과 그 공포를 탐구하는 작가 B.R. 예이거",
+      "content": "작가 B.R. 예이거는 디지털 스토리텔링과 인터넷의 어두운 면을 탐구합니다. 그의 작품은 기술이 인간에게 미치는 영향을 심도 있게 다루고 있습니다."
     },
     {
-      "title": "Heinz 마요네즈 자판기 프로젝트와 물리적 경험",
-      "content": "차차앙테의 하인즈 마요네즈 프로젝트는 물리적 경험을 통해 음식의 낭만적인 감각을 탐험합니다.",
-      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
-      "source": "It's Nice That",
+      "title_ko": "모텔에서 감성 스테이 리브랜딩, 모키",
+      "summary": "전주의 오래된 모텔이 '모키'라는 이름으로 감성 스테이로 변신했습니다. 새로운 여행 트렌드에 맞춰 공간을 새롭게 재해석했습니다.",
+      "url": "https://www.designtwoply.com/works/commercial/%eb%aa%a8%ed%85%94%ec%97%90%ec%84%9c-%ec%8a%a4%ed%85%8c%ec%9d%b4%eb%a1%9c-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%eb%aa%a8%ed%82%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25aa%25a8%25ed%2585%2594%25ec%2597%2590%25ec%2584%259c-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25eb%25a1%259c-%25eb%25a6%25ac%25eb%25b8%258c%25eb%259e%259c%25eb%2594%25a9-%25eb%25aa%25a8%25ed%2582%25a4",
+      "source": "DesignTwoply",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "Heinz",
-        "마요네즈",
-        "물리적 경험"
+        "리브랜딩",
+        "감성스테이"
       ],
-      "why": "현대 기술과 전통의 조화, 그리고 장소 특정적 경험을 강조하여 관심을 끌고 있습니다.",
+      "execution_techniques": [
+        "PopMinimalism"
+      ],
+      "why": "1) 공간 재해석을 통한 새로운 경험 제공으로 주목, 2) 디자인적 가치와 감성적 요소가 결합되었으며, 3) 디자인과 여행 산업의 경계를 허물어 새로운 인사이트 제공",
       "depth": 0.5,
-      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
-      "pub_date": "2026-07-12T08:00:00.000000"
+      "image": "https://www.designtwoply.com/wp-content/uploads/2025/10/moki-썸네일사이즈.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000",
+      "title_en": "",
+      "title": "모텔에서 감성 스테이 리브랜딩, 모키",
+      "content": "전주의 오래된 모텔이 '모키'라는 이름으로 감성 스테이로 변신했습니다. 새로운 여행 트렌드에 맞춰 공간을 새롭게 재해석했습니다."
     }
   ],
   "macro_keywords": [

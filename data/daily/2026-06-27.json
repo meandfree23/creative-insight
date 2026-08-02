@@ -9,283 +9,359 @@
   },
   "topPicks": [
     {
-      "title": "브랜드의 지역화를 다루다",
-      "content": "브랜드의 지역화를 위한 다양한 전략과 지역 소비자들의 필요를 반영하는 방법이 다뤄집니다.",
-      "url": "https://uglyd.com/index.php/localising-a-brand/",
-      "source": "uglyd.com",
-      "domain": "디자인",
-      "category": "리뷰",
-      "creator_name": "미상",
-      "creator_insight": "브랜드는 지역적 특징을 반영할 때 더 많은 소비자들과 연결될 수 있습니다.",
+      "title_ko": "일 솔레 24 오레 - 2026년 사설 일러스트레이션",
+      "summary": "2026년 동안, 작가는 다양한 사설 일러스트레이션 작업을 통해 시각적 스토리텔링의 가능성을 탐구했습니다.",
+      "url": "https://www.behance.net/gallery/251727183/Il-Sole-24-Ore-Editorial-illustrations-2026",
+      "source": "Behance",
+      "domain": "DESIGN",
+      "category": "작업",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 당신을 행복하게 만들 수 있다.",
+      "tags": [
+        "일러스트레이션",
+        "디자인",
+        "시각적 스토리텔링"
+      ],
+      "execution_techniques": [
+        "디지털 일러스트레이션"
+      ],
+      "why": "시각적 스토리텔링은 현대 사회에서 메시지를 효과적으로 전달하는 중요한 수단입니다. 이는 정보 과잉 시대에 직관적이고 감성적인 접근을 통해 사람들의 관심을 끌 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/6001d6251727183.Y3JvcCw4MDgsNjMyLDAsMA.jpg",
+      "pub_date": "2026-07-05T13:30:06+00:00",
+      "title_en": "",
+      "title": "일 솔레 24 오레 - 2026년 사설 일러스트레이션",
+      "content": "2026년 동안, 작가는 다양한 사설 일러스트레이션 작업을 통해 시각적 스토리텔링의 가능성을 탐구했습니다."
+    },
+    {
+      "title_ko": "타임 호튼 시티 브랜딩 프로젝트",
+      "summary": "타임 호튼의 시티 브랜딩 프로젝트는 도시의 정체성을 강화하고 브랜드의 가시성을 높이는 전략을 제시합니다.",
+      "url": "https://www.behance.net/gallery/250682871/Tim-Hortons-City-Branding-Project",
+      "source": "Behance",
+      "domain": "DESIGN",
+      "category": "프로젝트",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 흥미로운 것이다. 그것은 사람들을 사로잡고 감정을 이끌어낸다.",
       "tags": [
         "브랜딩",
-        "지역화"
+        "도시",
+        "정체성"
       ],
       "execution_techniques": [
-        "#전략디자인"
+        "브랜딩 전략"
       ],
-      "why": "지역화는 브랜드가 소비자와 깊은 연결을 구축하는 데 필수적입니다.",
-      "depth": 0.95,
-      "image": "https://uglyd.com/wp-content/uploads/2018/12/Showreel-2019-1-300x169.jpg",
-      "pub_date": "2026-06-27T08:00:00.000000"
+      "why": "도시의 정체성을 강화하는 브랜딩은 지역 사회와의 연결을 강화하고, 브랜드의 가시성을 높이는 데 중요한 역할을 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/ed2c48250682871.Y3JvcCwzMjMyLDI1MjgsMCww.jpg",
+      "pub_date": "2026-07-05T09:30:07+00:00",
+      "title_en": "",
+      "title": "타임 호튼 시티 브랜딩 프로젝트",
+      "content": "타임 호튼의 시티 브랜딩 프로젝트는 도시의 정체성을 강화하고 브랜드의 가시성을 높이는 전략을 제시합니다."
     },
     {
-      "title": "예술가 웹사이트 백링크 얻는 법",
-      "content": "예술가 웹사이트의 백링크를 얻는 두 가지 방법을 제시합니다. 백링크는 검색 순위 상승에 핵심적 요소입니다.",
-      "url": "https://veryprivategallery.com/artist-website-backlinks/",
-      "source": "Very Private Gallery",
-      "domain": "예술",
-      "category": "리뷰",
-      "creator_name": "Greg Bot",
-      "creator_insight": "좋은 콘텐츠만으로는 충분하지 않으며, 전략적인 백링크 구축이 필수적입니다.",
-      "tags": [
-        "백링크",
-        "SEO"
-      ],
-      "execution_techniques": [
-        "#디지털마케팅"
-      ],
-      "why": "검색 결과에서 눈에 띄는 것은 현대 예술가들에게 필수적인 기술입니다.",
-      "depth": 0.95,
-      "image": "https://veryprivategallery.com/wp-content/uploads/2024/02/artist-website-backlinks-ideas.jpg",
-      "pub_date": "2026-06-27T08:00:00.000000"
-    },
-    {
-      "title": "빛의 작용을 통해 식물 돌보기",
-      "content": "백색의 플러그는 병충해의 신호일 수 있으나 때로는 신선한 성장의 표시로, 자연스럽게 사라질 수 있습니다.",
-      "url": "https://archzine.net/gartengestaltung/garten-pflanzen/buchsbaum-weisse-flocken-befall-schaedlinge-erkennen/",
-      "source": "Archzine",
-      "domain": "공간",
-      "category": "리뷰",
-      "creator_name": "미상",
-      "creator_insight": "식물 관리의 섬세함은 미학과 과학의 융합이라고 할 수 있습니다.",
-      "tags": [
-        "식물",
-        "관리"
-      ],
-      "execution_techniques": [
-        "#정원디자인"
-      ],
-      "why": "식물을 돌볼 때는 각자의 반응을 잘 이해하는 것이 중요합니다.",
-      "depth": 0.95,
-      "image": "https://archzine.net/wp-content/uploads/2026/07/buchsbaum-weisse-flocken-blaetter.webp",
-      "pub_date": "2026-06-27T08:00:00.000000"
-    },
-    {
-      "title": "The Weekend With Zara McIntosh",
-      "content": "팝 문화의 전문가이자 물리적 미디어의 여왕인 Zara McIntosh는 런던의 최고의 명소과 여름에 듣는 사운드트랙을 공유합니다.",
-      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
-      "source": "It's Nice That",
+      "title_ko": "아이슬란드의 색소 흐름",
+      "summary": "추상적인 항공 사진을 통해 아이슬란드의 빙하 강을 탐구하는 작품입니다.",
+      "url": "https://www.behance.net/gallery/251894135/PIGMENT-FLOW-Iceland",
+      "source": "Behance",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Zara McIntosh",
-      "creator_insight": "런던에서 즐기는 주말의 예술적 영감.",
+      "category": "작품",
+      "creator_name": "Olafur Eliasson",
+      "creator_insight": "예술은 우리를 둘러싼 세상을 바라보는 방식을 변화시킬 수 있는 잠재력을 가지고 있습니다. 그것은 우리의 인식을 확장하고, 새로운 가능성을 탐구하게 만듭니다.",
       "tags": [
-        "London",
-        "Pop Culture"
+        "항공 사진",
+        "추상",
+        "자연"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "항공 사진"
       ],
-      "why": "문화적 풍미와 예술적 풍경을 한 눈에 보여주는 기사",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
-      "pub_date": "2026-06-27T08:00:00.000000"
+      "why": "자연의 아름다움을 추상적으로 표현하는 것은 환경 문제에 대한 인식을 높이고, 자연과 인간의 관계를 재고하게 만듭니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/7be839251894135.Y3JvcCwxOTIwLDE1MDEsMCwxOQ.jpg",
+      "pub_date": "2026-07-05T01:30:05+00:00",
+      "title_en": "",
+      "title": "아이슬란드의 색소 흐름",
+      "content": "추상적인 항공 사진을 통해 아이슬란드의 빙하 강을 탐구하는 작품입니다."
     },
     {
-      "title": "The story behind Present & Correct",
-      "content": "그래픽 디자이너의 꿈의 상점 'Present & Correct'가 출판 세계에 첫 발을 내딛고 비하인드 스토리를 공개합니다.",
-      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
-      "source": "It's Nice That",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Neal Whittington",
-      "creator_insight": "디자인의 매력을 증폭시키는 창의적인 전략",
+      "title_ko": "하스팅스의 이글 하우스: 건축이 커뮤니티를 우선시할 때",
+      "summary": "IFDO의 이글 하우스는 방치된 빅토리아 건물을 청소년 센터, 저렴한 작업 공간 및 커뮤니티 허브로 변모시켰습니다.",
+      "url": "https://www.wallpaper.com/architecture/eagle-house-ifdo-hastings-uk",
+      "source": "Wallpaper",
+      "domain": "ARCHITECTURE",
+      "category": "프로젝트",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "나는 도시가 어떻게 작동하는지에 대해 항상 호기심이 많았다. 그 복잡성과 상호작용에서 영감을 받는다.",
       "tags": [
-        "Design",
-        "Stationery"
+        "커뮤니티",
+        "건축",
+        "재생"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "건축 재생"
       ],
-      "why": "디자인 애호가들에게 창의적인 영감과 이야기를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
-      "pub_date": "2026-06-27T08:00:00.000000"
+      "why": "커뮤니티 중심의 건축은 사회적 책임과 공동체의 중요성을 강조하며, 현대 사회에서 지속 가능한 개발의 모델을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/xg9t9kohnpk63pmu7UkPwZ-1280-80.jpg",
+      "pub_date": "2026-07-04T10:45:55+00:00",
+      "title_en": "",
+      "title": "하스팅스의 이글 하우스: 건축이 커뮤니티를 우선시할 때",
+      "content": "IFDO의 이글 하우스는 방치된 빅토리아 건물을 청소년 센터, 저렴한 작업 공간 및 커뮤니티 허브로 변모시켰습니다."
     },
     {
-      "title": "ChaChaanTeng’s saucy auto-mayo-mat activation for Heinz",
-      "content": "헬스 마요네즈를 위한 ChaChaanTeng의 혁신적인 자동 마요미션이 일본 자판기의 물리적 느낌을 탐구합니다.",
-      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
-      "source": "It's Nice That",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "음식과 기술이 만나는 지점에서의 감성적인 탐구",
-      "tags": [
-        "Design",
-        "Innovation"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "디자인과 기술의 만남을 통해 새로운 시각을 제공합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
-      "pub_date": "2026-06-27T08:00:00.000000"
-    },
-    {
-      "title": "Spa Eclectics: At Karlovy Vary",
-      "content": "찰롱 차별이 큰 Karlovy Vary 국제 영화제가 어떻게 세계적인 영화제로 성장했는지를 탐구합니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "문화적 복잡성과 영화제 과정의 역사적 맥락",
-      "tags": [
-        "Film Festival",
-        "History"
-      ],
-      "execution_techniques": [
-        "Narrative"
-      ],
-      "why": "영화제의 문화적, 역사적 배경에 대한 심도 있는 분석 제공",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-06-27T08:00:00.000000"
-    },
-    {
-      "title": "Weaving The Odyssey",
-      "content": "크리스토퍼 놀란의 영화 '테닛' 편집을 맡은 제니퍼 레임이 경험한 독특한 편집 도전에 대한 이야기.",
-      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "영화 편집 과정의 복잡성을 보여주는 개인적 경험",
-      "tags": [
-        "Film Editing",
-        "Christopher Nolan"
-      ],
-      "execution_techniques": [
-        "Interview"
-      ],
-      "why": "편집자의 시각으로 바라본 영화 제작 과정의 흥미로운 통찰",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
-      "pub_date": "2026-06-27T08:00:00.000000"
-    },
-    {
-      "title": "Artist, activist, and author Edie Fake on communicating with images",
-      "content": "에디 페이크는 자신의 작품에서 건축이 어떻게 반복적 주제가 되었는지를 설명합니다.",
-      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
-      "source": "Creative Independent",
+      "title_ko": "알베르토 카발리: 호모 파베르와 공예의 미래",
+      "summary": "미켈란젤로 재단의 이사인 알베르토 카발리는 호모 파베르 2026과 인간 손의 중요성에 대해 논의합니다.",
+      "url": "https://www.designboom.com/design/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview/",
+      "source": "Designboom",
       "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Edie Fake",
-      "creator_insight": "건축과 예술의 융합을 통해 다양한 메시지를 전하는 방식",
+      "category": "인터뷰",
+      "creator_name": "알베르토 카발리",
+      "creator_insight": "인간의 손은 세상을 이해하는 데 가장 소중한 도구입니다.",
       "tags": [
-        "Art",
-        "Activism"
+        "공예",
+        "미래",
+        "인간 손"
       ],
       "execution_techniques": [
-        "Interview"
+        "인터뷰"
       ],
-      "why": "예술 작품에 숨겨진 작가의 개인적인 이야기를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
-      "pub_date": "2026-06-27T08:00:00.000000"
+      "why": "공예의 미래는 인간의 손과 기술의 융합을 통해 지속 가능한 창조적 해결책을 제시할 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview-designboom-700-1-500x400-22b08q85r912.jpg",
+      "pub_date": "2026-07-04T10:09:18+00:00",
+      "title_en": "",
+      "title": "알베르토 카발리: 호모 파베르와 공예의 미래",
+      "content": "미켈란젤로 재단의 이사인 알베르토 카발리는 호모 파베르 2026과 인간 손의 중요성에 대해 논의합니다."
     },
     {
-      "title": "Musician and artist Alexandra Drewchin (Eartheater) on following the deep feeling",
-      "content": "음악가이자 예술가인 Alexandra Drewchin는 모성으로 인해 변화된 예술의 방향성을 설명합니다.",
-      "url": "https://thecreativeindependent.com/people/musician-and-artist-alexandra-drewchin-eartheater-on-following-the-deep-feeling/",
-      "source": "Creative Independent",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Alexandra Drewchin",
-      "creator_insight": "모성과 창작 과정의 연결 고리",
-      "tags": [
-        "Music",
-        "Art"
-      ],
-      "execution_techniques": [
-        "Interview"
-      ],
-      "why": "개인의 변화를 통해 예술이 어떻게 진화하는지를 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-06-27T08:00:00.000000"
-    },
-    {
-      "title": "초호화 스타선수의 생활 -플로이드 메이웨더 Floyd Mayweather Jr.",
-      "content": "전설적인 복서 플로이드 메이웨더 주니어의 초호화 생활과 그의 경기 결과 및 개인적 통찰을 다룹니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title_ko": "앤디 워홀의 캠벨 수프 캔 로고의 해부학",
+      "summary": "미국 디자인의 상징인 앤디 워홀의 캠벨 수프 캔을 통해 디자인 역사를 탐구합니다.",
+      "url": "https://www.wallpaper.com/art/design-history-andy-warhol-campbell-soup-can",
+      "source": "Wallpaper",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "스포츠 스타의 성공과 그 뒤에 숨겨진 이야기",
+      "category": "역사",
+      "creator_name": "Andy Warhol",
+      "creator_insight": "\"미래에는 누구나 15분 동안 유명해질 것이다.\"",
       "tags": [
-        "Boxing",
-        "Floyd Mayweather"
+        "디자인 역사",
+        "앤디 워홀",
+        "상징"
       ],
       "execution_techniques": [
-        "Profile"
+        "역사 분석"
       ],
-      "why": "스포츠와 개인 생활을 다룬 통찰력 있는 설명",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-06-27T08:00:00.000000"
+      "why": "디자인 역사를 통해 현대 디자인의 뿌리를 이해하고, 과거의 감성을 현대적 맥락에서 재해석할 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/E9yqbfAodmixQFanZ6gXCU-1280-80.gif",
+      "pub_date": "2026-07-04T13:00:00+00:00",
+      "title_en": "",
+      "title": "앤디 워홀의 캠벨 수프 캔 로고의 해부학",
+      "content": "미국 디자인의 상징인 앤디 워홀의 캠벨 수프 캔을 통해 디자인 역사를 탐구합니다."
+    },
+    {
+      "title_ko": "키티의 코스모폴리탄 클럽: 시카고에 에메랄드 매력을 더하다",
+      "summary": "데이비드 콜린스 스튜디오는 시카고의 크라잉 타이거 아래 지하 공간을 벨벳으로 장식된 스피크이지로 변모시켰습니다.",
+      "url": "https://www.wallpaper.com/travel/bars/kittys-cosmopolitan-club-chicagos-review",
+      "source": "Wallpaper",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "\"나는 항상 새로운 것을 탐구하고 실험하는 데 관심이 있습니다. 건축은 그 자체로 매우 혁신적이어야 합니다.\"",
+      "tags": [
+        "인테리어 디자인",
+        "시카고",
+        "스피크이지"
+      ],
+      "execution_techniques": [
+        "인테리어 디자인"
+      ],
+      "why": "과거의 매력을 현대적으로 재해석한 공간은 도시의 문화적 다양성을 반영하고, 현대인의 감성적 욕구를 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/QJ3ezHAgUGLjzPzCJBnmSc-1280-80.jpg",
+      "pub_date": "2026-07-04T12:00:00+00:00",
+      "title_en": "",
+      "title": "키티의 코스모폴리탄 클럽: 시카고에 에메랄드 매력을 더하다",
+      "content": "데이비드 콜린스 스튜디오는 시카고의 크라잉 타이거 아래 지하 공간을 벨벳으로 장식된 스피크이지로 변모시켰습니다."
+    },
+    {
+      "title_ko": "피아트의 멀티플리나 컨셉: 소형 이동 수단의 미래",
+      "summary": "피아트는 초소형 도시 이동 수단의 미래를 모색하며, 새로운 부문으로의 확장을 계획하고 있습니다.",
+      "url": "https://www.wallpaper.com/transportation/fiat-multiplina-concept",
+      "source": "Wallpaper",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "좋은 디자인은 최대한 적게 디자인된 것이다. (Weniger, aber besser.)",
+      "tags": [
+        "이동 수단",
+        "미래",
+        "소형"
+      ],
+      "execution_techniques": [
+        "제품 디자인"
+      ],
+      "why": "도시의 이동성을 개선하는 소형 이동 수단은 환경 문제를 해결하고, 지속 가능한 도시 생활을 가능하게 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/hjr4utgvcQa33u5fWSfP68-1280-80.jpg",
+      "pub_date": "2026-07-04T10:00:00+00:00",
+      "title_en": "",
+      "title": "피아트의 멀티플리나 컨셉: 소형 이동 수단의 미래",
+      "content": "피아트는 초소형 도시 이동 수단의 미래를 모색하며, 새로운 부문으로의 확장을 계획하고 있습니다."
+    },
+    {
+      "title_ko": "아메리칸 건축 스타일의 250년 탐구",
+      "summary": "미국을 대표하는 건축 미학을 탐구하고, 진정한 아메리칸 스타일을 찾기 위한 여정을 소개합니다.",
+      "url": "https://www.architecturaldigest.com/story/american-architecture-style-250",
+      "source": "Architectural Digest",
+      "domain": "ARCHITECTURE",
+      "category": "역사",
+      "creator_name": "Frank Lloyd Wright",
+      "creator_insight": "건축가는 자신의 시대와 장소를 위한 건축을 창조해야 한다.",
+      "tags": [
+        "건축",
+        "역사",
+        "미국"
+      ],
+      "execution_techniques": [
+        "역사 분석"
+      ],
+      "why": "건축 역사를 통해 현대 건축의 뿌리를 이해하고, 지역적 특성을 반영한 디자인을 발전시킬 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-04T04:00:00+00:00",
+      "title_en": "",
+      "title": "아메리칸 건축 스타일의 250년 탐구",
+      "content": "미국을 대표하는 건축 미학을 탐구하고, 진정한 아메리칸 스타일을 찾기 위한 여정을 소개합니다."
+    },
+    {
+      "title_ko": "클레오: 레트로 타이포그래피 그래픽 디자인 표본",
+      "summary": "클레오는 레트로 베이퍼웨이브 형태와 기하학적 실루엣을 혼합한 레트로 타이포그래피 그래픽 디자인 프로젝트입니다.",
+      "url": "https://abduzeedo.com/cleo-display-font-retro-typography-graphic-design-specimen/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "작품",
+      "creator_name": "Paula Scher",
+      "creator_insight": "디자인은 단순히 보이는 것을 넘어서서 사람들에게 영향을 미치는 경험을 만드는 것입니다.",
+      "tags": [
+        "레트로",
+        "타이포그래피",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "타이포그래피 디자인"
+      ],
+      "why": "레트로 디자인은 과거의 감성을 현대적으로 재해석하여 새로운 시각적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T22:05:18+00:00",
+      "title_en": "",
+      "title": "클레오: 레트로 타이포그래피 그래픽 디자인 표본",
+      "content": "클레오는 레트로 베이퍼웨이브 형태와 기하학적 실루엣을 혼합한 레트로 타이포그래피 그래픽 디자인 프로젝트입니다."
+    },
+    {
+      "title_ko": "상하이에서 기후 변화를 번역한 인터랙티브 설치물",
+      "summary": "재활용 금속과 재생 패브릭으로 구성된 모듈형 구조물이 기후 변화를 예술적으로 표현합니다.",
+      "url": "https://www.designboom.com/art/suspended-glacier-forms-climate-change-interactive-installation-shanghai-dayuan-design/",
+      "source": "Designboom",
+      "domain": "ART",
+      "category": "작품",
+      "creator_name": "Olafur Eliasson",
+      "creator_insight": "예술은 우리에게 무언가를 경험하게 하고, 우리가 그것을 어떻게 경험하는지 스스로 물어보게 만듭니다.",
+      "tags": [
+        "기후 변화",
+        "인터랙티브",
+        "설치미술"
+      ],
+      "execution_techniques": [
+        "설치미술"
+      ],
+      "why": "기후 변화를 예술적으로 표현하는 것은 환경 문제에 대한 인식을 높이고, 사회적 책임을 강조하는 데 기여합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/glacier-project-suspended-interactive-urban-installation-shanghai-dayuan-design-designboom-700-500x400-22b08q85r892.jpg",
+      "pub_date": "2026-07-03T17:30:30+00:00",
+      "title_en": "",
+      "title": "상하이에서 기후 변화를 번역한 인터랙티브 설치물",
+      "content": "재활용 금속과 재생 패브릭으로 구성된 모듈형 구조물이 기후 변화를 예술적으로 표현합니다."
     }
   ],
   "items": [],
   "popcorn": [
     {
-      "title": "모드와 스쿠터 문화와의 특별한 만남",
-      "content": "토비 다멘과 특별 게스트가 감성적인 독서를 선보입니다.",
-      "url": "https://designspotter.com/lit-cologne-lesungen-zwei-geschichten-eine-subkultur/",
-      "source": "Unknown Source",
+      "title_ko": "4일의 7월 BBQ 준비? 이 여름 정원 필수품 없이는 준비가 안 됩니다",
+      "summary": "야외 기술 및 액세서리에 최대 40% 할인된 가격으로 호스팅, 휴식 및 엔터테인먼트를 위한 제품을 소개합니다.",
+      "url": "https://www.creativebloq.com/tech/prepped-for-a-4th-of-july-bbq-not-without-these-summer-garden-essentials-you-arent",
+      "source": "Creative Bloq",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "문화"
+        "여름",
+        "정원",
+        "BBQ"
       ],
-      "why": "아날로그 문화의 재발견으로 많은 관심을 끌고 있습니다.",
+      "why": "여름철 야외 활동과 관련된 콘텐츠는 대중의 관심을 끌기 쉽고, 실용적인 팁과 할인 정보는 소비자에게 매력적으로 다가옵니다.",
       "depth": 0.5,
-      "image": "https://static.xx.fbcdn.net/images/emoji.php/v9/t3d/2/16/1f4d6.png",
-      "pub_date": "2026-06-27T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/iNY2wg4jb7j2h9FdQeaZEg-1280-80.jpg",
+      "pub_date": "2026-07-04T19:00:00+00:00",
+      "title_en": "",
+      "title": "4일의 7월 BBQ 준비? 이 여름 정원 필수품 없이는 준비가 안 됩니다",
+      "content": "야외 기술 및 액세서리에 최대 40% 할인된 가격으로 호스팅, 휴식 및 엔터테인먼트를 위한 제품을 소개합니다."
     },
     {
-      "title": "꿈을 담은 프랑스 시계 -akteo(악테오)",
-      "content": "디자이너 Jean Christophe Mareshal이 만든 프랑스 시계 'akteo'는 꿈과 열정을 담고 있습니다. 저가의 가격에도 뛰어난 디자인을 자랑합니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
+      "title_ko": "레 크로셰(후크)",
+      "summary": "젊은 남자가 처음으로 동반자와 함께 침대에 누워 가장 큰 도전에 직면하게 되는 이야기입니다.",
+      "url": "https://filmshortage.com/dailyshortpicks/les-crochets-hooks/",
+      "source": "Film Shortage",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "Watches"
+        "단편 영화",
+        "청춘",
+        "도전"
       ],
-      "why": "독특한 디자인과 스토리로 주목을 끌고 있습니다.",
+      "why": "청춘의 도전과 성장을 다루는 이야기는 많은 이들에게 공감과 흥미를 불러일으키며, 바이럴 요소로 작용할 수 있습니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-06-27T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "2026-07-04T13:57:23+00:00",
+      "title_en": "",
+      "title": "레 크로셰(후크)",
+      "content": "젊은 남자가 처음으로 동반자와 함께 침대에 누워 가장 큰 도전에 직면하게 되는 이야기입니다."
     },
     {
-      "title": "Gillette - 100 Years of Hair",
-      "content": "Gillette의 100년간의 헤어 역사를 음악과 영상으로 재미있게 보여주는 작품입니다.",
-      "url": "https://honestart.tistory.com/96",
-      "source": "honestart.tistory.com",
+      "title_ko": "이사악 1: 부드러운 로봇의 가사 혁명",
+      "summary": "위브 로보틱스의 '이사악 1'은 부드러운 패브릭과 단순화된 그리퍼로 가사 노동을 혁신합니다.",
+      "url": "https://www.designboom.com/technology/soft-robot-fold-laundry-weave-robotics-isaac-1/",
+      "source": "Designboom",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "Grooming"
+        "로봇",
+        "가사",
+        "혁신"
       ],
-      "why": "혁신적이고 창의적인 방식으로 결합된 음악과 영상",
+      "why": "가사 노동을 혁신하는 로봇 기술은 많은 사람들의 관심을 끌며, 미래의 생활 방식을 변화시킬 수 있는 잠재력을 지니고 있습니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
-      "pub_date": "2026-06-27T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/weave-robotics-isaac-1-designboom-700-1-500x400-22b08q85r220.jpg",
+      "pub_date": "2026-07-03T21:00:49+00:00",
+      "title_en": "",
+      "title": "이사악 1: 부드러운 로봇의 가사 혁명",
+      "content": "위브 로보틱스의 '이사악 1'은 부드러운 패브릭과 단순화된 그리퍼로 가사 노동을 혁신합니다."
     }
   ],
   "keywords": [

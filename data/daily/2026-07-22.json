@@ -9,281 +9,332 @@
   },
   "topPicks": [
     {
-      "title": "제목을 입력하세요",
-      "content": "내용 요약을 입력하세요",
-      "url": "기사의 원본 링크를 입력하세요",
-      "source": "소스명을 입력하세요",
-      "domain": "카테고리를 입력하세요",
-      "category": "리뷰",
-      "creator_name": "프로젝트의 실제 작가, 디자이너, 건축가 이름",
-      "creator_insight": "창의적인 인사이트를 입력하세요",
-      "tags": [
-        "태그1",
-        "태그2"
-      ],
-      "execution_techniques": [
-        "스타일 해시태그"
-      ],
-      "why": "큐레이터 관점을 입력하세요",
-      "depth": 0.95,
-      "image": "기사의 이미지 URL",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title": "",
-      "content": "",
-      "url": "",
-      "source": "",
-      "domain": "",
+      "title_ko": "예술이란 무엇인가? - 예술가와 사상가의 인사이트",
+      "summary": "예술의 본질에 대한 17개의 인사이트를 예술가들과 사상가들이 설명합니다. 이 인사이트들은 예술의 다양한 해석을 제공합니다.",
+      "url": "https://veryprivategallery.com/art-quotes/",
+      "source": "Very Private Gallery",
+      "domain": "ART",
       "category": "리뷰",
       "creator_name": "",
       "creator_insight": "",
       "tags": [
-        ""
+        "예술",
+        "인사이트",
+        "철학"
       ],
       "execution_techniques": [
-        ""
+        "인용"
       ],
-      "why": "",
-      "depth": 0.95,
-      "image": "",
-      "pub_date": "2026-07-22T08:00:00.000000"
+      "why": "예술의 본질을 탐구하며 깊이 있는 사유를 유도합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2024/03/Quotes-about-What-is-Art-Art-History-and-Interpretation.jpg",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "예술이란 무엇인가? - 예술가와 사상가의 인사이트",
+      "content": "예술의 본질에 대한 17개의 인사이트를 예술가들과 사상가들이 설명합니다. 이 인사이트들은 예술의 다양한 해석을 제공합니다."
     },
     {
-      "title": "플로이드 메이웨더 Jr.",
-      "content": "플로이드 메이웨더 Jr.는 '숄더롤' 기술로 유명한, 전적 46전 46승 26KO를 자랑하는 엄청난 복서입니다. 그의 경기는 물론이고 사생활에서도 초호화 생활을 누리며, 5체급에서 무패를 기록한 최초의 복서로 평가받고 있습니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title_ko": "새로운 문화적 정체성",
+      "summary": "수천 년 동안 공예는 지역적 및 국가적 문화 정체성의 중심 요소였습니다. 오늘날 많은 전통적 공예가 사라지거나 개별 이상주의자들에 의해 유지되고 있습니다.",
+      "url": "https://artaurea.com/2026/neue-kulturelle-identitaeten/",
+      "source": "Art Aurea",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "플로이드 메이웨더 Jr.의 복서로서의 전설적인 업적과 호화로운 생활 양상에 대한 상세한 분석입니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "sports",
-        "luxury"
+        "공예",
+        "문화",
+        "정체성"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "역사적 분석"
       ],
-      "why": "메이웨더의 화려한 경력과 생활은 스포츠와 라이프스타일 분석에 있어 가장 흥미로운 주제 중 하나로 여겨집니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-07-22T08:00:00.000000"
+      "why": "전통과 현대를 연결하는 문화적 가치를 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://artaurea.com/wp-content/uploads/2026/05/Art-Aurea_Warwick-Freeman_Foto-Sam-Hartnett-aus-Hook-Hand-Heart-Star-herausgegeben-von-Die-Neue-Sammlung-The-Design-Museum-und-Objectspace_Erschienen-bei-arnoldsche-Art-Publisher-scaled.jpg",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "새로운 문화적 정체성",
+      "content": "수천 년 동안 공예는 지역적 및 국가적 문화 정체성의 중심 요소였습니다. 오늘날 많은 전통적 공예가 사라지거나 개별 이상주의자들에 의해 유지되고 있습니다."
     },
     {
-      "title": "꿈을 담은 프랑스 시계 -akteo(악테오)",
-      "content": "프랑스 디자이너 jean Christophe Mareshal의 창의력이 돋보이는 악테오 시계는 단순한 시계를 넘어 꿈과 열정을 상징적으로 표현합니다. 다양한 테마와 재치 있는 디자인이 특징인 이 시계는 예술적인 감각을 더해줍니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
+      "title_ko": "도쿄를 다시 푸르게 만드는 건축가 Kiyo Takeda",
+      "summary": "일본의 건축가 Kiyo Takeda가 도쿄의 녹지화를 위한 혁신적인 건축 프로젝트를 진행 중입니다. 도시와 자연의 조화를 추구하는 그의 접근 방식은 많은 영감을 줍니다.",
+      "url": "https://spoon-tamago.com/kiyo-takeda-the-architect-making-tokyo-green-again/?utm_source=rss&utm_medium=rss&utm_campaign=kiyo-takeda-the-architect-making-tokyo-green-again",
+      "source": "Spoon & Tamago",
+      "domain": "ARCHITECTURE",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "악테오 시계는 그 자체로 예술 작품이며, 각자의 꿈을 들여다보게 하는 매개체로 그려집니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "watch",
-        "design"
+        "건축",
+        "환경",
+        "도시"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "지속 가능성"
       ],
-      "why": "시계 디자인을 통해 꿈과 열정을 표현하는 독특한 예술적 목적으로 인해 주목받고 있습니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-07-22T08:00:00.000000"
+      "why": "현대 도시의 지속 가능한 발전을 위한 새로운 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/07/kiyo-takeda-tsuruoka-house-3-200x130.avif",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "도쿄를 다시 푸르게 만드는 건축가 Kiyo Takeda",
+      "content": "일본의 건축가 Kiyo Takeda가 도쿄의 녹지화를 위한 혁신적인 건축 프로젝트를 진행 중입니다. 도시와 자연의 조화를 추구하는 그의 접근 방식은 많은 영감을 줍니다."
     },
     {
-      "title": "Gillette - 100 Years of Hair",
-      "content": "Gillette의 오랜 역사와 진화 과정을 보여주는 영상입니다. 시대를 음악과 함께 담아낸 창의적인 접근법이 특히 돋보입니다.",
-      "url": "https://honestart.tistory.com/96",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
+      "title_ko": "삶의 방식을 바꾸는 건축: 런던의 혁신적 집",
+      "summary": "런던의 건축가가 자신의 집을 통해 재료와 구조에 대한 새로운 사고를 탐구하고 있습니다. 이 프로젝트는 설계와 건설의 새로운 가능성을 보여줍니다.",
+      "url": "https://www.wallpaper.com/architecture/residential/an-architects-house-draper-studio-london-uk",
+      "source": "Wallpaper*",
+      "domain": "ARCHITECTURE",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "기존의 브랜드 히스토리를 새롭게 해석하여 시각적으로 풀어낸 걸작입니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "art",
-        "brand"
+        "건축",
+        "재료",
+        "혁신"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "실험적 설계"
       ],
-      "why": "역사적인 브랜드의 진화를 담은 창의적인 접근이 많은 이들에게 영감을 줄 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
-      "pub_date": "2026-07-22T08:00:00.000000"
+      "why": "새로운 건축적 사고를 제시하며 미래의 주거 공간을 상상하게 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/9BjuB88VSFaKNvhEKrXHqD-1280-80.jpg",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "삶의 방식을 바꾸는 건축: 런던의 혁신적 집",
+      "content": "런던의 건축가가 자신의 집을 통해 재료와 구조에 대한 새로운 사고를 탐구하고 있습니다. 이 프로젝트는 설계와 건설의 새로운 가능성을 보여줍니다."
     },
     {
-      "title": "The Weekend With Zara McIntosh",
-      "content": "팝 컬처 전문가이자 물리적 미디어의 여왕인 Zara McIntosh가 자신의 이상적인 주말을 소개합니다. 그녀의 읽을 거리와 여름의 사운드트랙을 함께 감상하세요.",
-      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
+      "title_ko": "사진 속 인문학: 시간에 관하여",
+      "summary": "일본의 사진가 나라하라 잇코(Naraha Ikko)의 작업을 통해 시간의 개념을 탐구합니다. 그의 작품은 시간의 흐름을 시각적으로 표현합니다.",
+      "url": "https://blog.naver.com/sabids/223745538754?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "시간",
+        "인문학"
+      ],
+      "execution_techniques": [
+        "시각적 탐구"
+      ],
+      "why": "시간의 흐름을 새로운 시각적 언어로 표현합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyNTAyMDJfMjE3/MDAxNzM4NTAwMjU3NzM0.SRV54-HyPVcQrpVV0atxuL7ZuB_pphi_zDlAGIhGdegg.3ywHImBJDx7_tkWUvie2PVMaxzeehiQj6FAWB-tvEgUg.JPEG/2013%2C_%C6%C4%B8%AE.jpg?type=s3",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "사진 속 인문학: 시간에 관하여",
+      "content": "일본의 사진가 나라하라 잇코(Naraha Ikko)의 작업을 통해 시간의 개념을 탐구합니다. 그의 작품은 시간의 흐름을 시각적으로 표현합니다."
+    },
+    {
+      "title_ko": "Valeria Homayden: 리소그래프 애니메이션",
+      "summary": "자연의 숨겨진 패턴에서 영감을 받아, Valeria Homayden은 매혹적인 리소그래프 애니메이션을 만듭니다. 그녀의 작품은 독자들이 천천히 관찰하고 새로운 시각을 가지도록 유도합니다.",
+      "url": "https://www.itsnicethat.com/articles/valeria-homayden-field-notes-for-wonder-graphic-design-project-270726",
       "source": "It's Nice That",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Zara의 미디어 애호가로서의 면모를 살피고, 그녀의 추천지를 통해 미리 즐겨볼 수 있습니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "Weekend",
-        "Culture"
+        "애니메이션",
+        "자연",
+        "디자인"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "리소그래프"
       ],
-      "why": "팝 컬처의 다양한 면을 탐구하고 싶은 이들에게 유용한 지침이 될 것입니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
-      "pub_date": "2026-07-22T08:00:00.000000"
+      "why": "자연의 미묘한 아름다움을 시각적으로 표현합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://media.itsnicethat.com/original_images/ezgif.com-resize_1_aevLeem.gif",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "Valeria Homayden: 리소그래프 애니메이션",
+      "content": "자연의 숨겨진 패턴에서 영감을 받아, Valeria Homayden은 매혹적인 리소그래프 애니메이션을 만듭니다. 그녀의 작품은 독자들이 천천히 관찰하고 새로운 시각을 가지도록 유도합니다."
     },
     {
-      "title": "Present & Correct의 이야기",
-      "content": "인기 있는 그래픽 디자인 팬들의 꿈의 문구류 매장 Present & Correct의 후배 Neal Whittington과의 만남을 통해 이 매장의 전설적인 이야기를 살펴봅니다.",
-      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
-      "source": "It's Nice That",
+      "title_ko": "Chris “Daze” Ellis의 '지하철의 난초 비'",
+      "summary": "뉴욕의 PPOW 갤러리에서 Chris “Daze” Ellis의 새로운 전시회가 열립니다. 그의 작품은 도시의 스트리트 아트를 감성적으로 표현합니다.",
+      "url": "https://www.juxtapoz.com/news/graffiti/chris-daze-ellis-orchid-rain-on-the-underground-ppow-gallery-nyc/",
+      "source": "Juxtapoz",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "팬들 사이에서 사랑받고 있는 매장의 기원과 비하인드 스토리를 들어볼 수 있는 기회입니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "Stationery",
-        "Design"
+        "스트리트 아트",
+        "전시회",
+        "뉴욕"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "감성적 표현"
       ],
-      "why": "디자인의 역사와 이야기에 관심 있는 독자들에게 가치 있는 자료가 될 것입니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
-      "pub_date": "2026-07-22T08:00:00.000000"
+      "why": "도시의 일상 속에서 예술의 새로운 가능성을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/6ea52af46917f156ac0499123960e4de_L.jpg",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "Chris “Daze” Ellis의 '지하철의 난초 비'",
+      "content": "뉴욕의 PPOW 갤러리에서 Chris “Daze” Ellis의 새로운 전시회가 열립니다. 그의 작품은 도시의 스트리트 아트를 감성적으로 표현합니다."
     },
     {
-      "title": "ChaChaanTeng의 Heinz Mayo 프로젝트",
-      "content": "Heinz Mayo와 일본의 자판기 물리성을 결합한 ChaChaanTeng의 독특한 그래픽 디자인 프로젝트를 소개합니다.",
-      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
-      "source": "It's Nice That",
-      "domain": "ART",
+      "title_ko": "Palomo의 Tom of Finland 콜라보레이션",
+      "summary": "Alejandro Palomo는 과거와 현재의 퀴어 만남을 기념하며 새로운 협업을 선보입니다. 이 작품은 퀴어 문화의 다양한 측면을 조명합니다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17342/palomo-tom-of-finland-interview-kees-de-klein?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=inside-palomo-s-tom-of-finland-collaboration",
+      "source": "anothermag.com",
+      "domain": "FASHION",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "음식의 감각적 물리성을 창의적으로 해석하여 선보입니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "Food",
-        "Design"
+        "패션",
+        "퀴어",
+        "콜라보레이션"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "문화적 표현"
       ],
-      "why": "독창적인 디자인과 일반적인 브랜드의 새로운 모습을 발견하는 데 흥미가 있습니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
-      "pub_date": "2026-07-22T08:00:00.000000"
+      "why": "퀴어 문화의 다채로운 역사를 시각적으로 표현합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476118.jpg",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "Palomo의 Tom of Finland 콜라보레이션",
+      "content": "Alejandro Palomo는 과거와 현재의 퀴어 만남을 기념하며 새로운 협업을 선보입니다. 이 작품은 퀴어 문화의 다양한 측면을 조명합니다."
     },
     {
-      "title": "Karlovy Vary 국제 영화제의 역사",
-      "content": "Karlovy Vary 국제 영화제는 1946년 첫 개최 이후 전 세계적으로 높은 국제적 영향을 끼치고 있는 영화제로, 그 역사적 배경과 발전 과정을 살펴봅니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "유럽의 영화 역사와 그것이 국제 영화 산업에 미친 영향을 심층 분석합니다.",
-      "tags": [
-        "Film",
-        "Festival"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "영화 역사의 중요한 사건을 이해하는 데 필수적인 자료입니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title": "Christopher Nolan의 편집자 Jennifer Lame의 이야기",
-      "content": "Christopher Nolan의 'Tenet' 편집자로 일하게 된 Jennifer Lame의 도전기와 그 과정을 심도 있게 살펴봅니다.",
-      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "영화 제작의 이면에서 뛰어난 편집자의 여정을 통해 얻은 통찰력을 공유합니다.",
-      "tags": [
-        "Film",
-        "Editing"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "영화 편집 뒤 숨겨진 이야기와 그 과정의 복잡성을 이해하는 데 도움이 됩니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
-      "pub_date": "2026-07-22T08:00:00.000000"
-    },
-    {
-      "title": "예술가이자 활동가 Edie Fake의 이미지 소통 이야기",
-      "content": "건축은 Edie Fake의 예술적 실천에서 반복되는 주제입니다. 그가 이미지와 소통하는 기억과 이를 통해 전달하고자 하는 메시지를 살펴봅니다.",
-      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
-      "source": "Creative Independent",
+      "title_ko": "Ettore Sottsass 컬렉션 페어: 기능에서 감성으로",
+      "summary": "METROCS에서 열리는 Ettore Sottsass의 컬렉션 페어는 기능적 디자인에서 감성적 디자인으로의 전환을 보여줍니다. 이 전시는 디자인의 새로운 가능성을 탐색합니다.",
+      "url": "https://www.adfwebmagazine.jp/en/design/ettore-sottsass-collection-fair-function-%e2%86%92-emotion-at-metrocs/",
+      "source": "ADF Web Magazine",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "이미지로 소통하는 방법에 대한 그의 독창적인 견해가 돋보입니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "Art",
-        "Communication"
+        "디자인",
+        "콜렉션",
+        "전시"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "디자인 전환"
       ],
-      "why": "이미지를 통한 소통의 중요성에 대한 귀중한 관점을 제공합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
-      "pub_date": "2026-07-22T08:00:00.000000"
+      "why": "디자인의 감성적 접근 방식을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-sottsass-collection-fair-metrocs-1-300x166.jpg",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "Ettore Sottsass 컬렉션 페어: 기능에서 감성으로",
+      "content": "METROCS에서 열리는 Ettore Sottsass의 컬렉션 페어는 기능적 디자인에서 감성적 디자인으로의 전환을 보여줍니다. 이 전시는 디자인의 새로운 가능성을 탐색합니다."
+    },
+    {
+      "title_ko": "Giày rọ leo núi lội nước chống trượt nam Humtto",
+      "summary": "Humtto의 새로운 등산화는 편안함과 안전성을 제공합니다. 이 신발은 다양한 환경에서 최적의 성능을 발휘합니다.",
+      "url": "https://humtto.vn/giay-ro-leo-nui-loi-nuoc-chong-truot-nam-humtto-771588a/",
+      "source": "Unknown Source",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "패션",
+        "신발",
+        "안전"
+      ],
+      "execution_techniques": [
+        "기능성 디자인"
+      ],
+      "why": "실용적이며 스타일리시한 디자인을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://humtto.vn/wp-content/uploads/2026/05/giay-humtto-771588-2.png",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "Giày rọ leo núi lội nước chống trượt nam Humtto",
+      "content": "Humtto의 새로운 등산화는 편안함과 안전성을 제공합니다. 이 신발은 다양한 환경에서 최적의 성능을 발휘합니다."
     }
   ],
   "popcorn": [
     {
-      "title": "",
-      "content": "",
-      "url": "",
-      "source": "",
+      "title_ko": "Chris “Daze” Ellis의 '지하철의 난초 비'",
+      "summary": "뉴욕의 PPOW 갤러리에서 Chris “Daze” Ellis의 새로운 전시회가 열립니다. 그의 작품은 도시의 스트리트 아트를 감성적으로 표현합니다.",
+      "url": "https://www.juxtapoz.com/news/graffiti/chris-daze-ellis-orchid-rain-on-the-underground-ppow-gallery-nyc/",
+      "source": "Juxtapoz",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        ""
+        "스트리트아트",
+        "갤러리"
       ],
-      "why": "",
+      "execution_techniques": [
+        "StreetAesthetic"
+      ],
+      "why": "1) 도시 스트리트 아트를 다루며 바이럴 효과, 2) 감성적이고 시각적 가치 제공, 3) 예술과 대중 문화의 융합 포인트",
       "depth": 0.5,
-      "image": "",
-      "pub_date": "2026-07-22T08:00:00.000000"
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/6ea52af46917f156ac0499123960e4de_L.jpg",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "Chris “Daze” Ellis의 '지하철의 난초 비'",
+      "content": "뉴욕의 PPOW 갤러리에서 Chris “Daze” Ellis의 새로운 전시회가 열립니다. 그의 작품은 도시의 스트리트 아트를 감성적으로 표현합니다."
     },
     {
-      "title": "초호화 스타선수의 삶: 플로이드 메이웨더 Jr.",
-      "content": "플로이드 메이웨더 Jr.는 복서로서 유명할 뿐만 아니라 그의 화려한 사생활도 엄청난 부와 함께 주목받고 있습니다. 그의 생활은 슈퍼볼 내기에서 수십억 원을 잃어도 별다른 충격이 없을 정도로 초호화스럽습니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title_ko": "Palomo의 Tom of Finland 콜라보레이션",
+      "summary": "Alejandro Palomo는 과거와 현재의 퀴어 만남을 기념하며 새로운 협업을 선보입니다. 이 작품은 퀴어 문화의 다양한 측면을 조명합니다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17342/palomo-tom-of-finland-interview-kees-de-klein?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=inside-palomo-s-tom-of-finland-collaboration",
+      "source": "AnotherMag",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "luxury"
+        "콜라보레이션",
+        "퀴어문화"
       ],
-      "why": "메이웨더의 생활은 그 자체로 사람들에게 큰 흥미와 관심을 불러일으킵니다.",
+      "execution_techniques": [
+        "PopMinimalism"
+      ],
+      "why": "1) 퀴어 문화와 패션의 교차점에서 바이럴, 2) 시각적 다양성 및 문화적 가치, 3) 패션과 사회적 메시지의 융합",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/22075742540FF67118",
-      "pub_date": "2026-07-22T08:00:00.000000"
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476118.jpg",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "Palomo의 Tom of Finland 콜라보레이션",
+      "content": "Alejandro Palomo는 과거와 현재의 퀴어 만남을 기념하며 새로운 협업을 선보입니다. 이 작품은 퀴어 문화의 다양한 측면을 조명합니다."
     },
     {
-      "title": "Musician and artist Alexandra Drewchin (Eartheater) on following the deep feeling",
-      "content": "활동을 통해 자신의 감성을 새롭게 탐구하는 Alexandra Drewchin의 이야기를 들어봅니다. 그녀가 새로운 역할을 맡으면서 예술에 끼친 영향을 탐구합니다.",
-      "url": "https://thecreativeindependent.com/people/musician-and-artist-alexandra-drewchin-eartheater-on-following-the-deep-feeling/",
-      "source": "Creative Independent",
+      "title_ko": "Drake의 NOCTA 매너: 브랜딩 마스터클래스",
+      "summary": "Drake가 뉴저지 교외에서 NOCTA 매너를 선보입니다. 이 프로젝트는 그의 독특한 브랜딩 철학을 반영합니다.",
+      "url": "https://hypebeast.kr/2026/7/nocta-manor-drake-new-jersey-info-merch",
+      "source": "Hypebeast",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "music"
+        "브랜딩",
+        "힙합"
       ],
-      "why": "변화하는 삶 속에서 예술가로서의 성장과 감성을 탐구하는 그녀의 이야기는 매우 매력적입니다.",
+      "execution_techniques": [
+        "StreetAesthetic"
+      ],
+      "why": "1) Drake의 영향력 있는 브랜딩 스타일이 바이럴, 2) 고유의 시각적 브랜딩 가치, 3) 음악과 패션의 경계를 넘는 시너지",
       "depth": 0.5,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-22T08:00:00.000000"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fdrake-000.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-07-22T08:00:00.000000",
+      "title_en": "",
+      "title": "Drake의 NOCTA 매너: 브랜딩 마스터클래스",
+      "content": "Drake가 뉴저지 교외에서 NOCTA 매너를 선보입니다. 이 프로젝트는 그의 독특한 브랜딩 철학을 반영합니다."
     }
   ],
   "macro_keywords": [

@@ -8,235 +8,269 @@
   },
   "topPicks": [
     {
-      "title": "뉴욕 메트로폴리탄, 존 갈리아노 대형 전시 예정",
-      "content": "뉴욕 메트로폴리탄은 2027년에 유명 디자이너 존 갈리아노의 대형 전시회를 개최할 예정입니다. 이 행사에는 매년 5월 첫 번째 월요일에 열리는 Gala도 포함될 것입니다.",
-      "url": "https://www.artribune.com/progettazione/moda/2026/08/john-galliano-costume-institute-2027/",
-      "source": "Artribune",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "존 갈리아노",
-      "creator_insight": "갈리아노의 작품은 극적인 패션을 통해 예술과 유명함의 경계를 넘나듭니다.",
+      "title_ko": "A24의 창의적 디렉터 Liam Hamill, 매달 새로운 음악 포스터로 창의력 발휘",
+      "summary": "A24의 창의적 디렉터 Liam Hamill은 매달 새로운 음악 포스터를 통해 그의 독창적인 디자인 감각을 선보입니다. 그의 작업은 브레인롯(brainrot)이라는 개념을 수용하며, 창의적 디자인의 새로운 가능성을 탐구합니다.",
+      "url": "https://www.itsnicethat.com/articles/liam-hamill-babys-all-right-graphic-design-project-080626",
+      "source": "It's Nice That",
+      "category": "기사",
+      "thread": "T01",
       "tags": [
+        "A24",
+        "창의적 디자인",
+        "포스터",
+        "브레인롯"
+      ],
+      "why": "Liam Hamill은 '브레인롯'이라는 개념을 매달 새로운 음악 포스터를 통해 시각적으로 탐구하며, 디자인의 경계를 확장합니다. 그의 작업은 독창적인 디자인 감각을 발휘하여 매번 새로운 시각적 실험을 제시합니다.",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/pR1pY8WpvmPg31PlvlY9f4kT9pQ=/278503/width-1440/liam-hamill-graphic-design-itsnicethat-12.jpg",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 그 자체로 아름다울 뿐만 아니라, 사람들의 삶을 개선합니다.",
+      "title_en": "",
+      "title": "A24의 창의적 디렉터 Liam Hamill, 매달 새로운 음악 포스터로 창의력 발휘",
+      "content": "A24의 창의적 디렉터 Liam Hamill은 매달 새로운 음악 포스터를 통해 그의 독창적인 디자인 감각을 선보입니다. 그의 작업은 브레인롯(brainrot)이라는 개념을 수용하며, 창의적 디자인의 새로운 가능성을 탐구합니다."
+    },
+    {
+      "title_ko": "Anthony Wilson의 'Mawmaw', 다시 어머니가 된 할머니들의 따뜻한 포토북",
+      "summary": "Anthony Wilson의 포토북 'Mawmaw'는 손자들을 돌보며 다시 어머니 역할을 하는 할머니들의 이야기를 담고 있습니다. 이 작품은 사진을 통해 가족의 사랑과 연대감을 표현합니다.",
+      "url": "https://www.itsnicethat.com/articles/anthony-wilson-mawmaw-photography-publication-project-040626",
+      "source": "It's Nice That",
+      "category": "기사",
+      "thread": "T01",
+      "tags": [
+        "포토북",
+        "가족",
+        "사랑",
+        "연대"
+      ],
+      "why": "Anthony Wilson의 'Mawmaw'는 사진을 통해 다시 어머니 역할을 하는 할머니들의 이야기를 감성적으로 담아내며, 가족의 사랑과 연대감을 섬세하게 표현합니다. 이는 사진이라는 매체를 통해 감성적 깊이를 더하는 방식으로 구현됩니다.",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/RJCRUf5IKfa93N2Qk1GExIehDfA=/278270/width-1440/anthony-wilson-mawmaw-photography-itsnicethat-2.jpg",
+      "creator_name": "Anthony Wilson",
+      "creator_insight": "예술은 우리가 서로 연결되는 방식을 탐구하고, 우리의 정체성을 형성하는 이야기들을 공유하는 도구입니다.",
+      "title_en": "",
+      "title": "Anthony Wilson의 'Mawmaw', 다시 어머니가 된 할머니들의 따뜻한 포토북",
+      "content": "Anthony Wilson의 포토북 'Mawmaw'는 손자들을 돌보며 다시 어머니 역할을 하는 할머니들의 이야기를 담고 있습니다. 이 작품은 사진을 통해 가족의 사랑과 연대감을 표현합니다."
+    },
+    {
+      "title_ko": "Nice Groceries, 아날로그 필름의 느린 제작 방식을 통해 제작 에이전시 모델 혁신",
+      "summary": "Nice Groceries는 아날로그 필름의 느린 제작 방식을 통해 제작 에이전시 모델을 혁신하고 있습니다. 이들은 디지털 시대에 아날로그의 가치를 재조명하며, 창작 과정의 본질을 탐구합니다.",
+      "url": "https://www.itsnicethat.com/articles/nice-groceries-film-discover-080626",
+      "source": "It's Nice That",
+      "category": "기사",
+      "thread": "T02",
+      "tags": [
+        "아날로그",
+        "제작 과정",
+        "혁신",
+        "필름"
+      ],
+      "why": "Nice Groceries는 아날로그 필름의 느린 제작 방식을 통해 창작 과정의 본질을 탐구하며, 디지털 시대에 아날로그의 가치를 재조명합니다. 이는 제작 에이전시 모델을 혁신하는 접근으로, 창작의 본질을 강조합니다.",
+      "depth": 0.85,
+      "image": "https://media.itsnicethat.com/original_images/ezgif.com-video-to-gif-converter_2_1ZBZ17R.gif",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 모든 것을 더 좋게 보이게 할 뿐만 아니라, 우리의 삶을 더 좋게 만들어야 합니다.",
+      "title_en": "",
+      "title": "Nice Groceries, 아날로그 필름의 느린 제작 방식을 통해 제작 에이전시 모델 혁신",
+      "content": "Nice Groceries는 아날로그 필름의 느린 제작 방식을 통해 제작 에이전시 모델을 혁신하고 있습니다. 이들은 디지털 시대에 아날로그의 가치를 재조명하며, 창작 과정의 본질을 탐구합니다."
+    },
+    {
+      "title_ko": "디자인 스튜디오 OnePlus, 브랜드를 문화적 발굴로 접근하다",
+      "summary": "디자인 스튜디오 OnePlus는 브랜드를 단순한 발명으로 보지 않고 문화적 발굴로 접근합니다. 이들은 브랜드의 본질을 탐구하며, 문화적 맥락을 중요시합니다.",
+      "url": "https://www.itsnicethat.com/articles/oneplus-graphic-design-discover-020626",
+      "source": "It's Nice That",
+      "category": "기사",
+      "thread": "T02",
+      "tags": [
+        "브랜드",
+        "문화적 발굴",
+        "디자인",
+        "맥락"
+      ],
+      "why": "디자인 스튜디오 OnePlus는 브랜드를 문화적 발굴로 접근하여, 브랜드의 본질을 탐구하고 문화적 맥락을 중요시합니다. 이는 브랜드 디자인에 대한 새로운 시각을 제시하며, 문화적 요소를 디자인에 통합하는 방식으로 구현됩니다.",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/T0BIr2OUeMim1-YUxld5TC124_U=/277466/width-1440/1._Oneplus_-_Balay_1.jpg",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "디자인이란 단순한 시각적 표현이 아니라, 문화와 시대 정신을 반영하고 진화시키는 수단입니다.",
+      "title_en": "",
+      "title": "디자인 스튜디오 OnePlus, 브랜드를 문화적 발굴로 접근하다",
+      "content": "디자인 스튜디오 OnePlus는 브랜드를 단순한 발명으로 보지 않고 문화적 발굴로 접근합니다. 이들은 브랜드의 본질을 탐구하며, 문화적 맥락을 중요시합니다."
+    },
+    {
+      "title_ko": "Pinkpantheress의 새로운 뮤직 비디오, 21세 VFX 비전가와의 협업으로 탄생",
+      "summary": "Pinkpantheress의 새로운 뮤직 비디오는 21세의 VFX 비전가와의 협업을 통해 탄생했습니다. 이 영상은 2000년대의 감성을 현대적으로 재해석하며, 기술과 예술의 융합을 보여줍니다.",
+      "url": "https://www.itsnicethat.com/articles/michos-pinkpantheress-girl-like-me-animation-film-project-020626",
+      "source": "It's Nice That",
+      "category": "기사",
+      "thread": "T03",
+      "tags": [
+        "뮤직 비디오",
+        "협업",
+        "VFX",
+        "2000년대"
+      ],
+      "why": "Pinkpantheress의 뮤직 비디오는 21세 VFX 비전가와의 협업을 통해 2000년대의 감성을 현대적으로 재해석합니다. 이는 기술과 예술의 융합을 보여주며, 시청각적 경험을 새롭게 정의합니다.",
+      "depth": 0.85,
+      "image": "https://media.itsnicethat.com/original_images/GirlLikeMe-michos-escalatorshort-ezgif.com-video-to-gif-converter.gif",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "패션은 무엇이든 될 수 있는 마법의 지팡이 같은 것입니다. 창의성을 표현하는 데 제한이 없죠.",
+      "title_en": "",
+      "title": "Pinkpantheress의 새로운 뮤직 비디오, 21세 VFX 비전가와의 협업으로 탄생",
+      "content": "Pinkpantheress의 새로운 뮤직 비디오는 21세의 VFX 비전가와의 협업을 통해 탄생했습니다. 이 영상은 2000년대의 감성을 현대적으로 재해석하며, 기술과 예술의 융합을 보여줍니다."
+    },
+    {
+      "title_ko": "현대 타이포그래피 디자인이 세상에 미치는 영향",
+      "summary": "Type01의 Amber Weaver는 현대 타이포그래피 디자인이 어떻게 세상에 영향을 미치는지를 설명합니다. 그녀는 타이포그래피의 사회적, 문화적 역할을 강조합니다.",
+      "url": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-may-amber-weaver-020626",
+      "source": "It's Nice That",
+      "category": "기사",
+      "thread": "T03",
+      "tags": [
+        "타이포그래피",
+        "디자인",
+        "사회적 역할",
+        "문화"
+      ],
+      "why": "타이포그래피 디자인이 사회와 문화에 미치는 영향을 탐구하는 이 기사는 기술과 인간의 관계를 재조명합니다.",
+      "depth": 0.85,
+      "image": "https://www.itsnicethat.com/images/social.jpg",
+      "creator_name": "스테판 사그마이스터",
+      "creator_insight": "행복은 디자인의 가장 중요한 기능 중 하나가 되어야 합니다. 우리는 삶의 질을 높이는 데 디자인을 사용할 수 있습니다.",
+      "title_en": "",
+      "title": "현대 타이포그래피 디자인이 세상에 미치는 영향",
+      "content": "Type01의 Amber Weaver는 현대 타이포그래피 디자인이 어떻게 세상에 영향을 미치는지를 설명합니다. 그녀는 타이포그래피의 사회적, 문화적 역할을 강조합니다."
+    },
+    {
+      "title_ko": "James Stuart, 아랍 하드코어 음악의 정신에서 영감을 받은 디자인",
+      "summary": "James Stuart는 아랍 하드코어 음악의 정신에서 영감을 받아 지루한 디자인에 반기를 듭니다. 그의 작업은 독창적이고 혁신적인 디자인 접근 방식을 보여줍니다.",
+      "url": "https://www.itsnicethat.com/articles/james-stuart-graphic-design-discover-040626",
+      "source": "It's Nice That",
+      "category": "기사",
+      "thread": "T04",
+      "tags": [
+        "디자인",
+        "영감",
+        "아랍 하드코어",
+        "혁신"
+      ],
+      "why": "음악에서 영감을 얻어 디자인에 반영하는 그의 접근 방식은 물성과 촉각을 통한 창의적 표현의 중요성을 강조합니다.",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/MF6RiiHIz2He0lzMafu7N4Lxgo4=/277818/width-1440/james-stuart-graphic-design-itsnicethat-Haram_Launch_Poster.jpg",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "디자인은 세상을 더 좋은 곳으로 만들 수 있는 힘이 있습니다.",
+      "title_en": "",
+      "title": "James Stuart, 아랍 하드코어 음악의 정신에서 영감을 받은 디자인",
+      "content": "James Stuart는 아랍 하드코어 음악의 정신에서 영감을 받아 지루한 디자인에 반기를 듭니다. 그의 작업은 독창적이고 혁신적인 디자인 접근 방식을 보여줍니다."
+    },
+    {
+      "title_ko": "Daryn Roongrawewan, 로고가 아닌 '장식 아이콘'을 디자인하다",
+      "summary": "Daryn Roongrawewan은 전통적인 로고 디자인을 넘어 '장식 아이콘'을 디자인합니다. 그녀의 작업은 디자인의 장식적 요소를 강조합니다.",
+      "url": "https://www.itsnicethat.com/articles/daryn-roongrawewan-graphic-design-discover-030626",
+      "source": "It's Nice That",
+      "category": "기사",
+      "thread": "T04",
+      "tags": [
+        "디자인",
+        "장식 아이콘",
+        "로고",
+        "장식성"
+      ],
+      "why": "디자인의 장식적 요소를 강조하는 그녀의 작업은 물성과 촉각의 중요성을 다시금 일깨워줍니다.",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/TRSqbjt0TCF6KVYGWzTMK6k9EkM=/277998/width-1440/Daryn_Atelier_Lin_logo.jpg",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "디자인은 우리의 삶을 더 좋게 만들 수 있으며, 사람들에게 감정을 불러일으킬 수 있습니다.",
+      "title_en": "",
+      "title": "Daryn Roongrawewan, 로고가 아닌 '장식 아이콘'을 디자인하다",
+      "content": "Daryn Roongrawewan은 전통적인 로고 디자인을 넘어 '장식 아이콘'을 디자인합니다. 그녀의 작업은 디자인의 장식적 요소를 강조합니다."
+    },
+    {
+      "title_ko": "Koto, 80년 된 워드마크를 부활시켜 Norton Museum of Art 리브랜딩",
+      "summary": "디자인 스튜디오 Koto는 80년 된 워드마크를 부활시켜 Norton Museum of Art의 리브랜딩을 진행했습니다. 이 프로젝트는 전통과 현대의 조화를 보여줍니다.",
+      "url": "https://www.itsnicethat.com/articles/koto-norton-museum-of-art-graphic-design-project-030626",
+      "source": "It's Nice That",
+      "category": "기사",
+      "thread": "T05",
+      "tags": [
+        "리브랜딩",
+        "워드마크",
+        "전통",
+        "현대"
+      ],
+      "why": "전통적인 요소를 현대적으로 재해석하는 이 프로젝트는 큐레이션과 트렌드의 상호작용을 잘 보여줍니다.",
+      "depth": 0.85,
+      "image": "https://media.itsnicethat.com/original_images/TheNortonMuseum_Koto_1.gif",
+      "creator_name": "Paul Rand",
+      "creator_insight": "디자인은 단순한 것, 그 자체로 가장 복잡한 것입니다.",
+      "title_en": "",
+      "title": "Koto, 80년 된 워드마크를 부활시켜 Norton Museum of Art 리브랜딩",
+      "content": "디자인 스튜디오 Koto는 80년 된 워드마크를 부활시켜 Norton Museum of Art의 리브랜딩을 진행했습니다. 이 프로젝트는 전통과 현대의 조화를 보여줍니다."
+    },
+    {
+      "title_ko": "“예술에 공식은 없다”: Murugiah, 사랑하는 것에 대해 예술을 만들라고 조언",
+      "summary": "Murugiah는 예술에 공식이 없으며, 사랑하는 것에 대해 예술을 만들라고 조언합니다. 그의 철학은 창작의 자유로움을 강조합니다.",
+      "url": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-may-murugiah-030626",
+      "source": "It's Nice That",
+      "category": "기사",
+      "thread": "T05",
+      "tags": [
+        "예술",
+        "철학",
+        "자유로움",
+        "창작"
+      ],
+      "why": "창작의 자유로움을 강조하는 그의 철학은 큐레이션과 트렌드의 본질을 탐구하는 데 중요한 통찰을 제공합니다.",
+      "depth": 0.85,
+      "image": "https://www.itsnicethat.com/images/social.jpg",
+      "creator_name": "Yinka Ilori",
+      "creator_insight": "창의성은 가능성을 믿는 것입니다. 공간과 색상이 사람들에게 미칠 수 있는 영향을 생각하면 많은 영감을 얻게 됩니다.",
+      "title_en": "",
+      "title": "“예술에 공식은 없다”: Murugiah, 사랑하는 것에 대해 예술을 만들라고 조언",
+      "content": "Murugiah는 예술에 공식이 없으며, 사랑하는 것에 대해 예술을 만들라고 조언합니다. 그의 철학은 창작의 자유로움을 강조합니다."
+    },
+    {
+      "title_ko": "음악 장소는 창의 산업의 엔진: 잃어버린 클럽과 펍의 그래픽 유물에서 배우는 교훈",
+      "summary": "음악 장소는 창의 산업의 엔진이라는 주제로, 잃어버린 클럽과 펍의 그래픽 유물에서 교훈을 얻습니다. 이 기사는 음악 장소의 역사와 그 중요성을 조명합니다.",
+      "url": "https://www.itsnicethat.com/features/victoria-and-albert-museum-lost-music-venues-harriet-reed-graphic-design-spotlight-030626",
+      "source": "It's Nice That",
+      "category": "기사",
+      "thread": "T05",
+      "tags": [
+        "음악 장소",
+        "그래픽 유물",
+        "역사",
+        "중요성"
+      ],
+      "why": "음악 장소의 역사와 중요성을 조명하는 이 기사는 큐레이션과 트렌드의 상호작용을 이해하는 데 도움을 줍니다.",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/JrjjqLSLxMCAbwrDKch3JHsjBjg=/278687/width-1440/heror.jpg",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "저는 항상 사람들에게 디자인의 힘을 믿으라고 말합니다. 디자인은 우리가 사는 세상을 바꿀 수 있는 도구입니다.",
+      "title_en": "",
+      "title": "음악 장소는 창의 산업의 엔진: 잃어버린 클럽과 펍의 그래픽 유물에서 배우는 교훈",
+      "content": "음악 장소는 창의 산업의 엔진이라는 주제로, 잃어버린 클럽과 펍의 그래픽 유물에서 교훈을 얻습니다. 이 기사는 음악 장소의 역사와 그 중요성을 조명합니다."
+    },
+    {
+      "title_ko": "Culture CHANEL - 장소의 정신 전시회",
+      "summary": "이 전시는 가브리엘 샤넬에게 영감이 된 장소를 통해 그녀의 창의적인 언어를 발견하는 여정이다. DDP에서 개최하며 무료입장으로 이용할 수 있는 멀티미디어 공간이 마련되어 있다.",
+      "url": "https://honestart.tistory.com/94",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "전시회",
+      "creator_name": "가브리엘 샤넬",
+      "creator_insight": "그녀의 창의적인 언어를 발견하는 여정",
+      "tags": [
+        "샤넬",
         "전시회",
-        "패션"
+        "창의성"
       ],
-      "execution_techniques": [
-        "드라마틱"
-      ],
-      "why": "갈리아노의 대형 전시는 그가 패션계에 미치는 영향력을 다시 한번 확인시켜 줄 것입니다.",
-      "depth": 0.95,
-      "image": "https://www.artribune.com/wp-content/uploads/2026/08/john-galliano.jpeg",
-      "pub_date": "2026-06-09T08:00:00.000000"
-    },
-    {
-      "title": "ARCO 리스본 2026: 아트 페어 연례 리뷰",
-      "content": "포르투갈 리스본에서 열린 ARCO리스본 2026은 국제 수집가들에게 문을 열었습니다. 이번 예술 박람회의 리뷰와 참가 갤러리에 대한 정보를 알아봅니다.",
-      "url": "https://veryprivategallery.com/arco-lisbon-art-fair/",
-      "source": "Very Private Gallery",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "그렉 보트",
-      "creator_insight": "리스본 아트 페어는 다채로운 국제적 예술 교류의 중심으로 자리 잡고 있습니다.",
-      "tags": [
-        "아트 페어",
-        "국제"
-      ],
-      "execution_techniques": [
-        "현대적"
-      ],
-      "why": "ARCO리스본은 국제적인 예술 시장의 흐름을 이해하는 데 매우 유용한 기회를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://veryprivategallery.com/wp-content/uploads/2024/06/Arco-lisboa-Art-fair-week-lisbon.jpg",
-      "pub_date": "2026-06-09T08:00:00.000000"
-    },
-    {
-      "title": "삶을 변화시키는 공간 디자인, 당신의 삶을 설계합니다",
-      "content": "이 기사에서는 심플하고 기능적인 디자인을 통해 삶의 방식을 변화시키는 건축 사례를 소개합니다. 새로운 공간에서의 여유롭고 심플한 생활을 꿈꾸는 클라이언트를 위한 맞춤형 디자인입니다.",
-      "url": "https://www.designtwoply.com/works/residence/%ec%82%b6%ec%9d%98-%eb%b0%a9%ec%8b%9d%ec%9d%84-%eb%b0%94%ea%be%b8%eb%8a%94-%ec%a7%91-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%b6%ec%9d%84-%eb%94%94%ec%9e%90%ec%9d%b8%ed%95%a9%eb%8b%88%eb%8b%a4/",
-      "source": "Unknown Source",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "투플라이",
-      "creator_insight": "단순한 외형이 아닌 기능과 질서를 다시 짜는 것이 중요합니다.",
-      "tags": [
-        "인테리어 디자인",
-        "건축"
-      ],
-      "execution_techniques": [
-        "미니멀리즘"
-      ],
-      "why": "현대 생활에서 디자인은 단순한 미적 요소를 넘어 실용적인 변화의 중심이 되었습니다.",
-      "depth": 0.95,
-      "image": "https://www.designtwoply.com/wp-content/uploads/2025/04/홈페이지-썸네일사이즈아이파크.jpg",
-      "pub_date": "2026-06-09T08:00:00.000000"
-    },
-    {
-      "title": "자연이 깃든 자수 작품: 레이첼 크리스프의 창작 이야기",
-      "content": "레이첼 크리스프는 자연에서 영감을 받아 공룡 두개골과 식물이 어우러진 자수를 창조해냅니다. 그녀는 여러 형식을 다루며 텍스처 작업을 통해 뼈가 자연 위에 놓인 듯한 느낌을 줍니다.",
-      "url": "https://www.fubiz.net/2023/01/09/fossils-woven-on-a-bed-of-embroidery/",
-      "source": "Fubiz",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "레이첼 크리스프",
-      "creator_insight": "자연의 경이로움을 자수로 재구성하여 독특한 작품을 만듭니다.",
-      "tags": [
-        "자수",
-        "자연"
-      ],
-      "execution_techniques": [
-        "텍스처"
-      ],
-      "why": "크리스프의 작품은 예술과 자연의 경계를 넘나들며 새로운 시각적 경험을 제공합니다.",
-      "depth": 0.95,
-      "image": "https://www.fubiz.net/wp-content/uploads/2022/02/RC1.png",
-      "pub_date": "2026-06-09T08:00:00.000000"
-    },
-    {
-      "title": "뮤지션과 아티스트 Eartheater의 깊은 감정을 따르는 여정",
-      "content": "이 기사는 뮤지션이자 아티스트인 알렉산드라 드류친, 혹은 Eartheater가 예술 창작에 대한 내면의 감정을 따르는 방법과 그것이 그녀의 작품에 미치는 영향을 다룹니다.",
-      "url": "https://thecreativeindependent.com/people/musician-and-artist-alexandra-drewchin-eartheater-on-following-the-deep-feeling/",
-      "source": "Creative Independent",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "알렉산드라 드류친",
-      "creator_insight": "그녀의 작품은 감정과 생각의 깊이를 탐구하는 음악적 표현입니다.",
-      "tags": [
-        "뮤지션",
-        "예술"
-      ],
-      "execution_techniques": [
-        "감정적"
-      ],
-      "why": "Eartheater의 작업은 예술이 감정과 개인 경험을 통해 어떻게 변모할 수 있는지를 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-06-09T08:00:00.000000"
-    },
-    {
-      "title": "The Weekend With Zara McIntosh",
-      "content": "팝 컬처 애호가이자 피지컬 미디어의 여왕인 Zara McIntosh가 런던 최고의 장소와 여름 사운드트랙을 소개합니다.",
-      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
-      "source": "It's Nice That",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Zara McIntosh는 다양한 문화적 요소로 창의적인 삶을 살아가며, 자신의 독창적인 시각을 통해 주변 세계를 탐험합니다.",
-      "tags": [
-        "팝 컬처",
-        "런던"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "Zara의 경험을 통해 새로운 시각으로 런던을 탐험할 수 있는 기회를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
-      "pub_date": "2026-06-09T08:00:00.000000"
-    },
-    {
-      "title": "ChaChaanTeng’s saucy auto-mayo-mat activation for Heinz",
-      "content": "ChaChaanTeng은 Heinz 마요네즈와 함께 로맨틱한 음식 체험을 제공하며 일본 자판기의 물리적 감성을 선보입니다.",
-      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
-      "source": "It's Nice That",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "음식의 감정적 연결과 시각적 경험을 강조하여 현대적 소비 문화에 도전합니다.",
-      "tags": [
-        "음식",
-        "디자인"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "음식과 디자인의 결합을 통해 전통적인 고객 경험을 재해석합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
-      "pub_date": "2026-06-09T08:00:00.000000"
-    },
-    {
-      "title": "Spa Eclectics: At Karlovy Vary",
-      "content": "카를로비바리 국제영화제는 1946년 설립 후 지속적으로 높은 국제적 영향을 미쳐왔으며 현재도 중요한 영화 축제로 자리매김하고 있습니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "카를로비바리의 역사적인 맥락과 그 안에서의 영화적 성장을 심도 있게 분석합니다.",
-      "tags": [
-        "영화제",
-        "역사"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "카를로비바리 영화제가 어떻게 국제 영화계에서 중요한 위치를 차지하는지 이해할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-06-09T08:00:00.000000"
-    },
-    {
-      "title": "Weaving The Odyssey",
-      "content": "제니퍼 림이 놀란 감독의 영화 '테넷' 편집에 참여하며, 자신만의 창의성을 발휘하며 도전적인 장면들을 극복합니다.",
-      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "림의 창의적인 접근 방식과 그녀가 어떻게 도전적인 장면을 해결했는지 보여줍니다.",
-      "tags": [
-        "영화",
-        "편집"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "복잡한 영화를 다루는 편집자의 창의성을 엿볼 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
-      "pub_date": "2026-06-09T08:00:00.000000"
-    },
-    {
-      "title": "Faception Reloaded Tee",
-      "content": "Urban Privacy의 Faception 티셔츠는 다수의 그래픽을 활용해 얼굴 인식 시스템을 혼란시킵니다.",
-      "url": "https://coolhunting.com/buy/faception-reloaded-tee/",
-      "source": "coolhunting.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "기술의 한계를 넘어서며 패션에서 새로운 실험을 추구합니다.",
-      "tags": [
-        "패션",
-        "기술"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "기술과 패션의 교차점을 탐구하며, 독특한 실험적 패션 아이템을 소개합니다.",
-      "depth": 0.95,
-      "image": "https://coolhunting.com/wp-content/uploads/2026/07/6B4F4DEC-4E02-46D7-A7E8-577616AA85CB_1_201_a-768x768.jpeg",
-      "pub_date": "2026-06-09T08:00:00.000000"
-    },
-    {
-      "title": "Free Range 2026 [Top 10]",
-      "content": "Free Range는 신진 사진 작가를 발굴하여 영국 전역의 뛰어난 졸업 작품을 한자리에 모아 선보입니다.",
-      "url": "https://opendoors.gallery/top-ten",
-      "source": "Open Doors Gallery",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "새로운 창의적 인재를 지원하고 그들의 작품을 널리 알립니다.",
-      "tags": [
-        "사진",
-        "전시회"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "신진 작가들에게 주목하며, 창의적인 작품을 발견할 수 있는 기회를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-06-09T08:00:00.000000"
+      "why": "가브리엘 샤넬의 창의성을 탐구하는 전시로, 그녀의 예술적 언어를 깊이 이해할 수 있는 기회를 제공한다.",
+      "social_proof": "샤넬의 팬과 예술 애호가들에게 큰 관심을 받고 있다.",
+      "depth": 0.85,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2518713F540529B01B",
+      "pub_date": "Tue, 2 Sep 2014 11:51:56 +0900",
+      "title_en": "",
+      "title": "Culture CHANEL - 장소의 정신 전시회",
+      "content": "이 전시는 가브리엘 샤넬에게 영감이 된 장소를 통해 그녀의 창의적인 언어를 발견하는 여정이다. DDP에서 개최하며 무료입장으로 이용할 수 있는 멀티미디어 공간이 마련되어 있다."
     }
   ],
   "items": [],
@@ -252,49 +286,73 @@
   ],
   "popcorn": [
     {
-      "title": "콘비니의 새로운 상상, 패밀리마트의 새로운 ‘FAMIMA’",
-      "content": "일본의 패밀리마트가 새로운 FAMIMA 콘셉트를 소개하며 전통적인 콘비니의 개념을 재구성합니다.",
-      "url": "https://spoon-tamago.com/familymart-new-famima-flagship/?utm_source=rss&utm_medium=rss&utm_campaign=familymart-new-famima-flagship",
-      "source": "Spoon & Tamago",
+      "title_ko": "Mamdani의 NYC 월드컵 캠페인",
+      "summary": "디자이너 Arsh Raziuddin과 협력하여, Mamdani 시장의 시청 캠페인은 지역 시각 문화를 기반으로 공동체를 구축하는 것을 목표로 한다.",
+      "url": "https://www.itsnicethat.com/articles/zohran-mamdani-arsh-raziuddin-new-york-city-hall-world-cup-campaign-graphic-design-project-090626",
+      "source": "It's Nice That",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "패밀리마트"
+        "월드컵",
+        "뉴욕",
+        "그래픽 디자인"
       ],
-      "why": "전통적인 소비 환경을 혁신한 사례로 주목받고 있습니다.",
+      "why": "Mamdani의 NYC 월드컵 캠페인은 지역 시각 문화를 기반으로 공동체를 구축하려는 목표를 가지고 있습니다. 이는 Arsh Raziuddin과의 협력을 통해 시각적 정체성을 강화하고, 지역 사회의 참여를 유도하는 방식으로 구현됩니다.",
       "depth": 0.5,
-      "image": "https://spoon-tamago.com/wp-content/uploads/2026/07/famima-azabudai-3-200x134.jpeg",
-      "pub_date": "2026-06-09T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://media.itsnicethat.com/original_images/arsh-raziuddan-graphic-design-itsnicethat-8_GOAL_Post.gif",
+      "pub_date": "Tue, 09 Jun 2026 13:00:00 GMT",
+      "title_en": "",
+      "title": "Mamdani의 NYC 월드컵 캠페인",
+      "content": "디자이너 Arsh Raziuddin과 협력하여, Mamdani 시장의 시청 캠페인은 지역 시각 문화를 기반으로 공동체를 구축하는 것을 목표로 한다."
     },
     {
-      "title": "삘기꽃 날리는 언덕",
-      "content": "설명 없는 작품 사진으로, 감상자에게 다양한 해석을 이끌어내며 자연의 아름다움을 전달합니다.",
-      "url": "https://blog.naver.com/jujukey/223463494255?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
+      "title_ko": "Oura Ring 5 손에 사라지다",
+      "summary": "세계에서 가장 작은 스마트 링은 이전 모델보다 40% 더 슬림한 프레임과 증상이 나타나기 전에 건강 변화를 감지하는 소프트웨어를 갖추고 있다.",
+      "url": "https://coolhunting.com/tech/oura-5-disappears-into-the-hand/",
+      "source": "coolhunting.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "자연"
+        "스마트 링",
+        "건강",
+        "기술"
       ],
-      "why": "자연과 예술의 경계에서 감상자의 해석을 유도하는 이 작품은 깊은 감동을 줍니다.",
+      "why": "Oura Ring 5는 40% 더 슬림한 프레임과 건강 변화를 감지하는 소프트웨어를 통해 웨어러블 기술의 한계를 극복합니다. 이는 사용자 경험을 개선하고, 더 나은 건강 관리를 가능하게 하는 혁신적인 디자인 접근입니다.",
       "depth": 0.5,
-      "image": "https://blogthumb.pstatic.net/MjAyNDA1MzBfMTg5/MDAxNzE3MDQ5MzM3MDA0.Mc1Pc88m69Ni8SIUEjoVzmxfWnBq825zsMaZzGMkwSkg.wCFX-JMPgSaL4gLesr4_KhYwzwwBwfI80FRnq8qSzKIg.JPEG/삘기꽃_날리는_언덕_60.6&times;72.7cm_Acrylic_on_canvas_2022..jpg?type=s3",
-      "pub_date": "2026-06-09T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://coolhunting.com/wp-content/uploads/2026/06/Oura_Ring_5_Nature_Praying-Mantis.png",
+      "pub_date": "Thu, 04 Jun 2026 13:35:15 +0000",
+      "title_en": "",
+      "title": "Oura Ring 5 손에 사라지다",
+      "content": "세계에서 가장 작은 스마트 링은 이전 모델보다 40% 더 슬림한 프레임과 증상이 나타나기 전에 건강 변화를 감지하는 소프트웨어를 갖추고 있다."
     },
     {
-      "title": "MASTER Midjourney V8.1 SREF STYLES (풀 미드저니 튜토리얼)",
-      "content": "Midjourney의 최신 스타일 가이드와 창의적인 방법을 소개하는 풀 튜토리얼입니다.",
-      "url": "https://blog.naver.com/tiger6107/224344287394?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
+      "title_ko": "Psychedelics Design Awards 2026: 출품작 모집",
+      "summary": "세계 최초의 사이키델릭 공간에 대한 디자인 어워드가 두 번째 에디션으로 9개 카테고리에서 출품작을 모집한다.",
+      "url": "https://coolhunting.com/design/psychedelics-design-awards-2026-call-for-submissions/",
+      "source": "coolhunting.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "튜토리얼"
+        "디자인 어워드",
+        "사이키델릭",
+        "공간 디자인"
       ],
-      "why": "미드저니 사용자들에게 실질적인 도움이 되는 자료로, 대중적인 관심을 받고 있습니다.",
+      "why": "Psychedelics Design Awards 2026은 사이키델릭 공간에 대한 디자인을 통해 새로운 창작 가능성을 탐구합니다. 이는 다양한 카테고리에서 출품작을 모집하여, 창의적 사고를 장려하고, 디자인 혁신을 촉진하는 방식으로 구현됩니다.",
       "depth": 0.5,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-06-09T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://coolhunting.com/wp-content/uploads/2026/06/Image-credit_Google-Deepmind_Psychedelics-Design_2026-AWARDS_billboard-V-2.png",
+      "pub_date": "Tue, 02 Jun 2026 11:02:00 +0000",
+      "title_en": "",
+      "title": "Psychedelics Design Awards 2026: 출품작 모집",
+      "content": "세계 최초의 사이키델릭 공간에 대한 디자인 어워드가 두 번째 에디션으로 9개 카테고리에서 출품작을 모집한다."
     }
   ],
   "macro_keywords": [

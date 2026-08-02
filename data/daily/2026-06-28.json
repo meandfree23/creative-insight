@@ -9,283 +9,379 @@
   },
   "topPicks": [
     {
-      "title": "세상의 텅 빈 곳, 그러나 공으로 채워지다",
-      "content": "세상은 나 없이도 돌아가지만, 삶에서의 '나'의 성찰을 불교의 '공' 개념과 연결합니다. 들숨과 날숨 사이에서 나라는 존재의 의미를 찾으려는 시도입니다.",
-      "url": "https://blog.naver.com/damwon/221275088783?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
+      "title_ko": "그래피트 브랜드 필름을 위한 코드 아키텍처",
+      "summary": "Panoply의 Mark Lindner와 Simon Holmedal은 그래피트 브랜드 필름을 위한 새로운 작업을 선보였습니다. 이 작업은 기술과 예술의 융합을 통해 시각적 스토리텔링을 극대화합니다.",
+      "url": "https://www.stashmedia.tv/code-architecture-panoply-build-a-brand-film-for-graphite/",
+      "source": "Stash Media",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "Mark Lindner, Simon Holmedal",
+      "creator_insight": "기술과 예술의 융합을 통해 시각적 스토리텔링을 극대화합니다.",
+      "tags": [
+        "브랜드 필름",
+        "기술",
+        "예술"
+      ],
+      "execution_techniques": [
+        "시각적 스토리텔링"
+      ],
+      "why": "이 기사는 기술과 예술의 융합이 어떻게 새로운 형태의 스토리텔링을 가능하게 하는지를 보여줍니다. 이는 현대인들이 디지털 시대에 잃어버린 인간적 감성을 되찾고자 하는 욕구를 충족시킵니다.",
+      "social_proof": "비평가들의 찬사를 받았습니다.",
+      "depth": 0.85,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/Panoply-Build-a-Brand-Film-for-Graphite-_-STASH-MAGAZINE9.jpg",
+      "pub_date": "2026-07-04T13:13:01+00:00",
+      "title_en": "",
+      "title": "그래피트 브랜드 필름을 위한 코드 아키텍처",
+      "content": "Panoply의 Mark Lindner와 Simon Holmedal은 그래피트 브랜드 필름을 위한 새로운 작업을 선보였습니다. 이 작업은 기술과 예술의 융합을 통해 시각적 스토리텔링을 극대화합니다."
+    },
+    {
+      "title_ko": "CareDx 일러스트레이션 시스템",
+      "summary": "캘리포니아에 기반을 둔 바이오테크 회사 CareDx를 위한 일러스트레이션 시스템을 소개합니다. 이 시스템은 과학적 데이터를 시각적으로 표현하여 사용자 경험을 향상시킵니다.",
+      "url": "https://www.behance.net/gallery/252080223/CareDx-Illustration-System",
+      "source": "Behance",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "김 성현",
-      "creator_insight": "삶의 의미를 찾기 위한 철학적 성찰을 담고 있다.",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 삶의 질을 향상시키는 데 도움을 줄 수 있다.",
       "tags": [
-        "명상",
-        "불교"
+        "바이오테크",
+        "일러스트레이션",
+        "사용자 경험"
       ],
       "execution_techniques": [
-        "#철학적생각"
+        "시각적 표현"
       ],
-      "why": "일상 속에서 자아를 찾으려는 철학적 시도가 인상적입니다.",
-      "depth": 0.95,
-      "image": "https://blogthumb.pstatic.net/MjAxODA1MTRfMjk4/MDAxNTI2MjM3NTYzNjQy.y5X9UoW5LXF2UpKHe_cmLn9-rPJ2cSa0JtLvV8LCvDQg.IoUIqucLJe8V7abpj8zujsGfjbVofFwi8QYB6BKI424g.JPEG.damwon/DSC_0087_copy.jpg?type=s3",
-      "pub_date": "2026-06-28T08:00:00.000000"
+      "why": "이 기사는 복잡한 과학적 데이터를 시각적으로 표현하여 사용자 경험을 향상시키는 방법을 보여줍니다. 이는 현대인들이 정보 과잉 속에서 직관적이고 이해하기 쉬운 정보를 갈망하는 것과 관련이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/5a9686252080223.Y3JvcCwyMTgyLDE3MDcsMTg5LDA.png",
+      "pub_date": "2026-07-04T10:00:06+00:00",
+      "title_en": "",
+      "title": "CareDx 일러스트레이션 시스템",
+      "content": "캘리포니아에 기반을 둔 바이오테크 회사 CareDx를 위한 일러스트레이션 시스템을 소개합니다. 이 시스템은 과학적 데이터를 시각적으로 표현하여 사용자 경험을 향상시킵니다."
     },
     {
-      "title": "듀얼 퍼포먼스: 소녀와 숲 속 이야기",
-      "content": "각기 다른 비율과 원시적인 자연 속에서 나비와 고양이, 새를 등장시키는 서정적 시각 연출입니다. 자연과 인간, 그리고 동물의 교감을 표현하는 독창적인 시도입니다.",
-      "url": "https://blog.naver.com/tiger6107/224300952836?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
+      "title_ko": "오사카의 미래 개발지를 활성화하는 거리 가구",
+      "summary": "오사카의 혼합 사용 개발지를 위한 임시 거리 가구 설치 프로젝트를 소개합니다. 이 프로젝트는 건축이 시작되기 전 공간을 활성화합니다.",
+      "url": "https://www.designboom.com/design/scaffolding-pipes-street-furniture-future-development-site-osaka-gas-stand-team-raw-row/",
+      "source": "Designboom",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "Kengo Kuma",
+      "creator_insight": "건축은 자연과 대화를 나누는 것이다. 건축은 자연을 존중하며, 그와 동시에 자연과 조화를 이루어야 한다.",
+      "tags": [
+        "임시 건축",
+        "공간 활성화",
+        "도시 디자인"
+      ],
+      "execution_techniques": [
+        "임시 설치"
+      ],
+      "why": "이 기사는 공간을 활성화하는 임시 건축의 가능성을 보여줍니다. 이는 현대인들이 도시 환경에서의 창의적이고 임시적인 해결책을 찾고자 하는 욕구와 관련이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/06/gas-stand-grow-and-spread-temporary-urban-activation-team-raw-row-osaka-gas-urban-development-designboom-700-500x400-22b08q85r550.jpg",
+      "pub_date": "2026-07-04T00:55:25+00:00",
+      "title_en": "",
+      "title": "오사카의 미래 개발지를 활성화하는 거리 가구",
+      "content": "오사카의 혼합 사용 개발지를 위한 임시 거리 가구 설치 프로젝트를 소개합니다. 이 프로젝트는 건축이 시작되기 전 공간을 활성화합니다."
+    },
+    {
+      "title_ko": "스킨케어 브랜드 디자인: TheDrey Studio",
+      "summary": "TheDrey Studio가 디자인한 스킨케어 브랜드의 코스메틱 패키징을 소개합니다. 이 디자인은 깨끗한 그리드와 리드믹한 패턴을 통해 차분한 선반 존재감을 제공합니다.",
+      "url": "https://abduzeedo.com/skincare-brand-design-cosmetic-packaging-thedrey-studio/",
+      "source": "Abduzeedo",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "김 티거",
-      "creator_insight": "평온하고 독특한 자연의 미학을 표현한다.",
+      "creator_name": "TheDrey Studio",
+      "creator_insight": "균형 잡힌 디자인을 통해 웰니스 아이덴티티를 확립합니다.",
       "tags": [
-        "자연",
-        "항구적"
+        "스킨케어",
+        "패키징 디자인",
+        "웰니스"
       ],
       "execution_techniques": [
-        "#서정적연출"
+        "패턴 디자인"
       ],
-      "why": "자연과의 교감을 독특하게 시각화한 디자인이라 관심을 끌었습니다.",
-      "depth": 0.95,
-      "image": "https://blogthumb.pstatic.net/MjAyNjA1MzBfMTEw/MDAxNzgwMTIyNDExMjc2.soF-cZJVUzdsvM8Zq7AtOFDqjmrZbfcnm-EzVjqJPKcg.5Z0HuN4tfDn7S-7gjJD70gd2_r9t1hiWczwP2ZInbeUg.PNG/20260530_152628.png?type=s3",
-      "pub_date": "2026-06-28T08:00:00.000000"
+      "why": "이 기사는 웰니스와 미적 감각을 결합한 패키징 디자인을 보여줍니다. 이는 현대인들이 일상 속에서의 작은 사치와 웰빙을 추구하는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T19:01:19+00:00",
+      "title_en": "",
+      "title": "스킨케어 브랜드 디자인: TheDrey Studio",
+      "content": "TheDrey Studio가 디자인한 스킨케어 브랜드의 코스메틱 패키징을 소개합니다. 이 디자인은 깨끗한 그리드와 리드믹한 패턴을 통해 차분한 선반 존재감을 제공합니다."
     },
     {
-      "title": "Mäd­chen* sein - 소녀다움을 탐구하다",
-      "content": "성 정체성과 소녀다움의 의미를 예술적 관점에서 탐구한 시리즈입니다. 현대 사회에서의 여성성과 정체성에 대한 깊이 있는 논의가 이루어집니다.",
-      "url": "https://strba.ch/2025/10/29/madchen-sein/",
-      "source": "strba.ch",
+      "title_ko": "Anime.js 웹 애니메이션 10주년 기념",
+      "summary": "Julian Garnier의 Anime.js 라이브러리는 웹 애니메이션을 재정의하며 10주년을 맞이했습니다. 이 라이브러리는 개발자들에게 가벼운 도구로 자리잡았습니다.",
+      "url": "https://abduzeedo.com/celebrating-10-years-animejs-web-animation/",
+      "source": "Abduzeedo",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Annelies Štrba",
-      "creator_insight": "여성성과 그 복잡성을 다차원적으로 탐구한다.",
+      "creator_name": "Julian Garnier",
+      "creator_insight": "모듈화된 타임라인 시스템을 통해 웹 애니메이션을 재정의합니다.",
       "tags": [
-        "여성성",
-        "성 정체성"
+        "웹 애니메이션",
+        "라이브러리",
+        "개발"
       ],
       "execution_techniques": [
-        "#예술적사고"
+        "모듈화 시스템"
       ],
-      "why": "현대 여성의 정체성을 예술적으로 표현한 점이 인상적입니다.",
-      "depth": 0.95,
-      "image": "https://strba.ch/wp-content/uploads/2025/10/tafelbild_zu_social_media.jpeg",
-      "pub_date": "2026-06-28T08:00:00.000000"
+      "why": "이 기사는 웹 애니메이션의 발전을 보여주며, 이는 현대인들이 디지털 환경에서의 창의적 표현을 갈망하는 것과 관련이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T16:59:00+00:00",
+      "title_en": "",
+      "title": "Anime.js 웹 애니메이션 10주년 기념",
+      "content": "Julian Garnier의 Anime.js 라이브러리는 웹 애니메이션을 재정의하며 10주년을 맞이했습니다. 이 라이브러리는 개발자들에게 가벼운 도구로 자리잡았습니다."
     },
     {
-      "title": "파도 치는 창의적 아이디어의 매력",
-      "content": "경쟁적 제안 과정에서의 협력을 저해하는 장애물과 이를 극복하기 위한 과정을 상세히 논의합니다. 현대 모션 디자인의 역동성과 그룹 작업의 중요성에 강조점을 둡니다.",
-      "url": "https://www.stashmedia.tv/we-love-pitching-chronicles-of-a-necessary-mess-part-10/",
-      "source": "Unknown Source",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Claus Cibils",
-      "creator_insight": "협력의 중요성과 그 과정에서의 난관을 재치 있게 풀어낸다.",
-      "tags": [
-        "창의적 협업",
-        "모션 디자인"
-      ],
-      "execution_techniques": [
-        "#현대적시각"
-      ],
-      "why": "협업의 중요성과 장애물을 극복하는 과정이 흥미로웠습니다.",
-      "depth": 0.95,
-      "image": "http://www.stashmedia.tv/wp-content/uploads/We-Love-Pitching-Part-6-Guest-editorial-by-Claus-Cibilis-_-STASH-MAGAZINE2-1920x1072.jpeg",
-      "pub_date": "2026-06-28T08:00:00.000000"
-    },
-    {
-      "title": "Garmin Venu: 건강한 삶의 동반자",
-      "content": "최신 기술과 디자인이 결합된 Garmin Venu는 건강과 피트니스 전반에 걸친 포괄적 트래킹을 제공합니다. 특히 시계 디자인과 사용자 맞춤형 기능이 돋보이는 기기입니다.",
-      "url": "https://uglyd.com/index.php/garmin-venu/",
-      "source": "uglyd.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Garmin",
-      "creator_insight": "기능성과 미학을 동시에 추구하는 제품.",
-      "tags": [
-        "피트니스",
-        "최신기술"
-      ],
-      "execution_techniques": [
-        "#현대적디자인"
-      ],
-      "why": "기능과 디자인의 조화를 통해 건강 관리의 새 길을 제시합니다.",
-      "depth": 0.95,
-      "image": "https://uglyd.com/wp-content/uploads/2020/07/Garmin-Digital-A3-Landscape-FA.jpg",
-      "pub_date": "2026-06-28T08:00:00.000000"
-    },
-    {
-      "title": "디자인의 혁신을 말하다 - 'Folded A'",
-      "content": "목재 위에 스프레이 페인트로 인상적인 패턴을 그려내는 크리에이티브한 작품입니다. 단순하면서도 강렬한 효과를 연출합니다.",
-      "url": "https://www.andrew-townsend.com/Folded-A-1",
-      "source": "Unknown Source",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Andrew Townsend",
-      "creator_insight": "단순한 재료를 활용한 창조적 접근.",
-      "tags": [
-        "스프레이아트",
-        "목재"
-      ],
-      "execution_techniques": [
-        "#추상예술"
-      ],
-      "why": "미니멀하지만 시각적으로 강력한 표현이 흥미롭습니다.",
-      "depth": 0.95,
-      "image": "https://payload.cargocollective.com/1/1/33015/8409291/prt_1408298340.jpg",
-      "pub_date": "2026-06-28T08:00:00.000000"
-    },
-    {
-      "title": "차별화된 철학의 실례 -Diane Arbus",
-      "content": "일상과 비일상의 경계를 넘나드는 독특한 촬영 기술로 유명한 사진작가의 작품입니다. 일상의 순간들을 극적인 장면으로 포착합니다.",
-      "url": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-cheimread/usr/images/artworks/main_image/items/9a/9a606a57582e4fadb769336c330389b1/ar.16082.jpg",
-      "source": "Unknown Source",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Diane Arbus",
-      "creator_insight": "독창적인 시각으로 비일상성을 순간적으로 잡아냄.",
-      "tags": [
-        "사진예술",
-        "일상미학"
-      ],
-      "execution_techniques": [
-        "#흑백사진"
-      ],
-      "why": "평범해 보이는 순간의 극적 표현이 인상적입니다.",
-      "depth": 0.95,
-      "image": "https://cheimread.comhttps://static-assets.artlogic.net/w_1000,h_1000,c_limit,f_auto,fl_lossy,q_auto,dpr_auto/artlogicstorage/cheimread/images/view//usr/images/artworks/main_image/items/9a/9a606a57582e4fadb769336c330389b1/ar.16082.jpg.gif",
-      "pub_date": "2026-06-28T08:00:00.000000"
-    },
-    {
-      "title": "인간성의 복합성 - ‘Kids’",
-      "content": "컬러 연필로 그려진 간단한 스케치 모음집으로, 예술적 기술 이상의 새로운 언어 탐색을 시도합니다. 일상에서 벗어난 자유로운 창의성을 경험할 수 있습니다.",
-      "url": "https://www.behance.net/gallery/253596467/Kids",
-      "source": "Unknown Source",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "미상",
-      "creator_insight": "자유로운 창조적 탐색으로 새로운 언어의 가능성을 열어준다.",
-      "tags": [
-        "스케치",
-        "컬러연필"
-      ],
-      "execution_techniques": [
-        "#전통기법탐구"
-      ],
-      "why": "전통 기법을 통해 새로운 창조적 가능성을 탐구한 점이 독특합니다.",
-      "depth": 0.95,
-      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/60d1ef253596467.Y3JvcCwxMjk1LDEwMTMsNTEsMA.jpg",
-      "pub_date": "2026-06-28T08:00:00.000000"
-    },
-    {
-      "title": "실용성과 세련미의 결합 - Humtto-X Easy Run",
-      "content": "여성용 초경량 스포츠 러닝화로, 뛰어난 내구성과 편안함을 제공합니다. 세련된 디자인으로 다양한 활동에서 활용 가능성을 보여줍니다.",
-      "url": "https://humtto.vn/giay-chay-bo-the-thao-sieu-nhe-nu-humtto-x-easy-run-370374b/",
-      "source": "Unknown Source",
+      "title_ko": "스미소니언 박물관, 50개 주와 푸에르토리코에 200점 이상의 작품 대여",
+      "summary": "히르쉬혼 미술관과 조각 정원, 아트 브릿지 재단이 전국 대여 프로그램을 위해 협력합니다. 이 프로그램은 앨라배마 헌츠빌에서 와이오밍 빅혼까지 이어집니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/03/hirshhorn-museum-art-bridges-loans-every-us-state-puerto-rico",
+      "source": "The Art Newspaper",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Humtto",
-      "creator_insight": "실용성을 극대화한 디자인으로 멋스러움을 더한다.",
+      "category": "뉴스",
+      "creator_name": "피카소",
+      "creator_insight": "예술의 목적은 우리 영혼의 먼지를 씻어주는 것이다.",
       "tags": [
-        "스포츠",
-        "혁신"
+        "미술관",
+        "작품 대여",
+        "문화 확산"
       ],
       "execution_techniques": [
-        "#최신기술"
+        "작품 대여"
       ],
-      "why": "초경량 디자인과 편안함을 갖춘 혁신적 제품이 매력적입니다.",
-      "depth": 0.95,
-      "image": "https://humtto.vn/wp-content/uploads/2026/05/giay-humtto-370374-3.png",
-      "pub_date": "2026-06-28T08:00:00.000000"
+      "why": "이 기사는 예술 작품의 대여를 통해 문화적 접근성을 높이는 방법을 보여줍니다. 이는 현대인들이 예술을 통해 사회적 연결을 찾고자 하는 욕구와 관련이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/8664b84dd058f54dda2fd912b5a420c463128575-2000x1508.jpg",
+      "pub_date": "2026-07-03T16:01:00+00:00",
+      "title_en": "",
+      "title": "스미소니언 박물관, 50개 주와 푸에르토리코에 200점 이상의 작품 대여",
+      "content": "히르쉬혼 미술관과 조각 정원, 아트 브릿지 재단이 전국 대여 프로그램을 위해 협력합니다. 이 프로그램은 앨라배마 헌츠빌에서 와이오밍 빅혼까지 이어집니다."
     },
     {
-      "title": "자유로운 발걸음, 안전한 이동 - Humtto 물놀이 샌들",
-      "content": "논슬립 기능과 가볍고 편안한 착용감으로 다양한 수상 활동에 적합한 남성용 물놀이 샌들입니다. 실용성과 스타일을 동시에 갖춘 제품입니다.",
-      "url": "https://humtto.vn/giay-sandal-loi-nuoc-chong-truot-nam-humtto-670823a/",
-      "source": "Unknown Source",
-      "domain": "ART",
+      "title_ko": "풍경에 속하는 로지 디자인",
+      "summary": "Luxury Frontiers는 아프리카의 Amboseli에 자연과 조화를 이루는 로지를 설계했습니다. 이 로지는 기존의 캔버스 텐트를 버리고 자연 재료를 사용합니다.",
+      "url": "https://design-milk.com/luxury-frontiers-designs-a-lodge-that-belongs-to-its-landscape/",
+      "source": "Design Milk",
+      "domain": "ARCHITECTURE",
       "category": "리뷰",
-      "creator_name": "Humtto",
-      "creator_insight": "안전과 스타일을 겸비한 디자인으로 수상 활동에 최적화되었습니다.",
+      "creator_name": "Tadao Ando",
+      "creator_insight": "건축이란 단순히 보는 것이 아니라, 몸으로 체험하고 느끼는 것입니다. 공간은 그 자체로 고요를 만들어야 합니다.",
       "tags": [
-        "물놀이",
-        "안전성"
+        "자연 조화",
+        "건축 디자인",
+        "지속 가능성"
       ],
       "execution_techniques": [
-        "#실용적디자인"
+        "자연 재료 사용"
       ],
-      "why": "스토리텔링을 통해 기능과 스타일을 어우른 제품의 매력이 강력합니다.",
-      "depth": 0.95,
-      "image": "https://humtto.vn/wp-content/uploads/2026/05/1.png",
-      "pub_date": "2026-06-28T08:00:00.000000"
+      "why": "이 기사는 자연과 조화를 이루는 건축 디자인을 통해 지속 가능한 환경을 만드는 방법을 보여줍니다. 이는 현대인들이 자연과의 연결을 갈망하는 것과 관련이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/07/abercrombie-kent-kitirua-plains-lodge-53.jpg",
+      "pub_date": "2026-07-03T15:00:26+00:00",
+      "title_en": "",
+      "title": "풍경에 속하는 로지 디자인",
+      "content": "Luxury Frontiers는 아프리카의 Amboseli에 자연과 조화를 이루는 로지를 설계했습니다. 이 로지는 기존의 캔버스 텐트를 버리고 자연 재료를 사용합니다."
     },
     {
-      "title": "향연의 정원, 철조 간이 화분",
-      "content": "철조로 만든 계절 상관 없이 아름다움을 이어가는 화분. 실제 식물과 잘 어우러져 손재주와 크리에이티브의 경계를 넘나듭니다.",
-      "url": "https://archzine.net/gartengestaltung/gartendekoration/allium-aus-draht-selber-machen/",
-      "source": "Archzine",
-      "domain": "SPATIAL",
+      "title_ko": "EKEN 브랜드 아이덴티티: 기하학 속의 따뜻함",
+      "summary": "Creavora는 EKEN을 위한 가구 브랜드 아이덴티티를 창조했습니다. 이 시스템은 기하학적 로고, 자연 색상 팔레트, 현대적 타이포그래피를 포함합니다.",
+      "url": "https://abduzeedo.com/eken-brand-identity-warmth-geometry/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "미상",
-      "creator_insight": "손으로 직접 만든 착시 효과를 통해 계절 상관 없이 화려한 미학을 표현한다.",
+      "creator_name": "Creavora",
+      "creator_insight": "기하학적 디자인을 통해 따뜻함을 전달합니다.",
       "tags": [
-        "정원",
-        "창의적"
+        "브랜드 아이덴티티",
+        "기하학",
+        "가구 디자인"
       ],
       "execution_techniques": [
-        "#DIY"
+        "기하학적 로고"
       ],
-      "why": "계절에 얽매이지 않은 크리에이티브가 독특합니다.",
-      "depth": 0.95,
-      "image": "https://archzine.net/wp-content/uploads/2026/08/allium-draht-gartenbeet-abendlicht.webp",
-      "pub_date": "2026-06-28T08:00:00.000000"
+      "why": "이 기사는 기하학적 디자인을 통해 브랜드 아이덴티티를 구축하는 방법을 보여줍니다. 이는 현대인들이 시각적 명확성과 따뜻함을 동시에 추구하는 것과 관련이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T13:58:12+00:00",
+      "title_en": "",
+      "title": "EKEN 브랜드 아이덴티티: 기하학 속의 따뜻함",
+      "content": "Creavora는 EKEN을 위한 가구 브랜드 아이덴티티를 창조했습니다. 이 시스템은 기하학적 로고, 자연 색상 팔레트, 현대적 타이포그래피를 포함합니다."
+    },
+    {
+      "title_ko": "SEO 팁: 예술가를 위한 웹사이트 가시성 향상",
+      "summary": "VERY PRIVATE GALLERY는 예술가들이 구글에서 웹사이트 가시성을 높일 수 있는 22가지 SEO 팁을 제공합니다. 이는 예술가들의 온라인 존재감을 강화합니다.",
+      "url": "https://veryprivategallery.com/seo-for-artists/",
+      "source": "Very Private Gallery",
+      "domain": "LITERATURE",
+      "category": "가이드",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 사람들을 행복하게 만드는 것이다. - 스테판 사그마이스터",
+      "tags": [
+        "SEO",
+        "예술가",
+        "온라인 존재감"
+      ],
+      "execution_techniques": [
+        "SEO 전략"
+      ],
+      "why": "이 기사는 예술가들이 온라인에서 더 많은 사람들에게 다가갈 수 있도록 돕습니다. 이는 현대인들이 디지털 플랫폼에서의 가시성을 중요시하는 것과 관련이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2021/06/seo-for-artists-featured.jpg",
+      "pub_date": "2026-07-03T13:57:23+00:00",
+      "title_en": "",
+      "title": "SEO 팁: 예술가를 위한 웹사이트 가시성 향상",
+      "content": "VERY PRIVATE GALLERY는 예술가들이 구글에서 웹사이트 가시성을 높일 수 있는 22가지 SEO 팁을 제공합니다. 이는 예술가들의 온라인 존재감을 강화합니다."
+    },
+    {
+      "title_ko": "SONATA 이벤트 아이덴티티 디자인",
+      "summary": "Shafiq Alam과 Md Ferdous Rana가 디자인한 SONATA 이벤트 아이덴티티는 딥 크림슨 Didone 타입과 음악가들의 사진을 결합하여 고유한 시각적 경험을 제공합니다.",
+      "url": "https://abduzeedo.com/sonata-event-identity-design-shafiq-alam/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Shafiq Alam, Md Ferdous Rana",
+      "creator_insight": "딥 크림슨 Didone 타입과 음악가들의 사진을 결합합니다.",
+      "tags": [
+        "이벤트 디자인",
+        "타이포그래피",
+        "시각적 경험"
+      ],
+      "execution_techniques": [
+        "타이포그래피"
+      ],
+      "why": "이 기사는 이벤트 아이덴티티 디자인을 통해 청중에게 강렬한 인상을 남기는 방법을 보여줍니다. 이는 현대인들이 독특하고 기억에 남는 경험을 추구하는 것과 관련이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T13:24:23+00:00",
+      "title_en": "",
+      "title": "SONATA 이벤트 아이덴티티 디자인",
+      "content": "Shafiq Alam과 Md Ferdous Rana가 디자인한 SONATA 이벤트 아이덴티티는 딥 크림슨 Didone 타입과 음악가들의 사진을 결합하여 고유한 시각적 경험을 제공합니다."
+    },
+    {
+      "title_ko": "UN/SEEN: 여성 디자이너의 유산",
+      "summary": "Petra Eisele의 편집 디자인은 여성 디자이너의 역사를 조명합니다. 이는 디자인 캐논의 재설계를 촉구합니다.",
+      "url": "https://abduzeedo.com/editorial-design-unseen-and-legacy-female-designers/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Petra Eisele",
+      "creator_insight": "디자인 캐논의 재설계를 촉구합니다.",
+      "tags": [
+        "여성 디자이너",
+        "편집 디자인",
+        "역사"
+      ],
+      "execution_techniques": [
+        "편집 디자인"
+      ],
+      "why": "이 기사는 여성 디자이너의 역사를 통해 디자인 캐논을 재고하는 방법을 보여줍니다. 이는 현대인들이 역사적 불균형을 바로잡고자 하는 욕구와 관련이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T12:59:15+00:00",
+      "title_en": "",
+      "title": "UN/SEEN: 여성 디자이너의 유산",
+      "content": "Petra Eisele의 편집 디자인은 여성 디자이너의 역사를 조명합니다. 이는 디자인 캐논의 재설계를 촉구합니다."
+    },
+    {
+      "title_ko": "Rawhaus 식품 브랜딩",
+      "summary": "Streight Studio와 Alfinu Zafir가 디자인한 Rawhaus의 식품 브랜딩 시스템은 에너제틱한 스트리트 아트와 대담한 타이포그래피를 결합합니다.",
+      "url": "https://abduzeedo.com/food-branding-rawhaus-streight-studio-alfinu-zafir/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Streight Studio, Alfinu Zafir",
+      "creator_insight": "에너제틱한 스트리트 아트와 대담한 타이포그래피를 결합합니다.",
+      "tags": [
+        "식품 브랜딩",
+        "스트리트 아트",
+        "타이포그래피"
+      ],
+      "execution_techniques": [
+        "타이포그래피"
+      ],
+      "why": "이 기사는 식품 브랜딩을 통해 건강한 식단을 시각적으로 매력적으로 만드는 방법을 보여줍니다. 이는 현대인들이 건강과 미적 감각을 동시에 추구하는 것과 관련이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-07-03T12:36:09+00:00",
+      "title_en": "",
+      "title": "Rawhaus 식품 브랜딩",
+      "content": "Streight Studio와 Alfinu Zafir가 디자인한 Rawhaus의 식품 브랜딩 시스템은 에너제틱한 스트리트 아트와 대담한 타이포그래피를 결합합니다."
     }
   ],
   "items": [],
   "popcorn": [
     {
-      "title": "특별한 단발머리로 완성하는 매력 변신",
-      "content": "얼굴형에 맞는 특별한 단발머리 스타일로 매력을 극대화하는 팁을 전합니다.",
-      "url": "https://archzine.net/trends/haarfrisuren/haarschnitte/coole-frisuren-mollige-frauen-rundem-gesicht/",
-      "source": "Archzine",
+      "title_ko": "Jochi Labs",
+      "summary": "Jochi Labs의 프로젝트는 독특한 시각적 스타일과 혁신적인 디자인 접근 방식을 보여줍니다.",
+      "url": "https://www.behance.net/gallery/252205881/Jochi-Labs",
+      "source": "Behance",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "스타일"
+        "혁신",
+        "디자인"
       ],
-      "why": "다양한 얼굴형에 맞춘 스타일 조언이 매력적입니다.",
+      "why": "Jochi Labs의 프로젝트는 독특한 시각적 스타일로 대중의 시선을 사로잡았습니다. 이는 현대인들이 새로운 시각적 경험을 갈망하는 것과 관련이 있습니다.",
       "depth": 0.5,
-      "image": "https://archzine.net/wp-content/uploads/2026/07/frisur-rundes-gesicht-seitenpony.webp",
-      "pub_date": "2026-06-28T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/b50084252205881.Y3JvcCw1MDgwLDM5NzMsMTQ1OCwyNjQ.jpg",
+      "pub_date": "2026-07-05T21:30:05+00:00",
+      "title_en": "",
+      "title": "Jochi Labs",
+      "content": "Jochi Labs의 프로젝트는 독특한 시각적 스타일과 혁신적인 디자인 접근 방식을 보여줍니다."
     },
     {
-      "title": "간단한 오르 길이의 보브 스타일링 트릭",
-      "content": "몇 센티 차이로 얼굴 윤곽을 매력적으로 바꿀 수 있는 귀 길이 보브 스타일링 방법을 소개합니다.",
-      "url": "https://archzine.net/trends/haarfrisuren/bob-frisuren/bob-in-ohrlaenge-gesichtsform/",
-      "source": "Archzine",
+      "title_ko": "Daily 2000",
+      "summary": "Daily 2000 프로젝트는 과거의 감성을 현대적 디자인으로 재해석하여 대중의 관심을 끌었습니다.",
+      "url": "https://www.behance.net/gallery/252119287/Daily-2000",
+      "source": "Behance",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "미용"
+        "레트로",
+        "디자인"
       ],
-      "why": "간단한 스타일링 변화로 큰 변화를 줄 수 있어 흥미롭습니다.",
+      "why": "Daily 2000은 과거의 감성을 현대적 디자인으로 재해석하여 대중의 관심을 끌었습니다. 이는 현대인들이 레트로 감성을 현대적 맥락에서 경험하고자 하는 욕구와 관련이 있습니다.",
       "depth": 0.5,
-      "image": "https://archzine.net/wp-content/uploads/2026/07/bob-ohrlaenge-glatter-schnitt.webp",
-      "pub_date": "2026-06-28T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/8a8adc252119287.Y3JvcCwzNDU5LDI3MDUsMCwzNDI.jpg",
+      "pub_date": "2026-07-05T05:30:16+00:00",
+      "title_en": "",
+      "title": "Daily 2000",
+      "content": "Daily 2000 프로젝트는 과거의 감성을 현대적 디자인으로 재해석하여 대중의 관심을 끌었습니다."
     },
     {
-      "title": "디지털 표현의 새 경로: sREF 시리즈",
-      "content": "서정적인 자연 미학을 활용하여 디지털의 가능성을 새롭게 정의하는 작품입니다. 디자인의 새로운 트렌드를 탐색하고 제시합니다.",
-      "url": "https://blog.naver.com/tiger6107/224300597817?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
+      "title_ko": "Hachi green & garden",
+      "summary": "Hachi green & garden 프로젝트는 자연과의 조화를 강조하며 대중의 이목을 끌었습니다.",
+      "url": "https://www.behance.net/gallery/251812007/Hachi-green-garden",
+      "source": "Behance",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "디지털아트"
+        "자연",
+        "조화"
       ],
-      "why": "새로운 디지털 표현이 트렌드를 반영하고 있으며 매우 참신합니다.",
+      "why": "Hachi green & garden 프로젝트는 자연과의 조화를 강조하며 대중의 이목을 끌었습니다. 이는 현대인들이 자연과의 연결을 갈망하는 것과 관련이 있습니다.",
       "depth": 0.5,
-      "image": "https://blogthumb.pstatic.net/MjAyNjA1MzBfMTE1/MDAxNzgwMDc3NTQ2Nzgy.1u8A5m_0DYrfkCRm2zPo1jlT6PuJOU4OI3cEV9Qh2kcg.phYw4IATmg_dibspCZrIWUQ1n1SVYFG5Fsr-2C9Qixcg.PNG/20260530_025816.png?type=s3",
-      "pub_date": "2026-06-28T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/23daf3251812007.Y3JvcCwxMzU2LDEwNjAsMzQ1LDE2NA.jpg",
+      "pub_date": "2026-07-04T17:30:08+00:00",
+      "title_en": "",
+      "title": "Hachi green & garden",
+      "content": "Hachi green & garden 프로젝트는 자연과의 조화를 강조하며 대중의 이목을 끌었습니다."
     }
   ],
   "keywords": [

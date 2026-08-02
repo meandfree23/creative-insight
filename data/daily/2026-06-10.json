@@ -9,235 +9,286 @@
   },
   "topPicks": [
     {
-      "title": "비센조 아네티의 위대한 예술 세계",
-      "content": "폴리냐노의 파스칼리 재단에서 열리는 이 전시는 이탈리아 예술가 비센조 아네티의 초기 1970년대를 집중 조명합니다. 특히 1973년, 아네티가 프리미오 파스칼리를 수상한 해를 중심으로 작품을 전시하고 있습니다.",
-      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/vincenzo-agnetti-mostra-centenario/",
-      "source": "Artribune",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "비센조 아네티",
-      "creator_insight": "비센조 아네티는 예술적 실험과 현대 미술의 교차점에서 독특한 경로를 개척했습니다.",
-      "tags": [
-        "예술",
-        "전시"
-      ],
-      "execution_techniques": [
-        "#ContemporaryArt"
-      ],
-      "why": "비센조 아네티의 작품 세계는 그의 시대를 넘어서 강력한 메시지를 전합니다.",
-      "depth": 0.95,
-      "image": "https://www.artribune.com/wp-content/uploads/2026/07/ba261296-1.jpg",
-      "pub_date": "2026-06-10T08:00:00.000000"
-    },
-    {
-      "title": "크리스 “데이즈” 엘리스의 지하 세계에서의 '난초 비'",
-      "content": "크리스 “데이즈” 엘리스의 세 번째 개인전이 뉴욕의 PPOW 갤러리에서 열리고 있습니다. 이 전시는 1970년대와 80년대의 그래피티의 열정과 자발성을 되살리면서도 수십 년간 갈고 닦은 신중하고 정교한 예술 의식을 보여줍니다.",
-      "url": "https://www.juxtapoz.com/news/graffiti/chris-daze-ellis-orchid-rain-on-the-underground-ppow-gallery-nyc/",
-      "source": "Juxtapoz",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "크리스 '데이즈' 엘리스",
-      "creator_insight": "크리스 엘리스는 시대를 넘어 그래피티의 정신과 에너지를 현대에 맞게 부활시켰습니다.",
-      "tags": [
-        "그래피티",
-        "전시"
-      ],
-      "execution_techniques": [
-        "#GraffitiArt"
-      ],
-      "why": "이 전시는 현대 도시문화와 그래피티 미술의 지속성을 탐구합니다.",
-      "depth": 0.95,
-      "image": "https://www.juxtapoz.com/media/k2/items/cache/6ea52af46917f156ac0499123960e4de_L.jpg",
-      "pub_date": "2026-06-10T08:00:00.000000"
-    },
-    {
-      "title": "패션 프로젝트로 코카서스의 공예 보호",
-      "content": "갈리브 가산노프가 설립한 패션 및 사회예술 프로젝트는 코카서스 지역의 장인들과 함께 위기에 처한 전통 공예를 의류와 문화 교류를 통해 보존하려고 합니다.",
-      "url": "https://www.anothermag.com/fashion-beauty/17346/institution-fashion-interview-galib-gassonoff?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=institution-the-fashion-project-preserving-the-crafts-of-the-caucasus",
-      "source": "anothermag.com",
+      "title_ko": "오직 청각을 위한: 해피 먼데이즈의 가장 위대한 앨범이 거대한 알약으로",
+      "summary": "런던 레코드는 Pills ’N’ Thrills and Bellyaches의 재발매를 기념하여 디자이너 다니엘 메이슨과 매튜 쿠퍼와 협력하여 한정판 캡슐을 제작했습니다.",
+      "url": "https://www.creativereview.co.uk/for-aural-use-only-happy-mondays-greatest-album-is-now-a-giant-pill/",
+      "source": "Creative Review",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "갈리브 가산노프",
-      "creator_insight": "갈리브 가산노프는 의류를 통해 코카서스 공예의 소중함을 널리 알리고 있습니다.",
+      "creator_name": "다니엘 메이슨, 매튜 쿠퍼",
+      "creator_insight": "음악과 디자인의 경계를 허물고 새로운 형태로 재탄생시키다.",
       "tags": [
-        "패션",
-        "공예"
+        "음악",
+        "디자인",
+        "한정판",
+        "협업"
       ],
-      "execution_techniques": [
-        "#CulturalFashion"
-      ],
-      "why": "이 프로젝트는 지역의 전통과 현대 패션을 융합시켜 문화적 유산을 보존하는 데 중요한 역할을 합니다.",
-      "depth": 0.95,
-      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476186.jpeg",
-      "pub_date": "2026-06-10T08:00:00.000000"
+      "why": "런던 레코드는 해피 먼데이즈의 앨범을 거대한 알약 형태로 재발매하여, 청각적 경험을 시각적 오브제로 전환하는 혁신을 보여줍니다. 이는 앨범의 상징성을 극대화하고, 청중에게 새로운 감각적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/06/happy-mondays-pill.jpg",
+      "pub_date": "2026-06-10T02:27:47+00:00",
+      "title_en": "",
+      "title": "오직 청각을 위한: 해피 먼데이즈의 가장 위대한 앨범이 거대한 알약으로",
+      "content": "런던 레코드는 Pills ’N’ Thrills and Bellyaches의 재발매를 기념하여 디자이너 다니엘 메이슨과 매튜 쿠퍼와 협력하여 한정판 캡슐을 제작했습니다."
     },
     {
-      "title": "웨얼 돌스 행: 멕시코 민속에서 영감을 받은 공포 게임",
-      "content": "스틸크릴 스튜디오의 창립자 라이언 포텔리는 심리적 공포 게임 '웨얼 돌스 행'의 창작 과정을 공유했습니다. 그는 멕시코 민속을 게임에 적용하고 신체적 요소와 초자연적 요소를 결합하는 방법을 설명합니다.",
-      "url": "https://80.lv/articles/where-dolls-hang-creating-a-horror-game-inspired-by-mexican-folklore/",
-      "source": "80 Level",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "라이언 포텔리",
-      "creator_insight": "라이언 포텔리는 전통과 공포의 결합을 통해 몰입적인 경험을 창조합니다.",
+      "title_ko": "타이완 국제 다큐멘터리 페스티벌: 섬, 무대가 되다",
+      "summary": "타이완 국제 다큐멘터리 페스티벌은 타이완의 독특한 문화와 이야기를 다큐멘터리 형식을 통해 세계에 소개합니다.",
+      "url": "https://filmmakermagazine.com/133839-taiwan-international-documentary-festival-2026/",
+      "source": "Filmmaker Magazine",
+      "domain": "FILM",
+      "category": "페스티벌",
+      "creator_name": "Ai Weiwei",
+      "creator_insight": "예술은 사회의 문제와 마주하는 도구이며, 우리는 이를 통해 현실을 반영하고 변화시킬 수 있습니다.",
       "tags": [
-        "비디오게임",
-        "공포"
+        "다큐멘터리",
+        "영화제",
+        "문화",
+        "타이완"
       ],
-      "execution_techniques": [
-        "#GameDesign"
-      ],
-      "why": "멕시코의 풍부한 문화 유산을 탐색하며 게임 산업에 새로운 영감을 줍니다.",
-      "depth": 0.95,
-      "image": "https://cdn.80.lv/api/upload/post/41090/images/6a6c0376c742a/cover_800x800.jpg",
-      "pub_date": "2026-06-10T08:00:00.000000"
+      "why": "타이완 국제 다큐멘터리 페스티벌은 타이완의 독특한 문화와 이야기를 다큐멘터리 형식으로 세계에 소개하여 지역적 정체성을 글로벌 무대에 올리는 전략을 취했다. 이는 다큐멘터리라는 형식을 통해 시청자에게 문화적 깊이를 전달하려는 의도가 담겨있다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/06/shi_lun_ti_gong_zhang_zhao_tang_pai_she_li_guang_hui_ke_zuo_wei_ju_zhao__0-940x400.jpg",
+      "pub_date": "2026-06-09T20:00:01+00:00",
+      "title_en": "",
+      "title": "타이완 국제 다큐멘터리 페스티벌: 섬, 무대가 되다",
+      "content": "타이완 국제 다큐멘터리 페스티벌은 타이완의 독특한 문화와 이야기를 다큐멘터리 형식을 통해 세계에 소개합니다."
     },
     {
-      "title": "페르난도 알론소를 위한 헌정 벽화",
-      "content": "아스톤 마틴 F1은 스페인 바르셀로나 그랑프리 기간에 주력 드라이버인 페르난도 알론소에게 경의를 표하기 위해 벽화를 의뢰했습니다.",
-      "url": "https://www.streetartbcn.com/tribute-to-fernando-alonso-for-aston-martin-f1-by-fert-one/",
-      "source": "Street Art Barcelona",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Fert One",
-      "creator_insight": "Fert One은 페르난도 알론소의 업적과 열정을 시각적으로 표현합니다.",
-      "tags": [
-        "스포츠",
-        "스트리트 아트"
-      ],
-      "execution_techniques": [
-        "#StreetArt"
-      ],
-      "why": "운동 선수에게 경의를 표하는 예술 프로젝트로, 스포츠와 예술의 만남을 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://www.streetartbcn.com/wp-content/uploads/2025/09/Need_to_know_Spain_mural_2.jpg",
-      "pub_date": "2026-06-10T08:00:00.000000"
-    },
-    {
-      "title": "유머 넘치는 그림자 작품",
-      "content": "예술가 Vincent Bal은 그림자들을 활용하여 독창적이고 유머러스한 형태의 예술 작품을 창조합니다.",
-      "url": "https://www.fubiz.net/2023/01/10/amusing-pieces-made-with-shadows-3/",
-      "source": "Fubiz",
+      "title_ko": "기거의 유산에서 영감을 받은 디스플레이 세리프 타이포그래피 디자인",
+      "summary": "포스+백 스튜디오는 H.R. 기거의 제노모프에서 영감을 받아 드롤이라는 디스플레이 세리프 타이포그래피 디자인을 출시했습니다. 이 디자인은 200페이지의 타이포그래피 견본 책에 소개됩니다.",
+      "url": "https://abduzeedo.com/display-serif-typeface-design-inspired-gigers-legacy/",
+      "source": "Abduzeedo",
       "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Vincent Bal",
-      "creator_insight": "Vincent Bal은 일상적인 물체와 그림자를 창의적으로 결합하여 유머를 더합니다.",
+      "category": "디자인",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 단순히 아름다움을 넘어서, 의미 있는 변화를 만들어낼 수 있는 능력을 가지고 있습니다.",
       "tags": [
-        "예술",
+        "타이포그래피",
+        "디자인",
+        "기거",
+        "유산"
+      ],
+      "why": "포스+백 스튜디오는 H.R. 기거의 제노모프에서 영감을 받아 드롤이라는 디스플레이 세리프 타이포그래피를 개발했습니다. 이 작업은 공포와 신비감을 시각적 형태로 구현하여, 타이포그래피 디자인의 새로운 가능성을 탐색합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-06-09T13:03:18+00:00",
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_drool-type-specimen-forthback-studio_0.jpg",
+      "title_en": "",
+      "title": "기거의 유산에서 영감을 받은 디스플레이 세리프 타이포그래피 디자인",
+      "content": "포스+백 스튜디오는 H.R. 기거의 제노모프에서 영감을 받아 드롤이라는 디스플레이 세리프 타이포그래피 디자인을 출시했습니다. 이 디자인은 200페이지의 타이포그래피 견본 책에 소개됩니다."
+    },
+    {
+      "title_ko": "아마니타 디자인이 종이와 3D 프로그램으로 전체 게임을 만든 방법",
+      "summary": "체코 게임 스튜디오 아마니타 디자인은 종이와 3D 프로그램을 사용하여 새로운 게임을 제작했습니다. 이 프로젝트는 창의적인 일러스트레이션과 그래픽 디자인을 결합합니다.",
+      "url": "https://www.itsnicethat.com/features/amanita-design-phonopolis-illustration-graphic-design-project-090626",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "프로젝트",
+      "creator_name": "아마니타 디자인",
+      "creator_insight": "디지털과 아날로그의 경계를 허물다.",
+      "tags": [
+        "게임",
+        "디자인",
+        "일러스트레이션",
         "창의성"
       ],
-      "execution_techniques": [
-        "#ShadowArt"
-      ],
-      "why": "일상의 간과하기 쉬운 한 순간을 새롭게 보게 만듭니다.",
-      "depth": 0.95,
-      "image": "https://www.fubiz.net/wp-content/uploads/2022/01/VB6.jpg",
-      "pub_date": "2026-06-10T08:00:00.000000"
+      "why": "아마니타 디자인은 종이와 3D 프로그램을 결합하여 게임을 제작, 아날로그와 디지털의 경계를 허물었습니다. 창의적인 일러스트레이션과 그래픽 디자인을 통해 게임 내러티브를 시각적으로 풍부하게 표현합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-06-09T08:00:00+00:00",
+      "image": "https://www.itsnicethat.com/images/social.jpg",
+      "title_en": "",
+      "title": "아마니타 디자인이 종이와 3D 프로그램으로 전체 게임을 만든 방법",
+      "content": "체코 게임 스튜디오 아마니타 디자인은 종이와 3D 프로그램을 사용하여 새로운 게임을 제작했습니다. 이 프로젝트는 창의적인 일러스트레이션과 그래픽 디자인을 결합합니다."
     },
     {
-      "title": "William N. Copley의 'X-Rated' 전시",
-      "content": "베를린의 Galerie Max Hetzler에서는 William N. Copley의 'X-Rated' 시리즈를 전시 중입니다. 이 시리즈는 1972-1974년 사이에 작업된 작품들을 다루고 있습니다.",
-      "url": "https://www.juxtapoz.com/news/painting/william-n-copley-x-rated-1972-1974-galerie-max-hetzler-berlin/",
-      "source": "Juxtapoz",
+      "title_ko": "포용적 뷰티 패키징: 멜라보디 비주얼 시스템",
+      "summary": "딜런 시도인의 멜라보디 프로젝트는 멜라닌이 풍부한 스킨케어를 위한 포용적 뷰티 패키징을 제시하며, 병들을 촉각적인 조각품으로 변모시킵니다.",
+      "url": "https://abduzeedo.com/inclusive-beauty-packaging-melabody-visual-system/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "디자인",
+      "creator_name": "딜런 시도인",
+      "creator_insight": "포용성은 디자인의 핵심이다.",
+      "tags": [
+        "뷰티",
+        "디자인",
+        "포용성",
+        "스킨케어"
+      ],
+      "why": "멜라보디 프로젝트는 멜라닌이 풍부한 스킨케어를 위한 포용적 패키징을 통해 사회적 포용성을 촉각적 디자인으로 구체화했다. 이는 사용자 경험을 혁신적으로 변화시키려는 의도로, 병들을 촉각적인 조각품으로 변모시켰다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "pub_date": "2026-06-08T22:09:12+00:00",
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_melabody-bodycare-packaging-design-dylan-sidoine.jpg",
+      "title_en": "",
+      "title": "포용적 뷰티 패키징: 멜라보디 비주얼 시스템",
+      "content": "딜런 시도인의 멜라보디 프로젝트는 멜라닌이 풍부한 스킨케어를 위한 포용적 뷰티 패키징을 제시하며, 병들을 촉각적인 조각품으로 변모시킵니다."
+    },
+    {
+      "title_ko": "마커스 바토의 마이클 잭슨을 위한 파운드-푸티지 기념비",
+      "summary": "마커스 바토는 마이클 잭슨에게 바치는 감성적인 기념비를 유튜브의 파운드-푸티지로 제작했습니다.",
+      "url": "https://filmmakermagazine.com/133819-marcus-batto-michael-jackson-memorial/",
+      "source": "Filmmaker Magazine",
+      "domain": "FILM",
+      "category": "기념비",
+      "creator_name": "마커스 바토",
+      "creator_insight": "기억은 영상으로 영원히 남는다.",
+      "tags": [
+        "마이클 잭슨",
+        "영상",
+        "기념비",
+        "감성"
+      ],
+      "why": "마이클 잭슨을 기리는 이 작품은 음악적 유산을 영상으로 재조명하며, 감성적인 연결을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/06/HOLMBY_NIGHT-940x400.jpg",
+      "pub_date": "2026-06-02T20:36:47+00:00",
+      "title_en": "",
+      "title": "마커스 바토의 마이클 잭슨을 위한 파운드-푸티지 기념비",
+      "content": "마커스 바토는 마이클 잭슨에게 바치는 감성적인 기념비를 유튜브의 파운드-푸티지로 제작했습니다."
+    },
+    {
+      "title_ko": "춤추는 무도회에서 그 이후까지, 이 책은 퀴어 나이트라이프의 필터 없는 사진 역사입니다",
+      "summary": "Sex, Clubs, Dissent는 쉽게 분류되거나 읽히지 않는 퀴어 이미지 제작에 대한 환상적인 탐구입니다. 대신, 그것은 그 다원성에 기뻐합니다.",
+      "url": "https://www.itsnicethat.com/articles/amelia-abraham-sex-clubs-dissent-mack-photography-publication-project-100626",
+      "source": "It's Nice That",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "William N. Copley",
-      "creator_insight": "Copley는 자신의 작품을 통해 개방성과 탐험 정신을 강조합니다.",
+      "category": "사진",
+      "creator_name": "Nan Goldin",
+      "creator_insight": "예술은 모든 것을 치유할 수 있는 힘이 있다고 생각합니다. 그것은 우리를 더 강하게 만들고, 우리에게 자유를 줄 수 있습니다.",
       "tags": [
-        "예술",
-        "전시"
-      ],
-      "execution_techniques": [
-        "#PopArt"
-      ],
-      "why": "1970년대의 문화와 예술적 시도가 만나 생긴 작품들로, 오늘날에도 그 의미를 찾아볼 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://www.juxtapoz.com/media/k2/items/cache/fe3ae852da4c9b4899a335d0e4574387_L.jpg",
-      "pub_date": "2026-06-10T08:00:00.000000"
-    },
-    {
-      "title": "Diane Arbus 작품의 미적 탐구",
-      "content": "Diane Arbus는 사진을 강력한 서사로 화한 특유의 방식으로 유명합니다. 그녀의 작품은 당시의 사회적 이슈와 인간 심리에 대한 심오한 통찰을 제공합니다.",
-      "url": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-cheimread/usr/images/artworks/main_image/items/c8/c8bcc4f607f3441d8fa8bea1e85a1aea/ar.15869.41.jpg",
-      "source": "Unknown Source",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Diane Arbus",
-      "creator_insight": "아르버스는 독특한 인물 사진을 통해 인간의 심리와 사회의 어두운 면을 드러냅니다.",
-      "tags": [
-        "사진",
-        "심리"
-      ],
-      "execution_techniques": [
-        "#Photography"
-      ],
-      "why": "초기 시대에는 덜 주목받았으나, 현대에 와서는 그녀의 작품의 가치와 영향을 재조명하고 있습니다.",
-      "depth": 0.95,
-      "image": "https://cheimread.comhttps://static-assets.artlogic.net/w_1000,h_1000,c_limit,f_auto,fl_lossy,q_auto,dpr_auto/artlogicstorage/cheimread/images/view//usr/images/artworks/main_image/items/c8/c8bcc4f607f3441d8fa8bea1e85a1aea/ar.15869.41.jpg.gif",
-      "pub_date": "2026-06-10T08:00:00.000000"
-    },
-    {
-      "title": "카페 파리에서의 추억: 빛과 시가 머무는 공간",
-      "content": "페르우 거리의 돌담에 아르튀르 랭보의 시가 새겨져 있는 이곳은 문학 애호가들의 명소로, 랭보의 시적 감성을 만날 수 있습니다.",
-      "url": "https://blog.naver.com/justina75/224330968207?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "아르튀르 랭보",
-      "creator_insight": "랭보는 파리의 거리 풍경에 그의 시적 소울을 새겨놓았습니다.",
-      "tags": [
-        "문학",
-        "추억"
-      ],
-      "execution_techniques": [
-        "#Poetry"
-      ],
-      "why": "문학적 감정과 대도시 풍경의 만남이 인상적입니다.",
-      "depth": 0.95,
-      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjlfNDAg/MDAxNzgyNzE3OTk4NDYw._ukdOY2mt2u9JuO4-bwmdDHcj6Ugag0rt7frEk_Nv6og.SO0grQQmzrvYKGHy0BswJEh7P_jc2VBIM1tWojUcI7kg.JPEG/900_Screenshot_20260629_092340_NAVER.jpg?type=s3",
-      "pub_date": "2026-06-10T08:00:00.000000"
-    },
-    {
-      "title": "Annelies Štrba의 꽃",
-      "content": "Annelies Štrba의 작품은 시적이고 비현실적인 분위기를 담고 있으며, 그녀의 작품은 미학적 아름다움과 감정의 깊이를 동시에 전달합니다.",
-      "url": "https://strba.ch/2025/10/10/blumen-fur-die-madonna/",
-      "source": "strba.ch",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Annelies Štrba",
-      "creator_insight": "Štrba는 그녀의 작품을 통해 인간 경험의 다각적 측면을 탐구합니다.",
-      "tags": [
-        "예술",
-        "포토"
-      ],
-      "execution_techniques": [
-        "#PhotoArt"
-      ],
-      "why": "사적이며 동시에 보편적인 주제를 다루는 작품으로 관람자에게 깊은 인상을 남깁니다.",
-      "depth": 0.95,
-      "image": "https://strba.ch/wp-content/uploads/2025/10/galerie-einladungskarte-2025-a5-annelies-strba-klein-800x.jpg",
-      "pub_date": "2026-06-10T08:00:00.000000"
-    },
-    {
-      "title": "The Shudder Palace 전시회",
-      "content": "마그다레나 비소츠카와 클라우디오 포고를 포함한 16명의 예술가들이 제네바 사진 센터에서 'The Shudder Palace'에 참가합니다. 이 전시는 사진 이미지를 현실의 기록으로 보기보다 유동적이고 불안정한 것으로 다룹니다.",
-      "url": "https://opendoors.gallery/the-shudder-palace-exhibition",
-      "source": "opendoors.gallery",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Danaé Panchaud",
-      "creator_insight": "Danaé Panchaud는 사진을 통해 현실을 재구성하고 그 유동성을 강조합니다.",
-      "tags": [
-        "예술",
+        "퀴어",
+        "나이트라이프",
         "사진"
       ],
-      "execution_techniques": [
-        "#PhotographyExhibition"
+      "why": "퀴어 문화와 나이트라이프의 역사를 사진으로 기록한 중요한 작품으로, 현대 사회의 다양성과 포용성을 조명합니다.",
+      "social_proof": "다양한 관점에서 퀴어 문화를 조명한 작품으로 찬사를 받고 있습니다.",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/xYlraz4mkFwcCfbGDek757Av9SU=/278849/width-1440/AA_SexClubsDissent_9.jpg",
+      "pub_date": "Wed, 10 Jun 2026 08:00:00 GMT",
+      "title_en": "",
+      "title": "춤추는 무도회에서 그 이후까지, 이 책은 퀴어 나이트라이프의 필터 없는 사진 역사입니다",
+      "content": "Sex, Clubs, Dissent는 쉽게 분류되거나 읽히지 않는 퀴어 이미지 제작에 대한 환상적인 탐구입니다. 대신, 그것은 그 다원성에 기뻐합니다."
+    },
+    {
+      "title_ko": "Matthew Prebeg: 놀이를 우선시하는 예술가, 기술자, 연구자",
+      "summary": "다양한 재료와 형식을 넘나드는 작업을 하는 Matthew Prebeg는 기술이 우리의 인식과 상호작용 방식을 어떻게 변화시키는지에 관심이 많습니다.",
+      "url": "https://thecreativeindependent.com/people/artist-technologist-and-researcher-matthew-prebeg-on-prioritizing-play/",
+      "source": "Creative Independent",
+      "domain": "ART",
+      "category": "인터뷰",
+      "creator_name": "Matthew Prebeg",
+      "creator_insight": "기술이 우리의 인식과 상호작용 방식을 변화시키는 방식에 늘 관심이 많습니다.",
+      "tags": [
+        "기술",
+        "예술",
+        "놀이"
       ],
-      "why": "사진 이미지의 새로운 관점을 제공하며, 디지털 시대의 미디어에 대한 비판적 시각을 제시합니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-06-10T08:00:00.000000"
+      "why": "기술과 예술의 융합을 통해 현대 사회의 상호작용 방식을 탐구하는 흥미로운 인터뷰입니다.",
+      "social_proof": "기술과 예술의 경계를 허무는 작업으로 주목받고 있습니다.",
+      "depth": 0.85,
+      "pub_date": "2026-06-12T00:00:00-04:00",
+      "image": "https://cdn.fs.thecreativeindependent.com/u7qns2wQTgCff4BC7m4v",
+      "title_en": "",
+      "title": "Matthew Prebeg: 놀이를 우선시하는 예술가, 기술자, 연구자",
+      "content": "다양한 재료와 형식을 넘나드는 작업을 하는 Matthew Prebeg는 기술이 우리의 인식과 상호작용 방식을 어떻게 변화시키는지에 관심이 많습니다."
+    },
+    {
+      "title_ko": "Polina Ganz: 취약성의 창조적 힘",
+      "summary": "파리에서의 정규 교육이 그녀의 예술적 실천에 어떻게 영향을 미쳤는지에 대한 이야기입니다.",
+      "url": "https://thecreativeindependent.com/people/photographer-polina-ganz-on-the-creative-power-of-vulnerability/",
+      "source": "Creative Independent",
+      "domain": "PHOTOGRAPHY",
+      "category": "인터뷰",
+      "creator_name": "Polina Ganz",
+      "creator_insight": "취약성을 인정하는 것이 창조적 과정에 얼마나 중요한지에 대해 이야기합니다.",
+      "tags": [
+        "사진",
+        "취약성",
+        "창조"
+      ],
+      "why": "취약성을 통해 창조적 과정을 탐구하는 사진작가의 통찰을 제공합니다.",
+      "social_proof": "취약성을 인정하는 것이 창조적 과정에 얼마나 중요한지에 대해 많은 이들에게 영감을 주고 있습니다.",
+      "depth": 0.85,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/rEfHbWE9QKiBdYHQ8vJu",
+      "pub_date": "2026-06-09T03:00:00-04:00",
+      "title_en": "",
+      "title": "Polina Ganz: 취약성의 창조적 힘",
+      "content": "파리에서의 정규 교육이 그녀의 예술적 실천에 어떻게 영향을 미쳤는지에 대한 이야기입니다."
+    },
+    {
+      "title_ko": "Carla Dal Forno: 취약성을 수용하다",
+      "summary": "음악이 사적인 공간이면서도 공개될 것이라는 사실을 인식하는 공간이기도 하다는 이야기를 나눕니다.",
+      "url": "https://thecreativeindependent.com/people/musician-carla-dal-forno-on-embracing-vulnerability/",
+      "source": "Creative Independent",
+      "domain": "MUSIC",
+      "category": "인터뷰",
+      "creator_name": "Carla Dal Forno",
+      "creator_insight": "음악은 사적인 공간이면서도 공개될 것이라는 사실을 인식하는 공간입니다.",
+      "tags": [
+        "음악",
+        "취약성",
+        "창조"
+      ],
+      "why": "음악을 통해 개인의 취약성을 탐구하는 과정에 대한 깊이 있는 통찰을 제공합니다.",
+      "social_proof": "음악을 통해 감정과 취약성을 표현하는 능력으로 찬사를 받고 있습니다.",
+      "depth": 0.85,
+      "pub_date": "2026-06-08T03:00:00-04:00",
+      "image": "https://cdn.fs.thecreativeindependent.com/pQCOfwP3SkKd3cUDUecM",
+      "title_en": "",
+      "title": "Carla Dal Forno: 취약성을 수용하다",
+      "content": "음악이 사적인 공간이면서도 공개될 것이라는 사실을 인식하는 공간이기도 하다는 이야기를 나눕니다."
+    },
+    {
+      "title_ko": "Jena Malone: 우리는 단지 인간일 뿐임을 받아들이다",
+      "summary": "자연스럽게 일이 풀리는 것을 사랑한다는 그녀의 철학을 공유합니다.",
+      "url": "https://thecreativeindependent.com/people/actor-photographer-and-musician-jena-malone-on-accepting-that-were-only-human/",
+      "source": "Creative Independent",
+      "domain": "ART",
+      "category": "인터뷰",
+      "creator_name": "Jena Malone",
+      "creator_insight": "자연스럽게 일이 풀리는 것을 사랑합니다.",
+      "tags": [
+        "인간성",
+        "자연",
+        "수용"
+      ],
+      "why": "인간으로서의 한계를 인정하고 자연스러움을 수용하는 그녀의 철학을 통해 많은 이들에게 영감을 줍니다.",
+      "social_proof": "인간의 본질을 탐구하는 그녀의 접근 방식이 많은 이들에게 감동을 주고 있습니다.",
+      "depth": 0.85,
+      "pub_date": "2026-06-03T03:00:00-04:00",
+      "image": "https://cdn.fs.thecreativeindependent.com/F6xJwWfpROyCoYA3JwRa",
+      "title_en": "",
+      "title": "Jena Malone: 우리는 단지 인간일 뿐임을 받아들이다",
+      "content": "자연스럽게 일이 풀리는 것을 사랑한다는 그녀의 철학을 공유합니다."
+    },
+    {
+      "title_ko": "Tadashi Kawamata: 자연과의 대화",
+      "summary": "Tadashi Kawamata는 1970년대 후반부터 구조물에 유기적으로 자라난 것처럼 보이는 목재 축적물을 사용하여 일시적인 설치물을 만들어왔습니다.",
+      "url": "https://www.ignant.com/2026/04/29/tadashi-kawamata-leads-ruinarts-latest-conversation-with-nature/",
+      "source": "ignant.com",
+      "domain": "ART",
+      "category": "설치미술",
+      "creator_name": "Tadashi Kawamata",
+      "creator_insight": "자연과의 대화를 통해 예술의 새로운 가능성을 탐구합니다.",
+      "tags": [
+        "설치미술",
+        "자연",
+        "예술"
+      ],
+      "why": "자연과의 대화를 통해 예술의 새로운 가능성을 탐구하는 그의 작업은 지속 가능성과 예술의 융합을 보여줍니다.",
+      "social_proof": "자연과 예술의 경계를 허무는 작업으로 찬사를 받고 있습니다.",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/kv-cmjn-a4-horiz-hd-720x509.jpg",
+      "pub_date": "Wed, 29 Apr 2026 11:04:07 +0000",
+      "title_en": "",
+      "title": "Tadashi Kawamata: 자연과의 대화",
+      "content": "Tadashi Kawamata는 1970년대 후반부터 구조물에 유기적으로 자라난 것처럼 보이는 목재 축적물을 사용하여 일시적인 설치물을 만들어왔습니다."
     }
   ],
   "items": [],
@@ -253,49 +304,73 @@
   ],
   "popcorn": [
     {
-      "title": "블로그 수익화와 유튜브 쇼츠에서 AI의 역할",
-      "content": "최근 AI Agent를 활용해 블로그와 유튜브 쇼츠를 자동으로 제작하는 방법이 화제가 되고 있습니다.",
-      "url": "https://blog.naver.com/nkj2001/223982790267?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
+      "title_ko": "새로운 감각 The Sound Of Taste",
+      "summary": "맛의 새로운 감각이 정말 느껴지는 것 같습니다. 식욕폭팔? 맛의 폭팔? 만화책에서만 보던 '이.. 이맛은?'",
+      "url": "https://honestart.tistory.com/95",
+      "source": "honestart.tistory.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "AI"
+        "맛",
+        "감각",
+        "바이럴"
       ],
-      "why": "AI 활용 사례가 점점 증가하면서 많은 사람들이 이에 대해 관심을 가집니다.",
+      "why": "맛의 감각을 청각적 표현으로 전환하는 'The Sound Of Taste' 프로젝트는 시각과 미각의 경계를 허물며, 감각적 경험을 확장하는 독창적인 시도를 보여줍니다.",
       "depth": 0.5,
-      "image": "https://blogthumb.pstatic.net/MjAyNTA4MjVfMjM0/MDAxNzU2MTAwNjIwMTM5.WBch_gHK3t1Epsd8h7fSzlO7n39yzoYPWsEUwtPw6qcg.eCUdIDV_QmhqiPi_8KVLdQNPc8l0GMmg0skneRQJQnAg.PNG/image.png?type=s3",
-      "pub_date": "2026-06-10T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://t1.daumcdn.net/cfile/tistory/2471F1485405850E23",
+      "pub_date": "Tue, 2 Sep 2014 17:49:50 +0900",
+      "title_en": "",
+      "title": "새로운 감각 The Sound Of Taste",
+      "content": "맛의 새로운 감각이 정말 느껴지는 것 같습니다. 식욕폭팔? 맛의 폭팔? 만화책에서만 보던 '이.. 이맛은?'"
     },
     {
-      "title": "TikTok 슬랭 영향과 브랜드의 실패",
-      "content": "청소년 언어를 이용한 브랜드의 마케팅은 이미 유행이 지난 후에 안전하게 사용할 수 있습니다.",
-      "url": "https://www.creativeboom.com/insight/the-tiktok-slang-trap-why-brands-using-it-are-already-cooked/",
-      "source": "Creative Boom",
+      "title_ko": "초대장 랜덤으로 10 장 모두 배포합니다.",
+      "summary": "티스토리 초대장 10 장 모두 배포합니다. 글을 많이 쓰고 활동을 많이 해서 그런지 초대장을 많이 주네요 랜덤 배포하겠습니다.",
+      "url": "https://honestart.tistory.com/92",
+      "source": "honestart.tistory.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "TikTok"
+        "초대장",
+        "랜덤",
+        "바이럴"
       ],
-      "why": "브랜드의 유행어 활용 실패가 소셜 미디어 상에서 어떻게 조롱의 대상이 되는지를 보여줍니다.",
+      "why": "티스토리 초대장 랜덤 배포는 커뮤니티의 참여를 유도하고 사용자 간의 연결을 강화하려는 전략이다. 이는 초대장을 통해 커뮤니티의 활성화를 도모하려는 의도가 담겨있다.",
       "depth": 0.5,
-      "image": "https://www.creativeboom.com/upload/articles/29/2960475b9ec0fd277be7436e09ce2a266db63ea2_840.jpeg",
-      "pub_date": "2026-06-10T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://t1.daumcdn.net/cfile/tistory/232BEB3B5401762E29",
+      "pub_date": "Sat, 30 Aug 2014 16:00:49 +0900",
+      "title_en": "",
+      "title": "초대장 랜덤으로 10 장 모두 배포합니다.",
+      "content": "티스토리 초대장 10 장 모두 배포합니다. 글을 많이 쓰고 활동을 많이 해서 그런지 초대장을 많이 주네요 랜덤 배포하겠습니다."
     },
     {
-      "title": "마에바시 비엔날레 2026의 웹사이트 공개",
-      "content": "마에바시 비엔날레 2026은 전 세계에 걸쳐 다양한 예술 작품을 선보이며 창의적인 에너지를 발산하고자 합니다.",
-      "url": "https://www.adfwebmagazine.jp/en/art/maebashi-biennale-2026-unveiled-its-official-website/",
-      "source": "ADF Web Magazine",
+      "title_ko": "랜덤 이미지 다운로드 http://10000img.com/",
+      "summary": "10000IMG.COM은 전세계 인터넷상의 수많은 사진들을 자동 수집하여, 버튼을 클릭할때마다 수집된 사진들을 한장씩 랜덤으로 보여줍니다.",
+      "url": "https://honestart.tistory.com/90",
+      "source": "honestart.tistory.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "비엔날레"
+        "이미지",
+        "랜덤",
+        "바이럴"
       ],
-      "why": "예술 애호가들은 이 웹사이트를 통해 비엔날레의 모든 최신 정보를 얻고 싶어할 것입니다.",
+      "why": "10000IMG.COM은 랜덤 이미지 다운로드 서비스를 통해 시각적 자극을 제공하며, 예술적 영감의 원천으로서의 가능성을 탐색합니다. 이는 디지털 아트와 창작의 새로운 접근 방식을 제안합니다.",
       "depth": 0.5,
-      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-maebashi-intl-art-fest-2026-1-212x300.jpg",
-      "pub_date": "2026-06-10T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://t1.daumcdn.net/cfile/tistory/24611E4853FDAE0B14",
+      "pub_date": "Wed, 27 Aug 2014 19:11:09 +0900",
+      "title_en": "",
+      "title": "랜덤 이미지 다운로드 http://10000img.com/",
+      "content": "10000IMG.COM은 전세계 인터넷상의 수많은 사진들을 자동 수집하여, 버튼을 클릭할때마다 수집된 사진들을 한장씩 랜덤으로 보여줍니다."
     }
   ],
   "macro_keywords": [

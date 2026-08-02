@@ -9,291 +9,361 @@
   },
   "topPicks": [
     {
-      "title": "세계적인 디자이너와 함께하는 창의적인 프로젝트",
-      "content": "세계적으로 유명한 디자이너가 참여한 최신 프로젝트는 혁신적이고 창의적인 디자인으로 주목받고 있습니다. 이 프로젝트는 고유한 스타일과 실험적인 기법을 통해 새로운 디자인 경계를 탐색하는 것을 목표로 합니다.",
-      "url": "http://example.com/article1",
-      "source": "Design Magazine",
-      "domain": "디자인",
-      "category": "리뷰",
-      "creator_name": "존 도",
-      "creator_insight": "이 디자이너는 과감한 색상 사용과 미래적인 소재 활용을 통해 독특한 미적 경험을 제공합니다.",
-      "tags": [
-        "디자인",
-        "창의성"
-      ],
-      "execution_techniques": [
-        "#실험적디자인"
-      ],
-      "why": "이 작품은 전통적인 디자인의 경계를 넘어선 독창성을 보여줍니다.",
-      "depth": 0.95,
-      "image": "http://example.com/image1.jpg",
-      "pub_date": "2026-07-15T08:00:00.000000"
-    },
-    {
-      "title": "미래의 아키텍처: 디지털 시대의 건축",
-      "content": "디지털 기술의 발전으로 건축의 개념이 혁신적으로 변화하고 있습니다. 이 기사는 환경에 적응하는 스마트 빌딩을 소개하며 지속가능한 미래를 위한 해결책을 제시합니다.",
-      "url": "http://example.com/article2",
-      "source": "Architecture Today",
-      "domain": "건축",
-      "category": "리뷰",
-      "creator_name": "제인 스미스",
-      "creator_insight": "디지털 혁신을 통해 건축은 더 이상 건물이 아니라 환경과 소통하는 유기체가 되었습니다.",
-      "tags": [
-        "건축",
-        "기술"
-      ],
-      "execution_techniques": [
-        "#디지털건축"
-      ],
-      "why": "이 글은 기술과 건축의 융합이 가져올 수 있는 잠재력을 잘 나타내고 있습니다.",
-      "depth": 0.95,
-      "image": "http://example.com/image2.jpg",
-      "pub_date": "2026-07-15T08:00:00.000000"
-    },
-    {
-      "title": "주말: Zara McIntosh와의 문화적 여정",
-      "content": "대중문화 애호가이자 물리적 미디어의 여왕인 Zara McIntosh가 그녀의 이상적인 주말을 소개합니다. 런던의 다양한 핫스팟들과 그녀의 책 목록에 올라 있는 퀴어 매거진들, 그리고 여름 시즌의 사운드트랙을 엿볼 수 있는 기회를 제공합니다.",
-      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
-      "source": "It's Nice That",
+      "title_ko": "사진작가 존 테스타의 'Wading'",
+      "summary": "존 테스타의 사진 시리즈 'Wading'는 물과 빛의 상호작용을 통해 자연의 신비를 포착합니다. 그의 사진은 일상 속에서 볼 수 있는 순간들을 예술로 승화시킵니다.",
+      "url": "https://www.booooooom.com/2026/07/06/wading-by-photographer-jon-testa/",
+      "source": "Booooooom",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Zara McIntosh의 문화적 통찰력과 직접적으로 연결된 주말 활동.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "런던",
-        "퀴어",
-        "여행"
+        "사진",
+        "자연",
+        "빛"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "디지털 사진"
       ],
-      "why": "런던의 문화를 탐방하는 데 매우 유익한 가이드입니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
-      "pub_date": "2026-07-15T08:00:00.000000"
+      "why": "자연의 순간을 예술로 승화시키는 능력이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/06/Wading_Jon_Testa_1.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "사진작가 존 테스타의 'Wading'",
+      "content": "존 테스타의 사진 시리즈 'Wading'는 물과 빛의 상호작용을 통해 자연의 신비를 포착합니다. 그의 사진은 일상 속에서 볼 수 있는 순간들을 예술로 승화시킵니다."
     },
     {
-      "title": "Present & Correct: 디자이너의 꿈의 문구점",
-      "content": "디자인 애호가의 꿈꾸는 문구점 Present & Correct의 이야기와 그들을 통해 만들어진 독특한 출판물, 그리고 제품에 담긴 이야기들을 Neal Whittington과의 만남에서 만나봅니다.",
-      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
-      "source": "It's Nice That",
+      "title_ko": "트렌스젠더 사람들을 사랑하게 만드는 이야기",
+      "summary": "프라이드 먼스를 기념하여 9개의 대형 초상화가 LGBTQ+ 역사를 반영합니다. 이 작품들은 트랜스젠더 커뮤니티에 대한 사랑과 이해를 촉구합니다.",
+      "url": "https://designobserver.com/if-anybody-knew-trans-people-of-course-theyd-love-them/",
+      "source": "Design Observer",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "디자인의 깊이를 이야기하는 문구점의 독특함.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "문구",
-        "디자인",
-        "창의성"
+        "LGBTQ+",
+        "커뮤니티",
+        "초상화"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "회화"
       ],
-      "why": "디자인에 대한 깊이 있는 통찰을 제공합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
-      "pub_date": "2026-07-15T08:00:00.000000"
+      "why": "사회적 메시지를 담은 예술의 힘을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://designobserver.com/wp-content/uploads/2026/06/44cea562-47c3-314a-f3d2-7e0268cd239f-1-1024x768.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "트렌스젠더 사람들을 사랑하게 만드는 이야기",
+      "content": "프라이드 먼스를 기념하여 9개의 대형 초상화가 LGBTQ+ 역사를 반영합니다. 이 작품들은 트랜스젠더 커뮤니티에 대한 사랑과 이해를 촉구합니다."
     },
     {
-      "title": "ChaChaanTeng의 Heinz 마요네즈 프로젝트",
-      "content": "일본 자판기의 물리적 요소와 음식의 감각적인 요소를 결합한 ChaChaanTeng과 Heinz 마요네즈의 프로젝트를 탐구합니다.",
-      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
-      "source": "It's Nice That",
+      "title_ko": "시각적 사고: 새로운 디자인 언어",
+      "summary": "시각적 사고의 프로모션 포스터는 미니멀리즘과 색채의 조화를 통해 새로운 디자인 언어를 제시합니다. 이 작품은 실버와 시안 색상으로 인쇄된 독특한 미적 감각을 보여줍니다.",
+      "url": "https://www.andrew-townsend.com/Visual-Thinking",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "포스터",
+        "미니멀리즘",
+        "색채"
+      ],
+      "execution_techniques": [
+        "인쇄"
+      ],
+      "why": "색채와 미니멀리즘의 조화가 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://payload.cargocollective.com/1/1/33015/5083496/prt_1362754986.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "시각적 사고: 새로운 디자인 언어",
+      "content": "시각적 사고의 프로모션 포스터는 미니멀리즘과 색채의 조화를 통해 새로운 디자인 언어를 제시합니다. 이 작품은 실버와 시안 색상으로 인쇄된 독특한 미적 감각을 보여줍니다."
+    },
+    {
+      "title_ko": "여름 독서 목록",
+      "summary": "디자이너들이 더 나은 디자이너가 되게 만든 책들을 소개합니다. 이 목록은 디자인 세계에 대한 새로운 시각을 제공합니다.",
+      "url": "https://designobserver.com/your-summer-reading-list/",
+      "source": "Design Observer",
+      "domain": "LITERATURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디자인",
+        "독서",
+        "목록"
+      ],
+      "execution_techniques": [
+        "문헌"
+      ],
+      "why": "다양한 시각을 제공하는 독서 목록이 매력적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://designobserver.com/wp-content/uploads/2026/06/Untitled-design-1024x791.jpeg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "여름 독서 목록",
+      "content": "디자이너들이 더 나은 디자이너가 되게 만든 책들을 소개합니다. 이 목록은 디자인 세계에 대한 새로운 시각을 제공합니다."
+    },
+    {
+      "title_ko": "보충제 포장 디자인: 실험실 미학",
+      "summary": "헬렌 아르키포치키나가 디자인한 보충제 포장은 건강을 위한 실험실 미학을 강조합니다. 클린 그리드 레이아웃과 정밀한 기술 메타데이터 라인이 돋보입니다.",
+      "url": "https://abduzeedo.com/supplement-packaging-design-wellness-branding-lab-aesthetic/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "포장 디자인",
+        "브랜딩",
+        "미학"
+      ],
+      "execution_techniques": [
+        "그래픽 디자인"
+      ],
+      "why": "실험실적 미학을 통해 건강의 미를 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_minimal-supplement-packaging-wellness-branding-helen-arkhipochkina.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "보충제 포장 디자인: 실험실 미학",
+      "content": "헬렌 아르키포치키나가 디자인한 보충제 포장은 건강을 위한 실험실 미학을 강조합니다. 클린 그리드 레이아웃과 정밀한 기술 메타데이터 라인이 돋보입니다."
+    },
+    {
+      "title_ko": "대규모 벽화: 엘리사 캡데빌라의 타리아 극장 오마주",
+      "summary": "엘리사 캡데빌라의 대형 벽화 'Fin de función'은 타리아 극장을 기리기 위해 제작되었습니다. 이 작품은 극장의 기억을 시각화하려는 의도를 가지고 있습니다.",
+      "url": "https://www.streetartbcn.com/mural-de-gran-formato-de-elisa-capdevila-en-homenaje-al-teatro-talia/",
+      "source": "Street Art Barcelona",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "기술과 물리적 감각을 넘나드는 창의적 접근.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "디자인",
-        "마케팅",
-        "푸드"
+        "벽화",
+        "극장",
+        "기억"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "벽화"
       ],
-      "why": "혁신적인 감각을 깨우는 프로젝트입니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
-      "pub_date": "2026-07-15T08:00:00.000000"
+      "why": "과거의 기억을 현재로 소환하는 예술적 시도가 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2026/05/670152598_18099558955964424_8244432673349426291_n.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "대규모 벽화: 엘리사 캡데빌라의 타리아 극장 오마주",
+      "content": "엘리사 캡데빌라의 대형 벽화 'Fin de función'은 타리아 극장을 기리기 위해 제작되었습니다. 이 작품은 극장의 기억을 시각화하려는 의도를 가지고 있습니다."
     },
     {
-      "title": "Karlovy Vary에서의 스파 이클렉틱",
-      "content": "Karlovy Vary 국제 영화제는 점령과 타협, 그리고 생존의 길을 걸어왔습니다. 1946년에 시작된 이 영화제는 1958년 국제 영화 제작자 협회로부터 최고 수준의 국제적인 영향을 갖춘 A 등급 영화제로 지정되었습니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
+      "title_ko": "코트를 캔버스로: 스포츠 그라운드에서의 디자인 실험",
+      "summary": "이웃 농구 코트에서부터 흙으로 만든 테니스 시설까지, 예술가와 건축가들은 도시의 가장 친숙한 공공 공간에서 실험을 진행합니다. 스포츠 그라운드는 디자인의 새로운 무대가 됩니다.",
+      "url": "https://www.designboom.com/art/court-canvas-sports-grounds-design-favorite-public-spaces/",
+      "source": "Designboom",
+      "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "역사적 배경과 그 영향력에 대한 깊이 있는 이해",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "영화제",
-        "역사",
-        "문화"
+        "스포츠",
+        "공공 공간",
+        "디자인"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "건축"
       ],
-      "why": "문화사를 탐험하는 데 유용한 기사입니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-07-15T08:00:00.000000"
+      "why": "스포츠 공간을 새로운 예술적 무대로 전환하는 시도가 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/court-canvas-sports-grounds-design-favorite-public-spaces-designboom-700-500x400-22b08q85r345.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "코트를 캔버스로: 스포츠 그라운드에서의 디자인 실험",
+      "content": "이웃 농구 코트에서부터 흙으로 만든 테니스 시설까지, 예술가와 건축가들은 도시의 가장 친숙한 공공 공간에서 실험을 진행합니다. 스포츠 그라운드는 디자인의 새로운 무대가 됩니다."
     },
     {
-      "title": "테넷 편집으로 본 Jennifer Lame의 여정",
-      "content": "크리스토퍼 놀란의 '테넷' 편집을 담당했던 제니퍼 라임이 그녀의 배경, 그리고 대형 액션 씬을 처리하는 과정에서의 도전과 깨달음을 공유합니다.",
-      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "찜 새롭고 복잡한 프로젝트에 대한 접근법 탐색",
-      "tags": [
-        "영화 편집",
-        "도전",
-        "창의력"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "편집의 예술에 대한 인사이트를 얻을 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
-      "pub_date": "2026-07-15T08:00:00.000000"
-    },
-    {
-      "title": "Sam Neill을 기리며",
-      "content": "Sam Neill과 관련된 추억과 그의 경력에 대해 이야기하는 이 기사는 그가 어떻게 사람들에게 영향을 미쳤는지를 돌아봅니다.",
-      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "삶과 예술에 대한 그의 영향을 돌아볼 수 있는 기회",
-      "tags": [
-        "기념",
-        "영향력",
-        "영화"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "영화계에 많은 영향을 미친 인물에 대한 회고입니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
-      "pub_date": "2026-07-15T08:00:00.000000"
-    },
-    {
-      "title": "꿈을 담은 프랑스 시계 -akteo(악테오)",
-      "content": "akteo 시계는 단순한 시간 기계가 아닌, 꿈과 열정을 상징하는 물건입니다. 프랑스 디자이너 Jean Christophe Mareshal은 오브제를 재치 있게 배열하여 행동을 촉진합니다.",
-      "url": "https://honestart.tistory.com/98",
+      "title_ko": "길레트 - 100년의 헤어 역사",
+      "summary": "길레트의 100년 간의 헤어 역사를 조명하는 이 작품은 브랜드의 역사와 변화를 담고 있습니다. 디자인과 스타일의 변화를 통해 길레트의 진화를 보여줍니다.",
+      "url": "https://honestart.tistory.com/96",
       "source": "honestart.tistory.com",
-      "domain": "ART",
+      "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "단순 제품을 넘어 상징성을 전달하는 디자인 탐구",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "시계",
-        "디자인",
-        "프랑스"
+        "헤어",
+        "역사",
+        "진화"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "브랜드 디자인"
       ],
-      "why": "시계를 디자인 관점에서 바라볼 수 있는 유익한 기회입니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-07-15T08:00:00.000000"
+      "why": "브랜드의 역사를 디자인으로 재조명하는 시도가 눈에 띕니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "길레트 - 100년의 헤어 역사",
+      "content": "길레트의 100년 간의 헤어 역사를 조명하는 이 작품은 브랜드의 역사와 변화를 담고 있습니다. 디자인과 스타일의 변화를 통해 길레트의 진화를 보여줍니다."
     },
     {
-      "title": "Free Range 2026: 신예 사진작가 10명 선정",
-      "content": "Open Doors Gallery는 매년 Free Range에서 선정된 새로운 신예 사진작가 10명을 소개합니다. 이번에는 다양한 졸업 작품들이 한 곳에서 펼쳐집니다.",
-      "url": "https://opendoors.gallery/top-ten",
-      "source": "Open Doors Gallery",
+      "title_ko": "세상을 이해하는 방법",
+      "summary": "개인적인 핸드메이드 프린트를 통해 세상을 이해하는 방법을 탐구합니다. 이 작품은 시각적 스토리텔링을 통해 감정과 사고를 표현합니다.",
+      "url": "https://www.behance.net/gallery/252508551/How-to-Make-Sense-of-the-World",
+      "source": "Behance",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "신예 창작자들의 참신한 관점을 제공",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "사진",
-        "예술",
-        "신인"
+        "프린트",
+        "이해",
+        "스토리텔링"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "핸드메이드"
       ],
-      "why": "독립적인 사진작가들에게 영감을 주는 기사입니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-15T08:00:00.000000"
+      "why": "개인적 경험을 통해 보편적 이야기를 전달하는 방식이 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/d82479252508551.Y3JvcCwxMzQxLDEwNDksMjksMA.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "세상을 이해하는 방법",
+      "content": "개인적인 핸드메이드 프린트를 통해 세상을 이해하는 방법을 탐구합니다. 이 작품은 시각적 스토리텔링을 통해 감정과 사고를 표현합니다."
     },
     {
-      "title": "Photo London 2026: 예술 박람회",
-      "content": "Olympia, Kensington에서 열리는 Photo London 2026에서는 현대 예술가의 독특한 작품들이 전시됩니다. Open Doors Gallery는 이 행사에 여러 작가들과 함께 참여합니다.",
-      "url": "https://opendoors.gallery/photo-london-2026-art-fair",
-      "source": "Open Doors Gallery",
-      "domain": "ART",
+      "title_ko": "파리의 사생활: 이해의 간극",
+      "summary": "사람을 안다고 믿는 것과 실제로 이해하는 것 사이의 간극을 탐구합니다. 타인을 이해하려는 노력의 중요성을 강조합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81652",
+      "source": "Unknown Source",
+      "domain": "LITERATURE",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "다양한 작가들과의 협업을 통한 예술적 경험의 확장.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "사진",
-        "박람회",
-        "현대예술"
+        "이해",
+        "사람",
+        "간극"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "문학"
       ],
-      "why": "국제 예술 박람회를 통해 글로벌 예술의 흐름을 이해할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-15T08:00:00.000000"
+      "why": "타인을 이해하려는 노력의 가치를 다시 한 번 생각하게 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260714133545_ouceqlrg.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "파리의 사생활: 이해의 간극",
+      "content": "사람을 안다고 믿는 것과 실제로 이해하는 것 사이의 간극을 탐구합니다. 타인을 이해하려는 노력의 중요성을 강조합니다."
+    },
+    {
+      "title_ko": "다이스케 타지마의 '무한한 공허': 공허한 미래의 불안",
+      "summary": "다이스케 타지마의 작품은 공허한 미래에 대한 불안을 포착합니다. 그의 독특한 스타일은 현대 사회의 불확실성을 시각적으로 표현합니다.",
+      "url": "https://spoon-tamago.com/daisuke-tajima-infinite-emptiness/?utm_source=rss&utm_medium=rss&utm_campaign=daisuke-tajima-infinite-emptiness",
+      "source": "Spoon & Tamago",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "공허",
+        "불안",
+        "미래"
+      ],
+      "execution_techniques": [
+        "회화"
+      ],
+      "why": "미래의 불확실성을 예술적으로 표현한 점이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/Daisuke-Tajima-Infinite-Emptiness-6-200x150.jpeg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "다이스케 타지마의 '무한한 공허': 공허한 미래의 불안",
+      "content": "다이스케 타지마의 작품은 공허한 미래에 대한 불안을 포착합니다. 그의 독특한 스타일은 현대 사회의 불확실성을 시각적으로 표현합니다."
     }
   ],
   "popcorn": [
     {
-      "title": "바이럴 영상: 새로운 댄스 챌린지",
-      "content": "새로운 댄스 챌린지가 전 세계적으로 인기를 끌고 있습니다.",
-      "url": "http://example.com/popcorn1",
-      "source": "Social Buzz",
+      "title_ko": "시각적 사고: 새로운 디자인 언어",
+      "summary": "시각적 사고의 포스터는 미니멀리즘과 색채의 조화를 통해 새로운 디자인 언어를 제시합니다.",
+      "url": "https://www.andrew-townsend.com/Visual-Thinking",
+      "source": "Andrew Townsend",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "댄스"
+        "디자인",
+        "미니멀리즘"
       ],
-      "why": "이 챌린지는 다양한 문화권의 사람들이 참여하여 빠르게 확산되고 있습니다.",
+      "execution_techniques": [
+        "PopMinimalism",
+        "ColorHarmony"
+      ],
+      "why": "1) 시각적 사고는 새로운 디자인 언어로 주목받고 있습니다. 2) 미니멀리즘과 색채의 조화가 시각적으로 매력적입니다. 3) 디자인과 예술, 시각 문화의 새로운 융합을 보여줍니다.",
       "depth": 0.5,
-      "image": "http://example.com/popcorn1.jpg",
-      "pub_date": "2026-07-15T08:00:00.000000"
+      "image": "https://payload.cargocollective.com/1/1/33015/5083496/prt_1362754986.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "시각적 사고: 새로운 디자인 언어",
+      "content": "시각적 사고의 포스터는 미니멀리즘과 색채의 조화를 통해 새로운 디자인 언어를 제시합니다."
     },
     {
-      "title": "Gillette - 머리카락 100년 역사",
-      "content": "노래를 통해 시대를 표현하고, 화장실 배경의 액세서리와 사진의 결합이 돋보이는 Gillette의 영상. 재미있는 시도입니다.",
-      "url": "https://honestart.tistory.com/96",
-      "source": "honestart.tistory.com",
+      "title_ko": "코트를 캔버스로: 스포츠 그라운드에서의 디자인 실험",
+      "summary": "예술가와 건축가들이 스포츠 그라운드를 새로운 디자인 무대로 실험합니다.",
+      "url": "https://www.designboom.com/art/court-canvas-sports-grounds-design-favorite-public-spaces/",
+      "source": "Designboom",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "바이럴"
+        "스포츠",
+        "공공예술"
       ],
-      "why": "즐거움을 주는 참신한 아이디어의 영상입니다.",
+      "execution_techniques": [
+        "StreetAesthetic",
+        "UrbanDesign"
+      ],
+      "why": "1) 스포츠와 디자인의 경계를 넘나드는 혁신적 프로젝트입니다. 2) 공공 공간의 미적 가치와 사회적 의미를 재조명합니다. 3) 예술, 디자인, 스포츠의 교차점에서 새로운 가능성을 제시합니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
-      "pub_date": "2026-07-15T08:00:00.000000"
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/court-canvas-sports-grounds-design-favorite-public-spaces-designboom-700-500x400-22b08q85r345.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "코트를 캔버스로: 스포츠 그라운드에서의 디자인 실험",
+      "content": "예술가와 건축가들이 스포츠 그라운드를 새로운 디자인 무대로 실험합니다."
     },
     {
-      "title": "Faception Reloaded Tee",
-      "content": "Urban Privacy의 Faception 티셔츠는 여러 가지 그래픽을 사용하여 얼굴 인식 시스템을 혼란스럽게 만듭니다. 100% 유기농 면으로 주문 제작됩니다.",
-      "url": "https://coolhunting.com/buy/faception-reloaded-tee/",
-      "source": "coolhunting.com",
+      "title_ko": "보충제 포장 디자인: 실험실 미학",
+      "summary": "헬렌 아르키포치키나의 보충제 포장은 건강을 위한 실험실 미학을 강조합니다.",
+      "url": "https://abduzeedo.com/supplement-packaging-design-wellness-branding-lab-aesthetic/",
+      "source": "Abduzeedo",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "바이럴"
+        "포장디자인",
+        "건강"
       ],
-      "why": "독특하고 재미있는 접근 방식의 의상입니다.",
+      "execution_techniques": [
+        "LabAesthetic",
+        "CleanGrid"
+      ],
+      "why": "1) 포장 디자인에서 실험실 미학을 활용한 혁신적 접근입니다. 2) 클린 그리드와 정밀한 메타데이터 라인이 시각적 가치를 높입니다. 3) 디자인과 과학의 융합을 통해 새로운 트렌드를 제시합니다.",
       "depth": 0.5,
-      "image": "https://coolhunting.com/wp-content/uploads/2026/07/6B4F4DEC-4E02-46D7-A7E8-577616AA85CB_1_201_a-768x768.jpeg",
-      "pub_date": "2026-07-15T08:00:00.000000"
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_minimal-supplement-packaging-wellness-branding-helen-arkhipochkina.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000",
+      "title_en": "",
+      "title": "보충제 포장 디자인: 실험실 미학",
+      "content": "헬렌 아르키포치키나의 보충제 포장은 건강을 위한 실험실 미학을 강조합니다."
     }
   ],
   "macro_keywords": [

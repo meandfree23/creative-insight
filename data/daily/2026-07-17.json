@@ -9,282 +9,413 @@
   },
   "topPicks": [
     {
-      "title": "플로이드 메이웨더 주니어의 초호화 생활",
-      "content": "플로이드 메이웨더 주니어는 복서 생활에서 무패 기록을 세운 후, 초호화로운 개인 생활로 큰 주목을 받고 있습니다. 2011~2012년 세계 스포츠 스타 소득 순위 1위에 올랐고, 자신의 부를 자랑하는 모습을 SNS에 공개하며 대중을 놀라게 하고 있습니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "플로이드 메이웨더의 화려한 생활상은 그의 스포츠 커리어만큼이나 사람들의 이목을 끌며, 스타로서의 영향력을 잘 보여줍니다.",
-      "tags": [
-        "Lifestyle",
-        "Boxing"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "메이웨더의 개인 생활은 그의 성공만큼이나 큰 관심을 받고 있습니다. 그의 초호화 생활은 독자로 하여금 그의 성공과 부를 한눈에 볼 수 있게 합니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-07-17T08:00:00.000000"
-    },
-    {
-      "title": "아티스트 Edie Fake와의 인터뷰",
-      "content": "Edie Fake는 건축을 주제로 한 작품들로 이미지를 통해 소통하는 아티스트입니다. 그와의 인터뷰는 그의 작업 방식과 창조적 프로세스를 깊이 이해할 수 있는 기회를 제공합니다.",
-      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
-      "source": "Creative Independent",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Edie Fake의 작업은 건축적 요소를 이미지를 통해 표현하며 독자에게 시각적 영감을 줍니다.",
-      "tags": [
-        "Art",
-        "Interview"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "Edie Fake의 독특한 예술적 접근 방식은 독자들에게 시각적 창의성을 자극합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
-      "pub_date": "2026-07-17T08:00:00.000000"
-    },
-    {
-      "title": "프랑스 시계 악테오의 꿈 만을 담다",
-      "content": "악테오 시계는 단순한 시계가 아닌 꿈과 열정을 상징하는 제품입니다. 프랑스 디자이너 Jean Christophe Mareshal에 의해 제작된 이 시계는 세련된 디자인과 높은 내구성을 자랑하며, 사용자에게 꿈을 상기시키는 역할을 합니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "악테오 시계는 그저 시간을 보는 도구가 아닌, 사용자의 꿈과 열정을 상기시키는 의의 있는 제품입니다.",
-      "tags": [
-        "Watch",
-        "Design"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "악테오 시계는 단순한 시계의 역할을 넘어 사용자의 삶에 영감과 의미를 부여하는 특별한 아이템으로 자리 잡고 있습니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-07-17T08:00:00.000000"
-    },
-    {
-      "title": "Ayala Coffee Co.의 촉감 패키징 디자인",
-      "content": "Ayala Coffee Co.는 구조적인 타이포그래피 디자인으로 향수를 자극하는 패키징을 선보입니다. 이 디자인은 고대비와 구조적인 레이아웃을 통해 브랜드 아이덴티티를 강화합니다.",
-      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
+      "title_ko": "Vendetta 서체 견본 북 디자인 레이아웃 타이포그래피",
+      "summary": "브루노 킹은 Vendetta 서체 견본 북 디자인을 탐구합니다. 작품은 인쇄 규모와 역사적 비례를 균형 있게 조화시킵니다.",
+      "url": "https://abduzeedo.com/vendetta-typeface-specimen-book-design-layout-typography/",
       "source": "abduzeedo.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Ayala Coffee Co.의 디자인은 감각적인 경험을 제공하여 소비자가 브랜드에 더욱 흥미를 느끼게 합니다.",
-      "tags": [
-        "Packaging",
-        "Branding"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "촉감을 자극하는 디자인은 소비자에게 브랜드의 이미지를 강하게 남깁니다.",
-      "depth": 0.95,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
-      "pub_date": "2026-07-17T08:00:00.000000"
-    },
-    {
-      "title": "Present & Correct: 그래픽 디자이너의 꿈 같은 문구점",
-      "content": "Present & Correct는 인쇄 에페메라와 문구점 브랜드로, 이제 P&C Additions에서 출판 세계로의 첫 발을 내딛습니다. 공동 창립자 Neal Whittington과의 인터뷰에서 이 인기 브랜드의 시작 이야기와 매력적인 스토리를 전합니다.",
-      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
-      "source": "It's Nice That",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "문구점이 아닌 출판사로서의 새로운 도전을 시작한 Present & Correct의 이야기는 창의성과 호기심을 자극합니다.",
+      "creator_name": "Bruno King",
+      "creator_insight": "",
       "tags": [
-        "Stationery",
-        "Design"
+        "타이포그래피",
+        "디자인",
+        "서체"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "격자 규율"
       ],
-      "why": "독창적이고 매력적인 스토리로 사람들에게 영감을 주는 Present & Correct는 그들만의 독특한 브랜드 가치를 만듭니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
-      "pub_date": "2026-07-17T08:00:00.000000"
+      "why": "타이포그래피의 역사적 맥락을 현대적 디자인으로 풀어내는 점이 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_vendetta-type-specimen-bruno-king.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "Vendetta 서체 견본 북 디자인 레이아웃 타이포그래피",
+      "content": "브루노 킹은 Vendetta 서체 견본 북 디자인을 탐구합니다. 작품은 인쇄 규모와 역사적 비례를 균형 있게 조화시킵니다."
     },
     {
-      "title": "ChaChaanTeng의 Heinz 마요 활성화 프로젝트",
-      "content": "ChaChaanTeng의 Heinz 마요 프로젝트는 일본 자판기의 신체 감각을 탐구하며 에이아이 기반의 음식과 대치합니다.",
-      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
-      "source": "It's Nice That",
+      "title_ko": "럭셔리 가죽 가구: 시대를 초월한 우아함과 장인정신",
+      "summary": "가죽은 우아함, 내구성, 시대를 초월한 세련미를 상징합니다. 자연의 품격이 담긴 가죽 가구는 시간이 지나도 변함없는 아름다움을 보여줍니다.",
+      "url": "https://italydreamdesign.com/en/italian-leather-upholstery/",
+      "source": "Italy Dream Design",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "가구",
+        "럭셔리",
+        "장인정신"
+      ],
+      "execution_techniques": [
+        "가죽 처리"
+      ],
+      "why": "자연 소재의 본질을 고스란히 살린 디자인이 매력적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://italydreamdesign.com/wp-content/uploads/20250606_154825-scaled-e1749217977542.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "럭셔리 가죽 가구: 시대를 초월한 우아함과 장인정신",
+      "content": "가죽은 우아함, 내구성, 시대를 초월한 세련미를 상징합니다. 자연의 품격이 담긴 가죽 가구는 시간이 지나도 변함없는 아름다움을 보여줍니다."
+    },
+    {
+      "title_ko": "앨파인 전통과 불치유를 고급 패션 일러스트로",
+      "summary": "프랑스 일러스트레이터 클라라 베르곤은 산의 마법과 '자매'를 그립니다. 31세에 그녀는 자신의 독특함을 자랑스럽게 생각합니다.",
+      "url": "https://www.creativeboom.com/inspiration/how-clara-bergond-turns-alpine-folklore-and-fire-healing-into-dreamlike-high-fashion-illustration/",
+      "source": "Creative Boom",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "ChaChaanTeng은 음식의 낭만적인 감각을 탐색하고 이를 창의적 방식을 통해 시각적으로 표현합니다.",
+      "creator_name": "Clara Bergoënd",
+      "creator_insight": "",
       "tags": [
-        "Creative",
-        "Design"
+        "일러스트",
+        "전통",
+        "패션"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "고급 일러스트"
       ],
-      "why": "창의성 넘치는 시각적 표현은 음식을 초월한 경험을 제공합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
-      "pub_date": "2026-07-17T08:00:00.000000"
+      "why": "전통과 현대 패션의 독특한 융합이 감탄을 자아냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.creativeboom.com/upload/articles/a1/a1dec0f4c8010da893aae47e89e88cc95857cf8d_840.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "앨파인 전통과 불치유를 고급 패션 일러스트로",
+      "content": "프랑스 일러스트레이터 클라라 베르곤은 산의 마법과 '자매'를 그립니다. 31세에 그녀는 자신의 독특함을 자랑스럽게 생각합니다."
     },
     {
-      "title": "Karlovy Vary 국제 영화제의 역사",
-      "content": "칼로비 바리 국제 영화제는 1946년에 시작하여 정치적 변화와 함께 그 지위를 지켜오며 세계적인 영화제로 자리매김했습니다. 소련의 규제에도 불구하고 현재는 국제적 영화제로서 꾸준한 명성을 유지하고 있습니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
+      "title_ko": "기억하고픈 파리 (feat. 힐데 25선 #24 산 자와 죽은 자의 매듭공간)",
+      "summary": "몽마르뜨 묘지는 다양한 가족 납골당과 유명 인사의 묘가 있어 매력적입니다. 이곳의 정교한 조각과 화려한 석조물은 방문객을 끌어모읍니다.",
+      "url": "https://blog.naver.com/justina75/224330021977?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "이 영화제의 역사는 영화 산업의 정치적, 문화적 영향을 보여주는 중요한 사례입니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "Film",
-        "Festival"
+        "파리",
+        "묘지",
+        "예술"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "조각"
       ],
-      "why": "국제 영화제의 발전사는 영화산업의 변화와 도전들을 조명합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-07-17T08:00:00.000000"
+      "why": "죽음과 삶을 연결하는 공간의 아름다움이 감동적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjhfMTQz/MDAxNzgyNjQ1MjU3MDY2.LWAxUGSoO4GTEOHuX3h2NMtDhf_I71cer_rEI2TkvW4g.-kLH6IevN63Xe1zuPDNKhTHzubRGpfpl3iFestw60S8g.JPEG/900_Screenshot_20260628_130313_Maps.jpg?type=s3",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "기억하고픈 파리 (feat. 힐데 25선 #24 산 자와 죽은 자의 매듭공간)",
+      "content": "몽마르뜨 묘지는 다양한 가족 납골당과 유명 인사의 묘가 있어 매력적입니다. 이곳의 정교한 조각과 화려한 석조물은 방문객을 끌어모읍니다."
     },
     {
-      "title": "Jennifer Lame의 '테넷' 편집 경험",
-      "content": "크리스토퍼 놀란 감독의 '테넷'을 편집하기 위해 고용된 제니퍼 램은 복잡한 카 체이스 장면과 역방향으로 촬영된 싸움 장면을 처리하며 처음에는 상당한 도전에 직면했습니다.",
-      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
+      "title_ko": "‘폭탄 자국이 벽을 다시 바위로 만듭니다’: 예술가 파벨 로츠, 등반을 통해 전쟁을 그리다",
+      "summary": "밝은 수지 홀드는 전쟁 건축의 파편을 집단적 손실의 등반 가능한 지도로 변환합니다. 전쟁의 상처를 예술로 승화시킨 독창적인 작업입니다.",
+      "url": "https://www.designboom.com/art/bomb-scars-wall-rock-artist-pavel-rotts-war-climbing-play/",
+      "source": "Designboom",
+      "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "제니퍼 램은 놀란 감독의 독특한 영화 스타일을 이해하고 이를 시너지 있게 편집한 중요한 피겨입니다.",
+      "creator_name": "Pavel Rotts",
+      "creator_insight": "",
       "tags": [
-        "Film",
-        "Editing"
+        "등반",
+        "전쟁",
+        "예술"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "수지 홀드"
       ],
-      "why": "편집자의 창의적인 도전은 '테넷'의 독특한 영화적 경험을 확립하는 데 큰 역할을 합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
-      "pub_date": "2026-07-17T08:00:00.000000"
+      "why": "전쟁의 흔적을 예술로 승화시키는 작업이 감명 깊습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/pavel-rotts-climbing-a-memory-helsinki-designboom-701-500x400-22b08q85r210.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "‘폭탄 자국이 벽을 다시 바위로 만듭니다’: 예술가 파벨 로츠, 등반을 통해 전쟁을 그리다",
+      "content": "밝은 수지 홀드는 전쟁 건축의 파편을 집단적 손실의 등반 가능한 지도로 변환합니다. 전쟁의 상처를 예술로 승화시킨 독창적인 작업입니다."
     },
     {
-      "title": "인터뷰 매거진 - Jamie Dornan",
-      "content": "많은 사람들이 50가지 그림자 시리즈에서 크리스찬 그레이 역으로 출연한 제이미 도넌에 대한 기대가 큽니다. 그가 어떻게 이 역할을 소화할지에 대한 관심이 집중되고 있습니다.",
-      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
-      "source": "thestylewatcher.wordpress.com",
-      "domain": "DESIGN",
+      "title_ko": "‘나’ 앞의 수식어를 비워두기 [자기소개]",
+      "summary": "자기소개가 앞으로 더 어려워질 것을 예상합니다. 후회는 없다고 말합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81790",
+      "source": "Unknown Source",
+      "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Jamie Dornan의 배우로서의 변신과 역할 이해는 그의 커리어에 큰 변화를 가져올 것입니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "Celebrity",
-        "Film"
+        "자기소개",
+        "정체성",
+        "자기발견"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "내면 탐구"
       ],
-      "why": "그의 연기 변신은 배우로서의 성과와 도전을 잘 나타냅니다.",
-      "depth": 0.95,
-      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
-      "pub_date": "2026-07-17T08:00:00.000000"
+      "why": "자기 자신을 탐구하는 과정에 대한 심오한 시각을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260728200810_vlprngiu.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "‘나’ 앞의 수식어를 비워두기 [자기소개]",
+      "content": "자기소개가 앞으로 더 어려워질 것을 예상합니다. 후회는 없다고 말합니다."
     },
     {
-      "title": "Jamie Dornan: 인터뷰 매거진 탐방",
-      "content": "50가지 그림자 시리즈의 주연 배우 Jamie Dornan에 대한 인터뷰 매거진의 탐방은 그의 연기 경력 및 향후 계획에 대한 통찰을 제공합니다.",
-      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
-      "source": "thestylewatcher.wordpress.com",
-      "domain": "DESIGN",
+      "title_ko": "XO3D, AUAR를 위한 로봇 마이크로팩토리 프레임업",
+      "summary": "영국의 3D 스튜디오 XO3D는 런던의 건설 기술 회사 AUAR를 위한 세련되고 정밀한 런치 캠페인을 선보입니다.",
+      "url": "https://www.stashmedia.tv/xo3d-frames-up-robot-microfactory-for-auar/",
+      "source": "Unknown Source",
+      "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Jamie Dornan의 경력과 그의 흥미로운 경로는 팬들에게 명확한 통찰을 제시합니다.",
+      "creator_name": "XO3D",
+      "creator_insight": "",
       "tags": [
-        "Film",
-        "Interview"
+        "3D 디자인",
+        "건설 기술",
+        "로봇"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "3D 모델링"
       ],
-      "why": "그의 영화 산업에서의 흥미로운 경로는 배우로서의 새로운 차원을 열어줍니다.",
-      "depth": 0.95,
-      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
-      "pub_date": "2026-07-17T08:00:00.000000"
+      "why": "최신 기술을 예술적으로 해석한 점이 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/AUAR-Robot-MicroFactories-launch-film-by-XO3D-STASH-MAGAZINE7-1920x1080.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "XO3D, AUAR를 위한 로봇 마이크로팩토리 프레임업",
+      "content": "영국의 3D 스튜디오 XO3D는 런던의 건설 기술 회사 AUAR를 위한 세련되고 정밀한 런치 캠페인을 선보입니다."
     },
     {
-      "title": "Ayala Coffee Co.의 촉감을 자극하는 패키징",
-      "content": "Ayala Coffee Co.는 촉감 패키징을 통해 소비자에게 독특한 경험을 제공합니다. 구조적 디자인과 대조적인 레이아웃을 활용해 소비자에게 브랜드의 특별한 정체성을 전달합니다.",
-      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
-      "source": "abduzeedo.com",
-      "domain": "DESIGN",
+      "title_ko": "어떤 관계에서 사랑이 유지될 수 있는가 - 동궁 [드라마]",
+      "summary": "어떤 사랑은 구원을 통해 개인을 완성시키고, 어떤 사랑은 어리석은 결과를 초래합니다. 드라마 동궁에서 다양한 사랑의 형태를 탐구합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81807",
+      "source": "Unknown Source",
+      "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Ayala의 패키징은 소비자에게 단순한 제품 이상의 감각적 경험을 제공합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "Packaging",
-        "Branding"
+        "사랑",
+        "관계",
+        "드라마"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "서사 구조"
       ],
-      "why": "촉감 패키징은 브랜드의 정체성을 강화하며 소비자에게 감각적 인상을 남깁니다.",
-      "depth": 0.95,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
-      "pub_date": "2026-07-17T08:00:00.000000"
+      "why": "사랑의 복잡한 감정을 섬세하게 다룬 점이 깊이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260728182631_rnglzgry.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "어떤 관계에서 사랑이 유지될 수 있는가 - 동궁 [드라마]",
+      "content": "어떤 사랑은 구원을 통해 개인을 완성시키고, 어떤 사랑은 어리석은 결과를 초래합니다. 드라마 동궁에서 다양한 사랑의 형태를 탐구합니다."
+    },
+    {
+      "title_ko": "Royal College of Art와 Norwich University of the Arts, 공동 수여 학부 학위 발표",
+      "summary": "2027년 9월부터 Norwich University of the Arts에 위치한 공동 수여 학위를 위한 학부 미술 학생의 학습이 가능합니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/28/royal-college-of-art-and-norwich-university-of-the-arts-announce-jointly-awarded-undergraduate-degrees",
+      "source": "The Art Newspaper",
+      "domain": "EDUCATION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "미술 교육",
+        "학위",
+        "협력"
+      ],
+      "execution_techniques": [
+        "협력 교육"
+      ],
+      "why": "예술 교육의 새로운 가능성을 열어주기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/ddd29e7beeb5e9812b2770df517f1aae35f52866-6686x4457.tif?w=140",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "Royal College of Art와 Norwich University of the Arts, 공동 수여 학부 학위 발표",
+      "content": "2027년 9월부터 Norwich University of the Arts에 위치한 공동 수여 학위를 위한 학부 미술 학생의 학습이 가능합니다."
+    },
+    {
+      "title_ko": "사진인문학 03-심상에 관하여",
+      "summary": "우음도, 2015 심상사진을 마이너 화이트가 주창하였습니다. 표현의 어려움 때문에 한국에서 큰 영향을 미치지 못했습니다.",
+      "url": "https://blog.naver.com/sabids/223758408225?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "사진",
+        "심상",
+        "인문학"
+      ],
+      "execution_techniques": [
+        "심상 표현"
+      ],
+      "why": "사진을 통해 내면의 감정을 탐구하는 점이 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyNTAyMTJfNTEg/MDAxNzM5MzYwMDY3ODY2.vUaTnBgRoubDCDb9DLuswkHsXB5Y0YWSPmjMc_UlM-Eg.8B2RANIpkFHF30FfWJIPPOlqlT8NtOjw3R1cGlgL63kg.JPEG/DSC00004.jpg?type=s3",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "사진인문학 03-심상에 관하여",
+      "content": "우음도, 2015 심상사진을 마이너 화이트가 주창하였습니다. 표현의 어려움 때문에 한국에서 큰 영향을 미치지 못했습니다."
+    },
+    {
+      "title_ko": "11 Best Couches for Families That Like to Lounge, Tested (2026)",
+      "summary": "부모와 아이들이 모두 만족할 수 있는 소파를 소개합니다. 다양한 스타일과 편안함을 갖춘 제품들로 구성되어 있습니다.",
+      "url": "https://www.architecturaldigest.com/story/best-family-couches",
+      "source": "architecturaldigest.com",
+      "domain": "INTERIOR",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "가구",
+        "소파",
+        "가족"
+      ],
+      "execution_techniques": [
+        "제품 테스트"
+      ],
+      "why": "생활 속에서 편안함을 제공하는 디자인이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://media.architecturaldigest.com/photos/685d5f13980299bbb895fd19/master/pass/JA_FLORIDA_001-Edit%20copy.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "11 Best Couches for Families That Like to Lounge, Tested (2026)",
+      "content": "부모와 아이들이 모두 만족할 수 있는 소파를 소개합니다. 다양한 스타일과 편안함을 갖춘 제품들로 구성되어 있습니다."
+    },
+    {
+      "title_ko": "Hermès",
+      "summary": "감독, 애니메이터, 일러스트레이터 Danaé Gosset는 Santiago Carrasquilla와 함께 2022년 봄/여름 캠페인을 감독했습니다. 이 캠페인은 세 가지 상상력이 넘치는 장면으로 구성되어 있습니다.",
+      "url": "https://levineleavitt.com/danae-gosset-hermes/",
+      "source": "levineleavitt.com",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "Danaé Gosset",
+      "creator_insight": "",
+      "tags": [
+        "애니메이션",
+        "패션",
+        "캠페인"
+      ],
+      "execution_techniques": [
+        "창의적 연출"
+      ],
+      "why": "패션과 애니메이션의 융합이 독특하고 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d1pi9etal51zpa.cloudfront.net/wp-content/uploads/2022/10/13133115/Screenshot-2022-06-25-at-22.56.20-300x168.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "Hermès",
+      "content": "감독, 애니메이터, 일러스트레이터 Danaé Gosset는 Santiago Carrasquilla와 함께 2022년 봄/여름 캠페인을 감독했습니다. 이 캠페인은 세 가지 상상력이 넘치는 장면으로 구성되어 있습니다."
+    },
+    {
+      "title_ko": "프레스티지 TV·애니메이션의 새 시대를 열 개발 중인 게임 원작 7선",
+      "summary": "Warhammer 40000, God of War, Assassin's Creed와 같은 게임을 원작으로 한 TV·애니메이션의 새로운 시대가 열립니다. 새로운 미디어 환경에서의 도전에 대한 흥미로운 통찰을 제공합니다.",
+      "url": "https://hypebeast.kr/2026/7/7-most-exciting-video-game-tv-adaptation-in-development-right-now-warhammer-40000-god-of-war-assassins-creed",
+      "source": "Unknown Source",
+      "domain": "ENTERTAINMENT",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "TV",
+        "애니메이션",
+        "게임"
+      ],
+      "execution_techniques": [
+        "미디어 융합"
+      ],
+      "why": "게임과 TV·애니메이션의 융합이 새로운 시도를 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2F7-most-exciting-video-game-tv-adaptation-in-development-right-now-warhammer-40000-god-of-war-assassins-creed-1.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "프레스티지 TV·애니메이션의 새 시대를 열 개발 중인 게임 원작 7선",
+      "content": "Warhammer 40000, God of War, Assassin's Creed와 같은 게임을 원작으로 한 TV·애니메이션의 새로운 시대가 열립니다. 새로운 미디어 환경에서의 도전에 대한 흥미로운 통찰을 제공합니다."
     }
   ],
   "popcorn": [
     {
-      "title": "꿈과 디자이너 Jean Christophe Mareshal이 담긴 시계, 악테오",
-      "content": "악테오 시계는 프랑스 디자이너가 설계한 제품으로, 단순한 시계를 넘어 사용자의 꿈과 열정을 떠올리게 하는 상징적인 역할을 합니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
+      "title_ko": "모텔에서 감성 스테이 리브랜딩, 모키",
+      "summary": "전주의 낡은 모텔이 감성 스테이로 리브랜딩되었습니다. 머무는 공간 자체가 여행의 일부가 되기를 원하는 현대인의 욕구를 반영합니다.",
+      "url": "https://www.designtwoply.com/works/commercial/%eb%aa%a8%ed%85%94%ec%97%90%ec%84%9c-%ec%8a%a4%ed%85%8c%ec%9d%b4%eb%a1%9c-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%eb%aa%a8%ed%82%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25aa%25a8%25ed%2585%2594%25ec%2597%2590%25ec%2584%259c-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25eb%25a1%259c-%25eb%25a6%25ac%25eb%25b8%258c%25eb%259e%259c%25eb%2594%25a9-%25eb%25aa%25a8%25ed%2582%25a4",
+      "source": "Design Two Ply",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "Watch"
+        "리브랜딩",
+        "감성스테이"
       ],
-      "why": "악테오 시계는 그 자체로 예술 작품이며, 사용자에게 항상 꿈을 기억하라는 메시지를 전달합니다.",
+      "execution_techniques": [
+        "StreetAesthetic",
+        "PopMinimalism"
+      ],
+      "why": "(Curators View in Korean: 1) 현대적인 감성 숙박 문화에 대한 트렌디한 접근, 2) 시각적 및 문화적 가치를 통해 감성적 공간 창조, 3) 다른 분야의 리브랜딩 아이디어로 확장 가능)",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-07-17T08:00:00.000000"
+      "image": "https://www.designtwoply.com/wp-content/uploads/2025/10/moki-썸네일사이즈.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "모텔에서 감성 스테이 리브랜딩, 모키",
+      "content": "전주의 낡은 모텔이 감성 스테이로 리브랜딩되었습니다. 머무는 공간 자체가 여행의 일부가 되기를 원하는 현대인의 욕구를 반영합니다."
     },
     {
-      "title": "체험과 인사이트: Jennifer Lame의 '테넷' 편집",
-      "content": "Jennifer Lame이 성공적으로 편집한 '테넷'은 크리스토퍼 놀란 감독의 복잡한 내러티브와 창의적인 연출의 교차점에서 탄생한 작품입니다.",
-      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
-      "source": "Filmmaker Magazine",
+      "title_ko": "XO3D, AUAR를 위한 로봇 마이크로팩토리 프레임업",
+      "summary": "영국의 3D 스튜디오 XO3D는 런던의 건설 기술 회사 AUAR를 위한 세련되고 정밀한 런치 캠페인을 선보입니다.",
+      "url": "https://www.stashmedia.tv/xo3d-frames-up-robot-microfactory-for-auar/",
+      "source": "Stash Media",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "Editing"
+        "로봇",
+        "마이크로팩토리"
       ],
-      "why": "복잡한 편집 도전을 극복한 Jennifer Lame의 성공 사례는 영화 편집의 새로운 차원을 보여줍니다.",
+      "execution_techniques": [
+        "KineticStructure",
+        "TechFusion"
+      ],
+      "why": "(Curators View in Korean: 1) 혁신적인 기술과 디자인의 융합 사례, 2) 시각적으로 매력적이며 신선한 접근, 3) 로봇 및 건축 분야 간의 협업 가능성)",
       "depth": 0.5,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
-      "pub_date": "2026-07-17T08:00:00.000000"
+      "image": "http://www.stashmedia.tv/wp-content/uploads/AUAR-Robot-MicroFactories-launch-film-by-XO3D-STASH-MAGAZINE7-1920x1080.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "XO3D, AUAR를 위한 로봇 마이크로팩토리 프레임업",
+      "content": "영국의 3D 스튜디오 XO3D는 런던의 건설 기술 회사 AUAR를 위한 세련되고 정밀한 런치 캠페인을 선보입니다."
     },
     {
-      "title": "플로이드 메이웨더 주니어의 삶",
-      "content": "플로이드 메이웨더 주니어는 화려한 개인 생활로 많은 관심을 받고 있으며, 그의 재력과 스타로서의 생활은 대중의 큰 관심사입니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title_ko": "프레스티지 TV·애니메이션의 새 시대를 열 개발 중인 게임 원작 7선",
+      "summary": "Warhammer 40000, God of War, Assassin's Creed와 같은 게임을 원작으로 한 TV·애니메이션의 새로운 시대가 열립니다.",
+      "url": "https://hypebeast.kr/2026/7/7-most-exciting-video-game-tv-adaptation-in-development-right-now-warhammer-40000-god-of-war-assassins-creed",
+      "source": "Hypebeast",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "Lifestyle"
+        "게임",
+        "TV애니메이션"
       ],
-      "why": "플로이드 메이웨더의 부와 화려한 생활은 늘 주목을 받으며 팬들에게 끊임없는 화제를 제공하고 있습니다.",
+      "execution_techniques": [
+        "CinematicFusion",
+        "NarrativeExpansion"
+      ],
+      "why": "(Curators View in Korean: 1) 대중 문화의 중심에 있는 게임의 확장 가능성, 2) 스토리텔링과 시각적 표현의 결합, 3) 미디어 간의 창의적 시너지)",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-07-17T08:00:00.000000"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2F7-most-exciting-video-game-tv-adaptation-in-development-right-now-warhammer-40000-god-of-war-assassins-creed-1.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-07-17T08:00:00.000000",
+      "title_en": "",
+      "title": "프레스티지 TV·애니메이션의 새 시대를 열 개발 중인 게임 원작 7선",
+      "content": "Warhammer 40000, God of War, Assassin's Creed와 같은 게임을 원작으로 한 TV·애니메이션의 새로운 시대가 열립니다."
     }
   ],
   "macro_keywords": [

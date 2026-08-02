@@ -9,282 +9,414 @@
   },
   "topPicks": [
     {
-      "title": "주말, 자라 맥킨토시와 함께",
-      "content": "대중문화 전문가이자 물리적 매체의 여왕인 자라 맥킨토시가 그녀의 이상적인 주말을 소개합니다. 그녀는 런던 최고의 장소, 퀴어 잡지 추천 리스트, 그리고 여름 사운드트랙까지 아낌없이 공유합니다.",
-      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
-      "source": "It's Nice That",
-      "domain": "ART",
+      "title_ko": "현대 하이, 온라인 쇼핑을 발견의 행위로 전환하다",
+      "summary": "베이스 디자인이 개발한 현대 하이의 새로운 디지털 플랫폼은 콘텐츠, 문화, 전자 상거래를 융합합니다. 이는 쇼핑을 단순한 구매가 아닌 문화적 경험으로 변화시킵니다.",
+      "url": "https://www.creativereview.co.uk/the-hyundai-hi-online-shopping-app-base-design/",
+      "source": "creativereview.co.uk",
+      "domain": "GENERAL",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "자라 맥킨토시는 대중문화 전문가로서 독자들에게 자신만의 독창적인 세계를 제공하며, 각자의 일상에서 새로운 영감을 얻을 수 있는 방법을 제시합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "대중문화",
-        "주말"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "런던에서 색다른 경험을 하고 싶은 사람들에게 유용한 정보를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
-      "pub_date": "2026-07-13T08:00:00.000000"
-    },
-    {
-      "title": "Present & Correct 이야기",
-      "content": "Present & Correct는 그래픽 디자이너들을 위한 문구점으로, 이들은 출판계에 첫 발을 내딛었습니다. 공동 창립자인 닐 위팅턴과 함께 점포의 전설적인 재고 뒤에 숨겨진 이야기를 탐구합니다.",
-      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
-      "source": "It's Nice That",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "소품 디자인에 대한 깊은 조예를 가진 Neal Whittington는 독창적이고 철학적인 접근으로 학교에서도 배울 수 없는 구어적 디자인을 제시합니다.",
-      "tags": [
-        "문구",
-        "그래픽디자인"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "디자이너를 위한 특별한 문구점의 뒷이야기를 전합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
-      "pub_date": "2026-07-13T08:00:00.000000"
-    },
-    {
-      "title": "테트리스와 같은 페스티벌 - 칼로비 바리",
-      "content": "칼로비 바리 국제영화제는 함락의 역사 속에서도 성장해온 독특한 이야기로 영화관계자들 사이에 큰 여운을 남겼습니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "영화 관계자의 깊은 이해를 바탕으로 한 칼로비 바리의 역사가 흥미롭게 전달됩니다.",
-      "tags": [
-        "영화제",
-        "국제"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "유럽의 전통적 영화제 중 하나로서의 가치와 역사를 탐구합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-07-13T08:00:00.000000"
-    },
-    {
-      "title": "오디세이를 엮다",
-      "content": "크리스토퍼 놀란의 영화 '테넷'에서 편집을 맡은 제니퍼 램은 작은 영화에서 큰 스케일의 영화로의 도전과 도전적 작업 경험을 공유합니다.",
-      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "영화 편집자 제니퍼 램의 창의적인 시각은 대중들에게 영화 제작에 대한 새로운 통찰을 제공합니다.",
-      "tags": [
-        "영화",
-        "편집"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "영화 편집자의 새로운 도전을 통해 영화의 본질을 탐색합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
-      "pub_date": "2026-07-13T08:00:00.000000"
-    },
-    {
-      "title": "에디 페이크, 이미지를 통한 소통",
-      "content": "디자인과 건축에 대한 깊은 열정으로 아키텍처의 매력을 독자들에게 전하는 에디 페이크의 창의적 접근",
-      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
-      "source": "Creative Independent",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "에디 페이크의 작업은 구조물의 의식적 모습을 강조하여 독자에게 영감을 줍니다.",
-      "tags": [
-        "이미지",
-        "건축"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "이미지를 통해 상상력을 자극하는 에디 페이크의 작업을 소개합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
-      "pub_date": "2026-07-13T08:00:00.000000"
-    },
-    {
-      "title": "리턴 오브 더 서퍼 클럽 - 라이디 델릴라",
-      "content": "h.wood 그룹의 디너 클럽과 그들이 모탁에 가져온 라이디 델릴라에 대한 이야기.",
-      "url": "https://coolhunting.com/culture/outside-the-four-walls-delilah-chase-sapphire-reserve-and-the-return-of-the-supper-club/",
-      "source": "coolhunting.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "디너 클럽이라는 포맷을 뉴욕의 밤 문화에 적합하게 되돌리는 지혜로운 경험을 공유합니다.",
-      "tags": [
-        "디너클럽",
+        "디지털",
+        "쇼핑",
         "문화"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "디지털 디자인"
       ],
-      "why": "과거의 클럽 문화를 현대에 어떻게 재해석하는지를 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://coolhunting.com/wp-content/uploads/2026/07/176_Chase-Sapphire-Delilah_Montauk_jermcohen-7.23.2026-768x512.jpg",
-      "pub_date": "2026-07-13T08:00:00.000000"
+      "why": "쇼핑의 새로운 패러다임을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/HiHi-phone-app-100x100.jpg?size=thumbnail",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "현대 하이, 온라인 쇼핑을 발견의 행위로 전환하다",
+      "content": "베이스 디자인이 개발한 현대 하이의 새로운 디지털 플랫폼은 콘텐츠, 문화, 전자 상거래를 융합합니다. 이는 쇼핑을 단순한 구매가 아닌 문화적 경험으로 변화시킵니다."
     },
     {
-      "title": "포티스 마린마스터",
-      "content": "Kim Justin Hell의 고급 시계 사진작가는 스위스 시계 제조사와 협력하여 캠페인 이미지를 완성하며 브랜드의 유산을 강조합니다.",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
-      "source": "productionparadise.com",
-      "domain": "DESIGN",
+      "title_ko": "Editorial Illustration: Bulma의 HBR을 위한 일러스트",
+      "summary": "Bulma Illustrates는 하버드 비즈니스 리뷰를 위한 개념적 편집 일러스트레이션을 제작합니다. 강력한 벡터 레이어를 사용하여 시각적 리듬을 구축합니다.",
+      "url": "https://abduzeedo.com/editorial-illustration-bulma-illustrates-hbr/",
+      "source": "abduzeedo.com",
+      "domain": "GENERAL",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "김 저스틴 헬은 정교한 라이팅과 창의성을 통해 고급 시계와 제품의 본질을 전달합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "시계",
-        "디자인"
+        "일러스트",
+        "편집 디자인",
+        "비즈니스"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "벡터 아트"
       ],
-      "why": "고급 시계 및 제품의 광고 사진을 통해 표현의 정수를 탐구합니다.",
-      "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
-      "pub_date": "2026-07-13T08:00:00.000000"
+      "why": "복잡한 개념을 시각적으로 명확하게 전달합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_editorial-illustrations-harvard-business-review-bulma-illustrates.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "Editorial Illustration: Bulma의 HBR을 위한 일러스트",
+      "content": "Bulma Illustrates는 하버드 비즈니스 리뷰를 위한 개념적 편집 일러스트레이션을 제작합니다. 강력한 벡터 레이어를 사용하여 시각적 리듬을 구축합니다."
     },
     {
-      "title": "36년의 꽃길",
-      "content": "Veronika Janovec은 조각을 통한 폼의 언어로서 전통을 탈피하고 현대성을 강조하는 접근 방식을 보여줍니다.",
-      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
-      "source": "ignant.com",
-      "domain": "DESIGN",
+      "title_ko": "헤르베르트 호프만 상 2026",
+      "summary": "미라 김은 목금 가네 기법과 거의 잊혀진 기요셰 공정을 혁신적으로 결합한 반지로 수상했습니다. 다양한 금속 합금이 섬세하게 구조화된 디자인을 형성합니다.",
+      "url": "https://artaurea.com/2026/herbert-hofmann-preis-2026/",
+      "source": "Art Aurea",
+      "domain": "GENERAL",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "전통적인 조각 기술에 대한 깊은 이해를 바탕으로 새로운 창조적 접근을 제시합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "조각가",
-        "폼"
+        "주얼리",
+        "공예",
+        "혁신"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "목금 가네",
+        "기요셰"
       ],
-      "why": "조각을 통해 시대를 넘은 예술적 표현을 조명합니다.",
-      "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
-      "pub_date": "2026-07-13T08:00:00.000000"
+      "why": "전통 기법에 현대적 해석을 더했습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://artaurea.com/wp-content/uploads/2026/03/Herbert-Hofmann-Preis-2026_Mira-Kim.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "헤르베르트 호프만 상 2026",
+      "content": "미라 김은 목금 가네 기법과 거의 잊혀진 기요셰 공정을 혁신적으로 결합한 반지로 수상했습니다. 다양한 금속 합금이 섬세하게 구조화된 디자인을 형성합니다."
     },
     {
-      "title": "자연과 동경: 알리슨 매컬리",
-      "content": "고가의 원목과 심플한 디자인으로 꾸민 사진집 '집이 있는 삶'에서 알리슨 매컬리가 기록한 여러 장면을 소개합니다.",
-      "url": "https://photoeditions.pub/Main-page",
-      "source": "photobookstore.co.uk",
-      "domain": "PHOTOGRAPHY",
+      "title_ko": "왜 이벤트가 더 중요한가: 장소 만들기, 인플루언서 경험 및 브랜드 협업의 힘",
+      "summary": "이벤트는 현대 브랜드 커뮤니케이션의 가장 강력한 도구 중 하나로 부상하고 있습니다. 물리적 경험은 진정성, 감정적 연결 및 브랜드 충성도를 창출합니다.",
+      "url": "https://designspotter.com/why-events-matter-more-than-ever-the-power-of-placemaking-influencer-experiences-brand-collaborations/",
+      "source": "Unknown Source",
+      "domain": "GENERAL",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "매컬리의 사진 작품은 고된 사랑과 공감으로 가득차 있으며 그 몰입적인 경험은 독자들을 매료시킵니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "사진",
+        "이벤트",
+        "브랜드",
+        "경험"
+      ],
+      "execution_techniques": [
+        "경험 디자인"
+      ],
+      "why": "디지털 시대의 물리적 경험의 중요성을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "왜 이벤트가 더 중요한가: 장소 만들기, 인플루언서 경험 및 브랜드 협업의 힘",
+      "content": "이벤트는 현대 브랜드 커뮤니케이션의 가장 강력한 도구 중 하나로 부상하고 있습니다. 물리적 경험은 진정성, 감정적 연결 및 브랜드 충성도를 창출합니다."
+    },
+    {
+      "title_ko": "이란의 유일한 반 고흐 이야기: '영원의 문에서'",
+      "summary": "미국 부통령이 소유했던 프린트가 샤의 부인에 의해 획득되었고, 현재 테헤란 현대 미술관에 전시되어 있습니다. 이는 문화적 유산의 중요성을 강조합니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/10/irans-van-gogh-at-eternitys-gate",
+      "source": "The Art Newspaper",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "예술사",
+        "반 고흐",
+        "문화유산"
+      ],
+      "execution_techniques": [
+        "역사 연구"
+      ],
+      "why": "문화적 교류의 중요성을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/0374b958a9e402a9792b37bab6fd7ebced9cfea0-1200x1797.heif?w=140",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "이란의 유일한 반 고흐 이야기: '영원의 문에서'",
+      "content": "미국 부통령이 소유했던 프린트가 샤의 부인에 의해 획득되었고, 현재 테헤란 현대 미술관에 전시되어 있습니다. 이는 문화적 유산의 중요성을 강조합니다."
+    },
+    {
+      "title_ko": "보석 디자이너 안나 셰필드, 위치와 경관이 재료에 대한 본질적 이해를 형성하다",
+      "summary": "뉴멕시코 타오스의 스튜디오에서 안나 셰필드는 제작, 사고, 존재의 다양한 방식을 위한 공간을 만듭니다. 그녀의 작업은 자연과 재료의 관계를 탐구합니다.",
+      "url": "https://www.wallpaper.com/watches-jewellery/for-jewellery-designer-anna-sheffield-location-and-landscape-shape-an-innate-understanding-of-materials",
+      "source": "Wallpaper*",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "보석 디자인",
+        "자연",
+        "재료"
+      ],
+      "execution_techniques": [
+        "자연 관찰"
+      ],
+      "why": "자연 환경을 디자인에 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/AmEbqmjoPbLFkSvdG9A4dF-1280-80.gif",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "보석 디자이너 안나 셰필드, 위치와 경관이 재료에 대한 본질적 이해를 형성하다",
+      "content": "뉴멕시코 타오스의 스튜디오에서 안나 셰필드는 제작, 사고, 존재의 다양한 방식을 위한 공간을 만듭니다. 그녀의 작업은 자연과 재료의 관계를 탐구합니다."
+    },
+    {
+      "title_ko": "기타 목소리: 라추차 루드",
+      "summary": "라추차 루드는 자신만의 독특한 스타일로 다양한 목소리를 표현하는 아티스트입니다. 그녀의 작업은 정체성과 커뮤니티에 대한 깊은 이해를 반영합니다.",
+      "url": "https://www.nowness.com/series/other-voices/la-chucha-rude",
+      "source": "Unknown Source",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "정체성",
+        "커뮤니티",
         "예술"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "문화적 탐구"
       ],
-      "why": "고가의 원목 및 예술 제품을 사용한 사진으로 스타일과 감성을 전달합니다.",
-      "depth": 0.95,
-      "image": "https://freight.cargo.site/w/1000/i/b90a1df829c0e7746cc233935270c11ddbf7d29368bb601b0e447742cd4cc73f/MA-R.png",
-      "pub_date": "2026-07-13T08:00:00.000000"
+      "why": "정체성과 커뮤니티를 예술로 표현합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://img.nowness.com/nowness-frontend/8dejAC9nS9eixC5ia6N8_LA%20CHUCHA%20RUDE%20STILL%2011.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "기타 목소리: 라추차 루드",
+      "content": "라추차 루드는 자신만의 독특한 스타일로 다양한 목소리를 표현하는 아티스트입니다. 그녀의 작업은 정체성과 커뮤니티에 대한 깊은 이해를 반영합니다."
     },
     {
-      "title": "최고의 욕실 액세서리",
-      "content": "건축 다이제스트 편집자들이 스컬프처 칫솔 홀더에서 흥미로운 쓰레기통까지 최고로 꼽은 욕실 액세서리를 소개합니다.",
-      "url": "https://www.architecturaldigest.com/story/best-bathroom-accessories",
-      "source": "Architectural Digest",
-      "domain": "SPATIAL",
+      "title_ko": "삶의 의미는 생각보다 가까이에 있었다 - 죽음의 수용소 이후 [도서]",
+      "summary": "빅터 프랭클은 삶의 의미가 멀리 있는 것이 아니라 바로 곁에 있다는 것을 설명합니다. 이는 독자에게 깊은 통찰을 제공합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81609",
+      "source": "Unknown Source",
+      "domain": "GENERAL",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "일상용품에 아트적인 면모를 더하여 평범한 욕실을 멋진 공간으로 재탄생시킵니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "욕실",
-        "액세서리"
+        "철학",
+        "삶의 의미",
+        "독서"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "문학적 해석"
       ],
-      "why": "욕실을 예술적으로 바꿀 수 있는 액세서리를 소개합니다.",
-      "depth": 0.95,
-      "image": "https://media.architecturaldigest.com/photos/68d42b946988e55aa3d597b3/master/pass/AD0921_HART_DN_6.jpg",
-      "pub_date": "2026-07-13T08:00:00.000000"
+      "why": "삶의 깊은 의미를 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260711225129_mgyfeuyt.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "삶의 의미는 생각보다 가까이에 있었다 - 죽음의 수용소 이후 [도서]",
+      "content": "빅터 프랭클은 삶의 의미가 멀리 있는 것이 아니라 바로 곁에 있다는 것을 설명합니다. 이는 독자에게 깊은 통찰을 제공합니다."
     },
     {
-      "title": "(가치 높은 디자인의 핵심 주목) 매년 오픈한 도어에서 새롭게 발견한 창의적 포토그래픽 작품들",
-      "content": "프리 레인지 전시회의 강조점을 중심으로 해마다 문을 여는 갤러리는 더욱 창의적이고 강한 영향을 미치는 포토그래픽 작품들을 선보입니다.",
-      "url": "https://opendoors.gallery/top-ten",
-      "source": "Open Doors Gallery",
-      "domain": "ART",
+      "title_ko": "미인도 13",
+      "summary": "박물관 전시를 통해 미인도의 역사와 미술적 가치를 탐구합니다. 이는 전통 미술에 대한 새로운 이해를 제공합니다.",
+      "url": "https://blog.naver.com/jujukey/222762852512?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "GENERAL",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "포토그래픽 작품의 동향을 통해 현대 예술의 흐름을 조명합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "예술",
-        "포토그래피"
+        "미술",
+        "전통",
+        "역사"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "예술 분석"
       ],
-      "why": "독특한 창의성을 가진 예술가들의 작품을 소개합니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-13T08:00:00.000000"
+      "why": "전통 예술의 현대적 가치 재발견을 촉진합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyMjA2MDdfMTMx/MDAxNjU0NTY5NDgwMTAz.AnY7rgjTe1m5GM1covbKBGTGt1p7wdVwkAqKaRk00Cwg.2Tb91ygilvGqlZLs2vCp2xMDxTlUfOHJVthTT4G4asog.JPEG.jujukey/IMG_8520.jpg?type=s3",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "미인도 13",
+      "content": "박물관 전시를 통해 미인도의 역사와 미술적 가치를 탐구합니다. 이는 전통 미술에 대한 새로운 이해를 제공합니다."
+    },
+    {
+      "title_ko": "1970년대 러너 재해석: 나이키 Moon Shoe OG ‘Leather Pack’, 풀 레더 어퍼로 돌아오다",
+      "summary": "나이키가 1970년대 러너 디자인을 현대적 감각으로 재해석했습니다. 풀 레더 어퍼는 클래식과 현대의 조화를 이룹니다.",
+      "url": "https://hypebeast.kr/2026/7/nike-moon-shoe-og-leather-pack-iu3162-600-iu3162-200-official-images",
+      "source": "Unknown Source",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "패션",
+        "디자인",
+        "레트로"
+      ],
+      "execution_techniques": [
+        "제품 디자인"
+      ],
+      "why": "과거 디자인을 현대적으로 재해석합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2FNike-Moon-Shoe-OG-Leather-Pack-IU3162-600-IU3162-200-Official-Images-0.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "1970년대 러너 재해석: 나이키 Moon Shoe OG ‘Leather Pack’, 풀 레더 어퍼로 돌아오다",
+      "content": "나이키가 1970년대 러너 디자인을 현대적 감각으로 재해석했습니다. 풀 레더 어퍼는 클래식과 현대의 조화를 이룹니다."
+    },
+    {
+      "title_ko": "스케어리 무비와 웨이언즈 패러디 제국",
+      "summary": "웨이언즈 형제의 최신 패러디 작품은 코미디 장르의 새로운 경지를 개척합니다. 이는 대중문화에 대한 날카로운 통찰력을 제공합니다.",
+      "url": "https://filmmakermagazine.com/133895-scary-movie-and-the-wayans-spoof-empire/",
+      "source": "Filmmaker Magazine",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "영화",
+        "코미디",
+        "패러디"
+      ],
+      "execution_techniques": [
+        "영화 제작"
+      ],
+      "why": "코미디 장르의 혁신을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/scary-movie-6a-940x400.webp",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "스케어리 무비와 웨이언즈 패러디 제국",
+      "content": "웨이언즈 형제의 최신 패러디 작품은 코미디 장르의 새로운 경지를 개척합니다. 이는 대중문화에 대한 날카로운 통찰력을 제공합니다."
+    },
+    {
+      "title_ko": "포스트 전쟁 일본, 미국의 퀴즈 문화로 민주주의 촉진",
+      "summary": "일본 최초의 퀴즈 쇼 '하나시노 이즈미' 세트에서 시작된 퀴즈 문화는 오늘날 일본의 상징적인 문화 요소로 자리잡았습니다. 이는 사회적 변화에 기여했습니다.",
+      "url": "https://spoon-tamago.com/united-states-quiz-culture-democratize-japan/?utm_source=rss&utm_medium=rss&utm_campaign=united-states-quiz-culture-democratize-japan",
+      "source": "Spoon & Tamago",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "문화",
+        "퀴즈",
+        "민주주의"
+      ],
+      "execution_techniques": [
+        "문화 분석"
+      ],
+      "why": "퀴즈 문화의 사회적 영향을 조명합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "포스트 전쟁 일본, 미국의 퀴즈 문화로 민주주의 촉진",
+      "content": "일본 최초의 퀴즈 쇼 '하나시노 이즈미' 세트에서 시작된 퀴즈 문화는 오늘날 일본의 상징적인 문화 요소로 자리잡았습니다. 이는 사회적 변화에 기여했습니다."
+    },
+    {
+      "title_ko": "타임랩스, 조슈아 트리 국립공원 위의 하늘 보관소를 드러내다",
+      "summary": "단편 영화 'Moonlight Mojave'는 조슈아 트리 국립공원의 야경을 촬영한 아름다운 타임랩스입니다. 별이 빛나는 하늘이 황홀하게 펼쳐집니다.",
+      "url": "https://www.fubiz.net/2023/01/07/timelapse-unveils-the-sky-vault-over-the-joshua-tree-national-park/",
+      "source": "Fubiz",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "타임랩스",
+        "자연",
+        "영화"
+      ],
+      "execution_techniques": [
+        "촬영 기법"
+      ],
+      "why": "자연의 경이로움을 시각적으로 표현합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.fubiz.net/wp-content/uploads/2022/04/skyglow-1-1536x862.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "타임랩스, 조슈아 트리 국립공원 위의 하늘 보관소를 드러내다",
+      "content": "단편 영화 'Moonlight Mojave'는 조슈아 트리 국립공원의 야경을 촬영한 아름다운 타임랩스입니다. 별이 빛나는 하늘이 황홀하게 펼쳐집니다."
     }
   ],
   "popcorn": [
     {
-      "title": "헤인즈 마요네즈 머신",
-      "content": "ChaChaanTeng과 함께하는 헤인즈 마요네즈 자동판매기 프로젝트는 음식의 낭만화된 감각과 일본 자동판매기의 물리적 특징을 탐구합니다.",
-      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
-      "source": "It's Nice That",
+      "title_ko": "1970년대 러너 재해석: 나이키 Moon Shoe OG ‘Leather Pack’",
+      "summary": "나이키가 1970년대 러너 디자인을 현대적 감각으로 재해석했습니다.",
+      "url": "https://hypebeast.kr/2026/7/nike-moon-shoe-og-leather-pack-iu3162-600-iu3162-200-official-images",
+      "source": "Hypebeast",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "프로젝트"
+        "나이키",
+        "스니커즈"
       ],
-      "why": "독특한 디자인 프로젝트를 통해 소비자가 경험할 수 있는 물리적 상호작용을 제안합니다.",
+      "execution_techniques": [
+        "StreetAesthetic",
+        "PopMinimalism"
+      ],
+      "why": "1) 클래식과 현대의 조화로 스니커즈 팬들에게 인상적입니다. 2) 시각적 매력과 문화적 가치를 동시에 제공합니다. 3) 시대를 초월하는 디자인으로 다양한 분야에 영감을 줍니다.",
       "depth": 0.5,
-      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
-      "pub_date": "2026-07-13T08:00:00.000000"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2FNike-Moon-Shoe-OG-Leather-Pack-IU3162-600-IU3162-200-Official-Images-0.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "1970년대 러너 재해석: 나이키 Moon Shoe OG ‘Leather Pack’",
+      "content": "나이키가 1970년대 러너 디자인을 현대적 감각으로 재해석했습니다."
     },
     {
-      "title": "Floyd Mayweather Jr의 초호화 생활",
-      "content": "23전 23승의 전적을 가진 플로이드 메이웨더 주니어는 세계적인 복서로서 엄청난 부와 명성을 누리며 살아가고 있습니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title_ko": "스케어리 무비와 웨이언즈 패러디 제국",
+      "summary": "웨이언즈 형제의 최신 패러디 작품은 코미디 장르의 새로운 경지를 개척합니다.",
+      "url": "https://filmmakermagazine.com/133895-scary-movie-and-the-wayans-spoof-empire/",
+      "source": "Filmmaker Magazine",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "복서"
+        "영화",
+        "코미디"
       ],
-      "why": "유명인의 사치스러운 생활에 대한 사람들의 흥미와 관심을 불러일으킵니다.",
+      "execution_techniques": [
+        "MemeWorthy",
+        "CulturalParody"
+      ],
+      "why": "1) 대중문화에 대한 날카로운 통찰력을 제공합니다. 2) 코미디 장르의 혁신적인 접근으로 시각적 및 문화적 가치를 높입니다. 3) 다양한 분야에서 창의적 영감을 불러일으킵니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-07-13T08:00:00.000000"
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/scary-movie-6a-940x400.webp",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "스케어리 무비와 웨이언즈 패러디 제국",
+      "content": "웨이언즈 형제의 최신 패러디 작품은 코미디 장르의 새로운 경지를 개척합니다."
     },
     {
-      "title": "금세기 최고의 럭셔리 시계",
-      "content": "프랑스 시계 브랜드 akteo의 혁신적이고 생동감 있는 디자인을 큐레이터가 함께 공유합니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
+      "title_ko": "헤르베르트 호프만 상 2026",
+      "summary": "미라 김은 목금 가네 기법과 거의 잊혀진 기요셰 공정을 혁신적으로 결합한 반지로 수상했습니다.",
+      "url": "https://artaurea.com/2026/herbert-hofmann-preis-2026/",
+      "source": "Art Aurea",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "시계"
+        "디자인",
+        "주얼리"
       ],
-      "why": "디자인과 기능성에서 독특함을 원하는 소비자들에게 매력적인 선택지를 제공합니다.",
+      "execution_techniques": [
+        "CraftRevival",
+        "MetalArtistry"
+      ],
+      "why": "1) 혁신적인 디자인으로 주얼리 업계에서 화제입니다. 2) 전통 기술의 현대적 해석으로 시각적 및 문화적 가치를 제공합니다. 3) 다양한 예술 및 디자인 분야에 영감을 줍니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-07-13T08:00:00.000000"
+      "image": "https://artaurea.com/wp-content/uploads/2026/03/Herbert-Hofmann-Preis-2026_Mira-Kim.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000",
+      "title_en": "",
+      "title": "헤르베르트 호프만 상 2026",
+      "content": "미라 김은 목금 가네 기법과 거의 잊혀진 기요셰 공정을 혁신적으로 결합한 반지로 수상했습니다."
     }
   ],
   "macro_keywords": [

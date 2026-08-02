@@ -9,290 +9,388 @@
   },
   "topPicks": [
     {
-      "title": "7월 2026년 Dezeen 최고의 주택 다섯",
-      "content": "인도의 대가족 주택과 스코틀랜드 시골의 저층 돌 농가 주택 등 다양한 디자인의 주택들이 소개됩니다. 네덜란드의 그리드형 숲 속 주택, 황토로 지은 독특한 구조물도 포함되어 있습니다.",
-      "url": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/",
-      "source": "Dezeen",
-      "domain": "SPATIAL",
-      "category": "리뷰",
-      "creator_name": "Dezeen",
-      "creator_insight": "다양한 스타일과 기능을 결합하여 독창적인 주택 디자인을 창출했습니다.",
+      "title_ko": "다시 한번 더 우리에게, 알 이즈 웰",
+      "summary": "같은 꿈을 꾸던 시간을 회상하며, 가족과 함께 영화를 보던 추억을 되새기는 기사입니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81548",
+      "source": "Art Insight",
+      "domain": "FILM",
+      "category": "Opinion",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "건축",
-        "주택",
+        "영화",
+        "가족",
+        "추억"
+      ],
+      "execution_techniques": [
+        "회상"
+      ],
+      "why": "현대인들이 디지털 시대 속에서 잃어버린 가족 간의 정서적 연결을 회복하고자 하는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260707174941_caueanyz.png",
+      "pub_date": "2026-07-09T08:31:06.427367",
+      "title_en": "",
+      "title": "다시 한번 더 우리에게, 알 이즈 웰",
+      "content": "같은 꿈을 꾸던 시간을 회상하며, 가족과 함께 영화를 보던 추억을 되새기는 기사입니다."
+    },
+    {
+      "title_ko": "세 개의 소설, 세 개의 악",
+      "summary": "정유정 작가의 소설을 통해 현실에서의 악의 존재를 탐구하는 기사입니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81571",
+      "source": "Art Insight",
+      "domain": "LITERATURE",
+      "category": "Opinion",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "소설",
+        "악",
+        "현실"
+      ],
+      "execution_techniques": [
+        "문학적 탐구"
+      ],
+      "why": "현대 사회의 복잡한 문제들을 문학을 통해 탐구하고 이해하려는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260708201857_ftetbnkn.jpg",
+      "pub_date": "2026-07-09T08:31:06.426686",
+      "title_en": "",
+      "title": "세 개의 소설, 세 개의 악",
+      "content": "정유정 작가의 소설을 통해 현실에서의 악의 존재를 탐구하는 기사입니다."
+    },
+    {
+      "title_ko": "독창성과 신선함으로 일렁이는 바로크 음악 - 르 콩소르 내한",
+      "summary": "프랑스 바로크 앙상블 '르 콩소르'의 내한 공연을 소개하는 기사입니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81565",
+      "source": "Art Insight",
+      "domain": "MUSIC",
+      "category": "PRESS",
+      "creator_name": "테오팀 랑글루아 드 스와르트",
+      "creator_insight": "",
+      "tags": [
+        "바로크 음악",
+        "앙상블",
+        "내한"
+      ],
+      "execution_techniques": [
+        "음악 공연"
+      ],
+      "why": "고전 음악의 현대적 해석을 통해 새로운 감동을 찾고자 하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260707214835_opzuakwb.jpg",
+      "pub_date": "2026-07-09T08:31:06.427015",
+      "title_en": "",
+      "title": "독창성과 신선함으로 일렁이는 바로크 음악 - 르 콩소르 내한",
+      "content": "프랑스 바로크 앙상블 '르 콩소르'의 내한 공연을 소개하는 기사입니다."
+    },
+    {
+      "title_ko": "Rimowa, 오리지널 컬렉션에 딥 미드나잇 색상 추가",
+      "summary": "Rimowa의 새로운 Ink Blue 컬렉션은 오리지널 수트케이스, 가죽 가방, 데님 여행 액세서리 등을 포함합니다.",
+      "url": "https://www.wallpaper.com/travel/rimowa-ink-blue-collection-release",
+      "source": "Wallpaper",
+      "domain": "OBJECT",
+      "category": "News",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "여행",
+        "컬렉션",
         "디자인"
       ],
       "execution_techniques": [
-        "#Eco-living"
+        "제품 디자인"
       ],
-      "why": "세계 각지의 다양한 주택 스타일을 통해 현대 건축의 트렌드를 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://static.dezeen.com/uploads/2026/07/roberts-gray-architects-double-courtyard-house-new-zealand_dezeen_2364_sq-1-852x852.jpg",
-      "pub_date": "2026-07-09T08:00:00.000000"
+      "why": "여행과 모험을 통해 일상에서 벗어나고자 하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/R2dMaoNMpx8bAKha8uC2e7-1280-80.jpg",
+      "pub_date": "2026-07-08T23:01:00+00:00",
+      "title_en": "",
+      "title": "Rimowa, 오리지널 컬렉션에 딥 미드나잇 색상 추가",
+      "content": "Rimowa의 새로운 Ink Blue 컬렉션은 오리지널 수트케이스, 가죽 가방, 데님 여행 액세서리 등을 포함합니다."
     },
     {
-      "title": "Luxe Lakes CPI 아일랜드 / Vari Architects",
-      "content": "청두의 Luxe Lakes Ecological City에 위치한 CPI 아일랜드는 20여 개의 빌라 모델 집합체로, 오래된 주택과 상업 공간을 재활성화하기 위한 프로젝트입니다. 복합적인 설계와 디자인을 도입하여 지역과 인류, 자연의 조화로운 연결을 촉진합니다.",
-      "url": "https://www.archdaily.com/1018806/luxe-lakes-cpi-island-vari-architects",
-      "source": "ArchDaily",
-      "domain": "SPATIAL",
-      "category": "리뷰",
-      "creator_name": "Vari Architects",
-      "creator_insight": "기존 건물의 축적된 공간 및 축 시스템을 존중하며 공간 관계를 재구성했습니다.",
+      "title_ko": "Negative Space Illustration: Conceptual Art of Tang Yau Hoong",
+      "summary": "개념적 네거티브 스페이스 일러스트레이션 컬렉션은 미니멀한 벡터 디자인을 통해 구성적 균형을 이룹니다.",
+      "url": "https://abduzeedo.com/negative-space-illustration-conceptual-art-tang-yau-hoong/",
+      "source": "Abduzeedo",
+      "domain": "ART",
+      "category": "Feature",
+      "creator_name": "Tang Yau Hoong",
+      "creator_insight": "",
       "tags": [
-        "도시재생",
-        "빌라",
-        "상업"
+        "일러스트레이션",
+        "네거티브 스페이스",
+        "미니멀리즘"
       ],
       "execution_techniques": [
-        "#Mixeduse"
+        "벡터 디자인"
       ],
-      "why": "도시와 자연이 조화롭게 공존할 수 있는 혁신적인 공간 디자인을 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1541888081622-1db3e61c5df6?w=1600&q=80",
-      "pub_date": "2026-07-09T08:00:00.000000"
+      "why": "시각적 단순함 속에서 복잡한 메시지를 전달하고자 하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_conceptual-illustrations-art-negative-space-vol-1-tang-yau-hoong_2.jpg",
+      "pub_date": "2026-07-08T22:05:12+00:00",
+      "title_en": "",
+      "title": "Negative Space Illustration: Conceptual Art of Tang Yau Hoong",
+      "content": "개념적 네거티브 스페이스 일러스트레이션 컬렉션은 미니멀한 벡터 디자인을 통해 구성적 균형을 이룹니다."
     },
     {
-      "title": "이 주 우리는 나이키 열 슬라이드를 공개했습니다",
-      "content": "운동선수의 회복을 돕기 위해 나이키와 하이퍼아이스가 개발한 열과 진동이 있는 슬라이드가 공개되었습니다. 슬라이드의 스트랩에는 발등을 마사지하고 따뜻하게 하는 장치가 장착되었습니다.",
-      "url": "https://www.dezeen.com/2026/08/01/nike-heated-slide-this-week/",
-      "source": "Dezeen",
-      "domain": "SPATIAL",
-      "category": "리뷰",
-      "creator_name": "Nike",
-      "creator_insight": "운동 선수의 회복을 돕기 위해 기능성과 디자인을 결합한 혁신적 제품을 개발했습니다.",
+      "title_ko": "How One California Native Manifested Her Dream New York City Apartment",
+      "summary": "LA 기반 디자이너 Mike Moser가 Caroline Bell의 새로운 뉴욕 아파트를 디자인한 과정을 소개합니다.",
+      "url": "https://www.architecturaldigest.com/story/mike-moser-designed-new-york-city-apartment",
+      "source": "Architectural Digest",
+      "domain": "ARCHITECTURE",
+      "category": "Feature",
+      "creator_name": "Mike Moser",
+      "creator_insight": "",
       "tags": [
-        "스포츠",
-        "기술",
-        "제품디자인"
+        "인테리어 디자인",
+        "뉴욕",
+        "개인화"
       ],
       "execution_techniques": [
-        "#Techwear"
+        "인테리어 디자인"
       ],
-      "why": "스포츠 테크놀로지와 패션의 결합을 보여주는 혁신적 예시입니다.",
-      "depth": 0.95,
-      "image": "https://static.dezeen.com/uploads/2026/07/nike-hyperice-heat-and-vibration-recovery-slide_dezeen_2364_col_7-852x852.jpg",
-      "pub_date": "2026-07-09T08:00:00.000000"
+      "why": "개인화된 공간을 통해 자신만의 정체성을 표현하고자 하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://media.architecturaldigest.com/photos/6a4e5cb113c3f15f60610997/16:9/w_1280,c_limit/Mike%20Moser%20Caroline%20Bell%20Home188263%20copy.jpg",
+      "pub_date": "2026-07-08T21:43:45+00:00",
+      "title_en": "",
+      "title": "How One California Native Manifested Her Dream New York City Apartment",
+      "content": "LA 기반 디자이너 Mike Moser가 Caroline Bell의 새로운 뉴욕 아파트를 디자인한 과정을 소개합니다."
     },
     {
-      "title": "컬러와 함께 변화하는 복잡성",
-      "content": "생성적 AI를 활용하여 데이터 컬러 스킴을 구축하는 방법을 설명합니다. 다양한 AI 기술이 디자인 및 경험을 어떻게 변화시키는지에 대한 통찰을 제공합니다.",
-      "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad",
-      "source": "UX Collective",
-      "domain": "UIUX",
-      "category": "리뷰",
-      "creator_name": "UX Collective",
-      "creator_insight": "디자인의 새로운 가능성을 열어주는 색채와 AI의 융합을 탐구했습니다.",
+      "title_ko": "Il duo di designer italiani Formafantasma nominato “consulente ecologico” per uno dei più importanti musei di Londra",
+      "summary": "이탈리아 디자이너 듀오 Formafantasma가 런던의 주요 박물관의 생태학적 컨설턴트로 임명되었습니다.",
+      "url": "https://www.artribune.com/progettazione/design/2026/07/formafantasma-design-ecologia-serpentine-londra/",
+      "source": "Artribune",
+      "domain": "DESIGN",
+      "category": "News",
+      "creator_name": "Formafantasma",
+      "creator_insight": "",
       "tags": [
-        "색상",
         "디자인",
-        "AI"
+        "생태학",
+        "지속 가능성"
       ],
       "execution_techniques": [
-        "#GenerativeDesign"
+        "생태 디자인"
       ],
-      "why": "생성적 AI와 디자인의 혁신적 결합을 통해 창의적 가능성을 확장합니다.",
-      "depth": 0.95,
-      "image": "https://cdn-images-1.medium.com/max/1948/1*2Uyw7GVZYWxyrQo80EZtYA.png",
-      "pub_date": "2026-07-09T08:00:00.000000"
+      "why": "환경에 대한 책임을 다하고자 하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/pkfkvxnvunazbsjviap56e-scaled.jpg",
+      "pub_date": "2026-07-08T21:00:00+00:00",
+      "title_en": "",
+      "title": "Il duo di designer italiani Formafantasma nominato “consulente ecologico” per uno dei più importanti musei di Londra",
+      "content": "이탈리아 디자이너 듀오 Formafantasma가 런던의 주요 박물관의 생태학적 컨설턴트로 임명되었습니다."
     },
     {
-      "title": "통로로서의 카탈루냐 농가 디자인",
-      "content": "스페인 카탈로니아에 위치한 NUA Arquitectures의 Casa Juià는 주변 지역의 장인정신을 반영한 농가로 3개의 평행한 날개와 갤러리로 구성되어 있습니다. 전통과 현대를 조화롭게 해석하는 건축물입니다.",
-      "url": "https://www.dezeen.com/2026/08/01/casa-juia-nua-arquitectures-catalonia-spain/",
-      "source": "Dezeen",
-      "domain": "SPATIAL",
-      "category": "리뷰",
-      "creator_name": "NUA Arquitectures",
-      "creator_insight": "지역의 전통적 요소와 현대적 설계를 결합하여 새로운 공간을 창조했습니다.",
+      "title_ko": "knitted sculptures by luna haverkorn only come to life when you use them",
+      "summary": "이 조각들은 사용자가 상호작용할 때만 생명을 얻으며, 놀이와 탐험을 초대합니다.",
+      "url": "https://www.designboom.com/design/knitted-sculptures-luna-haverkorn-life-interview/",
+      "source": "Designboom",
+      "domain": "ART",
+      "category": "Interview",
+      "creator_name": "Luna Haverkorn",
+      "creator_insight": "",
       "tags": [
-        "농가",
-        "건축",
-        "전통"
+        "조각",
+        "상호작용",
+        "놀이"
       ],
       "execution_techniques": [
-        "#SustainableArchitecture"
+        "인터랙티브 아트"
       ],
-      "why": "전통을 현대적인 방식으로 재해석하여 지역적 특성을 강조한 작품입니다.",
-      "depth": 0.95,
-      "image": "https://static.dezeen.com/uploads/2026/07/casa-juia-house-nua-arquitectures-girona-catalonia-spain-architecture_dezeen_2364_col_0_square-852x852.jpg",
-      "pub_date": "2026-07-09T08:00:00.000000"
+      "why": "예술 작품과의 상호작용을 통해 새로운 경험을 찾고자 하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/knitted-sculptures-luna-haverkorn-life-interview-designboom-700-500x400-22b08q85r964.jpg",
+      "pub_date": "2026-07-08T20:00:11+00:00",
+      "title_en": "",
+      "title": "knitted sculptures by luna haverkorn only come to life when you use them",
+      "content": "이 조각들은 사용자가 상호작용할 때만 생명을 얻으며, 놀이와 탐험을 초대합니다."
     },
     {
-      "title": "창의적 기술자들이 중심부로 이동하고 있습니다",
-      "content": "과거에 그늘진 곳에 있던 창의적 기술자들이 이제 현대 제품 팀의 핵심 역량으로 자리잡고 있습니다. AI가 아이디어와 구현 간의 거리를 줄이며 디자인, 코드, 시스템, 스토리텔링을 넘나드는 인재들이 주목받고 있습니다.",
-      "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6",
-      "source": "UX Collective",
-      "domain": "UIUX",
-      "category": "리뷰",
-      "creator_name": "Tina Tarighian",
-      "creator_insight": "기술의 의미를 최초로 정의하고 새로운 가능성을 탐색하는 역할의 중요성을 설명합니다.",
+      "title_ko": "American Museum Of Natural History To Repatriate Native American Hair Clippings",
+      "summary": "미국 자연사 박물관은 네이티브 아메리칸 머리카락 샘플을 원주민 부족에 반환할 계획입니다.",
+      "url": "https://www.artforum.com/news/museum-of-natural-history-repatriate-native-american-hair-1234754263/",
+      "source": "Artforum",
+      "domain": "ART",
+      "category": "News",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "창의성",
+        "문화재 반환",
+        "역사",
+        "사회적 책임"
+      ],
+      "execution_techniques": [
+        "역사적 복원"
+      ],
+      "why": "과거의 잘못을 바로잡고자 하는 사회적 책임 의식을 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/07/GettyImages-517795388.jpg",
+      "pub_date": "2026-07-08T20:00:05+00:00",
+      "title_en": "",
+      "title": "American Museum Of Natural History To Repatriate Native American Hair Clippings",
+      "content": "미국 자연사 박물관은 네이티브 아메리칸 머리카락 샘플을 원주민 부족에 반환할 계획입니다."
+    },
+    {
+      "title_ko": "Saba’s Oasi Outdoor Seating Finds Its Natural Habitat",
+      "summary": "이 컬렉션은 가구와 풍경의 경계를 흐리며, Giardino Botanico La Cutura의 선인장과 열대 식물 사이에서 촬영되었습니다.",
+      "url": "https://design-milk.com/saba-oasi-robin-rizzini-botanical-garden/",
+      "source": "Design Milk",
+      "domain": "DESIGN",
+      "category": "Feature",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "가구 디자인",
+        "자연",
+        "조화"
+      ],
+      "execution_techniques": [
+        "자연주의 디자인"
+      ],
+      "why": "자연과의 조화를 통해 일상에서 벗어나고자 하는 현대인의 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/07/Saba_EmotionalCampaign_Oasi_ph.Sorgetti1.jpg",
+      "pub_date": "2026-07-08T19:54:15+00:00",
+      "title_en": "",
+      "title": "Saba’s Oasi Outdoor Seating Finds Its Natural Habitat",
+      "content": "이 컬렉션은 가구와 풍경의 경계를 흐리며, Giardino Botanico La Cutura의 선인장과 열대 식물 사이에서 촬영되었습니다."
+    },
+    {
+      "title_ko": "New Prize from Fundación Kahlo Will Support Emerging Mexican Artists",
+      "summary": "프리다 칼로의 예술적 유산 보존을 위한 뉴욕 기반 비영리단체가 새로운 칼로 아트 프라이즈를 발표했습니다.",
+      "url": "https://www.artforum.com/news/fundacion-kahlo-will-support-emerging-mexican-artists-1234754261/",
+      "source": "Artforum",
+      "domain": "ART",
+      "category": "News",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "예술 지원",
+        "신진 작가",
+        "문화 유산"
+      ],
+      "execution_techniques": [
+        "문화 지원"
+      ],
+      "why": "신진 예술가들을 지원하고자 하는 사회적 책임과 예술적 유산 보존의 중요성을 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artforum.com/wp-content/uploads/2025/05/22cul-frida-museum-superJumbo.jpg",
+      "pub_date": "2026-07-08T19:12:35+00:00",
+      "title_en": "",
+      "title": "New Prize from Fundación Kahlo Will Support Emerging Mexican Artists",
+      "content": "프리다 칼로의 예술적 유산 보존을 위한 뉴욕 기반 비영리단체가 새로운 칼로 아트 프라이즈를 발표했습니다."
+    },
+    {
+      "title_ko": "Only Japan’s High-Tech Fans Can Save Us",
+      "summary": "전통적인 접이식 부채가 최근 일본의 유틸리티 브랜드에 의해 하이테크 업그레이드를 받고 있습니다.",
+      "url": "https://www.highsnobiety.com/p/japan-porter-yoshida-fans/",
+      "source": "Highsnobiety",
+      "domain": "OBJECT",
+      "category": "News",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "전통",
         "기술",
-        "AI"
+        "업그레이드"
       ],
       "execution_techniques": [
-        "#CreativeTechnology"
+        "제품 혁신"
       ],
-      "why": "미래의 창의적 기술 방향을 예견하며 관련 직업군의 변화를 강조합니다.",
-      "depth": 0.95,
-      "image": "https://cdn-images-1.medium.com/max/1024/1*_ljUGVuohH1v0usJ-TpBCQ.png",
-      "pub_date": "2026-07-09T08:00:00.000000"
-    },
-    {
-      "title": "플로이드 메이웨더의 초호화 생활",
-      "content": "플로이드 메이웨더는 무패의 46승 전적과 뛰어난 방어 기술로 유명한 복서입니다. 그의 호화로운 생활과 막대한 재산은 팬들의 주목을 받으며, 그는 초고가의 자동차와 명품 생활을 자랑합니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "메이웨더의 화려한 생활은 그의 경제적 성공과 비결정을 보여줍니다.",
-      "tags": [
-        "복서",
-        "플로이드 메이웨더"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "플로이드 메이웨더의 생활은 그의 성공과 명성을 알게 해줍니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-07-09T08:00:00.000000"
-    },
-    {
-      "title": "꿈을 담은 프랑스 시계 - 악테오",
-      "content": "악테오 시계는 꿈과 열정을 표현하는 프랑스 디자인의 시계로, 다양한 오브제와 상징을 통해 사용자에게 영감을 줍니다. 스위스 무브먼트를 사용하며, 예술적인 감각을 더했습니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "악테오 시계는 심플함 속에서 개인의 꿈을 지향하는 설계가 돋보입니다.",
-      "tags": [
-        "시계",
-        "프랑스 디자인"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "유니크한 디자인과 의미를 담은 시계는 예술적이며 실용적입니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-07-09T08:00:00.000000"
-    },
-    {
-      "title": "시간을 노래하다 - Gillette 100년의 역사",
-      "content": "Gillette의 100년간의 헤어와 스타일의 변화를 음악과 재미있는 영상으로 표현한 프로젝트로, 세기 넘게 변화해온 트렌드를 보여줍니다.",
-      "url": "https://honestart.tistory.com/96",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Gillette의 역사를 색다른 방식으로 재미있게 표현했습니다.",
-      "tags": [
-        "Gillette",
-        "역사"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "트렌드 변화를 시각적으로 즐길 수 있는 기회입니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
-      "pub_date": "2026-07-09T08:00:00.000000"
-    },
-    {
-      "title": "팔레티푸: 카를로비바리에서 만나는 영화 이야기",
-      "content": "카를로비 바리 국제 영화제는 다양한 역사적 변곡점을 넘으며 영향력을 키워왔습니다. 1946년에 시작된 이 영화제는 현재까지도 영화 산업의 중요한 자리로 자리잡고 있습니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "영화제의 변화를 통해 문화적 가치의 전통을 이해할 수 있습니다.",
-      "tags": [
-        "영화제",
-        "카를로비바리"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "역사적 유산이 유지되는 문화 장소를 조명합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-07-09T08:00:00.000000"
-    },
-    {
-      "title": "주말을 즐기는 법: Zara McIntosh와 함께",
-      "content": "Zara McIntosh는 런던에서의 주말을 즐기는 방법과 큐어 문화 매거진을 소개하며, 음악에 대한 사랑과 다양한 취향을 나눕니다.",
-      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
-      "source": "It's Nice That",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "문화적 다양성과 개인 취향의 아름다움을 드러냅니다.",
-      "tags": [
-        "주말",
-        "취향"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "Zara의 주말 이야기로 새로운 시각을 제공합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
-      "pub_date": "2026-07-09T08:00:00.000000"
+      "why": "전통적인 물건에 현대적 기술을 접목하여 새로운 가치를 창출하고자 하는 욕구를 반영합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1783519032-porter-miyawaki-baisen-an-fan-02-1.jpg",
+      "pub_date": "2026-07-08T19:09:01+00:00",
+      "title_en": "",
+      "title": "Only Japan’s High-Tech Fans Can Save Us",
+      "content": "전통적인 접이식 부채가 최근 일본의 유틸리티 브랜드에 의해 하이테크 업그레이드를 받고 있습니다."
     }
   ],
   "items": [],
   "popcorn": [
     {
-      "title": "현대적인 일본식 찻집, 베를린의 Kissabō",
-      "content": "베를린에 위치한 일본식 찻집 Kissabō는 현대적인 디자인과 전통적인 차 문화를 융합시켜 고객들에게 새로운 경험을 제공합니다.",
-      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
-      "source": "IGNANT",
+      "title_ko": "LEGO, 웅장한 포켓몬 레쿠쟈 브릭 키트 출시 준비 중",
+      "summary": "LEGO가 포켓몬 레쿠쟈 브릭 키트를 출시 준비 중입니다.",
+      "url": "https://hypebeast.kr/2026/7/lego-pokemon-rayquaza-kit-release-info",
+      "source": "Hypebeast",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "찻집"
+        "LEGO",
+        "포켓몬",
+        "레쿠쟈"
       ],
-      "why": "독특한 문화 경험을 제공하는 장소로 재미있습니다.",
+      "why": "어린 시절의 추억과 현대적 취미가 결합된 콘텐츠로, 대중의 향수를 자극하며 바이럴 요소를 제공합니다.",
       "depth": 0.5,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/06/kissabo-720x1280.jpg",
-      "pub_date": "2026-07-09T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Flego-pokemon-rayquaza-kit-release-info-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-08T21:35:38+00:00",
+      "title_en": "",
+      "title": "LEGO, 웅장한 포켓몬 레쿠쟈 브릭 키트 출시 준비 중",
+      "content": "LEGO가 포켓몬 레쿠쟈 브릭 키트를 출시 준비 중입니다."
     },
     {
-      "title": "현대 미술과 건축의 만남",
-      "content": "현대 건축과 디자인의 요소를 통해 아름다움을 표현한 작품들이 주목받습니다. 건축의 형태와 공간의 미학이 돋보입니다.",
-      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
-      "source": "abduzeedo.com",
+      "title_ko": "New Era x Swarovski, 뉴욕 양키스 크리스털 캡 출시",
+      "summary": "New Era와 Swarovski의 협업으로 뉴욕 양키스 크리스털 캡이 출시됩니다.",
+      "url": "https://hypebeast.kr/2026/7/new-era-swarovski-ss26-new-york-yankees-caps",
+      "source": "Hypebeast",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "디자인",
-        "건축"
+        "New Era",
+        "Swarovski",
+        "패션"
       ],
-      "why": "건축 요소가 디자인에 미치는 영향을 살펴볼 수 있습니다.",
+      "why": "럭셔리와 대중적인 스포츠 아이템의 결합으로, 대중의 이목을 끄는 화려함과 독창성을 제공합니다.",
       "depth": 0.5,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
-      "pub_date": "2026-07-09T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fnew-era-swarovski-ss26-new-york-yankees-caps-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-08T20:54:30+00:00",
+      "title_en": "",
+      "title": "New Era x Swarovski, 뉴욕 양키스 크리스털 캡 출시",
+      "content": "New Era와 Swarovski의 협업으로 뉴욕 양키스 크리스털 캡이 출시됩니다."
     },
     {
-      "title": "식스월드: 화려한 도심 회전목마",
-      "content": "도심 속 간이 놀이기구로서의 새로운 형식을 보여주는 식스월드는 독창적인 경험을 제공합니다.",
-      "url": "https://example.com/article",
-      "source": "example.com",
+      "title_ko": "나이젤 실베스터, 에어 조던 14 '퍼플 페라리' WNBA PE 첫 공개",
+      "summary": "나이젤 실베스터가 에어 조던 14 '퍼플 페라리' WNBA PE를 공개했습니다.",
+      "url": "https://hypebeast.kr/2026/7/nigel-sylvester-reveals-air-jordan-14-purple-ferrari-wnba-pe",
+      "source": "Hypebeast",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "놀이기구"
+        "에어 조던",
+        "나이젤 실베스터",
+        "패션"
       ],
-      "why": "도심 속에서 즐길 수 있는 독특한 축제 같은 느낌을 줍니다.",
+      "why": "한정판 스니커즈의 독특한 디자인과 컬러로, 스니커즈 문화와 패션에 대한 열정을 자극합니다.",
       "depth": 0.5,
-      "image": "https://example.com/image.jpg",
-      "pub_date": "2026-07-09T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fnigel-sylvester-reveals-air-jordan-14-purple-ferrari-wnba-pe-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-08T20:25:28+00:00",
+      "title_en": "",
+      "title": "나이젤 실베스터, 에어 조던 14 '퍼플 페라리' WNBA PE 첫 공개",
+      "content": "나이젤 실베스터가 에어 조던 14 '퍼플 페라리' WNBA PE를 공개했습니다."
     }
   ],
   "keywords": [

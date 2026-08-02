@@ -1,304 +1,322 @@
 {
   "date": "2026-07-30",
-  "focusQ": "Agent's Thought: 현대 창작의 시대정신과 이종 도메인의 영감 교차성을 포착하는 심오한 철학적 통합을 이루어, 예술과 디자인의 경계를 허물고 새로운 창조적 가능성을 탐구합니다.",
-  "creator_message": "큐레이터의 메시지: 오늘의 주제는 경계 없는 창의성입니다. 예술과 디자인, 그리고 그 너머의 세계를 탐험하며, 당신의 창작에 새로운 영감을 제공합니다.",
+  "focusQ": "Agent의 생각: 현대 창작자들에게 있어 창의적 영감의 교차점은 기술, 예술, 문화의 융합에서 비롯됩니다. 한국의 창작자들은 이러한 다차원적 연결성을 통해 동시대적 흐름을 이해하고, 새로운 창작물을 통해 문화적 다양성을 더욱 풍부하게 만들어갑니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 테마는 '융합과 창조'입니다. 여러분을 새로운 영감의 세계로 안내할 흥미로운 기사들을 소개합니다. 창작의 여정에서 풍부한 영감을 얻어 가시길 바랍니다.",
   "session": {
-    "timestamp": "2026-07-30T00:00:15.012583",
+    "timestamp": "2026-08-02T11:56:31.644015",
     "considered": 40,
     "selected": 14
   },
   "topPicks": [
     {
-      "title_ko": "A Vocabulary of Form: At Home With Sculptor Veronika Janovec (2026-07-30)",
-      "summary": "The post A Vocabulary of Form: At Home With Sculptor Veronika Janovec appeared first on IGNANT....",
-      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/-u-2026-07-30.json",
-      "source": "ignant.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "ignant.com",
-      "creator_insight": "ignant.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
-      "tags": [
-        "디자인",
-        "미학"
-      ],
-      "execution_techniques": [
-        "BiophilicForm"
-      ],
-      "why": "안도의 작품은 자연 환경과 인간의 삶을 연결하는 매개체로서의 역할을 합니다.",
-      "social_proof": "",
-      "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
-      "pub_date": "2026-07-30T08:00:00.000000",
-      "title": "A Vocabulary of Form: At Home With Sculptor Veronika Janovec (2026-07-30)",
-      "title_en": "A Vocabulary of Form: At Home With Sculptor Veronika Janovec (2026-07-30)",
-      "content": "The post A Vocabulary of Form: At Home With Sculptor Veronika Janovec appeared first on IGNANT...."
-    },
-    {
-      "title_ko": "Sanghyeok Lee on ARC, Emptiness, and the Spaces Between (2026-07-30)",
-      "summary": "The post Sanghyeok Lee on ARC, Emptiness, and the Spaces Between appeared first on IGNANT....",
-      "url": "https://www.ignant.com/2026/03/16/sanghyeok-lee-on-arc-emptiness-and-the-spaces-between/-u-2026-07-30.json",
-      "source": "ignant.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "ignant.com",
-      "creator_insight": "ignant.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
-      "tags": [
-        "디자인",
-        "미학"
-      ],
-      "execution_techniques": [
-        "MinimalistDesign"
-      ],
-      "why": "랜드의 작품은 현대 그래픽 디자인의 기초를 세웠으며, 그의 철학은 오늘날에도 유효합니다.",
-      "social_proof": "",
-      "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/03/ignant-sanghyeok-lee-clemens-poloczek-15-720x1081.jpg",
-      "pub_date": "2026-07-30T08:00:00.000000",
-      "title": "Sanghyeok Lee on ARC, Emptiness, and the Spaces Between (2026-07-30)",
-      "title_en": "Sanghyeok Lee on ARC, Emptiness, and the Spaces Between (2026-07-30)",
-      "content": "The post Sanghyeok Lee on ARC, Emptiness, and the Spaces Between appeared first on IGNANT...."
-    },
-    {
-      "title_ko": "Hagius: Architecture as a Medium for Wellbeing (2026-07-30)",
-      "summary": "The post Hagius: Architecture as a Medium for Wellbeing appeared first on IGNANT....",
-      "url": "https://www.ignant.com/2026/01/28/hagius-architecture-as-a-medium-for-wellbeing/-u-2026-07-30.json",
-      "source": "ignant.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "ignant.com",
-      "creator_insight": "ignant.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
-      "tags": [
-        "디자인",
-        "미학"
-      ],
-      "execution_techniques": [
-        "MaterialInnovation"
-      ],
-      "why": "투굿의 작품은 전통적 재료의 새로운 해석을 통해 디자인의 가능성을 확장합니다.",
-      "social_proof": "",
-      "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/01/ignant-hagius-clemens-poloczek-1-2-1-720x479.jpg",
-      "pub_date": "2026-07-30T08:00:00.000000",
-      "title": "Hagius: Architecture as a Medium for Wellbeing (2026-07-30)",
-      "title_en": "Hagius: Architecture as a Medium for Wellbeing (2026-07-30)",
-      "content": "The post Hagius: Architecture as a Medium for Wellbeing appeared first on IGNANT...."
-    },
-    {
-      "title": "주말을 함께한 자라 맥킨토시",
-      "content": "대중문화 애호가이자 피지컬 미디어의 여왕인 자라 맥킨토시가 런던에서 즐길 만한 가장 좋은 장소, 그녀가 읽는 퀴어 잡지와 여름 사운드트랙에 관한 팁을 제공합니다.",
-      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
-      "source": "It's Nice That",
+      "title": "리버 레이시와의 초현실 인터뷰",
+      "content": "리버 레이시는 초현실 살롱 18의 우승자로, 그의 예술적 여정과 작품 세계에 대한 깊은 통찰을 제공합니다.",
+      "url": "https://www.juxtapoz.com/news/magazine/an-interview-with-surreal-salon-18-winner-river-reishi/",
+      "source": "Juxtapoz",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "자기의 특성을 잃지 않고 대중과 함께하는 방법을 서로 공유합니다.",
+      "creator_name": "리버 레이시",
+      "creator_insight": "리버 레이시는 그의 작품에서 초현실적 요소와 현대적 감각을 결합하여 관객에게 독특한 시각적 경험을 제공합니다.",
       "tags": [
-        "런던",
-        "문화"
+        "초현실",
+        "인터뷰",
+        "예술"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#Surrealism",
+        "#VisualNarrative"
       ],
-      "why": "개인의 경험과 문화적 취향을 통해 공유되는 끌림의 순간을 잘 포착합니다.",
+      "why": "리버 레이시의 작품은 동시대 예술의 흐름을 이해하는 데 중요한 레퍼런스입니다. 그의 독창적인 시각은 다양한 예술적 관점을 제공합니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/6b90b91f4265eadcab1e922039e8155d_L.jpg",
       "pub_date": "2026-07-30T08:00:00.000000"
     },
     {
-      "title": "현재를 직조하는 오디세이",
-      "content": "크리스토퍼 놀란의 텐넷 편집에 참여한 제니퍼 라임의 작업 과정을 담고 있습니다. 대형 액션 장면을 어떻게 처리하는지가 집중적으로 다뤄집니다.",
-      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "대형 프로젝트에 대한 접근과 작은 영화에서의 배움을 공유합니다.",
-      "tags": [
-        "영화",
-        "편집"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "영화 편집과정의 독창적인 접근 방식을 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
-      "pub_date": "2026-07-30T08:00:00.000000"
-    },
-    {
-      "title": "Sam Neill을 회상하며",
-      "content": "같은 영화를 본 경험을 공유하며 사망한 샘 닐을 추모합니다. 캐나다 극장에서의 시각적 기억을 중심으로 글이 전개됩니다.",
-      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "깊이 있는 개인의 추억을 통해 대중문화 아이콘을 기립니다.",
-      "tags": [
-        "추모",
-        "영화"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "사람이 남긴 여운과 문화적 유산을 진솔하게 다룹니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
-      "pub_date": "2026-07-30T08:00:00.000000"
-    },
-    {
-      "title": "니콜라 톨니가 조각의 언어를 공유하다",
-      "content": "조각가 베로니카 얀로벡과의 인터뷰를 통해 그녀의 작업 방식과 그녀가 느끼는 형태의 세계를 엿봅니다.",
-      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
-      "source": "IGNANT",
+      "title": "요시토모 나라 뉴욕 전시",
+      "content": "요시토모 나라는 뉴욕의 데이비드 즈위르너 갤러리에서 그의 첫 전시를 개최하며, 전 세계의 미술 애호가들에게 새로운 작품을 선보입니다.",
+      "url": "https://hypebeast.kr/2026/8/yoshitomo-nara-first-exhibition-with-david-zwirner-new-york-info",
+      "source": "Unknown Source",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "조각의 본질을 탐구하며 새로운 이야기를 만들어갑니다.",
+      "creator_name": "요시토모 나라",
+      "creator_insight": "요시토모 나라는 그의 작품을 통해 단순하지만 강력한 메시지를 전하며, 감정의 깊은 층위를 탐구합니다.",
       "tags": [
-        "예술",
-        "조각"
+        "전시",
+        "요시토모",
+        "미술"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#ContemporaryArt",
+        "#Minimalism"
       ],
-      "why": "예술가의 창작과정과 철학을 심도있게 탐구합니다.",
+      "why": "요시토모 나라는 현대 미술계에서 중요한 인물로, 그의 전시는 동시대 미술의 흐름을 이해하는 데 필수적입니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2Fyoshitomo-nara-first-exhibition-with-david-zwirner-new-york-info-1.jpg?w=800&cbr=1&q=90&fit=max",
       "pub_date": "2026-07-30T08:00:00.000000"
     },
     {
-      "title": "커뮤니케이션의 그림 언어",
-      "content": "건축과 예술에 관한 엘디우 페이크의 깊은 탐구를 통해 사회적 메시지를 전달합니다.",
-      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
-      "source": "Creative Independent",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "이미지를 통한 사회적 대화의 방법을 모색합니다.",
-      "tags": [
-        "예술",
-        "커뮤니케이션"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "내면과 직관을 통한 강렬한 예술적 언어를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
-      "pub_date": "2026-07-30T08:00:00.000000"
-    },
-    {
-      "title": "프랑스 시계 브랜드 악테오",
-      "content": "악테오 시계는 시간을 알리는 기계적 장치가 아닌 꿈과 열정을 상징하는 예술 작품입니다. 프랑스 디자이너가 다양한 오브제를 활용해 예술적 디자인을 선보입니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
+      "title": "킵 오몰라데의 거울 같은 얼굴들",
+      "content": "킵 오몰라데는 그의 초현실적 크롬 초상화로 관객들에게 강렬한 시각적 경험을 제공합니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/kip-omolade-chrome-portraits-hyperrealism-paintings/",
+      "source": "Colossal",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "시계 디자인에 대한 철학과 감성을 전달합니다.",
+      "creator_name": "킵 오몰라데",
+      "creator_insight": "킵 오몰라데는 그의 작품을 통해 현실과 초현실의 경계를 넘나들며 독특한 시각적 언어를 창조합니다.",
       "tags": [
-        "시계",
-        "디자인"
+        "초현실",
+        "크롬",
+        "초상화"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#Hyperrealism",
+        "#ChromeEffect"
       ],
-      "why": "시간의 흐름을 아름다운 디자인으로 표현한 시계들에 대해 감탄하게 됩니다.",
+      "why": "킵 오몰라데의 작품은 현대 미술에서 기술과 예술의 융합을 보여주는 중요한 예시입니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/omolade-3.jpg",
       "pub_date": "2026-07-30T08:00:00.000000"
     },
     {
-      "title": "포토 런던 2026",
-      "content": "기린데르 오르티스와 포고는 새로운 현대 작품을 통해 런던 아트 페어에 참여합니다. 새로운 아티스트들을 통해 다양한 예술 세계를 조망합니다.",
-      "url": "https://opendoors.gallery/photo-london-2026-art-fair",
-      "source": "Open Doors Gallery",
+      "title": "디바인 컬러: 현대 벵골의 힌두 판화",
+      "content": "보스턴 미술관에서 현대 벵골의 힌두 판화를 전시하며, 문화적 다채로움을 선보입니다.",
+      "url": "https://theartwolf.com/exhibitions/bengal-mfa-boston-2026/",
+      "source": "The Art Wolf",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "현대 예술 작품들을 통해 다양한 표현 방식을 탐구합니다.",
+      "creator_name": "전시 기획팀",
+      "creator_insight": "이 전시는 전통적인 벵골 문화와 현대적 예술의 조화를 탐구합니다.",
       "tags": [
-        "아트",
-        "페어"
+        "문화",
+        "벵골",
+        "힌두"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#CulturalHeritage",
+        "#Printmaking"
       ],
-      "why": "신진 아티스트들의 다양하고 새로운 시각을 경험할 수 있습니다.",
+      "why": "이 전시는 다양한 문화적 관점을 이해하고 현대 예술의 흐름을 읽는 데 중요한 의미를 갖습니다.",
+      "social_proof": "",
       "depth": 0.95,
       "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
       "pub_date": "2026-07-30T08:00:00.000000"
     },
     {
-      "title": "베를린의 현대 일본 티 바",
-      "content": "컨셉추얼한 일본식 티 바인 Kissabō의 독특한 현대적 요소들에 대해 다루고 있습니다. 차와 문화적 접촉점이 이루어지는 공간을 소개합니다.",
-      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
-      "source": "IGNANT",
-      "domain": "DESIGN",
+      "title": "표현주의적 디자인: ZHEST",
+      "content": "ZHEST는 새로운 수분 보충 경험을 위한 보리 기반의 이소토닉 음료로, 현대적 브랜드 아이덴티티를 선보입니다.",
+      "url": "https://retaildesignblog.net/2026/07/23/zhest-by-max-lippolis/",
+      "source": "Retail Design Blog",
+      "domain": "SPATIAL",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "문화적 교류를 중심으로 새롭게 해석된 공간을 제공합니다.",
+      "creator_name": "맥스 리폴리스",
+      "creator_insight": "맥스 리폴리스는 그의 디자인을 통해 브랜드와 소비자 간의 감각적 연결을 창조합니다.",
       "tags": [
-        "차",
-        "문화"
+        "브랜딩",
+        "이소토닉",
+        "디자인"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#BrandIdentity",
+        "#SustainableDesign"
       ],
-      "why": "전통과 현대가 조화롭게 어우러진 공간을 잘 보여줍니다.",
+      "why": "ZHEST는 현대적 디자인과 지속 가능한 라이프스타일의 교차점을 보여주는 중요한 사례입니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/06/kissabo-720x1280.jpg",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title": "프랭크 로이드 라이트: 탈리에신 조명 시리즈",
+      "content": "프랭크 로이드 라이트의 탈리에신 조명 시리즈에 새로운 화이트 마감이 추가되었습니다.",
+      "url": "https://www.adfwebmagazine.jp/en/design/frank-lloyd-wright-taliesin-white-yamagiwa/",
+      "source": "ADF Web Magazine",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "프랭크 로이드 라이트",
+      "creator_insight": "프랭크 로이드 라이트는 그의 조명 디자인을 통해 공간에 새로운 생명력을 불어넣습니다.",
+      "tags": [
+        "조명",
+        "디자인",
+        "프랭크 로이드 라이트"
+      ],
+      "execution_techniques": [
+        "#ArchitecturalDesign",
+        "#LightingInnovation"
+      ],
+      "why": "탈리에신 조명 시리즈는 건축과 조명의 융합을 통해 공간의 미적 가치를 높이는 데 기여합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-taliesin-white-1-300x225.jpg",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title": "LCD 씨올 리빙 디자인 페어 2026",
+      "content": "씨올 리빙 디자인 페어는 포괄적 브랜드 경험을 제공하는 팝업 스토어를 통해 현대적 생활 디자인의 다양한 측면을 탐구합니다.",
+      "url": "https://www.behance.net/gallery/253530683/LCDC-SEOUL-LIVING-DESIGN-FAIR-2026",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "전시 기획팀",
+      "creator_insight": "이 전시는 생활 디자인의 혁신적 측면을 강조하며, 다양한 디자이너와 브랜드 간의 협업을 통한 창의적 시너지를 이끌어냅니다.",
+      "tags": [
+        "리빙",
+        "디자인",
+        "페어"
+      ],
+      "execution_techniques": [
+        "#ExhibitionDesign",
+        "#BrandExperience"
+      ],
+      "why": "LCD 씨올 리빙 디자인 페어는 현대적 생활 디자인의 다양한 혁신을 탐구하는 데 중요한 플랫폼을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/ad7b4c253530683.Y3JvcCwxMTU2LDkwNCwyMiwyMjM.jpg",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title": "기억하고픈 파리",
+      "content": "오늘 중으로 입금하지 않으면 지금 네 상사, 한국 회사 인사담당자에게 당장 지금 사실을 통지하고, 네가 한국으로 귀국하더라도 소송을 계속 진행할 거얌! 내 개인 변호사에게 난 이미 자문도 다 받았어!! ??",
+      "url": "https://blog.naver.com/justina75/224328954630?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "블로그 운영자",
+      "creator_insight": "블로그 운영자는 개인적인 경험을 공유하며 독자들에게 파리에 대한 감각적이고 감정적인 이야기를 전달합니다.",
+      "tags": [
+        "파리",
+        "경험",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#NarrativeDesign",
+        "#PersonalStory"
+      ],
+      "why": "이 블로그는 개인적인 이야기를 통해 파리의 문화적 풍부함을 탐구하고 독자들에게 새로운 시각을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MThfMTc1/MDAxNzgxNzE2MzI0ODMx.cliB009h0QMEwRbxIdc2cdyEgDpIvUruUtKuOsT_n84g.1H0q2kqgeGevyww4W0t1BBpWhkiuGaR84X2hHEq3DZkg.JPEG/900_20260617_184611.jpg?type=s3",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title": "서머타임과 3D 모션",
+      "content": "Triqlide Studios는 Blender를 사용하여 VHS 스타일의 효과를 재현하며, 레트로 감성을 현대적 방식으로 재창조합니다.",
+      "url": "https://80.lv/articles/check-out-this-cool-vhs-like-effect-made-in-blender/",
+      "source": "80 Level",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Triqlide Studios",
+      "creator_insight": "Triqlide Studios는 디지털 툴을 통해 과거의 감성을 현대적으로 해석하여 시청자들에게 신선한 경험을 제공합니다.",
+      "tags": [
+        "VHS",
+        "Blender",
+        "레트로"
+      ],
+      "execution_techniques": [
+        "#3DMotion",
+        "#RetroEffect"
+      ],
+      "why": "이 작품은 3D 모션과 레트로 감성의 융합을 통해 다양한 창작자들에게 영감을 줄 수 있는 중요한 자료입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.80.lv/api/upload/post/41099/images/6a6cd08a70a89/cover_800x800.jpg",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title": "안티엑스 디지털 제품 아이덴티티",
+      "content": "안티엑스는 모노크롬 패키징과 모듈식 브랜딩 시스템을 통해 새로운 디지털 생태계를 선보입니다.",
+      "url": "https://abduzeedo.com/minimalist-branding-antix-digital-product-identity/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "안티엑스 스튜디오",
+      "creator_insight": "안티엑스 스튜디오는 미니멀리즘을 통해 브랜드의 본질을 강조하며, 시각적 간결함 속에서 강력한 메시지를 전달합니다.",
+      "tags": [
+        "브랜딩",
+        "미니멀리즘",
+        "디지털"
+      ],
+      "execution_techniques": [
+        "#MinimalistDesign",
+        "#ModularBranding"
+      ],
+      "why": "안티엑스의 브랜딩 전략은 현대 디지털 환경에서 브랜드 가치를 극대화하는 방법을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/antix_0.jpg",
+      "pub_date": "2026-07-30T08:00:00.000000"
+    },
+    {
+      "title": "기계 영혼 출판",
+      "content": "기계 영혼 출판은 주류를 벗어난 하위문화에 집중하며, 독창적인 출판 콘텐츠를 제공합니다.",
+      "url": "https://designspotter.com/machine-soul-publishing/",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "출판 기획팀",
+      "creator_insight": "이 출판사는 하위문화를 통해 다양한 사회적 메시지를 전달하며, 독창적인 시각적 콘텐츠를 제공합니다.",
+      "tags": [
+        "출판",
+        "하위문화",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#Subculture",
+        "#VisualContent"
+      ],
+      "why": "기계 영혼 출판은 현대 사회의 다양한 시각적 문화와 메시지를 이해하는 데 중요한 자료를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
       "pub_date": "2026-07-30T08:00:00.000000"
     }
   ],
   "popcorn": [
     {
-      "title": "플로이드 메이웨더 주니어의 화려한 생활",
-      "content": "무패 전적으로 다섯 체급을 정복한 복서 플로이드 메이웨더의 삶과 그의 호화로운 생활을 들여다봅니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title": "스텔라 아르투아 여름 캠페인",
+      "content": "니크 미크가 스페인 마요르카에서 최신 스텔라 아르투아 캠페인을 촬영했습니다.",
+      "url": "https://levineleavitt.com/nick-meek-stella-artois/",
+      "source": "levineleavitt.com",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "복싱",
-        "생활"
+        "광고"
       ],
-      "why": "플로이드 메이웨더의 일상과 성과를 화려하게 조명합니다.",
+      "why": "스텔라 아르투아 캠페인은 여름의 자유로움을 담아내며, 시각적 감각을 자극합니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/22075742540FF67118",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
       "pub_date": "2026-07-30T08:00:00.000000"
     },
     {
-      "title": "길레트 - 백년의 모발 역사",
-      "content": "길레트가 백년의 모발 역사를 노래로 표현한 흥미로운 영상 프로젝트입니다. 시대별 변화와 화장실 악세사리를 통한 시각적 재미를 제공합니다.",
-      "url": "https://honestart.tistory.com/96",
-      "source": "honestart.tistory.com",
+      "title": "AI에 대한 시민의 반응",
+      "content": "많은 기업들이 AI 기능을 추가하고 있지만, 실제로 대중은 AI를 더 원하지 않는다는 조사 결과가 나왔습니다.",
+      "url": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+      "source": "Smashing Magazine",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "길레트",
-        "영상"
+        "AI"
       ],
-      "why": "역사적인 콘텐츠를 대담하고 창의적인 방식으로 적용합니다.",
+      "why": "AI 기술의 발전이 사회적 관심을 끌고 있으며, 이에 대한 다양한 반응이 주목받고 있습니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "image": "http://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
       "pub_date": "2026-07-30T08:00:00.000000"
     },
     {
-      "title": "포토 북 '레이버리' 프리뷰",
-      "content": "여러 유명 사진작가들의 끌림 있는 작품을 한데 모은 포토 북 'Rêverie'의 새로운 시각적 경험을 제공합니다.",
-      "url": "https://photoeditions.pub/Main-page",
-      "source": "photobookstore.co.uk",
+      "title": "콘버스의 가죽 삼바",
+      "content": "새로운 가죽 삼바 스케이트화는 스타일과 기능성을 동시에 제공합니다.",
+      "url": "https://www.highsnobiety.com/p/converse-road-classic-sk-pa-ox/",
+      "source": "Highsnobiety",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "사진",
-        "포토북"
+        "패션"
       ],
-      "why": "안목 있는 큐레이터들에게 영감을 줄 수 있는 매력적인 사진 작품들을 소개합니다.",
+      "why": "콘버스의 신제품은 스케이트 문화와 패션의 경계를 허물며 인기를 끌고 있습니다.",
       "depth": 0.5,
-      "image": "https://freight.cargo.site/w/1000/i/b90a1df829c0e7746cc233935270c11ddbf7d29368bb601b0e447742cd4cc73f/MA-R.png",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
       "pub_date": "2026-07-30T08:00:00.000000"
     }
   ],
@@ -313,6 +331,18 @@
     },
     {
       "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "문화적 다양성",
+      "is_hot": true
+    },
+    {
+      "word": "레트로 감성",
+      "is_hot": true
+    },
+    {
+      "word": "창의적 시너지",
       "is_hot": true
     }
   ]

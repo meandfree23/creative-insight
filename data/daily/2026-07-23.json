@@ -9,285 +9,335 @@
   },
   "topPicks": [
     {
-      "title": "자라 맥킨토쉬와 함께하는 주말",
-      "content": "대중문화 예술가이자 피지컬 미디어의 여왕 자라 @whatzaraloves가 이상적인 주말을 소개합니다. 그녀가 추천하는 런던의 핫스팟과 읽을 만한 퀴어 잡지, 여름에 딱 어울리는 사운드트랙을 확인해보세요.",
-      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
-      "source": "It's Nice That",
+      "title_ko": "의심으로 가득한 시기? 좋습니다",
+      "summary": "현재의 혼란스러운 세상 속에서 우리는 종종 불확실성을 느낍니다. 그러나 이러한 의심은 새로운 시각을 발견할 수 있는 기회를 제공할 수 있습니다.",
+      "url": "https://designobserver.com/wracked-with-doubt-good/",
+      "source": "Design Observer",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "런던에서 즐길만한 장소와 문화에 대한 깊이있는 통찰을 제공합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "런던",
-        "대중문화"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "런던을 여행하는 사람들을 위한 가이드로 유익한 정보들을 제공합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
-      "pub_date": "2026-07-23T08:00:00.000000"
-    },
-    {
-      "title": "Graphic 디자이너의 꿈 - Present & Correct",
-      "content": "프린트 에페메라와 문구 브랜드인 Present & Correct를 공동 창립한 닐 휘팅턴과의 인터뷰. 이들이 출판 세계에 첫 진출하여, 브랜드의 신작에 대해 이야기합니다.",
-      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
-      "source": "It's Nice That",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "서체와 인쇄 세계에 대한 폭넓은 이해와 통찰을 제공하는 인터뷰입니다.",
-      "tags": [
-        "문구",
+        "불확실성",
+        "창의성",
         "디자인"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "철학적 탐구"
       ],
-      "why": "디자인 문구에 관한 전문 지식을 제공하여 창의력 있는 독자들에게 인사이트를 줍니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
-      "pub_date": "2026-07-23T08:00:00.000000"
+      "why": "이 기사는 불확실성 속에서도 창의성을 발견할 수 있는 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://designobserver.com/wp-content/uploads/2026/06/f74c0862-d89c-73c3-33f8-d6c73568d083-1.png",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "의심으로 가득한 시기? 좋습니다",
+      "content": "현재의 혼란스러운 세상 속에서 우리는 종종 불확실성을 느낍니다. 그러나 이러한 의심은 새로운 시각을 발견할 수 있는 기회를 제공할 수 있습니다."
     },
     {
-      "title": "카를로비 바리의 스파 에클렉틱",
-      "content": "카를로비 바리 국제 영화제는 점령, 타협, 생존의 길을 걸어왔습니다. 체코슬로바키아가 나치로부터 해방된 직후에 시작된 이 영화제는 현재 국제적으로 큰 영향을 미치는 영화제로 자리잡았습니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
+      "title_ko": "디프 문화: 차이의 세계에서",
+      "summary": "디핑이라는 숨겨진 세계에서, 공동체는 그들의 열정 안에서 위안을 찾고, 개인적인 고난을 극복해 나갑니다. 이 다큐멘터리는 그들의 이야기를 전합니다.",
+      "url": "https://vimeo.com/channels/staffpicks/1210585745",
+      "source": "Unknown Source",
+      "domain": "FILM",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "영화제가 어떻게 발전해왔고 글로벌 무대에서 어떤 역할을 하는지에 대한 통찰을 제공합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "영화제",
-        "국제"
+        "다큐멘터리",
+        "공동체",
+        "문화"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "스토리텔링"
       ],
-      "why": "국제 영화계의 중심에서 이루어지는 영화제의 역사와 현황을 이해하는데 큰 도움을 줍니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-07-23T08:00:00.000000"
+      "why": "이 다큐멘터리는 공동체의 힘과 개인의 고난 극복 과정을 감동적으로 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://i.vimeocdn.com/video/2182382825-6564f15f5f983463911e28ee3e4087bf2dce4d0e1c00d6fe30b2d1156de7c34f-d_960?region=us",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "디프 문화: 차이의 세계에서",
+      "content": "디핑이라는 숨겨진 세계에서, 공동체는 그들의 열정 안에서 위안을 찾고, 개인적인 고난을 극복해 나갑니다. 이 다큐멘터리는 그들의 이야기를 전합니다."
     },
     {
-      "title": "가장 좋아하는 예술가: Mindy Seu",
-      "content": "미술가이자 기술자인 민디 슈는 다양한 분야에서 활동하며 자신의 호기심을 드러내고 있습니다. 인터넷 아카이브 레지던시 및 강의 퍼포먼스 등 다양한 프로젝트를 통해 그의 호기심을 보여줍니다.",
-      "url": "https://thecreativeindependent.com/people/artist-and-technologist-mindy-seu-on-needing-deadlines/",
-      "source": "Creative Independent",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "다양한 분야에서 어떻게 개방적인 태도로 작업하는지를 보여줍니다.",
-      "tags": [
-        "기술",
-        "미술"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "다양한 분야에서 새로운 시도를 하는 예술가의 앵글을 이해하는데 도움이 됩니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-23T08:00:00.000000"
-    },
-    {
-      "title": "로드 유행의 귀환: Delilah의 석식 클럽",
-      "content": "h.wood 그룹은 몬탁에 저녁 식사와 쇼가 결합된 석식 클럽을 들여오며, Chase Sapphire Reserve와 함께 Lady Delilah를 미리 엿보게 합니다.",
-      "url": "https://coolhunting.com/culture/outside-the-four-walls-delilah-chase-sapphire-reserve-and-the-return-of-the-supper-club/",
-      "source": "coolhunting.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "로드 이벤트와 새로운 형태의 소셜 클럽이 어떻게 현대 사회에서 다시 부상하는지를 보여줍니다.",
-      "tags": [
-        "숍",
-        "뉴욕"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "사회적 상호작용과 새로운 형태의 여가 문화를 이해하는 데 도움이 됩니다.",
-      "depth": 0.95,
-      "image": "https://coolhunting.com/wp-content/uploads/2026/07/176_Chase-Sapphire-Delilah_Montauk_jermcohen-7.23.2026-768x512.jpg",
-      "pub_date": "2026-07-23T08:00:00.000000"
-    },
-    {
-      "title": "기묘한 마요네즈 자동 판매기",
-      "content": "ChaChaanTeng의 하인즈 마요네즈 프로젝트는 일본 자판기의 물리성을 살려 감각적인 식경험을 탐구합니다.",
-      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
-      "source": "It's Nice That",
+      "title_ko": "창조에 중독된 사람들: OFFF 바르셀로나 2026에서의 오누르 센투르크",
+      "summary": "기술과 AI에 대한 대화 대신, 창조의 강박과 인간의 본질에 대한 논의가 펼쳐집니다. 오누르 센투르크와의 인터뷰를 통해 그가 창조에 대해 어떻게 생각하는지 알아봅니다.",
+      "url": "https://motionographer.com/2026/07/13/addicted-to-creation-onur-senturk-at-offf-barcelona-2026/",
+      "source": "Unknown Source",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "음식과 디자인의 융합을 통해 물리적 체험이 디지털화에 맞서는 방법을 보여줍니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "식품",
-        "디자인"
+        "창조성",
+        "인터뷰",
+        "예술가"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "심층 인터뷰"
       ],
-      "why": "디지털과 물리적 체험의 조화로운 융합을 집중적으로 탐구합니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
-      "pub_date": "2026-07-23T08:00:00.000000"
+      "why": "오누르 센투르크의 창조에 대한 통찰은 새로운 창의적 접근을 제안합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/trim2OnurSenturk-AmnestyInternational-Pens-ezgif.com-optimize.gif",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "창조에 중독된 사람들: OFFF 바르셀로나 2026에서의 오누르 센투르크",
+      "content": "기술과 AI에 대한 대화 대신, 창조의 강박과 인간의 본질에 대한 논의가 펼쳐집니다. 오누르 센투르크와의 인터뷰를 통해 그가 창조에 대해 어떻게 생각하는지 알아봅니다."
     },
     {
-      "title": "플로이드 메이웨더의 초호화 생활",
-      "content": "전적 46승 0패와 5체급 무패의 복서 플로이드 메이웨더는 방어 스타일과 화려한 개인 생활로 유명합니다. 특히 그의 초호화 생활이 눈에 띄며, 화려한 차와 많은 돈으로 유명합니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title_ko": "Sophia Huitema '프러시안 블루' 하퍼의 아파트에서",
+      "summary": "Sophia Huitema의 '프러시안 블루'는 하퍼의 아파트에서 열리는 전시회에서 그녀의 독창적인 작품을 소개합니다. 그녀의 예술적 탐험은 색채와 감정의 깊이를 탐구합니다.",
+      "url": "https://www.juxtapoz.com/news/painting/sophia-huitema-prussian-blue-harper-s-apartment/",
+      "source": "Juxtapoz",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "스포츠계와 대중문화에서 스타가 세상과 소통하는 방식을 보여줍니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "복싱",
-        "스타"
+        "색채",
+        "감정",
+        "회화"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "전시 기획"
       ],
-      "why": "스포츠스타의 개인적 삶과 대중 이미지를 이해하는 데 도움을 줍니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-07-23T08:00:00.000000"
+      "why": "Sophia Huitema의 작품은 색채를 통해 감정의 깊이를 전달합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/97776c38dce98abea2513551eb017d69_L.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "Sophia Huitema '프러시안 블루' 하퍼의 아파트에서",
+      "content": "Sophia Huitema의 '프러시안 블루'는 하퍼의 아파트에서 열리는 전시회에서 그녀의 독창적인 작품을 소개합니다. 그녀의 예술적 탐험은 색채와 감정의 깊이를 탐구합니다."
     },
     {
-      "title": "꿈을 담은 프랑스 시계 악테오",
-      "content": "프랑스 디자이너 Jean Christophe Mareshal이 디자인한 악테오 시계는 기발한 오브제와 꿈을 향한 열정이 담긴 상징물로, 가격도 상대적으로 저렴하여 매력적입니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
+      "title_ko": "Acne Studios, 아오야마 플래그십 스토어 첫 기념일을 축하하다",
+      "summary": "Apollinaria Broche와 함께한 Acne Studios의 아오야마 플래그십 스토어 첫 기념일을 기념하는 행사. 패션과 예술이 결합된 이 기념일은 독특한 스타일을 선보입니다.",
+      "url": "https://www.adfwebmagazine.jp/en/design/acne-studios-aoyama-apollinaria-broche-anniversary/",
+      "source": "ADF Web Magazine",
+      "domain": "FASHION",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "꿈과 열정을 화려하게 표현한 시계 디자인의 예시입니다.",
-      "tags": [
-        "시계",
-        "프랑스"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "일상적인 물건에 예술적 가치를 더하는 디자인 아이디어를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-07-23T08:00:00.000000"
-    },
-    {
-      "title": "아야라 커피의 촉각적 패키징",
-      "content": "아야라 커피의 브랜드 아이덴티티는 구조적인 타이포그래피와 패키지 레이아웃을 통해 구현됩니다. 높은 대조와 명확한 디자인을 강조하여 시각적 효과를 극대화합니다.",
-      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
-      "source": "abduzeedo.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "패키지 디자인이 어떻게 브랜드 아이덴티티와 일관성을 나타내는지를 보여줍니다.",
-      "tags": [
-        "브랜딩",
-        "패키징"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "브랜드 이미지와 패키지 디자인의 중요성을 누릴 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
-      "pub_date": "2026-07-23T08:00:00.000000"
-    },
-    {
-      "title": "사진으로 보는 꽃의 예술",
-      "content": "카롤린 럭가버와의 대화를 통해 그녀의 꽃 예술이 사진을 통해 어떻게 전해지는지를 탐구합니다.",
-      "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/",
-      "source": "ignant.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "꽃과 사진 예술이 어떻게 조화를 이뤄 메시지를 전달하는지를 보여줍니다.",
-      "tags": [
-        "꽃",
-        "사진"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "자연과 인공미의 결합을 사진 예술을 통해 감상할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/06/ignant-carolin-ruggaber-clemens-poloczek-1-720x1079.jpg",
-      "pub_date": "2026-07-23T08:00:00.000000"
-    },
-    {
-      "title": "리콜 점과 친환경 패션",
-      "content": "서스테이너블 패션 브랜드 리콜 점의 컬렉션은 친환경 섬유와 리사이클 소재를 사용하여 지속 가능한 트렌드를 주도합니다.",
-      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
-      "source": "thestylewatcher.wordpress.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "패션과 지속 가능성의 융합을 통해 소비자의 선택을 유도합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
         "패션",
-        "지속가능성"
+        "기념일",
+        "스타일"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "이벤트 기획"
       ],
-      "why": "환경을 고려한 패션 트렌드를 이해하고 실천할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
-      "pub_date": "2026-07-23T08:00:00.000000"
+      "why": "패션과 예술의 교차점을 보여주는 기념일 행사는 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-acne-studio-5-225x300.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "Acne Studios, 아오야마 플래그십 스토어 첫 기념일을 축하하다",
+      "content": "Apollinaria Broche와 함께한 Acne Studios의 아오야마 플래그십 스토어 첫 기념일을 기념하는 행사. 패션과 예술이 결합된 이 기념일은 독특한 스타일을 선보입니다."
+    },
+    {
+      "title_ko": "아르티스트와 디자이너의 독창적인 비전",
+      "summary": "비첸차에서 열리는 전시회에서는 아르티스트와 디자이너의 독창적인 비전을 탐구합니다. 그들의 작품은 사회적, 정치적 메시지를 전달합니다.",
+      "url": "https://www.artribune.com/arti-visive/2026/07/giorgia-lupi-gallerie-ditalia-vicenza/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "독창성",
+        "사회적 메시지",
+        "전시회"
+      ],
+      "execution_techniques": [
+        "사회적 탐구"
+      ],
+      "why": "이 전시회는 예술을 통해 사회적 메시지를 전달하는 방법을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/giorgia-lupi-other-stories-3.jpeg",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "아르티스트와 디자이너의 독창적인 비전",
+      "content": "비첸차에서 열리는 전시회에서는 아르티스트와 디자이너의 독창적인 비전을 탐구합니다. 그들의 작품은 사회적, 정치적 메시지를 전달합니다."
+    },
+    {
+      "title_ko": "Mr Cenz, 바르셀로나에서 색채와 감각을 그리다",
+      "summary": "런던의 역사적인 그래피티 아티스트 Mr Cenz는 바르셀로나에서 그의 독창적이고 활기찬 스타일을 선보입니다. 그의 작품은 색채와 감각의 조화를 보여줍니다.",
+      "url": "https://www.streetartbcn.com/mr-cenz-in-barcelona-for-guzzo-arnau-gallery/",
+      "source": "Street Art Barcelona",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "그래피티",
+        "색채",
+        "스타일"
+      ],
+      "execution_techniques": [
+        "라이브 아트"
+      ],
+      "why": "Mr Cenz의 그래피티는 색채와 감각의 조화로 새로운 시각적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2024/02/6-9.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "Mr Cenz, 바르셀로나에서 색채와 감각을 그리다",
+      "content": "런던의 역사적인 그래피티 아티스트 Mr Cenz는 바르셀로나에서 그의 독창적이고 활기찬 스타일을 선보입니다. 그의 작품은 색채와 감각의 조화를 보여줍니다."
+    },
+    {
+      "title_ko": "새로운 도시 정체성: Győr",
+      "summary": "Győr의 공식 도시 정체성 프로젝트는 도시의 새로운 비전을 제공합니다. 이 프로젝트는 시각적 정체성을 통해 도시의 독특한 매력을 강조합니다.",
+      "url": "https://www.behance.net/gallery/248004945/City-Identity-for-Gyor",
+      "source": "Behance",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "도시",
+        "정체성",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "브랜딩"
+      ],
+      "why": "도시 정체성 디자인은 도시의 독특함을 시각적으로 강조하는 방법을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/8e2253248004945.Y3JvcCwzNTE1LDI3NDksMTIyNiwyNjk.png",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "새로운 도시 정체성: Győr",
+      "content": "Győr의 공식 도시 정체성 프로젝트는 도시의 새로운 비전을 제공합니다. 이 프로젝트는 시각적 정체성을 통해 도시의 독특한 매력을 강조합니다."
+    },
+    {
+      "title_ko": "부모나 어른이 없을 때: John Oliver와 Buc-ee’s의 로고 소송",
+      "summary": "Buc-ee’s의 유명한 로고 디자인 소송은 John Oliver와의 대결에서 새로운 국면을 맞이합니다. 이 사건은 로고 디자인과 법적 문제에 대한 새로운 시각을 제공합니다.",
+      "url": "https://www.creativebloq.com/design/logos-icons/buc-ees-infamous-logo-design-lawsuits-might-have-finally-met-their-match-in-john-oliver",
+      "source": "Creative Bloq",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "로고",
+        "디자인",
+        "법적 문제"
+      ],
+      "execution_techniques": [
+        "법적 분석"
+      ],
+      "why": "이 사례는 로고 디자인의 법적 문제를 탐구하는 중요한 기회를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/AE4HoBMGdMwEnczEkkGMfT-1280-80.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "부모나 어른이 없을 때: John Oliver와 Buc-ee’s의 로고 소송",
+      "content": "Buc-ee’s의 유명한 로고 디자인 소송은 John Oliver와의 대결에서 새로운 국면을 맞이합니다. 이 사건은 로고 디자인과 법적 문제에 대한 새로운 시각을 제공합니다."
+    },
+    {
+      "title_ko": "Ant Blades & Birdbox Studio, 'The Close'로의 모험",
+      "summary": "영국의 캐릭터 코미디 마스터 Ant Blades와 Birdbox Studio가 제작한 애니메이션 단편 영화가 웃음을 선사합니다. 이 작품은 10분의 짧은 러닝타임 동안 자주 큰 웃음을 줍니다.",
+      "url": "https://www.stashmedia.tv/ant-blades-birdbox-studio-venture-into-the-close/",
+      "source": "Unknown Source",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "애니메이션",
+        "코미디",
+        "영화"
+      ],
+      "execution_techniques": [
+        "애니메이션 기술"
+      ],
+      "why": "이 단편 영화는 애니메이션을 통해 즐거운 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/The-Close-animated-short-film-by-Ant-Blades-Birdbox-Studio-for-BBC-STASH-MAGAZINE2-1920x1080.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "Ant Blades & Birdbox Studio, 'The Close'로의 모험",
+      "content": "영국의 캐릭터 코미디 마스터 Ant Blades와 Birdbox Studio가 제작한 애니메이션 단편 영화가 웃음을 선사합니다. 이 작품은 10분의 짧은 러닝타임 동안 자주 큰 웃음을 줍니다."
     }
   ],
   "popcorn": [
     {
-      "title": "블레임잇 온 보그",
-      "content": "인터뷰 매거진이 제이미 도넌의 매력을 전하며, 그녀의 과거와 영화 '50가지 그림자'에서의 재해석을 다룹니다.",
-      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
-      "source": "thestylewatcher.wordpress.com",
+      "title_ko": "Acne Studios, 아오야마 플래그십 스토어 첫 기념일 축하",
+      "summary": "Apollinaria Broche와 함께한 Acne Studios의 아오야마 플래그십 스토어 첫 기념일 행사.",
+      "url": "https://www.adfwebmagazine.jp/en/design/acne-studios-aoyama-apollinaria-broche-anniversary/",
+      "source": "ADF Web Magazine",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "영화",
-        "인터뷰"
+        "패션",
+        "이벤트"
       ],
-      "why": "스타와 함께하는 특별한 인터뷰가 주는 자극적인 재미를 제공합니다.",
+      "execution_techniques": [
+        "StreetAesthetic",
+        "PopMinimalism"
+      ],
+      "why": "1) 최신 패션 이벤트로서 주목 2) 패션과 예술의 만남 3) 다른 분야에 영감을 줄 수 있는 협업",
       "depth": 0.5,
-      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
-      "pub_date": "2026-07-23T08:00:00.000000"
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-acne-studio-5-225x300.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "Acne Studios, 아오야마 플래그십 스토어 첫 기념일 축하",
+      "content": "Apollinaria Broche와 함께한 Acne Studios의 아오야마 플래그십 스토어 첫 기념일 행사."
     },
     {
-      "title": "자유로운 범위 2026 [Top 10]",
-      "content": "매년 Open Doors Gallery는 Free Range에서 최고의 신진 사진 예술가를 선정합니다. 올해는 다양한 영국 졸업생 작품이 포함됩니다.",
-      "url": "https://opendoors.gallery/top-ten",
-      "source": "opendoors.gallery",
+      "title_ko": "Mr Cenz, 바르셀로나에서 색채와 감각을 그리다",
+      "summary": "그래피티 아티스트 Mr Cenz는 바르셀로나에서 그의 독창적이고 활기찬 스타일을 선보입니다.",
+      "url": "https://www.streetartbcn.com/mr-cenz-in-barcelona-for-guzzo-arnau-gallery/",
+      "source": "Street Art BCN",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "사진",
+        "그래피티",
         "예술"
       ],
-      "why": "새로운 창의적 인재들을 발견하고 그들의 작품을 제공하는 기회를 제공합니다.",
+      "execution_techniques": [
+        "StreetAesthetic",
+        "ColorFusion"
+      ],
+      "why": "1) 그래피티 아트의 대표 사례 2) 색채와 감각의 조화 3) 도시 문화와의 교차점",
       "depth": 0.5,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-23T08:00:00.000000"
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2024/02/6-9.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "Mr Cenz, 바르셀로나에서 색채와 감각을 그리다",
+      "content": "그래피티 아티스트 Mr Cenz는 바르셀로나에서 그의 독창적이고 활기찬 스타일을 선보입니다."
     },
     {
-      "title": "미국 보그 - 앙상블 뮤지컬",
-      "content": "에디터가 추천하는 9가지 최고의 침대 커버 세트",
-      "url": "https://www.architecturaldigest.com/story/best-duvet-covers-reviewed",
-      "source": "architecturaldigest.com",
+      "title_ko": "John Oliver와 Buc-ee’s의 로고 소송",
+      "summary": "Buc-ee’s의 로고 디자인 소송은 John Oliver와의 대결에서 새로운 국면을 맞이합니다.",
+      "url": "https://www.creativebloq.com/design/logos-icons/buc-ees-infamous-logo-design-lawsuits-might-have-finally-met-their-match-in-john-oliver",
+      "source": "Creative Bloq",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "침대",
-        "인테리어"
+        "디자인",
+        "법"
       ],
-      "why": "트렌디한 제품으로 생활을 스타일링하는 재미를 제공합니다.",
+      "execution_techniques": [
+        "IconDesign",
+        "LegalWit"
+      ],
+      "why": "1) 로고 디자인 논쟁으로 화제 2) 법적 문제와 디자인의 만남 3) 미디어와 법의 교차점",
       "depth": 0.5,
-      "image": "https://media.architecturaldigest.com/photos/69ab490490cd4f626fa81019/master/pass/02.04.2026_ArchDigest_SleepWeek6540%20copy%201_SQUARE.jpg",
-      "pub_date": "2026-07-23T08:00:00.000000"
+      "image": "https://cdn.mos.cms.futurecdn.net/AE4HoBMGdMwEnczEkkGMfT-1280-80.jpg",
+      "pub_date": "2026-07-23T08:00:00.000000",
+      "title_en": "",
+      "title": "John Oliver와 Buc-ee’s의 로고 소송",
+      "content": "Buc-ee’s의 로고 디자인 소송은 John Oliver와의 대결에서 새로운 국면을 맞이합니다."
     }
   ],
   "macro_keywords": [

@@ -9,283 +9,388 @@
   },
   "topPicks": [
     {
-      "title": "신비로운 종이 조각으로 자연을 그리다",
-      "content": "The Paper Ark의 종이 조각은 살아있는 새들이 나뭇잎 속에서 피어나듯 자연을 담고 있습니다. 그들의 작품은 생물 다양성에 대한 경각심을 일깨워 줍니다.",
-      "url": "https://www.thisiscolossal.com/2026/07/the-paper-ark-birds-relief-nature-watercolors/",
-      "source": "Colossal",
+      "title_ko": "흔들려야 스윙이 된다 - 재즈 레터",
+      "summary": "재즈는 다양한 음악적 전통이 만나 탄생한 음악으로, 스윙과 비밥, 모달 재즈 등 여러 갈래로 변화해 왔다. 재즈는 그 자체로 설명하기 어려운 복잡한 매력을 지니고 있다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81261",
+      "source": "아트인사이트",
+      "domain": "MUSIC",
+      "category": "리뷰",
+      "creator_name": "Miles Davis",
+      "creator_insight": "음악에서 가장 중요한 것은 음표가 아니라 음표 사이의 쉼이다.",
+      "tags": [
+        "재즈",
+        "음악",
+        "복잡성"
+      ],
+      "execution_techniques": [
+        "음악적 융합"
+      ],
+      "why": "재즈는 현대인의 복잡한 감정을 반영하고, 다양한 문화적 배경을 융합하는 매개체로 작용하며, 개인의 독특한 경험을 추구하는 현대인의 욕구를 충족시킨다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260617141500_kcemeodc.jpg",
+      "pub_date": "2026-06-18T08:31:16.430254",
+      "title_en": "",
+      "title": "흔들려야 스윙이 된다 - 재즈 레터",
+      "content": "재즈는 다양한 음악적 전통이 만나 탄생한 음악으로, 스윙과 비밥, 모달 재즈 등 여러 갈래로 변화해 왔다. 재즈는 그 자체로 설명하기 어려운 복잡한 매력을 지니고 있다."
+    },
+    {
+      "title_ko": "이제는 익명의 노동자가 한 개인으로 보여야만 하는 때 - 어느 파리 택배기사의 48시간",
+      "summary": "파리는 낭만의 도시로 알려져 있지만, 이주 노동자와 배달 노동자들에게는 생존의 공간이다. 이들은 종종 익명으로 존재하며, 그들의 이야기는 잘 알려지지 않는다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81258",
+      "source": "아트인사이트",
+      "domain": "FILM",
+      "category": "씨네토크",
+      "creator_name": "JR",
+      "creator_insight": "예술은 세상을 바꿀 수 없지만, 사람들의 시각을 바꿀 수 있습니다. 그것이 세상을 바꾸는 첫걸음입니다.",
+      "tags": [
+        "이주노동자",
+        "사회적 책임",
+        "개인화"
+      ],
+      "execution_techniques": [
+        "다큐멘터리"
+      ],
+      "why": "이 기사는 현대 사회에서 종종 간과되는 노동자들의 개인적 이야기를 조명하며, 그들의 존재를 인정하고 존중하는 사회적 책임을 일깨운다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260617003052_wfhynwds.jpg",
+      "pub_date": "2026-06-18T08:31:16.430212",
+      "title_en": "",
+      "title": "이제는 익명의 노동자가 한 개인으로 보여야만 하는 때 - 어느 파리 택배기사의 48시간",
+      "content": "파리는 낭만의 도시로 알려져 있지만, 이주 노동자와 배달 노동자들에게는 생존의 공간이다. 이들은 종종 익명으로 존재하며, 그들의 이야기는 잘 알려지지 않는다."
+    },
+    {
+      "title_ko": "예측불가능한 삶 속 ‘단절(들)’ 사이에 서서",
+      "summary": "우리의 삶은 태어나면서부터 단절을 겪으며, 이는 모체와의 분리로부터 시작된다. 이러한 단절은 개인의 정체성과 경험을 형성하는 중요한 요소로 작용한다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81267",
+      "source": "아트인사이트",
+      "domain": "LITERATURE",
+      "category": "리뷰",
+      "creator_name": "이우환",
+      "creator_insight": "예술은 단절된 세계 속에서 인간 존재의 깊이를 회복하는 행위입니다.",
+      "tags": [
+        "단절",
+        "정체성",
+        "개인 경험"
+      ],
+      "execution_techniques": [
+        "문학적 서술"
+      ],
+      "why": "이 작품은 현대인들이 겪는 정체성의 혼란과 단절의 경험을 탐구하며, 개인의 고유한 경험을 통해 자아를 발견하는 과정을 보여준다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260617194755_ehmhepuh.jpg",
+      "pub_date": "2026-06-18T08:31:16.430161",
+      "title_en": "",
+      "title": "예측불가능한 삶 속 ‘단절(들)’ 사이에 서서",
+      "content": "우리의 삶은 태어나면서부터 단절을 겪으며, 이는 모체와의 분리로부터 시작된다. 이러한 단절은 개인의 정체성과 경험을 형성하는 중요한 요소로 작용한다."
+    },
+    {
+      "title_ko": "오지게 재밌는 가시나들 - 가장 시작하기 좋은 나이",
+      "summary": "뮤지컬 '오지게 재밌는 가시나들'은 다큐멘터리와 도서를 원작으로 제작된 창작 뮤지컬로, 나이 듦과 관련된 다양한 이야기를 다룬다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81266",
+      "source": "아트인사이트",
+      "domain": "PERFORMANCE",
+      "category": "리뷰",
+      "creator_name": "봉준호",
+      "creator_insight": "가장 개인적인 것이 가장 창의적인 것이다.",
+      "tags": [
+        "뮤지컬",
+        "나이듦",
+        "창작"
+      ],
+      "execution_techniques": [
+        "창작 뮤지컬"
+      ],
+      "why": "이 공연은 나이 듦에 대한 긍정적인 시각을 제시하며, 삶의 다양한 단계를 수용하고 즐기는 현대인의 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260617195718_tnmtrazo.jpeg",
+      "pub_date": "2026-06-18T08:31:16.430107",
+      "title_en": "",
+      "title": "오지게 재밌는 가시나들 - 가장 시작하기 좋은 나이",
+      "content": "뮤지컬 '오지게 재밌는 가시나들'은 다큐멘터리와 도서를 원작으로 제작된 창작 뮤지컬로, 나이 듦과 관련된 다양한 이야기를 다룬다."
+    },
+    {
+      "title_ko": "Russian Artist And Political Dissident Robert Kuzovkov Shot Dead In Poland",
+      "summary": "러시아의 예술가이자 정치적 반체제 인사인 Robert Kuzovkov가 폴란드에서 사망했다. 그의 죽음은 정치적 살해로 의심된다.",
+      "url": "https://www.artforum.com/news/russian-artist-robert-kuzovkov-shot-dead-in-poland-1234752553/",
+      "source": "Artforum",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "The Paper Ark",
-      "creator_insight": "자연의 경외심을 일깨우며, 생물 다양성 보존의 필요성을 강조하고 있습니다.",
+      "category": "뉴스",
+      "creator_name": "Ai Weiwei",
+      "creator_insight": "예술은 질문을 던지는 것이다. 답을 제공하는 것이 아니다.",
       "tags": [
-        "종이 조각",
-        "자연"
+        "정치",
+        "예술",
+        "사회적 책임"
       ],
       "execution_techniques": [
-        "#수채화"
+        "사회적 메시지"
       ],
-      "why": "자연의 아름다움과 생태계 보존의 중요성을 시각적으로 보여주는 작품입니다.",
-      "depth": 0.95,
-      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/paper-ark-2.jpg",
-      "pub_date": "2026-06-18T08:00:00.000000"
+      "why": "이 기사는 예술이 정치적 메시지를 전달하는 강력한 도구임을 상기시키며, 예술가의 사회적 책임과 위험을 조명한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/06/GettyImages-2280720265-e1781735643973.jpg",
+      "pub_date": "2026-06-17T22:31:22+00:00",
+      "title_en": "",
+      "title": "Russian Artist And Political Dissident Robert Kuzovkov Shot Dead In Poland",
+      "content": "러시아의 예술가이자 정치적 반체제 인사인 Robert Kuzovkov가 폴란드에서 사망했다. 그의 죽음은 정치적 살해로 의심된다."
     },
     {
-      "title": "문화적 정체성의 새로운 탐색",
-      "content": "수천 년 동안 문화의 중심에 있었던 공예 예술의 변화를 탐색하며, 사라지고 있는 전통 공예의 위험성과 그들만의 새로운 예술적 장면에 대해 논의하고 있습니다.",
-      "url": "https://artaurea.com/2026/neue-kulturelle-identitaeten/",
-      "source": "Art Aurea",
+      "title_ko": "Mexican authorities urge Sotheby’s to stop sale of two pre-Columbian artefacts",
+      "summary": "멕시코 당국은 소더비에게 두 개의 선사시대 유물 경매를 중단할 것을 촉구하고 있다. 이 유물들은 멕시코의 문화유산으로 간주된다.",
+      "url": "https://www.theartnewspaper.com/2026/06/17/mexico-opposes-sothebys-auction-pre-columbian-artefacts",
+      "source": "The Art Newspaper",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Warwick Freeman",
-      "creator_insight": "전통에 바탕한 새로운 예술적 주체의 출현을 조망합니다.",
+      "category": "뉴스",
+      "creator_name": "Diego Rivera",
+      "creator_insight": "예술은 대중에게 봉사해야 한다. 예술은 인간의 진실한 감정과 꿈을 표현하는 수단이어야 한다.",
       "tags": [
-        "문화",
-        "공예"
+        "문화유산",
+        "경매",
+        "사회적 책임"
       ],
       "execution_techniques": [
-        "#전통과현대"
+        "문화유산 보호"
       ],
-      "why": "시대가 변하는 가운데 어떻게 전통이 새로운 문화적 형태로 변모할 수 있는지 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://artaurea.com/wp-content/uploads/2026/05/Art-Aurea_Warwick-Freeman_Foto-Sam-Hartnett-aus-Hook-Hand-Heart-Star-herausgegeben-von-Die-Neue-Sammlung-The-Design-Museum-und-Objectspace_Erschienen-bei-arnoldsche-Art-Publisher-scaled.jpg",
-      "pub_date": "2026-06-18T08:00:00.000000"
+      "why": "이 기사는 문화유산의 보존과 상업적 거래 사이의 갈등을 조명하며, 문화적 정체성의 중요성을 강조한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/3322fe627c4f70379b667485f01acdc7fba6c96e-648x649.png",
+      "pub_date": "2026-06-17T21:34:49+00:00",
+      "title_en": "",
+      "title": "Mexican authorities urge Sotheby’s to stop sale of two pre-Columbian artefacts",
+      "content": "멕시코 당국은 소더비에게 두 개의 선사시대 유물 경매를 중단할 것을 촉구하고 있다. 이 유물들은 멕시코의 문화유산으로 간주된다."
     },
     {
-      "title": "AI 크롤러를 속이는 폰트, ShieldFont",
-      "content": "디자이너들이 AI 크롤러의 소스코드 레벨에서 혼란을 주는 새로운 타입페이스, 'ShieldFont'를 개발했습니다. 이는 인간 독자는 문제없이 읽을 수 있도록 돕습니다.",
-      "url": "https://thedieline.com/shieldfont-is-a-typeface-that-poisons-ai-crawlers/",
-      "source": "The Dieline",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "S&A and Playtype",
-      "creator_insight": "인간의 경험을 해치지 않으면서도 기술적 난관을 극복하는 독창성 있는 접근입니다.",
-      "tags": [
-        "폰트",
-        "AI"
-      ],
-      "execution_techniques": [
-        "#타입페이스디자인"
-      ],
-      "why": "기술적 발전이 인간의 경험에 미치는 영향을 탐구하는 신선한 시도입니다.",
-      "depth": 0.95,
-      "image": "https://thedieline.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-9.24.37-AM.png",
-      "pub_date": "2026-06-18T08:00:00.000000"
-    },
-    {
-      "title": "악마의 탑을 기리는 흑백 사진",
-      "content": "Zac Henderson이 악마의 탑의 변화하는 빛과 신비한 질감을 포착한 사진들을 선보입니다.",
-      "url": "https://www.thisiscolossal.com/2026/07/zac-henderson-devils-tower-photographs/",
-      "source": "Colossal",
+      "title_ko": "Houston Museum Displays Vandalized Painting Unrestored",
+      "summary": "휴스턴 아프리카계 미국인 문화 박물관은 의도적으로 손상된 그림을 복원하지 않고 전시하고 있다. 이 작품은 미국 국기를 두른 흑인을 묘사하고 있다.",
+      "url": "https://www.artforum.com/news/houston-museum-displays-vandalized-painting-1234752534/",
+      "source": "Artforum",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Zac Henderson",
-      "creator_insight": "자연의 장엄함을 흑백 사진을 통해 감각적으로 표현했습니다.",
+      "category": "뉴스",
+      "creator_name": "Pablo Picasso",
+      "creator_insight": "예술은 마음을 씻어주는 먼지다. - 파블로 피카소",
       "tags": [
-        "사진",
-        "자연"
+        "예술",
+        "사회적 메시지",
+        "복원"
       ],
       "execution_techniques": [
-        "#흑백사진"
+        "비복원 전시"
       ],
-      "why": "자연의 신비함을 보여주는 직관적인 예술 작품입니다.",
-      "depth": 0.95,
-      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/henderson-6.jpg",
-      "pub_date": "2026-06-18T08:00:00.000000"
+      "why": "이 전시는 예술 작품의 손상이 사회적 메시지를 전달하는 방법이 될 수 있음을 보여주며, 현대 사회의 갈등과 문제를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-4.31.03-PM.png",
+      "pub_date": "2026-06-17T20:40:26+00:00",
+      "title_en": "",
+      "title": "Houston Museum Displays Vandalized Painting Unrestored",
+      "content": "휴스턴 아프리카계 미국인 문화 박물관은 의도적으로 손상된 그림을 복원하지 않고 전시하고 있다. 이 작품은 미국 국기를 두른 흑인을 묘사하고 있다."
     },
     {
-      "title": "옥이나와의 수많은 사람들을 담다",
-      "content": "사진작가 Haneul Lee가 현실의 일상과 일치하면서도 특별한 파장을 가진 초상 사진들을 선보이며, 옥이나와의 복잡한 역사를 표현합니다.",
-      "url": "https://wepresent.wetransfer.com/stories/haneul-lee-photography-big-bang-okinawa",
-      "source": "WePresent",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Haneul Lee",
-      "creator_insight": "생활의 순간들을 신중하게 포착하여 복잡한 감정과 역사를 드러냅니다.",
-      "tags": [
-        "사진",
-        "역사"
-      ],
-      "execution_techniques": [
-        "#포트레이트"
-      ],
-      "why": "일상의 모습을 담아내며 사회적, 역사적 메시지를 전달하는 작품입니다.",
-      "depth": 0.95,
-      "image": "https://images.ctfassets.net/adaoj5ok2j3t/fmuy0zqwGx5QqOimChTrH/b4d573c4f533761756fe7b7f4c8d4f36/BB-9975_copy.jpg",
-      "pub_date": "2026-06-18T08:00:00.000000"
-    },
-    {
-      "title": "현대 조각으로 재탄생한 전통 책 제본 요소",
-      "content": "Adelene Koh는 책의 구성이 종종 간과되는 요소를 현대적인 조각으로 재해석하였습니다.",
-      "url": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/",
-      "source": "Colossal",
+      "title_ko": "Refik Anadol, LA에 세계 최초 인공지능 아트 미술관 개관",
+      "summary": "Refik Anadol이 LA에 세계 최초의 인공지능 아트 미술관을 개관했다. 이 미술관은 데이터와 인공지능을 활용한 예술 작품을 전시한다.",
+      "url": "https://hypebeast.kr/2026/6/refik-anadol-dataland-los-angeles-announcement",
+      "source": "Hypebeast",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Adelene Koh",
-      "creator_insight": "과거의 유산을 현대 예술로 구현하여 새로운 시각적 흥미를 유발합니다.",
+      "category": "뉴스",
+      "creator_name": "Refik Anadol",
+      "creator_insight": "미래는 데이터를 통해 상상할 수 있는 무한한 가능성이 열려 있습니다. 데이터는 새로운 형태의 예술을 창조할 수 있는 원동력입니다.",
       "tags": [
-        "조각",
-        "제본"
+        "인공지능",
+        "예술",
+        "혁신"
       ],
       "execution_techniques": [
-        "#현대미술"
+        "인공지능 예술"
       ],
-      "why": "전통과 현대의 조화를 이루며 독창적 예술을 제시합니다.",
-      "depth": 0.95,
-      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/koh-4.jpg",
-      "pub_date": "2026-06-18T08:00:00.000000"
+      "why": "이 미술관은 기술과 예술의 융합을 통해 새로운 형태의 예술 경험을 제공하며, 현대인의 기술적 호기심과 예술적 욕구를 충족시킨다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2Frefik-anadol-dataland-los-angeles-announcement-0.jpg?cbr=1&fit=max",
+      "pub_date": "2026-06-17T19:21:20+00:00",
+      "title_en": "",
+      "title": "Refik Anadol, LA에 세계 최초 인공지능 아트 미술관 개관",
+      "content": "Refik Anadol이 LA에 세계 최초의 인공지능 아트 미술관을 개관했다. 이 미술관은 데이터와 인공지능을 활용한 예술 작품을 전시한다."
     },
     {
-      "title": "2026년 5월 카피 모음",
-      "content": "아모레퍼시픽의 다양한 미용 및 화장품 카피를 통해 아름다움과 움직임의 상관관계를 탐구하고 있습니다.",
-      "url": "https://adim21.co.kr/16624/",
-      "source": "Unknown Source",
+      "title_ko": "Beyond Leather Transforms Scrap Material Into Lighting",
+      "summary": "Elmo Leather는 TetuánCrea 및 Soulem과 협력하여 보통 버려지는 소재를 활용한 조명 컬렉션을 선보였다.",
+      "url": "https://design-milk.com/beyond-leather-transforms-scrap-material-into-lighting/",
+      "source": "Design Milk",
       "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "아모레퍼시픽",
-      "creator_insight": "미용과 아름다움의 새로운 접근법을 제안하며 브랜드 철학을 강화합니다.",
+      "category": "디자인",
+      "creator_name": "Faye Toogood",
+      "creator_insight": "디자인은 기능과 감성을 결합하여 물질적인 것 이상으로 나아가는 방식입니다.",
       "tags": [
-        "브랜드",
-        "미용"
+        "지속 가능성",
+        "디자인",
+        "재활용"
       ],
       "execution_techniques": [
-        "#브랜드카피"
+        "재활용 디자인"
       ],
-      "why": "마케팅과 창의성이 결합된 미용 분야의 인사이트를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://i0.wp.com/adim21.co.kr/grim/MCOPY/MCOPY26/MCOPY2605.jpg?ssl=1",
-      "pub_date": "2026-06-18T08:00:00.000000"
+      "why": "이 디자인은 지속 가능한 소재 활용을 통해 환경 보호에 기여하며, 현대인의 지속 가능성에 대한 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/06/Beyond-Leather-Elmo-Leather-0.jpg",
+      "pub_date": "2026-06-17T14:00:36+00:00",
+      "title_en": "",
+      "title": "Beyond Leather Transforms Scrap Material Into Lighting",
+      "content": "Elmo Leather는 TetuánCrea 및 Soulem과 협력하여 보통 버려지는 소재를 활용한 조명 컬렉션을 선보였다."
     },
     {
-      "title": "그랜드 캐년의 경이, The Rising",
-      "content": "Petitmoulin Studio가 그랜드 캐년의 놀라움을 기반으로 한 브랜딩 및 포장 디자인 프로젝트를 선보입니다.",
-      "url": "https://www.behance.net/gallery/252439045/The-Rising",
-      "source": "Behance",
+      "title_ko": "Michele De Lucchi and Enzo Mari’s minimalist puzzles champion old-school play",
+      "summary": "Michele De Lucchi와 Enzo Mari의 미니멀리스트 퍼즐은 나무와 종이로 만들어져 전통적인 놀이의 가치를 강조한다.",
+      "url": "https://www.wallpaper.com/design-interiors/enzo-mari-michele-de-lucchi-puzzles-danese-milano",
+      "source": "Wallpaper",
       "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Petitmoulin Studio",
-      "creator_insight": "브랜드 스토리를 탐구함으로써 회사의 비전을 새롭게 정의합니다.",
+      "category": "디자인",
+      "creator_name": "Enzo Mari",
+      "creator_insight": "“디자이너는 도덕적 의무를 가지고 있습니다. 그들은 더욱 나은 세상을 만들어야 합니다.”",
       "tags": [
-        "브랜딩",
+        "미니멀리즘",
+        "놀이",
         "디자인"
       ],
       "execution_techniques": [
-        "#브랜드디자인"
+        "미니멀리스트 디자인"
       ],
-      "why": "자연의 경이로움을 기업의 시각 디자인에 효과적으로 적용하였습니다.",
-      "depth": 0.95,
-      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/1f6b6c252439045.Y3JvcCw4NjQsNjc2LDI2OSwxMDk.jpg",
-      "pub_date": "2026-06-18T08:00:00.000000"
+      "why": "이 퍼즐은 아날로그적 놀이의 가치를 강조하며, 디지털 시대에 물성의 귀환을 원하는 현대인의 욕구를 충족시킨다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/upZdBXC4m3mtfvRfxkLKJG-1280-80.png",
+      "pub_date": "2026-06-17T15:55:38+00:00",
+      "title_en": "",
+      "title": "Michele De Lucchi and Enzo Mari’s minimalist puzzles champion old-school play",
+      "content": "Michele De Lucchi와 Enzo Mari의 미니멀리스트 퍼즐은 나무와 종이로 만들어져 전통적인 놀이의 가치를 강조한다."
     },
     {
-      "title": "콜라보레이션의 예술, Vitra Design Museum",
-      "content": "Camper가 Vitra Design Museum에서 협력 프로젝트들을 전시하며, 창의적 콜라보레이션의 중요성을 강조합니다.",
-      "url": "https://www.fubiz.net/2026/07/01/camper-for-vitra-design-museum-at-art-basel-2026/",
-      "source": "Fubiz",
+      "title_ko": "‘Everything starts from a glow’: Michael Anastassiades on sunsets and lightbulbs in Kyoto",
+      "summary": "Michael Anastassiades는 교토 전시회에서 빛과 색채의 변화를 탐구하며, 일몰과 전구의 아름다움을 조명한다.",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/michael-anastassiades-kyoto-exhibition",
+      "source": "Wallpaper",
       "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Hella Jongerius",
-      "creator_insight": "긴밀한 협업을 통한 창의적 성과를 기념합니다.",
+      "category": "디자인",
+      "creator_name": "Michael Anastassiades",
+      "creator_insight": "모든 것은 빛으로부터 시작된다.",
       "tags": [
+        "빛",
         "디자인",
-        "협업"
+        "자연"
       ],
       "execution_techniques": [
-        "#협력디자인"
+        "조명 디자인"
       ],
-      "why": "예술과 디자인이 만나는 접점을 통해 공동 창작의 가치를 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://www.fubiz.net/wp-content/uploads/2026/07/06_VDM_Hella-Jongerius-Exhibition_hr-900x600.jpg",
-      "pub_date": "2026-06-18T08:00:00.000000"
+      "why": "이 전시는 자연과 인공의 경계를 허물며, 현대인들이 자연의 아름다움과 조화로운 디자인을 경험하도록 돕는다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/GG984JBsJ8XXNJ6o4pDoie-1280-80.jpg",
+      "pub_date": "2026-06-17T15:08:00+00:00",
+      "title_en": "",
+      "title": "‘Everything starts from a glow’: Michael Anastassiades on sunsets and lightbulbs in Kyoto",
+      "content": "Michael Anastassiades는 교토 전시회에서 빛과 색채의 변화를 탐구하며, 일몰과 전구의 아름다움을 조명한다."
     },
     {
-      "title": "공간을 초월하는 예술, Brash Rodeo",
-      "content": "Aaron Agosto가 촬영한 Brash Rodeo 시리즈는 직관적인 렌즈를 통해 독특한 로데오 세계를 탐험합니다.",
-      "url": "https://www.booooooom.com/2026/07/22/brash-rodeo-by-photographer-aaron-agosto/",
-      "source": "Booooooom",
+      "title_ko": "Cao Fei: ‘The scenarios in many of my works have come true later’",
+      "summary": "Cao Fei는 스위스 바젤에서 첫 개인전을 열며, 그녀의 작품들이 기술 자본주의와의 관계 진화를 탐구한다.",
+      "url": "https://www.theartnewspaper.com/2026/06/17/cao-fei-the-scenarios-in-many-of-my-works-have-come-true-later",
+      "source": "The Art Newspaper",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Aaron Agosto",
-      "creator_insight": "특별한 순간들을 포착해 로데오의 정수를 드러냅니다.",
+      "category": "인터뷰",
+      "creator_name": "Cao Fei",
+      "creator_insight": "많은 작품 속 시나리오가 나중에 현실이 되었다.",
       "tags": [
-        "사진",
-        "문화"
+        "기술",
+        "자본주의",
+        "예술"
       ],
       "execution_techniques": [
-        "#다큐멘터리사진"
+        "영상 설치"
       ],
-      "why": "색다른 시선을 통해 로데오 문화를 새롭게 조명합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/06/Agosto1.jpg",
-      "pub_date": "2026-06-18T08:00:00.000000"
-    },
-    {
-      "title": "AI에 대한 경고: 확신에 속지 마세요",
-      "content": "AI의 확신이 가져오는 협력적 악영향을 논의하며, 의심의 가치를 강조합니다.",
-      "url": "https://designobserver.com/ai-will-offer-you-confidence-and-conviction-dont-fall-for-it/",
-      "source": "Design Observer",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Design Observer",
-      "creator_insight": "기술 발전 속에서도 인간 중심의 협력이 중요함을 강조합니다.",
-      "tags": [
-        "AI",
-        "협력"
-      ],
-      "execution_techniques": [
-        "#비판적사고"
-      ],
-      "why": "기술 혁신이 인간의 협력 방식을 어떻게 변화시키는지를 분석합니다.",
-      "depth": 0.95,
-      "image": "https://designobserver.com/wp-content/uploads/2026/07/6-2-1024x683.png",
-      "pub_date": "2026-06-18T08:00:00.000000"
+      "why": "이 전시는 현대 사회의 기술 발전과 자본주의의 영향을 비판적으로 조명하며, 관객들에게 현재와 미래의 사회적 변화에 대한 통찰을 제공한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/57314fe60e7db38656c34579c1010ca391d08da7-2285x3425.jpg?rect=0,105,2285,2952",
+      "pub_date": "2026-06-17T16:28:24+00:00",
+      "title_en": "",
+      "title": "Cao Fei: ‘The scenarios in many of my works have come true later’",
+      "content": "Cao Fei는 스위스 바젤에서 첫 개인전을 열며, 그녀의 작품들이 기술 자본주의와의 관계 진화를 탐구한다."
     }
   ],
   "items": [],
   "popcorn": [
     {
-      "title": "페이퍼 아크의 새 종이 조각",
-      "content": "자연의 경의를 표현하는 종이 조각 작품입니다.",
-      "url": "https://www.thisiscolossal.com/2026/07/the-paper-ark-birds-relief-nature-watercolors/",
-      "source": "Colossal",
+      "title_ko": "8 Best Nursery Rugs to Suit Any Decor Style in 2026",
+      "summary": "다양한 부모와 부모가 될 사람들에 의해 테스트된 2026년 최고의 유아실 러그 추천 목록.",
+      "url": "https://www.architecturaldigest.com/story/best-nursery-rugs-for-any-design-style",
+      "source": "Architectural Digest",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "종이조각"
+        "인테리어",
+        "유아실",
+        "러그"
       ],
-      "why": "자연을 예술로 표현해 대중의 관심을 끌었습니다.",
+      "why": "이 기사는 다양한 스타일에 맞춘 유아실 인테리어 아이템을 소개하며, 부모들이 자녀를 위한 특별한 공간을 꾸미고자 하는 욕구를 충족시킨다.",
       "depth": 0.5,
-      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/paper-ark-2.jpg",
-      "pub_date": "2026-06-18T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://media.architecturaldigest.com/photos/67b8f980d43b896972f5eec0/16:9/w_1280,c_limit/SC2485_102.jpg",
+      "pub_date": "2026-06-17T23:01:25+00:00",
+      "title_en": "",
+      "title": "8 Best Nursery Rugs to Suit Any Decor Style in 2026",
+      "content": "다양한 부모와 부모가 될 사람들에 의해 테스트된 2026년 최고의 유아실 러그 추천 목록."
     },
     {
-      "title": "익명의 얼굴, 악마의 탑",
-      "content": "Zac Henderson의 흑백 사진이 전세계적으로 주목받고 있습니다.",
-      "url": "https://www.thisiscolossal.com/2026/07/zac-henderson-devils-tower-photographs/",
-      "source": "Colossal",
+      "title_ko": "8 Best Beach Towels for Elevated Summer Lounging (2026)",
+      "summary": "단색, 카바나 스트라이프 등 다양한 스타일의 해변 타월 추천 목록.",
+      "url": "https://www.architecturaldigest.com/story/best-beach-towels",
+      "source": "Architectural Digest",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "사진"
+        "해변",
+        "여름",
+        "타월"
       ],
-      "why": "풍경 사진의 감성을 새로운 차원으로 끌어올립니다.",
+      "why": "이 기사는 여름 휴가철을 맞아 스타일리시한 해변 타월을 소개하며, 소비자들이 휴가를 더욱 특별하게 즐기고자 하는 욕구를 반영한다.",
       "depth": 0.5,
-      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/henderson-6.jpg",
-      "pub_date": "2026-06-18T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://media.architecturaldigest.com/photos/6a32f06018eeb43935ad919a/16:9/w_1280,c_limit/CN000010664.jpg",
+      "pub_date": "2026-06-17T22:24:43+00:00",
+      "title_en": "",
+      "title": "8 Best Beach Towels for Elevated Summer Lounging (2026)",
+      "content": "단색, 카바나 스트라이프 등 다양한 스타일의 해변 타월 추천 목록."
     },
     {
-      "title": "수백 명을 촬영한 작가",
-      "content": "Haneul Lee의 촬영 프로젝트가 사진 애호가들 사이에서 화제가 되고 있습니다.",
-      "url": "https://wepresent.wetransfer.com/stories/haneul-lee-photography-big-bang-okinawa",
-      "source": "WePresent",
+      "title_ko": "The $29 audiophile starter pack: All you need to become a headphone audio nerd, just like me!",
+      "summary": "헤드폰 오디오 애호가가 되기 위한 필수 아이템 목록.",
+      "url": "https://www.creativebloq.com/tech/headphones-earbuds/the-usd29-audiophile-starter-pack-the-only-things-you-need-to-be-a-headphone-audio-nerd",
+      "source": "Creative Bloq",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "사진"
+        "오디오",
+        "헤드폰",
+        "애호가"
       ],
-      "why": "사람 사이의 연결성을 사진으로 탐구합니다.",
+      "why": "이 기사는 저렴한 가격에 오디오 애호가가 될 수 있는 방법을 제시하며, 대중들이 개인의 취미 생활을 더욱 풍성하게 즐기고자 하는 욕구를 반영한다.",
       "depth": 0.5,
-      "image": "https://images.ctfassets.net/adaoj5ok2j3t/fmuy0zqwGx5QqOimChTrH/b4d573c4f533761756fe7b7f4c8d4f36/BB-9975_copy.jpg",
-      "pub_date": "2026-06-18T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZfJJXYEgDVWVyNvozWbbUQ-1280-80.jpg",
+      "pub_date": "2026-06-17T19:44:08+00:00",
+      "title_en": "",
+      "title": "The $29 audiophile starter pack: All you need to become a headphone audio nerd, just like me!",
+      "content": "헤드폰 오디오 애호가가 되기 위한 필수 아이템 목록."
     }
   ],
   "keywords": [

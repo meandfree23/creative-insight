@@ -9,285 +9,413 @@
   },
   "topPicks": [
     {
-      "title": "플로이드 메이웨더: 무패 챔피언의 초호화 생활",
-      "content": "플로이드 메이웨더는 46전 전승의 기록을 가진 복서로서 최고의 스피드와 테크닉을 갖추고 있습니다. 그는 압도적인 수입으로 초호화 생활을 즐기며 그의 성공을 자랑합니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title_ko": "희망",
+      "summary": "이 블로그 글은 희망의 본질과 이를 어떻게 일상에서 발견할 수 있는지를 탐구합니다. 시각적 예술과 내러티브를 통해 깊은 감동을 전합니다.",
+      "url": "https://www.silvanderwoerd.com/post/_hope",
+      "source": "silvanderwoerd.com",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "대중의 관심을 끄는 스포츠 스타의 면모를 깊게 조명합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "스포츠",
-        "스타생활"
+        "희망",
+        "예술",
+        "내러티브"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "비주얼 스토리텔링"
       ],
-      "why": "화려한 복서의 삶을 매력적으로 조명하며, 독자의 호기심을 자극합니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-07-27T08:00:00.000000"
+      "why": "희망이라는 주제를 예술적으로 탐구하며 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://static.wixstatic.com/media/ffaf9b_ff55331bacb14c9f9cec47d5f8938f77~mv2.jpg/v1/fit/w_1000,h_640,al_c,q_80/file.png",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "희망",
+      "content": "이 블로그 글은 희망의 본질과 이를 어떻게 일상에서 발견할 수 있는지를 탐구합니다. 시각적 예술과 내러티브를 통해 깊은 감동을 전합니다."
     },
     {
-      "title": "꿈을 담은 프랑스 시계 - akteo",
-      "content": "akteo 시계는 단순한 시간 표시기를 넘어 꿈과 열정을 상징적으로 표현합니다. 프랑스 디자이너의 창의력으로 디자인된 이 시계는 개인의 꿈을 응원합니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
+      "title_ko": "케이든 브라운, 영국 음악계의 흑인 개척자들 축하",
+      "summary": "케이든 브라운의 프로젝트 'Pride in the Panther'은 런던의 음악 신에서 흑인이 남긴 유산을 기념합니다. 이 프로젝트는 다양성과 포용성을 강조합니다.",
+      "url": "https://wepresent.wetransfer.com/stories/kadeen-brown-pride-in-the-panther",
+      "source": "WePresent",
+      "domain": "MUSIC",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "음악",
+        "다양성",
+        "포용성"
+      ],
+      "execution_techniques": [
+        "다큐멘터리"
+      ],
+      "why": "음악을 통해 사회적 변화를 이끄는 이야기로 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/1Rf5shVSJHLQ4IVBACiF0f/703b9b8fd84c67c5818f8a074f89a214/Kdeen_cover_1.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "케이든 브라운, 영국 음악계의 흑인 개척자들 축하",
+      "content": "케이든 브라운의 프로젝트 'Pride in the Panther'은 런던의 음악 신에서 흑인이 남긴 유산을 기념합니다. 이 프로젝트는 다양성과 포용성을 강조합니다."
+    },
+    {
+      "title_ko": "RTE 100: 신호 | 피라냐 바",
+      "summary": "RTE 100 프로젝트는 피라냐 바에서 시청각적 신호를 예술적으로 재해석합니다. 혁신적인 접근 방식이 주목할 만합니다.",
+      "url": "https://motionographer.com/quickie/rte-100-the-signal-piranha-bar/",
+      "source": "Unknown Source",
+      "domain": "VISUAL ARTS",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "신호",
+        "시청각",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "멀티미디어"
+      ],
+      "why": "예술과 기술의 융합이 이끄는 새로운 시도입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/RTE100_TheSignal_Still.03-700x394.png",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "RTE 100: 신호 | 피라냐 바",
+      "content": "RTE 100 프로젝트는 피라냐 바에서 시청각적 신호를 예술적으로 재해석합니다. 혁신적인 접근 방식이 주목할 만합니다."
+    },
+    {
+      "title_ko": "BKV, 소매점과 갤러리 폐쇄",
+      "summary": "바이에른 예술 공예 협회의 소매점과 갤러리가 문을 닫습니다. 이는 뮌헨을 넘어 예술계에 큰 변화를 가져올 것입니다.",
+      "url": "https://artaurea.com/2026/bkv-closes-retail-store-and-gallery/",
+      "source": "Art Aurea",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "창의적인 디자인과 열정의 가치에 중점을 두었습니다.",
-      "tags": [
-        "디자인",
-        "렬정"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "독창적인 시계 디자인으로 감성과 실용성을 동시에 제공합니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-07-27T08:00:00.000000"
-    },
-    {
-      "title": "100년의 면도기 역사: 길레트",
-      "content": "길레트의 100주년 역사를 시대의 변화와 함께 조명합니다. 음악과 비디오로 이 브랜드의 혁신을 전합니다.",
-      "url": "https://honestart.tistory.com/96",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "길레트 브랜드의 혁신적 변화와 진화를 상세히 다룹니다.",
-      "tags": [
-        "역사",
-        "면도기"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "브랜드의 지속적인 혁신 과정을 통해 소비자에게 신뢰를 줍니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
-      "pub_date": "2026-07-27T08:00:00.000000"
-    },
-    {
-      "title": "샘 닐을 기억하며",
-      "content": "샘 닐과 그의 연기에 대해 깊이 있는 해설을 제공합니다. 그의 경력과 작품에 대한 애정 어린 회상을 담고 있습니다.",
-      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "샘 닐의 독보적인 연기 경력을 돌아보며 영화계에 미친 영향을 탐구합니다.",
-      "tags": [
-        "영화",
-        "배우"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "영화 팬들에게 감동적인 회상의 기회를 제공하여 감성을 자극합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
-      "pub_date": "2026-07-27T08:00:00.000000"
-    },
-    {
-      "title": "아트 오브 플라워: 캐롤린 루가버와의 대화",
-      "content": "꽃 예술가 캐롤린 루가버와의 대화를 통해 꽃이 전하는 메시지와 그 아름다움을 탐구합니다.",
-      "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/",
-      "source": "ignant.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "꽃 예술을 통해 자연과 예술의 만남을 심도 있게 살펴봅니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
         "예술",
-        "자연"
+        "변화",
+        "갤러리"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "보도"
       ],
-      "why": "자연의 아름다움을 예술적으로 승화시켜 감동을 선사합니다.",
-      "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/06/ignant-carolin-ruggaber-clemens-poloczek-1-720x1079.jpg",
-      "pub_date": "2026-07-27T08:00:00.000000"
+      "why": "예술계에 큰 영향을 미칠 사건으로 주목됩니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://artaurea.com/wp-content/uploads/2026/07/BKV_UlrichSanberger_175Expo_ArtAurea.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "BKV, 소매점과 갤러리 폐쇄",
+      "content": "바이에른 예술 공예 협회의 소매점과 갤러리가 문을 닫습니다. 이는 뮌헨을 넘어 예술계에 큰 변화를 가져올 것입니다."
     },
     {
-      "title": "유러피안 예술공예의 아름다움",
-      "content": "전통적인 유러피안 예술공예가 현대 디자인에 미치는 영향과 그 아름다움을 소개합니다.",
-      "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/",
-      "source": "ignant.com",
+      "title_ko": "캔 캔 프레스: 만드는 것의 중요성",
+      "summary": "멕시코 시티의 창의적 스튜디오 캔 캔 프레스가 제작의 중요성을 이야기합니다. 이들은 예술적 표현을 통해 창작의 가치를 전달합니다.",
+      "url": "https://wepresent.wetransfer.com/stories/manifesto-can-can-press",
+      "source": "WePresent",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "전통공예가 가지는 역사적 가치를 현대 예술과 연결합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "전통",
-        "예술"
+        "제작",
+        "창의성",
+        "스튜디오"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "매니페스토"
       ],
-      "why": "전통이 현재에 어떻게 융화되는지를 보여주는 훌륭한 사례를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/06/ignant-carolin-ruggaber-clemens-poloczek-1-720x1079.jpg",
-      "pub_date": "2026-07-27T08:00:00.000000"
+      "why": "창작의 본질을 탐구하는 흥미로운 이야기입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/DflM7fp34TJlQoGA7Pr6z/1d05e274bca872bfd9b52f8db75799f0/Manifesto_WP_Header__1_.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "캔 캔 프레스: 만드는 것의 중요성",
+      "content": "멕시코 시티의 창의적 스튜디오 캔 캔 프레스가 제작의 중요성을 이야기합니다. 이들은 예술적 표현을 통해 창작의 가치를 전달합니다."
     },
     {
-      "title": "자연과의 만남: 베를린의 현대 일본 찻집",
-      "content": "베를린의 현대 일본 찻집 Kissabō을 소개하며, 차 문화와 현대 디자인의 조화를 탐구합니다.",
-      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
-      "source": "ignant.com",
+      "title_ko": "지속 가능한 디자인의 새로운 정의",
+      "summary": "Gillian Gillies는 지속 가능한 디자인을 따뜻한 포옹으로 재해석합니다. 일상생활에 적합한 집을 창의적으로 설계합니다.",
+      "url": "https://design-milk.com/gillian-gillies-net-zero-ready-toronto-home/",
+      "source": "Design Milk",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "고전적인 차 문화와 현대적 디자인의 융합을 예시합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
+        "지속 가능성",
         "디자인",
-        "차문화"
+        "창의성"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "건축"
       ],
-      "why": "전통 문화가 현대적 해석을 통해 세계적으로 확장되는 방식에 주목합니다.",
-      "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/06/kissabo-720x1280.jpg",
-      "pub_date": "2026-07-27T08:00:00.000000"
+      "why": "지속 가능성을 새로운 시각으로 접근합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/07/1.-GillianGilliesInteriorsNetZeroReadyToronto-7_.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "지속 가능한 디자인의 새로운 정의",
+      "content": "Gillian Gillies는 지속 가능한 디자인을 따뜻한 포옹으로 재해석합니다. 일상생활에 적합한 집을 창의적으로 설계합니다."
     },
     {
-      "title": "사진이 말을 걸다: 베로니카 야노벡의 집에서",
-      "content": "조각가 베로니카 야노벡의 집에서의 일상과 예술이 주는 영감을 담은 인터뷰입니다.",
-      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
-      "source": "ignant.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "예술가의 일상 속에서 발견하는 심미적 가치와 영감을 탐구합니다.",
-      "tags": [
-        "조각",
-        "예술"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "예술가의 세계를 더 깊이 이해하게 하는 기회를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
-      "pub_date": "2026-07-27T08:00:00.000000"
-    },
-    {
-      "title": "모래 위의 시간: Photo London 2026",
-      "content": "Photo London 2026 아트 페어에서는 혁신적인 현대 사진작품들이 소개됩니다.",
-      "url": "https://opendoors.gallery/photo-london-2026-art-fair",
-      "source": "opendoors.gallery",
+      "title_ko": "움직임 속의 예술: Doug Aitken의 Lightscape",
+      "summary": "Doug Aitken의 Lightscape 프로젝트는 공장 안에서 빛과 색의 움직임을 탐구합니다. 이 작품은 시각적 및 감각적 경험을 제공합니다.",
+      "url": "https://www.nowness.com/series/in-motion/doug-aitken-lightscape-factory",
+      "source": "Unknown Source",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "현대 사진예술을 통해 새로운 시각적 경험을 제공합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "사진",
+        "빛",
+        "움직임",
         "예술"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "설치 예술"
       ],
-      "why": "참여 작가들의 창의성이 돋보이는 작품들을 통해 예술의 신세계를 엽니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-27T08:00:00.000000"
+      "why": "빛의 예술적 가능성을 재해석합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://img.nowness.com/nowness-frontend/90XzlJCZS4yTwIzw8Ehd_LIGHTSCAPE%20STILL%202.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "움직임 속의 예술: Doug Aitken의 Lightscape",
+      "content": "Doug Aitken의 Lightscape 프로젝트는 공장 안에서 빛과 색의 움직임을 탐구합니다. 이 작품은 시각적 및 감각적 경험을 제공합니다."
     },
     {
-      "title": "면과 색의 예술: 침구의 스타일링",
-      "content": "아름다운 침구 스타일링을 위한 최고의 듀벳 커버를 소개하며, 각자의 침실을 디자인하는 팁을 제공합니다.",
-      "url": "https://www.architecturaldigest.com/story/best-duvet-covers-reviewed",
-      "source": "architecturaldigest.com",
-      "domain": "SPATIAL",
+      "title_ko": "완벽한 러그 선택 가이드",
+      "summary": "이탈리아 드림 디자인은 실내와 실외 공간을 위한 러그 선택의 예술을 소개합니다. 색상 조합과 스타일을 통해 공간의 조화를 이루는 방법을 탐구합니다.",
+      "url": "https://italydreamdesign.com/en/how-to-choose-the-perfect-rug-colour-pairings-and-style-for-exceptional-interiors-and-outdoor-spaces/",
+      "source": "Italy Dream Design",
+      "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "침실 인테리어 디자인을 통해 일상의 품격을 높입니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
         "인테리어",
-        "침구"
+        "러그",
+        "조화"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "가이드"
       ],
-      "why": "개인의 공간에서의 작은 변화를 통해 일상에 여유로움을 더합니다.",
-      "depth": 0.95,
-      "image": "https://media.architecturaldigest.com/photos/69ab490490cd4f626fa81019/master/pass/02.04.2026_ArchDigest_SleepWeek6540%20copy%201_SQUARE.jpg",
-      "pub_date": "2026-07-27T08:00:00.000000"
+      "why": "공간을 완성하는 러그의 중요성을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://italydreamdesign.com/wp-content/uploads//Tappeto-Rug-Tapis-Venere-Stone-Tortora-Taupe-rettangolare-rectangular-rectangulaire-amb-1024x737.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "완벽한 러그 선택 가이드",
+      "content": "이탈리아 드림 디자인은 실내와 실외 공간을 위한 러그 선택의 예술을 소개합니다. 색상 조합과 스타일을 통해 공간의 조화를 이루는 방법을 탐구합니다."
     },
     {
-      "title": "아서르 디자인: 욕실 액세서리의 진화",
-      "content": "유머러스하면서도 기능적인 욕실 액세서리를 통해 실용성과 예술성을 동시에 고려한 선택을 제공합니다.",
-      "url": "https://www.architecturaldigest.com/story/best-bathroom-accessories",
-      "source": "architecturaldigest.com",
-      "domain": "SPATIAL",
+      "title_ko": "Deit, 건강 강의 대신 맛을 전달하다",
+      "summary": "Deit의 새로운 음료는 맛을 중심으로 합니다. 건강을 강조하지 않지만, 그만큼 매력적입니다.",
+      "url": "https://thedieline.com/deit-skips-the-health-lecture-and-delivers-on-taste/",
+      "source": "The Dieline",
+      "domain": "FOOD",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "일상 공간에서의 디자인의 중요성을 강조합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "욕실",
+        "음료",
+        "맛",
         "디자인"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "브랜딩"
       ],
-      "why": "작은 공간도 디자인으로 인해 큰 변화를 가져올 수 있음을 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://media.architecturaldigest.com/photos/68d42b946988e55aa3d597b3/master/pass/AD0921_HART_DN_6.jpg",
-      "pub_date": "2026-07-27T08:00:00.000000"
+      "why": "브랜드가 맛에 집중하는 새로운 방향성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/DEIT-12-scaled.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "Deit, 건강 강의 대신 맛을 전달하다",
+      "content": "Deit의 새로운 음료는 맛을 중심으로 합니다. 건강을 강조하지 않지만, 그만큼 매력적입니다."
+    },
+    {
+      "title_ko": "CFCL: 미학을 구축하다 - GYRE GALLERY",
+      "summary": "GYRE GALLERY에서 열린 'CFCL: 미학을 구축하다' 전시는 현대적 디자인의 미학을 탐구합니다. 이 전시는 디자인과 예술의 경계를 넘나듭니다.",
+      "url": "https://www.adfwebmagazine.jp/en/design/cfcl-building-the-aesthetic-at-gyre-gallery/",
+      "source": "ADF Web Magazine",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디자인",
+        "미학",
+        "전시"
+      ],
+      "execution_techniques": [
+        "전시"
+      ],
+      "why": "디자인의 새로운 미학을 제시하는 전시입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-cfcl-brand-book-1-300x214.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "CFCL: 미학을 구축하다 - GYRE GALLERY",
+      "content": "GYRE GALLERY에서 열린 'CFCL: 미학을 구축하다' 전시는 현대적 디자인의 미학을 탐구합니다. 이 전시는 디자인과 예술의 경계를 넘나듭니다."
+    },
+    {
+      "title_ko": "자연을 건축으로: 로스앤젤레스의 집",
+      "summary": "Obsidian House는 녹지를 건축 요소로 통합하여 실내외의 경계를 흐립니다. 이는 일상 속에서 자연과 함께하는 새로운 생활 방식을 제안합니다.",
+      "url": "https://design-milk.com/obsidian-house-los-angeles-sls-properties/",
+      "source": "Design Milk",
+      "domain": "ARCHITECTURE",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "건축",
+        "자연",
+        "라이프스타일"
+      ],
+      "execution_techniques": [
+        "설계"
+      ],
+      "why": "자연을 디자인의 핵심 요소로 사용한 혁신적 접근입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/07/3.-@Ntimm_FullRes_10-1500x1000.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "자연을 건축으로: 로스앤젤레스의 집",
+      "content": "Obsidian House는 녹지를 건축 요소로 통합하여 실내외의 경계를 흐립니다. 이는 일상 속에서 자연과 함께하는 새로운 생활 방식을 제안합니다."
+    },
+    {
+      "title_ko": "Harris Elliott의 변화하는 런던 '사회 살롱'",
+      "summary": "Harris Elliott의 'Le Parlour' 프로젝트는 런던 중심부에 위치한 진화하는 사회 살롱입니다. 이곳은 다양한 이벤트와 설치물을 통해 다양한 경험을 제공합니다.",
+      "url": "https://www.wallpaper.com/fashion-beauty/harris-elliott-le-parlour-installation-london",
+      "source": "Wallpaper*",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "패션",
+        "사회",
+        "프로젝트"
+      ],
+      "execution_techniques": [
+        "설치"
+      ],
+      "why": "사회적 상호작용을 중심으로 한 창의적 접근이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/mkFqDMpmoBwXnUGW2FmbyV-1280-80.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "Harris Elliott의 변화하는 런던 '사회 살롱'",
+      "content": "Harris Elliott의 'Le Parlour' 프로젝트는 런던 중심부에 위치한 진화하는 사회 살롱입니다. 이곳은 다양한 이벤트와 설치물을 통해 다양한 경험을 제공합니다."
+    },
+    {
+      "title_ko": "아나토미, 호니만 박물관을 위한 캠페인",
+      "summary": "아나토미는 호니만 박물관의 수집품과 정원에서 영감을 받아 맞춤형 서체를 제작합니다. 이는 박물관의 역사를 시각적으로 표현하는 새로운 방식입니다.",
+      "url": "https://www.itsnicethat.com/articles/anatomy-horniman-museum-graphic-design-project-230726",
+      "source": "It's Nice That",
+      "domain": "GRAPHIC DESIGN",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "그래픽 디자인",
+        "박물관",
+        "서체"
+      ],
+      "execution_techniques": [
+        "타이포그래피"
+      ],
+      "why": "역사와 디자인의 융합을 통해 새로운 시각적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/V_ryxGqUmyplKx6uTi4h4-w1uog=/280280/width-1440/Horniman_Anatomy_Tote.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "아나토미, 호니만 박물관을 위한 캠페인",
+      "content": "아나토미는 호니만 박물관의 수집품과 정원에서 영감을 받아 맞춤형 서체를 제작합니다. 이는 박물관의 역사를 시각적으로 표현하는 새로운 방식입니다."
     }
   ],
   "popcorn": [
     {
-      "title_ko": "American Vogue July 2014 (2026-07-27)",
-      "summary": "Lupita Nyong&#8217;o looks radiant in Prada as she fronts the July 2014 issue of American Vogue. The Kenyan-Mexican actor is styled by Phyll...",
-      "url": "https://thestylewatcher.wordpress.com/2014/06/19/american-vogue-july-2014/-u-2026-07-27.json",
-      "source": "thestylewatcher.wordpress.com",
+      "title_ko": "움직임 속의 예술: Doug Aitken의 Lightscape",
+      "summary": "Doug Aitken의 Lightscape 프로젝트는 공장 안에서 빛과 색의 움직임을 탐구하여 시각적 및 감각적 경험을 제공합니다.",
+      "url": "https://www.nowness.com/series/in-motion/doug-aitken-lightscape-factory",
+      "source": "NOWNESS",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "바이럴"
+        "예술",
+        "빛"
       ],
-      "why": "기존의 디자인에 신선한 투명 레이어를 적용하여 인터넷에서 화제입니다.",
+      "execution_techniques": [
+        "KineticStructure",
+        "PopMinimalism"
+      ],
+      "why": "1) 독창적인 빛과 색의 사용으로 주목받는 프로젝트, 2) 감각적인 시각적 경험 제공, 3) 예술과 기술의 융합으로 새로운 영감을 제공",
       "depth": 0.5,
-      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "image": "https://img.nowness.com/nowness-frontend/90XzlJCZS4yTwIzw8Ehd_LIGHTSCAPE%20STILL%202.jpg",
       "pub_date": "2026-07-27T08:00:00.000000",
-      "title": "American Vogue July 2014 (2026-07-27)",
-      "title_en": "American Vogue July 2014 (2026-07-27)",
-      "content": "Lupita Nyong&#8217;o looks radiant in Prada as she fronts the July 2014 issue of American Vogue. The Kenyan-Mexican actor is styled by Phyll..."
+      "title_en": "",
+      "title": "움직임 속의 예술: Doug Aitken의 Lightscape",
+      "content": "Doug Aitken의 Lightscape 프로젝트는 공장 안에서 빛과 색의 움직임을 탐구하여 시각적 및 감각적 경험을 제공합니다."
     },
     {
-      "title": "크리스천 그레이로 돌아온 제이미 도넌",
-      "content": "많은 사람들이 제이미 도넌이 연기할 크리스천 그레이를 기대하고 있습니다. 그의 새로운 모습에 많은 관심이 쏠리고 있습니다.",
-      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
-      "source": "thestylewatcher.wordpress.com",
+      "title_ko": "Harris Elliott의 변화하는 런던 '사회 살롱'",
+      "summary": "Harris Elliott의 'Le Parlour' 프로젝트는 런던 중심부에서 진화하는 사회 살롱을 통해 다양한 경험을 제공합니다.",
+      "url": "https://www.wallpaper.com/fashion-beauty/harris-elliott-le-parlour-installation-london",
+      "source": "Wallpaper",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "배우"
+        "패션",
+        "사회"
       ],
-      "why": "대중의 기대를 모으는 영화에 대한 기사를 통해 독자의 관심을 끕니다.",
+      "execution_techniques": [
+        "StreetAesthetic",
+        "CulturalSynergy"
+      ],
+      "why": "1) 독특한 사회적 공간 창출로 화제, 2) 다양한 문화적 이벤트와 설치물 제공, 3) 패션과 사회적 경험의 융합",
       "depth": 0.5,
-      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
-      "pub_date": "2026-07-27T08:00:00.000000"
+      "image": "https://cdn.mos.cms.futurecdn.net/mkFqDMpmoBwXnUGW2FmbyV-1280-80.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "Harris Elliott의 변화하는 런던 '사회 살롱'",
+      "content": "Harris Elliott의 'Le Parlour' 프로젝트는 런던 중심부에서 진화하는 사회 살롱을 통해 다양한 경험을 제공합니다."
     },
     {
-      "title": "분위기 있는 욕실 액세서리",
-      "content": "압도적인 멋을 자아내는 욕실 액세서리로 일상의 평범함을 벗어나 보세요.",
-      "url": "https://www.architecturaldigest.com/story/best-bathroom-accessories",
-      "source": "architecturaldigest.com",
+      "title_ko": "Deit, 건강 강의 대신 맛을 전달하다",
+      "summary": "Deit의 새로운 음료는 맛 중심으로 건강을 강조하지 않지만 매력적입니다.",
+      "url": "https://thedieline.com/deit-skips-the-health-lecture-and-delivers-on-taste/",
+      "source": "The Dieline",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "인테리어"
+        "음료",
+        "트렌드"
       ],
-      "why": "단순한 일상 물품 속에서 발견하는 작은 예술적 즐거움을 소개합니다.",
+      "execution_techniques": [
+        "PopMinimalism",
+        "BrandInnovation"
+      ],
+      "why": "1) 건강 대신 맛을 강조하는 혁신적인 접근, 2) 소비자에게 새롭고 유쾌한 경험 제공, 3) 음식과 문화의 경계를 허무는 시도",
       "depth": 0.5,
-      "image": "https://media.architecturaldigest.com/photos/68d42b946988e55aa3d597b3/master/pass/AD0921_HART_DN_6.jpg",
-      "pub_date": "2026-07-27T08:00:00.000000"
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/DEIT-12-scaled.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000",
+      "title_en": "",
+      "title": "Deit, 건강 강의 대신 맛을 전달하다",
+      "content": "Deit의 새로운 음료는 맛 중심으로 건강을 강조하지 않지만 매력적입니다."
     }
   ],
   "macro_keywords": [

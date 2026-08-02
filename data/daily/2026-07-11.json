@@ -9,285 +9,387 @@
   },
   "topPicks": [
     {
-      "title": "자라 맥킨토시와 주말 보내기",
-      "content": "팝 컬처 전문가이자 물리적 미디어의 여왕인 whatzaraloves가 이상적인 주말을 어떻게 보내는지를 이야기합니다. 그녀는 런던의 최고의 장소와 여름 사운드트랙에 대한 팁을 제공합니다.",
-      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
-      "source": "It's Nice That",
+      "title_ko": "영원함을 품은 콜로라도 농장 주택",
+      "summary": "Landed Interiors는 숙련된 장인들과 협력하여 '시간을 초월한 견고함과 따뜻함'을 품은 인테리어를 완성했습니다. 이 농장 주택은 자연과 조화를 이루며 오래된 듯한 매력을 발산합니다.",
+      "url": "https://www.architecturaldigest.com/story/landed-interiors-designed-colorado-farmhouse",
+      "source": "architecturaldigest.com",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "자라 맥킨토시의 주말 계획은 매우 독특하며, 그녀의 주변 환경과 요소들을 매우 개인적으로 경험하고 있습니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "팝 컬처",
-        "런던"
+        "인테리어",
+        "건축",
+        "자연"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "전통적 장인 기술"
       ],
-      "why": "자라 맥킨토시는 현대의 팝 컬처와 물리적 미디어의 가치를 조화롭게 이해하고 있습니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
-      "pub_date": "2026-07-11T08:00:00.000000"
+      "why": "자연과 조화로운 디자인이 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://media.architecturaldigest.com/photos/6a4c15f798cfe34648c436cc/master/pass/Landed_Boulder_07212025_0048_V2.jpg",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "영원함을 품은 콜로라도 농장 주택",
+      "content": "Landed Interiors는 숙련된 장인들과 협력하여 '시간을 초월한 견고함과 따뜻함'을 품은 인테리어를 완성했습니다. 이 농장 주택은 자연과 조화를 이루며 오래된 듯한 매력을 발산합니다."
     },
     {
-      "title": "과거를 새로운 분야로 나아가는 결심 - 크리스토퍼 놀란 고백",
-      "content": "크리스토퍼 놀란 감독의 프로젝트에 참여한 편집자인 제니퍼 라임이 '테넷' 작업 도중의 도전과 전환에 대해 이야기합니다. 그녀는 기존에 다뤄본 적 없는 대규모 장면에 도전하면서도 독특한 시각으로 접근했습니다.",
-      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
+      "title_ko": "제한판 디지털 도구의 세계",
+      "summary": "Metapaper와 Gallery Print와의 협업을 통해 특별판 디지털 도구를 선보입니다. 이 에디션은 창의적인 실험과 혁신을 이끌어낼 것입니다.",
+      "url": "https://www.slanted.de/limited-special-edition-digital-tools/",
+      "source": "Slanted",
+      "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "편집자로서의 새로운 도전이었던 '테넷' 작업을 통해 제니퍼 라임은 기술적, 예술적으로 성장할 수 있었습니다.",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "디지털",
+        "툴",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "협업"
+      ],
+      "why": "디지털과 종이의 융합이 새로운 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "제한판 디지털 도구의 세계",
+      "content": "Metapaper와 Gallery Print와의 협업을 통해 특별판 디지털 도구를 선보입니다. 이 에디션은 창의적인 실험과 혁신을 이끌어낼 것입니다."
+    },
+    {
+      "title_ko": "오스카 수상작 듄의 인상적인 이미지들",
+      "summary": "드니 빌뇌브 감독의 영화 듄은 94회 아카데미 시상식에서 여섯 개의 상을 수상하며 큰 성공을 거두었습니다. 이 영화는 팀 로시와 젠다야의 출연으로 더욱 주목받고 있습니다.",
+      "url": "https://www.fubiz.net/2023/01/11/impressive-images-from-the-oscar-winning-movie-dunes/",
+      "source": "Fubiz",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
         "영화",
-        "크리스토퍼 놀란"
+        "아카데미",
+        "이미지"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "영화 제작"
       ],
-      "why": "특히 잘 알려진 감독과의 새로운 작업 경험은 영화계에서 중요한 전환점으로 여겨집니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
-      "pub_date": "2026-07-11T08:00:00.000000"
+      "why": "영화의 시각적 효과가 깊은 인상을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.fubiz.net/wp-content/uploads/2022/04/Main_Page-5-4-scaled.jpg",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "오스카 수상작 듄의 인상적인 이미지들",
+      "content": "드니 빌뇌브 감독의 영화 듄은 94회 아카데미 시상식에서 여섯 개의 상을 수상하며 큰 성공을 거두었습니다. 이 영화는 팀 로시와 젠다야의 출연으로 더욱 주목받고 있습니다."
     },
     {
-      "title": "프레젠트 & 올바르게: 완벽하게 큐레이팅된 문구점 이야기",
-      "content": "인기 있는 인쇄 에페메라와 문구 브랜드 '프레젠트 & 올바르게'의 공동 창업자 니얼 휴이튼슨과의 인터뷰를 통해 첫 출간 진출의 배경 이야기를 탐구합니다.",
-      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
-      "source": "It's Nice That",
-      "domain": "ART",
+      "title_ko": "플러시 숭배자를 위한 일본의 첫 번째 신사",
+      "summary": "일본에서는 플러시 숭배자들을 위한 신사가 새로 개장되었습니다. 이곳은 인형 애호가들이 모여 서로의 취미를 공유할 수 있는 특별한 장소입니다.",
+      "url": "https://spoon-tamago.com/japan-first-plushie-shrine/",
+      "source": "Spoon & Tamago",
+      "domain": "CULTURE",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "뉴욕과 파리의 트렌드를 이끄는 프레젠트 & 올바르게는 혼잡한 시장 속에서도 독창성을 발휘합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "문구",
-        "디자인"
+        "문화",
+        "인형",
+        "신사"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "문화적 전통"
       ],
-      "why": "문구점이 그저 물건을 파는 곳을 넘어 새로운 창의적 플랫폼으로 자리잡는 방법을 배울 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
-      "pub_date": "2026-07-11T08:00:00.000000"
+      "why": "현대와 전통의 융합이 독특합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "플러시 숭배자를 위한 일본의 첫 번째 신사",
+      "content": "일본에서는 플러시 숭배자들을 위한 신사가 새로 개장되었습니다. 이곳은 인형 애호가들이 모여 서로의 취미를 공유할 수 있는 특별한 장소입니다."
     },
     {
-      "title": "사모어집: 여섯 예술가의 그룹 전시",
-      "content": "다나에 팬쇼드가 큐레이팅한 ‘사모어집’ 전시에서 사진 이미지를 고정된 현실의 기록이 아닌 유동적이고 불안정한 요소로 다루는 16명의 예술가 중 두 명을 소개합니다.",
-      "url": "https://opendoors.gallery/the-shudder-palace-exhibition",
-      "source": "Open Doors Gallery",
-      "domain": "ART",
+      "title_ko": "타이완의 섬세한 거리 사진",
+      "summary": "타이베이 완화구의 번잡한 도시 활동에서 벗어나 짧은 휴식을 취하는 사람들의 사진을 담았습니다. 이 작품은 일상의 순간들을 아름답게 포착합니다.",
+      "url": "https://www.lensculture.com/articles/vladimir-khorev-characters-subtle-street-photography-from-taiwan",
+      "source": "lensculture.com",
+      "domain": "PHOTOGRAPHY",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "큐레이터는 사진 매체를 통해 현실과 환상의 경계를 탐구하고 있습니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "전시",
-        "사진"
+        "사진",
+        "거리",
+        "일상"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "거리 사진"
       ],
-      "why": "현대 사진 예술에서 이미지의 해석이 가지는 유동성을 새롭게 이해할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-11T08:00:00.000000"
+      "why": "일상 속에서 발견되는 아름다움을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.lensculture.com/image/6c50ec56-8d80-47d7-79be-50f1c9241000/large",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "타이완의 섬세한 거리 사진",
+      "content": "타이베이 완화구의 번잡한 도시 활동에서 벗어나 짧은 휴식을 취하는 사람들의 사진을 담았습니다. 이 작품은 일상의 순간들을 아름답게 포착합니다."
     },
     {
-      "title": "카를로비바리에 설치된 스파의 역사",
-      "content": "카를로비바리 국제 영화제의 흥미로운 역사와 나치 점령에서 벗어난 체코슬로바키아의 복귀 및 유네스코 문화 유산으로서의 역할에 대해 설명합니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
+      "title_ko": "패션 언폴디드",
+      "summary": "패션의 새로운 해석을 통해 독창적 스타일을 제안합니다. 이 프로젝트는 전통과 현대적 감각의 조화를 이룹니다.",
+      "url": "https://www.behance.net/gallery/251708465/Fashion-Unfolded",
+      "source": "Behance",
+      "domain": "FASHION",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "카를로비바리 영화제는 국제적으로 강조된 위치와 역사적인 중요성을 가지고 있습니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "영화제",
-        "역사"
+        "패션",
+        "스타일",
+        "혁신"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "스타일링"
       ],
-      "why": "영화제의 역사적 맥락은 국제 문화 교류에 있어 중요한 위치를 차지하고 있습니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-07-11T08:00:00.000000"
+      "why": "패션의 경계를 넓히는 시각이 매력적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/246337251708465.Y3JvcCwxNjM2LDEyODAsMTIsMA.jpg",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "패션 언폴디드",
+      "content": "패션의 새로운 해석을 통해 독창적 스타일을 제안합니다. 이 프로젝트는 전통과 현대적 감각의 조화를 이룹니다."
     },
     {
-      "title": "키사보: 베를린의 현대 일본 티바",
-      "content": "베를린에서 독특한 일본 다도를 즐길 수 있는 '키사보'는 전통과 현대를 결합한 차 문화의 새로운 표현을 보여줍니다.",
-      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
-      "source": "IGNANT",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "키사보는 현대의 국제적인 다도 문화 형성에 기여하고 있습니다.",
-      "tags": [
-        "다도",
-        "베를린"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "전통적인 일본 다도를 현대 도시 환경에 맞추어 재해석한 훌륭한 예입니다.",
-      "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/06/kissabo-720x1280.jpg",
-      "pub_date": "2026-07-11T08:00:00.000000"
-    },
-    {
-      "title": "디자인과 예술의 기초를 재구성하다",
-      "content": "베로니카 야노벡의 개인 공간에서 이루어진 스컬프처의 언어, 형태의 문법을 탐구하며 공간과 형태 사이의 관계를 조명합니다.",
-      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
-      "source": "IGNANT",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "베로니카 야노벡의 작품은 관객에게 시각적, 감각적 경험을 제공하며 형태의 아름다움을 탐구합니다.",
-      "tags": [
-        "조각",
-        "예술"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "예술가의 창작 과정을 이해하며, 형태가 가진 의미를 심층적으로 이해할 수 있는 기회를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
-      "pub_date": "2026-07-11T08:00:00.000000"
-    },
-    {
-      "title": "샤넬의 '블러멘 피어 디 마돈나'",
-      "content": "'블러멘 피어 디 마돈나'는 전통적인 루트를 벗어나 현대적 미학을 수용한 새로운 연출을 통해 주목받고 있습니다.",
-      "url": "https://strba.ch/2025/10/10/blumen-fur-die-madonna/",
-      "source": "Annelies Štrba",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "샤넬은 자신의 독창적인 미학을 통해 전통의 경계를 넘어서고 있습니다.",
-      "tags": [
-        "샤넬",
-        "전시"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "미학의 새로운 흐름을 이해하며, 핵심 브랜드 아이덴티티와 현대적 해석 사이의 관점을 확장할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://strba.ch/wp-content/uploads/2025/10/galerie-einladungskarte-2025-a5-annelies-strba-klein-800x.jpg",
-      "pub_date": "2026-07-11T08:00:00.000000"
-    },
-    {
-      "title": "뿌리 깊은 사랑과 고집: 아얄라 커피의 시각적 정체성",
-      "content": "아얄라 커피는 아키텍처적인 비율을 유지하는 구조적인 패키지 디자인을 통해 매우 구체적이며 대조적인 비주얼 시스템을 구축합니다.",
-      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
+      "title_ko": "혁신적 웹사이트 브랜딩",
+      "summary": "Ainur Yusupov는 SPACERA를 위한 미래지향적 웹사이트 아이덴티티를 런칭했습니다. 어두운 레이아웃과 전략적 브랜딩을 결합하여 기업 자산을 재구성했습니다.",
+      "url": "https://abduzeedo.com/ainur-yusupov-designs-futuristic-corporate-website-branding/",
       "source": "abduzeedo.com",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "아얄라 커피는 패키지 디자인을 통해 제품의 아이덴티티를 강조하며 그에서 파생되는 미학적 가치를 설명하고 있습니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "커피",
-        "디자인"
+        "웹디자인",
+        "브랜딩",
+        "미래"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "브랜딩 전략"
       ],
-      "why": "현대 디자인에서 패키지의 중요성과 소비자에게 전달하는 메시지를 이해할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
-      "pub_date": "2026-07-11T08:00:00.000000"
+      "why": "웹디자인의 새로운 경지를 개척합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/spacera-corporate-website-for-a-design-studio_0.png",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "혁신적 웹사이트 브랜딩",
+      "content": "Ainur Yusupov는 SPACERA를 위한 미래지향적 웹사이트 아이덴티티를 런칭했습니다. 어두운 레이아웃과 전략적 브랜딩을 결합하여 기업 자산을 재구성했습니다."
     },
     {
-      "title": "매듭의 이미지: 여성의 존재 탐구",
-      "content": "이 매듭은 여성의 존재에 대한 고찰과 비주얼 표현을 통해 미디어와 예술의 경계를 탐구합니다.",
-      "url": "https://strba.ch/2025/10/29/madchen-sein/",
-      "source": "Annelies Štrba",
-      "domain": "DESIGN",
+      "title_ko": "장 폴 고티에의 두란 란틴크",
+      "summary": "두란 란틴크는 마리 앙투아네트를 참고하여 장 폴 고티에에서 그의 오뜨 꾸뛰르 데뷔를 화려하게 선보였습니다. 이 컬렉션은 18세기를 미래로 끌어들이며 혁신적인 패션을 제안합니다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17313/duran-lantink-jean-paul-gaultier-haute-couture-ss26-review",
+      "source": "anothermag.com",
+      "domain": "FASHION",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "작가는 여성의 존재를 예술 표현의 터전으로 삼아 사회적 고찰을 시도합니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "여성",
-        "예술"
+        "패션",
+        "오뜨 꾸뛰르",
+        "혁신"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "컬렉션 디자인"
       ],
-      "why": "여성의 존재에 대한 고찰을 통해 사회적, 예술적 맥락을 다시 바라볼 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://strba.ch/wp-content/uploads/2025/10/tafelbild_zu_social_media.jpeg",
-      "pub_date": "2026-07-11T08:00:00.000000"
+      "why": "역사적 요소와 현대적 창의성의 융합이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "장 폴 고티에의 두란 란틴크",
+      "content": "두란 란틴크는 마리 앙투아네트를 참고하여 장 폴 고티에에서 그의 오뜨 꾸뛰르 데뷔를 화려하게 선보였습니다. 이 컬렉션은 18세기를 미래로 끌어들이며 혁신적인 패션을 제안합니다."
     },
     {
-      "title": "모노타입 서체 '고가 모노'",
-      "content": "'고가 모노'는 630-유닛 그리드를 사용하여 아름다운 레이아웃 디자인을 창출하는 모노타입 서체 스펙트럼 프로젝트입니다.",
-      "url": "https://abduzeedo.com/goga-mono-monospaced-typeface-specimen-typography-narrow-type/",
-      "source": "abduzeedo.com",
-      "domain": "DESIGN",
+      "title_ko": "왜 이 작품은 높은 평가를 받았을까",
+      "summary": "간단한 마음으로 시작했다가 치밀한 스토리와 심리 묘사에 빠져든 미스터리 애니메이션의 걸작을 분석합니다. 이 작품은 세심한 심리적 깊이와 스토리텔링으로 감탄을 자아냅니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81617",
+      "source": "Unknown Source",
+      "domain": "ANIMATION",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "타입페이스 디자인에서의 적응성과 정밀성을 탐구하는 흥미로운 사례입니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "타이포그래피",
-        "디자인"
+        "애니메이션",
+        "스토리텔링",
+        "평가"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "심리 묘사"
       ],
-      "why": "타이포그래피 디자인에서 미적 요소와 기능적 요소를 모두 고려해볼 수 있는 훌륭한 기회입니다.",
-      "depth": 0.95,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_goga-mono-free-try-narrow-type.jpg",
-      "pub_date": "2026-07-11T08:00:00.000000"
+      "why": "심오한 심리적 접근이 작품을 돋보이게 만듭니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260712130046_evyfafvl.jpg",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "왜 이 작품은 높은 평가를 받았을까",
+      "content": "간단한 마음으로 시작했다가 치밀한 스토리와 심리 묘사에 빠져든 미스터리 애니메이션의 걸작을 분석합니다. 이 작품은 세심한 심리적 깊이와 스토리텔링으로 감탄을 자아냅니다."
+    },
+    {
+      "title_ko": "키드배쉬: 클래식 SNES 게임처럼 렌더링된 블렌더 게임",
+      "summary": "이 인디 게임은 Donkey Kong Country의 유명한 그래픽 트릭을 되살리고 있습니다. 블렌더를 활용하여 클래식한 게임 그래픽을 재현합니다.",
+      "url": "https://www.creativebloq.com/3d/video-game-design/kidbash-super-legend-is-built-in-blender-but-rendered-like-a-classic-snes-game",
+      "source": "Creative Bloq",
+      "domain": "GAMES",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "게임",
+        "그래픽",
+        "레트로"
+      ],
+      "execution_techniques": [
+        "그래픽 디자인"
+      ],
+      "why": "클래식과 현대 기술의 융합이 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/tr6SwuWyyR7AYuvxP2oicg-1280-80.jpg",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "키드배쉬: 클래식 SNES 게임처럼 렌더링된 블렌더 게임",
+      "content": "이 인디 게임은 Donkey Kong Country의 유명한 그래픽 트릭을 되살리고 있습니다. 블렌더를 활용하여 클래식한 게임 그래픽을 재현합니다."
+    },
+    {
+      "title_ko": "비주얼 아티스트 마이클 헤이트의 창작 거리",
+      "summary": "마이클 헤이트는 자신의 삶을 작품으로 만드는 데 필요한 거리와 과정에 대해 이야기합니다. 그의 스튜디오에서의 하루를 통해 창작의 여정을 탐구합니다.",
+      "url": "https://thecreativeindependent.com/people/visual-artist-michael-haight-on-the-distance-it-takes-to-make-work-from-your-own-life/",
+      "source": "Creative Independent",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "비주얼 아트",
+        "창작",
+        "삶"
+      ],
+      "execution_techniques": [
+        "예술적 탐구"
+      ],
+      "why": "개인적 경험을 예술로 승화시키는 과정이 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/koMzAfhKTReX5dopcfBV",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "비주얼 아티스트 마이클 헤이트의 창작 거리",
+      "content": "마이클 헤이트는 자신의 삶을 작품으로 만드는 데 필요한 거리와 과정에 대해 이야기합니다. 그의 스튜디오에서의 하루를 통해 창작의 여정을 탐구합니다."
+    },
+    {
+      "title_ko": "광호신, 드로잉",
+      "summary": "광호신의 작품은 강렬한 색채와 형태로 감각적인 경험을 선사합니다. 그의 드로잉은 보는 이로 하여금 새로운 시각적 탐험을 가능하게 합니다.",
+      "url": "https://www.behance.net/gallery/251869211/Kwangho-Shin-Drawing",
+      "source": "Behance",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "드로잉",
+        "색채",
+        "형태"
+      ],
+      "execution_techniques": [
+        "드로잉"
+      ],
+      "why": "시각적 자극과 창의적인 상상력을 자극합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/564ced251869211.Y3JvcCwzMTU4LDI0NzAsMCw3NzM.jpeg",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "광호신, 드로잉",
+      "content": "광호신의 작품은 강렬한 색채와 형태로 감각적인 경험을 선사합니다. 그의 드로잉은 보는 이로 하여금 새로운 시각적 탐험을 가능하게 합니다."
     }
   ],
   "popcorn": [
     {
-      "title": "Lucid Dreams - 산수화의 몽환적 표현",
-      "content": "Annelies Štrba의 작업 ‘Lucid Dreams’는 꿈과 현실의 경계를 초월하는 시각적 경험을 제공합니다.",
-      "url": "https://strba.ch/2025/10/29/lucid-dreams/",
-      "source": "Annelies Štrba",
+      "title_ko": "플러시 숭배자를 위한 일본의 첫 번째 신사",
+      "summary": "일본에서 인형 애호가들을 위한 특별한 신사가 개장되었습니다.",
+      "url": "https://spoon-tamago.com/japan-first-plushie-shrine/",
+      "source": "Spoon Tamago",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "꿈",
-        "산수화"
+        "인형",
+        "문화"
       ],
-      "why": "시청자를 개인적 체험으로 초대하는 작품입니다.",
+      "execution_techniques": [
+        "CultureFusion",
+        "KawaiiAesthetic"
+      ],
+      "why": "1) 전 세계적으로 인형 문화를 사랑하는 커뮤니티와 관련된 바이럴 콘텐츠, 2) 귀여운 디자인의 문화적 가치, 3) 문화적 경계를 넘어서는 영감 확장 포인트",
       "depth": 0.5,
-      "image": "https://strba.ch/wp-content/uploads/2025/10/lucid_dreams_01-3030x2161.jpeg",
-      "pub_date": "2026-07-11T08:00:00.000000"
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "플러시 숭배자를 위한 일본의 첫 번째 신사",
+      "content": "일본에서 인형 애호가들을 위한 특별한 신사가 개장되었습니다."
     },
     {
-      "title": "포틀랜더스: 스냅샷의 도시 기록",
-      "content": "Nick Gervin의 '포틀랜더스'는 포틀랜드에서 찍은 개인적인 순간들을 모아 도시의 삶을 포착합니다.",
-      "url": "https://photoeditions.pub/Main-page",
-      "source": "photobookstore.co.uk",
+      "title_ko": "장 폴 고티에의 두란 란틴크",
+      "summary": "두란 란틴크가 장 폴 고티에에서 마리 앙투아네트를 참고하여 오뜨 꾸뛰르 데뷔를 선보였습니다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17313/duran-lantink-jean-paul-gaultier-haute-couture-ss26-review",
+      "source": "Another Magazine",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "사진",
-        "도시"
+        "패션",
+        "혁신"
       ],
-      "why": "도시 삶의 진정성을 시각적으로 기록합니다.",
+      "execution_techniques": [
+        "FashionFusion",
+        "TimeTravelAesthetic"
+      ],
+      "why": "1) 하이패션 브랜드와의 협업으로 인한 높은 주목도, 2) 전통과 현대적 감각의 조화로 디자인적 가치가 높음, 3) 다양한 시대적 요소를 결합한 혁신적 접근",
       "depth": 0.5,
-      "image": "https://freight.cargo.site/w/1000/i/5c7dbe07beabc5b23e7680aaeb76a0ca051ccb3ef4e6b8e1120ea5b65771ab55/NG.png",
-      "pub_date": "2026-07-11T08:00:00.000000"
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "장 폴 고티에의 두란 란틴크",
+      "content": "두란 란틴크가 장 폴 고티에에서 마리 앙투아네트를 참고하여 오뜨 꾸뛰르 데뷔를 선보였습니다."
     },
     {
-      "title": "너의 여자: 밝은 미래로의 길",
-      "content": "Mäd­chen* sein!? 작품은 전통적 여성상의 해체와 현대의 표현을 조화롭게 이룹니다.",
-      "url": "https://strba.ch/2025/10/29/madchen-sein/",
-      "source": "Annelies Štrba",
+      "title_ko": "키드배쉬: 클래식 SNES 게임처럼 렌더링된 블렌더 게임",
+      "summary": "블렌더를 활용하여 클래식한 게임 그래픽을 재현한 인디 게임이 주목받고 있습니다.",
+      "url": "https://www.creativebloq.com/3d/video-game-design/kidbash-super-legend-is-built-in-blender-but-rendered-like-a-classic-snes-game",
+      "source": "Creative Bloq",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "여성",
-        "예술"
+        "게임",
+        "레트로"
       ],
-      "why": "전통과 현대의 충돌을 통해 현재 여성의 위치를 조명합니다.",
+      "execution_techniques": [
+        "RetroGameAesthetic",
+        "DigitalNostalgia"
+      ],
+      "why": "1) 클래식 게임에 대한 향수를 불러일으키며 바이럴 요소가 강함, 2) 복고풍 그래픽의 시각적 매력, 3) 디지털 도구를 통한 새로운 창작 가능성",
       "depth": 0.5,
-      "image": "https://strba.ch/wp-content/uploads/2025/10/tafelbild_zu_social_media.jpeg",
-      "pub_date": "2026-07-11T08:00:00.000000"
+      "image": "https://cdn.mos.cms.futurecdn.net/tr6SwuWyyR7AYuvxP2oicg-1280-80.jpg",
+      "pub_date": "2026-07-11T08:00:00.000000",
+      "title_en": "",
+      "title": "키드배쉬: 클래식 SNES 게임처럼 렌더링된 블렌더 게임",
+      "content": "블렌더를 활용하여 클래식한 게임 그래픽을 재현한 인디 게임이 주목받고 있습니다."
     }
   ],
   "macro_keywords": [

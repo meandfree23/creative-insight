@@ -9,283 +9,389 @@
   },
   "topPicks": [
     {
-      "title": "모션그래퍼 20주년: 모두의 것",
-      "content": "모션그래퍼는 예술가, 스튜디오, 독자 및 협력자들이 함께 만들어온 20년의 역사를 지니고 있습니다. 이제 이 산업과 함께 또 다른 장을 열어가고자 합니다.",
-      "url": "https://motionographer.com/2026/07/27/motionographer-at-20-this-belongs-to-all-of-us/",
-      "source": "Unknown Source",
-      "domain": "MOTION_FILM",
+      "title_ko": "현대음악이라는 낯선 문을 열다 - 앙상블블랭크 10",
+      "summary": "누군가에게 좋아하는 음악을 물어보면 선뜻 하나의 장르를 말하기 어렵다. 시즌에 따라 즐겨 찾는 음악이 다르며, 다양한 장르의 음악을 즐긴다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81310",
+      "source": "Art Insight",
+      "domain": "MUSIC",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "아티스트와 협력자들 간의 지속적인 협력을 통해 문화와 산업에 기여하고자 합니다.",
+      "creator_name": "John Cage",
+      "creator_insight": "나는 소음에 귀를 기울이는 법을 배웠다. 대부분의 사람들은 소음을 싫어하지만 나는 그것을 즐긴다. 소음은 모든 소리의 배경이기 때문이다.",
       "tags": [
-        "모션그래픽",
-        "커뮤니티"
+        "현대음악",
+        "다양성",
+        "음악취향"
       ],
       "execution_techniques": [
-        "디지털 아트"
+        "공연"
       ],
-      "why": "모션그래픽 분야의 역사적 발전과 커뮤니티의 힘을 조명하는 기사입니다.",
-      "depth": 0.95,
-      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/20Y_CINEMATIC_EDITABLE_4K-ezgif.com-video-to-gif-converter-800-700x394.gif",
-      "pub_date": "2026-06-21T08:00:00.000000"
+      "why": "현대인들은 특정 장르에 국한되지 않고 다양한 음악을 통해 자신의 정체성을 탐색하고자 한다. 이는 음악을 통한 자기 표현의 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260620163443_rrngvqnt.jpg",
+      "pub_date": "2026-06-21T08:31:02.130349",
+      "title_en": "",
+      "title": "현대음악이라는 낯선 문을 열다 - 앙상블블랭크 10",
+      "content": "누군가에게 좋아하는 음악을 물어보면 선뜻 하나의 장르를 말하기 어렵다. 시즌에 따라 즐겨 찾는 음악이 다르며, 다양한 장르의 음악을 즐긴다."
     },
     {
-      "title": "인상적인 '듄' 영화 스틸 이미지",
-      "content": "드니 빌뇌브 감독의 영화 '듄'이 올해 아카데미 시상식에서 여섯 개의 상을 수상했습니다. 이 영화는 원작 소설을 웅장하게 각색하여 시각적 감동을 선사합니다.",
-      "url": "https://www.fubiz.net/2023/01/11/impressive-images-from-the-oscar-winning-movie-dunes/",
-      "source": "Fubiz",
+      "title_ko": "늦어도 가장 찬란한 시들에 대하여 - 뮤지컬 ‘오지게 재밌는 가시나들’",
+      "summary": "뮤지컬은 '가시나'라는 이름처럼 시작부터 이미 시였다. 무대는 경북 칠곡을 배경으로 한다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81312",
+      "source": "Art Insight",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "Tim Minchin",
+      "creator_insight": "예술은 당신이 느끼는 것을 다른 사람들이 느끼게 만드는 능력이다.",
+      "tags": [
+        "뮤지컬",
+        "시작",
+        "정체성"
+      ],
+      "execution_techniques": [
+        "공연"
+      ],
+      "why": "뮤지컬은 개인의 정체성과 시작을 탐구하며, 이를 통해 현대인들이 자신의 삶을 다시 정의하고자 하는 욕구를 충족시킨다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260620182247_ofyhwwqf.jpg",
+      "pub_date": "2026-06-21T08:31:02.130318",
+      "title_en": "",
+      "title": "늦어도 가장 찬란한 시들에 대하여 - 뮤지컬 ‘오지게 재밌는 가시나들’",
+      "content": "뮤지컬은 '가시나'라는 이름처럼 시작부터 이미 시였다. 무대는 경북 칠곡을 배경으로 한다."
+    },
+    {
+      "title_ko": "'황금기'라는 이름의 결핍",
+      "summary": "황금기는 사회, 국가, 문화, 산업, 예술 분야 등이 가장 번성한 시기를 뜻한다. 이는 개인에게도 한 시대의 정점으로 다가온다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81307",
+      "source": "Art Insight",
+      "domain": "LITERATURE",
+      "category": "오피니언",
+      "creator_name": "피카소",
+      "creator_insight": "모든 아이는 예술가다. 문제는 자라면서 어떻게 예술가로 남아 있을 것인가 하는 것이다.",
+      "tags": [
+        "황금기",
+        "문화",
+        "결핍"
+      ],
+      "execution_techniques": [
+        "AI 이미지 생성"
+      ],
+      "why": "현대인들은 과거의 황금기를 그리워하며, 현재의 결핍을 채우고자 한다. 이는 과거와 현대의 조화를 통해 새로운 가치를 창출하려는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2606/20260620111028_qdwkhypf.png",
+      "pub_date": "2026-06-21T08:31:02.130284",
+      "title_en": "",
+      "title": "'황금기'라는 이름의 결핍",
+      "content": "황금기는 사회, 국가, 문화, 산업, 예술 분야 등이 가장 번성한 시기를 뜻한다. 이는 개인에게도 한 시대의 정점으로 다가온다."
+    },
+    {
+      "title_ko": "기억하고픈 파리",
+      "summary": "선악의 경계가 외부 조건과 상호작용하며 변모하듯, 사람의 성향과 기질도 일상 컨디션에 따라 변화한다.",
+      "url": "https://blog.naver.com/justina75/224322254991?fromRss=true&trackingCode=rss",
+      "source": "Naver Blog",
+      "domain": "LITERATURE",
+      "category": "리뷰",
+      "creator_name": "피카소",
+      "creator_insight": "모든 어린이는 예술가다. 문제는 어떻게 어른이 되어서도 예술가로 남아 있을 수 있는가이다.",
+      "tags": [
+        "파리",
+        "기억",
+        "정체성"
+      ],
+      "execution_techniques": [
+        "에세이"
+      ],
+      "why": "파리를 기억하고 싶은 욕구는 개인의 정체성과 기억을 통해 과거와 현재를 연결하고자 하는 현대인의 심리를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MThfMjYx/MDAxNzgxNzkxNTkzNzgw.Uk7TRDND60OyLwakftLN2GyHSHZecJXFnZCGP4UbB_Qg.duVqw6ZvskypGZRy_cUwG2Y04VoNqMKmlb47LsXQuEQg.JPEG/900_Screenshot_20260618_154907_Gallery.jpg?type=s3",
+      "pub_date": "2026-06-21T06:49:54+09:00",
+      "title_en": "",
+      "title": "기억하고픈 파리",
+      "content": "선악의 경계가 외부 조건과 상호작용하며 변모하듯, 사람의 성향과 기질도 일상 컨디션에 따라 변화한다."
+    },
+    {
+      "title_ko": "Personal Brand Identity Designer: The Playmaker Logic",
+      "summary": "Algerian 디자이너 Mehdi Drd는 플레이메이커 시스템을 통해 개인 브랜드 아이덴티티를 디자인한다.",
+      "url": "https://abduzeedo.com/personal-brand-identity-designer-playmaker-logic/",
+      "source": "Abduzeedo",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "드니 빌뇌브",
-      "creator_insight": "각기 다른 매체의 경계를 넘나드는 시각적 연출을 선보였습니다.",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "행복은 돈이나 성공이 아닌, 우리가 의미 있는 일을 하면서 찾는 것이라고 생각합니다.",
       "tags": [
-        "영화",
-        "시각예술"
+        "브랜드",
+        "아이덴티티",
+        "디자인"
       ],
       "execution_techniques": [
-        "SF 디자인"
+        "시스템 디자인"
       ],
-      "why": "영화 '듄'의 독창적인 시각 언어와 예술적 성과를 논합니다.",
-      "depth": 0.95,
-      "image": "https://www.fubiz.net/wp-content/uploads/2022/04/Main_Page-5-4-scaled.jpg",
-      "pub_date": "2026-06-21T08:00:00.000000"
+      "why": "개인의 브랜드 아이덴티티는 현대인들이 자신만의 독특한 정체성을 구축하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_m10-studio-personal-brand-identity-visual-system-mehdi-drd.jpg",
+      "pub_date": "2026-06-20T22:01:11+00:00",
+      "title_en": "",
+      "title": "Personal Brand Identity Designer: The Playmaker Logic",
+      "content": "Algerian 디자이너 Mehdi Drd는 플레이메이커 시스템을 통해 개인 브랜드 아이덴티티를 디자인한다."
     },
     {
-      "title": "물에 젖지 않는 산악 스니커즈",
-      "content": "Humtto에서 출시한 산악 스니커즈는 방수 기능과 미끌림 방지 기능을 갖추고 있습니다. 이 제품은 악천후 속에서도 뛰어난 내구성을 자랑합니다.",
-      "url": "https://humtto.vn/giay-ro-leo-nui-loi-nuoc-chong-truot-nam-humtto-771588a/",
-      "source": "Unknown Source",
+      "title_ko": "Alla fiera Art Basel 2026 le vendite sono state tiepide",
+      "summary": "Art Basel 2026에서는 갤러리와 예술 작품의 품질이 높았으나 판매는 저조했다.",
+      "url": "https://www.artribune.com/professioni-e-professionisti/mercato/2026/06/fiera-art-basel-2026-report/",
+      "source": "Artribune",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Humtto",
-      "creator_insight": "실용성과 디자인을 동시에 고려하여 개발된 제품입니다.",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "창의성은 결국 정해진 규칙이나 한계에 얽매이지 않고 세상을 바라보는 새로운 관점을 찾는 것입니다.",
       "tags": [
-        "스포츠",
-        "아웃도어"
+        "아트바젤",
+        "예술",
+        "시장"
       ],
       "execution_techniques": [
-        "기능성 의류"
+        "전시"
       ],
-      "why": "아웃도어 환경에서도 스타일과 기능을 유지하는 혁신적인 기술을 소개합니다.",
-      "depth": 0.95,
-      "image": "https://humtto.vn/wp-content/uploads/2026/05/giay-humtto-771588-2.png",
-      "pub_date": "2026-06-21T08:00:00.000000"
+      "why": "예술 시장의 변화는 현대인들이 예술을 통해 자신의 정체성을 탐구하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/06/alfonso-artiaco1.jpeg",
+      "pub_date": "2026-06-20T21:00:00+00:00",
+      "title_en": "",
+      "title": "Alla fiera Art Basel 2026 le vendite sono state tiepide",
+      "content": "Art Basel 2026에서는 갤러리와 예술 작품의 품질이 높았으나 판매는 저조했다."
     },
     {
-      "title": "미러: 공통의 예술",
-      "content": "미들랜드 기반의 창작자들이 선보이는 최고의 작품들이 있는 전시회입니다. 작품 '미러'는 예술의 다층적인 반성을 이끌어냅니다.",
-      "url": "https://www.andrew-townsend.com/Sample-2-Exhibition",
-      "source": "Unknown Source",
+      "title_ko": "SFC Brison — Bold Retro Western Typeface Bundle",
+      "summary": "SFC Brison은 BBQ 브랜드, 핫 소스 라벨, 아메리카나 패키지 디자인을 위한 레트로 서부 타이포그래피이다.",
+      "url": "https://abduzeedo.com/sfc-brison-bold-retro-western-typeface-bundle/",
+      "source": "Abduzeedo",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Andrew Townsend",
-      "creator_insight": "예술이 단순히 감상에 그치지 않고, 생각의 확장을 가능케 하는 매체라는 점을 강조합니다.",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 모든 것을 가능하게 만들 수 있습니다. 그것은 경험을 향상시키고 세상을 더 나은 곳으로 만들 수 있는 힘을 가지고 있습니다.",
       "tags": [
-        "전시",
-        "종합예술"
+        "타이포그래피",
+        "레트로",
+        "디자인"
       ],
       "execution_techniques": [
-        "현대 미술"
+        "타이포그래피 디자인"
       ],
-      "why": "지역 기반의 창작자들이 일궈나가는 다양한 예술 활동을 조명합니다.",
-      "depth": 0.95,
-      "image": "https://payload.cargocollective.com/1/1/33015/5082579/prt_1362332657.jpg",
-      "pub_date": "2026-06-21T08:00:00.000000"
+      "why": "레트로 디자인은 과거의 감성을 현대적 기술과 결합하여 새로운 가치를 창출하려는 현대인의 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_33.jpg",
+      "pub_date": "2026-06-20T20:58:15+00:00",
+      "title_en": "",
+      "title": "SFC Brison — Bold Retro Western Typeface Bundle",
+      "content": "SFC Brison은 BBQ 브랜드, 핫 소스 라벨, 아메리카나 패키지 디자인을 위한 레트로 서부 타이포그래피이다."
     },
     {
-      "title": "현대식 가구 구매 가이드",
-      "content": "온라인으로 고급 가구를 구매할 때, 여러 가지 선택 사항과 배송 방법에 대해 신중히 고려해야 합니다. 이를 통해 완벽한 인테리어를 완성할 수 있습니다.",
-      "url": "https://italydreamdesign.com/en/buying-high-end-furniture-online-a-complete-guide-to-choosing-with-confidence/",
-      "source": "Italy Dream Design",
+      "title_ko": "CGI product visualization design: The Craft of Material Presence",
+      "summary": "CGI 제품 시각화 디자인이 전통 사진을 대체한다. Redshift 렌더링을 통해 산업 객체를 고품질로 번역한다.",
+      "url": "https://abduzeedo.com/cgi-product-visualization-design-craft-material-presence/",
+      "source": "Abduzeedo",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Italy Dream Design",
-      "creator_insight": "높은 품질과 맞춤형 옵션을 통해, 온라인이라는 매체에서도 고객 만족을 제공하고자 합니다.",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "좋은 디자인은 가능한 한 적게 디자인하는 것이다. - 디터 람스",
       "tags": [
-        "가구",
-        "인테리어"
+        "CGI",
+        "제품디자인",
+        "시각화"
       ],
       "execution_techniques": [
-        "럭셔리 디자인"
+        "CGI",
+        "Redshift 렌더링"
       ],
-      "why": "고품질의 디자인과 온라인 경험을 적절히 융합하는 방식을 살펴볼 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://italydreamdesign.com/wp-content/uploads/sitges_4-300x200.jpg",
-      "pub_date": "2026-06-21T08:00:00.000000"
+      "why": "CGI를 통한 제품 시각화는 현대인들이 물성의 귀환을 통해 디지털 시대의 정보 과잉을 극복하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_selected-cgi-product-visuals-2025-matt-oxley_1.jpg",
+      "pub_date": "2026-06-20T20:10:05+00:00",
+      "title_en": "",
+      "title": "CGI product visualization design: The Craft of Material Presence",
+      "content": "CGI 제품 시각화 디자인이 전통 사진을 대체한다. Redshift 렌더링을 통해 산업 객체를 고품질로 번역한다."
     },
     {
-      "title": "루이비통의 새로운 가방 소개",
-      "content": "가을/겨울 2026 컬렉션에서 루이비통은 역사적 케파를 현대적인 디자인으로 재해석한 몰티패스 가방을 출시합니다.",
-      "url": "https://www.anothermag.com/fashion-beauty/17348/another-a-practical-sac-du-jour-louis-vuitton",
-      "source": "Another Magazine",
-      "domain": "DESIGN",
+      "title_ko": "Le chiese sono sempre più vuote, cosa diventeranno?",
+      "summary": "독일에서 열린 비엔날레 Manifesta는 버려진 종교 건물을 새로운 용도로 변모시키는 방법을 모색한다.",
+      "url": "https://www.artribune.com/arti-visive/2026/06/germania-biennale-manifesta-chiese-sconsacrate-ruhr/",
+      "source": "Artribune",
+      "domain": "ARCHITECTURE",
       "category": "리뷰",
-      "creator_name": "Louis Vuitton",
-      "creator_insight": "과거의 아이디어를 현대적으로 해석하여 지속 가능한 미래 세계를 제시하고자 함.",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 항상 새로운 경계를 탐구하고, 불확실한 것에 도전하는 것입니다.",
       "tags": [
-        "패션",
-        "럭셔리"
+        "건축",
+        "비엔날레",
+        "변화"
       ],
       "execution_techniques": [
-        "고급 디자인"
+        "비엔날레"
       ],
-      "why": "역사적인 디자인의 재해석을 통해 브랜드의 지속적인 진화를 보여줍니다.",
-      "depth": 0.95,
-      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476209.jpg",
-      "pub_date": "2026-06-21T08:00:00.000000"
+      "why": "버려진 공간의 재활용은 현대인들이 과거와 현재의 조화를 통해 새로운 가치를 창출하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/06/screenshot-2026-06-19-alle-120653.png",
+      "pub_date": "2026-06-20T19:00:00+00:00",
+      "title_en": "",
+      "title": "Le chiese sono sempre più vuote, cosa diventeranno?",
+      "content": "독일에서 열린 비엔날레 Manifesta는 버려진 종교 건물을 새로운 용도로 변모시키는 방법을 모색한다."
     },
     {
-      "title": "아이의 상상력을 자극할 가구 세트",
-      "content": "어린이들이 이야기를 나누고 상상할 수 있는 최고의 테이블과 의자 세트를 소개합니다.",
-      "url": "https://www.architecturaldigest.com/story/best-table-and-chair-set-for-kids",
-      "source": "Architectural Digest",
-      "domain": "SPATIAL",
-      "category": "리뷰",
-      "creator_name": "Architectural Digest",
-      "creator_insight": "창의적인 환경 제공으로 아이들의 상상을 키우고자 합니다.",
-      "tags": [
-        "유아가구",
-        "창의성"
-      ],
-      "execution_techniques": [
-        "키즈 디자인"
-      ],
-      "why": "아이들의 성장 과정에서 필수적인 공간 디자인의 중요성을 조명합니다.",
-      "depth": 0.95,
-      "image": "https://media.architecturaldigest.com/photos/6a6cbb088d239d4044feb5eb/master/pass/AD1225_RUBIO_BUTTERFIELD_10.jpg",
-      "pub_date": "2026-06-21T08:00:00.000000"
-    },
-    {
-      "title": "텍스트와 기호의 힘",
-      "content": "읽기보다 표현에 초점을 맞춘 'Human' 다큐멘터리 시리즈의 새로운 그래픽 아이덴티티를 소개합니다.",
-      "url": "https://www.itsnicethat.com/articles/overview-zandland-human-graphic-design-project-300726",
-      "source": "It's Nice That",
+      "title_ko": "Reinterpretazione e visione critica. Duchamp e Sturtevant dialogano in una mostra a Milano",
+      "summary": "밀라노에서 열린 전시회는 Duchamp와 Sturtevant의 작품을 통해 재해석과 비판적 시각을 탐구한다.",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/06/mostra-duchamp-sturtevant-milano/",
+      "source": "Artribune",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Overview",
-      "creator_insight": "문자와 기호의 조합으로 메시지 이상의 감정과 감각을 전하고자 합니다.",
+      "creator_name": "Marcel Duchamp",
+      "creator_insight": "예술은 관객의 눈에 존재한다. - 마르셀 뒤샹",
       "tags": [
-        "그래픽 디자인",
-        "커뮤니케이션"
+        "전시회",
+        "재해석",
+        "비판"
       ],
       "execution_techniques": [
-        "타이포그래피"
+        "전시"
       ],
-      "why": "텍스트와 기호의 사용을 통해 디자인이 어떻게 다르게 해석될 수 있는지를 탐구할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/RFTxEtUOF3JqK84z_xc0BXLGXl8=/280224/width-1440/overview-human-graphic-design-itsnicethat-4.jpg",
-      "pub_date": "2026-06-21T08:00:00.000000"
+      "why": "작품의 재해석은 현대인들이 과거의 예술을 통해 현재의 정체성을 탐구하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/06/marcel-duchamp-sturtevant-dialogues-are-mostly-fried-snowballs-installation-view-thaddaeus-ropac-milan-2026-courtesy-thaddaeus-ropac-gallery-london-paris-salzburg-milan-seoul-photoroberto-marossi.jpg",
+      "pub_date": "2026-06-20T17:00:00+00:00",
+      "title_en": "",
+      "title": "Reinterpretazione e visione critica. Duchamp e Sturtevant dialogano in una mostra a Milano",
+      "content": "밀라노에서 열린 전시회는 Duchamp와 Sturtevant의 작품을 통해 재해석과 비판적 시각을 탐구한다."
     },
     {
-      "title": "왜 모든 웹페이지가 홈처럼 작동해야 할까",
-      "content": "방문자들이 어느 페이지에서든 시작할 수 있으므로 모든 페이지는 이들을 안내할 수 있어야 합니다.",
-      "url": "https://www.creativebloq.com/web-design/why-every-web-page-now-needs-to-work-like-a-homepage",
-      "source": "Creative Bloq",
-      "domain": "DESIGN",
+      "title_ko": "Inside the exhibition tracing dancehall and reggaetón's radical legacy",
+      "summary": "'Dancing the Revolution: From Dancehall to Reggaetón' 전시회는 40명의 아티스트를 통해 댄스홀과 레게톤의 급진적 유산을 탐구한다.",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/inside-the-exhibition-tracing-dancehall-and-reggaetons-radical-legacy",
+      "source": "Wallpaper",
+      "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Creative Bloq",
-      "creator_insight": "홈페이지가 아닌 페이지에서도 사용자 경험을 최적화해야 하는 시대적 요구를 반영합니다.",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "패션은 내가 원하는 대로 세상을 바꾸는 도구다.",
       "tags": [
-        "웹 디자인",
-        "UX"
+        "댄스홀",
+        "레게톤",
+        "전시회"
       ],
       "execution_techniques": [
-        "디지털 디자인"
+        "전시"
       ],
-      "why": "디지털 공간에서의 사용자 중심 디자인에 대한 중요한 통찰을 제공합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.mos.cms.futurecdn.net/XDRQ4QBNynhUCoJ5kfDBYh-1280-80.jpg",
-      "pub_date": "2026-06-21T08:00:00.000000"
+      "why": "댄스홀과 레게톤의 유산은 현대인들이 음악을 통해 자신의 정체성을 탐구하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/MjXTHfz3CA4v5zu42dXt3-1280-80.jpg",
+      "pub_date": "2026-06-20T11:00:00+00:00",
+      "title_en": "",
+      "title": "Inside the exhibition tracing dancehall and reggaetón's radical legacy",
+      "content": "'Dancing the Revolution: From Dancehall to Reggaetón' 전시회는 40명의 아티스트를 통해 댄스홀과 레게톤의 급진적 유산을 탐구한다."
     },
     {
-      "title": "로컬 정부 재조직화를 통한 브랜드 가치 실현",
-      "content": "영국 내 조직적 변화 속에서 지방 정부는 그들의 정체성과 신뢰를 재구축할 기회를 가집니다.",
-      "url": "https://www.creativereview.co.uk/local-government-reorganisation-branding-opportunity/",
-      "source": "Creative Review",
-      "domain": "DESIGN",
+      "title_ko": "A waterfront house in Miami is arranged as a sequence of densely planted courtyards",
+      "summary": "KoDA는 마이애미 비치에 있는 해안가 주택을 식재를 통해 보호된 시야를 형성하여 개인적인 공간을 창출하였다.",
+      "url": "https://www.wallpaper.com/architecture/residential/a-waterfront-house-koda-miami-usa",
+      "source": "Wallpaper",
+      "domain": "ARCHITECTURE",
       "category": "리뷰",
-      "creator_name": "Dennis Cook",
-      "creator_insight": "브랜드를 통해 주민들과의 신뢰를 구축할 필요성을 설명합니다.",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 그저 건물을 디자인하는 것이 아니라 사람들이 그 안에서 어떻게 살아가고, 그 공간과 소통하는지를 고민하는 것입니다.",
       "tags": [
-        "브랜딩",
-        "지역사회"
+        "건축",
+        "주택",
+        "개인공간"
       ],
       "execution_techniques": [
-        "그래픽 디자인"
+        "건축"
       ],
-      "why": "공공 영역에서도 브랜드가 미치는 영향력을 고려할 수 있는 관점을 제공합니다.",
-      "depth": 0.95,
-      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/dennis-cook-illustration-local-government-branding-01.jpg",
-      "pub_date": "2026-06-21T08:00:00.000000"
-    },
-    {
-      "title": "아트 아시아 페어 참가 후기",
-      "content": "코엑스에서 열린 아트 아시아 페어에 서이 갤러리가 참가하여 많은 관람객들의 주목을 받았습니다.",
-      "url": "https://blog.naver.com/sabids/221610094855?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Seo or '서이 갤러리'",
-      "creator_insight": "아시아 시장에서 예술의 가치를 발견하고자 하는 시도를 보여줍니다.",
-      "tags": [
-        "아트페어",
-        "엔게이지먼트"
-      ],
-      "execution_techniques": [
-        "전시 디자인"
-      ],
-      "why": "아트페어를 통해 아시아 예술 시장의 흐름을 느낄 수 있는 기회를 제공합니다.",
-      "depth": 0.95,
-      "image": "https://blogthumb.pstatic.net/MjAxOTA4MDhfOTgg/MDAxNTY1MjU5NzQyNzI1.eYMaMPRTLCHBqcQgaadIMlnjRCj0Xiul0uTX-Zb4YXkg.PHT3dydH3gjGWjSJD8-eAvUy2gD2TBgn7EbgDu8WFHUg.JPEG.sabids/20190808_143321.jpg?type=s3",
-      "pub_date": "2026-06-21T08:00:00.000000"
+      "why": "개인적인 공간 창출은 현대인들이 자신만의 독특한 정체성을 구축하고자 하는 욕구를 반영한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/c2X9jhsQPykUZx8rC9Jo9B-1280-80.jpg",
+      "pub_date": "2026-06-20T06:00:00+00:00",
+      "title_en": "",
+      "title": "A waterfront house in Miami is arranged as a sequence of densely planted courtyards",
+      "content": "KoDA는 마이애미 비치에 있는 해안가 주택을 식재를 통해 보호된 시야를 형성하여 개인적인 공간을 창출하였다."
     }
   ],
   "items": [],
   "popcorn": [
     {
-      "title": "일본 호텔에서 발견한 카피",
-      "content": "일본 한 호텔에서 욕실 어메니티의 독특한 캡션이 눈길을 끌었습니다.",
-      "url": "https://adim21.co.kr/?kboard_content_redirect=3896",
-      "source": "Unknown Source",
+      "title_ko": "Disney's Hexed 트레일러, 영화 프레이밍과 미장센에 대한 큰 논쟁을 불러일으키다",
+      "summary": "디즈니의 'Hexed' 트레일러가 영화 프레이밍과 미장센에 대한 논쟁을 불러일으켰다.",
+      "url": "https://www.creativebloq.com/art/animation/disneys-hexed-trailer-has-sparked-an-enormous-debate-about-movie-framing-and-mise-en-scene",
+      "source": "Creative Bloq",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "영감"
+        "디즈니",
+        "논쟁",
+        "미장센"
       ],
-      "why": "작고 단순한 메시지가 사용자에게 웃음을 주며 인기를 끌고 있습니다.",
+      "why": "디즈니의 'Hexed' 트레일러는 대중이 영화의 시각적 연출에 대해 적극적으로 참여하고 논의할 수 있는 기회를 제공하며, 이는 현대인들이 콘텐츠 소비에 있어 더욱 능동적인 역할을 하고자 하는 욕구를 반영한다.",
       "depth": 0.5,
-      "image": "https://adim21.co.kr/wp-content/uploads/kboard_attached/6/202601/6972114215c9e6561037.jpg",
-      "pub_date": "2026-06-21T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/GzHv669Yf4P3NG45Rg8fkK-1280-80.jpg",
+      "pub_date": "2026-06-20T09:00:00+00:00",
+      "title_en": "",
+      "title": "Disney's Hexed 트레일러, 영화 프레이밍과 미장센에 대한 큰 논쟁을 불러일으키다",
+      "content": "디즈니의 'Hexed' 트레일러가 영화 프레이밍과 미장센에 대한 논쟁을 불러일으켰다."
     },
     {
-      "title": "TRANSYLVANIE",
-      "content": "10살 소녀가 뱀파이어라는 믿음을 갖고 살아가는 모습이 그려집니다.",
-      "url": "https://vimeo.com/channels/staffpicks/1199424197",
-      "source": "Unknown Source",
+      "title_ko": "Bad Bunny, 라틴 아티스트 최초 투어 누적 매출 10억 달러 돌파",
+      "summary": "Bad Bunny가 라틴 아티스트로서 최초로 투어 누적 매출 10억 달러를 돌파했다.",
+      "url": "https://hypebeast.kr/2026/6/bad-bunny-first-latin-artist-gross-1-billion-usd-from-touring-history-record-debi-tirar-mas-fotos-world-tour-news",
+      "source": "Hypebeast",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "영화"
+        "Bad Bunny",
+        "라틴음악",
+        "기록"
       ],
-      "why": "독특한 설정과 이야기 전개로 관객의 호기심을 자극합니다.",
+      "why": "Bad Bunny의 성공은 라틴 음악의 세계적인 인기를 반영하며, 이는 문화적 다양성과 포용성을 중시하는 현대인의 가치관과 연결된다.",
       "depth": 0.5,
-      "image": "https://i.vimeocdn.com/video/2174934924-75d1b03298d62493bf251f7cc0b49fa424f56fdbd9ffdd7a3badc1cbbe03b996-d_960?region=us",
-      "pub_date": "2026-06-21T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2Fbad-bunny-first-latin-artist-gross-1-billion-usd-from-touring-history-record-debi-tirar-mas-fotos-world-tour-news-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-06-20T08:00:53+00:00",
+      "title_en": "",
+      "title": "Bad Bunny, 라틴 아티스트 최초 투어 누적 매출 10억 달러 돌파",
+      "content": "Bad Bunny가 라틴 아티스트로서 최초로 투어 누적 매출 10억 달러를 돌파했다."
     },
     {
-      "title": "기억하고픈 파리의 광장",
-      "content": "콩코르드 광장은 파리의 상징적인 오벨리스크로 인해 쉽게 찾을 수 있는 명소입니다.",
-      "url": "https://blog.naver.com/justina75/224329777757?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
+      "title_ko": "축구·리테일·게이밍·크래프트를 한 번에: Hypebeast Cup 2026, 한 달간의 싱가포르 랜딩 프로그램 공개",
+      "summary": "Hypebeast Cup 2026은 축구, 리테일, 게이밍, 크래프트를 결합한 프로그램을 싱가포르에서 공개한다.",
+      "url": "https://hypebeast.kr/2026/6/hypebeast-cup-2026-singapore-football-culture-program",
+      "source": "Hypebeast",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "파리"
+        "Hypebeast",
+        "축구",
+        "문화"
       ],
-      "why": "도시의 역사를 느낄 수 있는 관광명소들은 많은 사람들에게 사랑받습니다.",
+      "why": "Hypebeast Cup 2026은 다양한 문화를 결합하여 현대인들이 여러 관심사를 동시에 충족할 수 있는 기회를 제공하며, 이는 다면적인 경험을 추구하는 현대인의 욕구를 반영한다.",
       "depth": 0.5,
-      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjNfMjM5/MDAxNzgyMjI1NzExNDY1.7b5SGQmWSKbsR2giFpVb3GboZJ0cfAJvgNUL8ZQRIqYg.1oHu7F7OYEcjbjB4K3XwIj-qQgNKBcdGSNsftF9iuwgg.JPEG/900_1782225411366.jpg?type=s3",
-      "pub_date": "2026-06-21T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F06%2Fhypebeast-cup-2026-singapore-football-culture-program-0.png?cbr=1&format=png&fit=max",
+      "pub_date": "2026-06-20T08:58:09+00:00",
+      "title_en": "",
+      "title": "축구·리테일·게이밍·크래프트를 한 번에: Hypebeast Cup 2026, 한 달간의 싱가포르 랜딩 프로그램 공개",
+      "content": "Hypebeast Cup 2026은 축구, 리테일, 게이밍, 크래프트를 결합한 프로그램을 싱가포르에서 공개한다."
     }
   ],
   "keywords": [

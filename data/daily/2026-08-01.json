@@ -1,294 +1,370 @@
 {
   "date": "2026-08-01",
-  "focusQ": "에이전트의 생각: 창의적인 흐름과 다양한 분야의 시너지가 한국의 문화에 어떻게 반영되는지를 탐구하며, 우리는 예술과 디자인의 경계를 넘나드는 상호작용을 목도합니다. 이러한 상호작용은 새로운 영감의 원천이 되며, 동시대 문화의 정수를 담고 있습니다.",
-  "creator_message": "큐레이터의 메시지: 오늘도 창의적인 여정을 함께하게 되어 기쁩니다. 다양한 시각과 문화적 관점을 통해 우리의 세계를 더욱 풍요롭게 하는 레퍼런스를 만나보세요.",
+  "focusQ": "에이전트의 생각: 오늘날 창작자들에게 있어 현대적 문화의 흐름은 디지털과 아날로그의 경계를 넘나드는 새로운 융합을 요구하고 있습니다. 우리는 이 교차점에서 새로운 미학과 감각적 연결성을 발견할 수 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 주제는 다층적 미학의 융합입니다. 다양한 창작 영역에서 영감을 받아 새로운 시각을 발견해보세요.",
   "session": {
-    "timestamp": "2026-08-01T00:01:09.178010",
+    "timestamp": "2026-08-02T12:01:26.834953",
     "considered": 40,
     "selected": 14
   },
   "topPicks": [
     {
-      "title_ko": "신성한 색채: 현대 벵골의 힌두 판화",
-      "summary": "보스턴 미술관에서 2026년 1월 31일부터 5월 31일까지 열리는 '신성한 색채: 현대 벵골의 힌두 판화' 전시회는 다양한 문화적 시각을 제공합니다.",
-      "url": "https://theartwolf.com/exhibitions/bengal-mfa-boston-2026/",
-      "source": "The Art Wolf",
-      "domain": "ART",
+      "title": "체이서의 칵테일 아이스크림 로고 디자인",
+      "content": "체이서의 보즈 아이스크림은 로고에 칵테일 글라스를 통합하여 브랜드의 독창성과 유머를 강조합니다.",
+      "url": "https://thedieline.com/chasers-boozy-ice-cream-pours-a-cocktail-glass-right-into-the-logo/",
+      "source": "The Dieline",
+      "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "불명",
-      "creator_insight": "힌두 교리와 예술적 표현의 융합을 통해 전통과 현대의 경계를 탐구합니다.",
+      "creator_name": "체이서 디자인 팀",
+      "creator_insight": "칵테일의 즐거움을 시각적으로 전달하여 브랜드의 정체성을 강화합니다.",
       "tags": [
-        "힌두교",
-        "판화",
-        "문화"
-      ],
-      "execution_techniques": [
-        "BiophilicForm"
-      ],
-      "why": "현대 사회에서 전통 문화의 중요성을 다시금 상기시키는 작품으로, 다양한 문화적 관점을 이해하는 데 도움을 줍니다.",
-      "social_proof": "",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=800&q=80",
-      "pub_date": "2026-08-01T08:00:00.000000",
-      "title_en": "",
-      "title": "신성한 색채: 현대 벵골의 힌두 판화",
-      "content": "보스턴 미술관에서 2026년 1월 31일부터 5월 31일까지 열리는 '신성한 색채: 현대 벵골의 힌두 판화' 전시회는 다양한 문화적 시각을 제공합니다."
-    },
-    {
-      "title": "Present & Correct 뒤의 이야기: 모든 그래픽 디자이너의 꿈인 완벽하게 큐레이션 된 문구점",
-      "content": "Neal Whittington 공동 창업자인 Present & Correct 문구 브랜드와의 인터뷰에서 이 브랜드의 전설적인 재고들 뒤에 숨겨진 이야기를 밝혀봅니다.",
-      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
-      "source": "It's Nice That",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "이 인터뷰는 브랜드의 독특한 큐레이션과 출판 세계로의 첫 진입을 조명합니다.",
-      "tags": [
-        "문구",
+        "브랜드",
+        "로고",
         "디자인"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#로고디자인",
+        "#브랜드아이덴티티"
       ],
-      "why": "브랜드의 깊이와 독창성을 이해할 수 있는 기회입니다.",
+      "why": "브랜드의 핵심 가치를 로고에 창의적으로 표현하여 현대적 소비자와의 소통을 강화합니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/1784663590276.jpeg",
       "pub_date": "2026-08-01T08:00:00.000000"
     },
     {
-      "title": "Karlovy Vary에서의 스파 에클렉틱스",
-      "content": "1946년부터 시작된 Karlovy Vary 국제 영화제는 점령과 타협, 생존의 놀라운 과정을 밟아왔습니다. 이러한 배경 속에서 영화제가 어떤 변화를 겪었는지 소개합니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
+      "title": "비주얼 아트와 종이의 보물, 카스텔로 스포르체스코",
+      "content": "카스텔로 스포르체스코의 종이 예술 전시회는 문화적 유산과 현대적 해석의 만남을 제공합니다.",
+      "url": "http://www.arte.it/notizie/milano/passione-disegno-il-tesoro-di-carta-del-castello-sforzesco-22917",
+      "source": "Arte.it",
+      "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "영화제의 역사적 맥락을 깊이 있게 파악할 수 있는 기회입니다.",
+      "creator_name": "카스텔로 스포르체스코",
+      "creator_insight": "전통적 종이 예술의 현대적 재해석을 통해 새로운 시각적 경험을 제공합니다.",
       "tags": [
-        "영화제",
-        "역사"
+        "종이예술",
+        "전시",
+        "문화유산"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#종이예술",
+        "#전통과현대의조화"
       ],
-      "why": "연속성과 변화의 역사를 이해할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-08-01T08:00:00.000000"
-    },
-    {
-      "title": "Edie Fake: 이미지를 통한 소통",
-      "content": "아티스트이자 활동가, 작가인 Edie Fake 가 이미지로 소통하는 방식에 대한 개인적 경험을 공유합니다.",
-      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
-      "source": "Creative Independent",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "다양한 매체를 통한 창의적 소통 방식을 이해할 수 있습니다.",
-      "tags": [
-        "아트",
-        "커뮤니케이션"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "이미지의 힘을 새롭게 조명합니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
-      "pub_date": "2026-08-01T08:00:00.000000"
-    },
-    {
-      "title": "강렬한 감정에 따르는 음악가이자 예술가, Alexandra Drewchin",
-      "content": "Alexandra Drewchin이 엄마가 된 이후 어떻게 예술을 만들어가고 있는지에 대한 심층 인터뷰를 제공합니다.",
-      "url": "https://thecreativeindependent.com/people/musician-and-artist-alexandra-drewchin-eartheater-on-following-the-deep-feeling/",
-      "source": "Creative Independent",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "예술과 개인 생활의 균형을 조명합니다.",
-      "tags": [
-        "음악",
-        "예술"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "감정의 변화가 창의성에 미치는 영향을 이해할 수 있습니다.",
+      "why": "전통 예술 매체의 현대적 활용은 창작자들에게 새로운 영감을 제공합니다.",
+      "social_proof": "",
       "depth": 0.95,
       "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
       "pub_date": "2026-08-01T08:00:00.000000"
     },
     {
-      "title": "Kim Justin Hell의 흥미로운 잡지 피처",
-      "content": "스위스의 상업 사진가 Kim Justin Hell은 럭셔리 시계 및 고급 제품 사진에서 두각을 나타내며 화려한 작품들을 선보입니다.",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
-      "source": "productionparadise.com",
+      "title": "잭리의 프리지가드: 주방 친화적 백업 전원",
+      "content": "잭리의 프리지가드는 현대 주방에 어울리는 디자인으로 상을 받은 냉장고 백업 배터리입니다.",
+      "url": "https://design-milk.com/jackery-fridgeguard-refrigerator-backup-battery/",
+      "source": "Design Milk",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "정교한 조명과 매크로 전문 기술로 완성된 고급 시각 이미지를 탐구합니다.",
+      "creator_name": "잭리 디자인 팀",
+      "creator_insight": "가정용 전원 장치에 새로운 미적 접근을 통해 실용성 및 디자인을 결합합니다.",
       "tags": [
-        "사진",
-        "럭셔리"
+        "주방용품",
+        "배터리",
+        "혁신"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#주방디자인",
+        "#전원장치"
       ],
-      "why": "기술적 완벽성과 창의적 방향의 결합을 볼 수 있습니다.",
+      "why": "가전 디자인의 혁신적 접근은 다른 산업에도 영감을 줄 수 있습니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
+      "image": "https://design-milk.com/images/2026/07/FridgeGuard-Product-Image-4.jpg",
       "pub_date": "2026-08-01T08:00:00.000000"
     },
     {
-      "title": "Ayala Coffee Co.의 비주얼 아이덴티티: 촉각적 패키지 제작",
-      "content": "Ayala Coffee Co.의 브랜드 아이덴티티는 건축적 비례와 구조적 타이포그래피 패키징 디자인을 통해 기업의 정체성을 확립합니다.",
-      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
-      "source": "abduzeedo.com",
+      "title": "트래비스 스콧의 오디세이 나이키: 출시되지 않을 스니커즈",
+      "content": "트래비스 스콧은 오디세이의 출연진을 위해 특별히 디자인된 나이키 문 슈즈를 공개했습니다.",
+      "url": "https://www.highsnobiety.com/p/travis-scott-nike-moon-shoe-odyssey/",
+      "source": "Highsnobiety",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "타이포그래피와 비주얼 아이덴티티에서 구조적 비례의 중요성을 강조합니다.",
+      "creator_name": "트래비스 스콧",
+      "creator_insight": "리미티드 에디션 스니커즈의 새로운 패러다임을 제시하여 창작의 경계를 확장합니다.",
       "tags": [
-        "브랜딩",
-        "디자인"
+        "스니커즈",
+        "패션",
+        "콜라보레이션"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#스니커즈디자인",
+        "#콜라보레이션"
       ],
-      "why": "기업의 시각적 아이덴티티를 인식하고 분석할 수 있는 기회입니다.",
+      "why": "문화적 아이콘과의 협업은 창작자들에게 새로운 창의적 기회를 제공합니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
       "pub_date": "2026-08-01T08:00:00.000000"
     },
     {
-      "title": "플로이드 메이웨더 주니어의 생활",
-      "content": "플로이드 메이웨더 주니어는 현역 시절 무패의 전적과 5체급 제패로 유명하며, 오늘날 가장 많은 수입을 올리는 스포츠 스타입니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title": "AI 에이전트 활용, AI로 만든 뮤직비디오",
+      "content": "AI를 활용하여 뮤직비디오를 자동으로 제작하는 시스템을 개발했습니다.",
+      "url": "https://blog.naver.com/nkj2001/223869007191?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "AI 개발 팀",
+      "creator_insight": "AI를 활용한 자동화 시스템은 창작의 새로운 가능성을 열어줍니다.",
+      "tags": [
+        "AI",
+        "뮤직비디오",
+        "자동화"
+      ],
+      "execution_techniques": [
+        "#AI디자인",
+        "#자동화"
+      ],
+      "why": "AI 기술의 발전은 창작 과정에 혁신을 가져오며 다양한 분야에 영향을 미칠 것입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://blogthumb.pstatic.net/MjAyNTA1MTdfMjI2/MDAxNzQ3NDg4MjMxODcz.CYGvJkOa6wJdjAzcy_rzXZfpQiRbCYqqJagysXzqFrMg.Q_lcgwKjqBJ3-76tsuhzIh2nslf_tQ0QY5v-55FAXvYg.PNG/3.output_10_0.png?type=s3",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "2027 메트 갈라, 존 갈리아노를 조명하다",
+      "content": "2027 메트 갈라는 존 갈리아노의 창의적 경계를 조명하며 패션의 새로운 지평을 열 예정입니다.",
+      "url": "https://hypebeast.kr/2026/8/2027-met-gala-theme-john-galliano-horizons-announcement",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "존 갈리아노",
+      "creator_insight": "메트 갈라는 패션계의 중요한 플랫폼으로, 갈리아노의 독창성이 더욱 빛날 것입니다.",
+      "tags": [
+        "패션",
+        "메트갈라",
+        "갈리아노"
+      ],
+      "execution_techniques": [
+        "#패션이벤트",
+        "#창의적경계"
+      ],
+      "why": "패션 이벤트는 문화적 트렌드를 제시하며 다양한 예술 분야에 영향을 미칩니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2F2027-met-gala-theme-john-galliano-horizons-announcement-000.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "2050+의 '잊혀진 주차장'",
+      "content": "2050+는 비공식적인 스포츠와 건축을 통해 감시를 도전하고 공공 공간을 재정의합니다.",
+      "url": "https://www.designboom.com/architecture/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay/",
+      "source": "Designboom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "이폴리토 페스텔리니 라파렐리",
+      "creator_insight": "공공 공간의 재발견을 통해 도시 환경에 새로운 활력을 불어넣습니다.",
+      "tags": [
+        "건축",
+        "공공공간",
+        "도시"
+      ],
+      "execution_techniques": [
+        "#공공예술",
+        "#도시재생"
+      ],
+      "why": "공공 공간의 혁신은 도시 생활의 질을 향상시키고 다른 디자인 분야에 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay-designboom-700-500x400-22b08q85r092.jpg",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "ARCO 아트 페어 마드리드 2026",
+      "content": "ARCO 아트 페어는 현대 예술의 다양한 면모를 탐구하며 창작자들에게 새로운 영감을 제공합니다.",
+      "url": "https://veryprivategallery.com/arco-art-fair-madrid/",
+      "source": "Very Private Gallery",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "전통적인 스포츠 전설과 현대적 부와 명예의 상징을 탐구합니다.",
+      "creator_name": "ARCO 조직 위원회",
+      "creator_insight": "세계적인 예술가들이 참여하는 플랫폼으로서의 역할을 강조합니다.",
       "tags": [
-        "스포츠",
-        "라이프스타일"
+        "아트페어",
+        "현대예술",
+        "전시"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#아트페어",
+        "#현대예술"
       ],
-      "why": "그의 성공과 개인 삶이 어떻게 결합되는지 이해할 수 있는 기회입니다.",
+      "why": "국제적인 예술 이벤트는 글로벌 창작자들에게 새로운 트렌드를 제시합니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "image": "https://veryprivategallery.com/wp-content/uploads/2026/03/ARCOmadrid-arco-art-fair-Alessandro-Balteo-Yazbeck-Last-Oil-Barrel.jpg",
       "pub_date": "2026-08-01T08:00:00.000000"
     },
     {
-      "title": "꿈을 담은 프랑스 시계 -akteo",
-      "content": "akteo 시계는 단순한 시계가 아니라 꿈과 열정을 표현하는 상징물로, 프랑스 디자이너 Jean Christophe Marechal에 의해 만들어졌습니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
+      "title": "프레젠트 & 코렉트: 그래픽 디자이너의 꿈",
+      "content": "프레젠트 & 코렉트는 완벽하게 큐레이션된 문구점으로, 그래픽 디자이너들에게 영감을 제공합니다.",
+      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
+      "source": "It's Nice That",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "단순함 속에 독창적인 오브제를 통해 감정을 연결합니다.",
+      "creator_name": "프레젠트 & 코렉트 팀",
+      "creator_insight": "세심하게 큐레이션된 디자인은 일상 속에서 새로운 창의적 영감을 불러일으킵니다.",
       "tags": [
-        "시계",
-        "브랜드"
+        "문구",
+        "디자인",
+        "큐레이션"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#그래픽디자인",
+        "#큐레이션"
       ],
-      "why": "브랜드의 철학과 디자이너의 의도를 이해할 수 있습니다.",
+      "why": "디자인의 세부적인 요소들은 다른 창작 분야에 새로운 통찰을 제공합니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
       "pub_date": "2026-08-01T08:00:00.000000"
     },
     {
-      "title": "Spa Eclectics: At Karlovy Vary",
-      "content": "Karlovy Vary 국제 영화제는 점령과 타협, 살아남은 역사가 담긴 놀라운 경로를 걸어왔습니다. 1946년부터 시작된 그 역사를 조명합니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
+      "title": "미래는 디지털입니다",
+      "content": "디지털이 우리의 삶을 어떻게 변화시키고 있는지에 대한 통찰을 제공합니다.",
+      "url": "https://uglyd.com/index.php/ugly-duckling-blog/",
+      "source": "uglyd.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "uglyd.com 팀",
+      "creator_insight": "디지털 혁명은 창작의 경계를 무너뜨리고 새로운 가능성을 열어줍니다.",
+      "tags": [
+        "디지털",
+        "혁신",
+        "트렌드"
+      ],
+      "execution_techniques": [
+        "#디지털혁신",
+        "#미래디자인"
+      ],
+      "why": "디지털 기술의 발전은 다양한 창작 분야에 새로운 방향성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "사랑의 싸움을 위한 포스터 갤러리",
+      "content": "타이포그래피가 단순한 소통 도구를 넘어서는 힘을 보여주는 전시회입니다.",
+      "url": "https://www.stashmedia.tv/fight-for-kindness-poster-gallery-edition-v-now-live/",
+      "source": "Unknown Source",
       "domain": "MOTION_FILM",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "영화제의 역사적 변화를 심층적으로 이해할 수 있습니다.",
+      "creator_name": "Fight for Kindness 팀",
+      "creator_insight": "타이포그래피의 변혁적 힘을 통해 사회적 인식을 고양합니다.",
       "tags": [
-        "역사",
-        "문화"
+        "타이포그래피",
+        "사회적변화",
+        "전시"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#타이포그래피",
+        "#사회적의미"
       ],
-      "why": "역사 속 문화적 전통과 현대적 이야기를 결합합니다.",
+      "why": "타이포그래피는 시각적 커뮤니케이션의 새로운 가능성을 탐구합니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
       "pub_date": "2026-08-01T08:00:00.000000"
     },
     {
-      "title": "Ayala Coffee Co. Visual",
-      "content": "Ayala Coffee Co.의 브랜드 아이덴티티는 건축적 비례와 구조적 타이포그래피 패키징 디자인을 통해 기업의 정체성을 확립합니다.",
-      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
-      "source": "abduzeedo.com",
+      "title": "잭리의 혁신적인 주방 전원 솔루션",
+      "content": "잭리 프리지가드는 현대 주방에 적합한 디자인으로 기능성과 미적 가치를 결합합니다.",
+      "url": "https://coolhunting.com/technology/audis-q9-and-sq9-make-their-case-in-light/",
+      "source": "coolhunting.com",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "타이포그래피와 비주얼 아이덴티티에서 구조적 비례의 중요성을 강조합니다.",
+      "creator_name": "잭리 디자인 팀",
+      "creator_insight": "주방 전원 솔루션에 미적 요소를 더함으로써 새로운 사용자 경험을 제공합니다.",
       "tags": [
-        "브랜드",
-        "디자인"
+        "주방전원",
+        "디자인",
+        "혁신"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#주방디자인",
+        "#전원솔루션"
       ],
-      "why": "기업의 시각적 아이덴티티를 인식하고 분석할 수 있는 기회입니다.",
+      "why": "가전 디자인의 혁신적 접근은 다른 산업에도 영감을 줄 수 있습니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/A263893_large-768x576.jpg",
+      "pub_date": "2026-08-01T08:00:00.000000"
+    },
+    {
+      "title": "웰시 코티지: 바다와 건축의 조화",
+      "content": "펨브로크셔 해안 국립공원의 휴양지인 웰시 코티지는 지속 가능성을 강조합니다.",
+      "url": "https://www.wallpaper.com/architecture/residential/welsh-cottage-white-breakers-unknown-works-uk",
+      "source": "Wallpaper*",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown Works",
+      "creator_insight": "자연경관과 건축의 조화는 지속 가능한 디자인의 미래를 제시합니다.",
+      "tags": [
+        "지속가능성",
+        "건축",
+        "자연"
+      ],
+      "execution_techniques": [
+        "#건축디자인",
+        "#지속가능성"
+      ],
+      "why": "자연과 건축의 조화는 디자인의 새로운 가능성을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/cT79DK7fEZDEdUCTYCu2qK-1280-80.jpg",
       "pub_date": "2026-08-01T08:00:00.000000"
     }
   ],
   "popcorn": [
     {
-      "title": "초호화 스타선수의 생활  -플로이드 메이웨더 Floyd Mayweather Jr.",
-      "content": "플로이드 메이웨더는 무패로 5체급을 정복한 복서로 유명하며, 현재 세계에서 가장 많이 돈을 벌고 있는 선수 중 하나입니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title": "클링3.0#02 엘레멘트의 멀티샷 활용",
+      "content": "멀티샷 기술을 활용한 일관성 있는 장면 연출 방법을 소개합니다.",
+      "url": "https://blog.naver.com/tiger6107/224258875657?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "복싱"
+        "멀티샷"
       ],
-      "why": "그의 화려한 라이프스타일을 엿볼 수 있는 기회입니다.",
+      "why": "시각적 효과의 극대화를 위한 멀티샷 기술은 새로운 영화 제작 기법으로 주목받고 있습니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "image": "https://blogthumb.pstatic.net/MjAyNjA0MjBfODAg/MDAxNzc2NjYxMDM3NDA0.FxmJSNLLyUALxT04oFFR33VNQx0UWY4USBrZkOt1p8Ag.GknTiSZbnh-jnvnszhK3hquux1mIA8KBSUfa5OmcdH4g.PNG/20260420_135659.png?type=s3",
       "pub_date": "2026-08-01T08:00:00.000000"
     },
     {
-      "title": "꿈을 담은 프랑스 시계 -akteo(악테오)",
-      "content": "akteo 시계는 꿈과 열정을 표현하는 상징물로, 다양한 오브제를 통한 독특한 디자인을 선보입니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
+      "title": "진동선사진전 <밤의 파리>",
+      "content": "진동선사진전은 파리의 밤을 독특한 시각으로 담아내고 있습니다.",
+      "url": "https://blog.naver.com/sabids/221577722796?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "시계"
+        "사진전"
       ],
-      "why": "디자인의 예술성과 상징성을 탐험합니다.",
+      "why": "파리의 밤을 포착한 사진전은 독특한 감성으로 주목받고 있습니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "image": "https://blogthumb.pstatic.net/MjAxOTA3MDRfMyAg/MDAxNTYyMjI5MDUwMjcw.RwAWD9YfMq2J2R8hICKm3EjKLkHOXTrYmQjv1mv0l2Ag.P_L4nFU4OXnkqrWRzGvvWMJ5qloNhGi0Uq3TaMot2k8g.JPEG.sabids/20190704_165046.jpg?type=s3",
       "pub_date": "2026-08-01T08:00:00.000000"
     },
     {
-      "title": "Interview Magazine – “Jamie Dornan”",
-      "content": "Jamie Dornan의 '그레이' 역으로 주목받기 전에 출연한 인터뷰 매거진에 관련된 내용을 다룹니다.",
-      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
-      "source": "thestylewatcher.wordpress.com",
+      "title": "16년 후에도 여전히 인기있는 나이키 오레오 테마 에어 조던",
+      "content": "고전적인 흑백 색상으로 부활한 에어 조던 6 '오레오' 스니커즈가 주목받고 있습니다.",
+      "url": "https://www.highsnobiety.com/p/jordan-6-oreo-2026-sneakers/",
+      "source": "Highsnobiety",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "연예"
+        "스니커즈"
       ],
-      "why": "Jamie Dornan의 초기 모습을 볼 수 있는 흥미로운 콘텐츠입니다.",
+      "why": "오레오 테마의 스니커즈는 레트로 트렌드와 함께 다시 주목받고 있습니다.",
       "depth": 0.5,
-      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
       "pub_date": "2026-08-01T08:00:00.000000"
     }
   ],
@@ -306,11 +382,19 @@
       "is_hot": true
     },
     {
-      "word": "전통과 현대의 상호작용",
+      "word": "지속 가능한 조화",
       "is_hot": true
     },
     {
-      "word": "문화적 다양성",
+      "word": "문화적 경계 확장",
+      "is_hot": true
+    },
+    {
+      "word": "창의적 자동화",
+      "is_hot": true
+    },
+    {
+      "word": "새로운 사용자 경험",
       "is_hot": true
     }
   ]

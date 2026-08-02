@@ -8,235 +8,268 @@
   },
   "topPicks": [
     {
-      "title": "Faception Reloaded 티셔츠",
-      "content": "얼반 프라이버시의 '페이스션 티셔츠'는 다양한 그래픽을 활용해 안면 인식 시스템을 혼란스럽게 만듭니다. 100% 180g 유기농 면을 사용하며 주문 제작됩니다. GOTS와 ÖEKO-TEX Standard 100을 준수합니다.",
-      "url": "https://coolhunting.com/buy/faception-reloaded-tee/",
-      "source": "coolhunting.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Urban Privacy",
-      "creator_insight": "티셔츠 디자인을 통해 인식 기술에 대한 의문을 제기하며 패션과 기술의 경계를 넘나듭니다.",
+      "title_ko": "주말을 함께한 줄리아 시마우츠",
+      "summary": "줄리아 시마우츠와 함께한 주말을 통해 그녀의 창작 과정과 영감을 탐구합니다. 그녀의 작업은 개인적 경험과 직관에 기반하여 독특한 시각적 언어를 형성합니다.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-julia-schimautz-050626",
+      "source": "It's Nice That",
+      "category": "인터뷰",
+      "thread": "T02",
       "tags": [
-        "패션",
-        "기술"
+        "창작과정",
+        "직관",
+        "개인적 경험",
+        "시각적 언어"
       ],
-      "execution_techniques": [
-        "#유기농면"
-      ],
-      "why": "패션과 기술의 접목이 인식 기술에 대한 경각심을 높입니다.",
-      "depth": 0.95,
-      "image": "https://coolhunting.com/wp-content/uploads/2026/07/6B4F4DEC-4E02-46D7-A7E8-577616AA85CB_1_201_a-768x768.jpeg",
-      "pub_date": "2026-06-06T08:00:00.000000"
+      "why": "줄리아 시마우츠는 개인적 경험과 직관을 바탕으로 독특한 시각적 언어를 형성합니다. 그녀의 작업은 이러한 경험을 시각적으로 표현하는 데 중점을 두며, 이는 창작 과정에서의 직관적 접근법을 통해 구현됩니다.",
+      "depth": 0.9,
+      "image": "https://admin.itsnicethat.com/images/l09Ge8Wk50zEIIkCMEA_sf4RL7A=/278611/width-1440%7Cformat-jpeg/The_Weekend_HERO_v2.png",
+      "creator_name": "Julia Shimao",
+      "creator_insight": "디자인은 사용자의 필요와 감정을 이해하고 그것을 아름답고 기능적으로 표현하는 과정입니다.",
+      "title_en": "",
+      "title": "주말을 함께한 줄리아 시마우츠",
+      "content": "줄리아 시마우츠와 함께한 주말을 통해 그녀의 창작 과정과 영감을 탐구합니다. 그녀의 작업은 개인적 경험과 직관에 기반하여 독특한 시각적 언어를 형성합니다."
     },
     {
-      "title": "Del LaGrace Volcano의 사진 세계",
-      "content": "Del LaGrace Volcano의 사진은 런던과 스코틀랜드에서 새로운 두 개의 전시를 통해 주목받고 있습니다. 그들은 자신의 삶과 주변 사람들이 모두 작품의 일부라고 주장합니다.",
-      "url": "https://www.wallpaper.com/art/photography/del-lagrace-volcano-exhibition",
-      "source": "Wallpaper*",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Del LaGrace Volcano",
-      "creator_insight": "자신의 삶과 공동체를 작품에 반영하며, 시각적으로 혁신적인 접근을 보여줍니다.",
+      "title_ko": "새로운 디자이너 2026을 위한 달력에 표시하세요",
+      "summary": "2026년의 새로운 디자이너 전시회는 창의적 산업의 미래를 조망합니다. 이 전시회는 신진 디자이너들이 자신의 작품을 선보이고 네트워킹할 수 있는 기회를 제공합니다.",
+      "url": "https://www.itsnicethat.com/articles/new-designers-2026-creative-industry-sponsored-content-040626",
+      "source": "It's Nice That",
+      "category": "뉴스",
+      "thread": "T04",
       "tags": [
-        "LGBTQI+",
-        "사진"
+        "디자인",
+        "전시회",
+        "신진 디자이너",
+        "창의적 산업"
       ],
-      "execution_techniques": [
-        "#사회적분석"
-      ],
-      "why": "그들의 작품은 개인 경험과 역사적 맥락을 융합하여 시각적 문화에 큰 영향을 줍니다.",
-      "depth": 0.95,
-      "image": "https://cdn.mos.cms.futurecdn.net/gL38sfdDtpYtSFJAsbxkRQ-1280-80.jpg",
-      "pub_date": "2026-06-06T08:00:00.000000"
+      "why": "2026년의 새로운 디자이너 전시회는 신진 디자이너들이 자신의 작품을 선보일 수 있는 기회를 제공하며, 창의적 산업의 미래를 조망합니다. 이 전시회는 네트워킹을 통해 디자이너들이 협업할 수 있는 플랫폼을 제공합니다.",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/nuOKdzqdkUFlEFXCw4YNwHhd9IM=/278623/width-1440/new-designers-2026-creative-industry-sponsored-content-itsnicethat-3.jpeg",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "창의성은 우리의 상상력을 현실로 만들 수 있는 힘이다.",
+      "title_en": "",
+      "title": "새로운 디자이너 2026을 위한 달력에 표시하세요",
+      "content": "2026년의 새로운 디자이너 전시회는 창의적 산업의 미래를 조망합니다. 이 전시회는 신진 디자이너들이 자신의 작품을 선보이고 네트워킹할 수 있는 기회를 제공합니다."
     },
     {
-      "title": "Goga 모노 글꼴 샘플 타입페이스",
-      "content": "Goga Mono는 630 유닛 그리드를 사용하여 아름다운 레이아웃을 만듭니다. 이 모노스페이스 타입페이스는 미학적이고 기능적인 디자인을통해 시각적 효과를 극대화합니다.",
-      "url": "https://abduzeedo.com/goga-mono-monospaced-typeface-specimen-typography-narrow-type/",
-      "source": "abduzeedo.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Goga Mono 팀",
-      "creator_insight": "시스템적인 그리드 구성으로 다양하고 창의적인 레이아웃을 실험합니다.",
+      "title_ko": "칸 인터뷰: 도밍가 소토마요르의 '자유로운 라 페라'",
+      "summary": "도밍가 소토마요르는 칸 영화제에서 그녀의 영화 '라 페라'의 자발적이고 해방적인 제작 과정을 공유합니다. 그녀는 창작의 자유로움을 강조합니다.",
+      "url": "https://filmmakermagazine.com/133766-interview-dominga-sotomayor-la-perra-cannes-2026/",
+      "source": "Filmmaker Magazine",
+      "category": "인터뷰",
+      "thread": "T02",
       "tags": [
-        "타입페이스",
-        "디자인"
+        "영화",
+        "창작",
+        "자유로움",
+        "칸 영화제"
       ],
-      "execution_techniques": [
-        "#모노스페이스"
-      ],
-      "why": "미적 충실도와 기능성을 모두 만족시키는 디자인 구조가 돋보입니다.",
-      "depth": 0.95,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_goga-mono-free-try-narrow-type.jpg",
-      "pub_date": "2026-06-06T08:00:00.000000"
+      "why": "도밍가 소토마요르는 영화 '라 페라'에서 창작의 자유로움을 강조하며, 자발적이고 해방적인 제작 과정을 통해 독특한 영화적 경험을 창출했습니다. 이는 그녀의 창작 철학을 반영하는 중요한 요소입니다.",
+      "depth": 0.88,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/05/LA_PERRA_2©Isidora_Melo_Ramirez_RT_Features_Planta-940x400.jpg",
+      "creator_name": "도밍가 소토마요르",
+      "creator_insight": "영화는 우리 삶의 순간들을 포착하고 그것을 새로운 방식으로 재구성하여 감정의 깊이를 탐구할 수 있는 매체입니다.",
+      "title_en": "",
+      "title": "칸 인터뷰: 도밍가 소토마요르의 '자유로운 라 페라'",
+      "content": "도밍가 소토마요르는 칸 영화제에서 그녀의 영화 '라 페라'의 자발적이고 해방적인 제작 과정을 공유합니다. 그녀는 창작의 자유로움을 강조합니다."
     },
     {
-      "title": "Nicholas Duers의 스틸 라이프 사진",
-      "content": "Nicholas Duers는 탁월한 구성과 세밀한 조명으로 유명한 뉴욕 기반의 스틸 라이프 사진작가입니다. 그의 작품은 브랜드의 정체성을 시각적으로 표현하면서도 깔끔한 우아함을 유지합니다.",
-      "url": "https://www.productionparadise.com/spotlight/watches-and-jewellery-photography-and-motion-2316/nicholas-duers-64464.html",
+      "title_ko": "The Spinoff Comes of Age",
+      "summary": "Showrunner Bruce Miller admits that when he first read The Handmaid’s Tale, he thought the ending of Margaret Atwood’s dystopian novel was a little unsatisfying.",
+      "url": "https://filmmakermagazine.com/133827-considerations-spinoffs-emmys-2026/",
+      "source": "Filmmaker Magazine",
+      "domain": "LITERATURE",
+      "category": "분석",
+      "creator_name": "Bruce Miller",
+      "creator_insight": "I was like, ‘Well, I hope there’s a sequel!’",
+      "tags": [
+        "스핀오프",
+        "TV 시리즈"
+      ],
+      "why": "스핀오프의 발전과 성공 사례를 통해 문학과 영상물의 상호작용을 탐구하는 기사.",
+      "social_proof": "문학 작품의 영상화에 대한 심층 분석.",
+      "depth": 0.85,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/06/176985_0181RT-H-2026-940x400.jpg",
+      "pub_date": "Wed, 03 Jun 2026 19:00:29 +0000",
+      "title_en": "",
+      "title": "The Spinoff Comes of Age",
+      "content": "Showrunner Bruce Miller admits that when he first read The Handmaid’s Tale, he thought the ending of Margaret Atwood’s dystopian novel was a little unsatisfying."
+    },
+    {
+      "title_ko": "Musician Andy ‘Red’ PK on not being afraid of hard work",
+      "summary": "Andy 'Red' PK discusses his journey in music, highlighting the importance of collaboration and hard work.",
+      "url": "https://thecreativeindependent.com/people/musician-andy-red-pk-on-not-being-afraid-of-hard-work/",
+      "source": "Creative Independent",
+      "domain": "MUSIC",
+      "category": "인터뷰",
+      "creator_name": "Andy 'Red' PK",
+      "creator_insight": "I started collaborating first, kind of by a long shot.",
+      "tags": [
+        "음악",
+        "협업"
+      ],
+      "why": "음악가의 성장 과정과 협업의 중요성을 조명하는 인터뷰.",
+      "social_proof": "음악 산업에서의 협업의 가치를 강조.",
+      "depth": 0.85,
+      "pub_date": "2026-06-04T03:00:00-04:00",
+      "image": "https://cdn.fs.thecreativeindependent.com/zQVNN3cCRTy3hKmMI7qZ",
+      "title_en": "",
+      "title": "Musician Andy ‘Red’ PK on not being afraid of hard work",
+      "content": "Andy 'Red' PK discusses his journey in music, highlighting the importance of collaboration and hard work."
+    },
+    {
+      "title_ko": "Anatol Gottfried",
+      "summary": "Anatol Gottfried specialises in advertising and lifestyle photography built for impact.",
+      "url": "https://www.productionparadise.comshowcase/germany-issue-1022-2306/anatol-gottfried-63640.html",
       "source": "productionparadise.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Nicholas Duers",
-      "creator_insight": "포착된 순간을 통해 단순성과 복잡성의 균형을 경험하게 합니다.",
-      "tags": [
-        "스틸 라이프",
-        "포토그래피"
-      ],
-      "execution_techniques": [
-        "#조명예술"
-      ],
-      "why": "눈에 띄는 구성과 빛의 사용이 그의 작품에 강한 인상을 남깁니다.",
-      "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/42752/newsletter/nicholasduers-ppspotlight-002.jpg",
-      "pub_date": "2026-06-06T08:00:00.000000"
-    },
-    {
-      "title": "M — N Associates가 변신시킨 로코 아트 마켓",
-      "content": "베트남의 창의적 에이전시 M — N Associates는 시각적 언어에서 영감을 받아 호치민시 이벤트를 '작업 공장'으로 변모시켰습니다.",
-      "url": "https://www.creativereview.co.uk/loco-art-market-branding-m-n-associates-vietnam/",
-      "source": "creativereview.co.uk",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "M — N Associates",
-      "creator_insight": "물류와 포장의 시각적 언어를 통해 독특한 브랜드 경험을 창출합니다.",
-      "tags": [
-        "브랜딩",
-        "베트남"
-      ],
-      "execution_techniques": [
-        "#브랜드아이덴티티"
-      ],
-      "why": "독창적인 브랜딩 접근이 기존 경험을 혁신적으로 재현합니다.",
-      "depth": 0.95,
-      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/MN_LOCO_Thumbnail.jpg",
-      "pub_date": "2026-06-06T08:00:00.000000"
-    },
-    {
-      "title": "기억의 조각을 담은 거리 예술",
-      "content": "카스안틱의 역사를 다양한 방법으로 기념하는 'Carrers amb Memòria' 프로젝트는 지역 상인 협회와 협력하여 1,000년의 역사를 간직한 거리의 기억을 도시 예술로 재조명합니다.",
-      "url": "https://www.streetartbcn.com/carrers-amb-memoria/",
-      "source": "Street Art Barcelona",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "지역 상인 협회",
-      "creator_insight": "역사적 기억을 예술과 결합하여 지역 사회의 정체성을 강화합니다.",
-      "tags": [
-        "거리예술",
-        "기억"
-      ],
-      "execution_techniques": [
-        "#도시재생"
-      ],
-      "why": "역사와 예술이 만나 새로운 시각적 서사를 창출합니다.",
-      "depth": 0.95,
-      "image": "https://www.streetartbcn.com/wp-content/uploads/2026/05/SnapInsta.to_684841826_18582337657043665_2564207003654451017_n-768x1024.jpg",
-      "pub_date": "2026-06-06T08:00:00.000000"
-    },
-    {
-      "title": "Umut Azad Akkel의 '기능성 거부'",
-      "content": "Haus am Lützowplatz에서 열린 Akkel의 전시회는 놀이를 통해 사회적·문화적 규약을 실험하고 해방합니다.",
-      "url": "https://www.berlinartlink.com/2026/07/21/umut-azad-akkel-haus-am-lutzowplatz-exhibition-review/",
-      "source": "Berlin Art Link",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Umut Azad Akkel",
-      "creator_insight": "장난을 통한 실험적 접근으로 새로운 해석을 제시합니다.",
-      "tags": [
-        "전시",
-        "사회실험"
-      ],
-      "execution_techniques": [
-        "#비기능적아트"
-      ],
-      "why": "새로운 접근 방식이 관람객의 시각적 경험에 신선한 영감을 줍니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-06-06T08:00:00.000000"
-    },
-    {
-      "title": "매혹적인 일본 수채화",
-      "content": "세르비아 화가 Endre Penovác의 손에서 물은 자연스럽게 이야기하며 종이에 공간을 차지합니다. 화가는 눈, 색상 등을 첨가하여 질감을 만들고 독특한 매력을 발산합니다.",
-      "url": "https://www.fubiz.net/2023/01/10/beautiful-japanese-watercolours__trashed/",
-      "source": "Fubiz",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Endre Penovác",
-      "creator_insight": "액체의 자연스러운 흐름과 화가의 섬세한 손길이 어우러져 특별한 시각적 텍스처를 완성합니다.",
-      "tags": [
-        "수채화",
-        "동물"
-      ],
-      "execution_techniques": [
-        "#수채화"
-      ],
-      "why": "자연의 흐름과 창의적 터치가 어우러져 감동적인 작품을 만들어냅니다.",
-      "depth": 0.95,
-      "image": "https://www.fubiz.net/wp-content/uploads/2026/05/ZeitSchichten_W-Jo-Brunner-und-Gudrun-Petzold_Keramische-Skulptur.jpg",
-      "pub_date": "2026-06-06T08:00:00.000000"
-    },
-    {
-      "title": "Joe Tanis 작품: 시계와 보석 광고",
-      "content": "Joe Tanis는 Christie's Auction House와 Movado의 광고 캠페인을 촬영하며 바쁜 봄을 보냈습니다.",
-      "url": "https://www.productionparadise.com/spotlight/watches-and-jewellery-photography-and-motion-2316/joe-tanis-64525.html",
-      "source": "productionparadise.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Joe Tanis",
-      "creator_insight": "광고 촬영을 통해 제품의 매력을 효과적으로 전달합니다.",
+      "domain": "ADVERTISING",
+      "category": "프로필",
+      "creator_name": "Paul Rand",
+      "creator_insight": "디자인은 단순한 것이 아니라, 단순해 보이는 것에 관한 것이다.",
       "tags": [
         "광고",
-        "시계"
+        "사진"
       ],
-      "execution_techniques": [
-        "#제품촬영"
-      ],
-      "why": "제품의 본질을 잘 포착한 광고 촬영으로 눈길을 사로잡습니다.",
-      "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/94065/newsletter/photo-jul-13-2026-5-21-16-pm-cover-joe-tanis-watches-and-jewellery-photography-and-motion.jpg",
-      "pub_date": "2026-06-06T08:00:00.000000"
+      "why": "광고 사진의 창의성과 상업적 효과를 동시에 추구하는 작가의 프로필.",
+      "social_proof": "글로벌 캠페인에서의 성공적인 사례.",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2306/photos/84274/newsletter/ag-pp-may2026-001.jpg",
+      "pub_date": "Thu, 11 Jun 2026 17:10:26",
+      "title_en": "",
+      "title": "Anatol Gottfried",
+      "content": "Anatol Gottfried specialises in advertising and lifestyle photography built for impact."
     },
     {
-      "title": "세계적인 건축가와의 여정",
-      "content": "세계적 건축가들이 만든 특유의 건축물은 현대 도시에서 혁신과 창의성을 실현하며 시간의 레이어를 드러냅니다.",
-      "url": "https://artaurea.com/2026/zeitschichten/",
-      "source": "Art Aurea",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Gudrun Petzold 외",
-      "creator_insight": "조각들이 자연을 관찰하며 유기적 변화의 여정을 보여줍니다.",
+      "title_ko": "Robert Larsen",
+      "summary": "Fashion and beauty photographer Robert Larsen blends commercial precision with cinematic storytelling.",
+      "url": "https://www.productionparadise.comshowcase/germany-issue-1022-2306/robert-larsen-64053.html",
+      "source": "productionparadise.com",
+      "domain": "ADVERTISING",
+      "category": "프로필",
+      "creator_name": "Paul Rand",
+      "creator_insight": "디자인은 단순히 보기 좋은 것이 아니라, 이해할 수 있는 것이다.",
+      "tags": [
+        "패션",
+        "사진"
+      ],
+      "why": "패션과 뷰티 사진에서 상업적 정밀성과 영화적 스토리텔링을 결합한 작가의 프로필.",
+      "social_proof": "국제적인 촬영 경험과 성과.",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2306/photos/94330/newsletter/00-main-robert-larsen-studio-2mestiza-uae-graphitestudio-14-robert-larsen-advertising-photographers.jpg",
+      "pub_date": "Thu, 11 Jun 2026 17:00:26",
+      "title_en": "",
+      "title": "Robert Larsen",
+      "content": "Fashion and beauty photographer Robert Larsen blends commercial precision with cinematic storytelling."
+    },
+    {
+      "title_ko": "Stefan Hobmaier",
+      "summary": "Stefan Hobmaier is a filmmaker and photographer specialising in corporate and industrial storytelling.",
+      "url": "https://www.productionparadise.comshowcase/germany-issue-1022-2306/stefan-hobmaier-64342.html",
+      "source": "productionparadise.com",
+      "domain": "FILM",
+      "category": "프로필",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 정보를 전달하는 것이 아니라 감정을 전달하는 것이다.",
+      "tags": [
+        "산업",
+        "사진"
+      ],
+      "why": "산업과 기업 스토리텔링을 전문으로 하는 영화 제작자와 사진작가의 프로필.",
+      "social_proof": "20년 이상의 경력과 클라이언트와의 협업.",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2306/photos/58563/newsletter/hobmaier-neuplaner-02.jpg",
+      "pub_date": "Thu, 11 Jun 2026 16:40:26",
+      "title_en": "",
+      "title": "Stefan Hobmaier",
+      "content": "Stefan Hobmaier is a filmmaker and photographer specialising in corporate and industrial storytelling."
+    },
+    {
+      "title_ko": "Ilka Teige-Zuzak",
+      "summary": "Ilka Teige Zuzak is a creative professional specialising in interior and still life, fashion stills, props and set design.",
+      "url": "https://www.productionparadise.comshowcase/germany-issue-1022-2306/ilka-teige-zuzak-64462.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "프로필",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 수백만의 사람들에게 영향을 미치는 가장 공공적인 예술입니다. 건축가는 사회에 대한 책임을 지고 있습니다.",
+      "tags": [
+        "인테리어",
+        "디자인"
+      ],
+      "why": "인테리어와 정물, 패션 스틸에 특화된 크리에이티브 전문가의 프로필.",
+      "social_proof": "현대적이고 생동감 있는 시각 언어.",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2306/photos/76594/newsletter/set-design-prop-styling-ilka-teige-zuzak-pp-5.jpg",
+      "pub_date": "Thu, 11 Jun 2026 16:20:26",
+      "title_en": "",
+      "title": "Ilka Teige-Zuzak",
+      "content": "Ilka Teige Zuzak is a creative professional specialising in interior and still life, fashion stills, props and set design."
+    },
+    {
+      "title_ko": "Ela Rüther",
+      "summary": "Ela Rüther is a food photographer based in Cologne, working for magazines, publishers, and advertising clients.",
+      "url": "https://www.productionparadise.comshowcase/germany-issue-1022-2306/ela-rther-64519.html",
+      "source": "productionparadise.com",
+      "domain": "OBJECT",
+      "category": "프로필",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "\"좋은 디자인은 가능한 한 적게 디자인하는 것이다.\"",
+      "tags": [
+        "음식",
+        "사진"
+      ],
+      "why": "음식과 환대 산업에서 활동하는 사진작가의 프로필.",
+      "social_proof": "정확하고 진정성 있는 이미지 제작.",
+      "depth": 0.85,
+      "image": "https://www.productionparadise.com/newsletters/2306/photos/93921/newsletter/nlai-elaruether-elanada-1.jpg",
+      "pub_date": "Thu, 11 Jun 2026 16:00:26",
+      "title_en": "",
+      "title": "Ela Rüther",
+      "content": "Ela Rüther is a food photographer based in Cologne, working for magazines, publishers, and advertising clients."
+    },
+    {
+      "title_ko": "Hagius: Architecture as a Medium for Wellbeing",
+      "summary": "Berlin’s vibrant Torstraße in Mitte isn’t exactly a street you’d associate with the words “calm” or “retreat”.",
+      "url": "https://www.ignant.com/2026/01/28/hagius-architecture-as-a-medium-for-wellbeing/",
+      "source": "ignant.com",
+      "domain": "ARCHITECTURE",
+      "category": "프로젝트",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 항상 실험적이고 개척적인 사고로 세상을 변화시키는 도구가 될 수 있습니다.",
       "tags": [
         "건축",
-        "현대미술"
+        "웰빙"
       ],
-      "execution_techniques": [
-        "#건축조각"
-      ],
-      "why": "자연과 인위적 요소가 조화를 이루는 설계로 감상자를 유혹합니다.",
-      "depth": 0.95,
-      "image": "https://artaurea.com/wp-content/uploads/2026/05/ZeitSchichten_W-Jo-Brunner-und-Gudrun-Petzold_Keramische-Skulptur.jpg",
-      "pub_date": "2026-06-06T08:00:00.000000"
+      "why": "건축이 웰빙을 위한 매개체로 작용하는 사례를 보여주는 프로젝트.",
+      "social_proof": "도심 속 평온한 공간 창출.",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/01/ignant-hagius-clemens-poloczek-1-2-1-720x479.jpg",
+      "pub_date": "Wed, 28 Jan 2026 19:33:39 +0000",
+      "title_en": "",
+      "title": "Hagius: Architecture as a Medium for Wellbeing",
+      "content": "Berlin’s vibrant Torstraße in Mitte isn’t exactly a street you’d associate with the words “calm” or “retreat”."
     },
     {
-      "title": "드림 팩토리 맥스몰락",
-      "content": "이 전시는 풍부한 미적 통찰을 제공하며 꿈꿔왔던 프로젝트를 현실로 만드는 과정을 탐구합니다.",
-      "url": "https://strba.ch/2025/10/29/lucid-dreams/",
-      "source": "strba.ch",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Annelies Štrba",
-      "creator_insight": "꿈같은 초현실 작품들을 통해 현실과 이상의 경계를 블렌딩합니다.",
+      "title_ko": "Art Rotterdam 2026 | Art Fair",
+      "summary": "Open Doors Gallery is pleased to announce its participation in Art Rotterdam 2026, presenting a solo booth of new unique work from Berlin based artist duo Wysocka / Pogo.",
+      "url": "https://opendoors.gallery/art-rotterdam-2026",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "전시회",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "나는 360도에서 세상을 본다. 건축은 그저 건물만이 아니라 삶과 문화를 형성하는 것이다.",
       "tags": [
-        "초현실주의",
-        "사진전시"
+        "아트 페어",
+        "현대 미술"
       ],
-      "execution_techniques": [
-        "#초현실주의"
-      ],
-      "why": "꿈과 현실의 흐릿한 경계 속에서 감상자의 상상을 자극합니다.",
-      "depth": 0.95,
-      "image": "https://strba.ch/wp-content/uploads/2025/10/lucid_dreams_01-3030x2161.jpeg",
-      "pub_date": "2026-06-06T08:00:00.000000"
+      "why": "실험적이고 직관적인 이미지 제작을 선보이는 아티스트 듀오의 전시.",
+      "social_proof": "독특한 작품으로 주목받는 전시.",
+      "depth": 0.85,
+      "pub_date": "Wed, 18 Feb 2026 12:51:51 +0000",
+      "image": "https://opendoors.gallery/wp-content/uploads/2026/02/Art-Rotterdam-2026-Wysocka-Pogo.jpg",
+      "title_en": "",
+      "title": "Art Rotterdam 2026 | Art Fair",
+      "content": "Open Doors Gallery is pleased to announce its participation in Art Rotterdam 2026, presenting a solo booth of new unique work from Berlin based artist duo Wysocka / Pogo."
     }
   ],
   "items": [],
@@ -252,49 +285,26 @@
   ],
   "popcorn": [
     {
-      "title": "유튜브 진동선사진TV",
-      "content": "6년 만에 블로그로 돌아와 예전의 사진이론을 공개하며 더욱 활발한 소통을 계획합니다.",
-      "url": "https://blog.naver.com/sabids/223740977102?fromRss=true&trackingCode=rss",
-      "source": "Unknown Source",
+      "title_ko": "Daisy Chain, Jazz Grant, Lily Kong and Alfie Whiteman: Tickets now available for July’s Nicer Tuesdays!",
+      "summary": "At July’s event in London, expect talks from a motion design studio, an illustrator of beautiful rural scenes and an ex-Tottenham goalie-turned-photographer!",
+      "url": "https://www.itsnicethat.com/articles/nicer-tuesdays-july-2026-launch-100626",
+      "source": "It's Nice That",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "유튜브"
+        "이벤트",
+        "런던"
       ],
-      "why": "소셜 미디어를 통한 개인적 이야기와 사진이론의 결합으로 많은 관심을 끌고 있습니다.",
+      "why": "Nicer Tuesdays 이벤트는 다양한 창작 분야의 전문가들이 모여 그들의 작업과 경험을 공유하는 플랫폼을 제공합니다. 이 행사는 모션 디자인, 일러스트레이션, 사진 등 다양한 분야의 창작자들이 독특한 시각적 스토리텔링을 통해 청중과 소통할 수 있는 기회를 제공합니다.",
       "depth": 0.5,
-      "image": "https://blogthumb.pstatic.net/MjAyNTAxMjhfMTM3/MDAxNzM4MDU1MTA4ODAw.Q_L5-ZRg7DjPNoTbrqL060h1nj4Ew0MNeeofjpcEnEMg.AZv4ki3t4DYvtIZ2yTpinVWm4TXQTZJJj3mWfOibesMg.PNG/1.png?type=s3",
-      "pub_date": "2026-06-06T08:00:00.000000"
-    },
-    {
-      "title": "정리된 공간이 만드는 여유로운 일상",
-      "content": "정리된 공간은 일상을 풍요롭고 여유롭게 만듭니다.",
-      "url": "https://www.designtwoply.com/works/%ec%a0%95%eb%a6%ac%eb%90%9c-%ea%b3%b5%ea%b0%84%ec%9d%80-%ec%97%ac%ec%9c%a0%eb%a1%9c%ec%9a%b4-%ec%9d%bc%ec%83%81%ec%9d%84-%eb%a7%8c%eb%93%ad%eb%8b%88%eb%8b%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%2595%25eb%25a6%25ac%25 eb%2590%259c-%25ea%25b3%25 b5% ea%25b0%2584% ec%259d%2580-%25 ec%2597%25ac% ec%259c%25a0%25 eb%25a1%259c%25 ec%259a%25b4-%25 ec%259d%25bc%25 ec%2583%2581%25 ec%259d%2584-%25 eb%25a7%258c%25 eb%2593%259d%25 eb%258b%2588%25 eb%258b%25a4",
-      "source": "Unknown Source",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "정리"
-      ],
-      "why": "정돈된 공간이 가져다주는 긍정적 변화를 소개하며 실생활 노하우를 제공합니다.",
-      "depth": 0.5,
-      "image": "https://www.designtwoply.com/wp-content/uploads/2026/07/03-rotated.jpg",
-      "pub_date": "2026-06-06T08:00:00.000000"
-    },
-    {
-      "title": "인기 만화 '스펙트럼폰'의 귀환",
-      "content": "친구와의 우정을 다룬 만화 '스펙트럼폰'이 새로운 에피소드로 돌아옵니다.",
-      "url": "https://humtto.vn/giay-chay-bo-the-thao-sieu-nhe-nam-humtto-x-easy-run-370374a/",
-      "source": "Unknown Source",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "만화"
-      ],
-      "why": "오랜 팬들 사이에서 큰 기대를 받고 있으며, 새로운 세대에게도 인기를 얻고 있습니다.",
-      "depth": 0.5,
-      "image": "https://humtto.vn/wp-content/uploads/2026/05/giay-humtto-370374-2.png",
-      "pub_date": "2026-06-06T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "pub_date": "Wed, 10 Jun 2026 14:00:00 GMT",
+      "image": "https://admin.itsnicethat.com/images/safqVIhx4CuLNhWMepkzJYsuTYI=/277581/width-1440%7Cformat-jpeg/NT_LDN_2026_Meta.png",
+      "title_en": "",
+      "title": "Daisy Chain, Jazz Grant, Lily Kong and Alfie Whiteman: Tickets now available for July’s Nicer Tuesdays!",
+      "content": "At July’s event in London, expect talks from a motion design studio, an illustrator of beautiful rural scenes and an ex-Tottenham goalie-turned-photographer!"
     }
   ],
   "macro_keywords": [

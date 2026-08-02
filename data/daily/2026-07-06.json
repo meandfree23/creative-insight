@@ -9,285 +9,388 @@
   },
   "topPicks": [
     {
-      "title": "The Weekend With Zara McIntosh",
-      "content": "팝 문화의 전문가이자 물리적 미디어의 여왕인 Zara McIntosh가 자신의 이상적인 주말과 런던 최고의 장소에 대해 소개합니다.",
-      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
-      "source": "It's Nice That",
+      "title_ko": "Nike Air Max 90 프리미엄, 스텔스 무드의 ‘Black Croc’ 올블랙 리메이크",
+      "summary": "Nike Air Max 90의 새로운 올블랙 디자인은 '스텔스 무드'라는 컨셉 아래 고급스러운 크로크 패턴을 도입했습니다.",
+      "url": "https://hypebeast.kr/2026/7/nike-air-max-90-black-croc-leather-iv6309-010-release-info",
+      "source": "Hypebeast",
+      "domain": "OBJECT",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "패션",
+        "디자인",
+        "럭셔리"
+      ],
+      "execution_techniques": [
+        "크로크 패턴"
+      ],
+      "why": "현대인들은 개성과 스타일을 표현하는 수단으로 패션을 활용하며, 특히 고급스러움과 독특함을 동시에 추구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fnike-air-max-90-black-croc-leather-IV6309-010-release-info-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-06T04:13:00+00:00",
+      "title_en": "",
+      "title": "Nike Air Max 90 프리미엄, 스텔스 무드의 ‘Black Croc’ 올블랙 리메이크",
+      "content": "Nike Air Max 90의 새로운 올블랙 디자인은 '스텔스 무드'라는 컨셉 아래 고급스러운 크로크 패턴을 도입했습니다."
+    },
+    {
+      "title_ko": "천원돌파 그렌라간 전설의 제작진, 완전 신작 오리지널 애니로 돌아온다",
+      "summary": "전설적인 애니메이션 '천원돌파 그렌라간'의 제작진이 새로운 오리지널 애니메이션 프로젝트로 돌아옵니다.",
+      "url": "https://hypebeast.kr/2026/7/studio-trigger-hiroyuki-imaishi-kazuki-nakashima-4th-anime-project-announcement-news-info",
+      "source": "Hypebeast",
+      "domain": "FILM",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "애니메이션",
+        "창의성",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "오리지널 스토리"
+      ],
+      "why": "애니메이션 팬들은 새로운 창작물을 통해 과거의 감성을 다시 느끼고, 창의적인 스토리텔링을 통해 새로운 경험을 추구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fkr.hypebeast.com&#x25;2Ffiles&#x25;2F2026&#x25;2F07&#x25;2Fstudio-trigger-hiroyuki-imaishi-kazuki-nakashima-4th-anime-project-announcement-news-tw.jpg&#x3F;w&#x3D;1080&amp;cbr&#x3D;1&amp;q&#x3D;90&amp;fit&#x3D;max",
+      "pub_date": "2026-07-06T03:30:40+00:00",
+      "title_en": "",
+      "title": "천원돌파 그렌라간 전설의 제작진, 완전 신작 오리지널 애니로 돌아온다",
+      "content": "전설적인 애니메이션 '천원돌파 그렌라간'의 제작진이 새로운 오리지널 애니메이션 프로젝트로 돌아옵니다."
+    },
+    {
+      "title_ko": "초저예산 기적의 호러 「Obsession」, 전 세계 흥행 수익 4억 달러 돌파 ‘역사적 대기록’",
+      "summary": "초저예산으로 제작된 호러 영화 'Obsession'이 전 세계에서 4억 달러의 흥행 수익을 기록하며 대성공을 거두었습니다.",
+      "url": "https://hypebeast.kr/2026/7/focus-features-thriller-obsession-crosses-historic-400-million-usd-mark-global-box-office",
+      "source": "Hypebeast",
+      "domain": "FILM",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "영화",
+        "호러",
+        "저예산"
+      ],
+      "execution_techniques": [
+        "저예산 제작"
+      ],
+      "why": "현대인들은 저예산으로도 창의적인 아이디어를 통해 큰 성공을 거둘 수 있다는 가능성을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Ffocus-features-thriller-obsession-crosses-historic-400-million-usd-mark-global-box-office-000.jpg?cbr=1&fit=max",
+      "pub_date": "2026-07-06T03:20:46+00:00",
+      "title_en": "",
+      "title": "초저예산 기적의 호러 「Obsession」, 전 세계 흥행 수익 4억 달러 돌파 ‘역사적 대기록’",
+      "content": "초저예산으로 제작된 호러 영화 'Obsession'이 전 세계에서 4억 달러의 흥행 수익을 기록하며 대성공을 거두었습니다."
+    },
+    {
+      "title_ko": "KFC, 새로운 캠페인에서 부드러움을 강조하다",
+      "summary": "KFC는 YouTube 스타 Frank Watkinson의 재능을 활용하여 부드러움을 강조하는 새로운 광고 캠페인을 선보였습니다.",
+      "url": "https://www.creativereview.co.uk/kfc-surrender-to-tender-campaign-mother/",
+      "source": "Creative Review",
+      "domain": "ADVERTISING",
+      "category": "캠페인",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        "광고",
+        "캠페인",
+        "부드러움"
+      ],
+      "execution_techniques": [
+        "유명인 활용"
+      ],
+      "why": "현대인들은 광고에서 감성적 연결과 휴식을 찾고 있으며, 이는 일상에서의 스트레스를 해소하는 데 도움이 됩니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/STILL-2.jpg",
+      "pub_date": "2026-07-06T02:52:58+00:00",
+      "title_en": "",
+      "title": "KFC, 새로운 캠페인에서 부드러움을 강조하다",
+      "content": "KFC는 YouTube 스타 Frank Watkinson의 재능을 활용하여 부드러움을 강조하는 새로운 광고 캠페인을 선보였습니다."
+    },
+    {
+      "title_ko": "Van Gogh와 아를르 여인, 페루지아에서 이야기하다",
+      "summary": "Van Gogh의 작품 '아를르 여인'이 이탈리아 페루지아에서 전시됩니다.",
+      "url": "http://www.arte.it/notizie/perugia/van-gogh-e-il-ritratto-l-arlesiana-si-racconta-a-perugia-22896",
+      "source": "Arte",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Zara McIntosh는 창의적인 주말을 통해 독자들에게 영감을 줍니다.",
+      "category": "전시",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "pop culture",
-        "weekend"
+        "예술",
+        "전시",
+        "클래식"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "전시회"
       ],
-      "why": "런던의 숨겨진 보물들을 재발견할 수 있는 기회입니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
-      "pub_date": "2026-07-06T08:00:00.000000"
+      "why": "예술 애호가들은 고전 작품을 통해 과거의 감성을 느끼고, 현대적 해석을 통해 새로운 영감을 얻고자 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.arte.it/foto/600x450/f0/106253-L_Arlesiana.jpg",
+      "pub_date": "2026-07-01T22:50:00+02:00",
+      "title_en": "",
+      "title": "Van Gogh와 아를르 여인, 페루지아에서 이야기하다",
+      "content": "Van Gogh의 작품 '아를르 여인'이 이탈리아 페루지아에서 전시됩니다."
     },
     {
-      "title": "꿈을 담은 프랑스 시계 -akteo(악테오)",
-      "content": "Akteo 시계는 시간이 흐르는 중에서도 꿈과 열정을 표현하며, Jean Christophe Mareshal의 재치있는 디자인이 돋보입니다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Akteo 시계는 단순한 시계가 아닌 꿈을 상징하는 작품입니다.",
+      "title_ko": "Kikkoman: 전설을 해방하라 | Hornet",
+      "summary": "Kikkoman의 새로운 광고 캠페인은 전설적인 요소를 강조하며 소비자들에게 강렬한 인상을 남깁니다.",
+      "url": "https://motionographer.com/quickie/kikkoman-unleash-legendary-hornet/",
+      "source": "Motionographer",
+      "domain": "ADVERTISING",
+      "category": "캠페인",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "watches",
-        "design"
+        "광고",
+        "전설",
+        "브랜드"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "강렬한 비주얼"
       ],
-      "why": "꿈을 향한 열정과 예술성을 담고 있는 시계입니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
-      "pub_date": "2026-07-06T08:00:00.000000"
+      "why": "브랜드는 소비자들에게 강력한 메시지를 전달하기 위해 전설적인 요소를 활용하여 브랜드의 가치를 높이고자 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Clubcamping_Kikkoman_DougDip_16x9_Hornet_Master_20.png",
+      "pub_date": "2026-07-01T13:06:44+00:00",
+      "title_en": "",
+      "title": "Kikkoman: 전설을 해방하라 | Hornet",
+      "content": "Kikkoman의 새로운 광고 캠페인은 전설적인 요소를 강조하며 소비자들에게 강렬한 인상을 남깁니다."
     },
     {
-      "title": "Spa Eclectics at Karlovy Vary",
-      "content": "Karlovy Vary 국제 영화제는 1946년에 시작되어 다양한 역사적 맥락 속에서 생존해 왔고, 현재는 높은 국제적 영향력을 가진 영화제로 인정받고 있습니다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "Karlovy Vary 영화제는 예술적 중요성과 역사적 가치가 있는 중요한 문화 행사입니다.",
-      "tags": [
-        "film festival",
-        "history"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "영화제의 역사적 배경과 문화적 가치를 깊이 있게 돌아볼 수 있는 기회입니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
-      "pub_date": "2026-07-06T08:00:00.000000"
-    },
-    {
-      "title": "Gillette - 100 Years of Hair",
-      "content": "Gillette의 긴 역사 속에서 다양한 시대적 변화와 스타일을 노래로 표현하여 흥미로운 영상미를 제공합니다.",
-      "url": "https://honestart.tistory.com/96",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "다양한 시대적 변화와 스타일을 함께 볼 수 있는 재미있는 구성입니다.",
-      "tags": [
-        "Gillette",
-        "advertisement"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "시대를 반영하는 스타일 변화를 통해 브랜드의 역사를 살펴볼 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
-      "pub_date": "2026-07-06T08:00:00.000000"
-    },
-    {
-      "title": "Free Range 2026 [Top 10]",
-      "content": "Free Range은 영국 전역에서 온 주요 졸업작품을 한곳에 모아 신진 창작 인재를 발굴하는 행사로 성장했습니다.",
-      "url": "https://opendoors.gallery/top-ten",
-      "source": "opendoors.gallery",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "새로운 창작 인재의 발굴과 성장을 돕는 중요한 플랫폼입니다.",
-      "tags": [
-        "photography",
-        "art fair"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "신진 작가들의 작품을 통해 예술의 미래를 조망할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-06T08:00:00.000000"
-    },
-    {
-      "title": "Benny Cuppini",
-      "content": "Benny Cuppini는 뉴욕과 코네티컷을 기반으로 한 정물 사진작가로, 광고 및 편집용 이미지에서 독창적이고 세련된 스타일을 제공합니다.",
-      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/benny-cuppini-63824.html",
-      "source": "productionparadise.com",
+      "title_ko": "The Story of The Northern Block’s Next Series",
+      "summary": "The Northern Block의 새로운 폰트 시리즈는 2012년부터 2017년까지의 발전을 보여줍니다.",
+      "url": "https://www.slanted.de/the-story-of-the-northern-blocks-next-series/",
+      "source": "Slanted",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "정확한 조명과 세심한 환경 구성을 통해 작품의 매력을 극대화했습니다.",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "photography",
-        "jewellery"
+        "디자인",
+        "폰트",
+        "발전"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "폰트 디자인"
       ],
-      "why": "광고 효과와 편집적 매력을 모두 갖춘 독창적인 시각적 내러티브를 경험할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://www.productionparadise.com/newsletters/2316/photos/95221/newsletter/benny-cuppini5.jpg",
-      "pub_date": "2026-07-06T08:00:00.000000"
+      "why": "디자인 업계에서는 폰트의 발전을 통해 시각적 커뮤니케이션의 중요성을 강조하며, 이는 브랜드 아이덴티티에 큰 영향을 미칩니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.slanted.de/wp-content/uploads/2026/05/2026-05-11_6a01e052e98b2_TNB_NextSeries_Slanted_1.jpg",
+      "pub_date": "2026-07-01T09:00:14+00:00",
+      "title_en": "",
+      "title": "The Story of The Northern Block’s Next Series",
+      "content": "The Northern Block의 새로운 폰트 시리즈는 2012년부터 2017년까지의 발전을 보여줍니다."
     },
     {
-      "title": "Free Range 2026 [Top 10]",
-      "content": "Free Range은 영국 전역에서 온 주요 졸업작품을 한곳에 모아 신진 창작 인재를 발굴하는 행사로 성장했습니다.",
-      "url": "https://opendoors.gallery/top-ten",
-      "source": "opendoors.gallery",
+      "title_ko": "Inner Worlds: Khushnu Panthaki Hoof",
+      "summary": "Khushnu Panthaki Hoof의 작품은 내면의 세계를 탐구하며, 아트 바젤에서 전시됩니다.",
+      "url": "https://www.nowness.com/series/inner-worlds/khushnu-panthaki-hoof-art-basel",
+      "source": "Nowness",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "새로운 창작 인재의 발굴과 성장을 돕는 중요한 플랫폼입니다.",
+      "category": "인터뷰",
+      "creator_name": "Khushnu Panthaki Hoof",
+      "creator_insight": "",
       "tags": [
-        "photography",
-        "art fair"
+        "예술",
+        "내면",
+        "탐구"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "내면 탐구"
       ],
-      "why": "신진 작가들의 작품을 통해 예술의 미래를 조망할 수 있습니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-06T08:00:00.000000"
+      "why": "현대인들은 예술을 통해 자신의 내면을 탐구하고, 이를 통해 자기 이해와 성장을 추구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://img.nowness.com/nowness-frontend/J1sB23gSemeywPG43ysb_AB%20KHUSHNU%20HOOF%20STILL%209.jpg",
+      "pub_date": "2026-07-01T09:00:00+00:00",
+      "title_en": "",
+      "title": "Inner Worlds: Khushnu Panthaki Hoof",
+      "content": "Khushnu Panthaki Hoof의 작품은 내면의 세계를 탐구하며, 아트 바젤에서 전시됩니다."
     },
     {
-      "title": "ChaChaanTeng’s saucy auto-mayo-mat activation for Heinz",
-      "content": "ChaChaanTeng은 Heinz Mayo와의 프로젝트를 통해 음식의 로맨틱한 감각과 일본 자판기의 물리적 특성을 탐구합니다.",
-      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
-      "source": "It's Nice That",
+      "title_ko": "How Kaitlin Brito protects her 'pure making' so the paid work gets better",
+      "summary": "뉴저지의 일러스트레이터 Kaitlin Brito는 순수한 창작을 보호하여 유료 작업의 질을 높입니다.",
+      "url": "https://www.creativeboom.com/inspiration/how-kaitlin-brito-protects-her-pure-making-so-the-paid-work-gets-better/",
+      "source": "Creative Boom",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "음식에 대한 새로운 감각적 접근 방식입니다.",
+      "category": "인터뷰",
+      "creator_name": "Kaitlin Brito",
+      "creator_insight": "",
       "tags": [
-        "Heinz",
-        "design"
+        "창작",
+        "순수성",
+        "일러스트"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "순수 창작"
       ],
-      "why": "음식을 예술적으로 탐구하는 흥미로운 시도입니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
-      "pub_date": "2026-07-06T08:00:00.000000"
+      "why": "창작자들은 순수한 창작을 통해 자신의 예술적 정체성을 유지하며, 이를 통해 상업적 작업의 질을 높이고자 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.creativeboom.com/upload/articles/07/0719ae04782bfff9e28d52f04e724a533fe1e9ca_840.jpg",
+      "pub_date": "2026-07-01T07:04:00+01:00",
+      "title_en": "",
+      "title": "How Kaitlin Brito protects her 'pure making' so the paid work gets better",
+      "content": "뉴저지의 일러스트레이터 Kaitlin Brito는 순수한 창작을 보호하여 유료 작업의 질을 높입니다."
     },
     {
-      "title": "The story behind Present & Correct",
-      "content": "의 인기 있는 인쇄 유품 및 문구 브랜드가 첫 번째 출판물 출시와 함께 출판 세계로 진출하게 되는 배경을 설명합니다.",
-      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
-      "source": "It's Nice That",
+      "title_ko": "Scan More than 60 Million Stars in the Most Detailed Photo of the Milky Way Ever Taken",
+      "summary": "유럽 우주국이 촬영한 은하수의 가장 상세한 사진은 6천만 개 이상의 별을 담고 있습니다.",
+      "url": "https://www.thisiscolossal.com/2026/06/european-space-agency-milky-way-photograph/",
+      "source": "This is Colossal",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "디자인과 출판이 만나는 흥미로운 지점입니다.",
+      "category": "뉴스",
+      "creator_name": "",
+      "creator_insight": "",
       "tags": [
-        "design",
-        "publishing"
+        "우주",
+        "사진",
+        "과학"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "천체 사진"
       ],
-      "why": "출판물 출시에 대한 창의적인 접근 방식을 엿볼 수 있는 기회입니다.",
-      "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
-      "pub_date": "2026-07-06T08:00:00.000000"
+      "why": "현대인들은 우주의 경이로움을 통해 자신의 존재를 되돌아보고, 과학적 발견을 통해 새로운 인사이트를 얻고자 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/euclid-5.jpg",
+      "pub_date": "2026-06-30T16:00:00+00:00",
+      "title_en": "",
+      "title": "Scan More than 60 Million Stars in the Most Detailed Photo of the Milky Way Ever Taken",
+      "content": "유럽 우주국이 촬영한 은하수의 가장 상세한 사진은 6천만 개 이상의 별을 담고 있습니다."
     },
     {
-      "title": "초호화 스타선수의 생활  -플로이드 메이웨더 Floyd Mayweather Jr.",
-      "content": "플로이드 메이웨더의 화려한 생활과 최근 활동을 조명하며, 그의 성공 داستان과 스타일을 보여줍니다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title_ko": "Painter Holly Keogh explores how opulence can conceal reality",
+      "summary": "Holly Keogh는 화려함이 어떻게 현실을 감출 수 있는지를 탐구합니다.",
+      "url": "https://wepresent.wetransfer.com/stories/holly-keogh-painting",
+      "source": "WePresent",
       "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "스타 스포츠 선수가 일상에서 어떻게 세련된 생활을 하는지 보여줍니다.",
+      "category": "인터뷰",
+      "creator_name": "Holly Keogh",
+      "creator_insight": "",
       "tags": [
-        "boxing",
-        "lifestyle"
+        "예술",
+        "화려함",
+        "현실"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "회화"
       ],
-      "why": "스포츠 스타의 영향력과 생활을 엿볼 수 있는 기회입니다.",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-07-06T08:00:00.000000"
+      "why": "현대인들은 화려한 외관 뒤에 숨겨진 진실을 탐구하며, 이를 통해 사회적 메시지를 전달하고자 합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/3oL1N68ZWjTGIXHErmw8bC/3d50195de802a5f4b034d35f69ca7996/unnamed__1__copy.jpg",
+      "pub_date": "2026-06-30T13:22:24+00:00",
+      "title_en": "",
+      "title": "Painter Holly Keogh explores how opulence can conceal reality",
+      "content": "Holly Keogh는 화려함이 어떻게 현실을 감출 수 있는지를 탐구합니다."
     },
     {
-      "title": "Artist, activist, and author Edie Fake",
-      "content": "건축을 주제로 끊임없이 탐구하는 Edie Fake의 이야기를 듣습니다.",
-      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
-      "source": "Creative Independent",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "건축을 매개로한 예술적 탐색과 개인적 경험이 담깁니다.",
+      "title_ko": "When the Algorithm Becomes a Battleground: Hao Wu on TikTok Never Dies",
+      "summary": "Hao Wu 감독은 실리콘 밸리 경험을 바탕으로 TikTok의 사회적 영향을 탐구합니다.",
+      "url": "https://motionographer.com/2026/06/30/when-the-algorithm-becomes-a-battleground-hao-wu-on-tiktok-never-dies/",
+      "source": "Motionographer",
+      "domain": "FILM",
+      "category": "인터뷰",
+      "creator_name": "Hao Wu",
+      "creator_insight": "",
       "tags": [
-        "architecture",
-        "art"
+        "알고리즘",
+        "사회적 영향",
+        "다큐멘터리"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "다큐멘터리"
       ],
-      "why": "예술과 건축의 상관관계를 탐험할 수 있는 기회입니다.",
-      "depth": 0.95,
-      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
-      "pub_date": "2026-07-06T08:00:00.000000"
+      "why": "현대 사회에서 알고리즘은 개인의 선택과 사회적 흐름에 큰 영향을 미치며, 이에 대한 비판적 탐구가 필요합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/06/TikTokers-outside-Supreme-Court.jpg",
+      "pub_date": "2026-06-30T16:53:26+00:00",
+      "title_en": "",
+      "title": "When the Algorithm Becomes a Battleground: Hao Wu on TikTok Never Dies",
+      "content": "Hao Wu 감독은 실리콘 밸리 경험을 바탕으로 TikTok의 사회적 영향을 탐구합니다."
     }
   ],
   "items": [],
   "popcorn": [
     {
-      "title": "Free Range 2026 [Top 10]",
-      "content": "신진 포토그래피 작가들의 창의적인 작품들을 선정하여 소개합니다.",
-      "url": "https://opendoors.gallery/top-ten",
-      "source": "opendoors.gallery",
+      "title_ko": "Meneer Bommel, 사이다계의 가장 매력적인 남자",
+      "summary": "Meneer Bommel은 사이다계에서 가장 매력적인 인물로 주목받고 있습니다.",
+      "url": "https://thedieline.com/meneer-bommel-might-be-the-most-charming-man-in-cider/",
+      "source": "The Dieline",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "emerging artists"
+        "사이다",
+        "매력",
+        "바이럴"
       ],
-      "why": "신진 작가들의 참신한 작품들을 통해 경이로움을 느낄 수 있습니다.",
+      "why": "Meneer Bommel의 매력은 대중에게 친근하고 유쾌한 이미지를 전달하며, 이는 소비자들에게 긍정적인 감정을 불러일으킵니다.",
       "depth": 0.5,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-06T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://thedieline.com/wp-content/uploads/2026/06/MB_01-afb6ce6f1b1863ef0264b1309588caba-1.jpg",
+      "pub_date": "2026-07-01T06:59:00+00:00",
+      "title_en": "",
+      "title": "Meneer Bommel, 사이다계의 가장 매력적인 남자",
+      "content": "Meneer Bommel은 사이다계에서 가장 매력적인 인물로 주목받고 있습니다."
     },
     {
-      "title": "American Vogue July 2014",
-      "content": "Prada를 착용한 Lupita Nyong'o가 American Vogue의 커버를 장식합니다.",
-      "url": "https://thestylewatcher.wordpress.com/2014/06/19/american-vogue-july-2014/",
-      "source": "thestylewatcher.wordpress.com",
+      "title_ko": "The Dieline’s Best of June 2026",
+      "summary": "2026년 6월의 최고의 디자인을 선정한 The Dieline의 리스트입니다.",
+      "url": "https://thedieline.com/the-dielines-best-of-june-2026/",
+      "source": "The Dieline",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "Vogue",
-        "Lupita Nyong'o"
+        "디자인",
+        "베스트",
+        "바이럴"
       ],
-      "why": "패션 아이콘들이 매거진 커버를 통해 스타일을 선보이는 방법에 대한 통찰력을 제공합니다.",
+      "why": "디자인 트렌드에 민감한 현대인들은 최신의 창의적이고 혁신적인 디자인을 통해 영감을 얻고자 합니다.",
       "depth": 0.5,
-      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
-      "pub_date": "2026-07-06T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://thedieline.com/wp-content/uploads/2026/06/BESTOFJUNE.png",
+      "pub_date": "2026-07-01T03:00:00+00:00",
+      "title_en": "",
+      "title": "The Dieline’s Best of June 2026",
+      "content": "2026년 6월의 최고의 디자인을 선정한 The Dieline의 리스트입니다."
     },
     {
-      "title": "Interview Magazine – “Jamie Dornan”",
-      "content": "배우 Jamie Dornan이 주연한 <Fifty Shades of Grey> 출연 이전의 이야기를 다룹니다.",
-      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
-      "source": "thestylewatcher.wordpress.com",
+      "title_ko": "Pack of the Month: Dukes Coffee Gets a Timeless Refresh Courtesy of SODAA",
+      "summary": "Dukes Coffee는 SODAA의 도움으로 시대를 초월한 새로운 디자인을 선보입니다.",
+      "url": "https://thedieline.com/pack-of-the-month-dukes-coffee-gets-a-timeless-refresh-courtesy-of-sodaa/",
+      "source": "The Dieline",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "Jamie Dornan",
-        "Interview"
+        "커피",
+        "디자인",
+        "바이럴"
       ],
-      "why": "유명 배우의 커리어 발전과 기대 작품에 대한 흥미로운 통찰력을 제공합니다.",
+      "why": "Dukes Coffee의 새로운 디자인은 소비자들에게 신선함과 동시에 익숙함을 제공하며, 이는 브랜드 충성도를 높이는 데 기여합니다.",
       "depth": 0.5,
-      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
-      "pub_date": "2026-07-06T08:00:00.000000"
+      "creator_name": "",
+      "creator_insight": "",
+      "social_proof": "",
+      "image": "https://thedieline.com/wp-content/uploads/2026/06/dukes.png",
+      "pub_date": "2026-07-01T01:39:00+00:00",
+      "title_en": "",
+      "title": "Pack of the Month: Dukes Coffee Gets a Timeless Refresh Courtesy of SODAA",
+      "content": "Dukes Coffee는 SODAA의 도움으로 시대를 초월한 새로운 디자인을 선보입니다."
     }
   ],
   "keywords": [

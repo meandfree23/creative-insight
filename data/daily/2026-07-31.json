@@ -1,292 +1,298 @@
 {
   "date": "2026-07-31",
-  "focusQ": "Agent's Thought: 동시대의 창작자들은 디지털과 물질의 경계에서 새로운 통합을 시도하며, 감성과 기술의 융합을 통해 인간 경험의 깊이를 확장하고 있습니다. 현대적인 미학은 과거의 유산과 미래의 가능성을 동시에 탐구하며, 다양한 분야의 창의적 시너지를 기반으로 새로운 창작의 길을 모색하고 있습니다.",
-  "creator_message": "큐레이터의 메시지: 오늘의 큐레이션에서는 다양한 창작 분야에서의 혁신과 융합을 조망합니다. 새로운 시각과 기술이 어떻게 현대 미학에 녹아들고 있는지 함께 탐구해 보세요.",
+  "focusQ": "Agent's Thought: 현대 창작자들이 추구하는 창의적 시너지는 전통과 혁신의 교차점에서 발생하며, 각 분야의 경계를 넘나드는 융합적 사고가 필수적입니다. 이 시대의 창작 흐름은 한국적 미학과 글로벌 트렌드의 조화를 통해 새로운 가치를 창출합니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 큐레이션은 창작의 경계를 확장하고, 다양한 분야의 통찰을 통해 새로운 영감을 제공하고자 합니다.",
   "session": {
-    "timestamp": "2026-07-31T00:00:55.000010",
+    "timestamp": "2026-08-02T11:58:57.357052",
     "considered": 40,
     "selected": 14
   },
   "topPicks": [
     {
-      "title": "Karlovy Vary 영화제의 역사",
-      "content": "Karlovy Vary 국제 영화제는 1946년 첫 개최 이후 최고의 국제적 영향력을 인정받는 카테고리-A 영화제로 성장했다.",
-      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
+      "title": "경계를 넘어: 건축이 만들어내는 새로운 이동성의 세계",
+      "content": "건축이 어떻게 경계를 설정하고 이동성을 재구성하는지에 대한 심도 있는 탐구. 구체적 사례와 이론적 배경을 통해 현대 사회의 이동성을 재조명합니다.",
+      "url": "https://www.archdaily.com/1181555/where-is-the-border-the-role-of-architecture-in-controlling-mobility",
+      "source": "ArchDaily",
+      "domain": "SPATIAL",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "역사적으로 중요한 영화제로의 발전 과정에 대한 통찰 제공",
+      "creator_name": "토마스 헤더윅",
+      "creator_insight": "헤더윅은 건축을 통해 물리적 경계를 재정의하며, 인간 중심의 공간 설계에 중점을 둡니다.",
       "tags": [
-        "영화제",
-        "역사"
+        "건축",
+        "이동성",
+        "경계"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#ConcreteCorridor",
+        "#SpatialDynamics"
       ],
-      "why": "국제적 영화제의 역사적 및 문화적 중요성에 대한 심도 있는 분석",
+      "why": "현대 사회에서 경계의 의미를 재조명하며 건축적 관점에서 이동성을 탐구하는 이 기사는 공간의 새로운 가능성을 제시합니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "image": "https://images.adsttc.com/media/images/6a5a/451b/3d21/f701/89c9/2cf4/newsletter/onde-fica-a-fronteira-o-papel-da-arquitetura-no-controle-da-mobilidade_10.jpg?1784300879",
       "pub_date": "2026-07-31T08:00:00.000000"
     },
     {
-      "title": "실제 감각의 마요네즈 머신",
-      "content": "ChaChaanTeng의 Heinz Mayo 캠페인은 음식의 감각적이고 로맨틱한 체험을 일본의 자동 판매기와 결합하였다.",
-      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
-      "source": "It's Nice That",
+      "title": "정격의 춤: 제29회 서울세계무용축제",
+      "content": "국내 최대의 무용 축제인 SIDance2026이 다양한 장르와 스타일의 무용을 통해 관객들에게 감동을 선사합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81867",
+      "source": "Unknown Source",
       "domain": "ART",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "물리적 체험과 음식 문화가 결합된 독창적 시도",
+      "creator_name": "김영환",
+      "creator_insight": "김영환은 현대 무용의 경계를 넓히며, 전통과 현대를 아우르는 독창적 안무를 선보입니다.",
       "tags": [
+        "무용",
+        "공연",
+        "예술"
+      ],
+      "execution_techniques": [
+        "#ContemporaryDance",
+        "#PerformanceArt"
+      ],
+      "why": "무용을 통해 현대 예술의 흐름을 이해하고 다양한 문화적 관점을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.artinsight.co.kr/data/tmp/2608/20260801213613_oxcvhqzg.jpg",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "전자예술: 550억 달러 규모의 비상장 전환 인수",
+      "content": "Electronic Arts가 사우디아라비아 PIF와 Silver Lake Affinity와의 대규모 인수를 통해 새롭게 도약을 준비합니다.",
+      "url": "https://hypebeast.kr/2026/8/electronic-arts-finalize-55-billion-usd-go-private-acquisition-saudi-arabia-pif-silver-lake-affinity",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "앤드류 윌슨",
+      "creator_insight": "앤드류는 EA의 미래를 혁신적인 기술과 글로벌 전략을 통해 새롭게 정의합니다.",
+      "tags": [
+        "비디오 게임",
+        "인수",
+        "전자예술"
+      ],
+      "execution_techniques": [
+        "#CorporateStrategy",
+        "#TechInnovation"
+      ],
+      "why": "디지털 예술 산업의 큰 변화를 예고하는 이 인수는 기술과 디자인의 새로운 가능성을 엿봅니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2Felectronic-arts-finalize-55-billion-usd-go-private-acquisition-saudi-arabia-pif-silver-lake-affinity-000.jpg",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "신발 속에 담긴 시간: 뉴발란스의 축구 캠페인",
+      "content": "뉴발란스의 최신 축구화 출시와 함께 축구의 속도를 향한 여정과 인내를 조명합니다.",
+      "url": "https://www.creativereview.co.uk/new-balance-football-furon-yan-diomande-blind-faith/",
+      "source": "creativereview.co.uk",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "얀 디오망드",
+      "creator_insight": "얀은 축구의 본질을 인내와 기술의 아름다움으로 해석하며, 새로운 운동화를 통해 이를 표현합니다.",
+      "tags": [
+        "축구",
         "디자인",
-        "마케팅"
+        "운동화"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#AthleticDesign",
+        "#Sportswear"
       ],
-      "why": "디지털 시대의 물리적 경험의 중요성을 환기시킴",
+      "why": "축구와 패션의 융합을 통해 스포츠 디자인의 새로운 방향을 제시하는 참신한 캠페인입니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/New-Balance-Football-1.jpg",
       "pub_date": "2026-07-31T08:00:00.000000"
     },
     {
-      "title": "엔터테인먼트와 식사의 만남",
-      "content": "Delilah는 뉴욕에서 선보이는 최초의 영구적인 식사 및 공연 공간으로, 식사와 쇼가 결합된 경험을 제공한다.",
-      "url": "https://coolhunting.com/culture/outside-the-four-walls-delilah-chase-sapphire-reserve-and-the-return-of-the-supper-club/",
-      "source": "coolhunting.com",
+      "title": "커피 예술의 재발견: 우에시마 리브랜딩",
+      "content": "우에시마가 일본의 커피 전통을 바탕으로 한 새로운 브랜드 아이덴티티를 선보입니다.",
+      "url": "https://www.creativereview.co.uk/ueshima-rebrand-japanese-coffee-the-clearing/",
+      "source": "creativereview.co.uk",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "전통적 식사 공간을 새로운 형태로 재매개",
+      "creator_name": "아이코 이토",
+      "creator_insight": "아이코는 일본 커피 문화의 본질을 현대적으로 해석하여 새로운 브랜드 이미지를 창조합니다.",
       "tags": [
-        "엔터테인먼트",
-        "문화"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "문화적 트렌드 변화에 대한 심도 있는 이해를 제공",
-      "depth": 0.95,
-      "image": "https://coolhunting.com/wp-content/uploads/2026/07/176_Chase-Sapphire-Delilah_Montauk_jermcohen-7.23.2026-768x512.jpg",
-      "pub_date": "2026-07-31T08:00:00.000000"
-    },
-    {
-      "title": "프리스 레인지 2026: 새로운 사진 작가 발견",
-      "content": "프리스 레인지는 새로운 창의적 인재를 발굴하는 주요 목적지로, 독자적인 랭킹에서 10대 신흥 사진작가를 선정한다.",
-      "url": "https://opendoors.gallery/top-ten",
-      "source": "opendoors.gallery",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "자기 발굴에 충실한 예술적 경로 제공",
-      "tags": [
-        "사진",
-        "아트"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "신진 예술가들이 어떻게 인정받고 있는지를 이해",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-07-31T08:00:00.000000"
-    },
-    {
-      "title": "제니퍼 램과의 오디세이 편집 여행",
-      "content": "Jennifer Lame은 작은 영화에서 Nolan의 대작에 도전하면서, 영화의 캐릭터를 상상하여 편집에 임했다.",
-      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "작은 작업에서 거대한 영화로의 전환 과정을 기술",
-      "tags": [
-        "편집",
-        "영화"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "편집의 창조성과 도전 과제를 탐구",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
-      "pub_date": "2026-07-31T08:00:00.000000"
-    },
-    {
-      "title": "향기로 가득한 베를린의 일본식 티바",
-      "content": "Kissabō는 전통과 현대가 어우러진 독특한 분위기의 베를린에 위치한 현대적인 일본식 티바이다.",
-      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
-      "source": "ignant.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "현대적 공간 속의 전통 체험 제공",
-      "tags": [
-        "티바",
+        "커피",
+        "리브랜딩",
         "디자인"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#BrandIdentity",
+        "#CulturalHeritage"
       ],
-      "why": "전통과 현대의 문화적 융합을 탐색",
+      "why": "커피 브랜드 리브랜딩을 통해 일본 문화의 깊이를 느낄 수 있는 디자인 혁신 사례입니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/06/kissabo-720x1280.jpg",
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/01_UCC_NewLogoPack.jpg",
       "pub_date": "2026-07-31T08:00:00.000000"
     },
     {
-      "title": "미래를 향한 악테오 시계의 비전",
-      "content": "프랑스의 악테오 시계는 단순한 시간 측정기를 넘어서 꿈과 열정을 상징화하여 사용자의 감성을 자극한다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
+      "title": "트래비스 스콧의 오디세이 머천다이즈 출시",
+      "content": "트래비스 스콧이 새로운 SS27 트렌드와 함께 오디세이 머천다이즈를 선보이며 패션의 새로운 흐름을 제시합니다.",
+      "url": "https://hypebeast.kr/2026/8/travis-scott-drops-odyssey-merch-ss27-trends-heat-up-in-this-weeks-top-fashion-news",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "개개의 창의성과 감성에 초점을 맞춘 디자인",
+      "creator_name": "트래비스 스콧",
+      "creator_insight": "트래비스는 음악과 패션을 결합하여 새로운 소비자 경험을 창출하며, 혁신적 컬렉션을 선보입니다.",
       "tags": [
-        "시계",
+        "패션",
+        "음악",
+        "머천다이즈"
+      ],
+      "execution_techniques": [
+        "#FashionInnovation",
+        "#MusicInfluence"
+      ],
+      "why": "음악과 패션의 경계를 허물고 새로운 트렌드를 창출하는 트래비스 스콧의 독창적 시도입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2FUsers-nicholasgavino-Downloads-ss27-trends-nike-skims-mcdonalds-the-odyssey-travis-sott-levis-info-0-2.jpg",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "새로운 로고 디자인으로 향수를 불러일으키는 베데스다",
+      "content": "베데스다가 오리지널 브랜드 아이덴티티를 현대적으로 재해석한 새로운 로고 디자인을 공개합니다.",
+      "url": "https://www.creativebloq.com/design/logos-icons/looks-fire-gamers-say-of-bethesdas-nostalgic-new-logo-design",
+      "source": "Creative Bloq",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "토드 하워드",
+      "creator_insight": "토드는 베데스다의 유산을 현대적 디자인으로 이어가며, 게임 커뮤니티와의 연결성을 강화합니다.",
+      "tags": [
+        "게임",
+        "로고",
         "디자인"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#LogoRedesign",
+        "#BrandNostalgia"
       ],
-      "why": "꿈과 미래를 시각적으로 연결",
+      "why": "게임의 역사를 존중하며 현대적 감성을 담아낸 로고 디자인은 브랜드의 정체성을 새롭게 정립합니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "image": "https://cdn.mos.cms.futurecdn.net/rnxY5fAXNVYfs3BPkkmgjP-1280-80.jpg",
       "pub_date": "2026-07-31T08:00:00.000000"
     },
     {
-      "title": "Sam Neill의 기억",
-      "content": "Sam Neill의 사망 후 그의 연기와 토론토 생활에 대한 추억이 영화커뮤니티 내에서 활발히 공유되었다.",
-      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "예상치 못한 부재의 영향력과 기억의 중요성을 탐구",
-      "tags": [
-        "회고",
-        "영화"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "문화 아이콘의 죽음이 지역 사회에 미치는 영향을 조명",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
-      "pub_date": "2026-07-31T08:00:00.000000"
-    },
-    {
-      "title": "금운의 문화적 표현",
-      "content": "양식화된 일본식 맥주 바아이의 독특한 디자인을 다룬다.",
-      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
-      "source": "ignant.com",
+      "title": "장인정신의 세계: 아쉬시 샤의 인도 전통 탐구",
+      "content": "아쉬시 샤가 인도의 수공예 전통을 현대적 관점에서 재해석하며 글로벌 디자인 비전을 제시합니다.",
+      "url": "https://www.wallpaper.com/design-interiors/ashiesh-shah-profile",
+      "source": "Wallpaper*",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "특정한 재질 및 형태의 주요 감성적 잠재력을 재해석",
+      "creator_name": "아쉬시 샤",
+      "creator_insight": "아쉬시는 전통 수공예를 현대 디자인에 접목하여, 지역적 뿌리를 지닌 국제적 작품을 창조합니다.",
       "tags": [
         "디자인",
-        "맥주"
+        "전통",
+        "수공예"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#CraftFusion",
+        "#CulturalDialogue"
       ],
-      "why": "새로운 디자인 언어의 개발 및 적용을 조명",
+      "why": "전통과 현대의 조화를 통해 지역적 특색을 살린 디자인은 글로벌 시장에서도 큰 울림을 줍니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
+      "image": "https://cdn.mos.cms.futurecdn.net/iVD7DUrqfxs98xXSiA9pa-1280-80.png",
       "pub_date": "2026-07-31T08:00:00.000000"
     },
     {
-      "title": "스위스 시계의 미적 호사",
-      "content": "스위스에서 제작된 고급 시계인 악테오는 강력한 상징적 의미를 담고 있어 더 많은 사람들에게 다가가려 한다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "일상 생활에서 새로운 경험을 제공하는 다리 역할",
-      "tags": [
-        "시계",
-        "럭셔리"
-      ],
-      "execution_techniques": [
-        "VisualTaxonomy"
-      ],
-      "why": "고급 상품에 대한 상징성과 접근성을 동시에 논의",
-      "depth": 0.95,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
-      "pub_date": "2026-07-31T08:00:00.000000"
-    },
-    {
-      "title": "작가의 삶과 감수성",
-      "content": "작가가 경험한 예술과 삶 속의 무수한 감정과 순간들이 그녀의 작품에 어떻게 나타나는지를 묘사한다.",
-      "url": "https://strba.ch/2025/10/29/lucid-dreams/",
-      "source": "strba.ch",
+      "title": "역사적인 체코 타운하우스의 재탄생",
+      "content": "재생 자재와 수제 마감으로 변모한 체코 공화국의 역사 타운하우스를 통해 현대적 건축미를 조명합니다.",
+      "url": "https://www.designboom.com/architecture/reclaimed-materials-handcrafted-finishes-historic-townhouse-czech-republic-obloukova-171-ora/",
+      "source": "Designboom",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Unknown",
-      "creator_insight": "작가의 내면 세계와 외부 세계 사이의 상호작용을 탐구",
+      "creator_name": "오라 스튜디오",
+      "creator_insight": "오라 스튜디오는 지속 가능성을 중시하며, 역사적 건축물을 현대적 삶의 공간으로 변모시킵니다.",
       "tags": [
-        "예술",
-        "삶"
+        "건축",
+        "지속 가능성",
+        "재생"
       ],
       "execution_techniques": [
-        "VisualTaxonomy"
+        "#SustainableDesign",
+        "#HistoricRestoration"
       ],
-      "why": "창작자의 삶과 예술 작품 간의 관계를 심도 있게 조명",
+      "why": "지속 가능한 디자인과 역사적 건축의 융합을 통해 현대 도시 공간의 새로운 가능성을 제시합니다.",
+      "social_proof": "",
       "depth": 0.95,
-      "image": "https://strba.ch/wp-content/uploads/2025/10/lucid_dreams_01-3030x2161.jpeg",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/obloukova-171-ora-zatec-czech-republicrenovation-townhouse-designboom-700-500x400-22b08q85r707.jpg",
+      "pub_date": "2026-07-31T08:00:00.000000"
+    },
+    {
+      "title": "현대적 미학과 전통의 융합: 아이디어 No.410",
+      "content": "디자인 매거진 아이디어 No.410이 현대 디자인의 경향과 전통적 미학의 융합을 탐구합니다.",
+      "url": "https://www.idea-mag.com/idea_magazine/no-410/",
+      "source": "IDEA Magazine",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "미카미 요코",
+      "creator_insight": "미카미는 전통적 미학을 현대 디자인에 적용하여 깊이 있는 시각적 경험을 제공합니다.",
+      "tags": [
+        "디자인",
+        "미학",
+        "매거진"
+      ],
+      "execution_techniques": [
+        "#VisualFusion",
+        "#AestheticExploration"
+      ],
+      "why": "전통과 현대의 미적 경계를 넘어 새로운 디자인 언어를 제시하는 매거진입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2025/06/766a5250a4ab9f07dbb6c593dbcc3cc1-550x726.jpg",
       "pub_date": "2026-07-31T08:00:00.000000"
     }
   ],
   "popcorn": [
     {
-      "title": "플로이드 메이웨더 Jr.의 사치스러운 삶",
-      "content": "플로이드 메이웨더는 사상 최초로 무패로 5체급을 정복하였으며, 그의 초호화로운 생활에 대한 인사이트를 제공한다.",
-      "url": "https://honestart.tistory.com/99",
-      "source": "honestart.tistory.com",
+      "title": "챗GPT로 할 수 있는 일 50가지 정리",
+      "content": "AI 기술을 활용한 다양한 작업 방법을 소개하며, 현대 업무 환경의 변화를 조망합니다.",
+      "url": "https://blog.naver.com/nkj2001/223901078909?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "복싱",
-        "스타"
+        "AI"
       ],
-      "why": "스타의 개인 생활과 사치에 대한 대중의 관심 제공",
+      "why": "현대 사회의 AI 활용 사례를 통해 새로운 업무 효율성을 탐구합니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "image": "https://blogthumb.pstatic.net/MjAyNTA2MTZfNjcg/MDAxNzUwMDU4NTgwNzk3.pL5MJhzEJ74xlr5-92a0LP5OGS3BuZarnqhYchIY8_wg.z_VV6x_n2L_02K6teO2WBoLn_jPQYH7Pu63MfwdLUXYg.PNG/image.png?type=s3",
       "pub_date": "2026-07-31T08:00:00.000000"
     },
     {
-      "title": "인터뷰 매거진: 제이미 도넌",
-      "content": "제이미 도넌이 크리스찬 그레이로 캐스팅된 이후 많은 사람들이 그에 대한 기대를 품고 있으며, 그의 인터뷰를 통해 새로운 인사이트를 제공한다.",
-      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
-      "source": "thestylewatcher.wordpress.com",
+      "title": "아이디어 No.412",
+      "content": "디자인 매거진 아이디어 No.412가 최신 디자인 트렌드와 기술을 소개합니다.",
+      "url": "https://www.idea-mag.com/idea_magazine/no-412/",
+      "source": "IDEA Magazine",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "배우",
-        "인터뷰"
+        "디자인"
       ],
-      "why": "유명 배우의 삶과 커리어에 대한 관심",
+      "why": "최신 디자인 트렌드와 기술을 통해 현대 디자인의 방향성을 제시합니다.",
       "depth": 0.5,
-      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2025/12/be061351eef2b0680d3a58d67663246d-2-550x726.jpg",
       "pub_date": "2026-07-31T08:00:00.000000"
     },
     {
-      "title": "프랑스 시계 공예의 아름다움",
-      "content": "프랑스에서 제작된 악테오 시계는 단순한 시계를 넘어 꿈과 열정을 상징하는 팬시있는 기계장치로 설명된다.",
-      "url": "https://honestart.tistory.com/98",
-      "source": "honestart.tistory.com",
+      "title": "사진인문학 01-프롤로그",
+      "content": "사진예술의 이론과 철학을 탐구하며, 예술작품의 감상 방식에 대한 새로운 시각을 제공합니다.",
+      "url": "https://blog.naver.com/sabids/223743463213?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "시계",
-        "프랑스"
+        "사진"
       ],
-      "why": "시계 디자인과 기능의 통합에 대한 관심",
+      "why": "사진예술의 본질을 탐구하며 현대 인문학의 새로운 관점을 제시합니다.",
       "depth": 0.5,
-      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "image": "https://blogthumb.pstatic.net/MjAyNTAxMzFfMjA3/MDAxNzM4MzExNzgzMDAy.cSve9oFbN6eOzRiJAma-QoMYi0CNA6OLCKA5KVmszOQg.bO66TFCZCfo2Mumi4GZtoULHP1ah0sjpcFJz9DRV87Eg.JPEG/856_4374.jpg?type=s3",
       "pub_date": "2026-07-31T08:00:00.000000"
     }
   ],
@@ -304,19 +310,15 @@
       "is_hot": true
     },
     {
-      "word": "예술의 사회적 역할",
+      "word": "전통과 현대의 조화",
       "is_hot": true
     },
     {
-      "word": "매체 융합",
+      "word": "지속 가능한 미래",
       "is_hot": true
     },
     {
-      "word": "치유와 예술",
-      "is_hot": true
-    },
-    {
-      "word": "크로스-도메인 영감",
+      "word": "문화적 대화",
       "is_hot": true
     }
   ]
