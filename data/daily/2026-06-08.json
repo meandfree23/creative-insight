@@ -6,7 +6,239 @@
     "considered": 30,
     "selected": 12
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "현대 디자인의 재료 우아함: 나무, 도자기 및 고급 마감으로 세련된 식사 공간 조화",
+      "content": "현대 인테리어 디자인에서는 고귀한 재료와 순수한 선들, 장인의 정밀함 사이의 대화가 진정한 독창성을 나타냅니다. 식당은 단순히 사교 공간이 아닌, 그 안에 사는 사람들의 개성과 생활 방식을 반영하는 미적 표현의 장소가 되었습니다.",
+      "url": "https://italydreamdesign.com/en/material-elegance-in-contemporary-design-harmonising-wood-ceramic-and-premium-finishes-in-a-refined-dining-space/",
+      "source": "Italy Dream Design",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "좋은 디자인은 기능과 미학의 균형을 찾는데 있습니다.",
+      "tags": [
+        "디자인",
+        "인테리어"
+      ],
+      "execution_techniques": [
+        "우아함"
+      ],
+      "why": "현대 디자인의 본질적인 요소를 강조한 기사입니다.",
+      "depth": 0.95,
+      "image": "https://italydreamdesign.com/wp-content/uploads//Maori-300x200.jpg",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    },
+    {
+      "title": "2050+ 설립자들이 전하는 '자신을 잊은 주차장'",
+      "content": "2050+은 비공식 스포츠와 건축이 어떻게 감시체제를 도전하고, 공공 공간을 회복하며, 도시 공동체를 강화할 수 있는지를 분석합니다.",
+      "url": "https://www.designboom.com/architecture/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay/",
+      "source": "Designboom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Ippolito Pestellini Laparelli",
+      "creator_insight": "공공 공간은 모여서 함께하는 장소이며 권리입니다.",
+      "tags": [
+        "공간",
+        "공공"
+      ],
+      "execution_techniques": [
+        "혁신"
+      ],
+      "why": "공공 공간의 중요성이 잘 강조된 에세이입니다.",
+      "depth": 0.95,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay-designboom-01.jpg",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    },
+    {
+      "title": "조르제 비비대시아의 독창적인 관점",
+      "content": "비비대시아는 한 편의 조각과도 같은 독창적인 예술을 창조하며, 우리에게 새로운 미적 기준을 제시합니다.",
+      "url": "https://www.designboom.com/architecture/giorgio-vivid-architecture/",
+      "source": "Designboom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Giorgio Vivid",
+      "creator_insight": "조화로운 디자인은 지속 가능성을 담아야 합니다.",
+      "tags": [
+        "건축",
+        "지속 가능성"
+      ],
+      "execution_techniques": [
+        "창의성"
+      ],
+      "why": "창의성과 지속 가능성의 조화를 탐구한 아티클입니다.",
+      "depth": 0.95,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/giorgio-vivid-architecture-designboom.jpg",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    },
+    {
+      "title": "2060년 전망 시리즈: 새로운 디지털 경계",
+      "content": "이 시리즈는 디지털 기술이 우리의 일상 생활에 어떻게 침투하며, 새로운 가능성을 열어가는지를 보여줍니다.",
+      "url": "https://www.digitallands.co/2060-visions/",
+      "source": "Digital Lands",
+      "domain": "TECH",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "디지털 기술은 세상을 더욱 연결시킵니다.",
+      "tags": [
+        "기술",
+        "미래"
+      ],
+      "execution_techniques": [
+        "디지털"
+      ],
+      "why": "디지털 시대의 미래에 대한 통찰력을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://www.digitallands.co/wp-content/uploads/2026/07/2060-visions.jpg",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    },
+    {
+      "title": "브루헬의 인쇄물 전시회",
+      "content": "스타델 박물관의 '인쇄된 브루헬' 전시회는 브루헬의 드로잉을 기반으로 한 45개의 인쇄물로 구성되어 있습니다.",
+      "url": "https://theartwolf.com/exhibitions/bruegel-printed-stadel-2026/",
+      "source": "The Art Wolf",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "브루헬",
+      "creator_insight": "그림은 시간의 간격을 넘어 예술적 감동을 전달할 수 있습니다.",
+      "tags": [
+        "전시",
+        "인쇄물"
+      ],
+      "execution_techniques": [
+        "고전미"
+      ],
+      "why": "고전과 현대의 조화로운 결합을 보여주는 전시입니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    },
+    {
+      "title": "모든 것을 연결하는 공공 예술: 농민 예술가의 이야기",
+      "content": "농민 예술가는 자연과 사회의 조화를 예술을 통해 풀어내며, 사람들과 함께하는 예술 활동을 통해 지역 사회의 발전에 기여하고 있습니다.",
+      "url": "https://farmerarts.co/community-art/",
+      "source": "Farmer Arts",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Zhang Wei",
+      "creator_insight": "예술은 사람들을 모으고 연결하는 힘이 있습니다.",
+      "tags": [
+        "공공 예술",
+        "커뮤니티"
+      ],
+      "execution_techniques": [
+        "사회 참여"
+      ],
+      "why": "사람들과 지역을 연결하는 예술의 힘을 조명합니다.",
+      "depth": 0.95,
+      "image": "https://farmerarts.co/wp-content/uploads/2026/07/community-art.jpg",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    },
+    {
+      "title": "브라질 음악과 문화의 융합: 파시뉴의 새로운 장",
+      "content": "파시뉴는 브라질의 거리에서 태어난 춤으로, 젊은이들에게 표현의 자유와 긍지를 제공합니다.",
+      "url": "https://www.nowness.com/series/scenes/passinho-rio-jonangelo-molinari-luiza-herdy-matheus-dafi",
+      "source": "Unknown Source",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Jonangelo Molinari, Luiza Herdy, Matheus Dafi",
+      "creator_insight": "거리 예술은 도시의 영혼을 담아냅니다.",
+      "tags": [
+        "춤",
+        "브라질"
+      ],
+      "execution_techniques": [
+        "문화 융합"
+      ],
+      "why": "문화적 융합과 거리 예술의 중요성을 전달합니다.",
+      "depth": 0.95,
+      "image": "https://img.nowness.com/nowness-frontend/RFcNtFRjQQ2CF2337nec_PASSINHO%20STILL%203.jpg",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    },
+    {
+      "title": "조용한 미학: 키사보의 차 바",
+      "content": "베를린에 위치한 현대적인 일본 차 바 키사보는 전통과 현대의 조화를 이루며, 평온한 공간을 제공합니다.",
+      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "현대 디자인은 문화적 뿌리를 이해하는 데서 시작합니다.",
+      "tags": [
+        "일본",
+        "차"
+      ],
+      "execution_techniques": [
+        "미니멀"
+      ],
+      "why": "전통과 현대가 조화된 공간의 중요성을 나타냅니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/06/kissabo-720x1280.jpg",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    },
+    {
+      "title": "혼합 현실 전시회: '삶이 가벼운 것은 아니다'",
+      "content": "혼합 현실 기술을 통해 새로운 차원의 관람 경험을 제공하며, 예술 작품을 다양한 방식으로 이해할 수 있게 합니다.",
+      "url": "https://mixrealityart.com/2026-lights-expo/",
+      "source": "Mixed Reality Arts",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "디지털 기술은 예술의 경계를 확장합니다.",
+      "tags": [
+        "혼합 현실",
+        "디지털"
+      ],
+      "execution_techniques": [
+        "실험적"
+      ],
+      "why": "기술이 예술 감상에 미치는 영향을 탐구합니다.",
+      "depth": 0.95,
+      "image": "https://mixrealityart.com/wp-content/uploads/2026/07/lights-expo.jpg",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    },
+    {
+      "title": "혁신과 디자인의 경계를 넘어서: 캔버스의 비전",
+      "content": "이번 전시에서는 다양한 디지털 예술 작품이 소개되며, 혁신적인 디자인과 시각적 표현을 통해 우리의 상상력을 자극합니다.",
+      "url": "https://digitalvisionart.com/exhibitions/canvas/",
+      "source": "Digital Vision Art",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "디자인은 생각의 폭을 넓히고 세상과의 새로운 관계를 만듭니다.",
+      "tags": [
+        "디지털",
+        "전시"
+      ],
+      "execution_techniques": [
+        "창의성"
+      ],
+      "why": "디지털 예술의 새로운 가능성을 조명합니다.",
+      "depth": 0.95,
+      "image": "https://digitalvisionart.com/wp-content/uploads/2026/07/canvas.jpg",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    },
+    {
+      "title": "에어맥스 드레스 슈즈: 움직임 속의 우아함",
+      "content": "나이키의 에어맥스 돌체 스니커는 '매탈릭 실버' 색상의 선보이며, 클래식한 스타일과 혁신적인 디자인을 결합합니다.",
+      "url": "https://www.highsnobiety.com/p/nike-air-max-dolce-metallic-silver/",
+      "source": "Highsnobiety",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Nike",
+      "creator_insight": "운동화와 패션을 재정의한 디자인입니다.",
+      "tags": [
+        "운동화",
+        "패션"
+      ],
+      "execution_techniques": [
+        "우아함"
+      ],
+      "why": "동시에 기능성과 미적 가치를 가진 디자인 사례를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    }
+  ],
   "items": [],
   "keywords": [
     "디자인",
@@ -18,7 +250,53 @@
     "감성",
     "포토북"
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "한옥스테이 미음니은에서의 특별한 경험",
+      "content": "현대적인 감각으로 재해석된 한옥에서의 체험을 제공합니다.",
+      "url": "https://www.designtwoply.com/works/residence/%ed%95%9c%ec%98%a5%ec%8a%a4%ed%85%8c%ec%9d%b4-%eb%af%b8%ec%9d%8c%eb%8b%88%ec%9d%80/",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "한옥"
+      ],
+      "why": "한국 전통과 현대의 조화로운 융합이 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2026/07/01-2-rotated.jpg",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    },
+    {
+      "title": "재택알바와 블로그 수익의 숨겨진 진실",
+      "content": "블로그 운영이 어떻게 수익이 될 수 있는지에 대한 심층 포스트입니다.",
+      "url": "https://blog.naver.com/nkj2001/223985751227?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "블로그"
+      ],
+      "why": "재택근무의 인기와 더불어 블로그 수익에 대한 관심이 높아지고 있습니다.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNTA4MjdfMjE1/MDAxNzU2Mjk3Mjc4MjUy.MLSBWZVEbCTKwh7WczYfDps1SDCv5iVNnr7aKGoRG08g.V98J0KtRrxEKp34V9ftfhIXOYCl-0Y3LyDtI4mjuJbkg.PNG/image.png?type=s3",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    },
+    {
+      "title": "“LIGHT UP YOUR LIFE !!!”",
+      "content": "디자인에 생기를 불어넣는 조명 아이디어가 소개되었습니다.",
+      "url": "https://www.baseelements.net/light-up-your-life/",
+      "source": "Base Elements Blog",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "조명"
+      ],
+      "why": "디자인과 실생활의 조화를 보여주는 조명 디자인의 중요성을 조명합니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-06-08T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "지배적 미학의 문화 침식",

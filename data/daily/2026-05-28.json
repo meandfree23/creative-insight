@@ -372,21 +372,6 @@
       "pub_date": "2026-05-28T08:00:00.000000"
     },
     {
-      "title": "Amazon 광고 수익, 76억 달러 달성",
-      "content": "Amazon의 광고 사업은 Sponsored AI Prompts 덕에 처음으로 강력한 결과를 보였습니다.",
-      "url": "https://www.adweek.com/commerce/amazons-ad-revenue-hits-76b/",
-      "source": "Adweek",
-      "domain": "POPCORN",
-      "category": "바이럴",
-      "tags": [
-        "전자상거래"
-      ],
-      "why": "Amazon의 혁신적인 광고 전략과 그 성과가 주목할 만합니다.",
-      "depth": 0.5,
-      "image": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=1600&q=80",
-      "pub_date": "2026-05-28T08:00:00.000000"
-    },
-    {
       "title": "철학이 돋보이는 새로운 이소토닉 음료!",
       "content": "ZHEST는 보리와 홉을 바탕으로 한 새로운 이소토닉 음료 브랜드입니다.",
       "url": "https://retaildesignblog.net/2026/07/23/zhest-by-max-lippolis/",
@@ -399,6 +384,22 @@
       "why": "독특한 구성과 건강한 삶을 향한 브랜드 철학이 돋보입니다.",
       "depth": 0.5,
       "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1600&q=80",
+      "pub_date": "2026-05-28T08:00:00.000000"
+    },
+    {
+      "title": "Do You Love Me에서 레바논의 문화적 기억을 재조립하기",
+      "content": "레바논의 문화적 기억을 탐구한 라나 다헤르의 첫 장편 영화입니다.",
+      "url": "https://filmmakermagazine.com/133997-do-you-love-me-reassembles-lebanons-cultural-memory/",
+      "source": "Filmmaker Magazine",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "문화",
+        "레바논"
+      ],
+      "why": "레바논의 역사를 독특한 시각적 방식으로 표현한 다헤르 감독의 예술적 도전이 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/do-you-love-me-940x400.jpg",
       "pub_date": "2026-05-28T08:00:00.000000"
     }
   ],

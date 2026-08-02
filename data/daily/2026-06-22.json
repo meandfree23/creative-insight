@@ -7,9 +7,288 @@
     "considered": 141,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "여름의 그리움을 담은 사진 프로젝트 5선",
+      "content": "나폴리 해안에서 하와이의 노을까지, AnOther 아카이브에서 발견한 여름의 매력을 탐색하는 5개의 사진 시리즈를 소개합니다.",
+      "url": "https://www.anothermag.com/art-photography/17345/summer-round-up-photography-photo-series-sam-youkilis-holidays?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=five-photo-projects-filled-with-summer-longing",
+      "source": "anothermag.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Sam Youkilis",
+      "creator_insight": "여름의 순간을 포착하며, 일상의 아름다움을 사진으로 담아내는 것의 중요성을 보여줍니다.",
+      "tags": [
+        "여름",
+        "사진"
+      ],
+      "execution_techniques": [
+        "포토저널리즘"
+      ],
+      "why": "여름의 빛과 감성을 다양한 시각에서 즐길 수 있는 프로젝트이기 때문입니다.",
+      "depth": 0.95,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/410/1/411141.jpg",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    },
+    {
+      "title": "이탈리아 문화 페스티벌 안내",
+      "content": "클래식 음악부터 현대 서커스, 문학과 시, 영화, 전통음식, 종교적 전통 등 다양한 문화 행사를 소개하는 이탈리아의 문화 페스티벌을 안내합니다.",
+      "url": "https://www.artribune.com/arti-performative/musica/2026/08/guida-festival-culturali-italia-inizio-agosto-2026/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "다양한 아티스트와 퍼포머",
+      "creator_insight": "문화적 다양성과 예술적 창의성을 한데 모은 축제로, 참여자에게 다양한 감동을 선사합니다.",
+      "tags": [
+        "문화",
+        "음악",
+        "예술"
+      ],
+      "execution_techniques": [
+        "문화융합"
+      ],
+      "why": "유럽의 다채로운 문화와 예술적 표현을 직접 체험할 수 있는 특별한 기회이기 때문입니다.",
+      "depth": 0.95,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/5-alba-tempio-della-concordia-1200x800-1.jpg",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    },
+    {
+      "title": "여름의 정취를 담은 Nezraeli Press와의 인터뷰",
+      "content": "Nezraeli Press의 설립자 크리스 피클러가 출판 경력 40년을 회상하며, 사진집의 영원한 힘과 변함없는 매력을 논의합니다.",
+      "url": "https://www.lensculture.com/articles/chris-pichler-nazraeli-press-interview-with-photobook-publisher-chris-pichler",
+      "source": "lensculture.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "Chris Pichler",
+      "creator_insight": "사진집의 가치는 단순한 이미지 모음이 아니라 독립적인 예술 작품으로서의 잠재력을 가집니다.",
+      "tags": [
+        "출판",
+        "사진"
+      ],
+      "execution_techniques": [
+        "포토북"
+      ],
+      "why": "사진 예술의 깊이와 그 문화적 중요성을 탐구하는 기회를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://images.lensculture.com/image/c5e043dd-b576-4606-6f11-564e0064f500/large",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    },
+    {
+      "title": "일러스트레이터 줄리안 아돈 알렉산더",
+      "content": "줄리안 아돈 알렉산더의 예술 세계를 조명하며 그의 독특한 스타일과 디자인 접근 방식을 소개합니다.",
+      "url": "https://www.booooooom.com/2026/07/24/illustrator-spotlight-julian-adon-alexander/",
+      "source": "Booooooom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Julian Adon Alexander",
+      "creator_insight": "트렌드를 반영하면서도 고유한 예술적 감각을 잃지 않는 것이 중요합니다.",
+      "tags": [
+        "일러스트레이션",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "디지털 일러스트"
+      ],
+      "why": "현대적 디자인과 전통적 예술적 요소를 조합하는 그의 접근 방식이 독창적이기 때문입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/07/Alexander1.jpg",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    },
+    {
+      "title": "동화같은 순간을 포착한 Claudia Koh의 작품 'Sunshower'",
+      "content": "작가 Claudia Koh의 감성적인 작품 'Sunshower'가 따뜻한 순간을 포착하며 자연과 인간의 연결을 보여줍니다.",
+      "url": "https://www.booooooom.com/2026/07/17/sunshower-by-artist-claudia-koh/",
+      "source": "Booooooom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Claudia Koh",
+      "creator_insight": "작가가 전하는 자연의 섬세함과 일상의 감동을 포착하는 능력이 돋보입니다.",
+      "tags": [
+        "예술",
+        "사진"
+      ],
+      "execution_techniques": [
+        "수채화 기법"
+      ],
+      "why": "일상의 순간에서 발견할 수 있는 자연의 아름다움과 그 시적 감수성을 보여주기 때문입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/07/Claudia1.jpg",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    },
+    {
+      "title": "라이징 아티스트 Kate Meissner의 뉴욕 전시",
+      "content": "Kate Meissner의 새로운 페인팅 시리즈가 뉴욕의 Lyles & King's 프로젝트 공간에서 전시됩니다.",
+      "url": "https://www.juxtapoz.com/news/painting/last-days-to-see-kate-meissner-s-new-paintings-lyles-king-s-project-space-nyc/",
+      "source": "Juxtapoz",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Kate Meissner",
+      "creator_insight": "인간의 신체가 가진 변형성에 대한 깊은 탐구가 그녀의 작업에 드러납니다.",
+      "tags": [
+        "현대미술",
+        "전시"
+      ],
+      "execution_techniques": [
+        "혼합 매체"
+      ],
+      "why": "인체의 변형성과 이를 예술로 표현하는 독창성이 주목됩니다.",
+      "depth": 0.95,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/aa1466ee175b1ac0ae71b333f4a4c7e9_L.jpg",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    },
+    {
+      "title": "SEO 팁으로 아티스트 웹사이트 최적화",
+      "content": "아티스트가 웹사이트를 구글 상위에 올리기 위한 SEO 팁과 함께 콘텐츠의 가치를 높이는 방법을 제시합니다.",
+      "url": "https://veryprivategallery.com/seo-for-artists/",
+      "source": "Very Private Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Greg Bot",
+      "creator_insight": "기술적 최적화와 개인적 감각을 결합하여 독창적인 온라인 존재를 구축합니다.",
+      "tags": [
+        "SEO",
+        "마케팅"
+      ],
+      "execution_techniques": [
+        "디지털 마케팅"
+      ],
+      "why": "빠르게 변화하는 디지털 환경에서 아티스트가 웹에서 자신의 가치를 증명하는 방법을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2021/06/seo-for-artists-featured.jpg",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    },
+    {
+      "title": "사진 작가 Rafał Milach의 새로운 전시 ‘Refusal. Second Fracture’",
+      "content": "라파트 밀라흐의 전시가 지역의 정치 구조를 시각적 이미지와 오브제를 통해 도전하고 있습니다.",
+      "url": "https://www.lensculture.com/articles/rafal-milach-refusal-second-fracture",
+      "source": "lensculture.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "Rafał Milach",
+      "creator_insight": "사진과 영상, 오브제를 통한 새로운 형태의 사회적 메시지를 전달합니다.",
+      "tags": [
+        "정치",
+        "사회 비판"
+      ],
+      "execution_techniques": [
+        "사진 설치"
+      ],
+      "why": "시각적 예술을 통해 사회와 정치 구조를 다시 생각하게 만드는 전시입니다.",
+      "depth": 0.95,
+      "image": "https://images.lensculture.com/image/d9da06ed-64b0-4546-40d9-b44d53621000/large",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    },
+    {
+      "title": "공연예술의 정수, 서울세계무용축제",
+      "content": "국내 최대의 무용 축제로, 다양한 장르의 춤을 선보이며 무용 예술의 깊이를 더합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81867",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "여러 무용 예술가",
+      "creator_insight": "다양한 무용스타일을 한자리에 모아 공연 예술의 새로운 지평을 엽니다.",
+      "tags": [
+        "무용",
+        "공연 예술"
+      ],
+      "execution_techniques": [
+        "현대 무용"
+      ],
+      "why": "세계 각국의 무용 스타일의 융합을 경험하고 새로운 영감을 얻을 수 있는 기회.",
+      "depth": 0.95,
+      "image": "https://www.artinsight.co.kr/data/tmp/2608/20260801213613_oxcvhqzg.jpg",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    },
+    {
+      "title": "옛 인물의 새로운 시작, 애니메이션 속 캐릭터의 기원",
+      "content": "엘 우즈, 웬즈데이 등 할리우드 캐릭터들이 원작을 바탕으로 한 새로운 이야기를 통해 관객들과 다시 만납니다.",
+      "url": "https://www.artribune.com/arti-performative/cinema/2026/08/elle-woods/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "다양한 영화 제작자",
+      "creator_insight": "원작의 기원을 탐구함으로써 팬들의 향수를 자극하고 새로운 세대를 위한 콘텐츠를 창출합니다.",
+      "tags": [
+        "영화",
+        "캐릭터"
+      ],
+      "execution_techniques": [
+        "애니메이션"
+      ],
+      "why": "캐릭터의 기원을 통해 새로운 방향성을 제시하고 문화적 공감을 확대하기 때문입니다.",
+      "depth": 0.95,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/elle-la-serie-tv-su-prime-video.webp",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    },
+    {
+      "title": "창의적 위험을 무릅쓴 Jasmina Wood의 도전",
+      "content": "Jasmina Wood는 자신의 영화 제작 과정을 통해 창의적 위험을 감수하는 중요성을 강조합니다.",
+      "url": "https://www.creativereview.co.uk/jasmina-wood-dinner-date-image-girls-creative-risks/",
+      "source": "creativereview.co.uk",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Jasmina Wood",
+      "creator_insight": "표준을 거부하고 자신만의 스타일을 찾기 위한 창의적 시도가 성공의 열쇠임을 보여줍니다.",
+      "tags": [
+        "영화제작",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "독립 영화"
+      ],
+      "why": "자신의 비전을 중심으로 위험을 감수하면서 새로운 창작 지평을 탐구하는 작가의 여정을 조명합니다.",
+      "depth": 0.95,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/Dinner-Date-Jasmina-Wood.jpg",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "디지털 시대의 SEO 팁",
+      "content": "SEO를 통해 아티스트가 웹에서의 존재감을 높이는 방법을 제시합니다.",
+      "url": "https://veryprivategallery.com/seo-for-artists/",
+      "source": "Very Private Gallery",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "SEO"
+      ],
+      "why": "온라인에서 더 많은 사용자와 연결되는 전략이 중요한 시점입니다.",
+      "depth": 0.5,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2021/06/seo-for-artists-featured.jpg",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    },
+    {
+      "title": "포토샵 강좌: 벡터 도형 다루기",
+      "content": "포토샵에서 벡터 도형을 다루는 방식을 설명합니다.",
+      "url": "https://graymonster.tistory.com/88",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "포토샵"
+      ],
+      "why": "디자인 작업에 활용 가능한 실용적인 정보가 포함되어 있습니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/99C398335A0B4F6327",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    },
+    {
+      "title": "22 SEO 팁으로 아티스트 웹사이트 SEO 최적화",
+      "content": "아티스트가 SEO를 통해 검색엔진에서 더 높은 순위를 차지하는 방법을 소개합니다.",
+      "url": "https://veryprivategallery.com/seo-for-artists/",
+      "source": "Very Private Gallery",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "SEO"
+      ],
+      "why": "아티스트 디지털 마케팅 전략의 기초를 제공합니다.",
+      "depth": 0.5,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2021/06/seo-for-artists-featured.jpg",
+      "pub_date": "2026-06-22T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "예술",
     "노인 요양",

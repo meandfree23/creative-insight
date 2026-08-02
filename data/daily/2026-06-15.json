@@ -7,9 +7,288 @@
     "considered": 63,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "항공사들이 마침내 상황 인지 디자인을 깨달은 이유",
+      "content": "항공사들이 승객의 편안한 여행을 위해 상황 인지 디자인을 도입하고 있습니다. 이는 공항에서의 혼란을 줄이고 원활한 경험을 제공하기 위한 노력의 일환으로, 고객 경험을 최적화하는 데 중점을 두고 있습니다.",
+      "url": "https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "domain": "UIUX",
+      "category": "리뷰",
+      "creator_name": "항공사 디자인 팀",
+      "creator_insight": "고객 중심 설계의 중요성을 인지하고 적용",
+      "tags": [
+        "항공사",
+        "디자인",
+        "고객 경험"
+      ],
+      "execution_techniques": [
+        "#상황인지디자인"
+      ],
+      "why": "공항의 복잡함을 줄이기 위한 혁신적 노력",
+      "depth": 0.95,
+      "image": "https://cdn-images-1.medium.com/max/2600/0*f747OZL4UEmBCN2J",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title": "화제를 모으는 도시 예술 프로젝트, RavaleArt",
+      "content": "RavaleArt는 공동체 주도의 예술 프로젝트로, 거리 미학을 개선하기 위해 라발의 남쪽 지역에 다양한 공공 미술 설치를 진행합니다. 이 프로젝트는 지역 주민들과 상인의 협력을 통해 지역 사회의 이미지를 혁신합니다.",
+      "url": "https://www.streetartbcn.com/ravaleart-segunda-edicion/",
+      "source": "Street Art Barcelona",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "RavaleArt 팀",
+      "creator_insight": "공존과 예술의 힘을 지역 사회에 전달",
+      "tags": [
+        "도시 예술",
+        "공공미술"
+      ],
+      "execution_techniques": [
+        "#커뮤니티예술"
+      ],
+      "why": "지역 사회의 재개발과 미적 개선을 배울 수 있는 프로젝트",
+      "depth": 0.95,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2025/09/Algunas-fotos-mas-del-dia-de-inauguracion-de-la-segunda-edicion-del-proyecto-RavaleArt.-Una-jorn6.jpg",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title": "선택된 작품: 유한킴벌리의 지속가능성 과정",
+      "content": "유한킴벌리의 새로운 TV 광고는 산불로 인해 사라진 숲을 AI를 통해 아름답게 재현한 내용입니다. 이 광고는 환경 보호의 중요성과 더불어 인공지능을 활용한 창의적 접근을 강조합니다.",
+      "url": "https://adim21.co.kr/16641/",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "유한킴벌리 광고 크리에이티브 팀",
+      "creator_insight": "기술과 자연의 통합을 통한 강한 메시지 전달",
+      "tags": [
+        "지속가능성",
+        "광고"
+      ],
+      "execution_techniques": [
+        "#에코디자인"
+      ],
+      "why": "기후 위기와 지속 가능성에 대한 강력한 메시지를 전달",
+      "depth": 0.95,
+      "image": "https://i0.wp.com/adim21.co.kr/grim/BODY/B_YUHANKIMBERLY_2607.jpg?ssl=1",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title": "애매한 경계를 넘어서: 아를르 사진 축제 2026 미리보기",
+      "content": "이미지의 경계를 넘나드는 작가와 작품들이 모여, 사진의 혁신적 힘을 탐구하는 올해의 아를르 사진 축제를 미리 살펴봅니다.",
+      "url": "https://www.lensculture.com/articles/lensculture-editors-photography-still-restless-les-rencontres-d-arles-festival-2026-preview",
+      "source": "lensculture.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "LensCulture 에디터",
+      "creator_insight": "사진이 가진 경계 넘어선 힘의 새로운 조명",
+      "tags": [
+        "사진",
+        "예술"
+      ],
+      "execution_techniques": [
+        "#포토페스티벌"
+      ],
+      "why": "사진 매체의 경계를 넘어서는 다양한 접근을 소개",
+      "depth": 0.95,
+      "image": "https://images.lensculture.com/image/f58ece2f-9ca5-4fd8-dc7b-cf6b88d77b00/large",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title": "극한의 예술: '공연'인문학적 통찰",
+      "content": "희로애락을 주제로 한 THE 광대와 함께하는 특별한 하루의 연희 올림픽은 전통 예술 속에 숨겨진 감정의 심연을 탐구합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81866",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "THE 광대 팀",
+      "creator_insight": "연극 예술을 통한 감정의 심도 있는 탐구",
+      "tags": [
+        "연극",
+        "예술"
+      ],
+      "execution_techniques": [
+        "#감정예술"
+      ],
+      "why": "전통과 현대를 아우르는 독창적인 예술 경험",
+      "depth": 0.95,
+      "image": "https://www.artinsight.co.kr/data/tmp/2608/20260801195018_fzklrkme.jpg",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title": "공간을 넘어서: 식사와 공연이 만나는 Delilah",
+      "content": "Chase Sapphire Reserve와 함께한 Delilah는 여왕에서 영감을 받은 만찬 클럽으로, 고급스러운 식사와 엔터테인먼트 경험을 제공합니다.",
+      "url": "https://coolhunting.com/culture/outside-the-four-walls-delilah-chase-sapphire-reserve-and-the-return-of-the-supper-club/",
+      "source": "coolhunting.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "h.wood Group",
+      "creator_insight": "고급 다이닝 환경과 공연 예술의 조화",
+      "tags": [
+        "다이닝",
+        "공연"
+      ],
+      "execution_techniques": [
+        "#고급다이닝"
+      ],
+      "why": "고급스러운 다이닝 경험과 예술적 공연을 겸비한 혁신적 공간",
+      "depth": 0.95,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/176_Chase-Sapphire-Delilah_Montauk_jermcohen-7.23.2026-768x512.jpg",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title": "사진의 인문학적 탐구: 시간의 본질",
+      "content": "일본의 사진가 나라하라 잇코의 작품을 통해 시간의 개념을 탐구하는 블로그 글입니다. 이 작품은 시간의 흐름 속에 존재하는 인간의 존재론적 고찰을 제시합니다.",
+      "url": "https://blog.naver.com/sabids/223745538754?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "나라하라 잇코",
+      "creator_insight": "시간의 인식을 통한 인간 존재에 대한 고찰",
+      "tags": [
+        "시간",
+        "인문학"
+      ],
+      "execution_techniques": [
+        "#시간의개념"
+      ],
+      "why": "시간과 인간의 본질에 대한 철학적 탐구 도서",
+      "depth": 0.95,
+      "image": "https://blogthumb.pstatic.net/MjAyNTAyMDJfMjE3/MDAxNzM4NTAwMjU3NzM0.SRV54-HyPVcQrpVV0atxuL7ZuB_pphi_zDlAGIhGdegg.3ywHImBJDx7_tkWUvie2PVMaxzeehiQj6FAWB-tvEgUg.JPEG/2013%2C_%C6%C4%B8%AE.jpg?type=s3",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title": "패턴 만들기의 예술: 디자인 교실",
+      "content": "일러스트레이터를 이용해 패턴을 만드는 방법을 안내하는 블로그 글입니다. 복잡해 보이는 패턴도 기능을 통하면 쉽게 디자인할 수 있다는 점을 강조합니다.",
+      "url": "https://graymonster.tistory.com/90",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Gray Monster",
+      "creator_insight": "디자인의 기초를 깨닫고 응용할 수 있는 기회 제공",
+      "tags": [
+        "일러스트레이트",
+        "패턴"
+      ],
+      "execution_techniques": [
+        "#패턴디자인"
+      ],
+      "why": "초보자도 쉽게 디자인할 수 있는 접근성을 제공",
+      "depth": 0.95,
+      "image": "https://i1.daumcdn.net/cfs.tistory/v/0/blog/image/extension/ai.gif",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title": "그림과 함께하는 예술의 형태",
+      "content": "제한된 에디션 출판물 The-Art-Form은 예술가들의 작품을 소개하며, 그들의 작업 방식을 다양하게 탐구합니다.",
+      "url": "https://www.andrew-townsend.com/The-Art-Form",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Andrew Townsend",
+      "creator_insight": "예술적 인사이트를 다양한 형식으로 탐구",
+      "tags": [
+        "예술",
+        "출판"
+      ],
+      "execution_techniques": [
+        "#예술출판"
+      ],
+      "why": "예술에 대한 깊이 있는 이해와 창의적인 접근을 제공",
+      "depth": 0.95,
+      "image": "https://payload.cargocollective.com/1/1/33015/8409265/prt_1408298208.jpg",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title": "다른 사람들과의 경계를 넘어서: 도시 예술과 평등",
+      "content": "Us Vs Them 프로젝트는 거리감 있는 시네마틱 시스템을 통해 도시 예술의 새로운 브랜딩 시각을 제시합니다.",
+      "url": "https://abduzeedo.com/branding-visual-identity-grid-layout-typography-us-vs-them/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Monga Design",
+      "creator_insight": "도시 예술의 새로운 표현 방식 창조",
+      "tags": [
+        "브랜딩",
+        "도시 예술"
+      ],
+      "execution_techniques": [
+        "#시네마틱디자인"
+      ],
+      "why": "도시 환경에서 예술적 감각을 확장시키는 새로운 시도",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_us-vs-them-visual-identity-monga-design.jpg",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title": "속도에 맞춘 혁신적 보존 디자인",
+      "content": "MIalil Insurance는 안전을 주제로 한 창의적인 광고 카피로, 보존과 안전의 중요성을 강조합니다.",
+      "url": "https://adim21.co.kr/16648/",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "MIalil Insurance 광고 팀",
+      "creator_insight": "일상 속 예술적 안전 인식을 새롭게 조명",
+      "tags": [
+        "광고",
+        "안전"
+      ],
+      "execution_techniques": [
+        "#안전디자인"
+      ],
+      "why": "일상 생활에서 창의적 안전 개념을 제안",
+      "depth": 0.95,
+      "image": "https://i1.wp.com/adim21.co.kr/grim/world/W_MJalil%20INSURANCE_260701.jpg?ssl=1",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "에어포트 디자인 혁신의 이유",
+      "content": "항공사들이 승객의 경험을 중시하여 변화에 나섰습니다.",
+      "url": "https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "디자인"
+      ],
+      "why": "항공 경험의 현대적 혁신을 탐구",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/2600/0*f747OZL4UEmBCN2J",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title": "시간의 본질에 대한 고찰",
+      "content": "시간의 개념을 심도 있게 탐구하는 작품을 소개합니다.",
+      "url": "https://blog.naver.com/sabids/223745538754?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "시간"
+      ],
+      "why": "시간에 대한 인문학적 통찰을 제시",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNTAyMDJfMjE3/MDAxNzM4NTAwMjU3NzM0.SRV54-HyPVcQrpVV0atxuL7ZuB_pphi_zDlAGIhGdegg.3ywHImBJDx7_tkWUvie2PVMaxzeehiQj6FAWB-tvEgUg.JPEG/2013%2C_%C6%C4%B8%AE.jpg?type=s3",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    },
+    {
+      "title": "진정한 안전의 새로운 시각",
+      "content": "MIalil Insurance는 안전의 개념을 다시 정의합니다.",
+      "url": "https://adim21.co.kr/16648/",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "안전"
+      ],
+      "why": "안전의 개념을 현대적으로 재해석",
+      "depth": 0.5,
+      "image": "https://i1.wp.com/adim21.co.kr/grim/world/W_MJalil%20INSURANCE_260701.jpg?ssl=1",
+      "pub_date": "2026-06-15T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "경기",
     "승리",

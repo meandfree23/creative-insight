@@ -7,9 +7,287 @@
     "considered": 154,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "조드렐 뱅크 천문대 예산 삭감의 경고음",
+      "content": "영국 예술가 콘래드 쇼크로스는 영국 북서부에 위치한 유네스코 세계문화유산인 조드렐 뱅크 천문대의 예산 삭감 문제를 알리고 있습니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/31/uk-artist-conrad-shawcross-sounds-alarm-on-jodrell-bank-observatory-funding-cuts",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "콘래드 쇼크로스",
+      "creator_insight": "예술과 과학의 융합에 대한 중요성을 알리는 데 있어 영향을 미치고 있습니다.",
+      "tags": [
+        "예술",
+        "과학"
+      ],
+      "execution_techniques": [
+        "#융합예술"
+      ],
+      "why": "조드렐 뱅크의 예산 삭감 이슈는 과학 문화 유산의 보존의 중요성을 인식시키는 기회를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/236cfba2b93da8f5488747466851837bf174ad09-4300x2978.jpg?w=140",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    },
+    {
+      "title": "칼로비 바리의 스파 미학",
+      "content": "칼로비 바리 국제 영화제는 1946년 나치 통치에서 복구된 체코슬로바키아에서 첫 개최되었으며, 이후 수많은 변천사를 겪으며 국제적인 영향력을 확보하게 되었습니다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "무명",
+      "creator_insight": "영화제의 역사는 문화의 생존과 타협의 중요성을 강조합니다.",
+      "tags": [
+        "영화제",
+        "역사"
+      ],
+      "execution_techniques": [
+        "#역사기록"
+      ],
+      "why": "칼로비 바리 영화제의 역사적 배경은 예술적 생존과 정체성의 중요성을 일깨웁니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    },
+    {
+      "title": "AI 에이전트와 사주팔자의 결합",
+      "content": "AI 에이전트를 활용하여 사주, 만세력, 자미두수 등의 전문 분석 체계를 처리할 수 있는 n8n과 Python 강의가 인프런에서 소개되었습니다.",
+      "url": "https://blog.naver.com/nkj2001/224261853861?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "남박사",
+      "creator_insight": "전통적인 동양의 분석 체계를 현대 기술과 접목하여 새로운 가능성을 탐색합니다.",
+      "tags": [
+        "AI",
+        "사주"
+      ],
+      "execution_techniques": [
+        "#기술융합"
+      ],
+      "why": "AI와 동양 분석 체계의 결합은 혁신적인 서비스 개발 가능성을 제시합니다.",
+      "depth": 0.95,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA0MjJfNjEg/MDAxNzc2ODY2Nzc0NzQ5.X9F0MAnoae_PKuuPnUWdBC6eCFuTvL56AopatQkJzSwg.jNEsj-_cL_IvShCRzv5tyWNI-SE5kAkphrJK8GtAuUcg.JPEG/cover3.jpg?type=s3",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    },
+    {
+      "title": "퍼블릭 아트로 제안하는 펀드 매니저 업무",
+      "content": "T. 로우 프라이스는 뉴욕 오큘러스에서 37피트 크기의 데이터 조각으로 펀드 매니저의 역할을 시각적으로 설명하는 예술 설치물을 제작했습니다.",
+      "url": "https://www.creativeboom.com/news/most-people-dont-know-what-a-fund-manager-actually-does-so-t-rowe-price-built-a-giant-art-installation-to-explain-it/",
+      "source": "Creative Boom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "T. 로우 프라이스",
+      "creator_insight": "복잡한 금융 개념을 대중에게 이해시키기 위한 창의적인 시도입니다.",
+      "tags": [
+        "공공예술",
+        "금융"
+      ],
+      "execution_techniques": [
+        "#시각예술"
+      ],
+      "why": "대중 예술 설치물은 복잡한 주제를 쉽게 이해할 수 있도록 돕습니다.",
+      "depth": 0.95,
+      "image": "https://www.creativeboom.com/upload/articles/fa/fac66796fa8d2a709210b5f2da8e25c3ee9c252b_840.jpg",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    },
+    {
+      "title": "풀트레이 깊이감의 사진 인문학",
+      "content": "사진가 마이너 화이트의 심상 사진은 기본적으로 모든 마음이 다르다는 철학을 바탕으로 하고 있으며, 이를 통해 마음 없이도 가능한 사진의 표현 가능성을 탐구합니다.",
+      "url": "https://blog.naver.com/sabids/223758408225?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "마이너 화이트",
+      "creator_insight": "사진 표현에 있어 심상이 아닌 다른 요소를 통한 가능성을 제시합니다.",
+      "tags": [
+        "사진",
+        "인문학"
+      ],
+      "execution_techniques": [
+        "#사진철학"
+      ],
+      "why": "심상 사진은 기존 사진의 정의와 경계를 확장하는 시도를 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://blogthumb.pstatic.net/MjAyNTAyMTJfNTEg/MDAxNzM5MzYwMDY3ODY2.vUaTnBgRoubDCDb9DLuswkHsXB5Y0YWSPmjMc_UlM-Eg.8B2RANIpkFHF30FfWJIPPOlqlT8NtOjw3R1cGlgL63kg.JPEG/DSC00004.jpg?type=s3",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    },
+    {
+      "title": "디자인으로 구현하는 럭셔리 다이닝 룸",
+      "content": "럭셔리 다이닝 룸을 설계하는 것은 비율, 조명, 소재를 완벽하게 조화시키는 것을 의미하며, 이는 개인의 라이프스타일과 성격을 반영하는 공간을 만드는 것입니다.",
+      "url": "https://italydreamdesign.com/en/how-to-design-a-luxury-dining-room-proportions-lighting-and-materials-for-a-timeless-interior/",
+      "source": "Italy Dream Design",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "무명",
+      "creator_insight": "디자인의 세련된 문맥을 통해 실생활 공간에 예술적 터치를 더합니다.",
+      "tags": [
+        "인테리어",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#럭셔리디자인"
+      ],
+      "why": "현대적 디자인 감각을 접목하여 개성을 표현할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://italydreamdesign.com/wp-content/uploads/luxury-contemporary-italian-dining-room-200x300.jpg",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    },
+    {
+      "title": "파리에서의 기억을 담다",
+      "content": "파리의 묘지와 광장은 역사적 인물들과 문화적인 지점을 나타내며, 파리를 방문하는 관광객들에게 큰 인상을 남깁니다.",
+      "url": "https://blog.naver.com/justina75/224330021977?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "무명",
+      "creator_insight": "관광지의 역사적 의미와 인상 깊은 경험을 통해 지나간 시대를 되새깁니다.",
+      "tags": [
+        "파리",
+        "역사"
+      ],
+      "execution_techniques": [
+        "#현지탐방"
+      ],
+      "why": "문화적유산은 현대 사회에 그 가치와 의미를 재조명하게 만듭니다.",
+      "depth": 0.95,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjhfMTQz/MDAxNzgyNjQ1MjU3MDY2.LWAxUGSoO4GTEOHuX3h2NMtDhf_I71cer_rEI2TkvW4g.-kLH6IevN63Xe1zuPDNKhTHzubRGpfpl3iFestw60S8g.JPEG/900_Screenshot_20260628_130313_Maps.jpg?type=s3",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    },
+    {
+      "title": "매혹적인 슈퍼내추럴 미스터리 게임",
+      "content": "에드워드 호퍼의 그림처럼 보이는 장면에서 초현실적이며 신비로운 미스터리 게임이 전개됩니다.",
+      "url": "https://80.lv/articles/this-supernatural-mystery-game-looks-like-an-edward-hopper-painting/",
+      "source": "80 Level",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "무명",
+      "creator_insight": "미술 작품의 독특한 스타일을 게임 디자인에 적용하여 몰입을 극대화합니다.",
+      "tags": [
+        "게임",
+        "미스터리"
+      ],
+      "execution_techniques": [
+        "#스타일적용"
+      ],
+      "why": "시각 예술과 게임이 결합된 혁신적인 시도입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.80.lv/api/upload/post/41100/images/6a6ce9d9e03f1/cover_800x800.jpg",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    },
+    {
+      "title": "조각으로 구성된 정교한 세상의 미학",
+      "content": "베로니카 파비안이 수상한 2026 프리드리히 베커 상은 주얼리의 생명력과 지속 가능성을 기념하는 자리였습니다.",
+      "url": "https://artaurea.com/2026/2026-friedrich-becker-prize/",
+      "source": "Art Aurea",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "베로니카 파비안",
+      "creator_insight": "주얼리 및 오브제 디자인을 통해 전통과 현대의 조화를 이끌어냅니다.",
+      "tags": [
+        "주얼리",
+        "디자인상"
+      ],
+      "execution_techniques": [
+        "#정교한디자인"
+      ],
+      "why": "예술적 가치와 지속 가능성을 중시하는 디자인 철학의 중요성을 부각합니다.",
+      "depth": 0.95,
+      "image": "https://artaurea.com/wp-content/uploads/2026/06/Friedrich-Becker-Preis_Fabian_Veronika_Spring-ring-XXXL.jpg",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    },
+    {
+      "title": "고휘도의 빛으로 펼쳐진 아우디 Q9 및 SQ9",
+      "content": "브루클린에서 데뷔한 아우디 Q9 및 SQ9은 혁신적인 라이트 기술로 새로운 드라이빙 경험을 선사합니다.",
+      "url": "https://coolhunting.com/technology/audis-q9-and-sq9-make-their-case-in-light/",
+      "source": "coolhunting.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "아우디",
+      "creator_insight": "적응형 빔과 얇은 테일라이트는 안전성과 스타일 모두를 고려한 설계입니다.",
+      "tags": [
+        "자동차",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#혁신적인조명"
+      ],
+      "why": "혁신적인 조명 기술은 자동차 디자인의 미래를 제시합니다.",
+      "depth": 0.95,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/A263893_large-768x576.jpg",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    },
+    {
+      "title": "세밀하게 구성된 지우개 조각 예술",
+      "content": "일본 예술가 사야 이리에가 지우개 가루를 사용하여 만든 섬세한 조각들은 일상의 흔적을 예술로 승화시킵니다.",
+      "url": "https://spoon-tamago.com/saya-irie-eraser-shavings/?utm_source=rss&utm_medium=rss&utm_campaign=saya-irie-eraser-shavings",
+      "source": "Spoon & Tamago",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "사야 이리에",
+      "creator_insight": "지우개의 자국을 예술 작품으로 변모시키는 창조적 발상을 제안합니다.",
+      "tags": [
+        "조각",
+        "예술"
+      ],
+      "execution_techniques": [
+        "#서정적조각"
+      ],
+      "why": "일상의 사물을 예술적 가치로 변환하는 창의성이 돋보입니다.",
+      "depth": 0.95,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/saya-irie-eraser-shaving-art-8-200x133.webp",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "어릴 때 갖고 놀았던 지우개 조각들",
+      "content": "일본 예술가 사야 이리에가 지우개 가루로 조각을 만드는 방법을 선보입니다.",
+      "url": "https://spoon-tamago.com/saya-irie-eraser-shavings/?utm_source=rss&utm_medium=rss&utm_campaign=saya-irie-eraser-shavings",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "조각"
+      ],
+      "why": "일상 사물을 예술로 승화시켜 많은 이들의 이목을 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/saya-irie-eraser-shaving-art-8-200x133.webp",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    },
+    {
+      "title": "거인의 펀드 매니저 설치미술",
+      "content": "T. 로우 프라이스가 돈의 움직임을 시각적으로 보여줍니다.",
+      "url": "https://www.creativeboom.com/news/most-people-dont-know-what-a-fund-manager-actually-does-so-t-rowe-price-built-a-giant-art-installation-to-explain-it/",
+      "source": "Creative Boom",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "설치미술"
+      ],
+      "why": "복잡한 금융 개념을 대중에게 쉽게 전달한 창의적 사례입니다.",
+      "depth": 0.5,
+      "image": "https://www.creativeboom.com/upload/articles/fa/fac66796fa8d2a709210b5f2da8e25c3ee9c252b_840.jpg",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    },
+    {
+      "title": "버려진 지우개 가루로 만든 예술",
+      "content": "사야 이리에는 지우개 가루로부터 예술 작품을 만들어내었습니다.",
+      "url": "https://spoon-tamago.com/saya-irie-eraser-shavings/?utm_source=rss&utm_medium=rss&utm_campaign=saya-irie-eraser-shavings",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "예술"
+      ],
+      "why": "일상에서 흔히 보이는 것을 예술로 승화시켰다는 점에서 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/saya-irie-eraser-shaving-art-8-200x133.webp",
+      "pub_date": "2026-06-19T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "뮤지엄",
     "디지털 아트",

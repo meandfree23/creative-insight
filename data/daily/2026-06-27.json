@@ -7,9 +7,89 @@
     "considered": 586,
     "selected": 14
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "브랜드의 지역화를 다루다",
+      "content": "브랜드의 지역화를 위한 다양한 전략과 지역 소비자들의 필요를 반영하는 방법이 다뤄집니다.",
+      "url": "https://uglyd.com/index.php/localising-a-brand/",
+      "source": "uglyd.com",
+      "domain": "디자인",
+      "category": "리뷰",
+      "creator_name": "미상",
+      "creator_insight": "브랜드는 지역적 특징을 반영할 때 더 많은 소비자들과 연결될 수 있습니다.",
+      "tags": [
+        "브랜딩",
+        "지역화"
+      ],
+      "execution_techniques": [
+        "#전략디자인"
+      ],
+      "why": "지역화는 브랜드가 소비자와 깊은 연결을 구축하는 데 필수적입니다.",
+      "depth": 0.95,
+      "image": "https://uglyd.com/wp-content/uploads/2018/12/Showreel-2019-1-300x169.jpg",
+      "pub_date": "2026-06-27T08:00:00.000000"
+    },
+    {
+      "title": "예술가 웹사이트 백링크 얻는 법",
+      "content": "예술가 웹사이트의 백링크를 얻는 두 가지 방법을 제시합니다. 백링크는 검색 순위 상승에 핵심적 요소입니다.",
+      "url": "https://veryprivategallery.com/artist-website-backlinks/",
+      "source": "Very Private Gallery",
+      "domain": "예술",
+      "category": "리뷰",
+      "creator_name": "Greg Bot",
+      "creator_insight": "좋은 콘텐츠만으로는 충분하지 않으며, 전략적인 백링크 구축이 필수적입니다.",
+      "tags": [
+        "백링크",
+        "SEO"
+      ],
+      "execution_techniques": [
+        "#디지털마케팅"
+      ],
+      "why": "검색 결과에서 눈에 띄는 것은 현대 예술가들에게 필수적인 기술입니다.",
+      "depth": 0.95,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2024/02/artist-website-backlinks-ideas.jpg",
+      "pub_date": "2026-06-27T08:00:00.000000"
+    },
+    {
+      "title": "빛의 작용을 통해 식물 돌보기",
+      "content": "백색의 플러그는 병충해의 신호일 수 있으나 때로는 신선한 성장의 표시로, 자연스럽게 사라질 수 있습니다.",
+      "url": "https://archzine.net/gartengestaltung/garten-pflanzen/buchsbaum-weisse-flocken-befall-schaedlinge-erkennen/",
+      "source": "Archzine",
+      "domain": "공간",
+      "category": "리뷰",
+      "creator_name": "미상",
+      "creator_insight": "식물 관리의 섬세함은 미학과 과학의 융합이라고 할 수 있습니다.",
+      "tags": [
+        "식물",
+        "관리"
+      ],
+      "execution_techniques": [
+        "#정원디자인"
+      ],
+      "why": "식물을 돌볼 때는 각자의 반응을 잘 이해하는 것이 중요합니다.",
+      "depth": 0.95,
+      "image": "https://archzine.net/wp-content/uploads/2026/07/buchsbaum-weisse-flocken-blaetter.webp",
+      "pub_date": "2026-06-27T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "모드와 스쿠터 문화와의 특별한 만남",
+      "content": "토비 다멘과 특별 게스트가 감성적인 독서를 선보입니다.",
+      "url": "https://designspotter.com/lit-cologne-lesungen-zwei-geschichten-eine-subkultur/",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "문화"
+      ],
+      "why": "아날로그 문화의 재발견으로 많은 관심을 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://static.xx.fbcdn.net/images/emoji.php/v9/t3d/2/16/1f4d6.png",
+      "pub_date": "2026-06-27T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "자연",
     "인터랙티브",

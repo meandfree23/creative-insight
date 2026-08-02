@@ -81,27 +81,6 @@
       "content": "오스카 촬영상 노미네이트 감독들이 공통으로 말하는 것 — VFX 대신 실제를 찍는다. 기술이 발전할수록 촬영감독들은 반대 방향으로 움직이고 있다."
     },
     {
-      "title": "STUDIOJ, Cultsport의 새로운 소매 디자인 정체성을 구축하다",
-      "content": "STUDIOJ는 벵갈루루에 위치한 Cultsport의 창의적 파트너로서 단순하고 내러티브적이며 경험적인 소매 체험을 설계하고 있습니다.",
-      "url": "https://retaildesignblog.net/2026/07/29/how-studioj-crafted-a-new-retail-design-identity-for-cultsport/",
-      "source": "Retail Design Blog",
-      "domain": "SPATIAL",
-      "category": "리뷰",
-      "creator_name": "STUDIOJ",
-      "creator_insight": "소비자 경험을 중심으로 한 디자인이 강조되었습니다.",
-      "tags": [
-        "소매",
-        "창의적 디자인"
-      ],
-      "execution_techniques": [
-        "#경험적디자인"
-      ],
-      "why": "새로운 소매 경험을 제공하는 디자인의 대표 사례입니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&q=80",
-      "pub_date": "2026-05-27T08:00:00.000000"
-    },
-    {
       "title": "남미의 영화적인 매력을 가진 뮌헨 주택 리노베이션",
       "content": "독일의 Holzrausch 아키텍처 스튜디오는 뮌헨에 위치한 타운하우스를 영화적인 남미 분위기를 모티브로 디자인하여 진한 목재와 자연석, 열대 식물을 조합해 독특한 내부 환경을 조성했습니다.",
       "url": "https://www.dezeen.com/2026/07/31/holzrausch-renovated-munich-townhouse/",
@@ -123,27 +102,6 @@
       "pub_date": "2026-05-27T08:00:00.000000"
     },
     {
-      "title": "Rajasthan의 전통과 현대가 조화로운 주택",
-      "content": "스튜디오 UF+O는 Rajasthan 지역의 전통적인 중정형 집 구조를 유지하면서도 모던한 감각을 더하여, 외부의 열과 먼지, 시선으로부터 보호하는 설계를 선보였습니다.",
-      "url": "https://www.archdaily.com/1181863/house-between-walls-studio-uf-plus-o",
-      "source": "ArchDaily",
-      "domain": "SPATIAL",
-      "category": "리뷰",
-      "creator_name": "Studio UF+O",
-      "creator_insight": "전통적인 구조와 현대적 감각을 절묘하게 결합한 디자인이 돋보입니다.",
-      "tags": [
-        "전통건축",
-        "현대디자인"
-      ],
-      "execution_techniques": [
-        "#전통과현대의융합"
-      ],
-      "why": "지역 전통을 현대적으로 재해석한 건축 디자인의 모범 사례입니다.",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1600607688969-a5bfcd64bd40?w=1600&q=80",
-      "pub_date": "2026-05-27T08:00:00.000000"
-    },
-    {
       "title": "Decoy Font: AI 읽기를 피하는 글꼴",
       "content": "Mixfont는 인간과 AI에게 각각 다른 메시지를 전달하는 Decoy Font를 개발했습니다. 이 글꼴은 AI 봇이 메시지를 잘못 인식하도록 광학 착시를 활용합니다.",
       "url": "https://www.dezeen.com/2026/07/31/decoy-font-ai-mixfont/",
@@ -162,6 +120,132 @@
       "why": "데이터 프라이버시와 관련된 혁신적인 접근 방법을 소개합니다.",
       "depth": 0.95,
       "image": "https://static.dezeen.com/uploads/2026/07/decoy-font-mixfont-eric-lu-design_dezeen_2364_sq-852x852.jpg",
+      "pub_date": "2026-05-27T08:00:00.000000"
+    },
+    {
+      "title": "파리시립현대미술관 MAM",
+      "content": "파리시립현대미술관은 기록이 감상에 미치는 영향을 탐구하는 연구결과를 언급하며, 사진보다 감상에 집중할 때 얻는 인상에 대해 논의합니다. 하지만 수많은 인파와 빠른 시간에도 불구하고 작품을 몰입해 감상하려던 과거의 경험을 회상합니다.",
+      "url": "https://blog.naver.com/justina75/224329340597?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "파리시립현대미술관",
+      "creator_insight": "사진보다 몰입하여 감상할 때 얻는 예술적 인상을 강조합니다.",
+      "tags": [
+        "미술관",
+        "사진"
+      ],
+      "execution_techniques": [
+        "#감상몰입"
+      ],
+      "why": "시각적 기록물의 빈틈을 채우는 감각적 체험의 중요성을 알립니다.",
+      "depth": 0.95,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjdfMzUg/MDAxNzgyNTYyNjk5MDc5.345YZrw9lXIbOspsXHd4c8FuZYwCyWXxHzmpQn3L6sMg.v0ll0Ibl-8UBIbZnrZmomkiLLHO_CK4QgBsqgpuM0L0g.JPEG/900_20260627_141646.jpg?type=s3",
+      "pub_date": "2026-05-27T08:00:00.000000"
+    },
+    {
+      "title": "세 계절 만남의 공간, Celeste Asfour의 Strom 카페",
+      "content": "Celeste Asfour의 프로젝트 Strom은 카페 공간에서 놀이와 꿈의 만남을 융합하여 계절별로 새로운 경험을 제공합니다. 이에 사용된 디자인은 고객들에게 잠시나마 다른 세상을 경험할 수 있는 기회를 제공합니다.",
+      "url": "https://www.ignant.com/2026/04/20/strom-by-celeste-asfour-a-seasonal-cafe-where-reverie-meets-play/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Celeste Asfour",
+      "creator_insight": "카페 공간에서 매 계절 색다른 경험을 창출하여 일상 탈출을 제공합니다.",
+      "tags": [
+        "카페",
+        "계절"
+      ],
+      "execution_techniques": [
+        "#공간디자인"
+      ],
+      "why": "일상 생활에 변화를 제공하여 고객 경험을 크게 향상시킵니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/strom-clemens-poloczek-20-720x1081.jpg",
+      "pub_date": "2026-05-27T08:00:00.000000"
+    },
+    {
+      "title": "과거의 그림자, Elisa Capdevila의 대형 벽화",
+      "content": "Elisa Capdevila는 바르셀로나의 Talía 극장을 기념하며 그의 대형 벽화를 통해 지역의 문화적 역사를 강조합니다. 이 벽화는 당시 지역 사회의 기억을 살아나게 합니다.",
+      "url": "https://www.streetartbcn.com/mural-de-gran-formato-de-elisa-capdevila-en-homenaje-al-teatro-talia/",
+      "source": "Street Art Barcelona",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Elisa Capdevila",
+      "creator_insight": "문화적 상징성을 통해 잊혀질 수 없는 사회적 기억을 되살립니다.",
+      "tags": [
+        "벽화",
+        "기억"
+      ],
+      "execution_techniques": [
+        "#대형벽화"
+      ],
+      "why": "지역 사회의 기억을 예술로써 살아나게 하는 데 기여합니다.",
+      "depth": 0.95,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2026/05/670152598_18099558955964424_8244432673349426291_n.jpg",
+      "pub_date": "2026-05-27T08:00:00.000000"
+    },
+    {
+      "title": "Andrea Canepa 인터뷰: 신체적 지식을 게임판으로",
+      "content": "Andrea Canepa는 예술 공간을 신체적 경험의 게임판으로 변형하여 관람객과 상호작용하는 독특한 경험을 제공합니다. 그녀의 목표는 예술 작품과 사람 사이의 다리를 놓아주는 것입니다.",
+      "url": "https://www.berlinartlink.com/2026/07/28/bodily-knowledge-an-interview-with-andrea-canepa/",
+      "source": "Berlin Art Link",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Andrea Canepa",
+      "creator_insight": "신체와 예술의 연결을 통해 새로운 관람 방식을 제안합니다.",
+      "tags": [
+        "인터뷰",
+        "게임판"
+      ],
+      "execution_techniques": [
+        "#신체예술"
+      ],
+      "why": "예술 작품을 통해 관람객의 신체적 참여를 유도합니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-05-27T08:00:00.000000"
+    },
+    {
+      "title": "Kiyo Takeda, 도쿄를 푸르게 만드는 건축가",
+      "content": "Kiyo Takeda는 자연과의 조화를 중시하는 새로운 세대의 건축가로, 전통적 건축 개념을 바꾸고 있습니다. 그의 작업은 생태계와의 상호작용을 통해 지속 가능한 도시를 제안합니다.",
+      "url": "https://spoon-tamago.com/kiyo-takeda-the-architect-making-tokyo-green-again/?utm_source=rss&utm_medium=rss&utm_campaign=kiyo-takeda-the-architect-making-tokyo-green-again",
+      "source": "Spoon & Tamago",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Kiyo Takeda",
+      "creator_insight": "시간의 흐름에 따라 변화하는 건축물을 통해 자연과 건축의 조화를 추구합니다.",
+      "tags": [
+        "건축",
+        "자연"
+      ],
+      "execution_techniques": [
+        "#자연친화건축"
+      ],
+      "why": "시대를 초월하여 지속 가능한 건축의 접근방식을 제안합니다.",
+      "depth": 0.95,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/07/kiyo-takeda-tsuruoka-house-3-200x130.avif",
+      "pub_date": "2026-05-27T08:00:00.000000"
+    },
+    {
+      "title": "Niagara Falls: 워싱턴 국립 미술관의 전시회",
+      "content": "워싱턴 국립 미술관의 이번 전시회는 나이아가라 폭포의 역사적 층위를 탐구하며, 현대 미술 관점에서 폭포의 매력을 다시금 조명합니다.",
+      "url": "https://theartwolf.com/exhibitions/niagara-falls-nga-washington-2026/",
+      "source": "The Art Wolf",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "워싱턴 국립 미술관",
+      "creator_insight": "자연의 역사적, 문화적 가치를 현대 미술과 연결 짓습니다.",
+      "tags": [
+        "미술관",
+        "자연"
+      ],
+      "execution_techniques": [
+        "#전시기획"
+      ],
+      "why": "자연의 미적 가치와 역사적 변화를 알립니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
       "pub_date": "2026-05-27T08:00:00.000000"
     }
   ],
@@ -232,18 +316,33 @@
       "pub_date": "2026-05-27T08:00:00.000000"
     },
     {
-      "title": "새로운 스크래핑 방지 기술: Decoy Font",
-      "content": "Mixfont의 Decoy Font는 데이터 스크래핑을 방지하기 위해 개발된 혁신적 글꼴입니다.",
-      "url": "https://www.dezeen.com/2026/07/31/decoy-font-ai-mixfont/",
-      "source": "Dezeen",
+      "title": "베이징의 신비로운 향기 Le Labo 'SHIU 25'",
+      "content": "Le Labo가 베이징의 전통적 공간에 대한 오마주로 'SHIU 25' 향수를 선보였습니다.",
+      "url": "https://hypebeast.kr/2026/8/le-labo-shiu-25-eau-de-parfum-beijing-city-exclusive-collection-release-info",
+      "source": "Unknown Source",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "데이터보호"
+        "향수"
       ],
-      "why": "AI 시대에 맞춰 데이터 프라이버시 문제를 창의적으로 해결하는 기술입니다.",
+      "why": "베이징의 문화와 예술적 영감을 결합한 새로운 향수로 주목받고 있습니다.",
       "depth": 0.5,
-      "image": "https://static.dezeen.com/uploads/2026/07/decoy-font-mixfont-eric-lu-design_dezeen_2364_sq-852x852.jpg",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2Fle-labo-shiu-25-eau-de-parfum-city-exclusive-collection-release-info-000.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-05-27T08:00:00.000000"
+    },
+    {
+      "title": "최고의 컬렉션과 새로운 시선 'Convocatoria RavaleArt'",
+      "content": "RavaleArt는 바르셀로나의 Raval 지역을 아트와 교육적 소통으로 활성화하는 프로젝트입니다.",
+      "url": "https://www.streetartbcn.com/convocatoria-ravaleart-tercera-edicion/",
+      "source": "Street Art Barcelona",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "예술"
+      ],
+      "why": "지역사회를 활성화하고자 하는 예술 및 사회교육 프로젝트로 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2025/09/gY8hAfHQ.png",
       "pub_date": "2026-05-27T08:00:00.000000"
     }
   ],

@@ -7,8 +7,67 @@
     "considered": 40,
     "selected": 14
   },
-  "topPicks": [],
-  "popcorn": [],
+  "topPicks": [
+    {
+      "title": "세계적인 디자이너와 함께하는 창의적인 프로젝트",
+      "content": "세계적으로 유명한 디자이너가 참여한 최신 프로젝트는 혁신적이고 창의적인 디자인으로 주목받고 있습니다. 이 프로젝트는 고유한 스타일과 실험적인 기법을 통해 새로운 디자인 경계를 탐색하는 것을 목표로 합니다.",
+      "url": "http://example.com/article1",
+      "source": "Design Magazine",
+      "domain": "디자인",
+      "category": "리뷰",
+      "creator_name": "존 도",
+      "creator_insight": "이 디자이너는 과감한 색상 사용과 미래적인 소재 활용을 통해 독특한 미적 경험을 제공합니다.",
+      "tags": [
+        "디자인",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "#실험적디자인"
+      ],
+      "why": "이 작품은 전통적인 디자인의 경계를 넘어선 독창성을 보여줍니다.",
+      "depth": 0.95,
+      "image": "http://example.com/image1.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    },
+    {
+      "title": "미래의 아키텍처: 디지털 시대의 건축",
+      "content": "디지털 기술의 발전으로 건축의 개념이 혁신적으로 변화하고 있습니다. 이 기사는 환경에 적응하는 스마트 빌딩을 소개하며 지속가능한 미래를 위한 해결책을 제시합니다.",
+      "url": "http://example.com/article2",
+      "source": "Architecture Today",
+      "domain": "건축",
+      "category": "리뷰",
+      "creator_name": "제인 스미스",
+      "creator_insight": "디지털 혁신을 통해 건축은 더 이상 건물이 아니라 환경과 소통하는 유기체가 되었습니다.",
+      "tags": [
+        "건축",
+        "기술"
+      ],
+      "execution_techniques": [
+        "#디지털건축"
+      ],
+      "why": "이 글은 기술과 건축의 융합이 가져올 수 있는 잠재력을 잘 나타내고 있습니다.",
+      "depth": 0.95,
+      "image": "http://example.com/image2.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "바이럴 영상: 새로운 댄스 챌린지",
+      "content": "새로운 댄스 챌린지가 전 세계적으로 인기를 끌고 있습니다.",
+      "url": "http://example.com/popcorn1",
+      "source": "Social Buzz",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "댄스"
+      ],
+      "why": "이 챌린지는 다양한 문화권의 사람들이 참여하여 빠르게 확산되고 있습니다.",
+      "depth": 0.5,
+      "image": "http://example.com/popcorn1.jpg",
+      "pub_date": "2026-07-15T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

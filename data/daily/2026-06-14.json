@@ -7,9 +7,288 @@
     "considered": 64,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "WOSTOK의 카펫을 펼친 페트릭과 나탈리아 바지나",
+      "content": "베를린의 감독 나탈리아 바지나와 함께 페트릭은 독일 소프트드링크 브랜드 WOSTOK을 위해 스톱모션 카펫을 활용한 애니메이션 스타일을 확장했습니다.",
+      "url": "https://www.stashmedia.tv/petrick-natalia-bazina-roll-out-the-carpet-for-wostok/",
+      "source": "Unknown Source",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Natalia Bazina",
+      "creator_insight": "감독 바지나는 타이틀 애니메이션의 질감을 강조하여 관객들에게 시각적 임팩트를 제공합니다.",
+      "tags": [
+        "애니메이션",
+        "독일"
+      ],
+      "execution_techniques": [
+        "#스톱모션"
+      ],
+      "why": "한정된 소재로 강렬한 시각적 표현을 이끌어내는 혁신적인 방법론이 돋보입니다.",
+      "depth": 0.95,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/Petrick-Director-Natalia-Bazina-Roll-Out-the-Carpet-for-WOSTOK-STASH-MAGAZINE5.jpg",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    },
+    {
+      "title": "Versus, 레조네이트 설립자 니코 푸에르톨라노를 ECD로 임명",
+      "content": "Versus는 니코 푸에르톨라노를 새로운 창의적 총괄 감독으로 임명했습니다. 이는 레조네이트의 고객 포트폴리오가 Versus로 이전되는 것을 의미하며, 다양한 창작 역량을 확장합니다.",
+      "url": "https://motionographer.com/news/versus-appoints-rezonate-founder-nico-puertollano-as-ecd/",
+      "source": "Unknown Source",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Nico Puertollano",
+      "creator_insight": "페트롤라노는 디자인, 애니메이션, 브랜드 경험을 통합하여 보다 풍부하고 다채로운 이야기 전개를 가능하게 합니다.",
+      "tags": [
+        "브랜딩",
+        "애니메이션"
+      ],
+      "execution_techniques": [
+        "#창의적총괄"
+      ],
+      "why": "창의적 리더십을 통해 새로운 길을 여는 사례로, 다양한 분야의 통합을 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Nico-Puertollano-Versus-ECD-700x394.jpg",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    },
+    {
+      "title": "Luca Vitone, 산트엘레나로의 항해일지",
+      "content": "예술가 Luca Vitone은 엘바섬에서 출발하여 산트엘레나로 향하는 항해일지를 기록 중입니다. 이 여행은 예술 프로젝트인 Pro Tempore의 일환으로, 이는 곧 하나의 작품으로서의 의미를 지닙니다.",
+      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/viaggio-luca-vitone-pro-tempore-mare-diario/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Luca Vitone",
+      "creator_insight": "비토네는 여정을 통해 새로운 시각적 경험과 이야기를 창출합니다.",
+      "tags": [
+        "여행",
+        "예술"
+      ],
+      "execution_techniques": [
+        "#예술적항해"
+      ],
+      "why": "현실과 예술의 경계를 넘어선 창조적 시도를 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/img7274-scaled.jpeg",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    },
+    {
+      "title": "57가지 최고의 욕실 액세서리",
+      "content": "Architectural Digest의 에디터들이 인정한 최고급 욕실 액세서리로, 조각처럼 멋진 칫솔꽂이부터 유머가 담긴 휴지통까지 포진해 있습니다.",
+      "url": "https://www.architecturaldigest.com/story/best-bathroom-accessories",
+      "source": "architecturaldigest.com",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "Architectural Digest Editors",
+      "creator_insight": "에디터들이 추천하는 디자인 품목들이 품격있는 욕실 공간을 만듭니다.",
+      "tags": [
+        "욕실",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#정리정돈"
+      ],
+      "why": "일상적이지만 혁신적인 디자인 변화의 예시입니다.",
+      "depth": 0.95,
+      "image": "https://media.architecturaldigest.com/photos/68d42b946988e55aa3d597b3/master/pass/AD0921_HART_DN_6.jpg",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    },
+    {
+      "title": "철과 한지가 엮인 추억의 그릇",
+      "content": "서울 냉전 벙커 속에 설치된 한지로 감싸진 철골 구조는 고유의 정서를 담고 있습니다. 이는 추억의 그릇 역할을 하며, 관람객에게 새로운 시각적 경험을 제공합니다.",
+      "url": "https://www.designboom.com/art/steel-hanji-porous-vessel-memory-cold-war-bunker-seoul-checksy-choi-eotieum-the-ply-of-longing/",
+      "source": "Designboom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Checksy Choi",
+      "creator_insight": "최 작가는 전통적인 한지를 현대적 공간에 재해석하여 시간과 공간을 초월한 작품을 만듭니다.",
+      "tags": [
+        "설치미술",
+        "전통"
+      ],
+      "execution_techniques": [
+        "#한지"
+      ],
+      "why": "전통적 소재를 현대적 공간에 재해석한 점이 인상적입니다.",
+      "depth": 0.95,
+      "image": "https://www.designboom.com/wp-content/dbsub/467313/2026-07-30/inside-a-cold-war-bunker-checksy-choi-builds-a-vessel-that-never-arrives-1-6a6b1a40be534.jpg",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    },
+    {
+      "title": "기억하고픈 파리",
+      "content": "오랑주리 미술관은 프랑스 인상주의부터 현대 미술까지 아우르는 다양한 작품들을 소장하고 있습니다.",
+      "url": "https://blog.naver.com/justina75/224329083361?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "오랑주리 미술관",
+      "creator_insight": "미술관은 평화를 기원하는 클로드 모네의 수련 연작을 비롯해 여러 작가들의 명작을 전시하여 방문객들에게 깊은 인상을 남깁니다.",
+      "tags": [
+        "미술관",
+        "클로드 모네"
+      ],
+      "execution_techniques": [
+        "#미술전시"
+      ],
+      "why": "다양한 시대의 예술작품을 한 자리에서 볼 수 있는 특별한 기회입니다.",
+      "depth": 0.95,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjNfMjg3/MDAxNzgyMjI1NDcwMzg1.LoAlKN-brEWnjvBzejPPNVvo_ilOgUTcT9M0h2iSWKYg.awv_BpB8xf8oNAOBYOrGtXt4LWCNG6pl7L1Zvb7AaEMg.JPEG/900_1782225411090.jpg?type=s3",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    },
+    {
+      "title": "Kimi K3의 출시",
+      "content": "Kimi K3의 출시는 달에 도달할 준비가 되지 않은 이들에게 놓치지 말아야 할 순간을 제공합니다.",
+      "url": "https://designobserver.com/the-launch-of-kimi-k3/",
+      "source": "Design Observer",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Design Observer",
+      "creator_insight": "제품은 높은 목표를 설정하며 새로운 혁신적 디자인의 정점을 보여줍니다.",
+      "tags": [
+        "제품디자인",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "#첨단디자인"
+      ],
+      "why": "디자인과 기능이 조화를 이룬 혁신적 제품의 사례입니다.",
+      "depth": 0.95,
+      "image": "https://designobserver.com/wp-content/uploads/2026/06/f74c0862-d89c-73c3-33f8-d6c73568d083-2.png",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    },
+    {
+      "title": "가고시안 갤러리 바젤과 런던 지점 폐쇄",
+      "content": "메가 갤러리 가고시안은 바젤과 런던의 지점을 폐쇄했습니다. 이 폐쇄는 여름 동안 일어난 메가 갤러리의 부동산 축소의 일환입니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/31/gagosian-exits-locations-in-basel-and-londons-burlington-arcade",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Gagosian Gallery",
+      "creator_insight": "갤러리의 폐쇄는 예술 시장의 변화를 반영하며, 갤러리는 전 세계적 확장을 대신 새로운 운영 전략을 선택하고 있습니다.",
+      "tags": [
+        "갤러리",
+        "예술시장"
+      ],
+      "execution_techniques": [
+        "#운영전략"
+      ],
+      "why": "갤러리의 변화가 예술 시장에 미치는 영향을 여부합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/1be0fb1ea47160bb57b0ea3f19918c22ffef0397-3000x2206.jpg?w=140",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    },
+    {
+      "title": "9가지 최고의 이불커버",
+      "content": "AD 에디터들이 선정한 이불커버로, 침대 디스플레이에 끝없는 스타일링 영감을 제공합니다.",
+      "url": "https://www.architecturaldigest.com/story/best-duvet-covers-reviewed",
+      "source": "architecturaldigest.com",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "Architectural Digest Editors",
+      "creator_insight": "디자인은 침실의 아늑함과 세련미를 동시에 충족시킵니다.",
+      "tags": [
+        "침실",
+        "스타일링"
+      ],
+      "execution_techniques": [
+        "#아늑함"
+      ],
+      "why": "깊이 있는 디자인과 실용성을 갖춘 제품들이 강조됩니다.",
+      "depth": 0.95,
+      "image": "https://media.architecturaldigest.com/photos/69ab490490cd4f626fa81019/master/pass/02.04.2026_ArchDigest_SleepWeek6540%20copy%201_SQUARE.jpg",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    },
+    {
+      "title": "제로",
+      "content": "캔버스에 스프레이 페인트로 종합한 작품 Zero는 비어 있는 상태에서 시작하여 다양한 감정을 표현합니다.",
+      "url": "https://www.andrew-townsend.com/ZERO-1",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Andrew Townsend",
+      "creator_insight": "타운센드는 단순하지만 강렬한 색감과 형태를 통해 예술적 메시지를 전달합니다.",
+      "tags": [
+        "캔버스",
+        "스프레이 페인트"
+      ],
+      "execution_techniques": [
+        "#추상미술"
+      ],
+      "why": "캔버스 위에서 펼쳐지는 다양한 형태와 색채가 새로운 영감을 줍니다.",
+      "depth": 0.95,
+      "image": "https://payload.cargocollective.com/1/1/33015/8409409/prt_1408298610.jpg",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    },
+    {
+      "title": "Thom Browne의 아이코닉한 뉴욕 패션",
+      "content": "뉴욕 기반의 글로벌 패션 하우스인 Thom Browne은 4-바 스트라이프와 독창적인 맞춤 형 실루엣으로 잘 알려져 있습니다.",
+      "url": "https://hypebeast.kr/2026/8/new-arrivals-from-hbx-thom-browne-3",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Thom Browne",
+      "creator_insight": "스트라이프와 모노크롬을 활용하여 현대적인 아메리칸 유니폼 스타일을 제안합니다.",
+      "tags": [
+        "패션",
+        "테일러링"
+      ],
+      "execution_techniques": [
+        "#모노크롬"
+      ],
+      "why": "독창적인 실루엣과 구조를 바탕으로 패션의 경계를 확장합니다.",
+      "depth": 0.95,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2Fjersey-4-bar-knit-pocket-tee-navy-white-product-1-40b5d4ca_1785598382.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "사진 콘테스트, 기억하고픈 순간들",
+      "content": "하드코어 앨범 콘테스트에 참여해 우리들의 기억을 기록하세요.",
+      "url": "https://wepresent.wetransfer.com/stories/hardcore-prizedraw",
+      "source": "WePresent",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "사진"
+      ],
+      "why": "기발한 사진 콘테스트는 대중의 참여 열기를 촉진합니다.",
+      "depth": 0.5,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/190SOJ2iPVqily7o7y2TXJ/39522a394cb7dcad890950f193fa0f61/Espejo_EJC_STUDIOS-54.jpg",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    },
+    {
+      "title": "드라마틱한 DIELINE 어워드 마감",
+      "content": "DIELINE 어워드의 여름 입사 마감이 오늘 자정까지 진행됩니다.",
+      "url": "https://thedieline.com/dieline-awards-summer-entry-last-call/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "디자인",
+        "어워드"
+      ],
+      "why": "마감 직전의 긴장감은 대중의 호기심을 자극합니다.",
+      "depth": 0.5,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/da27-blog5-featured.jpg",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    },
+    {
+      "title": "아이디어 매거진 최신호 - 아이디어 No.414",
+      "content": "신간 아이디어 No.414가 발간되었습니다.",
+      "url": "https://www.idea-mag.com/idea_magazine/idea-no-414/",
+      "source": "IDEA Magazine",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "디자인"
+      ],
+      "why": "디자인 매거진의 풍부한 정보가 독자들의 흥미를 끕니다.",
+      "depth": 0.5,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2026/06/ef906f0a1a2396dd1dbb8c34fb215769-550x726.jpg",
+      "pub_date": "2026-06-14T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "문화",
     "타이포그래피",

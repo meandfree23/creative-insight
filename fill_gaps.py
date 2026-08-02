@@ -18,21 +18,8 @@ def load_sources():
     with open("data/sources.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
-# Hardcode the new spatial/tech sources to only fetch these for backfill
-BACKFILL_SOURCES = [
-    {"name": "Dezeen", "url": "https://www.dezeen.com/feed/", "category": "SPATIAL"},
-    {"name": "ArchDaily", "url": "https://www.archdaily.com/rss.xml", "category": "SPATIAL"},
-    {"name": "Frame Web", "url": "https://frameweb.com/rss", "category": "SPATIAL"},
-    {"name": "Yellowtrace", "url": "https://www.yellowtrace.com.au/feed/", "category": "SPATIAL"},
-    {"name": "Retail Design Blog", "url": "https://retaildesignblog.net/feed/", "category": "SPATIAL"},
-    {"name": "Smashing Magazine", "url": "https://www.smashingmagazine.com/feed/", "category": "UIUX"},
-    {"name": "UX Collective", "url": "https://uxdesign.cc/feed", "category": "UIUX"},
-    {"name": "Adweek", "url": "https://www.adweek.com/feed/", "category": "BRANDING"},
-    {"name": "UnderConsideration: Brand New", "url": "https://www.underconsideration.com/brandnew/index.xml", "category": "BRANDING"},
-    {"name": "The Drum", "url": "https://www.thedrum.com/rss", "category": "BRANDING"},
-    {"name": "Creative Applications", "url": "https://www.creativeapplications.net/feed/", "category": "TECH_ART"},
-    {"name": "80 Level", "url": "https://80.lv/rss", "category": "TECH_ART"}
-]
+# Use all sources to ensure we have enough articles
+BACKFILL_SOURCES = load_sources()
 
 DOMAIN_FALLBACKS = {
     "SPATIAL": [

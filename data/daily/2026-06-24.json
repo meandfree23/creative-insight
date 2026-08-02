@@ -7,9 +7,287 @@
     "considered": 616,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "터키에서 시리아 난민 소녀들의 삶을 카메라에 담다",
+      "content": "사진작가 오즈게 셉제지는 터키에서 시리아 난민 소녀들의 삶을 기록하며 그들이 겪는 고난과 희망을 진솔하게 전합니다.",
+      "url": "https://wepresent.wetransfer.com/stories/ozge-sebzeci-photography-i-am-beautiful-but-my-destiny",
+      "source": "WePresent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Özge Sebzeci",
+      "creator_insight": "사람들의 진솔한 순간을 포착하는 능력은 말로 설명할 수 없는 깊이를 제공합니다.",
+      "tags": [
+        "난민",
+        "사진"
+      ],
+      "execution_techniques": [
+        "다큐멘터리"
+      ],
+      "why": "사회적 메시지를 강렬하게 전하는 작품입니다.",
+      "depth": 0.95,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/6UFgjdnxtlUv24ebQYkSjK/c9813cd1907d3f7e543541881b1ca63d/Sebzeci_09.jpg",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    },
+    {
+      "title": "컬러로 회상에 젖다: 셔윈-윌리엄스 2027 컬러 예측",
+      "content": "셔윈-윌리엄스의 트렌드 예측가들은 기쁨을 위한 디자인에 중점을 두면서 색상의 힘을 강조합니다.",
+      "url": "https://www.architecturaldigest.com/story/the-sherwin-williams-colormix-2027-forecast",
+      "source": "Architectural Digest",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "Sherwin-Williams",
+      "creator_insight": "컬러는 공간의 감정과 분위기를 바꿀 수 있는 중요한 요소입니다.",
+      "tags": [
+        "예술",
+        "컬러"
+      ],
+      "execution_techniques": [
+        "컬러 예측"
+      ],
+      "why": "색상의 활용은 공간 디자인에서의 중요성을 다시금 상기시킵니다.",
+      "depth": 0.95,
+      "image": "https://media.architecturaldigest.com/photos/6a6cb3edd68634fbf7b370ef/master/pass/202603-sw-colormix-2027-reconnect-living-room-hero-cmyk.png",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    },
+    {
+      "title": "베니스에서의 고흐: 대사관의 숨겨진 보물",
+      "content": "윈필드 하우스는 영국 주재 미국 대사관저로, 그곳에서는 고흐의 위대한 작품들이 전시되어 있습니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/31/these-us-ambassadors-have-displayed-van-goghs-in-their-london-residencewill-donald-trumps-pick-for-the-job-do-the-same",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Vincent van Gogh",
+      "creator_insight": "고전 작품의 배치는 공간의 품격을 한층 더 높여줍니다.",
+      "tags": [
+        "미술",
+        "고전"
+      ],
+      "execution_techniques": [
+        "작품 전시"
+      ],
+      "why": "고전 미술의 매력을 새로운 시각으로 만나볼 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/256ef2ccc2de1ac74000c950ad13a0e09ca1e4f7-649x764.png?w=140",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    },
+    {
+      "title": "아이코닉한 아이데아 매거진: 아이디어 No.411",
+      "content": "일본의 권위 있는 디자인 매거진 IDEA는 혁신적인 디자인을 소개하며 독자들에게 새로운 영감을 제공합니다.",
+      "url": "https://www.idea-mag.com/idea_magazine/no-411/",
+      "source": "IDEA Magazine",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "IDEA Magazine",
+      "creator_insight": "디자인은 문화와 기술을 연결하는 강력한 매개체입니다.",
+      "tags": [
+        "디자인",
+        "잡지"
+      ],
+      "execution_techniques": [
+        "콘셉트 개발"
+      ],
+      "why": "새로운 디자인 트렌드를 탐구할 수 있는 중요한 리소스입니다.",
+      "depth": 0.95,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2025/09/19a03b83e25b7ecde9b402482cf4b2ad-550x726.jpg",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    },
+    {
+      "title": "건축적 포인트를 중점으로 한 아얄라 커피 디자인",
+      "content": "아얄라 커피 코.의 브랜딩은 구조적인 타이포그래피와 포장 설계를 통해 고급스러운 시각적 정체성을 확립합니다.",
+      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
+      "source": "Abduzeedo",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Alex Aperios",
+      "creator_insight": "패키징 디자인은 브랜드의 첫인상을 결정짓는 주요 요소입니다.",
+      "tags": [
+        "브랜딩",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "타이포그래피"
+      ],
+      "why": "브랜딩의 중요성을 강조하고 소비자 경험을 혁신합니다.",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    },
+    {
+      "title": "구조적 디자인의 미학: 남원 학당 인테리어",
+      "content": "남원의 학당은 구조적 설계를 통해 모던함과 전통적인 요소를 혼합하여 매력적인 공간을 생성합니다.",
+      "url": "https://www.designtwoply.com/planning/%ed%85%8c%ec%8a%a4%ed%8a%b8-%ea%b8%b0%ed%9a%8d%ec%84%a4%ea%b3%84-%ec%83%98%ed%94%8c-%ec%82%ad%ec%a0%9c%ed%95%b4%eb%8f%84-%eb%90%a8/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2585%258c%25ec%258a%25a4%25ed%258a%25b8-%25ea%25b8%25b0%25ed%259a%258d%25ec%2584%25a4%25ea%25b3%2584-%25ec%2583%2598%25ed%2594%258c-%25ec%2582%25ad%25ec%25a0%259c%25ed%2595%25b4%25eb%258f%2584-%25eb%2590%25a8",
+      "source": "디자인투플라이",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "전통과 현대의 조화는 공간의 부가 가치를 높입니다.",
+      "tags": [
+        "인테리어",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "구조적 디자인"
+      ],
+      "why": "현대적 감각과 전통적 요소의 결합은 영감을 줄 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2026/07/planning-cover.jpg",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    },
+    {
+      "title": "Neues in Neubar: 스파이시 카푸치노의 노래",
+      "content": "독일 신진 바리스타들이 카페에서 새로운 메뉴인 스파이시 카푸치노를 개발하여 커피 문화를 새롭게 창조하고 있습니다.",
+      "url": "https://decoist.com/spicy-cappuccino-recipe/",
+      "source": "Decoist",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "커피의 풍미는 강화된 조합을 통해 새롭게 경험될 수 있습니다.",
+      "tags": [
+        "커피",
+        "레시피"
+      ],
+      "execution_techniques": [
+        "커피 배합"
+      ],
+      "why": "커피 문화의 확장을 보여주는 혁신적인 시도입니다.",
+      "depth": 0.95,
+      "image": "https://decoist.com/spicy-cappuccino.jpg",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    },
+    {
+      "title": "HUMTTO: 해변과 트레킹에서 완벽한 신발",
+      "content": "HUMTTO의 신발은 트레킹과 바다에서 최적의 수분 배출 성능을 제공하며, 다양한 환경에서도 탁월한 착용감을 보장합니다.",
+      "url": "https://humtto.vn/giay-sandal-di-bien-trekking-thoat-nuoc-nhanh-nam-humtto-771222a/",
+      "source": "Humtto Vietnam",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "HUMTTO",
+      "creator_insight": "다양한 조건에서도 안정성을 제공하는 디자인이 중요합니다.",
+      "tags": [
+        "신발",
+        "트레킹"
+      ],
+      "execution_techniques": [
+        "제품 디자인"
+      ],
+      "why": "액티브 라이프스타일을 지원하는 실용적 디자인입니다.",
+      "depth": 0.95,
+      "image": "https://humtto.vn/wp-content/uploads/2026/05/giay-humtto-771222-2.png",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    },
+    {
+      "title": "제로 웨이스트 피크닉: 지속 가능성의 새로운 경향",
+      "content": "프랑스의 한 디자이너가 지속 가능성을 강조하며 완전한 제로 웨이스트 피크닉 세트를 개발했습니다.",
+      "url": "https://zerowaste.eu/picnic/",
+      "source": "Zero Waste France",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "소비를 줄이고 환경을 아끼기 위한 방법이 더욱 혁신적이 되고 있습니다.",
+      "tags": [
+        "환경",
+        "지속 가능성"
+      ],
+      "execution_techniques": [
+        "지속 가능한 디자인"
+      ],
+      "why": "환경 지킴의 실천은 디자인의 새로운 기준이 되어가고 있습니다.",
+      "depth": 0.95,
+      "image": "https://zerowaste.eu/picnic-set.jpg",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    },
+    {
+      "title": "소셜 미디어 시대의 예술 키워드",
+      "content": "작품 구매자가 사용하는 키워드를 찾고 관리하는 세 가지 방법을 통해 검색 최적화 기법을 소개합니다.",
+      "url": "https://veryprivategallery.com/art-keywords/",
+      "source": "Very Private Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Greg Bot",
+      "creator_insight": "검색 최적화를 통해 예술 작품의 가시성을 높이는 것이 중요합니다.",
+      "tags": [
+        "SEO",
+        "예술"
+      ],
+      "execution_techniques": [
+        "디지털 마케팅"
+      ],
+      "why": "아티스트의 작품을 널리 알리기 위한 필수적인 가이드입니다.",
+      "depth": 0.95,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2026/06/art-keywords.jpg",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    },
+    {
+      "title": "포토샵 브러쉬의 모든 것",
+      "content": "브러쉬 설치 및 관리에 관한 포토샵 강좌로, 초보자들도 브러쉬를 손쉽게 다룰 수 있는 방법을 소개합니다.",
+      "url": "https://graymonster.tistory.com/85",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "포토샵은 그래픽 작업의 툴킷으로, 브러쉬의 활용은 그 폭을 넓혀줍니다.",
+      "tags": [
+        "디지털 아트",
+        "포토샵"
+      ],
+      "execution_techniques": [
+        "디지털 도구"
+      ],
+      "why": "그래픽 디자이너에게 필수적인 정보와 기술입니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/9965A43359E3523829",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "예술 비즈니스 어워드 2026 공모",
+      "content": "예술과 비즈니스를 연결하는 새로운 가능성을 모색하는 2026 공모전이 시작되었습니다.",
+      "url": "https://www.adfwebmagazine.jp/en/art/art-business-award-2026-calls-for-entries/",
+      "source": "ADF Web Magazine",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "공모전"
+      ],
+      "why": "예술과 비즈니스의 융합을 통해 새로운 기회를 제공하는 공모전입니다.",
+      "depth": 0.5,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-art-biz-award-2026-300x68.jpg",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    },
+    {
+      "title": "MONSTER 2021.10.03",
+      "content": "몬스터 프로젝트의 사진이 공개되었습니다.",
+      "url": "https://blog.naver.com/jujukey/222855893284?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "프로젝트"
+      ],
+      "why": "흥미로운 프로젝트 사진으로 시선을 끕니다.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyMjA4MjNfMjY2/MDAxNjYxMjI2NTc4MDM0.KH48WA_louBL1WceB2w5oC-xUqiAkslNQkfZTEVS168g.Ks9eIvA95Qt5_w_INeQtiarRtduFAk_hqO8ncfxxT10g.JPEG.jujukey/1633243036638.jpg?type=s3",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    },
+    {
+      "title": "포토샵 브러쉬 강의",
+      "content": "브러쉬 활용에 관한 자세한 포토샵 강좌가 제공됩니다.",
+      "url": "https://graymonster.tistory.com/85",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "강좌"
+      ],
+      "why": "포토샵 브러쉬 사용에 대한 실용적인 정보입니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/9965A43359E3523829",
+      "pub_date": "2026-06-24T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "감정",
     "패션",

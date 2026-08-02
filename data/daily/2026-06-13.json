@@ -7,9 +7,152 @@
     "considered": 65,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "콘버스 레더 '삼바', 스타일리쉬하면서도 스케이트 가능!",
+      "content": "콘버스에서는 새로운 로드 클래식 SK PA OX 모델을 세련된 가죽으로 선보입니다. 스타일리쉬한 스케이트화를 자세히 소개합니다.",
+      "url": "https://www.highsnobiety.com/p/converse-road-classic-sk-pa-ox/",
+      "source": "Highsnobiety",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Converse",
+      "creator_insight": "콘버스는 클래식한 스타일과 기능성을 결합한 디자인으로 스케이트 문화에 새로운 바람을 불어넣습니다.",
+      "tags": [
+        "스니커즈",
+        "패션"
+      ],
+      "execution_techniques": [
+        "#레더"
+      ],
+      "why": "콘버스의 신제품은 전통적이면서도 현대적인 스타일을 찾아주는 동시에 스케이트 보드 기능까지 고려하여 주목받고 있습니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-06-13T08:00:00.000000"
+    },
+    {
+      "title": "이케아의 이동형 가구, 현대 도시 생활에 적합한 선택",
+      "content": "이케아의 'Kompishäng' 컬렉션은 접을 수 있고 초경량인 디자인으로, 도시에서의 임대 생활을 위한 실용적인 해결책을 제공합니다.",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/ikea-kompishang-collection-portable-furniture",
+      "source": "Wallpaper*",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "IKEA",
+      "creator_insight": "이케아는 지속 가능한 도시 생활에 최적화된 가구 디자인을 통해 사용자의 편리함과 효율성을 강조합니다.",
+      "tags": [
+        "가구",
+        "이동형"
+      ],
+      "execution_techniques": [
+        "#모듈러디자인"
+      ],
+      "why": "도시 거주자들에게 더 나은 삶의 질을 제공하며 환경 보호까지 고려한 이케아의 가구 디자인은 실제 사용자 중심의 접근성을 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/7AJgN9NRt6ED4tfcboYkok-1280-80.png",
+      "pub_date": "2026-06-13T08:00:00.000000"
+    },
+    {
+      "title": "Tadashi Kawamata, 자연과의 대화를 이끌다",
+      "content": "Tadashi Kawamata는 자연과의 대화를 통해 예술과 환경을 재결합하는 최신 프로젝트를 통해 창의적인 환경 의식을 고취시킵니다.",
+      "url": "https://www.ignant.com/2026/04/29/tadashi-kawamata-leads-ruinarts-latest-conversation-with-nature/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Tadashi Kawamata",
+      "creator_insight": "Kawamata는 환경 예술을 통해 예술의 사회적 가치를 높이며 자연과의 조화로운 상호작용을 보여줍니다.",
+      "tags": [
+        "환경",
+        "재활용"
+      ],
+      "execution_techniques": [
+        "#지속가능성"
+      ],
+      "why": "Tadashi Kawamata의 프로젝트는 예술을 통해 자연과 새로운 대화를 제안하며, 환경 문제에 대한 예술적 경각심을 불러일으킵니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/kv-cmjn-a4-horiz-hd-720x509.jpg",
+      "pub_date": "2026-06-13T08:00:00.000000"
+    },
+    {
+      "title": "수채화 브러쉬 팩 무료 배포",
+      "content": "새로 제작된 수채화 브러쉬 팩을 무료로 제공합니다. 사용자는 이 브러쉬팩을 활용하여 자유롭게 창작작업을 할 수 있습니다.",
+      "url": "https://graymonster.tistory.com/92",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "미상",
+      "creator_insight": "사용자가 창의적인 작업에 활용할 수 있도록 무료로 제공되는 리소스입니다.",
+      "tags": [
+        "수채화",
+        "그래픽디자인"
+      ],
+      "execution_techniques": [
+        "#Photoshop"
+      ],
+      "why": "그래픽 아티스트들과 디자이너들에게 유용한 리소스를 무료로 제공하여 커뮤니티에 긍정적인 영향을 미칩니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/99F6E9445AC414A11A",
+      "pub_date": "2026-06-13T08:00:00.000000"
+    },
+    {
+      "title": "품격 있는 최고급 주얼리 사진",
+      "content": "Jana Anhalt는 주얼리 및 고급 시계 촬영에 뛰어난 전문성을 발휘하며, 글로벌 주얼리 메종과 협업하여 정교한 이미지 콘텐츠를 창조합니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/jana-anhalt-64432.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Jana Anhalt",
+      "creator_insight": "빛을 뛰어난 방식으로 활용하여 주얼리의 세부 사항과 장인 정신을 차별화되게 보여줍니다.",
+      "tags": [
+        "주얼리",
+        "사진"
+      ],
+      "execution_techniques": [
+        "#상업사진"
+      ],
+      "why": "시각 예술을 통해 고급 주얼리의 숨은 장인 정신을 부각시키며, 시각적 미학을 뛰어난 수준으로 끌어올립니다.",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94206/newsletter/swiss-pearls-70-copy.jpg",
+      "pub_date": "2026-06-13T08:00:00.000000"
+    },
+    {
+      "title": "루버나트와 자연, 타다시 카와마타의 대화",
+      "content": "이번 프로젝트에서 루버나트는 타다시 카와마타와 함께 환경 예술을 새롭게 해석하여 자연과의 공생을 탐구합니다.",
+      "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Ruinart, Tadashi Kawamata",
+      "creator_insight": "전시 공간과 자연을 재구성하여 예술의 새 가능성을 실험합니다.",
+      "tags": [
+        "환경 예술",
+        "설치"
+      ],
+      "execution_techniques": [
+        "#공공예술"
+      ],
+      "why": "타다시 카와마타의 작품은 지속 가능한 예술적 대화를 가능케 하며, 예술과 환경 보호의 결합을 제안합니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/06/ignant-carolin-ruggaber-clemens-poloczek-1-720x1079.jpg",
+      "pub_date": "2026-06-13T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "무료 수채화 브러쉬 팩 소개",
+      "content": "새로 개발된 수채화 브러쉬 팩이 무료로 배포되며, 다양한 창작 작업에 활용 가능성을 제시합니다.",
+      "url": "https://graymonster.tistory.com/92",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "브러쉬팩"
+      ],
+      "why": "무료 리소스를 제공하는 방법은 디지털 아티스트들에게 큰 도움이 되며, 창의적인 커뮤니티에 활발한 참여를 유도합니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/99F6E9445AC414A11A",
+      "pub_date": "2026-06-13T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "예술",
     "참여형",

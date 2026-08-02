@@ -7,9 +7,288 @@
     "considered": 78,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "포토북 페어 글로벌 가이드: 전 세계 70개 이상의 이벤트",
+      "content": "주요 국제 페스티벌부터 독립 출판 모임까지, 사진작가, 출판사, 수집가 및 책 애호가를 연결하는 70개 이상의 포토북 페어를 소개합니다.",
+      "url": "https://www.lensculture.com/articles/lensculture-editors-the-global-guide-to-photobook-fairs-70-events-around-the-world",
+      "source": "lensculture.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "LensCulture 편집자",
+      "creator_insight": "국제 포토북 커뮤니티의 다채로운 세계를 엿볼 수 있는 기회입니다.",
+      "tags": [
+        "포토북",
+        "페어"
+      ],
+      "execution_techniques": [
+        "#포토그래피"
+      ],
+      "why": "이 가이드는 포토그래피 분야에서 어떤 이벤트에 주목해야 할지 알려주는 훌륭한 자료입니다.",
+      "depth": 0.95,
+      "image": "https://images.lensculture.com/image/ee1f4a5d-71ec-4cfe-84f8-70d9592b4b00/large",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    },
+    {
+      "title": "자신의 목소리를 찾는 것이 바이럴보다 느리지만 가치 있다고 말하는 디자이너 Guillermo Flores Pacheco",
+      "content": "Guillermo Flores Pacheco는 Adobe, Apple 등과 같은 대기업 프로젝트를 맡은 독특한 일러스트레이션 스타일을 가지고 있습니다.",
+      "url": "https://designobserver.com/finding-your-voice-is-slower-than-going-viral-but-its-worth-it-says-designer-guillermo-flores-pacheco/",
+      "source": "Design Observer",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Guillermo Flores Pacheco",
+      "creator_insight": "자신의 스타일을 찾는 과정이 중요함을 강조합니다.",
+      "tags": [
+        "디자인",
+        "일러스트레이션"
+      ],
+      "execution_techniques": [
+        "#인디비주얼디자인"
+      ],
+      "why": "자신의 스타일 발견과 정체성을 확립하는 과정을 이해할 수 있는 유익한 사례입니다.",
+      "depth": 0.95,
+      "image": "https://designobserver.com/wp-content/uploads/2026/07/3bfa1057665325.59de8a675a9d9-1024x469.webp",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    },
+    {
+      "title": "우주의 공포가 애니메 픽셀 아트 스타일로 표현된 RPG",
+      "content": "괴물들이 이상하게도 귀엽다.",
+      "url": "https://80.lv/articles/this-rpg-brings-cosmic-horror-to-an-anime-pixel-art-style/",
+      "source": "80 Level",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "80 Level",
+      "creator_insight": "픽셀 아트를 통해 우주의 공포를 매력적으로 재현하였습니다.",
+      "tags": [
+        "RPG",
+        "코스믹 호러"
+      ],
+      "execution_techniques": [
+        "#픽셀아트"
+      ],
+      "why": "픽셀 아트가 공포감을 주는 독특한 방식을 제안한다는 점이 흥미롭습니다.",
+      "depth": 0.95,
+      "image": "https://cdn.80.lv/api/upload/post/41102/images/6a6d28bb70eaf/cover_800x800.jpg",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    },
+    {
+      "title": "세상에 하나뿐인 예술가 웹사이트 만들기 가이드",
+      "content": "예술가의 웹사이트는 작품을 포트폴리오로 보여줍니다. 잘 구성된 웹사이트는 온라인 예술 사업의 기초가 됩니다.",
+      "url": "https://veryprivategallery.com/website-for-artists/",
+      "source": "Very Private Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Greg Bot",
+      "creator_insight": "예술가가 자신의 작품을 최상의 방식으로 보여줄 수 있는 방법에 관한 유용한 팁들을 제공합니다.",
+      "tags": [
+        "웹사이트",
+        "예술"
+      ],
+      "execution_techniques": [
+        "#아트비즈니스"
+      ],
+      "why": "작가들이 자신의 플랫폼을 구축하는 데 필수적인 정보를 제공하는 유용한 가이드입니다.",
+      "depth": 0.95,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2026/05/website-for-artists-header.jpg",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    },
+    {
+      "title": "인도의 수공예 전통을 지키고자 하는 Ashiesh Shah의 글로벌 비전",
+      "content": "뭄바이에 기반을 둔 건축가이자 디자이너인 Ashiesh Shah는 인도의 수작업 전통과의 일생에 걸친 대화를 이야기합니다.",
+      "url": "https://www.wallpaper.com/design-interiors/ashiesh-shah-profile",
+      "source": "Wallpaper*",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Ashiesh Shah",
+      "creator_insight": "전통과 현대 디자인을 아우르는 그의 작품들이 인도의 문화 유산을 보존하고자 하는 열망을 전합니다.",
+      "tags": [
+        "인도",
+        "수공예"
+      ],
+      "execution_techniques": [
+        "#문브라크"
+      ],
+      "why": "전통적인 요소를 현대적인 디자인에 통합하는 그의 접근법이 독창적입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/iVD7DUrqfxs98xXSiA9pa-1280-80.png",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    },
+    {
+      "title": "LCDC 서울 리빙 디자인 페어 2026",
+      "content": "LCDC 서울 팝업 스토어는 커피, 음식, 미디어 아트를 하나의 브랜드 테마 아래 결합한 몰입형 브랜드 경험입니다.",
+      "url": "https://www.behance.net/gallery/253530683/LCDC-SEOUL-LIVING-DESIGN-FAIR-2026",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "STUDIO OKGO",
+      "creator_insight": "하나의 브랜드 아래 다양한 요소를 결합해 독특한 경험을 창출합니다.",
+      "tags": [
+        "디자인",
+        "서울"
+      ],
+      "execution_techniques": [
+        "#브랜드체험"
+      ],
+      "why": "이 팝업 스토어는 다양한 미디어를 활용한 브랜드 경험의 새로운 가능성을 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/ad7b4c253530683.Y3JvcCwxMTU2LDkwNCwyMiwyMjM.jpg",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    },
+    {
+      "title": "‘백지 작업의 중요성: 오늘날의 창작자가 Ken White로부터 배울 수 있는 것’",
+      "content": "Richard Branson이 '우리 시대 가장 창의적인 예술가 중 하나'로 칭찬한 Ken White는 Virgin의 가장 유명한 이미지를 그렸지만 서명을 하지 않았습니다.",
+      "url": "https://www.creativeboom.com/insight/the-case-for-anonymous-work-what-todays-creatives-can-learn-from-ken-white/",
+      "source": "Creative Boom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Ken White",
+      "creator_insight": "서명을 남기지 않았음에도 불구하고 그의 작품은 불멸의 가치를 지닙니다.",
+      "tags": [
+        "익명 작업",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "#익명성"
+      ],
+      "why": "예술가가 서명 없이 작품을 통해 어떻게 강한 인상을 남길 수 있는지를 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://www.creativeboom.com/upload/articles/3e/3e1550b66a93860a5e0f93d3d96866e38a407904_840.png",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    },
+    {
+      "title": "An Interview with Surreal Salon 18 Winner, River Reishi",
+      "content": "Surreal Salon 18의 수상자인 River Reishi와의 인터뷰를 통해 그녀의 작품과 역사를 탐구합니다.",
+      "url": "https://www.juxtapoz.com/news/magazine/an-interview-with-surreal-salon-18-winner-river-reishi/",
+      "source": "Juxtapoz",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "River Reishi",
+      "creator_insight": "River Reishi의 작품은 환상적이며 개인의 독창성을 강조합니다.",
+      "tags": [
+        "Surreal Salon",
+        "River Reishi"
+      ],
+      "execution_techniques": [
+        "#초현실주의"
+      ],
+      "why": "Surreal Salon의 독창성과 예술적 깊이를 엿볼 수 있는 인터뷰입니다.",
+      "depth": 0.95,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/6b90b91f4265eadcab1e922039e8155d_L.jpg",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    },
+    {
+      "title": "2s.design의 말 흡입 마스크, 수의학 기술과 자연 형태 언어를 융합",
+      "content": "equihero는 호흡 치료 중인 말을 위해 디자인된 해부학적 흡입 마스크입니다.",
+      "url": "https://www.designboom.com/readers/2s-design-horse-inhalation-mask-veterinary-technology-natural-form-language-equihero/",
+      "source": "Designboom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "2s.design",
+      "creator_insight": "기술과 자연의 융합을 통해 혁신적인 디자인을 실현합니다.",
+      "tags": [
+        "수의학",
+        "자연 디자인"
+      ],
+      "execution_techniques": [
+        "#디자인혁신"
+      ],
+      "why": "독창적인 형태 언어와 기술적 발전을 결합한 점이 주목할 만합니다.",
+      "depth": 0.95,
+      "image": "https://www.designboom.com/wp-content/dbsub/411584/2026-07-30/2s-design-develops-equihero-anatomical-inhalation-masks-shaped-by-more-than-human-design-principles-2-6a6b24d9c2c7d.gif",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    },
+    {
+      "title": "내용이 없는 예술과 비즈니스: 오늘날의 창작자들이 Ken White로부터 배울 수 있는 교훈",
+      "content": "Ken White는 Virgin의 가장 유명한 이미지를 그린 예술가로서 유명합니다. Richard Branson에 의해 '우리 시대의 가장 창의적인 예술가 중 하나'로 불렸습니다.",
+      "url": "https://www.creativeboom.com/insight/the-case-for-anonymous-work-what-todays-creatives-can-learn-from-ken-white/",
+      "source": "Creative Boom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Ken White",
+      "creator_insight": "서명을 남기지 않은 그의 작업은 익명성이 예술에 미치는 영향을 고려하게 만듭니다.",
+      "tags": [
+        "익명성",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "#인디비주얼디자인"
+      ],
+      "why": "이 사례는 개인의 서명을 넘어서 어떻게 주목받을 수 있는지에 대한 통찰을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://www.creativeboom.com/upload/articles/3e/3e1550b66a93860a5e0f93d3d96866e38a407904_840.png",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    },
+    {
+      "title": "아트와 비즈니스의 결합, 사유의 세계",
+      "content": "예술가 Ken White는 Virgin의 대표 이미지를 그린 훌륭한 창작자로, 그의 작업을 통해 익명성이 가진 힘을 보여줍니다.",
+      "url": "https://www.creativeboom.com/insight/the-case-for-anonymous-work-what-todays-creatives-can-learn-from-ken-white/",
+      "source": "Creative Boom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Ken White",
+      "creator_insight": "본인의 서명을 남기지 않고도 강력한 예술적 메시지를 전달할 수 있는 가능성을 제안합니다.",
+      "tags": [
+        "익명성",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#아이콘"
+      ],
+      "why": "익명성이 예술가에게 미치는 영향을 탐구할 수 있는 좋은 사례입니다.",
+      "depth": 0.95,
+      "image": "https://www.creativeboom.com/upload/articles/3e/3e1550b66a93860a5e0f93d3d96866e38a407904_840.png",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "게임에 담긴 우주의 귀여운 공포",
+      "content": "우주의 공포를 픽셀 아트로 귀엽게 표현한 RPG 게임이 기대됩니다.",
+      "url": "https://80.lv/articles/this-rpg-brings-cosmic-horror-to-an-anime-pixel-art-style/",
+      "source": "80 Level",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "게임"
+      ],
+      "why": "픽셀 아트 스타일로 공포를 귀엽게 표현한 점이 주목됩니다.",
+      "depth": 0.5,
+      "image": "https://cdn.80.lv/api/upload/post/41102/images/6a6d28bb70eaf/cover_800x800.jpg",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    },
+    {
+      "title": "레트로 게임에서 로봇과 종양의 이야기를 탐구하다",
+      "content": "사토시 콘의 작품에서 영감을 받은 레트로 LCD 게임입니다.",
+      "url": "https://80.lv/articles/this-retro-lcd-game-will-have-you-playing-as-a-robot-and-its-tumor/",
+      "source": "80 Level",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "레트로",
+        "게임"
+      ],
+      "why": "레트로 게임 스타일로 흥미로운 이야기 전개가 기대됩니다.",
+      "depth": 0.5,
+      "image": "https://cdn.80.lv/api/upload/post/41101/images/6a6d0f15280ec/cover_800x800.jpg",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    },
+    {
+      "title": "Sam Neill에 대한 회상",
+      "content": "Sam Neill이 남긴 작품들과 그의 영화 상 자취를 되돌아봅니다.",
+      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
+      "source": "Filmmaker Magazine",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "영화"
+      ],
+      "why": "Sam Neill의 영화 역사와 그의 작품이 큰 영향을 미쳤음을 기억합니다.",
+      "depth": 0.5,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
+      "pub_date": "2026-06-17T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "개인사",
     "애니메이션",

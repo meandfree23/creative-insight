@@ -7,7 +7,239 @@
     "considered": 34,
     "selected": 12
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "BKV 소매 점포 및 갤러리 폐점",
+      "content": "바이에른 예술 및 공예 협회의 소매 점포와 갤러리, 그리고 Galerie Handwerk는 예술 및 공예 분야의 중요한 지점을 담당하고 있습니다. 이제 BKV의 이사회는 큰 유감 속에 이 위치의 폐점을 발표했습니다.",
+      "url": "https://artaurea.com/2026/bkv-closes-retail-store-and-gallery/",
+      "source": "Art Aurea",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Ulrich Sanberger",
+      "creator_insight": "예술과 공예의 중심지로 의미있는 자리를 유지해 왔습니다.",
+      "tags": [
+        "예술",
+        "갤러리"
+      ],
+      "execution_techniques": [
+        "#예술"
+      ],
+      "why": "예술 산업에 큰 영향을 미칠 중대한 소식입니다.",
+      "depth": 0.95,
+      "image": "https://artaurea.com/wp-content/uploads/2026/07/BKV_UlrichSanberger_175Expo_ArtAurea.jpg",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    },
+    {
+      "title": "악마는 프라다를 입는다 2, 자신이 무엇이어야 하는지 정확히 안다",
+      "content": "데이비드 프랭켈 감독과 작가 알라인 브로시 매케나는 <악마는 프라다를 입는다>의 속편으로 미디어 업계의 변화를 조명하며 강력하고 대담한 이야기를 선보입니다. 이 영화는 디지털 시대 미디어 환경에서의 도전과 인간 관계의 복잡성을 다룹니다.",
+      "url": "https://hypebeast.kr/2026/8/the-devil-wears-prada-2-understands-exactly-what-it-needs-to-be",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "David Frankel",
+      "creator_insight": "현대 미디어 산업의 도전을 재치 있게 그려냅니다.",
+      "tags": [
+        "영화",
+        "시퀄"
+      ],
+      "execution_techniques": [
+        "#디지털미디어"
+      ],
+      "why": "현대 사회의 미디어 환경을 적절히 반영한 작품입니다.",
+      "depth": 0.95,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2Fthe-devil-wears-prada-2-understands-exactly-what-it-needs-to-be-1.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    },
+    {
+      "title": "전자예술, 550억 달러 규모 비상장 전환 인수 마무리",
+      "content": "Electronic Arts는 사우디아라비아의 Public Investment Fund와 Silver Lake 및 Affinity Partners가 주도한 550억 달러 규모의 인수를 최종 마무리하여 비상장 기업으로 전환합니다.",
+      "url": "https://hypebeast.kr/2026/8/electronic-arts-finalize-55-billion-usd-go-private-acquisition-saudi-arabia-pif-silver-lake-affinity",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Andrew Wilson",
+      "creator_insight": "게임 산업의 거대한 변화와 그 여파를 의미합니다.",
+      "tags": [
+        "게임",
+        "인수합병"
+      ],
+      "execution_techniques": [
+        "#기업전략"
+      ],
+      "why": "게임업계의 역사적인 변화의 순간을 포착합니다.",
+      "depth": 0.95,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2Felectronic-arts-finalize-55-billion-usd-go-private-acquisition-saudi-arabia-pif-silver-lake-affinity-000.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    },
+    {
+      "title": "No Picnic, 필름포럼의 색다른 연출",
+      "content": "Phil Hartman 감독은 1985년, Great Jones Cafe의 수익으로 그의 첫 장편 영화인 <No Picnic>을 촬영했습니다. 흑백 16mm 필름으로 찍힌 이 영화는 뉴욕의 한가운데를 배경으로 한 재치있는 셰기독 코미디입니다.",
+      "url": "https://filmmakermagazine.com/134007-no-picnic-feasts-at-film-forum/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Phil Hartman",
+      "creator_insight": "당시의 도시 문화를 잘 반영한 영화입니다.",
+      "tags": [
+        "영화",
+        "코미디"
+      ],
+      "execution_techniques": [
+        "#흑백필름"
+      ],
+      "why": "도시의 변화를 영화화한 독특한 시각이 돋보입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/NOPICNIC_STILL1-780x400.jpg",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    },
+    {
+      "title": "Balvenie Flavors 캠페인",
+      "content": "Balvenie의 새로운 맛을 소개하는 캠페인은 시각적으로 흥미로우며, 각 맛의 특성을 창의적으로 포착했습니다.",
+      "url": "https://levineleavitt.com/owen-gildersleeve-balvenie-flavors-campaign/",
+      "source": "levineleavitt.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Owen Gildersleeve",
+      "creator_insight": "각 요소를 섬세히 연결하여 하나의 작품으로 완성합니다.",
+      "tags": [
+        "광고",
+        "캠페인"
+      ],
+      "execution_techniques": [
+        "#시각디자인"
+      ],
+      "why": "미각적인 요소를 시각적으로 잘 표현한 캠페인입니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    },
+    {
+      "title": "Art Rotterdam 2026",
+      "content": "베를린 기반 아티스트 듀오 Wysocka / Pogo의 새로운 작업들이 Art Rotterdam 2026에서 선보이게 됩니다. 그들의 실험적이고 직관적인 이미지 제작 접근 방식으로 완성된 작품들이 전시됩니다.",
+      "url": "https://opendoors.gallery/art-rotterdam-2026",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Wysocka / Pogo",
+      "creator_insight": "전통적인 기법을 탈피하여 현대적 해석을 이루어냄.",
+      "tags": [
+        "예술",
+        "페어"
+      ],
+      "execution_techniques": [
+        "#실험적예술"
+      ],
+      "why": "현대 예술의 다양한 시도와 접근 방식을 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    },
+    {
+      "title": "하이퍼리얼리즘 크롬 얼굴: Kip Omolade",
+      "content": "메탈릭한 초상화들이 신성하게 떠다니며 강력한 색채를 배경으로 나타납니다. 이 작품들은 현대적인 반사와 질감을 탐구합니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/kip-omolade-chrome-portraits-hyperrealism-paintings/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Kip Omolade",
+      "creator_insight": "질감과 반사에 대한 깊은 탐구를 제공합니다.",
+      "tags": [
+        "예술",
+        "초상화"
+      ],
+      "execution_techniques": [
+        "#하이퍼리얼리즘"
+      ],
+      "why": "작품의 시각적인 매력과 디테일이 탁월합니다.",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/omolade-3.jpg",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    },
+    {
+      "title": "Kim Justin Hell의 럭셔리 시계 사진",
+      "content": "스위스 출신의 Kim Justin Hell은 정밀한 조명과 매크로 기술을 활용하여 고급 시계 브랜드의 광고 이미지를 제작합니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Kim Justin Hell",
+      "creator_insight": "정확한 기술로 제품의 혁신성과 브랜드 유산을 전달합니다.",
+      "tags": [
+        "사진",
+        "럭셔리"
+      ],
+      "execution_techniques": [
+        "#광고사진"
+      ],
+      "why": "고급 브랜드의 섬세함과 매력을 시각적으로 전달한 점이 뛰어납니다.",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    },
+    {
+      "title": "Edie Fake와 이미지로 소통하기",
+      "content": "Edie Fake는 건축이 주제인 그의 작품을 통해 이미지로 소통하며 다양한 형태로 이야기를 전달합니다.",
+      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Edie Fake",
+      "creator_insight": "건축적 요소를 통해 내면의 세계를 시각화합니다.",
+      "tags": [
+        "아티스트",
+        "건축"
+      ],
+      "execution_techniques": [
+        "#건축예술"
+      ],
+      "why": "이미지가 전달하는 강력한 메시지를 깊이 있게 탐구합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    },
+    {
+      "title": "Manchester International Festival",
+      "content": "올해의 Manchester International Festival은 다양한 전시와 이벤트를 통해 예술의 경계를 탐구하고 문화의 융합을 선보입니다.",
+      "url": "http://smadani.com/manchester-international-festival/",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Shaz Madani",
+      "creator_insight": "다양성이 넘치는 문화 예술의 장을 마련합니다.",
+      "tags": [
+        "축제",
+        "문화"
+      ],
+      "execution_techniques": [
+        "#문화예술"
+      ],
+      "why": "다양한 문화가 모여 예술의 새로운 가능성을 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    },
+    {
+      "title": "The Open Wound: Venice 전시",
+      "content": "Daria Borisova와 Selcan Atilgan가 공동 큐레이팅한 그룹 전시로, 베니스에서 다양성과 적응의 상태를 탐구합니다.",
+      "url": "https://coolhunting.com/culture/the-open-wound-where-beauty-refuses-resolution/",
+      "source": "coolhunting.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Daria Borisova",
+      "creator_insight": "끊임없는 변화를 품은 아름다움을 탐구합니다.",
+      "tags": [
+        "전시",
+        "아트"
+      ],
+      "execution_techniques": [
+        "#비엔날레"
+      ],
+      "why": "현대 사회가 마주한 적응과 변화를 예술을 통해 사유합니다.",
+      "depth": 0.95,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/Geoffroy-Pithon_Bain-des-iles_Vent-et-fleurs_Heure-des-branches-en-fete-768x512.jpg",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    }
+  ],
   "items": [],
   "keywords": [
     "칸 영화제",
@@ -19,7 +251,53 @@
     "예술",
     "재활용"
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "아이디어 잡지 No.413 발행",
+      "content": "아이디어 잡지의 최신호가 발행되었습니다. 다양한 디자인 컨텐츠와 함께 구매 가능합니다.",
+      "url": "https://www.idea-mag.com/idea_magazine/no-413/",
+      "source": "IDEA Magazine",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "디자인"
+      ],
+      "why": "디자인 애호가들 사이에서 인기 있는 잡지입니다.",
+      "depth": 0.5,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2026/03/6112fabc589f3991fe941d51a1afb795-550x726.jpg",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    },
+    {
+      "title": "SOOR의 보조제 상자, 사계절로 변신",
+      "content": "SOOR의 보조제 포장은 네 계절을 상징하는 색으로 나뉘어져 있어, 재밌고 시각적으로 매력적입니다.",
+      "url": "https://thedieline.com/soor-turns-a-supplement-box-into-four-seasons/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "포장"
+      ],
+      "why": "창의적인 포장 디자인이 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/b25d57248384113.69f077f88eae1.jpg.tif",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    },
+    {
+      "title": "Chaser의 Boozy 아이스크림 디자인",
+      "content": "Chaser의 아이스크림은 빈티지 간판을 연상시키는 전통적인 방식을 버리고, 칵테일 잔의 실루엣을 사용하여 클래식한 인상을 줍니다.",
+      "url": "https://thedieline.com/chasers-boozy-ice-cream-pours-a-cocktail-glass-right-into-the-logo/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "브랜딩"
+      ],
+      "why": "독특한 브랜드 로고 디자인으로 화제가 되고 있습니다.",
+      "depth": 0.5,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/1784663590276.jpeg",
+      "pub_date": "2026-06-12T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "독창적 예술 형식의 도전",

@@ -7,9 +7,287 @@
     "considered": 140,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "신비로운 종이 조각으로 자연을 그리다",
+      "content": "The Paper Ark의 종이 조각은 살아있는 새들이 나뭇잎 속에서 피어나듯 자연을 담고 있습니다. 그들의 작품은 생물 다양성에 대한 경각심을 일깨워 줍니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/the-paper-ark-birds-relief-nature-watercolors/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "The Paper Ark",
+      "creator_insight": "자연의 경외심을 일깨우며, 생물 다양성 보존의 필요성을 강조하고 있습니다.",
+      "tags": [
+        "종이 조각",
+        "자연"
+      ],
+      "execution_techniques": [
+        "#수채화"
+      ],
+      "why": "자연의 아름다움과 생태계 보존의 중요성을 시각적으로 보여주는 작품입니다.",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/paper-ark-2.jpg",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    },
+    {
+      "title": "문화적 정체성의 새로운 탐색",
+      "content": "수천 년 동안 문화의 중심에 있었던 공예 예술의 변화를 탐색하며, 사라지고 있는 전통 공예의 위험성과 그들만의 새로운 예술적 장면에 대해 논의하고 있습니다.",
+      "url": "https://artaurea.com/2026/neue-kulturelle-identitaeten/",
+      "source": "Art Aurea",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Warwick Freeman",
+      "creator_insight": "전통에 바탕한 새로운 예술적 주체의 출현을 조망합니다.",
+      "tags": [
+        "문화",
+        "공예"
+      ],
+      "execution_techniques": [
+        "#전통과현대"
+      ],
+      "why": "시대가 변하는 가운데 어떻게 전통이 새로운 문화적 형태로 변모할 수 있는지 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://artaurea.com/wp-content/uploads/2026/05/Art-Aurea_Warwick-Freeman_Foto-Sam-Hartnett-aus-Hook-Hand-Heart-Star-herausgegeben-von-Die-Neue-Sammlung-The-Design-Museum-und-Objectspace_Erschienen-bei-arnoldsche-Art-Publisher-scaled.jpg",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    },
+    {
+      "title": "AI 크롤러를 속이는 폰트, ShieldFont",
+      "content": "디자이너들이 AI 크롤러의 소스코드 레벨에서 혼란을 주는 새로운 타입페이스, 'ShieldFont'를 개발했습니다. 이는 인간 독자는 문제없이 읽을 수 있도록 돕습니다.",
+      "url": "https://thedieline.com/shieldfont-is-a-typeface-that-poisons-ai-crawlers/",
+      "source": "The Dieline",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "S&A and Playtype",
+      "creator_insight": "인간의 경험을 해치지 않으면서도 기술적 난관을 극복하는 독창성 있는 접근입니다.",
+      "tags": [
+        "폰트",
+        "AI"
+      ],
+      "execution_techniques": [
+        "#타입페이스디자인"
+      ],
+      "why": "기술적 발전이 인간의 경험에 미치는 영향을 탐구하는 신선한 시도입니다.",
+      "depth": 0.95,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-9.24.37-AM.png",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    },
+    {
+      "title": "악마의 탑을 기리는 흑백 사진",
+      "content": "Zac Henderson이 악마의 탑의 변화하는 빛과 신비한 질감을 포착한 사진들을 선보입니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/zac-henderson-devils-tower-photographs/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Zac Henderson",
+      "creator_insight": "자연의 장엄함을 흑백 사진을 통해 감각적으로 표현했습니다.",
+      "tags": [
+        "사진",
+        "자연"
+      ],
+      "execution_techniques": [
+        "#흑백사진"
+      ],
+      "why": "자연의 신비함을 보여주는 직관적인 예술 작품입니다.",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/henderson-6.jpg",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    },
+    {
+      "title": "옥이나와의 수많은 사람들을 담다",
+      "content": "사진작가 Haneul Lee가 현실의 일상과 일치하면서도 특별한 파장을 가진 초상 사진들을 선보이며, 옥이나와의 복잡한 역사를 표현합니다.",
+      "url": "https://wepresent.wetransfer.com/stories/haneul-lee-photography-big-bang-okinawa",
+      "source": "WePresent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Haneul Lee",
+      "creator_insight": "생활의 순간들을 신중하게 포착하여 복잡한 감정과 역사를 드러냅니다.",
+      "tags": [
+        "사진",
+        "역사"
+      ],
+      "execution_techniques": [
+        "#포트레이트"
+      ],
+      "why": "일상의 모습을 담아내며 사회적, 역사적 메시지를 전달하는 작품입니다.",
+      "depth": 0.95,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/fmuy0zqwGx5QqOimChTrH/b4d573c4f533761756fe7b7f4c8d4f36/BB-9975_copy.jpg",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    },
+    {
+      "title": "현대 조각으로 재탄생한 전통 책 제본 요소",
+      "content": "Adelene Koh는 책의 구성이 종종 간과되는 요소를 현대적인 조각으로 재해석하였습니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Adelene Koh",
+      "creator_insight": "과거의 유산을 현대 예술로 구현하여 새로운 시각적 흥미를 유발합니다.",
+      "tags": [
+        "조각",
+        "제본"
+      ],
+      "execution_techniques": [
+        "#현대미술"
+      ],
+      "why": "전통과 현대의 조화를 이루며 독창적 예술을 제시합니다.",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/koh-4.jpg",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    },
+    {
+      "title": "2026년 5월 카피 모음",
+      "content": "아모레퍼시픽의 다양한 미용 및 화장품 카피를 통해 아름다움과 움직임의 상관관계를 탐구하고 있습니다.",
+      "url": "https://adim21.co.kr/16624/",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "아모레퍼시픽",
+      "creator_insight": "미용과 아름다움의 새로운 접근법을 제안하며 브랜드 철학을 강화합니다.",
+      "tags": [
+        "브랜드",
+        "미용"
+      ],
+      "execution_techniques": [
+        "#브랜드카피"
+      ],
+      "why": "마케팅과 창의성이 결합된 미용 분야의 인사이트를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://i0.wp.com/adim21.co.kr/grim/MCOPY/MCOPY26/MCOPY2605.jpg?ssl=1",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    },
+    {
+      "title": "그랜드 캐년의 경이, The Rising",
+      "content": "Petitmoulin Studio가 그랜드 캐년의 놀라움을 기반으로 한 브랜딩 및 포장 디자인 프로젝트를 선보입니다.",
+      "url": "https://www.behance.net/gallery/252439045/The-Rising",
+      "source": "Behance",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Petitmoulin Studio",
+      "creator_insight": "브랜드 스토리를 탐구함으로써 회사의 비전을 새롭게 정의합니다.",
+      "tags": [
+        "브랜딩",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#브랜드디자인"
+      ],
+      "why": "자연의 경이로움을 기업의 시각 디자인에 효과적으로 적용하였습니다.",
+      "depth": 0.95,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/1f6b6c252439045.Y3JvcCw4NjQsNjc2LDI2OSwxMDk.jpg",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    },
+    {
+      "title": "콜라보레이션의 예술, Vitra Design Museum",
+      "content": "Camper가 Vitra Design Museum에서 협력 프로젝트들을 전시하며, 창의적 콜라보레이션의 중요성을 강조합니다.",
+      "url": "https://www.fubiz.net/2026/07/01/camper-for-vitra-design-museum-at-art-basel-2026/",
+      "source": "Fubiz",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Hella Jongerius",
+      "creator_insight": "긴밀한 협업을 통한 창의적 성과를 기념합니다.",
+      "tags": [
+        "디자인",
+        "협업"
+      ],
+      "execution_techniques": [
+        "#협력디자인"
+      ],
+      "why": "예술과 디자인이 만나는 접점을 통해 공동 창작의 가치를 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://www.fubiz.net/wp-content/uploads/2026/07/06_VDM_Hella-Jongerius-Exhibition_hr-900x600.jpg",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    },
+    {
+      "title": "공간을 초월하는 예술, Brash Rodeo",
+      "content": "Aaron Agosto가 촬영한 Brash Rodeo 시리즈는 직관적인 렌즈를 통해 독특한 로데오 세계를 탐험합니다.",
+      "url": "https://www.booooooom.com/2026/07/22/brash-rodeo-by-photographer-aaron-agosto/",
+      "source": "Booooooom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Aaron Agosto",
+      "creator_insight": "특별한 순간들을 포착해 로데오의 정수를 드러냅니다.",
+      "tags": [
+        "사진",
+        "문화"
+      ],
+      "execution_techniques": [
+        "#다큐멘터리사진"
+      ],
+      "why": "색다른 시선을 통해 로데오 문화를 새롭게 조명합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/06/Agosto1.jpg",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    },
+    {
+      "title": "AI에 대한 경고: 확신에 속지 마세요",
+      "content": "AI의 확신이 가져오는 협력적 악영향을 논의하며, 의심의 가치를 강조합니다.",
+      "url": "https://designobserver.com/ai-will-offer-you-confidence-and-conviction-dont-fall-for-it/",
+      "source": "Design Observer",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Design Observer",
+      "creator_insight": "기술 발전 속에서도 인간 중심의 협력이 중요함을 강조합니다.",
+      "tags": [
+        "AI",
+        "협력"
+      ],
+      "execution_techniques": [
+        "#비판적사고"
+      ],
+      "why": "기술 혁신이 인간의 협력 방식을 어떻게 변화시키는지를 분석합니다.",
+      "depth": 0.95,
+      "image": "https://designobserver.com/wp-content/uploads/2026/07/6-2-1024x683.png",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "페이퍼 아크의 새 종이 조각",
+      "content": "자연의 경의를 표현하는 종이 조각 작품입니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/the-paper-ark-birds-relief-nature-watercolors/",
+      "source": "Colossal",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "종이조각"
+      ],
+      "why": "자연을 예술로 표현해 대중의 관심을 끌었습니다.",
+      "depth": 0.5,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/paper-ark-2.jpg",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    },
+    {
+      "title": "익명의 얼굴, 악마의 탑",
+      "content": "Zac Henderson의 흑백 사진이 전세계적으로 주목받고 있습니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/zac-henderson-devils-tower-photographs/",
+      "source": "Colossal",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "사진"
+      ],
+      "why": "풍경 사진의 감성을 새로운 차원으로 끌어올립니다.",
+      "depth": 0.5,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/henderson-6.jpg",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    },
+    {
+      "title": "수백 명을 촬영한 작가",
+      "content": "Haneul Lee의 촬영 프로젝트가 사진 애호가들 사이에서 화제가 되고 있습니다.",
+      "url": "https://wepresent.wetransfer.com/stories/haneul-lee-photography-big-bang-okinawa",
+      "source": "WePresent",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "사진"
+      ],
+      "why": "사람 사이의 연결성을 사진으로 탐구합니다.",
+      "depth": 0.5,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/fmuy0zqwGx5QqOimChTrH/b4d573c4f533761756fe7b7f4c8d4f36/BB-9975_copy.jpg",
+      "pub_date": "2026-06-18T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "개인화",
     "창작",

@@ -7,9 +7,287 @@
     "considered": 154,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "물병 속의 폭풍: 패키지 디자인의 혁신",
+      "content": "자연 물병이라는 단순한 개념을 혁신적인 디자인으로 변모시킨 케이스를 탐구합니다. 디자인의 힘으로 브랜드의 한계를 넘어서고 소비자에게 새로움을 제공하는 방법론이 소개됩니다.",
+      "url": "https://thedieline.com/pack-of-the-month-thirst-builds-a-better-private-label-beer/",
+      "source": "The Dieline",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Thirst",
+      "creator_insight": "디자인의 힘으로 브랜드의 한계를 넘어서려는 시도를 합니다.",
+      "tags": [
+        "디자인",
+        "브랜드"
+      ],
+      "execution_techniques": [
+        "#장르별"
+      ],
+      "why": "디자인은 브랜드 파트너십을 발전시킬 수 있는 좋은 방법입니다.",
+      "depth": 0.95,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/MS_PR_Visuals-05-1.png",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    },
+    {
+      "title": "아티스트의 투쟁: 시각적 이야기",
+      "content": "João Daniel Pereira의 사진 작품은 투쟁과 믿음의 테마를 깊이 있게 탐구하며, 시각적 표현을 통해 복잡한 감정을 전달합니다.",
+      "url": "https://www.booooooom.com/2026/07/27/finding-faith-in-the-fight-by-photographer-joao-daniel-pereira/",
+      "source": "Booooooom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "João Daniel Pereira",
+      "creator_insight": "복잡한 감정을 사진을 통해 전달하려는 시도를 합니다.",
+      "tags": [
+        "사진",
+        "예술"
+      ],
+      "execution_techniques": [
+        "#서사적"
+      ],
+      "why": "사진을 통한 복잡한 감정의 표현은 예술의 본질을 잘 드러내 줍니다.",
+      "depth": 0.95,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/07/Pereira1.jpg",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    },
+    {
+      "title": "누구도 몰랐던 100년 역사의 박물관",
+      "content": "런던의 Gunnersbury 박물관이 브랜드 리뉴얼을 통해 새로운 부각을 받고 있습니다. Wiedemann Lampe의 전략적 리브랜딩이 모호한 정체성을 명확하게 밝히고 있습니다.",
+      "url": "https://www.creativeboom.com/news/for-100-years-nobody-noticed-the-museum-in-the-park-wiedemann-lampes-rebrand-finally-gives-gunnersbury-a-reason-to-be-found/",
+      "source": "Creative Boom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Wiedemann Lampe",
+      "creator_insight": "브랜딩을 통해 역사적 정체성을 명확히 정의하려고 합니다.",
+      "tags": [
+        "브랜딩",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#전략적"
+      ],
+      "why": "역사와 디자인의 연결이 브랜드의 컨텍스트를 강화합니다.",
+      "depth": 0.95,
+      "image": "https://www.creativeboom.com/upload/articles/30/30988c8f54d8c86cec716666544b91a50ca1c891_840.jpg",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    },
+    {
+      "title": "공통 체험: 이미지의 힘",
+      "content": "Uncle Projects의 'Common Objects'는 97명의 사진가를 통해 다각도로 접하는 이미지를 탐구하며, 시각적 연결의 힘을 전시합니다.",
+      "url": "https://www.booooooom.com/2026/07/20/uncle-projects-common-objects/",
+      "source": "Booooooom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Uncle Projects",
+      "creator_insight": "시각적 연결로 구성된 이미지의 힘을 탐구했습니다.",
+      "tags": [
+        "이미지",
+        "체험"
+      ],
+      "execution_techniques": [
+        "#상호작용적"
+      ],
+      "why": "이미지의 시각적 연결이 독특한 체험을 만들어내는 방법을 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/07/Common1.jpg",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    },
+    {
+      "title": "포토샵으로 그리는 스트로크 패스",
+      "content": "포토샵에서 [Path]와 [Brush]를 활용하여 선을 그리는 방법을 소개합니다. 일러스트레이터 대비 포토샵만의 활용법을 배우고 다양한 기법을 익힐 수 있습니다.",
+      "url": "https://graymonster.tistory.com/86",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "마스터 그레이",
+      "creator_insight": "기존 도구로 창의적인 표현을 확장하려 합니다.",
+      "tags": [
+        "포토샵",
+        "그래픽디자인"
+      ],
+      "execution_techniques": [
+        "#기술적"
+      ],
+      "why": "창의적 활용이 기존의 작업에 새로운 가능성을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/99094F3359FACC3018",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    },
+    {
+      "title": "나사의 절경을 담다: David Malin Awards",
+      "content": "CWAS David Malin Awards의 수상작들은 우주의 경이를 포착하여 시각적 탐험의 중요성을 강조합니다. 천문 사진의 예술성과 기술적 도전이 결합된 작품들을 감상할 수 있습니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/winning-photos-cwas-astrofest-space-astrophotography/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "David Malin",
+      "creator_insight": "우주를 새로운 시선에서 재해석하려는 시도를 합니다.",
+      "tags": [
+        "천문사진",
+        "우주"
+      ],
+      "execution_techniques": [
+        "#탐험적"
+      ],
+      "why": "우주의 신비를 예술을 통해 체험할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/cwas-3.jpg",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    },
+    {
+      "title": "이야기를 담은 공간: 도서 사진전",
+      "content": "Common Objects 사진전은 공간을 시각적으로 탐구하며, 사진가들이 각자의 시선을 통해 만들어낸 이야기를 조명합니다.",
+      "url": "https://photoeditions.pub/Main-page",
+      "source": "photobookstore.co.uk",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "Various Photographers",
+      "creator_insight": "사진을 통해 공간과 이야기의 상호작용을 탐구했습니다.",
+      "tags": [
+        "사진",
+        "공간"
+      ],
+      "execution_techniques": [
+        "#경험적"
+      ],
+      "why": "공간과 이야기의 관계를 사진으로 재발견할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://freight.cargo.site/w/1000/i/b90a1df829c0e7746cc233935270c11ddbf7d29368bb601b0e447742cd4cc73f/MA-R.png",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    },
+    {
+      "title": "화려한 선율: 비엔나 심포니",
+      "content": "비엔나 심포니의 시각적 감각을 Behance 프로젝트를 통해 소개합니다. 오케스트라의 음악적 여정을 이미지로 풀어내며, 제작 단계의 희열을 드러냅니다.",
+      "url": "https://www.behance.net/gallery/249591149/Vienna-Symphonies",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "비엔나 오케스트라",
+      "creator_insight": "시각적 요소를 통해 음악적 경험을 전달하려 합니다.",
+      "tags": [
+        "음악",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#음향적"
+      ],
+      "why": "음악과 시각 예술의 조화로운 융합을 경험할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/46f60c249591149.Y3JvcCwxNzA0LDEzMzMsMTQ3LDA.jpg",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    },
+    {
+      "title": "기묘한 창작 세계: 누가 진짜 괴물인가",
+      "content": "영화 애 대한 비평에서 창작물 속 괴물이란 무엇인가에 대한 단상을 공유합니다. 창작자의 시각에서 바라본 현실과 상상력이 조화를 이루며 관객에게 새로운 시선을 제시합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81861",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "창작자",
+      "creator_insight": "현실과 상상력이 조화를 이루며 관객에게 새로운 시선을 제시합니다.",
+      "tags": [
+        "영화",
+        "괴물"
+      ],
+      "execution_techniques": [
+        "#상상적"
+      ],
+      "why": "작품 속 현실과 상상의 경계를 탐험하는 시간을 제공할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://www.artinsight.co.kr/data/tmp/2608/20260801101629_dezoohwx.jpg",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    },
+    {
+      "title": "기묘한 초상화: 사막을 위한 노래",
+      "content": "Enrique M. Rizo 감독의 단편 다큐멘터리 'Un Canto por el Desierto'는 멕시코의 코마크족 문화를 시청각적으로 탐구합니다. 전통적인 바구니 제작과 공동체의 삶을 깊이 있게 조명하였습니다.",
+      "url": "https://www.nowness.com/series/portrait-of-a-place/un-canto-por-el-desierto-comcaac-sonora-mexico-enrique-m-rizo",
+      "source": "Unknown Source",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Enrique M. Rizo",
+      "creator_insight": "전통적인 삶의 방식과 문화적 연결을 시청각적으로 탐구합니다.",
+      "tags": [
+        "다큐멘터리",
+        "전통"
+      ],
+      "execution_techniques": [
+        "#심미적"
+      ],
+      "why": "전통 문화의 깊이를 탐구하며 예술적 고찰을 이끌어낼 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://img.nowness.com/nowness-frontend/apVzKdhJSUqSGQcqxtDx_UN_CANTO_POR_EL_DESIERTO_06.jpg",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    },
+    {
+      "title": "창작의 의미: 무엇을 만드는 것일까?",
+      "content": "멕시코시티에 위치한 Can Can Press는 창작의 본질을 고민하며, 손으로 만드는 것이 가지는 의미와 중요성을 탐구합니다.",
+      "url": "https://wepresent.wetransfer.com/stories/manifesto-can-can-press",
+      "source": "WePresent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Can Can Press",
+      "creator_insight": "손으로 만드는 것이 가지는 의미와 중요성을 탐구합니다.",
+      "tags": [
+        "창작",
+        "제작"
+      ],
+      "execution_techniques": [
+        "#실험적"
+      ],
+      "why": "창작의 본질을 고민하며, 새로운 관점을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/DflM7fp34TJlQoGA7Pr6z/1d05e274bca872bfd9b52f8db75799f0/Manifesto_WP_Header__1_.jpg",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "바리 채프만의 SHOTIME",
+      "content": "바리 채프만의 창의적인 프로젝트, SHOTIME을 소개하며 움직이는 이미지의 매력을 선보입니다.",
+      "url": "https://motionographer.com/quickie/shotime-barry-chapman/",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "영상"
+      ],
+      "why": "새로운 영상 표현 기법을 통해 대중의 시선을 사로잡습니다.",
+      "depth": 0.5,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/SHOTIME_still_04_CavalryDynamics_2-700x394.jpg",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    },
+    {
+      "title": "코히 야마다의 MY SCREEN TESTS 전시",
+      "content": "뉴욕의 그리 갤러리에서 개최된 코히 야마다의 첫 개인 전시회 MY SCREEN TESTS를 탐방합니다.",
+      "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/",
+      "source": "Juxtapoz",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "전시"
+      ],
+      "why": "작가와 작품 사이의 진정한 관계를 탐색하는 기회를 제공합니다.",
+      "depth": 0.5,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/feb6fd8d21b05a9d2a007a4aa38955a2_L.jpg",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    },
+    {
+      "title": "아이디어 매거진 No.412",
+      "content": "최신 디자인 트렌드를 담고 있는 아이디어 매거진의 새로운 호를 소개합니다.",
+      "url": "https://www.idea-mag.com/idea_magazine/no-412/",
+      "source": "IDEA Magazine",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "디자인"
+      ],
+      "why": "신진 디자이너에게 영감을 주며, 대중적인 트렌드를 제공한다.",
+      "depth": 0.5,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2025/12/be061351eef2b0680d3a58d67663246d-2-550x726.jpg",
+      "pub_date": "2026-06-25T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "타임피스",
     "유산",

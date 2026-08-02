@@ -7,9 +7,287 @@
     "considered": 139,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "모션그래퍼 20주년: 모두의 것",
+      "content": "모션그래퍼는 예술가, 스튜디오, 독자 및 협력자들이 함께 만들어온 20년의 역사를 지니고 있습니다. 이제 이 산업과 함께 또 다른 장을 열어가고자 합니다.",
+      "url": "https://motionographer.com/2026/07/27/motionographer-at-20-this-belongs-to-all-of-us/",
+      "source": "Unknown Source",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "아티스트와 협력자들 간의 지속적인 협력을 통해 문화와 산업에 기여하고자 합니다.",
+      "tags": [
+        "모션그래픽",
+        "커뮤니티"
+      ],
+      "execution_techniques": [
+        "디지털 아트"
+      ],
+      "why": "모션그래픽 분야의 역사적 발전과 커뮤니티의 힘을 조명하는 기사입니다.",
+      "depth": 0.95,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/20Y_CINEMATIC_EDITABLE_4K-ezgif.com-video-to-gif-converter-800-700x394.gif",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    },
+    {
+      "title": "인상적인 '듄' 영화 스틸 이미지",
+      "content": "드니 빌뇌브 감독의 영화 '듄'이 올해 아카데미 시상식에서 여섯 개의 상을 수상했습니다. 이 영화는 원작 소설을 웅장하게 각색하여 시각적 감동을 선사합니다.",
+      "url": "https://www.fubiz.net/2023/01/11/impressive-images-from-the-oscar-winning-movie-dunes/",
+      "source": "Fubiz",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "드니 빌뇌브",
+      "creator_insight": "각기 다른 매체의 경계를 넘나드는 시각적 연출을 선보였습니다.",
+      "tags": [
+        "영화",
+        "시각예술"
+      ],
+      "execution_techniques": [
+        "SF 디자인"
+      ],
+      "why": "영화 '듄'의 독창적인 시각 언어와 예술적 성과를 논합니다.",
+      "depth": 0.95,
+      "image": "https://www.fubiz.net/wp-content/uploads/2022/04/Main_Page-5-4-scaled.jpg",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    },
+    {
+      "title": "물에 젖지 않는 산악 스니커즈",
+      "content": "Humtto에서 출시한 산악 스니커즈는 방수 기능과 미끌림 방지 기능을 갖추고 있습니다. 이 제품은 악천후 속에서도 뛰어난 내구성을 자랑합니다.",
+      "url": "https://humtto.vn/giay-ro-leo-nui-loi-nuoc-chong-truot-nam-humtto-771588a/",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Humtto",
+      "creator_insight": "실용성과 디자인을 동시에 고려하여 개발된 제품입니다.",
+      "tags": [
+        "스포츠",
+        "아웃도어"
+      ],
+      "execution_techniques": [
+        "기능성 의류"
+      ],
+      "why": "아웃도어 환경에서도 스타일과 기능을 유지하는 혁신적인 기술을 소개합니다.",
+      "depth": 0.95,
+      "image": "https://humtto.vn/wp-content/uploads/2026/05/giay-humtto-771588-2.png",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    },
+    {
+      "title": "미러: 공통의 예술",
+      "content": "미들랜드 기반의 창작자들이 선보이는 최고의 작품들이 있는 전시회입니다. 작품 '미러'는 예술의 다층적인 반성을 이끌어냅니다.",
+      "url": "https://www.andrew-townsend.com/Sample-2-Exhibition",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Andrew Townsend",
+      "creator_insight": "예술이 단순히 감상에 그치지 않고, 생각의 확장을 가능케 하는 매체라는 점을 강조합니다.",
+      "tags": [
+        "전시",
+        "종합예술"
+      ],
+      "execution_techniques": [
+        "현대 미술"
+      ],
+      "why": "지역 기반의 창작자들이 일궈나가는 다양한 예술 활동을 조명합니다.",
+      "depth": 0.95,
+      "image": "https://payload.cargocollective.com/1/1/33015/5082579/prt_1362332657.jpg",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    },
+    {
+      "title": "현대식 가구 구매 가이드",
+      "content": "온라인으로 고급 가구를 구매할 때, 여러 가지 선택 사항과 배송 방법에 대해 신중히 고려해야 합니다. 이를 통해 완벽한 인테리어를 완성할 수 있습니다.",
+      "url": "https://italydreamdesign.com/en/buying-high-end-furniture-online-a-complete-guide-to-choosing-with-confidence/",
+      "source": "Italy Dream Design",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Italy Dream Design",
+      "creator_insight": "높은 품질과 맞춤형 옵션을 통해, 온라인이라는 매체에서도 고객 만족을 제공하고자 합니다.",
+      "tags": [
+        "가구",
+        "인테리어"
+      ],
+      "execution_techniques": [
+        "럭셔리 디자인"
+      ],
+      "why": "고품질의 디자인과 온라인 경험을 적절히 융합하는 방식을 살펴볼 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://italydreamdesign.com/wp-content/uploads/sitges_4-300x200.jpg",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    },
+    {
+      "title": "루이비통의 새로운 가방 소개",
+      "content": "가을/겨울 2026 컬렉션에서 루이비통은 역사적 케파를 현대적인 디자인으로 재해석한 몰티패스 가방을 출시합니다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17348/another-a-practical-sac-du-jour-louis-vuitton",
+      "source": "Another Magazine",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Louis Vuitton",
+      "creator_insight": "과거의 아이디어를 현대적으로 해석하여 지속 가능한 미래 세계를 제시하고자 함.",
+      "tags": [
+        "패션",
+        "럭셔리"
+      ],
+      "execution_techniques": [
+        "고급 디자인"
+      ],
+      "why": "역사적인 디자인의 재해석을 통해 브랜드의 지속적인 진화를 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476209.jpg",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    },
+    {
+      "title": "아이의 상상력을 자극할 가구 세트",
+      "content": "어린이들이 이야기를 나누고 상상할 수 있는 최고의 테이블과 의자 세트를 소개합니다.",
+      "url": "https://www.architecturaldigest.com/story/best-table-and-chair-set-for-kids",
+      "source": "Architectural Digest",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "Architectural Digest",
+      "creator_insight": "창의적인 환경 제공으로 아이들의 상상을 키우고자 합니다.",
+      "tags": [
+        "유아가구",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "키즈 디자인"
+      ],
+      "why": "아이들의 성장 과정에서 필수적인 공간 디자인의 중요성을 조명합니다.",
+      "depth": 0.95,
+      "image": "https://media.architecturaldigest.com/photos/6a6cbb088d239d4044feb5eb/master/pass/AD1225_RUBIO_BUTTERFIELD_10.jpg",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    },
+    {
+      "title": "텍스트와 기호의 힘",
+      "content": "읽기보다 표현에 초점을 맞춘 'Human' 다큐멘터리 시리즈의 새로운 그래픽 아이덴티티를 소개합니다.",
+      "url": "https://www.itsnicethat.com/articles/overview-zandland-human-graphic-design-project-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Overview",
+      "creator_insight": "문자와 기호의 조합으로 메시지 이상의 감정과 감각을 전하고자 합니다.",
+      "tags": [
+        "그래픽 디자인",
+        "커뮤니케이션"
+      ],
+      "execution_techniques": [
+        "타이포그래피"
+      ],
+      "why": "텍스트와 기호의 사용을 통해 디자인이 어떻게 다르게 해석될 수 있는지를 탐구할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/RFTxEtUOF3JqK84z_xc0BXLGXl8=/280224/width-1440/overview-human-graphic-design-itsnicethat-4.jpg",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    },
+    {
+      "title": "왜 모든 웹페이지가 홈처럼 작동해야 할까",
+      "content": "방문자들이 어느 페이지에서든 시작할 수 있으므로 모든 페이지는 이들을 안내할 수 있어야 합니다.",
+      "url": "https://www.creativebloq.com/web-design/why-every-web-page-now-needs-to-work-like-a-homepage",
+      "source": "Creative Bloq",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Creative Bloq",
+      "creator_insight": "홈페이지가 아닌 페이지에서도 사용자 경험을 최적화해야 하는 시대적 요구를 반영합니다.",
+      "tags": [
+        "웹 디자인",
+        "UX"
+      ],
+      "execution_techniques": [
+        "디지털 디자인"
+      ],
+      "why": "디지털 공간에서의 사용자 중심 디자인에 대한 중요한 통찰을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/XDRQ4QBNynhUCoJ5kfDBYh-1280-80.jpg",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    },
+    {
+      "title": "로컬 정부 재조직화를 통한 브랜드 가치 실현",
+      "content": "영국 내 조직적 변화 속에서 지방 정부는 그들의 정체성과 신뢰를 재구축할 기회를 가집니다.",
+      "url": "https://www.creativereview.co.uk/local-government-reorganisation-branding-opportunity/",
+      "source": "Creative Review",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Dennis Cook",
+      "creator_insight": "브랜드를 통해 주민들과의 신뢰를 구축할 필요성을 설명합니다.",
+      "tags": [
+        "브랜딩",
+        "지역사회"
+      ],
+      "execution_techniques": [
+        "그래픽 디자인"
+      ],
+      "why": "공공 영역에서도 브랜드가 미치는 영향력을 고려할 수 있는 관점을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/dennis-cook-illustration-local-government-branding-01.jpg",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    },
+    {
+      "title": "아트 아시아 페어 참가 후기",
+      "content": "코엑스에서 열린 아트 아시아 페어에 서이 갤러리가 참가하여 많은 관람객들의 주목을 받았습니다.",
+      "url": "https://blog.naver.com/sabids/221610094855?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Seo or '서이 갤러리'",
+      "creator_insight": "아시아 시장에서 예술의 가치를 발견하고자 하는 시도를 보여줍니다.",
+      "tags": [
+        "아트페어",
+        "엔게이지먼트"
+      ],
+      "execution_techniques": [
+        "전시 디자인"
+      ],
+      "why": "아트페어를 통해 아시아 예술 시장의 흐름을 느낄 수 있는 기회를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://blogthumb.pstatic.net/MjAxOTA4MDhfOTgg/MDAxNTY1MjU5NzQyNzI1.eYMaMPRTLCHBqcQgaadIMlnjRCj0Xiul0uTX-Zb4YXkg.PHT3dydH3gjGWjSJD8-eAvUy2gD2TBgn7EbgDu8WFHUg.JPEG.sabids/20190808_143321.jpg?type=s3",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "일본 호텔에서 발견한 카피",
+      "content": "일본 한 호텔에서 욕실 어메니티의 독특한 캡션이 눈길을 끌었습니다.",
+      "url": "https://adim21.co.kr/?kboard_content_redirect=3896",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "영감"
+      ],
+      "why": "작고 단순한 메시지가 사용자에게 웃음을 주며 인기를 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://adim21.co.kr/wp-content/uploads/kboard_attached/6/202601/6972114215c9e6561037.jpg",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    },
+    {
+      "title": "TRANSYLVANIE",
+      "content": "10살 소녀가 뱀파이어라는 믿음을 갖고 살아가는 모습이 그려집니다.",
+      "url": "https://vimeo.com/channels/staffpicks/1199424197",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "영화"
+      ],
+      "why": "독특한 설정과 이야기 전개로 관객의 호기심을 자극합니다.",
+      "depth": 0.5,
+      "image": "https://i.vimeocdn.com/video/2174934924-75d1b03298d62493bf251f7cc0b49fa424f56fdbd9ffdd7a3badc1cbbe03b996-d_960?region=us",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    },
+    {
+      "title": "기억하고픈 파리의 광장",
+      "content": "콩코르드 광장은 파리의 상징적인 오벨리스크로 인해 쉽게 찾을 수 있는 명소입니다.",
+      "url": "https://blog.naver.com/justina75/224329777757?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "파리"
+      ],
+      "why": "도시의 역사를 느낄 수 있는 관광명소들은 많은 사람들에게 사랑받습니다.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjNfMjM5/MDAxNzgyMjI1NzExNDY1.7b5SGQmWSKbsR2giFpVb3GboZJ0cfAJvgNUL8ZQRIqYg.1oHu7F7OYEcjbjB4K3XwIj-qQgNKBcdGSNsftF9iuwgg.JPEG/900_1782225411366.jpg?type=s3",
+      "pub_date": "2026-06-21T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "결핍",
     "문화",

@@ -6,7 +6,113 @@
     "considered": 15,
     "selected": 11
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "뉴욕 메트로폴리탄, 존 갈리아노 대형 전시 예정",
+      "content": "뉴욕 메트로폴리탄은 2027년에 유명 디자이너 존 갈리아노의 대형 전시회를 개최할 예정입니다. 이 행사에는 매년 5월 첫 번째 월요일에 열리는 Gala도 포함될 것입니다.",
+      "url": "https://www.artribune.com/progettazione/moda/2026/08/john-galliano-costume-institute-2027/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "존 갈리아노",
+      "creator_insight": "갈리아노의 작품은 극적인 패션을 통해 예술과 유명함의 경계를 넘나듭니다.",
+      "tags": [
+        "전시회",
+        "패션"
+      ],
+      "execution_techniques": [
+        "드라마틱"
+      ],
+      "why": "갈리아노의 대형 전시는 그가 패션계에 미치는 영향력을 다시 한번 확인시켜 줄 것입니다.",
+      "depth": 0.95,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/john-galliano.jpeg",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    },
+    {
+      "title": "ARCO 리스본 2026: 아트 페어 연례 리뷰",
+      "content": "포르투갈 리스본에서 열린 ARCO리스본 2026은 국제 수집가들에게 문을 열었습니다. 이번 예술 박람회의 리뷰와 참가 갤러리에 대한 정보를 알아봅니다.",
+      "url": "https://veryprivategallery.com/arco-lisbon-art-fair/",
+      "source": "Very Private Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "그렉 보트",
+      "creator_insight": "리스본 아트 페어는 다채로운 국제적 예술 교류의 중심으로 자리 잡고 있습니다.",
+      "tags": [
+        "아트 페어",
+        "국제"
+      ],
+      "execution_techniques": [
+        "현대적"
+      ],
+      "why": "ARCO리스본은 국제적인 예술 시장의 흐름을 이해하는 데 매우 유용한 기회를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2024/06/Arco-lisboa-Art-fair-week-lisbon.jpg",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    },
+    {
+      "title": "삶을 변화시키는 공간 디자인, 당신의 삶을 설계합니다",
+      "content": "이 기사에서는 심플하고 기능적인 디자인을 통해 삶의 방식을 변화시키는 건축 사례를 소개합니다. 새로운 공간에서의 여유롭고 심플한 생활을 꿈꾸는 클라이언트를 위한 맞춤형 디자인입니다.",
+      "url": "https://www.designtwoply.com/works/residence/%ec%82%b6%ec%9d%98-%eb%b0%a9%ec%8b%9d%ec%9d%84-%eb%b0%94%ea%be%b8%eb%8a%94-%ec%a7%91-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%b6%ec%9d%84-%eb%94%94%ec%9e%90%ec%9d%b8%ed%95%a9%eb%8b%88%eb%8b%a4/",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "투플라이",
+      "creator_insight": "단순한 외형이 아닌 기능과 질서를 다시 짜는 것이 중요합니다.",
+      "tags": [
+        "인테리어 디자인",
+        "건축"
+      ],
+      "execution_techniques": [
+        "미니멀리즘"
+      ],
+      "why": "현대 생활에서 디자인은 단순한 미적 요소를 넘어 실용적인 변화의 중심이 되었습니다.",
+      "depth": 0.95,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2025/04/홈페이지-썸네일사이즈아이파크.jpg",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    },
+    {
+      "title": "자연이 깃든 자수 작품: 레이첼 크리스프의 창작 이야기",
+      "content": "레이첼 크리스프는 자연에서 영감을 받아 공룡 두개골과 식물이 어우러진 자수를 창조해냅니다. 그녀는 여러 형식을 다루며 텍스처 작업을 통해 뼈가 자연 위에 놓인 듯한 느낌을 줍니다.",
+      "url": "https://www.fubiz.net/2023/01/09/fossils-woven-on-a-bed-of-embroidery/",
+      "source": "Fubiz",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "레이첼 크리스프",
+      "creator_insight": "자연의 경이로움을 자수로 재구성하여 독특한 작품을 만듭니다.",
+      "tags": [
+        "자수",
+        "자연"
+      ],
+      "execution_techniques": [
+        "텍스처"
+      ],
+      "why": "크리스프의 작품은 예술과 자연의 경계를 넘나들며 새로운 시각적 경험을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://www.fubiz.net/wp-content/uploads/2022/02/RC1.png",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    },
+    {
+      "title": "뮤지션과 아티스트 Eartheater의 깊은 감정을 따르는 여정",
+      "content": "이 기사는 뮤지션이자 아티스트인 알렉산드라 드류친, 혹은 Eartheater가 예술 창작에 대한 내면의 감정을 따르는 방법과 그것이 그녀의 작품에 미치는 영향을 다룹니다.",
+      "url": "https://thecreativeindependent.com/people/musician-and-artist-alexandra-drewchin-eartheater-on-following-the-deep-feeling/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "알렉산드라 드류친",
+      "creator_insight": "그녀의 작품은 감정과 생각의 깊이를 탐구하는 음악적 표현입니다.",
+      "tags": [
+        "뮤지션",
+        "예술"
+      ],
+      "execution_techniques": [
+        "감정적"
+      ],
+      "why": "Eartheater의 작업은 예술이 감정과 개인 경험을 통해 어떻게 변모할 수 있는지를 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    }
+  ],
   "items": [],
   "keywords": [
     "A24",
@@ -18,7 +124,53 @@
     "사랑",
     "연대"
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "콘비니의 새로운 상상, 패밀리마트의 새로운 ‘FAMIMA’",
+      "content": "일본의 패밀리마트가 새로운 FAMIMA 콘셉트를 소개하며 전통적인 콘비니의 개념을 재구성합니다.",
+      "url": "https://spoon-tamago.com/familymart-new-famima-flagship/?utm_source=rss&utm_medium=rss&utm_campaign=familymart-new-famima-flagship",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "패밀리마트"
+      ],
+      "why": "전통적인 소비 환경을 혁신한 사례로 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/07/famima-azabudai-3-200x134.jpeg",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    },
+    {
+      "title": "삘기꽃 날리는 언덕",
+      "content": "설명 없는 작품 사진으로, 감상자에게 다양한 해석을 이끌어내며 자연의 아름다움을 전달합니다.",
+      "url": "https://blog.naver.com/jujukey/223463494255?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "자연"
+      ],
+      "why": "자연과 예술의 경계에서 감상자의 해석을 유도하는 이 작품은 깊은 감동을 줍니다.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNDA1MzBfMTg5/MDAxNzE3MDQ5MzM3MDA0.Mc1Pc88m69Ni8SIUEjoVzmxfWnBq825zsMaZzGMkwSkg.wCFX-JMPgSaL4gLesr4_KhYwzwwBwfI80FRnq8qSzKIg.JPEG/삘기꽃_날리는_언덕_60.6&times;72.7cm_Acrylic_on_canvas_2022..jpg?type=s3",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    },
+    {
+      "title": "MASTER Midjourney V8.1 SREF STYLES (풀 미드저니 튜토리얼)",
+      "content": "Midjourney의 최신 스타일 가이드와 창의적인 방법을 소개하는 풀 튜토리얼입니다.",
+      "url": "https://blog.naver.com/tiger6107/224344287394?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "튜토리얼"
+      ],
+      "why": "미드저니 사용자들에게 실질적인 도움이 되는 자료로, 대중적인 관심을 받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "창의적 포스터 브레인롯",

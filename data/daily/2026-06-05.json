@@ -6,7 +6,239 @@
     "considered": 30,
     "selected": 12
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "오디세이의 직조",
+      "content": "크리스토퍼 놀란의 테넷에서 편집자로 일했던 제니퍼 라임이 이 독창적인 프로젝트의 도전을 어떻게 극복했는지에 대해 설명합니다.",
+      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "제니퍼 라임",
+      "creator_insight": "각 자동차에 개성을 부여하며 편집을 진행했습니다.",
+      "tags": [
+        "편집",
+        "영화"
+      ],
+      "execution_techniques": [
+        "현대적 편집"
+      ],
+      "why": "대형 프로젝트에서의 창의적 편집 방법에 대해 배울 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    },
+    {
+      "title": "베티 사르: 황혼을 향해 떠도는 시선",
+      "content": "미국 예술가 베티 사르가 자신의 삶과 예술을 통해 아프리카계 미국인의 정체성을 어떻게 탐구했는지를 조명하는 다큐멘터리가 공개됩니다.",
+      "url": "https://www.nowness.com/series/private-view/betye-saar-drifting-toward-twilight",
+      "source": "Unknown Source",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "베티 사르",
+      "creator_insight": "일상적인 사물을 통한 역사적 이야기 전달에 중점을 두었습니다.",
+      "tags": [
+        "예술",
+        "정체성"
+      ],
+      "execution_techniques": [
+        "역사적 맥락"
+      ],
+      "why": "예술가의 개인적 역사를 기반으로 한 독창적인 시선이 담긴 자료입니다.",
+      "depth": 0.95,
+      "image": "https://img.nowness.com/nowness-frontend/kgKP8rbRk6bcU1Sio4Ex_BETYE%20SAAR%20STILL%209.jpg",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    },
+    {
+      "title": "하라 뮤지엄 ARC에서의 '달에 날아가자: 다섯 개의 달 에피소드'",
+      "content": "하라 뮤지엄 ARC에서 '달에 날아가자' 전시회가 열려 다양한 달과 관련된 예술작품이 소개됩니다.",
+      "url": "https://www.adfwebmagazine.jp/en/art/fly-to-the-moon-five-lunar-episodes-at-hara-museum-arc/",
+      "source": "ADF Web Magazine",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "하라 뮤지엄 ARC",
+      "creator_insight": "달과 관련된 다양한 예술적 해석을 한 공간에서 선보입니다.",
+      "tags": [
+        "전시",
+        "예술"
+      ],
+      "execution_techniques": [
+        "전시회"
+      ],
+      "why": "우주와 예술의 경계를 탐구하는 작품들을 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-hara-museum-arc-212x300.jpg",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    },
+    {
+      "title": "미니멀리스트 공간 브랜딩: Moos 아키텍처 카페",
+      "content": "Moos 스튜디오는 세이지 그린 인테리어를 활용한 미니멀리스트 디자인을 통해 카페 공간을 브랜드화하였습니다.",
+      "url": "https://abduzeedo.com/minimalist-spatial-branding-moos-architecture-cafe/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Moos Studio",
+      "creator_insight": "내부 공간에 안정감을 주는 디자인 접근 방식입니다.",
+      "tags": [
+        "브랜딩",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "미니멀리즘"
+      ],
+      "why": "친환경 인테리어와 미적 감각의 통합이 인상적입니다.",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/moos_2.jpg",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    },
+    {
+      "title": "검은 가발과 푸른 사막의 만남",
+      "content": "펨브로크셔 해안 국립공원에 위치한 '화이트 브레이커스'가 정면 담을 갖춘 새로운 스타일의 주택으로 재탄생했습니다.",
+      "url": "https://www.wallpaper.com/architecture/residential/welsh-cottage-white-breakers-unknown-works-uk",
+      "source": "Wallpaper*",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown Works",
+      "creator_insight": "자연 환경과 조화를 이루는 혁신적인 주택 설계를 보여줍니다.",
+      "tags": [
+        "건축",
+        "지속 가능성"
+      ],
+      "execution_techniques": [
+        "현대적 리노베이션"
+      ],
+      "why": "주택과 자연의 미적 탐구라는 흥미로운 사례입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/cT79DK7fEZDEdUCTYCu2qK-1280-80.jpg",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    },
+    {
+      "title": "아파라치아의 정령에 젖다: 런던의 새로운 레스토랑",
+      "content": "아메리카 동부 산맥의 요리 전통을 이어받은 '아파라치아'가 북 런던에서 열립니다.",
+      "url": "https://www.wallpaper.com/travel/restaurants/appalachia-london-review",
+      "source": "Wallpaper*",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "아파라치아 레스토랑 팀",
+      "creator_insight": "전통 요리의 현대적 해석을 통한 미식 경험을 제공합니다.",
+      "tags": [
+        "요리",
+        "레스토랑"
+      ],
+      "execution_techniques": [
+        "현대적 요리"
+      ],
+      "why": "독특한 요리 세계를 탐험할 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/UWba7bi6dAtVkoCzLP63XP-1280-80.jpg",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    },
+    {
+      "title": "플라워 디자인을 위한 새로운 기획 아이디어",
+      "content": "플라워 디자인 하우스가 현대적인 공간과 접목된 플로랄 아이디어를 제공합니다.",
+      "url": "https://archzine.net/gartengestaltung/garten-pflanzen/pflanzen-fuer-flache-schalen-liste-blumen/",
+      "source": "Archzine",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "플라워 디자인 하우스",
+      "creator_insight": "미적 감각과 실용성을 결합하여 공간을 디자인합니다.",
+      "tags": [
+        "플라워 디자인",
+        "공간 구성"
+      ],
+      "execution_techniques": [
+        "인테리어 디스플레이"
+      ],
+      "why": "공간 디자인에 대한 새로운 시각을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://archzine.net/wp-content/uploads/2026/07/pflanzen-fuer-flache-schale-bunt-bepflanzt.webp",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    },
+    {
+      "title": "이벤트의 중요성: 자리 형성과 브랜드 협업의 힘",
+      "content": "현대 브랜드 커뮤니케이션에서 이벤트가 가지는 중요성과 성공 사례를 다양한 각도에서 탐구합니다.",
+      "url": "https://designspotter.com/why-events-matter-more-than-ever-the-power-of-placemaking-influencer-experiences-brand-collaborations/",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "디자인스포터",
+      "creator_insight": "플레이스메이킹과 브랜드 협업을 통한 강력한 브랜딩을 제안합니다.",
+      "tags": [
+        "이벤트",
+        "브랜드"
+      ],
+      "execution_techniques": [
+        "브랜드 커뮤니케이션"
+      ],
+      "why": "브랜드 경험의 중요성을 다시 생각해보게 됩니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    },
+    {
+      "title": "탐험하기 : 크리에이티브북 탐구, 윈쟈 왕의 세계",
+      "content": "뉴욕 기반 일러스트레이터 윈자 왕이 어트랙션과 불편함 사이의 긴장 상태를 탐색합니다.",
+      "url": "https://www.creativeboom.com/inspiration/exploring-the-tension-between-attraction-and-discomfort-illustrator-wenjia-wang-creates-unsettling-beautiful-worlds/",
+      "source": "Creative Boom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "윈자 왕",
+      "creator_insight": "펄과 물고기 눈, 실크와 부패 같은 대비를 탐구합니다.",
+      "tags": [
+        "일러스트",
+        "예술"
+      ],
+      "execution_techniques": [
+        "대조적 표현"
+      ],
+      "why": "대조적 이미지와 예술적 해석의 독창성이 매력적입니다.",
+      "depth": 0.95,
+      "image": "https://www.creativeboom.com/upload/articles/11/114dc1ad08fc356017fc0e5069f7f1cda92d7ba1_840.jpg",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    },
+    {
+      "title": "‘STEM 교육을 놀이로 전환하는 샌프란시스코 익스플로러토리움",
+      "content": "샌프란시스코의 익스플로러토리움은 고객들이 과학적 원리를 놀이를 통해 경험할 수 있는 공간을 제공합니다.",
+      "url": "https://www.designboom.com/design/the-exploratorium-scientific-learning-stems-play/",
+      "source": "Designboom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "익스플로러토리움",
+      "creator_insight": "교육과 놀이를 결합하여 기초 과학의 즐거움을 탐색하도록 돕습니다.",
+      "tags": [
+        "교육",
+        "과학"
+      ],
+      "execution_techniques": [
+        "대화형 전시"
+      ],
+      "why": "과학에 대한 흥미를 유발하는 공간 디자인의 좋은 예입니다.",
+      "depth": 0.95,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/exploratorium-intro-designboom-03.jpg",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    },
+    {
+      "title": "AI 이미지의 자치적 난파",
+      "content": "아마존부터 틴더와 레딧까지 여러 플랫폼에서 생성된 원하지 않는 AI 이미지에 대한 논란이 일고 있습니다.",
+      "url": "https://www.creativebloq.com/ai/from-amazon-to-tinder-and-reddit-tech-platforms-are-giving-users-ai-images-they-didnt-ask-for",
+      "source": "Creative Bloq",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "크리에이티브 블로크",
+      "creator_insight": "사용자가 요청하지 않은 AI 이미지 생성이 초래하는 사회적 문제와 대응 방안을 논의합니다.",
+      "tags": [
+        "AI",
+        "디지털"
+      ],
+      "execution_techniques": [
+        "디지털 혁신"
+      ],
+      "why": "AI가 사회에 미치는 영향에 대한 심도 있는 고민을 유도합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/WXgEEFXG8UBjSLSnk2RFD8-1280-80.jpg",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    }
+  ],
   "items": [],
   "keywords": [
     "사진",
@@ -33,6 +265,36 @@
       "why": "RSS 피드가 비활성화되며, 새로운 Feed+ 서비스로 전환을 촉구하고 있습니다. 기술 변화에 대한 인사이트를 제공합니다.",
       "depth": 0.5,
       "image": "https://stats.ca-n.in/matomo.php?idsite=2&#038;rec=1&#038;apiv=1&#038;e_c=RSS&#038;e_a=Item%20Open&#038;e_n=RSS%20Feed&#038;url=https%3A%2F%2Fwww.creativeapplications.net%2Ffeeds%2F&#038;urlref=RSS%20Feed%20Public&#038;rand=214842329",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    },
+    {
+      "title": "클라우 아키텍츠",
+      "content": "건축 사무소 클루 아키텍츠의 프로젝트 이야기입니다.",
+      "url": "https://www.behance.net/gallery/161893185/Clou-Architects",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "건축"
+      ],
+      "why": "새로운 건축 전략을 소개하며 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/833d78161893185.Y3JvcCwxMDc1LDg0MCwwLDA.jpg",
+      "pub_date": "2026-06-05T08:00:00.000000"
+    },
+    {
+      "title": "베이스 엘리먼츠의 성장",
+      "content": "베이스 엘리먼츠가 성장해온 과정을 다룹니다.",
+      "url": "https://www.baseelements.net/12761-2/",
+      "source": "Base Elements Blog",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "디자인"
+      ],
+      "why": "디자인 커뮤니티에서 주목받고 있는 성장 스토리입니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
       "pub_date": "2026-06-05T08:00:00.000000"
     }
   ],

@@ -7,9 +7,298 @@
     "considered": 155,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "예술 세계의 여름 캠프: 아스펜 아트 페어, 확장보다 몰입 우선",
+      "content": "이 부티크 페어는 점점 더 야심 찬 전시자들을 끌어들이면서, 산의 독특한 특성을 이용하고 있습니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/31/aspen-art-fair-sales-report-immersion-over-expansion",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Aspen Art Fair Organizers",
+      "creator_insight": "몰입형 경험을 통해 예술품의 진정한 가치를 전달하고자 하는 아스펜 아트 페어의 혁신적인 시각입니다.",
+      "tags": [
+        "아스펜",
+        "몰입형"
+      ],
+      "execution_techniques": [
+        "#부티크",
+        "#전시"
+      ],
+      "why": "독특한 환경 속에서 새로운 아트 페어의 흐름을 볼 수 있어서 매력적입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/043d94f5e9a9f4709a7f61701ad0ea7b1eca6863-3600x2400.jpg?w=140",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    },
+    {
+      "title": "Pentagram의 Rugiet를 위한 세련된 헬스 브랜딩",
+      "content": "유명 디자인 에이전시 Pentagram은 맞춤형 아포테카리 패키징을 통해 전략적인 헬스 브랜드 아이덴티티를 구축했습니다.",
+      "url": "https://abduzeedo.com/pentagram-crafts-refined-health-branding-rugiet/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Pentagram",
+      "creator_insight": "현대 소비자의 헬스케어 요구에 맞는 정제된 브랜드 경험을 디자인합니다.",
+      "tags": [
+        "헬스",
+        "브랜딩"
+      ],
+      "execution_techniques": [
+        "#모듈형",
+        "#세련된"
+      ],
+      "why": "Pentagram의 전략적 브랜드 아이덴티티 구축 방법은 디자인 분야에 많은 통찰을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/rugiet_0.jpg",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    },
+    {
+      "title": "Vado 3 E-바이크를 위한 Inertia Studio의 런칭",
+      "content": "런던의 Inertia Studios는 우아함과 통찰력을 가지고 Vado 3 E-바이크 홍보 캠페인을 만들어냈습니다.",
+      "url": "https://www.stashmedia.tv/inertia-studios-launches-vado-3-e-bikes-for-specialized/",
+      "source": "Unknown Source",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Thomas Valente",
+      "creator_insight": "제품과 브랜드의 핵심 철학을 시각적으로 전달하는 데 중점을 둡니다.",
+      "tags": [
+        "E-바이크",
+        "홍보"
+      ],
+      "execution_techniques": [
+        "#우아함",
+        "#통찰력"
+      ],
+      "why": "표현 방식에서 제품의 럭셔리함을 멋지게 전달하는 방법을 볼 수 있습니다.",
+      "depth": 0.95,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/Specialized-Vado-3-launch-by-Inertia-Studios-STASH-MAGAZINE3-1920x1080.jpg",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    },
+    {
+      "title": "주말을 보내는 방법: Zara McIntosh의 이야기",
+      "content": "Zara McIntosh는 그녀의 이상적인 주말을 공유하며 런던의 명소와 그녀가 좋아하는 잡지들에 대한 정보를 제공합니다.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Zara McIntosh",
+      "creator_insight": "대중문화에 대한 깊은 통찰을 바탕으로 물리 미디어의 매력을 강조합니다.",
+      "tags": [
+        "런던",
+        "주말"
+      ],
+      "execution_techniques": [
+        "#대중문화",
+        "#물리미디어"
+      ],
+      "why": "개인의 문화적 취향과 소비 스타일을 엿볼 수 있어서 흥미롭습니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    },
+    {
+      "title": "Visual Thinking",
+      "content": "Un.titled에서 디자인한 이 포스터는 시각적 사고의 중요성과 창의성을 강조하고 있습니다.",
+      "url": "https://www.andrew-townsend.com/Visual-Thinking",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Un.titled",
+      "creator_insight": "시각적 요소를 통해 복잡한 아이디어를 명확하게 전달합니다.",
+      "tags": [
+        "포스터",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "#시각적사고",
+        "#창의성"
+      ],
+      "why": "시각적 매체를 통해 학습을 돕는 독특한 접근 방식을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://payload.cargocollective.com/1/1/33015/5083496/prt_1362754986.jpg",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    },
+    {
+      "title": "8가지 최고의 행거로 정리가 지루하지 않게",
+      "content": "옷 정리를 하면서도 눈에 거슬리지 않는 방법을 소개합니다.",
+      "url": "https://www.architecturaldigest.com/story/best-hangers",
+      "source": "architecturaldigest.com",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "Architectural Digest",
+      "creator_insight": "평범한 집안을 세련되게 연출할 수 있는 실용적인 아이디어를 제공합니다.",
+      "tags": [
+        "정리",
+        "행거"
+      ],
+      "execution_techniques": [
+        "#세련됨",
+        "#실용적"
+      ],
+      "why": "일상적인 물건에서 미적 가치를 끌어내는 방법이 흥미롭습니다.",
+      "depth": 0.95,
+      "image": "https://media.architecturaldigest.com/photos/6a6cdf288da15e835a667ae9/master/pass/CN00103530.jpg",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    },
+    {
+      "title": "Benny Cuppini의 주얼리 촬영",
+      "content": "Benny Cuppini는 조명을 정교하게 조정하여 주얼리의 장인정신을 드러냅니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/benny-cuppini-63824.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Benny Cuppini",
+      "creator_insight": "정밀하고 세련된 시각적 내러티브를 창출합니다.",
+      "tags": [
+        "주얼리",
+        "촬영"
+      ],
+      "execution_techniques": [
+        "#정교함",
+        "#내러티브"
+      ],
+      "why": "정교한 조명과 분위기 설정을 통해 주얼리의 아름다움을 강조합니다.",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/95221/newsletter/benny-cuppini5.jpg",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    },
+    {
+      "title": "Found Projects, Architizer A+Awards 수상",
+      "content": "로스엔젤레스 기반의 Found Projects는 공공, 문화, 주거, 조경 프로젝트로 아워드 수상작으로 선정되었습니다.",
+      "url": "https://www.adfwebmagazine.jp/en/architect/found-projects-wins-architizer-aawards-jury-prize-for-best-x-small-firm/",
+      "source": "ADF Web Magazine",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Found Projects",
+      "creator_insight": "혁신적이고 집중적인 디자인 접근으로 다양한 프로젝트를 성공적으로 수행합니다.",
+      "tags": [
+        "건축",
+        "수상"
+      ],
+      "execution_techniques": [
+        "#공공디자인",
+        "#혁신성"
+      ],
+      "why": "작은 규모의 스튜디오가 큰 성과를 이룬 성공 사례로 주목받습니다.",
+      "depth": 0.95,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-found-projects-architizer-aawards-2026-1-300x225.jpg",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    },
+    {
+      "title": "아이디어 No.410",
+      "content": "가장 최근의 디자인 트렌드와 혁신을 다루면서 창의적인 영감을 제공합니다.",
+      "url": "https://www.idea-mag.com/idea_magazine/no-410/",
+      "source": "IDEA Magazine",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "IDEA Magazine",
+      "creator_insight": "현대 디자인의 흐름을 상세히 파악할 수 있도록 안내합니다.",
+      "tags": [
+        "디자인",
+        "트렌드"
+      ],
+      "execution_techniques": [
+        "#혁신",
+        "#영감"
+      ],
+      "why": "최신 디자인 트렌드를 이해하고 창의성을 자극합니다.",
+      "depth": 0.95,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2025/06/766a5250a4ab9f07dbb6c593dbcc3cc1-550x726.jpg",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    },
+    {
+      "title": "CURATED LIMITED EDITIONS의 세계",
+      "content": "프라이버시를 살린 독특한 아트 컬렉션을 제공하며 창의적이고 혁신적인 접근 방식을 선보입니다.",
+      "url": "https://www.baseelements.net/curated-limited-editions/",
+      "source": "Base Elements Blog",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Base Elements",
+      "creator_insight": "예술 작품을 새로운 시각으로 접근하고 큐레이팅합니다.",
+      "tags": [
+        "아트",
+        "큐레이션"
+      ],
+      "execution_techniques": [
+        "#혁신",
+        "#예술"
+      ],
+      "why": "큐레이션의 새로운 지평을 열어보이며 예술 작품을 새롭게 감상할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://i0.wp.com/www.baseelements.net/wp-content/uploads/2021/12/banner-4-1-scaled-800x600.jpeg",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    },
+    {
+      "title": "Diane Arbus의 세계",
+      "content": "Diane Arbus의 예술적 세계를 탐험하며 그녀의 충격적이고 감동적인 작품들을 조명합니다.",
+      "url": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-cheimread/usr/images/artworks/main_image/items/93/9341104ed6c8497b963a92f2a5e93df3/ar.4456.jpg",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Diane Arbus",
+      "creator_insight": "개인적이고 사회적인 경계를 넘나들며 인물 사진 예술의 깊이를 제공합니다.",
+      "tags": [
+        "사진",
+        "예술"
+      ],
+      "execution_techniques": [
+        "#충격적",
+        "#감동적"
+      ],
+      "why": "Diane Arbus의 작품은 인간의 다양한 면모를 이해하는 데 큰 통찰을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://cheimread.comhttps://static-assets.artlogic.net/w_1000,h_1000,c_limit,f_auto,fl_lossy,q_auto,dpr_auto/artlogicstorage/cheimread/images/view//usr/images/artworks/main_image/items/93/9341104ed6c8497b963a92f2a5e93df3/ar.4456.jpg.gif",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "ChikaBOOM!의 손이 만드는 마법",
+      "content": "스케치 감성을 3D 그래픽으로 포장한 트라이베카 단편 영화입니다.",
+      "url": "https://motionographer.com/2026/07/27/practice-makes-magic-the-human-hands-behind-chikaboom/",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "마법"
+      ],
+      "why": "독특한 핸드드로잉 스타일이 주목받으며, 손으로 그린 감정을 새롭게 표현합니다.",
+      "depth": 0.5,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-1-700x394.jpg",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    },
+    {
+      "title": "가질 수 없는 것들",
+      "content": "돈과 나는 궁합이 잘 맞지 않는 것 같다.",
+      "url": "https://blog.naver.com/damwon/221284382362?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "주변"
+      ],
+      "why": "철학적인 말로 많은 사람들에게 공감을 얻고 있습니다.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAxODA1MjZfNiAg/MDAxNTI3MjcwNTI5OTY1.bYw3hCnU9vaJMKr0KFFrKhp2KPlUUydq3lkq6WMX6tQg.whZp7wUTUfdTwITJth95xJWpsfDDL94rGh8dovLmTk4g.JPEG.damwon/DSC_4309_2.jpg?type=s3",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    },
+    {
+      "title": "Lex Amanri 'The KiLL 2'",
+      "content": "두 친구가 미친 스크롤링 속도로 인해 광기에 휩싸입니다.",
+      "url": "https://vimeo.com/channels/staffpicks/1209547014",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "광기"
+      ],
+      "why": "비현실적이고 역동적인 이야기가 강렬한 인상을 남깁니다.",
+      "depth": 0.5,
+      "image": "https://i.vimeocdn.com/video/2179214938-e7a94bc1b037ea2ab1c76ec667904bc941239eea54a83ee26762396338c45871-d_960?region=us",
+      "pub_date": "2026-06-23T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "패션",
     "도서관",

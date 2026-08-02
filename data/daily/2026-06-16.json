@@ -28,7 +28,7 @@
       "depth": 0.95,
       "image": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&q=80&w=800",
       "pub_date": "2026-06-16T09:00:00Z",
-      "title_en": "Rinko Kawauchi's Poetic Gaze on the Ordinary",
+      "title_en": "린코 가와우치: 일상 속 숨겨진 시적 순간들",
       "content": "일본의 현대 사진 거장 린코 가와우치가 포착한 일상의 파편들. 삶과 죽음, 그리고 자연의 순환이 그녀의 따뜻한 시선과 특유의 빛을 통해 시적인 이미지로 다시 태어납니다."
     },
     {
@@ -51,7 +51,7 @@
       "depth": 0.92,
       "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=800",
       "pub_date": "2026-06-16T11:30:00Z",
-      "title_en": "Tadao Ando: The Meditative Power of Concrete and Light",
+      "title_en": "안도 다다오: 빛과 콘크리트가 빚어낸 명상적 공간",
       "content": "장식적인 요소를 모두 배제하고 노출 콘크리트와 자연의 빛만으로 공간의 영성을 극대화하는 안도 다다오. 그의 건축은 물질을 넘어 철학적 명상의 장을 제공합니다."
     },
     {
@@ -74,7 +74,7 @@
       "depth": 0.9,
       "image": "https://images.unsplash.com/photo-1507643179773-3e975d7ac515?auto=format&fit=crop&q=80&w=800",
       "pub_date": "2026-06-16T14:15:00Z",
-      "title_en": "Kenya Hara on the Aesthetics of Emptiness",
+      "title_en": "하라 켄야: '비어있음(Emptiness)'의 미학",
       "content": "무인양품의 아트 디렉터 하라 켄야가 말하는 '비어있음'의 철학. 아무것도 없는 백지 상태가 오히려 가장 많은 가능성과 상상력을 수용할 수 있는 완벽한 디자인임을 역설합니다."
     },
     {
@@ -97,7 +97,7 @@
       "depth": 0.96,
       "image": "https://images.unsplash.com/photo-1499554284534-118bd44a04fa?auto=format&fit=crop&q=80&w=800",
       "pub_date": "2026-06-16T15:00:00Z",
-      "title_en": "Hiroshi Sugimoto's Seascapes: Time Suspended",
+      "title_en": "스기모토 히로시: 시간이 정지된 바다",
       "content": "장노출 사진의 대가 스기모토 히로시가 포착한 전 세계의 바다. 하늘과 물이 만나는 수평선만이 존재하는 그의 미니멀한 흑백 사진은 태고의 지구를 마주하는 듯한 숭고함을 선사합니다."
     },
     {
@@ -120,7 +120,7 @@
       "depth": 0.93,
       "image": "https://images.unsplash.com/photo-1541888043694-c75c8088edac?auto=format&fit=crop&q=80&w=800",
       "pub_date": "2026-06-16T16:20:00Z",
-      "title_en": "Kengo Kuma on 'Weak Architecture' and Nature",
+      "title_en": "쿠마 켄고: 자연으로 스며드는 '약한 건축'",
       "content": "콘크리트의 지배를 거부하고 나무와 종이, 흙 등 자연 친화적인 소재를 활용하여 주변 환경에 겸손하게 녹아드는 쿠마 켄고의 건축 철학. 인간과 자연의 조화로운 공존을 제시합니다."
     },
     {
@@ -143,12 +143,163 @@
       "depth": 0.94,
       "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&q=80&w=800",
       "pub_date": "2026-06-16T17:10:00Z",
-      "title_en": "Naoto Fukasawa's 'Without Thought' Design Philosophy",
+      "title_en": "후카사와 나오토: 무의식의 디자인 'Without Thought'",
       "content": "사람들이 무의식적으로 행동하는 패턴을 관찰하여, 별도의 설명 없이도 가장 자연스럽고 직관적으로 사용할 수 있는 사물을 창조해 내는 후카사와 나오토의 '슈퍼 노멀' 디자인 철학입니다."
+    },
+    {
+      "title": "MUJI의 매력적인 골동품 가구 복원 프로젝트",
+      "content": "MUJI는 일본 전역의 전통 가옥에서 나온 골동품 가구를 복원하여 새로운 생명을 불어넣고 있습니다. 이 프로젝트는 전통적인 기술을 현대적인 감각으로 새롭게 해석하여 실용성과 미적 경험을 동시에 제공합니다.",
+      "url": "https://spoon-tamago.com/muji-antique-furniture/?utm_source=rss&utm_medium=rss&utm_campaign=muji-antique-furniture",
+      "source": "Spoon & Tamago",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "MUJI",
+      "creator_insight": "전통과 현대적 감각의 조화를 통한 지속 가능한 디자인을 추구합니다.",
+      "tags": [
+        "골동품",
+        "리노베이션"
+      ],
+      "execution_techniques": [
+        "#SustainableDesign"
+      ],
+      "why": "이 프로젝트는 고전적인 아름다움과 현대적 실용성을 결합시켜 새로운 문화적 가치를 창조합니다.",
+      "depth": 0.95,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/nihonnohurukagu-5-150x200.jpeg",
+      "pub_date": "2026-06-16T08:00:00.000000"
+    },
+    {
+      "title": "Kokuyo의 '투명 메커니즘' 컬렉션",
+      "content": "Kokuyo는 꾸준히 사무용 도구의 품질과 실용성을 추구해왔으며, 최근의 '투명 메커니즘' 컬렉션을 통해 제품의 기술적인 측면을 드러내는 디자인을 선보였습니다.",
+      "url": "https://spoon-tamago.com/kokuyo-transparent-mechanism/?utm_source=rss&utm_medium=rss&utm_campaign=kokuyo-transparent-mechanism",
+      "source": "Spoon & Tamago",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Kokuyo",
+      "creator_insight": "제품의 내면을 드러내어 더 투명하고 혁신적인 사용자 경험을 제공합니다.",
+      "tags": [
+        "사무용품",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#Transparency"
+      ],
+      "why": "사용자가 제품의 구조를 보며 더 깊은 이해와 만족을 느낄 수 있는 혁신적인 접근입니다.",
+      "depth": 0.95,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/07/KOKUYO-Transparent-Mechanism-6-200x134.jpeg",
+      "pub_date": "2026-06-16T08:00:00.000000"
+    },
+    {
+      "title": "럭셔리 아웃도어 디자인의 새로운 경향",
+      "content": "현대의 아웃도어 공간은 실내 공간 못지않게 정교하게 설계되며, 고급 주거 디자인의 한 부분으로 자연스럽게 통합됩니다. 이러한 공간들은 거주자의 삶의 질을 향상시키기 위한 요소로 강조됩니다.",
+      "url": "https://italydreamdesign.com/en/luxury-outdoor-design-creating-elegant-harmonious-and-truly-liveable-outdoor-spaces/",
+      "source": "Italy Dream Design",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Italy Dream Design 팀",
+      "creator_insight": "일상과 자연을 연결하는 아웃도어 공간의 가치를 중요시합니다.",
+      "tags": [
+        "아웃도어",
+        "럭셔리"
+      ],
+      "execution_techniques": [
+        "#Elegance"
+      ],
+      "why": "고급스러운 아웃도어 디자인은 주거 환경에 대한 새로운 기준을 제시합니다.",
+      "depth": 0.95,
+      "image": "https://italydreamdesign.com/wp-content/uploads/indoor-outdoor-2-300x138.jpg",
+      "pub_date": "2026-06-16T08:00:00.000000"
+    },
+    {
+      "title": "Annelies Štrba의 ‘자연 속 존재’ 탐구",
+      "content": "Annelies Štrba의 작품 'Quae est in Nature'는 자연과 인간의 상호작용을 예술적으로 표현합니다. 이 작품은 감각적이고 철학적인 시각으로 자연을 재해석합니다.",
+      "url": "https://strba.ch/2024/10/17/quae-est-in-nature/",
+      "source": "strba.ch",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Annelies Štrba",
+      "creator_insight": "자연의 본질과 그로 인해 얻는 인간의 감정을 탐구합니다.",
+      "tags": [
+        "예술",
+        "자연"
+      ],
+      "execution_techniques": [
+        "#Nature"
+      ],
+      "why": "자연에 대한 새로운 시각을 제공함으로써 교감과 통찰을 불러일으킵니다.",
+      "depth": 0.95,
+      "image": "https://strba.ch/wp-content/uploads/2024/10/strba_lange_pult24.jpg",
+      "pub_date": "2026-06-16T08:00:00.000000"
+    },
+    {
+      "title": "DNCO가 디자인한 버몬트 관광 브랜드",
+      "content": "버몬트주의 풍부한 매력을 담은 새로운 관광 브랜드는 지역 문화의 독창성과 독창적인 음식 문화를 결합하여 주의 아름다움과 다양성을 홍보합니다.",
+      "url": "https://www.creativereview.co.uk/vermont-tourism-brand-dnco/",
+      "source": "creativereview.co.uk",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "DNCO",
+      "creator_insight": "지역의 독특한 매력을 시각적으로 표현하며 관광객에게 특별한 경험을 제공합니다.",
+      "tags": [
+        "관광",
+        "브랜드"
+      ],
+      "execution_techniques": [
+        "#BrandIdentity"
+      ],
+      "why": "지역의 고유한 정체성을 강화하고 관광객의 인상을 더욱 새롭게 하는 브랜드 기획입니다.",
+      "depth": 0.95,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/DNCO_VERMONT_Logo.jpg",
+      "pub_date": "2026-06-16T08:00:00.000000"
     }
   ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "Eilish 'Intense'로 밤을 물들이는 새로운 향수",
+      "content": "Billie Eilish의 'Eilish Intense'는 야간의 시그니처 향으로 새롭게 디자인된 향수입니다.",
+      "url": "https://hypebeast.kr/2026/8/billie-eilish-intense-eau-de-parfum-release-info",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "향수"
+      ],
+      "why": "Billie Eilish의 혁신적인 향수가 시장의 큰 반향을 일으키고 있기 때문입니다.",
+      "depth": 0.5,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2FBillie-Eilish-Intense-Eau-de-Parfum-Release-Info.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-06-16T08:00:00.000000"
+    },
+    {
+      "title": "optical illusion으로 창조한 순수한 악몽",
+      "content": "메이크업 아티스트 Katie Oja가 닉키의 무시무시한 외모를 간단한 착시 효과로 창조했습니다.",
+      "url": "https://www.creativebloq.com/creative-inspiration/optical-illusions/how-obsession-used-optical-illusion-makeup-to-create-pure-nightmare-fuel",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "메이크업"
+      ],
+      "why": "착시 메이크업 기법은 충격적이면서도 토론할 가치가 있는 새로운 미적 경계를 제시합니다.",
+      "depth": 0.5,
+      "image": "https://cdn.mos.cms.futurecdn.net/RY5iRm8AjXq5RwUhjR9Tim-1280-80.jpg",
+      "pub_date": "2026-06-16T08:00:00.000000"
+    },
+    {
+      "title": "AI 네이티브 플랫폼 통해 업무 효율 증대 사례",
+      "content": "n8n 플랫폼은 AI를 활용하여 과거의 자동화 툴이 못다한 효율적인 결과를 제공합니다.",
+      "url": "https://blog.naver.com/nkj2001/223911763746?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "자동화"
+      ],
+      "why": "AI와 자동화 기술의 결합이 작업 방식에 혁신적인 변화를 가져옵니다.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNTA2MjVfNTMg/MDAxNzUwODU5NjMwNzMz.qMFfhFerNgbyc-AmICNWqsIbKj7npEZXAX9yUTdeHB8g.hkdPTjAybpCq9Vdy4xMbPzjcMutYYjWCg3ZXhKGYuqcg.JPG/tmpa8jfuqer.jpg?type=s3",
+      "pub_date": "2026-06-16T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "더퍼 형제",
     "미스터리",

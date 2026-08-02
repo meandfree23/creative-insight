@@ -28,22 +28,42 @@
       "depth": 0.95,
       "image": "기사의 이미지 URL",
       "pub_date": "2026-07-22T08:00:00.000000"
+    },
+    {
+      "title": "",
+      "content": "",
+      "url": "",
+      "source": "",
+      "domain": "",
+      "category": "리뷰",
+      "creator_name": "",
+      "creator_insight": "",
+      "tags": [
+        ""
+      ],
+      "execution_techniques": [
+        ""
+      ],
+      "why": "",
+      "depth": 0.95,
+      "image": "",
+      "pub_date": "2026-07-22T08:00:00.000000"
     }
   ],
   "popcorn": [
     {
-      "title": "제목을 한국어로 번역하세요",
-      "content": "1문장 요약을 한국어로 작성하세요",
-      "url": "기사의 원본 링크를 입력하세요",
-      "source": "소스명을 입력하세요",
+      "title": "",
+      "content": "",
+      "url": "",
+      "source": "",
       "domain": "POPCORN",
       "category": "바이럴",
       "tags": [
-        "태그1"
+        ""
       ],
-      "why": "이것이 왜 인기 있는 기사인지 설명하세요",
+      "why": "",
       "depth": 0.5,
-      "image": "이미지 URL",
+      "image": "",
       "pub_date": "2026-07-22T08:00:00.000000"
     }
   ],

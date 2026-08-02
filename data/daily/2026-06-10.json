@@ -7,7 +7,239 @@
     "considered": 33,
     "selected": 12
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "비센조 아네티의 위대한 예술 세계",
+      "content": "폴리냐노의 파스칼리 재단에서 열리는 이 전시는 이탈리아 예술가 비센조 아네티의 초기 1970년대를 집중 조명합니다. 특히 1973년, 아네티가 프리미오 파스칼리를 수상한 해를 중심으로 작품을 전시하고 있습니다.",
+      "url": "https://www.artribune.com/arte-contemporanea-2/2026/08/vincenzo-agnetti-mostra-centenario/",
+      "source": "Artribune",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "비센조 아네티",
+      "creator_insight": "비센조 아네티는 예술적 실험과 현대 미술의 교차점에서 독특한 경로를 개척했습니다.",
+      "tags": [
+        "예술",
+        "전시"
+      ],
+      "execution_techniques": [
+        "#ContemporaryArt"
+      ],
+      "why": "비센조 아네티의 작품 세계는 그의 시대를 넘어서 강력한 메시지를 전합니다.",
+      "depth": 0.95,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/07/ba261296-1.jpg",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    },
+    {
+      "title": "크리스 “데이즈” 엘리스의 지하 세계에서의 '난초 비'",
+      "content": "크리스 “데이즈” 엘리스의 세 번째 개인전이 뉴욕의 PPOW 갤러리에서 열리고 있습니다. 이 전시는 1970년대와 80년대의 그래피티의 열정과 자발성을 되살리면서도 수십 년간 갈고 닦은 신중하고 정교한 예술 의식을 보여줍니다.",
+      "url": "https://www.juxtapoz.com/news/graffiti/chris-daze-ellis-orchid-rain-on-the-underground-ppow-gallery-nyc/",
+      "source": "Juxtapoz",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "크리스 '데이즈' 엘리스",
+      "creator_insight": "크리스 엘리스는 시대를 넘어 그래피티의 정신과 에너지를 현대에 맞게 부활시켰습니다.",
+      "tags": [
+        "그래피티",
+        "전시"
+      ],
+      "execution_techniques": [
+        "#GraffitiArt"
+      ],
+      "why": "이 전시는 현대 도시문화와 그래피티 미술의 지속성을 탐구합니다.",
+      "depth": 0.95,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/6ea52af46917f156ac0499123960e4de_L.jpg",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    },
+    {
+      "title": "패션 프로젝트로 코카서스의 공예 보호",
+      "content": "갈리브 가산노프가 설립한 패션 및 사회예술 프로젝트는 코카서스 지역의 장인들과 함께 위기에 처한 전통 공예를 의류와 문화 교류를 통해 보존하려고 합니다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17346/institution-fashion-interview-galib-gassonoff?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=institution-the-fashion-project-preserving-the-crafts-of-the-caucasus",
+      "source": "anothermag.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "갈리브 가산노프",
+      "creator_insight": "갈리브 가산노프는 의류를 통해 코카서스 공예의 소중함을 널리 알리고 있습니다.",
+      "tags": [
+        "패션",
+        "공예"
+      ],
+      "execution_techniques": [
+        "#CulturalFashion"
+      ],
+      "why": "이 프로젝트는 지역의 전통과 현대 패션을 융합시켜 문화적 유산을 보존하는 데 중요한 역할을 합니다.",
+      "depth": 0.95,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476186.jpeg",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    },
+    {
+      "title": "웨얼 돌스 행: 멕시코 민속에서 영감을 받은 공포 게임",
+      "content": "스틸크릴 스튜디오의 창립자 라이언 포텔리는 심리적 공포 게임 '웨얼 돌스 행'의 창작 과정을 공유했습니다. 그는 멕시코 민속을 게임에 적용하고 신체적 요소와 초자연적 요소를 결합하는 방법을 설명합니다.",
+      "url": "https://80.lv/articles/where-dolls-hang-creating-a-horror-game-inspired-by-mexican-folklore/",
+      "source": "80 Level",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "라이언 포텔리",
+      "creator_insight": "라이언 포텔리는 전통과 공포의 결합을 통해 몰입적인 경험을 창조합니다.",
+      "tags": [
+        "비디오게임",
+        "공포"
+      ],
+      "execution_techniques": [
+        "#GameDesign"
+      ],
+      "why": "멕시코의 풍부한 문화 유산을 탐색하며 게임 산업에 새로운 영감을 줍니다.",
+      "depth": 0.95,
+      "image": "https://cdn.80.lv/api/upload/post/41090/images/6a6c0376c742a/cover_800x800.jpg",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    },
+    {
+      "title": "페르난도 알론소를 위한 헌정 벽화",
+      "content": "아스톤 마틴 F1은 스페인 바르셀로나 그랑프리 기간에 주력 드라이버인 페르난도 알론소에게 경의를 표하기 위해 벽화를 의뢰했습니다.",
+      "url": "https://www.streetartbcn.com/tribute-to-fernando-alonso-for-aston-martin-f1-by-fert-one/",
+      "source": "Street Art Barcelona",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Fert One",
+      "creator_insight": "Fert One은 페르난도 알론소의 업적과 열정을 시각적으로 표현합니다.",
+      "tags": [
+        "스포츠",
+        "스트리트 아트"
+      ],
+      "execution_techniques": [
+        "#StreetArt"
+      ],
+      "why": "운동 선수에게 경의를 표하는 예술 프로젝트로, 스포츠와 예술의 만남을 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2025/09/Need_to_know_Spain_mural_2.jpg",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    },
+    {
+      "title": "유머 넘치는 그림자 작품",
+      "content": "예술가 Vincent Bal은 그림자들을 활용하여 독창적이고 유머러스한 형태의 예술 작품을 창조합니다.",
+      "url": "https://www.fubiz.net/2023/01/10/amusing-pieces-made-with-shadows-3/",
+      "source": "Fubiz",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Vincent Bal",
+      "creator_insight": "Vincent Bal은 일상적인 물체와 그림자를 창의적으로 결합하여 유머를 더합니다.",
+      "tags": [
+        "예술",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "#ShadowArt"
+      ],
+      "why": "일상의 간과하기 쉬운 한 순간을 새롭게 보게 만듭니다.",
+      "depth": 0.95,
+      "image": "https://www.fubiz.net/wp-content/uploads/2022/01/VB6.jpg",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    },
+    {
+      "title": "William N. Copley의 'X-Rated' 전시",
+      "content": "베를린의 Galerie Max Hetzler에서는 William N. Copley의 'X-Rated' 시리즈를 전시 중입니다. 이 시리즈는 1972-1974년 사이에 작업된 작품들을 다루고 있습니다.",
+      "url": "https://www.juxtapoz.com/news/painting/william-n-copley-x-rated-1972-1974-galerie-max-hetzler-berlin/",
+      "source": "Juxtapoz",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "William N. Copley",
+      "creator_insight": "Copley는 자신의 작품을 통해 개방성과 탐험 정신을 강조합니다.",
+      "tags": [
+        "예술",
+        "전시"
+      ],
+      "execution_techniques": [
+        "#PopArt"
+      ],
+      "why": "1970년대의 문화와 예술적 시도가 만나 생긴 작품들로, 오늘날에도 그 의미를 찾아볼 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/fe3ae852da4c9b4899a335d0e4574387_L.jpg",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    },
+    {
+      "title": "Diane Arbus 작품의 미적 탐구",
+      "content": "Diane Arbus는 사진을 강력한 서사로 화한 특유의 방식으로 유명합니다. 그녀의 작품은 당시의 사회적 이슈와 인간 심리에 대한 심오한 통찰을 제공합니다.",
+      "url": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-cheimread/usr/images/artworks/main_image/items/c8/c8bcc4f607f3441d8fa8bea1e85a1aea/ar.15869.41.jpg",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Diane Arbus",
+      "creator_insight": "아르버스는 독특한 인물 사진을 통해 인간의 심리와 사회의 어두운 면을 드러냅니다.",
+      "tags": [
+        "사진",
+        "심리"
+      ],
+      "execution_techniques": [
+        "#Photography"
+      ],
+      "why": "초기 시대에는 덜 주목받았으나, 현대에 와서는 그녀의 작품의 가치와 영향을 재조명하고 있습니다.",
+      "depth": 0.95,
+      "image": "https://cheimread.comhttps://static-assets.artlogic.net/w_1000,h_1000,c_limit,f_auto,fl_lossy,q_auto,dpr_auto/artlogicstorage/cheimread/images/view//usr/images/artworks/main_image/items/c8/c8bcc4f607f3441d8fa8bea1e85a1aea/ar.15869.41.jpg.gif",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    },
+    {
+      "title": "카페 파리에서의 추억: 빛과 시가 머무는 공간",
+      "content": "페르우 거리의 돌담에 아르튀르 랭보의 시가 새겨져 있는 이곳은 문학 애호가들의 명소로, 랭보의 시적 감성을 만날 수 있습니다.",
+      "url": "https://blog.naver.com/justina75/224330968207?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "아르튀르 랭보",
+      "creator_insight": "랭보는 파리의 거리 풍경에 그의 시적 소울을 새겨놓았습니다.",
+      "tags": [
+        "문학",
+        "추억"
+      ],
+      "execution_techniques": [
+        "#Poetry"
+      ],
+      "why": "문학적 감정과 대도시 풍경의 만남이 인상적입니다.",
+      "depth": 0.95,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjlfNDAg/MDAxNzgyNzE3OTk4NDYw._ukdOY2mt2u9JuO4-bwmdDHcj6Ugag0rt7frEk_Nv6og.SO0grQQmzrvYKGHy0BswJEh7P_jc2VBIM1tWojUcI7kg.JPEG/900_Screenshot_20260629_092340_NAVER.jpg?type=s3",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    },
+    {
+      "title": "Annelies Štrba의 꽃",
+      "content": "Annelies Štrba의 작품은 시적이고 비현실적인 분위기를 담고 있으며, 그녀의 작품은 미학적 아름다움과 감정의 깊이를 동시에 전달합니다.",
+      "url": "https://strba.ch/2025/10/10/blumen-fur-die-madonna/",
+      "source": "strba.ch",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Annelies Štrba",
+      "creator_insight": "Štrba는 그녀의 작품을 통해 인간 경험의 다각적 측면을 탐구합니다.",
+      "tags": [
+        "예술",
+        "포토"
+      ],
+      "execution_techniques": [
+        "#PhotoArt"
+      ],
+      "why": "사적이며 동시에 보편적인 주제를 다루는 작품으로 관람자에게 깊은 인상을 남깁니다.",
+      "depth": 0.95,
+      "image": "https://strba.ch/wp-content/uploads/2025/10/galerie-einladungskarte-2025-a5-annelies-strba-klein-800x.jpg",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    },
+    {
+      "title": "The Shudder Palace 전시회",
+      "content": "마그다레나 비소츠카와 클라우디오 포고를 포함한 16명의 예술가들이 제네바 사진 센터에서 'The Shudder Palace'에 참가합니다. 이 전시는 사진 이미지를 현실의 기록으로 보기보다 유동적이고 불안정한 것으로 다룹니다.",
+      "url": "https://opendoors.gallery/the-shudder-palace-exhibition",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Danaé Panchaud",
+      "creator_insight": "Danaé Panchaud는 사진을 통해 현실을 재구성하고 그 유동성을 강조합니다.",
+      "tags": [
+        "예술",
+        "사진"
+      ],
+      "execution_techniques": [
+        "#PhotographyExhibition"
+      ],
+      "why": "사진 이미지의 새로운 관점을 제공하며, 디지털 시대의 미디어에 대한 비판적 시각을 제시합니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    }
+  ],
   "items": [],
   "keywords": [
     "음악",
@@ -19,7 +251,53 @@
     "캠페인",
     "자연"
   ],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "블로그 수익화와 유튜브 쇼츠에서 AI의 역할",
+      "content": "최근 AI Agent를 활용해 블로그와 유튜브 쇼츠를 자동으로 제작하는 방법이 화제가 되고 있습니다.",
+      "url": "https://blog.naver.com/nkj2001/223982790267?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "AI"
+      ],
+      "why": "AI 활용 사례가 점점 증가하면서 많은 사람들이 이에 대해 관심을 가집니다.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNTA4MjVfMjM0/MDAxNzU2MTAwNjIwMTM5.WBch_gHK3t1Epsd8h7fSzlO7n39yzoYPWsEUwtPw6qcg.eCUdIDV_QmhqiPi_8KVLdQNPc8l0GMmg0skneRQJQnAg.PNG/image.png?type=s3",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    },
+    {
+      "title": "TikTok 슬랭 영향과 브랜드의 실패",
+      "content": "청소년 언어를 이용한 브랜드의 마케팅은 이미 유행이 지난 후에 안전하게 사용할 수 있습니다.",
+      "url": "https://www.creativeboom.com/insight/the-tiktok-slang-trap-why-brands-using-it-are-already-cooked/",
+      "source": "Creative Boom",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "TikTok"
+      ],
+      "why": "브랜드의 유행어 활용 실패가 소셜 미디어 상에서 어떻게 조롱의 대상이 되는지를 보여줍니다.",
+      "depth": 0.5,
+      "image": "https://www.creativeboom.com/upload/articles/29/2960475b9ec0fd277be7436e09ce2a266db63ea2_840.jpeg",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    },
+    {
+      "title": "마에바시 비엔날레 2026의 웹사이트 공개",
+      "content": "마에바시 비엔날레 2026은 전 세계에 걸쳐 다양한 예술 작품을 선보이며 창의적인 에너지를 발산하고자 합니다.",
+      "url": "https://www.adfwebmagazine.jp/en/art/maebashi-biennale-2026-unveiled-its-official-website/",
+      "source": "ADF Web Magazine",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "비엔날레"
+      ],
+      "why": "예술 애호가들은 이 웹사이트를 통해 비엔날레의 모든 최신 정보를 얻고 싶어할 것입니다.",
+      "depth": 0.5,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/07/adf-web-magazine-maebashi-intl-art-fest-2026-1-212x300.jpg",
+      "pub_date": "2026-06-10T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "컬처럴 브랜딩과 리미티드 에디션 전략",
