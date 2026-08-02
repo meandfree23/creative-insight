@@ -30,6 +30,17 @@ jobs:
         run: |
           pip install -r requirements.txt
 
+      - name: Run Radar Agent (Sundays Only)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ $(date +%w) -eq 0 ]; then
+            echo "Running Radar Agent to discover new sources..."
+            python agents/radar.py
+          else
+            echo "Not Sunday. Skipping Radar Agent."
+          fi
+
       - name: Run script
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
