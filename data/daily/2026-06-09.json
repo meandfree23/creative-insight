@@ -111,6 +111,132 @@
       "depth": 0.95,
       "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
       "pub_date": "2026-06-09T08:00:00.000000"
+    },
+    {
+      "title": "The Weekend With Zara McIntosh",
+      "content": "팝 컬처 애호가이자 피지컬 미디어의 여왕인 Zara McIntosh가 런던 최고의 장소와 여름 사운드트랙을 소개합니다.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "Zara McIntosh는 다양한 문화적 요소로 창의적인 삶을 살아가며, 자신의 독창적인 시각을 통해 주변 세계를 탐험합니다.",
+      "tags": [
+        "팝 컬처",
+        "런던"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "Zara의 경험을 통해 새로운 시각으로 런던을 탐험할 수 있는 기회를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    },
+    {
+      "title": "ChaChaanTeng’s saucy auto-mayo-mat activation for Heinz",
+      "content": "ChaChaanTeng은 Heinz 마요네즈와 함께 로맨틱한 음식 체험을 제공하며 일본 자판기의 물리적 감성을 선보입니다.",
+      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "음식의 감정적 연결과 시각적 경험을 강조하여 현대적 소비 문화에 도전합니다.",
+      "tags": [
+        "음식",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "음식과 디자인의 결합을 통해 전통적인 고객 경험을 재해석합니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    },
+    {
+      "title": "Spa Eclectics: At Karlovy Vary",
+      "content": "카를로비바리 국제영화제는 1946년 설립 후 지속적으로 높은 국제적 영향을 미쳐왔으며 현재도 중요한 영화 축제로 자리매김하고 있습니다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "카를로비바리의 역사적인 맥락과 그 안에서의 영화적 성장을 심도 있게 분석합니다.",
+      "tags": [
+        "영화제",
+        "역사"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "카를로비바리 영화제가 어떻게 국제 영화계에서 중요한 위치를 차지하는지 이해할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    },
+    {
+      "title": "Weaving The Odyssey",
+      "content": "제니퍼 림이 놀란 감독의 영화 '테넷' 편집에 참여하며, 자신만의 창의성을 발휘하며 도전적인 장면들을 극복합니다.",
+      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "림의 창의적인 접근 방식과 그녀가 어떻게 도전적인 장면을 해결했는지 보여줍니다.",
+      "tags": [
+        "영화",
+        "편집"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "복잡한 영화를 다루는 편집자의 창의성을 엿볼 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    },
+    {
+      "title": "Faception Reloaded Tee",
+      "content": "Urban Privacy의 Faception 티셔츠는 다수의 그래픽을 활용해 얼굴 인식 시스템을 혼란시킵니다.",
+      "url": "https://coolhunting.com/buy/faception-reloaded-tee/",
+      "source": "coolhunting.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "기술의 한계를 넘어서며 패션에서 새로운 실험을 추구합니다.",
+      "tags": [
+        "패션",
+        "기술"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "기술과 패션의 교차점을 탐구하며, 독특한 실험적 패션 아이템을 소개합니다.",
+      "depth": 0.95,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/6B4F4DEC-4E02-46D7-A7E8-577616AA85CB_1_201_a-768x768.jpeg",
+      "pub_date": "2026-06-09T08:00:00.000000"
+    },
+    {
+      "title": "Free Range 2026 [Top 10]",
+      "content": "Free Range는 신진 사진 작가를 발굴하여 영국 전역의 뛰어난 졸업 작품을 한자리에 모아 선보입니다.",
+      "url": "https://opendoors.gallery/top-ten",
+      "source": "Open Doors Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "새로운 창의적 인재를 지원하고 그들의 작품을 널리 알립니다.",
+      "tags": [
+        "사진",
+        "전시회"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "신진 작가들에게 주목하며, 창의적인 작품을 발견할 수 있는 기회를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-06-09T08:00:00.000000"
     }
   ],
   "items": [],

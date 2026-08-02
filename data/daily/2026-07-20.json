@@ -7,8 +7,287 @@
     "considered": 40,
     "selected": 14
   },
-  "topPicks": [],
-  "popcorn": [],
+  "topPicks": [
+    {
+      "title": "악테오 시계 디자인 리뷰",
+      "content": "악테오는 시계 그 이상의 의미를 전달하며, 꿈과 열정을 상징적으로 표현하는 디자인으로 명성을 얻고 있습니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "프랑스 디자이너 Jean Christophe Mareshal의 창의적인 오브제 배치.",
+      "tags": [
+        "design",
+        "watch"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "디자인의 상징성과 감각적인 표현이 돋보이는 기사",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title": "플로이드 메이웨더 주니어의 초호화 생활",
+      "content": "무패 복서 메이웨더의 화려한 생활과 그의 상징적 이미지가 소개됩니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "메이웨더의 사적인 생활을 통해 그의 대중적인 이미지 뒷면을 조명합니다.",
+      "tags": [
+        "celebrity",
+        "boxing"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "스포츠 인물의 삶을 감각적으로 묘사한 기사",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title": "스위스의 사진가, 김 저스틴 헬",
+      "content": "럭셔리 시계와 고급 제품 촬영으로 유명한 김 저스틴 헬의 작품 세계를 소개합니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "품질과 정밀함을 위한 탁월한 사진 기술.",
+      "tags": [
+        "photography",
+        "luxury"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "사진 기술과 디자인의 조합을 통해 시각적 예술을 경험할 수 있는 기사",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title": "헤인즈 마요와 일본 자판기 컨셉의 조화",
+      "content": "챠찬텡의 헤인즈 마요 프로젝트는 일본 자판기의 물리성을 로맨틱하게 재해석합니다.",
+      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "AI 기술을 넘어서는 물리적 경험의 중요성을 제시",
+      "tags": [
+        "design",
+        "branding"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "신선한 관점으로 창의적인 디자인을 탐구한 기사",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title": "에디 페이크와 이미지로 소통하는 예술",
+      "content": "에디 페이크는 건축을 주제로 이미지로 소통하는 독특한 예술을 추구합니다.",
+      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "건축과 이미지를 통해 새롭게 해석되는 소통의 방식.",
+      "tags": [
+        "art",
+        "communication"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "건축과 예술을 결합한 독특한 표현 방식이 돋보이는 기사",
+      "depth": 0.95,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title": "네알 휘팅턴과 Present & Correct의 탄생 이야기",
+      "content": "인기 있는 인쇄물 및 문구 브랜드가 그 출판계에 첫발을 내딛기까지의 여정을 소개합니다.",
+      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "브랜드의 출판 활동으로 확장의 가능성을 보여줍니다.",
+      "tags": [
+        "design",
+        "branding"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "브랜드 확장의 새로운 가능성을 탐구한 기사",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title": "알렉산드라 드류친의 예술과 모성의 세계",
+      "content": "알렉산드라 드류친의 예술 세계는 모성 경험에 의해 더욱 풍부해졌습니다.",
+      "url": "https://thecreativeindependent.com/people/musician-and-artist-alexandra-drewchin-eartheater-on-following-the-deep-feeling/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "모성이라는 새로운 경험을 통해 예술적 접근을 확장합니다.",
+      "tags": [
+        "music",
+        "art"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "예술과 삶의 조화를 탐색하는 기사",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title": "미술 전시 '셔더 팰리스'",
+      "content": "총 16명의 작가가 참여한 전시로, 사진 이미지를 유동적이고 변화하는 것으로 탐구합니다.",
+      "url": "https://opendoors.gallery/the-shudder-palace-exhibition",
+      "source": "Open Doors Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "사진의 유연한 본질을 탐구하며, 고정된 틀을 넘어선 다양한 시각을 제시합니다.",
+      "tags": [
+        "photography",
+        "exhibition"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "사진의 새로운 가능성을 제시하는 깊이 있는 접근.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title": "칼로비 바리 영화제의 역사",
+      "content": "카를로비 바리 국제 영화제는 1946년 첫 개최에서부터 현재까지 이어온 변화와 도전을 탐구합니다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "영화제의 역사적 맥락과 그 영향력을 다방면에서 조명합니다.",
+      "tags": [
+        "film",
+        "festival"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "역사적 흐름과 오늘날의 영향력을 연결짓는 의미 있는 기사",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title": "모나코의 야티히 고딕 타입 디자인",
+      "content": "모든 탐사를 통한 구조화된 타이포그래피 디자인 시스템을 소개합니다.",
+      "url": "https://abduzeedo.com/branding-visual-identity-grid-layout-typography-us-vs-them/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "타이포그래피를 통해 브랜드의 정체성을 강화하는 방법을 제시합니다.",
+      "tags": [
+        "typography",
+        "design"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "타이포그래피의 중요한 역할과 혁신성을 알리는 기사",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_us-vs-them-visual-identity-monga-design.jpg",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title": "매디슨 사각형 관리자 요세바실 비전원 조명기구",
+      "content": "이 새로운 가구 접근 방식은 공간을 더욱 재미있고 창의적으로 구성합니다.",
+      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "경험적이고 창의적인 시각에서 패키징을 탐구합니다.",
+      "tags": [
+        "design",
+        "packaging"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "공간 디자인에 중요한 영향을 미칠 수 있는 패키징에 관한 새롭고 깊이 있는 접근을 제공.",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "Zara McIntosh의 주말 이야기",
+      "content": "팝 문화와 물리적 미디어의 여왕인 Zara McIntosh는 그녀의 주말 및 여름 사운드트랙을 소개합니다.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
+      "source": "It's Nice That",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "pop culture"
+      ],
+      "why": "팝 문화 애호가를 위한 이색적이고 감각적인 기사",
+      "depth": 0.5,
+      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title": "Free Range 2026: Top 10 선정",
+      "content": "매년 오픈 도어스 갤러리는 Free Range를 통해 새로운 창의적 인재를 발굴합니다.",
+      "url": "https://opendoors.gallery/top-ten",
+      "source": "Open Doors Gallery",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "photography"
+      ],
+      "why": "새로운 사진가들의 작품을 소개하는 매력적인 기획",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    },
+    {
+      "title": "컬렉션으로 돌아온 '디너쇼 수퍼클럽'",
+      "content": "Chase Sapphire Reserve가 뉴욕에 permanence를 둔 Delilah을 설치하며 고급스러운 식사 문화를 복원합니다.",
+      "url": "https://coolhunting.com/culture/outside-the-four-walls-delilah-chase-sapphire-reserve-and-the-return-of-the-supper-club/",
+      "source": "coolhunting.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "food",
+        "culture"
+      ],
+      "why": "문화적 경험을 재발견하는 재미있고 흥미로운 기사",
+      "depth": 0.5,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/176_Chase-Sapphire-Delilah_Montauk_jermcohen-7.23.2026-768x512.jpg",
+      "pub_date": "2026-07-20T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

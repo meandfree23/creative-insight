@@ -7,8 +7,286 @@
     "considered": 40,
     "selected": 14
   },
-  "topPicks": [],
-  "popcorn": [],
+  "topPicks": [
+    {
+      "title": "프레젠트 앤 코렉트의 비밀 이야기",
+      "content": "프레젠트 앤 코렉트는 모든 그래픽 디자이너의 꿈을 실현하는 완벽한 문구점입니다.",
+      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "혁신적인 문구점이 출판 세계로 발을 들인 이야기입니다.",
+      "tags": [
+        "stationery",
+        "design"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "문구점이 출판 세계로 진출하는 과정을 다룬 기사가 흥미롭습니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title": "카를로비 바리에서의 스파 이클렉트릭스",
+      "content": "카를로비 바리 국제 영화제는 독점과 생존의 여정을 거친 영화제로, 1946년 첫 개최 이후 꾸준히 발전해왔습니다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "오랜 전통과 국제적 영향력을 가진 영화제의 매력을 탐구하는 기사입니다.",
+      "tags": [
+        "film festival",
+        "Karlovy Vary"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "카를로비 바리 영화제가 가진 역사를 통해 지속 가능한 문화의 중요성을 배울 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title": "에디 페이크: 이미지와 소통하기",
+      "content": "에디 페이크는 이미지를 통해 소통하는 예술가이자 활동가입니다.",
+      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "이미지를 통해 자신과 주변을 표현하는 방법을 탐구하는 예술가의 이야기입니다.",
+      "tags": [
+        "artist",
+        "communication"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "이미지를 매개로 소통하는 다양한 방법을 소개하여 시각적 이해를 높입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title": "아야라 커피 컴퍼니의 촉감적 패키징",
+      "content": "아야라 커피 컴퍼니는 타이포그래피 레이아웃을 통해 브랜드 정체성을 재확립했습니다.",
+      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "구조적인 패키징 디자인을 통해 브랜드 정체성을 어떻게 전달하는지 설명합니다.",
+      "tags": [
+        "packaging",
+        "branding"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "브랜드 아이덴티티를 구축하는 과정과 그것의 중요성을 소개합니다.",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title": "포토 런던 2026 아트 페어",
+      "content": "포토 런던 페어는 현대 예술가들의 독특한 작품과 함께 새로운 대표 예술가들의 작업을 소개합니다.",
+      "url": "https://opendoors.gallery/photo-london-2026-art-fair",
+      "source": "Open Doors Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "유서 깊은 예술 페어에서 현대 예술의 다양한 변화를 탐구합니다.",
+      "tags": [
+        "art",
+        "fair"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "역사적 배경을 가진 예술 페어에서의 현대 예술 변화와 발전을 조망합니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title": "'플로이드 메이웨더'의 초호화 삶",
+      "content": "플로이드 메이웨더는 무패 기록을 가진 최고의 복서로, 그의 호화로운 생활 방식 역시 눈길을 끕니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "메이웨더의 개인적 삶과 초호화 생활의 뒷이야기를 탐구합니다.",
+      "tags": [
+        "boxing",
+        "lifestyle"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "스포츠 스타의 사생활 탐구를 통해 그들의 라이프스타일이 어떻게 형성되는지 이해할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title": "칼럼: 플라워 아트와의 대화",
+      "content": "칼린 루거버는 꽃을 예술로 표현하는 데 집중하는 아티스트로, 그녀의 작업에는 감성적 우아함이 가득합니다.",
+      "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "꽃을 소재로 한 예술에 대한 독창적 관점을 제공하는 인터뷰입니다.",
+      "tags": [
+        "flowers",
+        "art"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "꽃을 예술로 풀어낸 작가의 미적 탐구가 흥미를 끕니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/06/ignant-carolin-ruggaber-clemens-poloczek-1-720x1079.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title": "패션의 뉴 아이콘 ‘아크테오 시계’",
+      "content": "아크테오 시계는 예술적 디자인을 통해 꿈과 열정을 상징하는 특별한 시계입니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "꿈과 열망을 시각화한 시계의 디자인적 특성을 탐구합니다.",
+      "tags": [
+        "watch",
+        "fashion"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "패션 악세사리로서 새로운 아이디어를 제공하는 시계의 독창성이 주목됩니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title": "프리 레인지 2026 [Top 10]",
+      "content": "프리 레인지는 창의적인 신진 작가를 소개하는 중요한 문화 허브로, 그 매년의 성과를 조망합니다.",
+      "url": "https://opendoors.gallery/top-ten",
+      "source": "Open Doors Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "신진작가의 시각적 성취와 갤러리 선정의 중요성을 제시합니다.",
+      "tags": [
+        "art",
+        "emerging"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "신진 작가들이 어떤 방식으로 창의력을 발휘하고 있는지를 살펴봅니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title": "로이드 메이웨더의 화려한 생활",
+      "content": "플로이드 메이웨더 주니어는 자신의 부유함을 다양한 방식으로 과시하며 초호화 생활을 즐기는 것으로 잘 알려져 있습니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "스포츠 스타가 어떻게 재산을 축적하고 사용하는지에 대한 통찰력을 제공합니다.",
+      "tags": [
+        "lifestyle",
+        "wealth"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "부유한 스포츠 스타의 사치를 통해 현대인의 가치관을 탐구합니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title": "현대 일본 차 바 '키사보우'",
+      "content": "베를린에 위치한 일본 현대 차 바인 키사보우에서는 전통과 현대가 만나는 특별한 차 문화를 체험할 수 있습니다.",
+      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "차 바라는 공간이 어떻게 젊은 세대를 위한 만남의 장소가 되는지 설명합니다.",
+      "tags": [
+        "tea",
+        "culture"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "전통과 현대의 융합이 이루어진 특별한 문화 공간을 발견합니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/06/kissabo-720x1280.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "초호화 스타선수의 생활과 꿈",
+      "content": "플로이드 메이웨더는 세계 최고의 복서로서의 명성과 함께 초호화 생활을 즐기며 꿈을 펼쳐나가고 있습니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "boxing"
+      ],
+      "why": "스포츠 스타의 사생활과 화려한 라이프스타일을 흥미롭게 다룬 기사입니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title": "드림 시계: 악테오",
+      "content": "악테오 시계는 단순한 시계가 아닌, 예술적인 디자인과 열정을 담은 창의적인 패션 시계입니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "watch"
+      ],
+      "why": "창의적인 패션 악세사리로서의 기발한 시계 디자인이 매력적입니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title": "길레트: 100년의 머리 이야기",
+      "content": "길레트의 100년의 역사와 트렌드를 시대별 노래와 함께 소개하는 흥미로운 영상입니다.",
+      "url": "https://honestart.tistory.com/96",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "Gillette"
+      ],
+      "why": "시대에 따른 변화와 트렌드를 참신하게 표현한 영상으로 재미를 느낄 수 있습니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "pub_date": "ver.1T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

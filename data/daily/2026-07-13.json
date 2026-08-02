@@ -7,8 +7,286 @@
     "considered": 30,
     "selected": 14
   },
-  "topPicks": [],
-  "popcorn": [],
+  "topPicks": [
+    {
+      "title": "주말, 자라 맥킨토시와 함께",
+      "content": "대중문화 전문가이자 물리적 매체의 여왕인 자라 맥킨토시가 그녀의 이상적인 주말을 소개합니다. 그녀는 런던 최고의 장소, 퀴어 잡지 추천 리스트, 그리고 여름 사운드트랙까지 아낌없이 공유합니다.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "자라 맥킨토시는 대중문화 전문가로서 독자들에게 자신만의 독창적인 세계를 제공하며, 각자의 일상에서 새로운 영감을 얻을 수 있는 방법을 제시합니다.",
+      "tags": [
+        "대중문화",
+        "주말"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "런던에서 색다른 경험을 하고 싶은 사람들에게 유용한 정보를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title": "Present & Correct 이야기",
+      "content": "Present & Correct는 그래픽 디자이너들을 위한 문구점으로, 이들은 출판계에 첫 발을 내딛었습니다. 공동 창립자인 닐 위팅턴과 함께 점포의 전설적인 재고 뒤에 숨겨진 이야기를 탐구합니다.",
+      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "소품 디자인에 대한 깊은 조예를 가진 Neal Whittington는 독창적이고 철학적인 접근으로 학교에서도 배울 수 없는 구어적 디자인을 제시합니다.",
+      "tags": [
+        "문구",
+        "그래픽디자인"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "디자이너를 위한 특별한 문구점의 뒷이야기를 전합니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title": "테트리스와 같은 페스티벌 - 칼로비 바리",
+      "content": "칼로비 바리 국제영화제는 함락의 역사 속에서도 성장해온 독특한 이야기로 영화관계자들 사이에 큰 여운을 남겼습니다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "영화 관계자의 깊은 이해를 바탕으로 한 칼로비 바리의 역사가 흥미롭게 전달됩니다.",
+      "tags": [
+        "영화제",
+        "국제"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "유럽의 전통적 영화제 중 하나로서의 가치와 역사를 탐구합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title": "오디세이를 엮다",
+      "content": "크리스토퍼 놀란의 영화 '테넷'에서 편집을 맡은 제니퍼 램은 작은 영화에서 큰 스케일의 영화로의 도전과 도전적 작업 경험을 공유합니다.",
+      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "영화 편집자 제니퍼 램의 창의적인 시각은 대중들에게 영화 제작에 대한 새로운 통찰을 제공합니다.",
+      "tags": [
+        "영화",
+        "편집"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "영화 편집자의 새로운 도전을 통해 영화의 본질을 탐색합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title": "에디 페이크, 이미지를 통한 소통",
+      "content": "디자인과 건축에 대한 깊은 열정으로 아키텍처의 매력을 독자들에게 전하는 에디 페이크의 창의적 접근",
+      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "에디 페이크의 작업은 구조물의 의식적 모습을 강조하여 독자에게 영감을 줍니다.",
+      "tags": [
+        "이미지",
+        "건축"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "이미지를 통해 상상력을 자극하는 에디 페이크의 작업을 소개합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title": "리턴 오브 더 서퍼 클럽 - 라이디 델릴라",
+      "content": "h.wood 그룹의 디너 클럽과 그들이 모탁에 가져온 라이디 델릴라에 대한 이야기.",
+      "url": "https://coolhunting.com/culture/outside-the-four-walls-delilah-chase-sapphire-reserve-and-the-return-of-the-supper-club/",
+      "source": "coolhunting.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "디너 클럽이라는 포맷을 뉴욕의 밤 문화에 적합하게 되돌리는 지혜로운 경험을 공유합니다.",
+      "tags": [
+        "디너클럽",
+        "문화"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "과거의 클럽 문화를 현대에 어떻게 재해석하는지를 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/176_Chase-Sapphire-Delilah_Montauk_jermcohen-7.23.2026-768x512.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title": "포티스 마린마스터",
+      "content": "Kim Justin Hell의 고급 시계 사진작가는 스위스 시계 제조사와 협력하여 캠페인 이미지를 완성하며 브랜드의 유산을 강조합니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "김 저스틴 헬은 정교한 라이팅과 창의성을 통해 고급 시계와 제품의 본질을 전달합니다.",
+      "tags": [
+        "시계",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "고급 시계 및 제품의 광고 사진을 통해 표현의 정수를 탐구합니다.",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title": "36년의 꽃길",
+      "content": "Veronika Janovec은 조각을 통한 폼의 언어로서 전통을 탈피하고 현대성을 강조하는 접근 방식을 보여줍니다.",
+      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "전통적인 조각 기술에 대한 깊은 이해를 바탕으로 새로운 창조적 접근을 제시합니다.",
+      "tags": [
+        "조각가",
+        "폼"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "조각을 통해 시대를 넘은 예술적 표현을 조명합니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title": "자연과 동경: 알리슨 매컬리",
+      "content": "고가의 원목과 심플한 디자인으로 꾸민 사진집 '집이 있는 삶'에서 알리슨 매컬리가 기록한 여러 장면을 소개합니다.",
+      "url": "https://photoeditions.pub/Main-page",
+      "source": "photobookstore.co.uk",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "매컬리의 사진 작품은 고된 사랑과 공감으로 가득차 있으며 그 몰입적인 경험은 독자들을 매료시킵니다.",
+      "tags": [
+        "사진",
+        "예술"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "고가의 원목 및 예술 제품을 사용한 사진으로 스타일과 감성을 전달합니다.",
+      "depth": 0.95,
+      "image": "https://freight.cargo.site/w/1000/i/b90a1df829c0e7746cc233935270c11ddbf7d29368bb601b0e447742cd4cc73f/MA-R.png",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title": "최고의 욕실 액세서리",
+      "content": "건축 다이제스트 편집자들이 스컬프처 칫솔 홀더에서 흥미로운 쓰레기통까지 최고로 꼽은 욕실 액세서리를 소개합니다.",
+      "url": "https://www.architecturaldigest.com/story/best-bathroom-accessories",
+      "source": "Architectural Digest",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "일상용품에 아트적인 면모를 더하여 평범한 욕실을 멋진 공간으로 재탄생시킵니다.",
+      "tags": [
+        "욕실",
+        "액세서리"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "욕실을 예술적으로 바꿀 수 있는 액세서리를 소개합니다.",
+      "depth": 0.95,
+      "image": "https://media.architecturaldigest.com/photos/68d42b946988e55aa3d597b3/master/pass/AD0921_HART_DN_6.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title": "(가치 높은 디자인의 핵심 주목) 매년 오픈한 도어에서 새롭게 발견한 창의적 포토그래픽 작품들",
+      "content": "프리 레인지 전시회의 강조점을 중심으로 해마다 문을 여는 갤러리는 더욱 창의적이고 강한 영향을 미치는 포토그래픽 작품들을 선보입니다.",
+      "url": "https://opendoors.gallery/top-ten",
+      "source": "Open Doors Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "포토그래픽 작품의 동향을 통해 현대 예술의 흐름을 조명합니다.",
+      "tags": [
+        "예술",
+        "포토그래피"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "독특한 창의성을 가진 예술가들의 작품을 소개합니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "헤인즈 마요네즈 머신",
+      "content": "ChaChaanTeng과 함께하는 헤인즈 마요네즈 자동판매기 프로젝트는 음식의 낭만화된 감각과 일본 자동판매기의 물리적 특징을 탐구합니다.",
+      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
+      "source": "It's Nice That",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "프로젝트"
+      ],
+      "why": "독특한 디자인 프로젝트를 통해 소비자가 경험할 수 있는 물리적 상호작용을 제안합니다.",
+      "depth": 0.5,
+      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title": "Floyd Mayweather Jr의 초호화 생활",
+      "content": "23전 23승의 전적을 가진 플로이드 메이웨더 주니어는 세계적인 복서로서 엄청난 부와 명성을 누리며 살아가고 있습니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "복서"
+      ],
+      "why": "유명인의 사치스러운 생활에 대한 사람들의 흥미와 관심을 불러일으킵니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    },
+    {
+      "title": "금세기 최고의 럭셔리 시계",
+      "content": "프랑스 시계 브랜드 akteo의 혁신적이고 생동감 있는 디자인을 큐레이터가 함께 공유합니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "시계"
+      ],
+      "why": "디자인과 기능성에서 독특함을 원하는 소비자들에게 매력적인 선택지를 제공합니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-13T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

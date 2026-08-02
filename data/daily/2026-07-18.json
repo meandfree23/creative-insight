@@ -7,8 +7,286 @@
     "considered": 40,
     "selected": 14
   },
-  "topPicks": [],
-  "popcorn": [],
+  "topPicks": [
+    {
+      "title": "Zara McIntosh와 주말 보내기",
+      "content": "`whatzaraloves`는 런던 최고의 핫스팟과 자신의 여름 사운드트랙을 소개하며 이상적인 주말을 공유합니다.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "Zara McIntosh는 신체적 매체의 여왕이자 팝 문화의 전문가로, 그녀의 관점을 통해 다양하고 흥미로운 콘텐츠를 제공한다.",
+      "tags": [
+        "pop-culture",
+        "media"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "Zara의 콘텐츠는 다양한 시각 반응을 유도하며 사람들이 일상에서 색다른 경험을 느낄 수 있게 해줍니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title": "체카안텡의 소스 있는 자가 마요네즈 매트 자동 업그레이드",
+      "content": "체카안텡의 한즈 마요를 위한 이벤트는 일본 자판기의 물리적 특성과 음식의 감미로운 회상을 조사합니다.",
+      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "체카안텡은 음식적 감각과 상호작용을 강조하며, 이를 통해 사람들이 음식을 보는 방식을 새롭게 한다.",
+      "tags": [
+        "food",
+        "design"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "음식에 대한 새로운 시각과 물리적 상호작용을 제시, 사람들의 감각을 자극하는 기회를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title": "현재와 정확한, 프리젠트 앤 코렉트의 이야기",
+      "content": "계속해서 팬들의 사랑을 받는 출판 브랜드로 자리매김한 현재와 정확스는 이제 출판 세계로 첫 발을 내딛습니다.",
+      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "본 브랜드는 창조의 시작부터 발자취를 따라가며 사람들에게 영감을 주는 많은 이야기들을 제공합니다.",
+      "tags": [
+        "stationery",
+        "publishing"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "셋업부터 출판에 이르기까지의 진행 과정을 통해 브랜드 구축의 중요성을 재조명해 줍니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title": "칼로비 바리의 스파 에클렛립스",
+      "content": "칼로비 바리 국제 영화제는 점령과 적응, 생존의 경로를 따라 국제적인 영향을 미치는 높은 단계로 지정되었습니다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "독특한 역사적 맥락을 가진 이 영화제는 다양한 문화적 변화를 반영하며 영화 산업의 독창성을 증진시킨다.",
+      "tags": [
+        "film",
+        "festival"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "그 역사 우리의 문화적 이야기와 깊은 연관성을 가지며, 영화 메이커들에게 영감을 주는 특별한 장소로 자리잡고 있다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title": "크리스토퍼 놀란의 함께한 제니퍼 라임의 편집 이야기",
+      "content": "조그마한 영화제작 경험을 가지고 시작한 제니퍼는 테넷 작업을 통해 놀란우주에 도전하게 됩니다.",
+      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "작은 프로젝트에서 큰 프로젝트로 점진적으로 발전해 나가는 과정에서 편집자의 창의력과 기술을 다뤄 본다.",
+      "tags": [
+        "film",
+        "editing"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "작품의 진화 과정과 중요성을 통해 영화 편집의 강력한 역할에 대한 이해도를 높아서 제공한다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title": "길렛 - 머리카락 100년의 역사",
+      "content": "노래로 시대를 보여주는 것과 같이 욕실 배경의 액세서리가 부착된 독특한 영상을 보여줍니다.",
+      "url": "https://honestart.tistory.com/96",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "길렛의 독창적인 영상 표현은 소비자에게 새로운 역사적 관점으로 다가서게 한다.",
+      "tags": [
+        "advertisement",
+        "video"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "상상력에 기반한 다양한 시각적 요소를 통해 역사와 현재를 연결하려는 시도를 돕습니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title": "주목할 아 티스트, 에디 페이크와 이미지 소통",
+      "content": "건축 컨셉이 자주 등장하는 에디 페이크의 작품은 이미지로 사람들과 소통합니다.",
+      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "에디의 작품은 복잡한 건축적 테마를 통해 다층적 해석을 가능하게 하며 예술적 영감의 원천이 된다.",
+      "tags": [
+        "art",
+        "communication"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "그의 시각적 접근 방식은 개인의 기억이나 경험과도 연결점을 방증하게 해준다.",
+      "depth": 0.95,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title": "Kissabō: 베를린의 현대 일본 차 바",
+      "content": "현대 일본 차 바인 Kissabō는 베를린에 문을 열며 전통과 현대적인 장식의 만남을 이룹니다.",
+      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
+      "source": "IGNANT",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "Kissabō는 전통과 현대가 만나는 공간을 통해 익숙하면서도 새로움을 갖춘 사회적 경험을 제공합니다.",
+      "tags": [
+        "tea",
+        "design"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "세계화된 현대적 소비 공간의 전형을 제시하여 방문객들에게 풍부한 감각적 경험을 선사합니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/06/kissabo-720x1280.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title": "테마와 꿈을 담은 프랑스 시계 - 악테오",
+      "content": "악테오 시계는 프랑스 디자이너가 만든 예술적 시계로 꿈과 열정을 상징적으로 표현합니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "프랑스 시계는 예술적으로 구성되어 있으며, 각각의 디자인은 독특하면서도 실용적인 테마로 이루어져 있다.",
+      "tags": [
+        "watch",
+        "design"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "이 시계는 예술적인 디자인과 함께 실용적인 기능을 통해 사용자에게 지속적으로 영감을 준다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title": "다양한 형태의 언어: 조각가 베로니카 야노벡과 함께",
+      "content": "조각가 베로니카 야노벡의 작품은 형태의 언어를 통해 집에서 경험하는 일상의 다양성을 탐구합니다.",
+      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
+      "source": "IGNANT",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "그녀의 예술은 일상과 예술의 경계를 모호하게 만들어, 관람자로 하여금 깊은 연결감을 느끼게 만든다.",
+      "tags": [
+        "sculpture",
+        "form"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "일상 속에서 예술을 접할 수 있는 기회를 제공하여, 공간과의 소통을 새롭게 조명한다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title": "빛의 어휘: 폼을 통한 베로니카 야노벡의 조각",
+      "content": "조각가 베로니카는 형태와 공간, 빛을 통해 관람객에게 새로운 경험을 제공합니다.",
+      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
+      "source": "IGNANT",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "야노벡의 조각작품은 일상과 예술의 교차점에서 빛의 미학을 탐구하며 관람객의 상상력을 자극한다.",
+      "tags": [
+        "sculpture",
+        "light"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "조각 예술에서 빛과 공간의 상호작용을 통한 깊은 탐색을 가능케 하여 새로운 관점을 제시합니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "초호화 스타선수의 생활 - 플로이드 메이웨더",
+      "content": "무패로 5체급을 정복한 스타선수 메이웨더의 화려한 생활 방식을 엿볼 수 있습니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "boxing"
+      ],
+      "why": "흥미진진한 스포츠 스타의 생활은 대중의 관심을 끌기 충분합니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title": "포토 런던 2026 | 아트 페어",
+      "content": "포토 런던 페어에서 독특한 작품과 전시를 통해 새로운 아티스트를 소개합니다.",
+      "url": "https://opendoors.gallery/photo-london-2026-art-fair",
+      "source": "opendoors.gallery",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "art fair"
+      ],
+      "why": "창의적인 사진 작업을 통해 대중에게 다양한 시각적 즐거움을 제공합니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    },
+    {
+      "title": "다양한 형태의 언어: 조각가 베로니카 야노벡과 함께",
+      "content": "조각가 베로니카 야노벡의 작품은 형태의 언어를 통해 집에서 경험하는 일상의 다양성을 탐구합니다.",
+      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
+      "source": "IGNANT",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "sculpture"
+      ],
+      "why": "일상 속에서 예술을 접할 수 있는 기회를 제공하여, 공간과의 소통을 새롭게 조명한다.",
+      "depth": 0.5,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
+      "pub_date": "2026-07-18T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "감성적 모듈화",

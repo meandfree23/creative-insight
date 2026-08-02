@@ -7,9 +7,289 @@
     "considered": 56,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "The Weekend With Zara McIntosh",
+      "content": "팝 문화의 전문가이자 물리적 미디어의 여왕인 Zara McIntosh가 자신의 이상적인 주말과 런던 최고의 장소에 대해 소개합니다.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "Zara McIntosh는 창의적인 주말을 통해 독자들에게 영감을 줍니다.",
+      "tags": [
+        "pop culture",
+        "weekend"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "런던의 숨겨진 보물들을 재발견할 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    },
+    {
+      "title": "꿈을 담은 프랑스 시계 -akteo(악테오)",
+      "content": "Akteo 시계는 시간이 흐르는 중에서도 꿈과 열정을 표현하며, Jean Christophe Mareshal의 재치있는 디자인이 돋보입니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "Akteo 시계는 단순한 시계가 아닌 꿈을 상징하는 작품입니다.",
+      "tags": [
+        "watches",
+        "design"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "꿈을 향한 열정과 예술성을 담고 있는 시계입니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    },
+    {
+      "title": "Spa Eclectics at Karlovy Vary",
+      "content": "Karlovy Vary 국제 영화제는 1946년에 시작되어 다양한 역사적 맥락 속에서 생존해 왔고, 현재는 높은 국제적 영향력을 가진 영화제로 인정받고 있습니다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "Karlovy Vary 영화제는 예술적 중요성과 역사적 가치가 있는 중요한 문화 행사입니다.",
+      "tags": [
+        "film festival",
+        "history"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "영화제의 역사적 배경과 문화적 가치를 깊이 있게 돌아볼 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    },
+    {
+      "title": "Gillette - 100 Years of Hair",
+      "content": "Gillette의 긴 역사 속에서 다양한 시대적 변화와 스타일을 노래로 표현하여 흥미로운 영상미를 제공합니다.",
+      "url": "https://honestart.tistory.com/96",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "다양한 시대적 변화와 스타일을 함께 볼 수 있는 재미있는 구성입니다.",
+      "tags": [
+        "Gillette",
+        "advertisement"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "시대를 반영하는 스타일 변화를 통해 브랜드의 역사를 살펴볼 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    },
+    {
+      "title": "Free Range 2026 [Top 10]",
+      "content": "Free Range은 영국 전역에서 온 주요 졸업작품을 한곳에 모아 신진 창작 인재를 발굴하는 행사로 성장했습니다.",
+      "url": "https://opendoors.gallery/top-ten",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "새로운 창작 인재의 발굴과 성장을 돕는 중요한 플랫폼입니다.",
+      "tags": [
+        "photography",
+        "art fair"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "신진 작가들의 작품을 통해 예술의 미래를 조망할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    },
+    {
+      "title": "Benny Cuppini",
+      "content": "Benny Cuppini는 뉴욕과 코네티컷을 기반으로 한 정물 사진작가로, 광고 및 편집용 이미지에서 독창적이고 세련된 스타일을 제공합니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/benny-cuppini-63824.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "정확한 조명과 세심한 환경 구성을 통해 작품의 매력을 극대화했습니다.",
+      "tags": [
+        "photography",
+        "jewellery"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "광고 효과와 편집적 매력을 모두 갖춘 독창적인 시각적 내러티브를 경험할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/95221/newsletter/benny-cuppini5.jpg",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    },
+    {
+      "title": "Free Range 2026 [Top 10]",
+      "content": "Free Range은 영국 전역에서 온 주요 졸업작품을 한곳에 모아 신진 창작 인재를 발굴하는 행사로 성장했습니다.",
+      "url": "https://opendoors.gallery/top-ten",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "새로운 창작 인재의 발굴과 성장을 돕는 중요한 플랫폼입니다.",
+      "tags": [
+        "photography",
+        "art fair"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "신진 작가들의 작품을 통해 예술의 미래를 조망할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    },
+    {
+      "title": "ChaChaanTeng’s saucy auto-mayo-mat activation for Heinz",
+      "content": "ChaChaanTeng은 Heinz Mayo와의 프로젝트를 통해 음식의 로맨틱한 감각과 일본 자판기의 물리적 특성을 탐구합니다.",
+      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "음식에 대한 새로운 감각적 접근 방식입니다.",
+      "tags": [
+        "Heinz",
+        "design"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "음식을 예술적으로 탐구하는 흥미로운 시도입니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    },
+    {
+      "title": "The story behind Present & Correct",
+      "content": "의 인기 있는 인쇄 유품 및 문구 브랜드가 첫 번째 출판물 출시와 함께 출판 세계로 진출하게 되는 배경을 설명합니다.",
+      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "디자인과 출판이 만나는 흥미로운 지점입니다.",
+      "tags": [
+        "design",
+        "publishing"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "출판물 출시에 대한 창의적인 접근 방식을 엿볼 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    },
+    {
+      "title": "초호화 스타선수의 생활  -플로이드 메이웨더 Floyd Mayweather Jr.",
+      "content": "플로이드 메이웨더의 화려한 생활과 최근 활동을 조명하며, 그의 성공 داستان과 스타일을 보여줍니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "스타 스포츠 선수가 일상에서 어떻게 세련된 생활을 하는지 보여줍니다.",
+      "tags": [
+        "boxing",
+        "lifestyle"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "스포츠 스타의 영향력과 생활을 엿볼 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    },
+    {
+      "title": "Artist, activist, and author Edie Fake",
+      "content": "건축을 주제로 끊임없이 탐구하는 Edie Fake의 이야기를 듣습니다.",
+      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
+      "source": "Creative Independent",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "건축을 매개로한 예술적 탐색과 개인적 경험이 담깁니다.",
+      "tags": [
+        "architecture",
+        "art"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "예술과 건축의 상관관계를 탐험할 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "Free Range 2026 [Top 10]",
+      "content": "신진 포토그래피 작가들의 창의적인 작품들을 선정하여 소개합니다.",
+      "url": "https://opendoors.gallery/top-ten",
+      "source": "opendoors.gallery",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "emerging artists"
+      ],
+      "why": "신진 작가들의 참신한 작품들을 통해 경이로움을 느낄 수 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    },
+    {
+      "title": "American Vogue July 2014",
+      "content": "Prada를 착용한 Lupita Nyong'o가 American Vogue의 커버를 장식합니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/19/american-vogue-july-2014/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "Vogue",
+        "Lupita Nyong'o"
+      ],
+      "why": "패션 아이콘들이 매거진 커버를 통해 스타일을 선보이는 방법에 대한 통찰력을 제공합니다.",
+      "depth": 0.5,
+      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    },
+    {
+      "title": "Interview Magazine – “Jamie Dornan”",
+      "content": "배우 Jamie Dornan이 주연한 <Fifty Shades of Grey> 출연 이전의 이야기를 다룹니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "Jamie Dornan",
+        "Interview"
+      ],
+      "why": "유명 배우의 커리어 발전과 기대 작품에 대한 흥미로운 통찰력을 제공합니다.",
+      "depth": 0.5,
+      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "pub_date": "2026-07-06T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "디자인",
     "부드러움",

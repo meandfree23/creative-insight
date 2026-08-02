@@ -7,8 +7,292 @@
     "considered": 40,
     "selected": 14
   },
-  "topPicks": [],
-  "popcorn": [],
+  "topPicks": [
+    {
+      "title": "젊은 예술가들의 새로운 발걸음: 자유란 전시",
+      "content": "매년 열리는 자유박람회에서 떠오르는 사진 예술가 10인을 선정하여 소개합니다. 영국 전역에서 우수한 졸업생 작품을 한자리에 모아 새로운 창의적 인재를 발굴합니다.",
+      "url": "https://opendoors.gallery/top-ten",
+      "source": "Open Doors Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "사진 예술계 신예들의 독창적인 비전과 열정을 엿볼 기회입니다.",
+      "tags": [
+        "사진",
+        "예술",
+        "박람회"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "새로운 예술 트렌드와 창의성을 한눈에 파악할 수 있는 기회",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title": "인공지능과 현실의 경계: 샤카인덱스 전시회",
+      "content": "센터 드 라 포토그래피 제네브에서 열린 그룹 전시회인 '샤카인덱스'는 사진 이미지를 고정된 현실의 기록이 아닌 유동적이고 불안정한 것으로 다룹니다.",
+      "url": "https://opendoors.gallery/the-shudder-palace-exhibition",
+      "source": "Open Doors Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "사진 예술이 새로운 방식으로 현실을 탐구하는 과정을 제시합니다.",
+      "tags": [
+        "사진",
+        "전시",
+        "예술"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "사진 예술의 새로운 경향을 감지하고 현대 예술의 흐름을 이해할 수 있는 기회",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title": "포토 런던 2026: 예술 박람회에서의 발견",
+      "content": "포토 런던 박람회에서 컨템포러리 작가들의 유니크한 작품과 새롭게 대표된 예술가들의 새로운 작품을 전시합니다.",
+      "url": "https://opendoors.gallery/photo-london-2026-art-fair",
+      "source": "Open Doors Gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "박람회를 통해 국제적인 예술계의 흐름을 한눈에 볼 수 있습니다.",
+      "tags": [
+        "사진",
+        "박람회",
+        "예술"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "다양한 국가의 예술가들이 어떤 새로운 트렌드를 이끌고 있는지 알아볼 수 있는 기회",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title": "사진 예술에서의 색채와 형식의 조화: 마르틴 아미스",
+      "content": "마르틴 아미스의 포토북 'Reverie'는 그의 사진적 탐구의 절정으로, 색채의 조화와 강렬한 형식이 돋보입니다.",
+      "url": "https://photoeditions.pub/Main-page",
+      "source": "photobookstore.co.uk",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "색채와 형태의 조화로움을 통해 새로운 시각적 경험을 제공합니다.",
+      "tags": [
+        "사진",
+        "예술",
+        "색채"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "사진 작가의 독창성은 색채와 형태를 새롭게 해석할 수 있는 기회를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://freight.cargo.site/w/1000/i/b90a1df829c0e7746cc233935270c11ddbf7d29368bb601b0e447742cd4cc73f/MA-R.png",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title": "플로이드 메이웨더의 초호화 삶",
+      "content": "무패의 복서로 유명한 플로이드 메이웨더 주니어가 그의 재력과 화려한 라이프스타일로 주목받고 있습니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "운동 선수로서의 섬세한 기술과 개인의 삶이 어떻게 화려함으로 연결되는지 보여 줍니다.",
+      "tags": [
+        "스포츠",
+        "라이프스타일"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "스포츠 스타의 개인적 삶이 경력과 어떻게 상호작용하는지 이해할 수 있는 기회",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title": "꿈을 담은 프랑스 시계 - akteo",
+      "content": "프랑스 디자이너 Jean Christophe Mareshal의 akteo 시계는 꿈과 열정의 상징물로, 유니크한 디자인과 스틸 소재로 제작되었습니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "프랑스 디자이너의 창의성과 시계 제작 기술이 조화된 작품입니다.",
+      "tags": [
+        "디자인",
+        "시계"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "예술적 디자인과 실용성이 조화된 시계를 감상할 수 있는 기회",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title": "디지털 기술을 혼란시키는 의류: Faception Reloaded Tee",
+      "content": "아반가르드 티셔츠 Faception은 다양한 그래픽으로 얼굴 인식 시스템을 혼란에 빠뜨립니다.",
+      "url": "https://coolhunting.com/buy/faception-reloaded-tee/",
+      "source": "coolhunting.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "간단한 의류로도 첨단 기술에 도전할 수 있다는 것을 보여줍니다.",
+      "tags": [
+        "패션",
+        "기술"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "테크놀로지와 패션의 상호작용을 발굴할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/6B4F4DEC-4E02-46D7-A7E8-577616AA85CB_1_201_a-768x768.jpeg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title": "브랜드 아이덴티티: Us Vs Them",
+      "content": "Monga Design은 Us Vs Them의 브랜딩과 타이포그래피를 엄격한 기하학으로 구성하여 다채로운 미디어를 정리합니다.",
+      "url": "https://abduzeedo.com/branding-visual-identity-grid-layout-typography-us-vs-them/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "지속 가능한 도시 표현에 대한 창의적 접근 방식을 제시합니다.",
+      "tags": [
+        "디자인",
+        "브랜딩"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "브랜딩의 구조적 요소와 예술적 가능성을 탐구할 수 있는 기회",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_us-vs-them-visual-identity-monga-design.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title": "디지털과 수작업의 조화: Ayala Coffee Co. 브랜드 아이덴티티",
+      "content": "Ayala Coffee Co.의 브랜딩은 구조적 타이포그래피 패키지 레이아웃을 통해 절제된 건축적 비율을 확립합니다.",
+      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "디지털 디자인과 실물 제작이 어떻게 상호작용하는지 보여줍니다.",
+      "tags": [
+        "브랜딩",
+        "패키징"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "패키지 디자인의 미학과 실용성을 이해할 수 있는 좋은 기회",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title": "카롤린 루가베러와의 플라워 아트 대화",
+      "content": "플라워 아트의 매력을 깊이 있게 이해하고자 하는 이들에게 루가베러의 작업은 강력한 영감을 제공합니다.",
+      "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "자연의 아름다움과 인간의 창의성이 어떻게 결합될 수 있는지를 탐구합니다.",
+      "tags": [
+        "예술",
+        "인터뷰",
+        "플라워"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "자연과 예술적 표현의 조화를 이해할 수 있는 기회",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/06/ignant-carolin-ruggaber-clemens-poloczek-1-720x1079.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title": "베를린의 현대 일본 차 바: Kissabō",
+      "content": "Kissabō는 베를린에 위치한 일본 차 바이며, 현대적인 디자인과 전통적인 차 문화가 어떻게 조화를 이루는지를 보여줍니다.",
+      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "현대적인 디자인과 전통적인 일본 차 문화를 조화롭게 결합합니다.",
+      "tags": [
+        "디자인",
+        "음식문화",
+        "일본"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "전통 문화와 모던 디자인의 상호작용을 체감할 수 있는 기회",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/06/kissabo-720x1280.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "블로그에서 사업까지: Present & Correct 이야기",
+      "content": "Neal Whittington과의 인터뷰를 통해 팬들이 사랑하는 프린트 에페메라 브랜드가 출판 세계로 확장한 이야기를 듣습니다.",
+      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
+      "source": "It's Nice That",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "디자인"
+      ],
+      "why": "세심한 큐레이션의 힘을 엿볼 수 있다.",
+      "depth": 0.5,
+      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title": "초호화 생활: 플로이드 메이웨더 주니어",
+      "content": "복싱 세계의 전설, 플로이드 메이웨더 주니어의 화려한 일상과 재력을 엿봅니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "스포츠"
+      ],
+      "why": "스타의 라이프스타일과 화려함을 살짝 엿볼 수 있습니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title": "젊은 예술가들의 새로운 발걸음: 자유란",
+      "content": "오픈 도어 갤러리에서 주최한 자유란 전시는 새로운 창의적 탤런트를 발굴하며 떠오르는 사진가들의 작품을 소개합니다.",
+      "url": "https://opendoors.gallery/top-ten",
+      "source": "Open Doors Gallery",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "예술"
+      ],
+      "why": "문화 산업의 미래를 탐험하는 기회를 제공합니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

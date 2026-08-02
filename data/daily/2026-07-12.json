@@ -7,8 +7,303 @@
     "considered": 30,
     "selected": 14
   },
-  "topPicks": [],
-  "popcorn": [],
+  "topPicks": [
+    {
+      "title": "The Weekend with Zara McIntosh",
+      "content": "대중문화 애호가이자 물리적 미디어의 여왕인 Zara McIntosh가 자신이 좋아하는 주말을 소개합니다. 그녀는 런던의 최고의 장소, 읽고 있는 퀴어 잡지, 여름에 듣는 사운드트랙에 대해 이야기합니다.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "Zara McIntosh는 트렌드의 최전선에 있는 예술가로, 그녀의 주말 경험은 창의적 통찰력을 제공합니다.",
+      "tags": [
+        "Zara McIntosh",
+        "주말",
+        "런던"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "Zara McIntosh의 뷰티풀 마인드와 문화적 통찰력을 보여주는 풍부한 주말 소개",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title": "Present & Correct의 이야기: 완벽하게 큐레이트된 문구류 숍",
+      "content": "팬이 사랑하는 프린트 에페메라와 문구류 브랜드인 Present & Correct가 출판 세계에 첫 발을 내딛으며 Neal Whittington 공동 창립자와 이야기를 나누었습니다. 브랜드의 전설적인 재고의 이야기를 알아봅니다.",
+      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "완벽하게 큐레이트된 문구류는 창의적 취향을 보여주는 데 중요한 역할을 합니다.",
+      "tags": [
+        "문구류",
+        "큐레이션",
+        "출판"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "디테일한 큐레이션의 중요성과 창의적 공간의 영향력을 보여주는 사례",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title": "아트리스트 에디 페이크, 이미지로 소통하는 법",
+      "content": "건축은 에디 페이크의 작품에서 반복되는 테마입니다. 언제 이 주제가 중요한 문제가 되었는지, 그때의 감정에 대해 이야기합니다.",
+      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "건축과 이미지 소통의 관계를 통해 창의적 듣기를 강화합니다.",
+      "tags": [
+        "건축",
+        "이미지 커뮤니케이션",
+        "아트"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "에디 페이크의 이미지 소통 기술은 창의적 표현에 영감을 줍니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title": "클래식 향을 현대적으로 재해석한 'Gillette - 100 Years of Hair'",
+      "content": "시대의 노래를 보여주며, 화장실 배경의 악세사리와 사진을 이어붙인듯한 느낌의 영상이 흥미롭습니다.",
+      "url": "https://honestart.tistory.com/96",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "다양한 시대의 흔적을 상징적으로 담아내었습니다.",
+      "tags": [
+        "Gillette",
+        "역사",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "100년 간의 변화를 흥미롭게 담아낸 영상으로, 디자인의 진화를 이해할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title": "차차앙테의 하인즈 마요네즈 프로젝트: 물리적 경험",
+      "content": "하인즈 마요네즈를 위한 차차앙테 프로젝트는 일본 자판기의 물리성을 탐험하며, 음식의 낭만적인 감각을 표현합니다.",
+      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "전통적 경험과 현대적 기술의 조화를 통해 신선함과 참신함을 제공합니다.",
+      "tags": [
+        "음식 디자인",
+        "자판기",
+        "물리적 경험"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "기술과 전통의 독창적 조합은 창의적 디자인의 새로운 가능성을 제시합니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title": "Karlovy Vary: 영화제의 생존 이야기",
+      "content": "Karlovy Vary 국제 영화제는 점령, 타협, 생존의 길을 걸어왔습니다. 1946년 처음 개최되었으며, 국제 영화 제작자 협회에서 가장 높은 국제적 영향을 미치는 카테고리에 지정되었습니다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "영화제의 역사와 그 영향을 이해하면 영화의 진화와 글로벌 영향력을 더 깊이 이해할 수 있습니다.",
+      "tags": [
+        "영화제",
+        "역사",
+        "생존"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "상징적 위치에서의 영화제 개최는 글로벌 영화 커뮤니티와의 지속적인 연결을 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title": "Jennifer Lame과 영화 편집기술의 한계 확장",
+      "content": "Christopher Nolan의 영화 'Tenet'을 편집했던 Jennifer Lame의 경험을 소개합니다. 그녀는 이전에 작고 표현력이 풍부한 영화들을 작업했습니다.",
+      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "복잡한 이야기 구조와 시각적 요소의 조화를 통해 영화의 편집 기술에 대한 이해를 확장시킵니다.",
+      "tags": [
+        "영화 편집",
+        "Christopher Nolan",
+        "기술 확장"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "복잡한 이야기를 분해하고 재구성하는 과정을 통해 시각적 스토리텔링의 영감을 제공",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title": "김 저스틴 헬",
+      "content": "김 저스틴 헬은 스위스의 상업 사진가로, 고급 시계 촬영과 고품질 제품 이미지를 전문으로 합니다. 그의 작품은 정밀한 조명과 세심한 창의적 방향을 결합합니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "김 저스틴 헬의 촬영 기술은 기술적 완벽함과 창의적 비전을 결합하여 고급 브랜드의 가치를 강조합니다.",
+      "tags": [
+        "고급 사진",
+        "시계",
+        "조명 기술"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "정밀한 이미지화 작업을 통해 창의적인 무드를 완성하고 브랜드의 정체성을 강화할 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title": "자네 안할트",
+      "content": "상업 사진가 자네 안할트는 고급 보석, 스위스 시계 및 프리미엄 제품의 사진을 전문으로 합니다. 그녀의 사진은 장인의 기술과 독창성을 강조합니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/jana-anhalt-64432.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "섬세한 조명과 세심한 색상 재현으로 장인의 작품을 돋보이게 합니다.",
+      "tags": [
+        "보석",
+        "시계",
+        "고급 사진"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "세심한 디테일과 개인 맞춤형 접근 방식을 통해 사진의 가치와 장인의 기술을 이끌어냅니다.",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94206/newsletter/swiss-pearls-70-copy.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title": "김 저스틴 헬 블로그 게시물",
+      "content": "김 저스틴 헬은 스위스의 상업 사진가로, 고급 시계 촬영과 고품질 제품 이미지를 전문으로 합니다. 그의 작품은 정밀한 조명과 세심한 창의적 방향을 결합하여 고급 브랜드의 인상적인 비주얼을 창조합니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "정밀한 사진 촬영을 통해 고급 브랜드의 가치를 더욱 돋보이게 합니다.",
+      "tags": [
+        "제품 사진",
+        "시계",
+        "브랜드"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "정밀한 조명 기술과 창의적 디자인을 통해 고급 제품의 매력을 극대화합니다.",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title": "자네 안할트: 기술과 예술이 만나는 지점",
+      "content": "상업 사진가 자네 안할트는 고급 보석 사진과 프리미엄 제품 사진을 전문으로 하며, 정교한 조명을 통해 각 작품의 장인의 기술을 부각시킵니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/jana-anhalt-64432.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "고급 브랜드의 진정한 가치를 드러내기 위한 세심함과 조화로운 작업을 보여줍니다.",
+      "tags": [
+        "보석",
+        "프리미엄 제품",
+        "광고 사진"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "고급스러움을 강조하는 사진 기술을 통해 브랜드와 작품의 가치를 높입니다.",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94206/newsletter/swiss-pearls-70-copy.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "Floyd Mayweather Jr. - 초호화 스타 선수의 생활",
+      "content": "플로이드 메이웨더 주니어는 무패로 5체급을 정복한 최초의 복서로, 개인적으로도 초호화 생활을 하고 있습니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "Floyd Mayweather Jr.",
+        "스타 선수",
+        "초호화 생활"
+      ],
+      "why": "대중적으로 알려진 스타 선수의 개인적인 호화생활이 많은 사람의 관심을 끌기 때문입니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title": "꿈을 담은 프랑스 시계 - akteo(악테오)",
+      "content": "프랑스 디자이너가 만든 악테오 시계는 시간 속에서 꿈과 열정을 표현하는 상징물입니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "akteo",
+        "프랑스 시계",
+        "꿈과 열정"
+      ],
+      "why": "프랑스 시계의 디자인과 철학이 새로운 트렌드를 이끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    },
+    {
+      "title": "Heinz 마요네즈 자판기 프로젝트와 물리적 경험",
+      "content": "차차앙테의 하인즈 마요네즈 프로젝트는 물리적 경험을 통해 음식의 낭만적인 감각을 탐험합니다.",
+      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
+      "source": "It's Nice That",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "Heinz",
+        "마요네즈",
+        "물리적 경험"
+      ],
+      "why": "현대 기술과 전통의 조화, 그리고 장소 특정적 경험을 강조하여 관심을 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
+      "pub_date": "2026-07-12T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

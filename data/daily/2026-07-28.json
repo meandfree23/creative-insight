@@ -7,8 +7,268 @@
     "considered": 40,
     "selected": 14
   },
-  "topPicks": [],
-  "popcorn": [],
+  "topPicks": [
+    {
+      "title": "이 주의 핫플레이스, 자라 맥킨토시의 런던",
+      "content": "팝 컬처 애호가인 자라 맥토시가 런던에서의 주말 즐기는 법을 공개합니다. 그녀의 여름 사운드트랙과 주목하는 퀴어 잡지 리스트 등을 통해, 새로운 시각을 경험해보세요.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "런던의 숨겨진 보석 같은 장소를 탐험하는 데 인사이트를 제공합니다.",
+      "tags": [
+        "주말",
+        "팝 컬쳐"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "자라 맥킨토시의 큐레이션을 통해 발견한 런던은 다채로운 경험과 즐거움으로 가득합니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title": "프레젠트 & 커렉트: 그래픽 디자이너들의 꿈",
+      "content": "그래픽 디자이너들의 꿈을 이루는 프레젠트 & 커렉트 이야기입니다. 이 브랜드는 인쇄 물품과 문구류를 통해 그들의 첫 출간 타이틀을 소개했습니다.",
+      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "프레젠트 & 커렉트가 창조하는 전통적인 디자인의 미학을 중점으로 소개합니다.",
+      "tags": [
+        "디자인",
+        "문구"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "창조적인 디자인의 깊이를 알 수 있는 매력적인 사례입니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title": "카를로비바리에서의 스파 에클렉틱",
+      "content": "카를로비바리 국제 영화제의 역사적 경로를 담고 있습니다. 영화제가 어떻게 탄생했는지, 그리고 소련 시대에도 어떻게 대처했는지 흥미로운 이야기를 제공합니다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "영화제의 역사와 발전 과정을 배우는 기회입니다.",
+      "tags": [
+        "영화제",
+        "역사"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "영화예술을 사랑하는 이들에게 역사와 현재를 함께 볼 수 있는 통찰력을 제공합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title": "플로이드 메이웨더: 초호화 스타선수의 생활",
+      "content": "세계적으로 유명한 복서 플로이드 메이웨더의 화려한 생활을 들여다봅니다. 그의 전적, 스타일, 그리고 개인적인 사치 등에 대해 이야기합니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "강력한 커리어와 함께 개인 생활에서도 눈부신 스타 메이웨더의 스토리.",
+      "tags": [
+        "스포츠",
+        "스타"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "플로이드 메이웨더의 삶은 단순한 운동 선수로의 생활을 넘어서는 무언가를 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title": "꿈을 담은 프랑스 시계: 악테오",
+      "content": "악테오 시계는 단순한 시계가 아닌, 꿈과 열정을 담은 상징적인 물건입니다. 프랑스 디자이너 Jean Christophe Mareshal이 만든 독창적인 시계입니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "프랑스의 독창적인 시계 디자인은 독특하고 기발한 아이디어로 가득 차 있습니다.",
+      "tags": [
+        "디자인",
+        "시계"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "프랑스 디자인의 창조성과 예술적 가치를 엿볼 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title": "제니퍼 램과 크리스토퍼 놀란의 대담한 협업",
+      "content": "크리스토퍼 놀란의 영화 텐넷 편집을 담당한 제니퍼 램의 이야기입니다. 작은 작품에 익숙했던 그녀가 큰 액션씬이 있는 프로젝트에 뛰어들며 겪은 도전과 의지에 대해 다룹니다.",
+      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "대형 액션 프로젝트 속에서 제니퍼 램의 창의적 접근방법을 살펴봅니다.",
+      "tags": [
+        "편집",
+        "영화"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "놀란과 램의 협업은 영화산업의 창의적 도전과 혁신을 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title": "릴레인과 쳨 비버와 함께한 멋진 사이클",
+      "content": "탈인디 치곳을 중심으로 한 특별한 프로젝트가 소개됩니다. 배경 역사와 지금까지 함께 했던 사람들과의 친밀한 관계에 대해 다룹니다.",
+      "url": "https://thecreativeindependent.com/people/artist-edie-fake-on-communicating-with-images/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "이미지를 통한 소통을 테마로 창조적 노력과 성과를 알립니다.",
+      "tags": [
+        "이미지",
+        "소통"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "소통의 방식으로서의 예술 이미지의 매력과 가능성을 탐색하는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/jkGm60DkTSmx3rVXTit1",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title": "루피타 니욍고와 함께한 아메리칸 보그",
+      "content": "케냐-멕시코 배우 루피타가 아메리칸 보그의 2026년 7월호에 프라다를 입고 등장합니다. 마이켈 얀슨의 사진 속 그녀의 빛나는 모습을 감상하세요.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/19/american-vogue-july-2014/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "아메리칸 보그를 통해 루피타의 새로운 면모와 스타일을 발견할 수 있습니다.",
+      "tags": [
+        "패션",
+        "스타일"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "꼬려진 감각의 캔디스코팩 역사를 알 수 있는 소중한 기회입니다.",
+      "depth": 0.95,
+      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title": "키사보: 베를린의 현대 일본 차 바",
+      "content": "베를린에 위치한 키사보는 현대적이면서 전통적인 일본 차 문화를 경험할 수 있는 공간입니다. 이곳에서 신선한 차와 함께하는 특별한 시간을 가져보세요.",
+      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "동서양에서의 차 문화의 조화를 통해 새로운 경험의 가능성을 제시합니다.",
+      "tags": [
+        "차",
+        "문화"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "전통의 현대화를 탐구하며 문화를 이해할 수 있는 장소입니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/06/kissabo-720x1280.jpg",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title": "패션 매거진에서 본 제이미 도넌",
+      "content": "제이미 도넌의 매력적인 모습을 담은 매거진 기사입니다. 크리스천 그레이로 캐스팅 되기 전의 배경 스토리와 함께 그를 알아가는 기회입니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "제이미 도넌의 개인적 삶과 그의 경력 시작점을 살펴보세요.",
+      "tags": [
+        "패션",
+        "배우"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "성공한 인물의 초기 경력과 매력을 엿볼 수 있는 기회입니다.",
+      "depth": 0.95,
+      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "초호화 스타 플로이드 메이웨더의 삶",
+      "content": "플로이드 메이웨더의 화려한 삶의 이면을 들여다봅니다. 세계 1위의 부자 스타로서의 그의 생활 방식을 엿볼 수 있습니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "스타",
+        "삶"
+      ],
+      "why": "세계적 스타의 삶을 통해 럭셔리와 스타덤의 본질을 이해할 수 있습니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title": "길레트 - 100년의 머리",
+      "content": "길레트의 100년 역사를 영상으로 제공합니다. 욕실 배경의 다양한 악세서리와 시대의 변화를 노래로 풀어낸 재미있는 프로젝트입니다.",
+      "url": "https://honestart.tistory.com/96",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "길레트",
+        "역사"
+      ],
+      "why": "일상적 브랜드의 역사를 좀 더 재미있게 보며 새로운 감상을 할 수 있습니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    },
+    {
+      "title": "스페셜하게 준비한 악테오 시계",
+      "content": "프랑스 악테오 시계는 독창적인 디자인과 꿈을 담은 특별한 시계입니다. 저렴한 가격에도 불구하고 높은 품질과 매력적인 디자인을 제공합니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "시계",
+        "디자인"
+      ],
+      "why": "개성있는 디자인과 저렴한 가격대의 시계로 새로운 트렌드를 바라는 이들에게 매력적입니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-28T08:00:00.000000"
+    }
+  ],
   "macro_keywords": [
     {
       "word": "다층적 미학 융합",

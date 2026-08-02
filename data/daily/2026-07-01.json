@@ -7,9 +7,289 @@
     "considered": 542,
     "selected": 15
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "The Weekend With Zara McIntosh",
+      "content": "팝 문화 전문가이자 물리적 미디어의 여왕인 Zara McIntosh가 이상적인 주말을 소개합니다. 그녀는 최상의 런던 명소와 특이한 퀴어 매거진, 여름 사운드트랙을 공개합니다.",
+      "url": "https://www.itsnicethat.com/features/the-weekend-with-zara-mcintosh-310726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "런던의 다양성과 창의적인 씬을 발견하게 됩니다.",
+      "tags": [
+        "pop culture",
+        "London"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "현대 문화의 다양한 측면을 조명하고 있는 흥미로운 기사입니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/cwd-KswyejkoKIABsUUKi-cRVeE=/280306/width-1440%7Cformat-jpeg/00-01_Q35FR6y.png",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    },
+    {
+      "title": "The story behind Present & Correct, the perfectly curated stationery shop that’s every graphic designers dream",
+      "content": "그래픽 디자이너의 꿈 같은 문구점, Present & Correct의 비하인드 스토리를 소개합니다. 공동 창업자 Neal Whittington과의 인터뷰를 통해 출판 세계로의 새로운 도전도 엿볼 수 있습니다.",
+      "url": "https://www.itsnicethat.com/features/present-and-correct-graphic-design-spotlight-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "와치매니아와 그래픽 디자이너에게 꿈과 같은 공간을 자세히 설명합니다.",
+      "tags": [
+        "stationery",
+        "design"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "창의적이고 혁신적인 문구점의 운영 철학과 그 역사에 대해 깊이 알 수 있습니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/CO4tvu3BoHL9LYg5J-EcmWbH2xE=/280455/width-1440%7Cformat-jpeg/COMP.png",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    },
+    {
+      "title": "ChaChaanTeng’s saucy auto-mayo-mat activation for Heinz is a fantastically physical opponent to AI slop",
+      "content": "ChaChaanTeng의 하인즈 마요네즈 자판기 프로젝트는 음식의 감각과 일본 자판기의 물리성을 강조하며 AI의 허술함에 저항합니다.",
+      "url": "https://www.itsnicethat.com/articles/chachaanteng-heinz-mayo-graphic-design-project-300726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "독특한 음식 문화와 창의적인 디자인의 완벽한 결합을 경험할 수 있습니다.",
+      "tags": [
+        "food",
+        "design"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "창의적인 접근 방식으로 음식을 새롭게 경험할 수 있는 기회를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/BVaOVboZvSXCjUzOLAKBRf-3SzA=/280357/width-1440/chachaanteng-heinz-mayo-graphic-design-itsnicethat-6.jpg",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    },
+    {
+      "title": "Spa Eclectics: At Karlovy Vary",
+      "content": "칼로비바리 국제 영화제는 점령과 타협, 생존의 경로를 걸어왔습니다. 1946년 첫 개최 후 세계적으로 큰 영향을 미치는 A등급 영화제로 지정되었습니다.",
+      "url": "https://filmmakermagazine.com/134047-spa-eclectics-at-karlovy-vary/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "영화제의 역사와 그 중요성을 통해 영화 문화의 다양한 측면을 이해할 수 있습니다.",
+      "tags": [
+        "film",
+        "festival"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "영화제의 복잡한 역사와 그 영향력을 조명하는 기사입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/everytime-940x400.webp",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    },
+    {
+      "title": "Weaving The Odyssey",
+      "content": "Christopher Nolan의 영화 'Tenet' 편집을 맡은 Jennifer Lame과의 인터뷰. 역동적인 액션 신의 제작 비하인드를 살펴봅니다.",
+      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "독창적이고 복잡한 영화 제작 과정을 이해할 수 있는 기회를 제공합니다.",
+      "tags": [
+        "film",
+        "editing"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "대규모 예산의 영화 제작의 복잡성을 이해하는 데 도움이 됩니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    },
+    {
+      "title": "Remembering Sam Neill",
+      "content": "Sam Neill을 떠올리며 영화 'In the Mouth of Madness'의 추억을 나눕니다. 그는 사람들에게 가까운 배우로 기억됩니다.",
+      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "영화를 통해 그의 영향력을 재조명하는 기사를 통해 감성적인 추억을 상기시킵니다.",
+      "tags": [
+        "actor",
+        "tribute"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "영화계에 큰 영향을 미친 배우를 다시 조명하는 감동적인 이야기입니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    },
+    {
+      "title": "Musician and artist Alexandra Drewchin (Eartheater) on following the deep feeling",
+      "content": "Alexandra Drewchin (Eartheater)와 그녀의 새로운 삶의 변화에 대해 이야기합니다. 새로운 모험이 음악과 예술에 가져온 영향을 살펴봅니다.",
+      "url": "https://thecreativeindependent.com/people/musician-and-artist-alexandra-drewchin-eartheater-on-following-the-deep-feeling/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "예술과 개인적인 성장 간의 깊은 연결을 보여줍니다.",
+      "tags": [
+        "music",
+        "art"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "개인의 삶의 변화가 예술에 미치는 영향을 이해하는 데 유익합니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    },
+    {
+      "title": "Faception Reloaded Tee",
+      "content": "얼굴 인식 시스템을 혼란스럽게 만드는 Urban Privacy의 Faception 티셔츠. 100% 유기농을 사용하여 환경 친화적입니다.",
+      "url": "https://coolhunting.com/buy/faception-reloaded-tee/",
+      "source": "coolhunting.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "신기술에 대한 도전과 환경을 고려한 디자인의 측면을 보여줍니다.",
+      "tags": [
+        "fashion",
+        "technology"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "현대 패션과 기술의 교차를 보여주는 신선한 시각입니다.",
+      "depth": 0.95,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/6B4F4DEC-4E02-46D7-A7E8-577616AA85CB_1_201_a-768x768.jpeg",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    },
+    {
+      "title": "Outside the Four Walls: Delilah, Chase Sapphire Reserve and the Return of the Supper Club",
+      "content": "h.wood Group이 저녁과 공연이 결합된 클럽 Delilah를 Montauk로 가져옵니다. 새로운 뉴욕 공간의 첫 번째 영구 지점을 미리 볼 수 있습니다.",
+      "url": "https://coolhunting.com/culture/outside-the-four-walls-delilah-chase-sapphire-reserve-and-the-return-of-the-supper-club/",
+      "source": "coolhunting.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "전통적인 사회적 변화를 통해 현대 문화를 표현합니다.",
+      "tags": [
+        "culture",
+        "supper club"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "음식과 문화의 새로운 형태를 제시합니다.",
+      "depth": 0.95,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/176_Chase-Sapphire-Delilah_Montauk_jermcohen-7.23.2026-768x512.jpg",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    },
+    {
+      "title": "Kim Justin Hell",
+      "content": "럭셔리 시계 촬영에 특화된 Kim Justin Hell이 글로벌 광고 캠페인을 위해 다채로운 시각을 제공합니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "품질과 창의성을 결합하여 고급 제품을 돋보이게 합니다.",
+      "tags": [
+        "photography",
+        "luxury"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "고급 브랜드가 어떻게 시각적으로 표현되는지를 깊이 있게 분석합니다.",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    },
+    {
+      "title": "Gillette - 100 Years of Hair",
+      "content": "Gillette의 '100 Years of Hair' 캠페인은 세기의 변화를 노래와 재미있는 영상으로 보여줍니다.",
+      "url": "https://honestart.tistory.com/96",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "시대의 변화를 창의적으로 표현하는 캠페인을 통해 브랜드의 의미를 전달합니다.",
+      "tags": [
+        "advertising",
+        "campaign"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "브랜드의 역사를 음악과 시각 예술로 연계함으로써 고객과의 관계를 강화합니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    }
+  ],
   "items": [],
-  "popcorn": [],
+  "popcorn": [
+    {
+      "title": "초호화 스타선수의 생활  -플로이드 메이웨더 Floyd Mayweather Jr.",
+      "content": "무패 전적을 자랑하는 플로이드 메이웨더 주니어의 초호화 생활을 소개합니다. 일상적인 결정마저 그의 돈의 힘을 보여줍니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "Floyd Mayweather"
+      ],
+      "why": "유명 인사의 화려한 일상을 통해 대중의 호기심을 자극합니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    },
+    {
+      "title": "꿈을 담은 프랑스 시계 -akteo(악테오)",
+      "content": "Akteo 시계는 꿈과 열정을 표현하는 디자인으로, 프랑스의 세련된 시계 메이커로부터 인기를 얻고 있습니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "watch",
+        "design"
+      ],
+      "why": "디자인의 독창성과 문화를 연결하여 호기심을 자극합니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    },
+    {
+      "title": "57 Best Bathroom Accessories That AD Editors Swear By (2026)",
+      "content": "AD 편집자들이 추천하는 욕실 액세서리들은 실용적이면서도 스타일리시합니다.",
+      "url": "https://www.architecturaldigest.com/story/best-bathroom-accessories",
+      "source": "architecturaldigest.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "bathroom",
+        "accessories"
+      ],
+      "why": "실생활에 바로 적용할 수 있는 실용적인 아이디어를 제공합니다.",
+      "depth": 0.5,
+      "image": "https://media.architecturaldigest.com/photos/68d42b946988e55aa3d597b3/master/pass/AD0921_HART_DN_6.jpg",
+      "pub_date": "2026-07-01T08:00:00.000000"
+    }
+  ],
   "keywords": [
     "아르누보",
     "미국 예술",

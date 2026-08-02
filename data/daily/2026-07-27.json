@@ -7,7 +7,239 @@
     "considered": 40,
     "selected": 14
   },
-  "topPicks": [],
+  "topPicks": [
+    {
+      "title": "플로이드 메이웨더: 무패 챔피언의 초호화 생활",
+      "content": "플로이드 메이웨더는 46전 전승의 기록을 가진 복서로서 최고의 스피드와 테크닉을 갖추고 있습니다. 그는 압도적인 수입으로 초호화 생활을 즐기며 그의 성공을 자랑합니다.",
+      "url": "https://honestart.tistory.com/99",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "대중의 관심을 끄는 스포츠 스타의 면모를 깊게 조명합니다.",
+      "tags": [
+        "스포츠",
+        "스타생활"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "화려한 복서의 삶을 매력적으로 조명하며, 독자의 호기심을 자극합니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-27T08:00:00.000000"
+    },
+    {
+      "title": "꿈을 담은 프랑스 시계 - akteo",
+      "content": "akteo 시계는 단순한 시간 표시기를 넘어 꿈과 열정을 상징적으로 표현합니다. 프랑스 디자이너의 창의력으로 디자인된 이 시계는 개인의 꿈을 응원합니다.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "창의적인 디자인과 열정의 가치에 중점을 두었습니다.",
+      "tags": [
+        "디자인",
+        "렬정"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "독창적인 시계 디자인으로 감성과 실용성을 동시에 제공합니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-27T08:00:00.000000"
+    },
+    {
+      "title": "100년의 면도기 역사: 길레트",
+      "content": "길레트의 100주년 역사를 시대의 변화와 함께 조명합니다. 음악과 비디오로 이 브랜드의 혁신을 전합니다.",
+      "url": "https://honestart.tistory.com/96",
+      "source": "honestart.tistory.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "길레트 브랜드의 혁신적 변화와 진화를 상세히 다룹니다.",
+      "tags": [
+        "역사",
+        "면도기"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "브랜드의 지속적인 혁신 과정을 통해 소비자에게 신뢰를 줍니다.",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "pub_date": "2026-07-27T08:00:00.000000"
+    },
+    {
+      "title": "샘 닐을 기억하며",
+      "content": "샘 닐과 그의 연기에 대해 깊이 있는 해설을 제공합니다. 그의 경력과 작품에 대한 애정 어린 회상을 담고 있습니다.",
+      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
+      "source": "Filmmaker Magazine",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "샘 닐의 독보적인 연기 경력을 돌아보며 영화계에 미친 영향을 탐구합니다.",
+      "tags": [
+        "영화",
+        "배우"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "영화 팬들에게 감동적인 회상의 기회를 제공하여 감성을 자극합니다.",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000"
+    },
+    {
+      "title": "아트 오브 플라워: 캐롤린 루가버와의 대화",
+      "content": "꽃 예술가 캐롤린 루가버와의 대화를 통해 꽃이 전하는 메시지와 그 아름다움을 탐구합니다.",
+      "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "꽃 예술을 통해 자연과 예술의 만남을 심도 있게 살펴봅니다.",
+      "tags": [
+        "예술",
+        "자연"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "자연의 아름다움을 예술적으로 승화시켜 감동을 선사합니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/06/ignant-carolin-ruggaber-clemens-poloczek-1-720x1079.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000"
+    },
+    {
+      "title": "유러피안 예술공예의 아름다움",
+      "content": "전통적인 유러피안 예술공예가 현대 디자인에 미치는 영향과 그 아름다움을 소개합니다.",
+      "url": "https://www.ignant.com/2026/06/25/the-art-of-flowers-in-conversation-with-carolin-ruggaber/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "전통공예가 가지는 역사적 가치를 현대 예술과 연결합니다.",
+      "tags": [
+        "전통",
+        "예술"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "전통이 현재에 어떻게 융화되는지를 보여주는 훌륭한 사례를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/06/ignant-carolin-ruggaber-clemens-poloczek-1-720x1079.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000"
+    },
+    {
+      "title": "자연과의 만남: 베를린의 현대 일본 찻집",
+      "content": "베를린의 현대 일본 찻집 Kissabō을 소개하며, 차 문화와 현대 디자인의 조화를 탐구합니다.",
+      "url": "https://www.ignant.com/2026/06/10/kissabo-a-contemporary-japanese-tea-bar-in-berlin/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "고전적인 차 문화와 현대적 디자인의 융합을 예시합니다.",
+      "tags": [
+        "디자인",
+        "차문화"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "전통 문화가 현대적 해석을 통해 세계적으로 확장되는 방식에 주목합니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/06/kissabo-720x1280.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000"
+    },
+    {
+      "title": "사진이 말을 걸다: 베로니카 야노벡의 집에서",
+      "content": "조각가 베로니카 야노벡의 집에서의 일상과 예술이 주는 영감을 담은 인터뷰입니다.",
+      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
+      "source": "ignant.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "예술가의 일상 속에서 발견하는 심미적 가치와 영감을 탐구합니다.",
+      "tags": [
+        "조각",
+        "예술"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "예술가의 세계를 더 깊이 이해하게 하는 기회를 제공합니다.",
+      "depth": 0.95,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000"
+    },
+    {
+      "title": "모래 위의 시간: Photo London 2026",
+      "content": "Photo London 2026 아트 페어에서는 혁신적인 현대 사진작품들이 소개됩니다.",
+      "url": "https://opendoors.gallery/photo-london-2026-art-fair",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "현대 사진예술을 통해 새로운 시각적 경험을 제공합니다.",
+      "tags": [
+        "사진",
+        "예술"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "참여 작가들의 창의성이 돋보이는 작품들을 통해 예술의 신세계를 엽니다.",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-07-27T08:00:00.000000"
+    },
+    {
+      "title": "면과 색의 예술: 침구의 스타일링",
+      "content": "아름다운 침구 스타일링을 위한 최고의 듀벳 커버를 소개하며, 각자의 침실을 디자인하는 팁을 제공합니다.",
+      "url": "https://www.architecturaldigest.com/story/best-duvet-covers-reviewed",
+      "source": "architecturaldigest.com",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "침실 인테리어 디자인을 통해 일상의 품격을 높입니다.",
+      "tags": [
+        "인테리어",
+        "침구"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "개인의 공간에서의 작은 변화를 통해 일상에 여유로움을 더합니다.",
+      "depth": 0.95,
+      "image": "https://media.architecturaldigest.com/photos/69ab490490cd4f626fa81019/master/pass/02.04.2026_ArchDigest_SleepWeek6540%20copy%201_SQUARE.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000"
+    },
+    {
+      "title": "아서르 디자인: 욕실 액세서리의 진화",
+      "content": "유머러스하면서도 기능적인 욕실 액세서리를 통해 실용성과 예술성을 동시에 고려한 선택을 제공합니다.",
+      "url": "https://www.architecturaldigest.com/story/best-bathroom-accessories",
+      "source": "architecturaldigest.com",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "일상 공간에서의 디자인의 중요성을 강조합니다.",
+      "tags": [
+        "욕실",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "VisualTaxonomy"
+      ],
+      "why": "작은 공간도 디자인으로 인해 큰 변화를 가져올 수 있음을 보여줍니다.",
+      "depth": 0.95,
+      "image": "https://media.architecturaldigest.com/photos/68d42b946988e55aa3d597b3/master/pass/AD0921_HART_DN_6.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000"
+    }
+  ],
   "popcorn": [
     {
       "title_ko": "American Vogue July 2014 (2026-07-27)",
@@ -26,6 +258,36 @@
       "title": "American Vogue July 2014 (2026-07-27)",
       "title_en": "American Vogue July 2014 (2026-07-27)",
       "content": "Lupita Nyong&#8217;o looks radiant in Prada as she fronts the July 2014 issue of American Vogue. The Kenyan-Mexican actor is styled by Phyll..."
+    },
+    {
+      "title": "크리스천 그레이로 돌아온 제이미 도넌",
+      "content": "많은 사람들이 제이미 도넌이 연기할 크리스천 그레이를 기대하고 있습니다. 그의 새로운 모습에 많은 관심이 쏠리고 있습니다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/25/interview-magazine-jamie-dornan/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "배우"
+      ],
+      "why": "대중의 기대를 모으는 영화에 대한 기사를 통해 독자의 관심을 끕니다.",
+      "depth": 0.5,
+      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "pub_date": "2026-07-27T08:00:00.000000"
+    },
+    {
+      "title": "분위기 있는 욕실 액세서리",
+      "content": "압도적인 멋을 자아내는 욕실 액세서리로 일상의 평범함을 벗어나 보세요.",
+      "url": "https://www.architecturaldigest.com/story/best-bathroom-accessories",
+      "source": "architecturaldigest.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "인테리어"
+      ],
+      "why": "단순한 일상 물품 속에서 발견하는 작은 예술적 즐거움을 소개합니다.",
+      "depth": 0.5,
+      "image": "https://media.architecturaldigest.com/photos/68d42b946988e55aa3d597b3/master/pass/AD0921_HART_DN_6.jpg",
+      "pub_date": "2026-07-27T08:00:00.000000"
     }
   ],
   "macro_keywords": [
