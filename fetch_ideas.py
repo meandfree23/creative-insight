@@ -225,14 +225,14 @@ def generate_daily_insight(date_str, articles_subset):
       ],
       "popcorn": [
         {{
-          "title": "(Select EXACTLY 2 trending/viral/pop-culture items from the remaining articles, title in Korean)",
-          "content": "(1-sentence summary of the content in Korean)",
+          "title": "(Select EXACTLY 3 highly engaging, viral, or entertaining items such as viral ad campaigns, funny shorts, behind-the-scenes, or trending pop-culture references, title in Korean)",
+          "content": "(1-sentence snappy summary of the content in Korean)",
           "url": "(The article's original link)",
           "source": "(Source name)",
           "domain": "POPCORN",
-          "category": "바이럴",
-          "tags": ["(tag1)"],
-          "why": "(Why this is pop/viral reference in Korean)",
+          "category": "스낵/바이럴",
+          "tags": ["(tag1)", "(tag2)"],
+          "why": "(Why this is an entertaining or viral reference for video/marketing creators in Korean)",
           "depth": 0.5,
           "image": "(Image URL if provided, else empty string)",
           "pub_date": "{date_str}T08:00:00.000000"
