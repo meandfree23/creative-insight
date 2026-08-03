@@ -1,131 +1,349 @@
 {
   "date": "2026-08-02",
-  "focusQ": "Agent's Thought: 현대 창작의 흐름은 경계를 넘어 다양한 분야가 서로 영향을 주고받는 다층적 융합의 시대입니다. 창작자들은 그들만의 독창성을 유지하면서도 다른 분야와의 상호작용을 통해 새로운 영감을 얻고 있습니다.",
-  "creator_message": "큐레이터의 메시지: 오늘의 주제는 창작의 경계를 허무는 혁신적 사고입니다. 다양한 분야가 서로 영향을 주고받으며 창조의 새로운 지평을 열고 있습니다.",
+  "focusQ": "에이전트의 생각: 현대 창작자들이 서로 다른 분야를 어떻게 영감으로 삼는지를 탐구하면서, 크로스-디시플러너리 시너지를 통한 창의적 시대 정신을 포착합니다. 현대적 미학과 다양한 분야 간의 융합은 새로운 아이디어를 창출하는 촉매제가 됩니다.",
+  "creator_message": "큐레이터의 메시지: 오늘 우리는 현대 창작자들의 독창성을 탐구하고, 시간을 초월하는 미학과 크로스-디시플러너리 시너지를 조명합니다. 여러분의 창작 여정에 영감을 드리길 바랍니다.",
   "session": {
-    "timestamp": "2026-08-02T12:03:55.598624",
+    "timestamp": "2026-08-03T15:15:35.917520",
     "considered": 40,
     "selected": 14
   },
   "topPicks": [
     {
-      "title": "아이알라 커피 컴퍼니의 시각적 정체성: 촉각적 패키징의 예술",
-      "content": "아이알라 커피 컴퍼니의 브랜딩은 건축적 비율을 갖춘 구조적 타이포그래피 패키징으로 구현되었습니다. 이 시각 시스템은 높은 대비를 가진 구조적 패키지 디자인에 의존합니다.",
-      "url": "https://abduzeedo.com/ayala-coffee-co-visual-identity-crafting-tactile-packaging/",
-      "source": "abduzeedo.com",
-      "domain": "DESIGN",
+      "title": "어머니의 발 아래: 불가능한 선택의 가장자리까지",
+      "content": "엘리아스 수하일 감독의 '어머니의 발 아래'는 젊은 엄마가 직면한 고통스러운 선택의 여정을 따라갑니다. 이 작품은 감정적 깊이와 강렬한 서사를 통해 관객에게 깊은 인상을 남깁니다.",
+      "url": "https://directorsnotes.com/2026/07/14/elias-suhail-beneath-a-mothers-feet/",
+      "source": "Directors Notes",
+      "domain": "FILM",
       "category": "리뷰",
-      "creator_name": "알렉스 아페리오스",
-      "creator_insight": "알렉스 아페리오스는 구조적 디자인을 통해 브랜드의 고유한 정체성을 시각적으로 구현하며, 이를 통해 촉각적 경험을 제공합니다.",
+      "creator_name": "엘리아스 수하일",
+      "creator_insight": "엘리아스 수하일 감독은 개인적인 경험을 바탕으로 깊이 있는 인물 간의 갈등을 탐구하며, 관객에게 강한 정서적 공감을 불러일으킵니다.",
       "tags": [
-        "브랜딩",
-        "패키징",
-        "타이포그래피"
+        "가족",
+        "드라마",
+        "감정"
       ],
       "execution_techniques": [
-        "#구조적디자인",
-        "#타이포그래피"
+        "#감성연출",
+        "#실험적촬영"
       ],
-      "why": "1) 현대 브랜딩의 경향을 반영합니다. 2) 구조적 디자인의 중요성을 강조합니다. 3) 시각적 가치를 통해 브랜드의 정체성을 확립합니다. 4) 패키징 디자인이 다른 분야에 주는 영감을 제시합니다.",
+      "why": "이 작품은 현대 사회에서 가족의 의미를 재조명하며, 깊이 있는 정서적 표현으로 관객에게 강한 감정적 충격을 줍니다. 또한, 다양한 분야의 창작자들에게 새로운 시각적 접근을 제공하는 데 기여합니다.",
       "social_proof": "",
       "depth": 0.95,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_ayala-coffee-co-visual-identity-alex-aperios.jpg",
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/07/beneath_a_mothers_feet_02a.jpg",
       "pub_date": "2026-08-02T08:00:00.000000"
     },
     {
-      "title": "라파엘: 메트로폴리탄 미술관에서의 숭고한 시",
-      "content": "2026년 3월 29일부터 6월 28일까지 메트로폴리탄 미술관에서 전시되는 '라파엘: 숭고한 시'는 미국에서 처음으로 열리는 라파엘에 대한 포괄적이고 국제적인 대여 전시회입니다.",
-      "url": "https://theartwolf.com/exhibitions/raphael-metropolitan-2026/",
-      "source": "The Art Wolf",
-      "domain": "ART",
+      "title": "스탠리 1913: 식음료 확장 비하인드",
+      "content": "스탠리 1913은 글로벌 소비자 조사와 운동 선수의 지지를 바탕으로 일상적 의식을 겨냥한 새로운 제품을 출시하고 있습니다. 브랜드는 고객의 삶의 질을 높이는 데 초점을 맞추고 있습니다.",
+      "url": "https://www.campaignlive.com/article/beyond-quencher-inside-stanley-1913s-food-beverage-expansion/1966187",
+      "source": "Campaign Live",
+      "domain": "MARKETING",
       "category": "리뷰",
-      "creator_name": "라파엘로 산치오",
-      "creator_insight": "라파엘은 르네상스 예술의 정수를 통해 예술의 숭고함과 인간의 내면을 탐구하며, 그의 작품은 시대를 초월한 미적 가치를 제공합니다.",
+      "creator_name": "스탠리 1913 팀",
+      "creator_insight": "스탠리 1913은 소비자의 일상 생활을 풍요롭게 하는 제품 개발을 통해 브랜드의 가치를 강화하고 있습니다.",
       "tags": [
-        "라파엘",
-        "예술사",
-        "전시회"
+        "브랜드",
+        "소비자",
+        "혁신"
       ],
       "execution_techniques": [
-        "#르네상스",
-        "#미적가치"
+        "#브랜드전략",
+        "#소비자중심"
       ],
-      "why": "1) 예술의 역사적 흐름을 이해하는 데 필수적입니다. 2) 르네상스 시대의 미학을 탐구합니다. 3) 예술적 감성의 깊이를 제공합니다. 4) 예술과 디자인의 상호작용을 촉진합니다.",
+      "why": "이 브랜드 확장은 현대 소비자의 라이프스타일 변화에 대한 깊은 통찰을 제공하며, 마케팅 전문가들에게 새로운 아이디어를 제시합니다. 다양한 분야의 창작자들에게도 영감의 원천이 될 수 있습니다.",
       "social_proof": "",
-      "depth": 0.95,
+      "depth": 0.9,
       "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
       "pub_date": "2026-08-02T08:00:00.000000"
     },
     {
-      "title": "카탈루냐 농가: 땅을 가로지르는 여정",
-      "content": "스페인의 누아 아르키텍쳐스 스튜디오는 카탈루냐에 있는 농가 '카사 후이아'를 완성했습니다. 이 프로젝트는 지역 장인 정신을 바탕으로 설계되었습니다.",
-      "url": "https://www.dezeen.com/2026/08/01/casa-juia-nua-arquitectures-catalonia-spain/",
-      "source": "Dezeen",
-      "domain": "SPATIAL",
+      "title": "백억 사용자를 위한 UX 글쓰기의 교훈",
+      "content": "글로벌 사용자들을 위한 UX 글쓰기를 통해 얻은 교훈을 공유합니다. 사용자 경험을 최우선으로 고려하여, 명확하고 효과적인 커뮤니케이션을 강조합니다.",
+      "url": "https://uxdesign.cc/what-ive-learned-writing-for-billions-of-users-f4db0c1aa9cb?source=rss------design-5",
+      "source": "Medium Design Tag",
+      "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "누아 아르키텍쳐스",
-      "creator_insight": "누아 아르키텍쳐스는 지역의 전통과 장인 정신을 현대 건축 디자인에 융합하여 자연과 인간의 조화를 이끌어냅니다.",
+      "creator_name": "미디엄 디자인 팀",
+      "creator_insight": "미디엄 디자인 팀은 사용자 중심의 접근 방식을 통해 다양한 문화적 배경을 가진 사용자들에게 효과적으로 소통하는 방법을 개발하였습니다.",
       "tags": [
-        "건축",
-        "장인정신",
-        "자연"
+        "UX",
+        "디자인",
+        "커뮤니케이션"
       ],
       "execution_techniques": [
-        "#현대건축",
-        "#장인정신"
+        "#사용자중심디자인",
+        "#명확한커뮤니케이션"
       ],
-      "why": "1) 지역적 특색을 살린 현대 건축의 사례입니다. 2) 전통과 현대의 융합을 보여줍니다. 3) 시각적 아름다움과 기능성을 결합합니다. 4) 건축과 자연의 조화를 통해 다른 분야에 영감을 줍니다.",
+      "why": "이 글은 UX 디자인의 중요성과 사용자 경험을 개선하는 방법에 대한 깊은 통찰을 제공합니다. 다양한 디자인 분야에서 실질적인 교훈을 얻을 수 있습니다.",
       "social_proof": "",
-      "depth": 0.95,
-      "image": "http://static.dezeen.com/uploads/2026/07/casa-juia-house-nua-arquitectures-girona-catalonia-spain-architecture_dezeen_2364_col_0_square-411x411.jpg",
+      "depth": 0.88,
+      "image": "https://cdn-images-1.medium.com/max/2600/1*o4miIuVaPlEoSF-mQx5MYA.png",
+      "pub_date": "2026-08-02T08:00:00.000000"
+    },
+    {
+      "title": "셔윈 윌리엄스 2027 색상 예측: 향수를 불러일으키는 실험",
+      "content": "셔윈 윌리엄스의 컬러 전문가들은 즐거움을 디자인하는 데 중점을 둔 트렌드를 예측합니다. 색채를 통한 감정적 연결을 강조합니다.",
+      "url": "https://www.architecturaldigest.com/story/the-sherwin-williams-colormix-2027-forecast",
+      "source": "Architectural Digest",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "셔윈 윌리엄스 팀",
+      "creator_insight": "셔윈 윌리엄스는 색채를 통해 감정적 연결을 강화하며, 공간 디자인에 새로운 차원의 즐거움을 더합니다.",
+      "tags": [
+        "컬러",
+        "디자인",
+        "트렌드"
+      ],
+      "execution_techniques": [
+        "#컬러예측",
+        "#감정디자인"
+      ],
+      "why": "이 예측은 공간 디자인과 색채 사용의 새로운 가능성을 제시하며, 다양한 창작 분야에서 영감의 원천이 됩니다. 현대 디자인 트렌드에 대한 귀중한 통찰을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://media.architecturaldigest.com/photos/6a6cb3edd68634fbf7b370ef/master/pass/202603-sw-colormix-2027-reconnect-living-room-hero-cmyk.png",
+      "pub_date": "2026-08-02T08:00:00.000000"
+    },
+    {
+      "title": "방갈로르의 콘셉트 디자인 스튜디오: 맞춤형 디자인 솔루션",
+      "content": "방갈로르의 디자인 스튜디오는 다양한 라이프스타일에 맞춤화된 디자인 솔루션을 제공합니다. 개인의 취향과 필요를 반영한 디자인을 통해 감성적 만족을 추구합니다.",
+      "url": "https://medium.com/@panthanjali75/concept-design-studio-in-bangalore-personalized-design-solutions-for-every-lifestyle-264e456ceda7?source=rss------design-5",
+      "source": "Medium Design Tag",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "판타한잘리",
+      "creator_insight": "판타한잘리의 스튜디오는 개인의 취향을 반영한 맞춤형 디자인을 통해 사용자의 삶의 질을 향상시키는 솔루션을 제공합니다.",
+      "tags": [
+        "맞춤형디자인",
+        "라이프스타일",
+        "감성"
+      ],
+      "execution_techniques": [
+        "#맞춤디자인",
+        "#감성적접근"
+      ],
+      "why": "이 스튜디오는 현대 라이프스타일 트렌드에 대한 깊은 이해를 바탕으로, 개인 맞춤형 디자인 솔루션을 제시합니다. 창작자들에게 새로운 접근 방식을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://cdn-images-1.medium.com/max/970/1*YSG9Q6LkwwwSCORQoPmRZQ.png",
+      "pub_date": "2026-08-02T08:00:00.000000"
+    },
+    {
+      "title": "DNCO, 버몬트 최초의 관광 브랜드 디자인",
+      "content": "DNCO는 버몬트의 풍부한 자연과 문화를 홍보하는 새로운 관광 브랜드를 디자인했습니다. 지역적 특징을 강조하며, 관광객들에게 독특한 경험을 제공합니다.",
+      "url": "https://www.creativereview.co.uk/vermont-tourism-brand-dnco/",
+      "source": "Creative Review",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "DNCO",
+      "creator_insight": "DNCO는 지역의 특징을 강조한 브랜드 디자인을 통해 관광객들에게 독창적인 경험을 제공합니다.",
+      "tags": [
+        "브랜딩",
+        "관광",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#브랜드디자인",
+        "#지역특징강조"
+      ],
+      "why": "이 브랜드 디자인은 지역 문화와 자연을 홍보하는 데 중점을 두며, 방문객들에게 독특한 경험을 제공합니다. 다양한 분야의 창작자들에게 새로운 브랜딩 접근 방식을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/07/DNCO_VERMONT_Logo.jpg",
+      "pub_date": "2026-08-02T08:00:00.000000"
+    },
+    {
+      "title": "발렌틴 누자임, 한 네펜스 재단 비디오 아트 제작 지원금 수상",
+      "content": "발렌틴 누자임은 바르셀로나의 한 네펜스 재단으로부터 지중해 비디오 아트 제작 지원금을 수상했습니다. 그는 혁신적인 예술적 접근으로 주목받고 있습니다.",
+      "url": "https://www.artforum.com/news/valentin-noujaim-awarded-han-nekfkens-foundation-grant-1234756009/",
+      "source": "Artforum",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "발렌틴 누자임",
+      "creator_insight": "발렌틴 누자임은 혁신적인 비디오 아트를 통해 현대 사회의 복잡성을 탐구하고, 관객에게 새로운 시각적 경험을 제공합니다.",
+      "tags": [
+        "비디오아트",
+        "지원금",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "#혁신적비디오",
+        "#시각적경험"
+      ],
+      "why": "이 지원금 수상은 비디오 아트의 발전을 촉진하며, 다양한 창작 분야에서 영감의 원천이 됩니다. 현대 예술의 새로운 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-08-02T08:00:00.000000"
+    },
+    {
+      "title": "쉴드폰트: AI 크롤러를 중독시키는 서체",
+      "content": "쉴드폰트는 AI 크롤러를 방해할 수 있는 독특한 서체입니다. 이는 데이터의 보안을 강화하는 데 기여합니다.",
+      "url": "https://thedieline.com/shieldfont-is-a-typeface-that-poisons-ai-crawlers/",
+      "source": "The Dieline",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "쉴드폰트 팀",
+      "creator_insight": "쉴드폰트 팀은 AI 크롤러의 데이터 수집을 방해하는 혁신적인 서체를 개발하여, 디지털 환경에서의 보안을 강화합니다.",
+      "tags": [
+        "AI",
+        "보안",
+        "서체"
+      ],
+      "execution_techniques": [
+        "#보안강화",
+        "#혁신적서체"
+      ],
+      "why": "이 서체는 디지털 보안 문제에 대한 새로운 해결책을 제시하며, 디자인과 기술 분야에서의 혁신을 촉진합니다. 다양한 분야의 창작자들에게 새로운 영감을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-9.24.37-AM.png",
+      "pub_date": "2026-08-02T08:00:00.000000"
+    },
+    {
+      "title": "프랑크푸르트 디자인 위크 2027",
+      "content": "프랑크푸르트가 2027년에 첫 번째 디자인 위크를 개최하여, 디자인, 건축, 도시 계획의 국제적 플랫폼을 제공합니다. 이 행사는 창의적 아이디어의 융합을 촉진합니다.",
+      "url": "https://designspotter.com/frankfurt-design-week-2027/",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "프랑크푸르트 디자인 위크 팀",
+      "creator_insight": "프랑크푸르트 디자인 위크는 다양한 디자인 분야의 전문가들을 모아 창의적 실험과 협업을 장려합니다.",
+      "tags": [
+        "디자인",
+        "국제행사",
+        "협업"
+      ],
+      "execution_techniques": [
+        "#국제디자인",
+        "#창의적협업"
+      ],
+      "why": "이 디자인 위크는 글로벌 디자인 트렌드를 탐구하고, 다양한 분야의 협업을 통해 창의적 아이디어를 발전시키는 데 기여합니다. 창작자들에게 새로운 영감을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-08-02T08:00:00.000000"
+    },
+    {
+      "title": "픽셀 소팅 온라인: 글리치 아트를 만드는 방법",
+      "content": "픽셀 소팅 온라인은 글리치 아트를 창조하는 데 사용되는 기술적 요소들을 설명합니다. 임계값, 정렬 키, 방향성을 통해 독특한 시각적 스타일을 만들어냅니다.",
+      "url": "https://medium.com/@pixlanemedia/pixel-sorting-online-how-thresholds-sort-keys-and-direction-create-glitch-art-f83c090a8bc9?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "TECH_ART",
+      "category": "리뷰",
+      "creator_name": "픽스레인 미디어",
+      "creator_insight": "픽스레인 미디어는 글리치 아트를 통해 디지털 미학의 새로운 가능성을 탐구하며, 창작자들에게 새로운 시각적 영감을 제공합니다.",
+      "tags": [
+        "글리치",
+        "디지털아트",
+        "창작"
+      ],
+      "execution_techniques": [
+        "#글리치아트",
+        "#디지털미학"
+      ],
+      "why": "이 기술은 디지털 아트와 디자인에 새로운 시각적 스타일을 제시하며, 다양한 창작 분야에서 영감을 제공합니다. 현대 디지털 미학의 발전에 기여합니다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cdn-images-1.medium.com/max/1600/1*c2HfdbEHKQ6PS5dfNkQvlw.jpeg",
+      "pub_date": "2026-08-02T08:00:00.000000"
+    },
+    {
+      "title": "스타허브와 밴드웨건의 ‘고향의 소리’: 싱가포르 국경일을 기념하다",
+      "content": "스타허브와 밴드웨건은 싱가포르 국경일을 기념하기 위해 ‘고향의 소리’를 제작했습니다. 이 캠페인은 음악을 통해 공동체의 연결을 강화합니다.",
+      "url": "https://www.brandinginasia.com/starhub-bandwagon-create-sounds-of-home-for-singapore-national-day/",
+      "source": "Branding in Asia",
+      "domain": "MARKETING",
+      "category": "리뷰",
+      "creator_name": "스타허브 & 밴드웨건 팀",
+      "creator_insight": "스타허브와 밴드웨건은 음악을 통해 공동체의 연결을 강화하며, 감성적이고 전략적인 마케팅 캠페인을 제공합니다.",
+      "tags": [
+        "음악",
+        "마케팅",
+        "공동체"
+      ],
+      "execution_techniques": [
+        "#음악마케팅",
+        "#공동체연결"
+      ],
+      "why": "이 캠페인은 음악을 통한 문화적 연결을 강조하며, 마케팅 전문가들에게 새로운 전략적 접근 방식을 제공합니다. 다양한 분야의 창작자들에게도 영감의 원천이 됩니다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/07/Starhub-Sounds-of-Home-.webp",
+      "pub_date": "2026-08-02T08:00:00.000000"
+    },
+    {
+      "title": "제이슨 와일드 CGI",
+      "content": "제이슨 와일드는 3D 아티스트로서, 주얼리와 정물 사진의 디테일을 살린 CG 이미지를 제작합니다. 그의 작품은 기술적 정교함과 시각적 아름다움을 자랑합니다.",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/jason-wilde-cgi-64732.html",
+      "source": "Production Paradise",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "제이슨 와일드",
+      "creator_insight": "제이슨 와일드는 정교한 CG 기술을 통해 주얼리 디자인의 세부사항을 강조하며, 시각적 아름다움을 극대화합니다.",
+      "tags": [
+        "CGI",
+        "주얼리",
+        "정물사진"
+      ],
+      "execution_techniques": [
+        "#CG디테일",
+        "#시각적아름다움"
+      ],
+      "why": "이 작품은 기술적 정교함과 시각적 아름다움을 결합하여 디자인 분야에 새롭고 독창적인 접근 방식을 제시합니다. 다양한 분야의 창작자들에게도 영감을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94486/newsletter/jason-wilde-02.jpg",
       "pub_date": "2026-08-02T08:00:00.000000"
     }
   ],
   "popcorn": [
     {
-      "title": "게임이 유튜브를 바꿀지도 모른다",
-      "content": "유튜브를 사로잡은 게임의 리메이크나 리마스터 버전이 올해 출시될 가능성이 있습니다.",
-      "url": "https://80.lv/articles/game-that-shaped-youtube-might-get-new-version-this-year/",
-      "source": "80 Level",
+      "title": "드론 파일럿의 양심의 위기",
+      "content": "드론 레이싱의 세부적인 마법을 발견하는 독특하고 기발한 단편 영화입니다.",
+      "url": "https://tv.booooooom.com/2021/12/13/premiere-drone-pilot-has-a-crisis-of-conscience/",
+      "source": "Booooooom TV",
       "domain": "POPCORN",
-      "category": "바이럴",
+      "category": "스낵/바이럴",
       "tags": [
-        "게임"
+        "드론",
+        "단편영화"
       ],
-      "why": "게임의 리메이크 소식은 팬들 사이에서 큰 관심을 불러일으키고 있습니다.",
+      "why": "이 영화는 드론 레이싱의 흥미진진한 세계를 탐구하며, 독창적인 이야기를 통해 관객의 시선을 사로잡습니다.",
       "depth": 0.5,
-      "image": "https://cdn.80.lv/api/upload/post/41098/images/6a6cc5a68b4ec/cover_800x800.jpg",
+      "image": "http://tv.booooooom.com/wp-content/uploads/2021/12/drone-pilot-4.jpg",
       "pub_date": "2026-08-02T08:00:00.000000"
     },
     {
-      "title": "스탠리 1913, 새로운 AOR로 본 소셜 선택",
-      "content": "스탠리 컵 제조업체는 새로운 소셜 전략으로 퀀처 여성 외의 영역으로 확장하고자 합니다.",
-      "url": "https://www.adweek.com/agencies/after-viral-fame-stanley-1913-chooses-new-aor-born-social/",
-      "source": "Adweek",
+      "title": "스타 트렉: 시즌 4 메인 타이틀",
+      "content": "픽쳐밀 팀이 스타 트렉의 메인 타이틀을 위한 새로운 세계를 창조했습니다.",
+      "url": "https://www.stashmedia.tv/picturemill-visits-more-strange-new-worlds-for-star-trek-in-season-4-main-titles/",
+      "source": "Unknown Source",
       "domain": "POPCORN",
-      "category": "바이럴",
+      "category": "스낵/바이럴",
       "tags": [
-        "브랜딩"
+        "스타트렉",
+        "타이틀디자인"
       ],
-      "why": "스탠리의 새로운 전략은 브랜딩 확장의 중요한 사례로 주목받고 있습니다.",
+      "why": "이 메인 타이틀은 시청자들에게 시각적 즐거움을 제공하며, 창의적인 디자인으로 스타 트렉 팬들에게 새로운 세계를 선사합니다.",
       "depth": 0.5,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "image": "http://www.stashmedia.tv/wp-content/uploads/Star-Trek-Strange-New-Worlds-Season-4-Main-Titles-by-Picturemill-STASH-MAGAZINE7-1920x800.jpg",
       "pub_date": "2026-08-02T08:00:00.000000"
     },
     {
-      "title": "이케아의 새로운 휴대용 가구: 세대를 위한 디자인",
-      "content": "이케아의 '콤피샹' 컬렉션은 접이식, 다기능 가구로 이동과 도시 생활의 현실에 맞춰 설계되었습니다.",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/ikea-kompishang-collection-portable-furniture",
-      "source": "Wallpaper*",
+      "title": "푸른 산들",
+      "content": "사운드와 함께 시청할 때 몰입감을 제공하는 비주얼 프로젝트입니다.",
+      "url": "https://vimeo.com/channels/staffpicks/1205386331",
+      "source": "Unknown Source",
       "domain": "POPCORN",
-      "category": "바이럴",
+      "category": "스낵/바이럴",
       "tags": [
-        "가구",
-        "디자인"
+        "비주얼",
+        "몰입감"
       ],
-      "why": "이케아의 새로운 컬렉션은 현대 도시 생활에 적합한 실용성과 디자인을 제공합니다.",
+      "why": "이 프로젝트는 시각적 몰입감을 제공하며, 다양한 매체의 창작자들에게 새로운 영감을 제공합니다.",
       "depth": 0.5,
-      "image": "https://cdn.mos.cms.futurecdn.net/7AJgN9NRt6ED4tfcboYkok-1280-80.png",
+      "image": "https://i.vimeocdn.com/video/2173955074-14d0b61d81bd601fd76e200a4704a3a4fdab98cb9e192ff4e5f7c02fc3c8c783-d_960?region=us",
       "pub_date": "2026-08-02T08:00:00.000000"
     }
   ],
@@ -135,23 +353,23 @@
       "is_hot": true
     },
     {
-      "word": "감성적 모듈화",
-      "is_hot": true
-    },
-    {
       "word": "디지털 물성 회복",
       "is_hot": true
     },
     {
-      "word": "지역적 특색 강조",
+      "word": "감성적 모듈화",
       "is_hot": true
     },
     {
-      "word": "전통과 현대의 융합",
+      "word": "크로스-디시플러너리 영감",
       "is_hot": true
     },
     {
-      "word": "창작 경계 허물기",
+      "word": "혁신적 비주얼 스타일",
+      "is_hot": true
+    },
+    {
+      "word": "감정적 연결 강화",
       "is_hot": true
     }
   ]
