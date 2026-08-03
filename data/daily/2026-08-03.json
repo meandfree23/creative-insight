@@ -1,386 +1,311 @@
 {
   "date": "2026-08-03",
-  "focusQ": "대행사의 사유: 현대 창작자들에게 있어 창의성과 기술의 융합은 필수적이며, 이들은 서로 다른 분야의 경계를 허물며 새로운 가능성을 열어가고 있습니다.",
-  "creator_message": "큐레이터의 메시지: 오늘의 주제는 계속해서 변화하는 창작 환경 속에서 어떻게 창의성과 기술이 조화를 이루는지에 대한 것입니다. 여러분과 함께 이러한 과정을 탐구하게 되어 기쁩니다.",
+  "focusQ": "Agent's Thought: 현대 창작자들은 기술적 진보와 감성적 탐구 사이에서 균형을 잡으며 상호 연결된 세계에서 새로운 가능성을 모색하고 있습니다. 다양한 분야 간의 교차점에서 발견되는 창의적 시너지는 우리의 시각을 넓히고 창작의 경계를 허물고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 테마는 창의적 시너지를 통한 경계 넘기입니다. 다양한 분야의 독창적 관점을 통해 창작의 새로운 영감을 얻어가세요.",
   "session": {
-    "timestamp": "2026-08-03T15:18:40.833830",
+    "timestamp": "2026-08-03T15:51:46.498305",
     "considered": 40,
     "selected": 14
   },
   "topPicks": [
     {
-      "title": "우리는 로그오프를 했었다: 사라지는 출구와 AI가 이를 되찾아야 하는 이유",
-      "content": "이 글은 AI의 등장으로 인해 점점 사라지고 있는 디지털 공간에서의 출구에 대해 논의하며, 이러한 환경에서의 새로운 출구 전략을 제안합니다.",
-      "url": "https://medium.com/@parentingislami06/we-used-to-log-off-the-vanishing-exit-and-why-ai-means-we-have-to-build-it-back-3f91a704b316?source=rss------ui_ux-5",
-      "source": "Medium",
-      "domain": "UIUX",
-      "category": "리뷰",
-      "creator_name": "John Doe",
-      "creator_insight": "존 도우는 기술의 진보가 인간의 디지털 경험을 어떻게 재편성하는지를 탐구하며, 더 나은 사용자 경험을 위한 창의적 솔루션을 제시합니다.",
-      "tags": [
-        "AI",
-        "디지털 출구",
-        "UX"
-      ],
-      "execution_techniques": [
-        "#DigitalStrategy",
-        "#UserExperience"
-      ],
-      "why": "이 글은 현대 디지털 환경에서의 출구 전략의 중요성을 상기시킵니다. 기술적 관점에서의 깊이 있는 분석과 시각적 연출이 돋보입니다.",
-      "social_proof": "",
-      "depth": 0.95,
-      "image": "https://cdn-images-1.medium.com/max/2600/1*Fp8pb_0zs7dPyXgqcceCug.jpeg",
-      "pub_date": "2026-08-03T08:00:00.000000"
-    },
-    {
-      "title": "Pioneer – 사운드 해방",
-      "content": "이 프로젝트는 사운드 디자인의 혁신을 통해 사용자 경험을 새롭게 정의하며, 청각적 몰입감을 극대화합니다.",
-      "url": "https://uglyd.com/index.php/pioneer-sound-unleashed/",
-      "source": "uglyd.com",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Jane Smith",
-      "creator_insight": "제인 스미스는 사운드 디자인의 경계를 확장하며, 청각적 경험을 통해 감성을 자극하는 방법을 보여줍니다.",
-      "tags": [
-        "사운드 디자인",
-        "경험 디자인",
-        "몰입"
-      ],
-      "execution_techniques": [
-        "#SoundDesign",
-        "#ImmersiveExperience"
-      ],
-      "why": "이 프로젝트는 청각적 혁신을 통해 사용자의 감각을 새롭게 자극합니다. 디자인과 기술의 융합이 돋보입니다.",
-      "social_proof": "",
-      "depth": 0.95,
-      "image": "https://uglyd.com/wp-content/uploads/2018/11/KV-Final-Landscape.jpg",
-      "pub_date": "2026-08-03T08:00:00.000000"
-    },
-    {
-      "title": "콜론 소울 위켄더 2026",
-      "content": "콜론 소울 위켄더는 희귀한 북부 소울 음악의 에너지를 집결시키는 행사로, 소울 음악 팬들에게 독특한 경험을 제공합니다.",
-      "url": "https://designspotter.com/cologne-soul-weekender-2026/",
+      "title": "전북 ○○ 공공산후조리원 인테리어 제안",
+      "content": "전북 지역의 새로운 공공산후조리원 인테리어 제안이 소개되었습니다. 공간의 활용과 아늑함을 강조하며, 현대적 디자인과 전통적 요소를 조화롭게 융합한 것이 특징입니다.",
+      "url": "https://www.designtwoply.com/planning/%ec%a0%84%eb%b6%81-%e2%97%8b%e2%97%8b-%ea%b3%b5%ea%b3%b5%ec%82%b0%ed%9b%84%ec%a1%b0%eb%a6%ac%ec%9b%90-%ec%9d%b8%ed%85%8c%eb%a6%ac%ec%96%b4-%ec%a0%9c%ec%95%88/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%2584%25eb%25b6%2581-%25e2%2597%258b%25e2%2597%258b-%25ea%25b3%25b5%25ea%25b3%25b5%25ec%2582%25b0%25ed%259b%2584%25ec%25a1%25b0%25eb%25a6%25ac%25ec%259b%2590-%25ec%259d%25b8%25ed%2585%258c%25eb%25a6%25ac%25ec%2596%25b4-%25ec%25a0%259c%25ec%2595%2588",
       "source": "Unknown Source",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Paul Johnson",
-      "creator_insight": "폴 존슨은 소울 음악의 문화적 가치를 재조명하며, 음악을 통한 사회적 연결을 강조합니다.",
+      "creator_name": "디자인 투플라이",
+      "creator_insight": "전통과 현대를 조화롭게 융합하여 아늑한 공간을 창출하는 독창적 인테리어 디자인을 선보입니다.",
       "tags": [
-        "소울 음악",
-        "문화 행사",
-        "음악 페스티벌"
+        "인테리어",
+        "전통",
+        "현대"
       ],
       "execution_techniques": [
-        "#MusicFestival",
-        "#CulturalEvent"
+        "#공간디자인",
+        "#전통융합"
       ],
-      "why": "이 행사는 음악과 디자인의 교차점에서 새로운 문화를 창출합니다. 소울 음악의 역사적 중요성을 현대적 맥락으로 이어갑니다.",
+      "why": "공공시설의 인테리어 디자인은 현대적 감각과 전통적 요소의 융합을 통해 새로운 공간 경험을 제공합니다.",
       "social_proof": "",
       "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "image": "https://www.designtwoply.com/wp-content/uploads/2026/08/planning-cover-sanhu.jpg",
       "pub_date": "2026-08-03T08:00:00.000000"
     },
     {
-      "title": "렉서스, 항공 모빌리티 확장으로 헬리콥터 서비스 런칭",
-      "content": "렉서스는 항공 모빌리티로의 확장을 통해 브랜드의 혁신적 이미지를 강화하며, 새로운 시장에 도전합니다.",
-      "url": "https://www.brandinginasia.com/lexus-expands-into-air-mobility-with-lexus-flight-helicopter-service/",
+      "title": "Felicia Day: 증명할 것이 있는 배우, 작가, 스트리머",
+      "content": "Felicia Day는 자신의 경력을 통해 창작자들이 직면하는 도전과 성취에 대해 이야기합니다. 그녀는 자신의 경험을 바탕으로 독창성과 열정의 중요성을 강조합니다.",
+      "url": "https://thecreativeindependent.com/people/actor-writer-and-streamer-felicia-day-on-having-something-to-prove/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Felicia Day",
+      "creator_insight": "Felicia Day는 다양한 플랫폼을 통해 창의적 아이디어를 실현하는 데 있어 열정과 헌신의 중요성을 보여줍니다.",
+      "tags": [
+        "창의성",
+        "열정",
+        "도전"
+      ],
+      "execution_techniques": [
+        "#스토리텔링",
+        "#개인브랜딩"
+      ],
+      "why": "창작자에게 도전과 성취의 가치를 일깨워주는 Felicia Day의 이야기는 현대 창작자들에게 깊은 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Creative%20Independent%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "Stanley 1913의 식음료 확장",
+      "content": "Stanley 1913은 글로벌 소비자 연구와 운동 선수 후원, 빠른 제품 출시를 통해 일상 생활의 의례를 강화하는 데 주력하고 있습니다.",
+      "url": "https://www.campaignlive.com/article/beyond-quencher-inside-stanley-1913s-food-beverage-expansion/1966187",
+      "source": "Campaign Live",
+      "domain": "MARKETING",
+      "category": "리뷰",
+      "creator_name": "Stanley 1913",
+      "creator_insight": "Stanley 1913은 브랜드를 통해 일상 생활의 의례를 강화하고 소비자와의 감정적 연결을 추구합니다.",
+      "tags": [
+        "브랜드전략",
+        "소비자연구",
+        "일상"
+      ],
+      "execution_techniques": [
+        "#브랜드확장",
+        "#소비자연결"
+      ],
+      "why": "일상적인 의례와 브랜드 경험을 연결함으로써 소비자와의 깊은 감정적 유대를 형성합니다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "디지털 위장: AI 감시를 위한 착용 가능한 방패",
+      "content": "이 의류는 기계 기반 인식을 도전하는 시각 데이터를 조작하는 연속 패턴을 특징으로 합니다.",
+      "url": "https://www.designboom.com/technology/digital-camouflage-computational-noise-wearable-shield-ai-surveillance-simon-weckert/",
+      "source": "Designboom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Simon Weckert",
+      "creator_insight": "AI 인식에 대항하는 시각적 데이터를 통해 착용자가 기계적 인식을 회피할 수 있는 혁신적 디자인을 제시합니다.",
+      "tags": [
+        "디지털위장",
+        "AI감시",
+        "착용기술"
+      ],
+      "execution_techniques": [
+        "#패턴디자인",
+        "#기계학습무시"
+      ],
+      "why": "AI와의 상호작용을 새로운 방식으로 접근하는 이 디자인은 현대 사회의 기술적 도전에 대한 창의적 해결책을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/digital-camouflage-conceptual-garment-collection-simon-weckert-digital-surveillance-designboom-700-1-500x400-22b08q85r995.jpg",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "BMW와 '스파이더맨'의 iX3 캠페인 협업",
+      "content": "BMW는 스파이더맨과 협업하여 iX3의 혁신적이고 에너지 넘치는 캠페인을 선보였습니다.",
+      "url": "https://www.brandinginasia.com/bmw-teams-up-with-spider-man-brand-new-day-for-ix3-campaign/",
       "source": "Branding in Asia",
       "domain": "MARKETING",
       "category": "리뷰",
-      "creator_name": "Linda Park",
-      "creator_insight": "린다 박은 럭셔리 브랜드의 모빌리티 확장 전략을 분석하며, 브랜드 이미지와 시장 확대의 관계를 탐구합니다.",
+      "creator_name": "BMW",
+      "creator_insight": "BMW는 대중적 캐릭터와의 협업을 통해 브랜드의 에너지와 혁신성을 강조하며 소비자들에게 강한 인상을 남깁니다.",
       "tags": [
-        "항공 모빌리티",
-        "럭셔리 브랜드",
-        "시장 확장"
+        "브랜드협업",
+        "마케팅캠페인",
+        "자동차"
       ],
       "execution_techniques": [
-        "#LuxuryBrand",
-        "#MarketExpansion"
+        "#콜라보레이션마케팅",
+        "#브랜드스토리텔링"
       ],
-      "why": "이 프로젝트는 럭셔리 브랜드의 혁신적 전략을 보여주며, 항공 산업과의 새로운 교차점을 제시합니다.",
+      "why": "대중적 캐릭터와의 협업을 통해 브랜드의 이미지와 메시지를 효과적으로 전달하는 혁신적인 접근 방식을 보여줍니다.",
       "social_proof": "",
-      "depth": 0.95,
-      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/07/Lexus-Flight-Helicopter-2-2000x1212.webp",
+      "depth": 0.87,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/07/Spider-Man-and-BMW-2000x1334.webp",
       "pub_date": "2026-08-03T08:00:00.000000"
     },
     {
-      "title": "페르디난드 게오르크 발트뮐러: 자연에 충실하다",
-      "content": "벨베데레 미술관에서 열린 페르디난드 게오르크 발트뮐러의 전시는 자연주의 미술의 진수를 보여줍니다.",
-      "url": "https://theartwolf.com/exhibitions/waldmuller-belvedere-2026/",
-      "source": "The Art Wolf",
-      "domain": "ART",
+      "title": "디지털 물성 회복: 전통 디자인의 새로운 도전",
+      "content": "Victor Ayomipo는 브라우저의 메인 쓰레드를 차단하는 것의 중요성을 설명하며, 적절히 활용할 수 있는 상황을 제시합니다.",
+      "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+      "source": "Smashing Magazine",
+      "domain": "UIUX",
       "category": "리뷰",
-      "creator_name": "Ferdinand Georg Waldmüller",
-      "creator_insight": "발트뮐러는 자연주의 화풍을 통해 인간과 자연의 조화를 강조하며, 시각적 아름다움을 탐구합니다.",
+      "creator_name": "Victor Ayomipo",
+      "creator_insight": "브라우저의 메인 쓰레드를 차단하는 상황에서는 사용자 경험을 최적화하기 위한 전략적 접근이 필요합니다.",
       "tags": [
-        "자연주의",
-        "미술 전시",
-        "클래식 아트"
+        "UIUX",
+        "웹개발",
+        "성능최적화"
       ],
       "execution_techniques": [
-        "#Naturalism",
-        "#ArtExhibition"
+        "#쓰레드관리",
+        "#성능개선"
       ],
-      "why": "이 전시는 자연주의 미술의 깊이를 탐구하며, 현대 미학과의 연결성을 제시합니다. 시각적 가치는 물론, 역사적 맥락에서도 중요한 위치를 차지합니다.",
+      "why": "현대적 UIUX 디자인에서 성능 최적화의 중요성을 강조하며, 창의적 문제 해결을 위한 새로운 방법을 제시합니다.",
       "social_proof": "",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "depth": 0.86,
+      "image": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
       "pub_date": "2026-08-03T08:00:00.000000"
     },
     {
-      "title": "아스펜 아트 페어: 확장보다 몰입을 우선시하다",
-      "content": "아스펜 아트 페어는 확장보다는 몰입을 우선시하며, 참여자들에게 새로운 예술적 경험을 제공합니다.",
-      "url": "https://www.theartnewspaper.com/2026/07/31/aspen-art-fair-sales-report-immersion-over-expansion",
-      "source": "The Art Newspaper",
-      "domain": "ART",
-      "category": "리뷰",
-      "creator_name": "Sarah White",
-      "creator_insight": "사라 화이트는 몰입형 예술 경험의 중요성을 강조하며, 새로운 형태의 예술적 참여를 제안합니다.",
-      "tags": [
-        "아트 페어",
-        "몰입 경험",
-        "예술 전시"
-      ],
-      "execution_techniques": [
-        "#ImmersiveArt",
-        "#ArtFair"
-      ],
-      "why": "이 페어는 몰입형 경험을 통해 관객과의 상호작용을 극대화하며, 예술과 공간 디자인의 교차점을 탐구합니다.",
-      "social_proof": "",
-      "depth": 0.95,
-      "image": "https://cdn.sanity.io/images/cxgd3urn/production/043d94f5e9a9f4709a7f61701ad0ea7b1eca6863-3600x2400.jpg?w=140",
-      "pub_date": "2026-08-03T08:00:00.000000"
-    },
-    {
-      "title": "직물에 대한 열정이 최고조에 이르다",
-      "content": "타이가 타카하시의 새로운 룩북은 현대 패션에서 직물의 중요성을 강조하며, 텍스타일 디자인의 황금기를 보여줍니다.",
-      "url": "https://www.highsnobiety.com/p/taiga-takahahi-fabrics/",
-      "source": "Highsnobiety",
+      "title": "몬스터 주식회사와 토이스토리가 3D 아트 경력에 미친 영향",
+      "content": "브라질의 캐릭터 아티스트 Thales Simonato는 어린 시절의 애니메이션 영화들이 어떻게 그의 3D 아트 경력에 영감을 주었는지 밝힙니다.",
+      "url": "https://www.creativebloq.com/3d/3d-art/how-toy-story-and-monsters-inc-inspired-a-career-in-3d-art",
+      "source": "Creative Bloq",
       "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Taiga Takahashi",
-      "creator_insight": "타카하시는 고급 직물 디자인을 통해 패션에 새로운 차원을 더하며, 감각적 경험을 강조합니다.",
+      "creator_name": "Thales Simonato",
+      "creator_insight": "Thales Simonato는 애니메이션 영화에서 받은 영감을 바탕으로 3D 아트의 새로운 가능성을 탐구합니다.",
       "tags": [
-        "패션 디자인",
-        "텍스타일",
-        "직물"
+        "3D아트",
+        "애니메이션",
+        "영감"
       ],
       "execution_techniques": [
-        "#TextileDesign",
-        "#FashionInnovation"
+        "#캐릭터디자인",
+        "#영화영감"
       ],
-      "why": "이 프로젝트는 직물 디자인의 혁신을 통해 패션의 새로운 가능성을 열어갑니다. 디자인과 감각적 경험의 융합이 돋보입니다.",
+      "why": "어린 시절의 경험이 어떻게 창의적 경력을 형성하는지에 대한 통찰을 제공하며, 3D 아트의 다양한 가능성을 탐색합니다.",
       "social_proof": "",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/oQAUeyQbSM8fJUow28SfiD-1280-80.jpg",
       "pub_date": "2026-08-03T08:00:00.000000"
     },
     {
-      "title": "그레이스",
-      "content": "이 다큐멘터리 단편은 지속 가능성을 추구하는 예술가의 여정을 따라가며 환경적 메시지를 전달합니다.",
-      "url": "https://www.shortoftheweek.com/2026/07/28/the-grace/",
-      "source": "Short of the Week",
-      "domain": "FILM",
+      "title": "Özge Sebzeci: 터키에 거주하는 시리아 난민 소녀들",
+      "content": "사진 작가 Özge Sebzeci는 터키에 거주하는 시리아 난민 소녀들의 삶을 기록합니다.",
+      "url": "https://wepresent.wetransfer.com/stories/ozge-sebzeci-photography-i-am-beautiful-but-my-destiny",
+      "source": "WePresent",
+      "domain": "DESIGN",
       "category": "리뷰",
-      "creator_name": "Emily Green",
-      "creator_insight": "에밀리 그린은 환경 문제를 예술적 관점에서 접근하며, 시청자들에게 지속 가능성의 중요성을 상기시킵니다.",
+      "creator_name": "Özge Sebzeci",
+      "creator_insight": "Özge Sebzeci는 사진을 통해 사회적 이슈에 대한 깊은 통찰과 인식을 제공합니다.",
       "tags": [
-        "다큐멘터리",
-        "지속 가능성",
-        "환경"
+        "난민",
+        "사회문제",
+        "사진"
       ],
       "execution_techniques": [
-        "#DocumentaryFilm",
-        "#EnvironmentalArt"
+        "#다큐멘터리사진",
+        "#사회적이슈"
       ],
-      "why": "이 작품은 예술과 환경 문제의 교차점을 탐구하며, 현대 사회에 중요한 메시지를 전달합니다. 시각적 연출이 탁월합니다.",
+      "why": "사회적 문제를 예술적 관점에서 조명하며, 이를 통해 다양한 관객들에게 강렬한 메시지를 전달합니다.",
       "social_proof": "",
-      "depth": 0.95,
-      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/07/The-Grace-Documentary-Short-Film-01.jpeg",
+      "depth": 0.84,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/6UFgjdnxtlUv24ebQYkSjK/c9813cd1907d3f7e543541881b1ca63d/Sebzeci_09.jpg",
       "pub_date": "2026-08-03T08:00:00.000000"
     },
     {
-      "title": "펜타그램, Rugiet을 위한 정교한 건강 브랜드 개발",
-      "content": "펜타그램은 맞춤형 약국 패키지를 통해 Rugiet의 새로운 건강 정체성을 제시하며, 전략적 브랜드 시스템을 구축합니다.",
+      "title": "A monumentally minimalist Miami house elevates luxury living",
+      "content": "This Miami house, designed by StudioKP2, gives little away from the street, but opens up to geometric drama and a careful balance of shelter and 21st-century luxury...",
+      "url": "https://www.wallpaper.com/architecture/residential/miami-house-studiokp2-usa",
+      "source": "Wallpaper*",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "StudioKP2",
+      "creator_insight": "StudioKP2는 기하학적 드라마와 21세기 럭셔리의 미학을 결합하여 새로운 주거 공간을 창조합니다.",
+      "tags": [
+        "미니멀리즘",
+        "럭셔리",
+        "건축"
+      ],
+      "execution_techniques": [
+        "#기하학디자인",
+        "#럭셔리건축"
+      ],
+      "why": "미니멀리즘과 럭셔리 디자인의 융합을 통해 현대 건축의 새로운 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.83,
+      "image": "https://cdn.mos.cms.futurecdn.net/FZ8nDDzA8K8XQcUJNY5aR5-1280-80.jpg",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "펜타그램의 정제된 Rugiet 건강 브랜딩",
+      "content": "Rugiet은 펜타그램의 디자인으로 맞춤형 약재 포장과 모듈식 브랜드 시스템을 통해 새로운 건강 정체성을 선보입니다.",
       "url": "https://abduzeedo.com/pentagram-crafts-refined-health-branding-rugiet/",
       "source": "abduzeedo.com",
       "domain": "DESIGN",
       "category": "리뷰",
       "creator_name": "Pentagram",
-      "creator_insight": "펜타그램은 혁신적인 디자인 접근을 통해 브랜드의 시각적 아이덴티티를 강화하며, 건강 산업에 새로운 바람을 불어넣습니다.",
+      "creator_insight": "Pentagram은 모듈식 브랜드 시스템과 독창적인 디자인을 통해 건강 관리 분야에 혁신적인 접근을 제시합니다.",
       "tags": [
-        "브랜드 디자인",
+        "브랜딩",
         "건강",
-        "펜타그램"
-      ],
-      "execution_techniques": [
-        "#BrandIdentity",
-        "#HealthDesign"
-      ],
-      "why": "이 프로젝트는 건강 브랜드의 시각적 혁신을 통해 소비자와의 새로운 연결을 형성합니다. 디자인과 마케팅의 시너지가 돋보입니다.",
-      "social_proof": "",
-      "depth": 0.95,
-      "image": "https://cms.abduzeedo.com/sites/default/files/originals/rugiet_0.jpg",
-      "pub_date": "2026-08-03T08:00:00.000000"
-    },
-    {
-      "title": "브랜드 전략을 시각적 방향으로 전환하는 방법",
-      "content": "브랜드 아이덴티티 디자인의 사전 개념 단계에서 숨겨진 가정을 탐구하며, 강력한 시각적 개념의 기초를 마련합니다.",
-      "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
-      "source": "Smashing Magazine",
-      "domain": "UIUX",
-      "category": "리뷰",
-      "creator_name": "Michael Lee",
-      "creator_insight": "마이클 리는 브랜드 전략을 시각적 방향으로 전환하는 과정을 통해 디자인의 힘을 탐구합니다.",
-      "tags": [
-        "브랜드 전략",
-        "시각적 방향",
         "디자인"
       ],
       "execution_techniques": [
-        "#VisualStrategy",
-        "#BrandDesign"
+        "#브랜드디자인",
+        "#모듈시스템"
       ],
-      "why": "이 글은 브랜드 전략의 시각적 구현을 통해 디자인이 어떻게 마케팅 도구로 작동하는지를 분석합니다. 전략과 디자인의 조화가 돋보입니다.",
+      "why": "모듈식 디자인을 통해 새로운 건강 관리 아이덴티티를 창출하여 브랜드의 차별성을 강조합니다.",
       "social_proof": "",
-      "depth": 0.95,
-      "image": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
-      "pub_date": "2026-08-03T08:00:00.000000"
-    },
-    {
-      "title": "스텔라 맥카트니, 아디다스 슬림 스니커를 더욱 세련되게 변신시키다",
-      "content": "스텔라 맥카트니는 아디다스 슬림 스니커를 가을에 맞춰 세련된 마룬 컬러와 독특한 디자인으로 재해석합니다.",
-      "url": "https://www.highsnobiety.com/p/adidas-by-stella-mccartney-sportswear-76/",
-      "source": "Highsnobiety",
-      "domain": "DESIGN",
-      "category": "리뷰",
-      "creator_name": "Stella McCartney",
-      "creator_insight": "스텔라 맥카트니는 패션과 기능성을 결합하여 스타일리시한 스포츠웨어를 창출합니다.",
-      "tags": [
-        "스포츠웨어",
-        "디자인",
-        "스텔라 맥카트니"
-      ],
-      "execution_techniques": [
-        "#FashionDesign",
-        "#Sportswear"
-      ],
-      "why": "이 제품은 패션과 기능성의 조화를 통해 현대적 스타일을 제시합니다. 디자인 혁신과 소비자 참여를 유도합니다.",
-      "social_proof": "",
-      "depth": 0.95,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
-      "pub_date": "2026-08-03T08:00:00.000000"
-    },
-    {
-      "title": "레바논의 문화적 기억을 재구성하는 'Do You Love Me'",
-      "content": "라나 다헤르의 데뷔 작품으로, 레바논의 문화적 기억을 다루며, 사회적 연결과 정체성을 탐구합니다.",
-      "url": "https://filmmakermagazine.com/133997-do-you-love-me-reassembles-lebanons-cultural-memory/",
-      "source": "Filmmaker Magazine",
-      "domain": "MOTION_FILM",
-      "category": "리뷰",
-      "creator_name": "Lana Daher",
-      "creator_insight": "라나 다헤르는 영화 매체를 통해 문화적 기억과 사회적 정체성의 중요성을 강조합니다.",
-      "tags": [
-        "영화",
-        "문화 기억",
-        "레바논"
-      ],
-      "execution_techniques": [
-        "#CulturalFilm",
-        "#SocialIdentity"
-      ],
-      "why": "이 작품은 영화와 문화적 기억의 교차점을 탐구하며, 현대 사회에 중요한 메시지를 전달합니다. 시각적 연출이 돋보입니다.",
-      "social_proof": "",
-      "depth": 0.95,
-      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/do-you-love-me-940x400.jpg",
-      "pub_date": "2026-08-03T08:00:00.000000"
-    },
-    {
-      "title": "사하라 사막의 창조적 기술자들이 중심으로 이동하다",
-      "content": "창조적 기술은 이제 현대 제품 팀의 핵심 능력이 되어가고 있으며, 많은 이들이 이러한 방식으로 작업하게 될 것입니다.",
-      "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "domain": "UIUX",
-      "category": "리뷰",
-      "creator_name": "Alex Kim",
-      "creator_insight": "알렉스 킴은 창조적 기술의 중요성을 설명하며, 디지털 시대의 새로운 작업 방식을 탐구합니다.",
-      "tags": [
-        "창조적 기술",
-        "디지털 시대",
-        "제품 팀"
-      ],
-      "execution_techniques": [
-        "#CreativeTech",
-        "#DigitalInnovation"
-      ],
-      "why": "이 글은 창조적 기술의 중요성을 강조하며, 현대 디지털 환경에서의 혁신적 작업 방식을 제시합니다. 기술과 창의성의 융합이 돋보입니다.",
-      "social_proof": "",
-      "depth": 0.95,
-      "image": "https://cdn-images-1.medium.com/max/1024/1*_ljUGVuohH1v0usJ-TpBCQ.png",
+      "depth": 0.82,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/rugiet_0.jpg",
       "pub_date": "2026-08-03T08:00:00.000000"
     }
   ],
   "popcorn": [
     {
-      "title": "아리아나 그란데, ‘Eternal Sunshine’ 투어 후 대중 앞 활동 잠시 쉰다",
-      "content": "아리아나 그란데는 최근 투어 후 건강상의 이유로 대중 활동을 잠시 쉬기로 결정했습니다.",
-      "url": "https://hypebeast.kr/2026/8/ariana-grande-take-step-back-following-tour-amid-public-health-scrutiny",
-      "source": "Unknown Source",
+      "title": "라이트 업 유어 라이프!",
+      "content": "독창적인 조명 디자인으로 삶의 공간을 빛나게 하는 조언을 제공합니다.",
+      "url": "https://www.baseelements.net/light-up-your-life/",
+      "source": "Base Elements Blog",
       "domain": "POPCORN",
       "category": "스낵/바이럴",
       "tags": [
-        "아리아나 그란데",
-        "휴식",
-        "투어"
+        "조명",
+        "인테리어"
       ],
-      "why": "음악 산업의 큰 아이콘인 아리아나 그란데의 활동 중단은 팬들과 대중의 큰 관심을 끌고 있습니다.",
+      "why": "독창적인 조명 디자인으로 공간을 변화시키는 팁을 제공하여 창의적 영감을 줍니다.",
       "depth": 0.5,
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2Fariana-grande-take-step-back-following-tour-amid-public-health-scrutiny-000.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Base%20Elements%20Blog%0A%28DESIGN%29&font=playfair-display",
       "pub_date": "2026-08-03T08:00:00.000000"
     },
     {
-      "title": "PGDX 2026: 필리핀, 게임의 미래 중심에 서다",
-      "content": "PGDX 2026은 필리핀의 게임 산업이 세계 게임 시장에서 차지하는 중요성을 강조합니다.",
-      "url": "https://www.brandinginasia.com/pgdx-2026-a-reminder-that-the-philippines-is-at-the-heart-of-gamings-future/",
-      "source": "Branding in Asia",
+      "title": "THE AVANT-GROOVE, 살아있다",
+      "content": "미래지향적 사운드와 디자인의 융합을 통해 새로운 음악적 경험을 제공합니다.",
+      "url": "https://www.baseelements.net/the-avant-groove-its-alive/",
+      "source": "Base Elements Blog",
       "domain": "POPCORN",
       "category": "스낵/바이럴",
       "tags": [
-        "게임 산업",
-        "필리핀",
-        "PGDX"
+        "음악",
+        "디자인"
       ],
-      "why": "필리핀의 게임 산업 성장은 글로벌 게임 시장에서의 새로운 흐름을 반영하며, 많은 이들의 주목을 받고 있습니다.",
+      "why": "사운드와 디자인의 혁신적 융합을 통해 창의적 경험을 제공합니다.",
       "depth": 0.5,
-      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/07/Philippine-GameDev-Expo-7-2000x1125.webp",
+      "image": "https://www.baseelements.net/wp-content/uploads/2021/10/THE-AVANT-GROOVE.mp4",
       "pub_date": "2026-08-03T08:00:00.000000"
     },
     {
-      "title": "DSM Kei Ninomiya, FW26 캠페인에 다채로운 크리에이터 캐스팅 조명",
-      "content": "DSM은 FW26 캠페인에서 다양한 창작자들의 참여를 통해 새로운 패션 비전을 제시합니다.",
-      "url": "https://hypebeast.kr/2026/8/dsm-kei-ninomiya-fall-winter-2026-campaign-release-info",
-      "source": "Unknown Source",
+      "title": "이 이미지는 진짜 iPhone Pro가 아니다",
+      "content": "사람들은 Blender로 만들어진 이 이미지가 진짜가 아니라고 믿기 힘들어합니다.",
+      "url": "https://www.creativebloq.com/3d/people-cant-believe-this-image-of-an-iphone-pro-isnt-real",
+      "source": "Creative Bloq",
       "domain": "POPCORN",
       "category": "스낵/바이럴",
       "tags": [
-        "패션",
-        "캠페인",
-        "DSM"
+        "3D",
+        "디지털아트"
       ],
-      "why": "다양한 창작자들의 참여로 새로운 패션 캠페인은 대중들의 큰 관심을 끌고 있습니다.",
+      "why": "디지털 아트의 경계를 넘는 창의적 시도는 현대 시각 예술의 새로운 가능성을 제시합니다.",
       "depth": 0.5,
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2Fdsm-kei-ninomiya-fall-winter-2026-campaign-release-info-000.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "image": "https://cdn.mos.cms.futurecdn.net/JPweYJqkWPuGtwCocfpmqW-1280-80.jpg",
       "pub_date": "2026-08-03T08:00:00.000000"
     }
   ],
   "macro_keywords": [
     {
-      "word": "다층적 미학 융합",
+      "word": "디지털 물성 회복",
       "is_hot": true
     },
     {
-      "word": "디지털 물성 회복",
+      "word": "다층적 미학 융합",
       "is_hot": true
     },
     {
@@ -388,15 +313,15 @@
       "is_hot": true
     },
     {
-      "word": "기술과 예술의 융합",
+      "word": "브랜드 스토리텔링",
       "is_hot": true
     },
     {
-      "word": "문화적 기억 재구성",
+      "word": "창의적 융합",
       "is_hot": true
     },
     {
-      "word": "창조적 기술 혁신",
+      "word": "경계 넘기",
       "is_hot": true
     }
   ]
