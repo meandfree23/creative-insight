@@ -1,0 +1,356 @@
+{
+  "date": "2026-08-03",
+  "focusQ": "에이전트의 생각: 현대 창조적 시대정신과 이종 도메인 간의 시너지를 포착하는 깊고 철학적인 통찰. 창조의 경계가 허물어지는 시대, 예술은 기술과 융합하고 문화는 경계를 초월하여 서로의 영감을 자극합니다.",
+  "creator_message": "큐레이터의 메시지: 오늘날의 주제를 반영하여 여러분을 환영합니다. 예술과 디자인의 경계를 넘나들며 새로운 가능성을 탐색합니다.",
+  "session": {
+    "timestamp": "2026-08-03T09:41:36.007866",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "기한이 필요한 아티스트와 기술자, 민디 세우",
+      "content": "민디 세우는 강의 공연, 스프레드시트, 디자인 위촉, 인터넷 아카이브에서의 레지던시 등 다양한 활동을 통해 호기심을 발휘하며 자신만의 독특한 길을 걷고 있습니다.",
+      "url": "https://thecreativeindependent.com/people/artist-and-technologist-mindy-seu-on-needing-deadlines/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Mindy Seu",
+      "creator_insight": "민디 세우는 기술과 예술의 경계를 넘나들며 창의적 탐구를 통해 새로운 형태의 협업을 제안합니다.",
+      "tags": [
+        "기술",
+        "예술",
+        "협업"
+      ],
+      "execution_techniques": [
+        "#LecturePerformance",
+        "#TechArt"
+      ],
+      "why": "현대 창작자들에게 중요한 것은 다면적 시각과 호기심입니다. 민디 세우의 작업은 기술과 예술의 융합을 통해 새로운 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "불편함의 유혹: 웬지아 왕의 불안하고 아름다운 세계",
+      "content": "뉴욕의 일러스트레이터 웬지아 왕은 진주와 물고기 눈, 실크와 부패, 아름다움과 불안을 결합하여 독특한 시각적 경험을 창조합니다.",
+      "url": "https://www.creativeboom.com/inspiration/exploring-the-tension-between-attraction-and-discomfort-illustrator-wenjia-wang-creates-unsettling-beautiful-worlds/",
+      "source": "Creative Boom",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Wenjia Wang",
+      "creator_insight": "웬지아 왕은 아름다움과 불안정성을 결합하여 감정적 깊이를 탐구하고 새로운 시각적 내러티브를 제시합니다.",
+      "tags": [
+        "일러스트레이션",
+        "감정",
+        "시각예술"
+      ],
+      "execution_techniques": [
+        "#UnsettlingBeauty",
+        "#Illustration"
+      ],
+      "why": "현대 미술의 경향을 읽고 그 불안과 아름다움의 조화를 통해 다른 창작 분야에 영감을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.creativeboom.com/upload/articles/11/114dc1ad08fc356017fc0e5069f7f1cda92d7ba1_840.jpg",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "에드워드 호퍼 그림 같은 초자연 미스터리 게임",
+      "content": "이 게임은 에드워드 호퍼의 회화적 스타일을 차용하여 초자연적 미스터리를 풀어가는 독특한 경험을 제공합니다.",
+      "url": "https://80.lv/articles/this-supernatural-mystery-game-looks-like-an-edward-hopper-painting/",
+      "source": "80 Level",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "게임 내에서 회화적 요소를 통해 독특한 미스터리와 서사를 창조합니다.",
+      "tags": [
+        "게임",
+        "미스터리",
+        "회화"
+      ],
+      "execution_techniques": [
+        "#PainterlyStyle",
+        "#Mystery"
+      ],
+      "why": "회화와 게임의 융합을 통해 시각적 가치가 높은 새로운 형태의 서사가 등장합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.80.lv/api/upload/post/41100/images/6a6ce9d9e03f1/cover_800x800.jpg",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "서아프리카 현대 아티스트들의 가면 의상에 숨겨진 혁신",
+      "content": "새로운 아프리카 가면 전시에서는 전통과 현대가 만나 새로운 형태의 예술적 표현을 선보입니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/new-african-masquerades-exhibition-west-africa-masks-costumes-traditions/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Various Artists",
+      "creator_insight": "전통적 가면의 현대적 해석을 통해 과거와 현재, 그리고 미래를 연결합니다.",
+      "tags": [
+        "가면",
+        "전통",
+        "현대예술"
+      ],
+      "execution_techniques": [
+        "#HeritageInnovation",
+        "#MaskArt"
+      ],
+      "why": "전통과 현대의 융합이 창작자들에게 새로운 영감을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/masquerade-8.jpeg",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "기능을 넘어서: 하우스 암 뤼초플라츠에서 움트 아자드 아켈",
+      "content": "움트 아자드 아켈의 전시는 놀이를 통해 사회적, 문화적 코드를 실험하며 해방감을 제공합니다.",
+      "url": "https://www.berlinartlink.com/2026/07/21/umut-azad-akkel-haus-am-lutzowplatz-exhibition-review/",
+      "source": "Berlin Art Link",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Umut Azad Akkel",
+      "creator_insight": "놀이의 중요성을 강조하며 사회적 규범을 실험하는 공간을 제공합니다.",
+      "tags": [
+        "놀이",
+        "실험",
+        "전시"
+      ],
+      "execution_techniques": [
+        "#PlayfulExperimentation",
+        "#ArtExhibition"
+      ],
+      "why": "놀이의 개념을 통해 다른 예술적 분야에 새로운 영감을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "새로운 시대의 복고 LCD 게임",
+      "content": "이 게임은 사토시 콘의 작품에서 영감을 받아 로봇과 종양이라는 독특한 주제로 플레이어를 끌어들입니다.",
+      "url": "https://80.lv/articles/this-retro-lcd-game-will-have-you-playing-as-a-robot-and-its-tumor/",
+      "source": "80 Level",
+      "domain": "MOTION_FILM",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "복고 스타일의 게임 디자인을 현대적 감각으로 재해석하여 독특한 경험을 제공합니다.",
+      "tags": [
+        "게임",
+        "복고",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#RetroGame",
+        "#SatoshiKonInspired"
+      ],
+      "why": "복고와 현대가 결합된 게임 디자인은 다른 창작 영역에 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.80.lv/api/upload/post/41101/images/6a6d0f15280ec/cover_800x800.jpg",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "자유 범위 2026 [Top 10]",
+      "content": "매년 오픈 도어 갤러리는 프리 레인지에서 가장 유망한 사진 작가 10명을 선정하여 새로운 시각적 경향을 제시합니다.",
+      "url": "https://opendoors.gallery/top-ten",
+      "source": "opendoors.gallery",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Various Artists",
+      "creator_insight": "사진을 통해 새로운 시각적 경향과 트렌드를 제시하며 창작자들에게 영감을 제공합니다.",
+      "tags": [
+        "사진",
+        "트렌드",
+        "현대미술"
+      ],
+      "execution_techniques": [
+        "#PhotographyTrends",
+        "#EmergingArtists"
+      ],
+      "why": "사진을 통해 현대적 시각적 경향을 파악하고 창작에 새로운 영감을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "아티스트와 작가, 스트리머 펠리시아 데이의 도전 이야기",
+      "content": "펠리시아 데이는 인터뷰와 웹 시리즈 '길드'를 통해 증명하고자 하는 열정을 담아냅니다.",
+      "url": "https://thecreativeindependent.com/people/actor-writer-and-streamer-felicia-day-on-having-something-to-prove/",
+      "source": "Creative Independent",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Felicia Day",
+      "creator_insight": "펠리시아 데이는 다양한 미디어를 통해 창조적 열정을 드러내며 새로운 도전을 추구합니다.",
+      "tags": [
+        "미디어",
+        "창의성",
+        "도전"
+      ],
+      "execution_techniques": [
+        "#NewMedia",
+        "#CreativePassion"
+      ],
+      "why": "다양한 미디어를 통해 표현되는 창의적 열정은 다른 창작 분야에 큰 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "레트로 및 현대 디자인의 융합: 목재, 세라믹 및 프리미엄 마감재의 조화",
+      "content": "현대 인테리어 디자인에서 진정한 독창성은 고급 소재, 순수한 선, 그리고 장인 정신의 정밀함 사이의 대화에서 나타납니다.",
+      "url": "https://italydreamdesign.com/en/material-elegance-in-contemporary-design-harmonising-wood-ceramic-and-premium-finishes-in-a-refined-dining-space/",
+      "source": "Italy Dream Design",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "고급 소재와 현대적 디자인의 조화를 통해 새로운 인테리어 트렌드를 창출합니다.",
+      "tags": [
+        "인테리어",
+        "소재",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "#MaterialElegance",
+        "#InteriorDesign"
+      ],
+      "why": "고급 소재와 현대적 디자인의 융합은 다른 창작 분야에 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://italydreamdesign.com/wp-content/uploads//Maori-300x200.jpg",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "문화적 시각과 협업으로 탄생한 미음니은 한옥스테이",
+      "content": "미음니은은 전통 한옥의 아름다움을 현대적 감각으로 재해석하여 새로운 경험을 제공합니다.",
+      "url": "https://www.designtwoply.com/works/residence/%ed%95%9c%ec%98%a5%ec%8a%a4%ed%85%8c%ec%9d%b4-%eb%af%b8%ec%9d%8c%eb%8b%88%ec%9d%80/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ec%2598%25a5%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4-%25eb%25af%25b8%25ec%259d%258c%25eb%258b%2588%25ec%259d%2580",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "전통과 현대의 융합을 통해 새로운 형태의 공간적 경험을 창출합니다.",
+      "tags": [
+        "한옥",
+        "전통",
+        "현대"
+      ],
+      "execution_techniques": [
+        "#HanokStay",
+        "#CulturalFusion"
+      ],
+      "why": "전통과 현대의 융합은 새로운 공간적 경험을 창출하며 다른 창작 분야에 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2026/07/01-2-rotated.jpg",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "컨텐츠 생성 AI, 여전히 브랜드 구축은 어렵다",
+      "content": "AI는 콘텐츠를 생성할 수 있지만, 브랜드를 구축하는 것은 여전히 어려운 과제입니다.",
+      "url": "https://medium.com/@goudham04/ai-can-generate-content-it-still-cant-build-a-brand-b457338a151f?source=rss------branding-5",
+      "source": "Medium Branding Tag",
+      "domain": "BRANDING",
+      "category": "리뷰",
+      "creator_name": "Goudham04",
+      "creator_insight": "AI의 발전에도 불구하고 브랜드의 본질은 인간의 창의성과 감성에 의존합니다.",
+      "tags": [
+        "AI",
+        "브랜딩",
+        "콘텐츠"
+      ],
+      "execution_techniques": [
+        "#AIContent",
+        "#BrandBuilding"
+      ],
+      "why": "AI와 인간 창의성의 균형을 이해하는 것은 다른 창작 분야에 중요한 통찰을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn-images-1.medium.com/max/1920/1*-3bO4552FuIIGatkD3lyXA.jpeg",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "레고 x 올리비아 로드리고 콜라보의 숨겨진 비밀",
+      "content": "레고와 올리비아 로드리고의 콜라보는 다양한 숨겨진 비밀로 가득합니다.",
+      "url": "https://www.creativebloq.com/entertainment/toys-collectibles/the-lego-x-olivia-rodrigo-collab-is-full-of-secrets",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "레고",
+        "콜라보"
+      ],
+      "why": "대중문화의 중요한 일환으로, 창의적 콜라보레이션의 예시로 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://cdn.mos.cms.futurecdn.net/Yp7KzB9pLQPoDRT8UuAEzE-1280-80.jpg",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "스타웰, 홀드코 경쟁 심화 속 신사업 팀 두 배로 확대",
+      "content": "업계 전반의 감원에도 불구하고, 펜 CEO는 '다음 1000명을 고용할 계획'이라고 밝혔습니다.",
+      "url": "https://www.adweek.com/agencies/stagwell-doubles-new-business-team-as-holdco-competition-heats-up-says-ceo-mark-penn/",
+      "source": "Adweek",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "사업",
+        "경쟁"
+      ],
+      "why": "업계의 변화를 읽고 새로운 비즈니스 전략을 수립하는 데 중요한 참고 자료입니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    },
+    {
+      "title": "저크월드 UI",
+      "content": "이 인터페이스 컬렉션은 이 가상의 세계의 신뢰성을 돕습니다.",
+      "url": "https://www.hudsandguis.com/home/2026/jurassic-world-rebirth",
+      "source": "Sidebar.io",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "UI",
+        "디자인"
+      ],
+      "why": "가상 세계의 신뢰성을 높이는 혁신적인 UI 디자인으로 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80",
+      "pub_date": "2026-08-03T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "전통과 현대의 융합",
+      "is_hot": true
+    },
+    {
+      "word": "창의적 콜라보레이션",
+      "is_hot": true
+    },
+    {
+      "word": "시각적 내러티브",
+      "is_hot": true
+    },
+    {
+      "word": "기능적 미학",
+      "is_hot": true
+    }
+  ]
+}

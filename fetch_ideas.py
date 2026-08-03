@@ -21,6 +21,10 @@ def load_sources():
 
 import re
 import hashlib
+import socket
+
+# Prevent infinite hangs on unresponsive RSS feeds
+socket.setdefaulttimeout(10)
 
 DOMAIN_FALLBACKS = {
     "SPATIAL": [
