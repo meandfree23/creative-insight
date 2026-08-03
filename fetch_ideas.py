@@ -26,75 +26,35 @@ import socket
 # Prevent infinite hangs on unresponsive RSS feeds
 socket.setdefaulttimeout(10)
 
-DOMAIN_FALLBACKS = {
-    "SPATIAL": [
-        "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=1600&q=80",
-        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&q=80",
-        "https://images.unsplash.com/photo-1541888081622-1db3e61c5df6?w=1600&q=80",
-        "https://images.unsplash.com/photo-1600607688969-a5bfcd64bd40?w=1600&q=80",
-        "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=1600&q=80"
-    ],
-    "TECH_ART": [
-        "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=1600&q=80",
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&q=80",
-        "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=1600&q=80"
-    ],
-    "BRANDING": [
-        "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1600&q=80",
-        "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=1600&q=80"
-    ],
-    "UIUX": [
-        "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600&q=80",
-        "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=1600&q=80"
-    ],
-    "DESIGN": [
-        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&q=80"
-    ],
-    "FASHION": [
-        "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=80"
-    ],
-    "ART": [
-        "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=800&q=80"
-    ],
-    "FILM": [
-        "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&w=800&q=80"
-    ],
-    "MARKETING": [
-        "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80"
-    ],
-    "POPCORN": [
-        "https://images.unsplash.com/photo-1585647347384-2593bc35786b?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1574361517792-747f48b99818?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1505686994434-e3cc5abf1330?auto=format&fit=crop&w=800&q=80"
-    ],
-    "ARCHITECTURE": [
-        "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=800&q=80"
-    ],
+import urllib.parse
 
-    "POPCORN": [
-        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=800&q=80"
-    ]
-}
-
-def get_smart_fallback_image(domain, seed_text=""):
+def get_smart_fallback_image(domain, source_name):
     domain = (domain or "DESIGN").upper()
-    pool = DOMAIN_FALLBACKS.get(domain, DOMAIN_FALLBACKS["DESIGN"])
-    hash_val = int(hashlib.md5((seed_text or "default").encode('utf-8')).hexdigest(), 16)
-    return pool[hash_val % len(pool)]
+    source_name = source_name or "Creative Insight"
+    
+    # Beautiful dark aesthetic hex colors per domain
+    colors = {
+        "FILM": "0f172a",
+        "MARKETING": "172554",
+        "POPCORN": "4a044e",
+        "DESIGN": "18181b",
+        "ART": "3f3f46",
+        "FASHION": "27272a",
+        "SPATIAL": "1c1917",
+        "TECH_ART": "020617",
+        "ARCHITECTURE": "292524",
+        "BRANDING": "1e1b4b",
+        "UIUX": "0a0a0a"
+    }
+    bg_color = colors.get(domain, "1E1E1E")
+    
+    # Format text cleanly, e.g., "Nowness\n(FILM)"
+    text = f"{source_name}\n({domain})"
+    encoded_text = urllib.parse.quote(text)
+    
+    return f"https://placehold.co/800x600/{bg_color}/FFFFFF?text={encoded_text}&font=playfair-display"
 
-def extract_image(entry, domain="DESIGN"):
+def extract_image(entry, domain="DESIGN", source_name=""):
     # 1. Media Content
     if hasattr(entry, 'media_content') and entry.media_content:
         for mc in entry.media_content:
@@ -129,8 +89,7 @@ def extract_image(entry, domain="DESIGN"):
         if isinstance(entry.image, dict) and entry.image.get('href'):
             return entry.image.get('href')
     # Smart dynamic fallback only as last resort
-    title = getattr(entry, "title", "")
-    return get_smart_fallback_image(domain, title)
+    return get_smart_fallback_image(domain, source_name)
 
 import glob
 
@@ -172,7 +131,7 @@ def fetch_rss(sources):
                     continue # DEDUPLICATION SHIELD: Skip already collected articles!
                 batch_seen.add(link)
                 
-                img_url = extract_image(entry)
+                img_url = extract_image(entry, domain=category, source_name=name)
                 if not img_url:
                     continue # Skip articles without images
                 articles.append({
