@@ -176,11 +176,11 @@ def generate_daily_insight(date_str, articles_subset):
     print(f"Generating insight for {date_str} with {len(articles_subset)} articles...")
     
     prompt = f"""
-    You are a world-class design, art, and creative director curator.
+    You are a world-class Film/Video Director, Marketing Strategist, and Creative Curator.
     Your evaluation must follow a strict, systematic scoring formula to select the top articles out of the candidates:
     
     Curation Evaluation Formula:
-    Score = (Trustworthiness + Relevance + Timeliness + Visual/Video Quality + Cultural Insight + Originality + Cross-Disciplinary Synergy) - Noise
+    Score = (Trustworthiness + Relevance + Timeliness + Cinematic/Visual Quality + Marketing Insight + Originality + Cross-Disciplinary Synergy) - Noise
     
     CRITICAL QUANTITATIVE RULE:
     - topPicks MUST contain EXACTLY 10 to 12 items. Do NOT return fewer than 10 or more than 12 items for topPicks.
@@ -189,10 +189,10 @@ def generate_daily_insight(date_str, articles_subset):
     Sort and select items strictly by their evaluation score based on the following 6 criteria:
     1. Relevance & Importance: Why it is relevant to contemporary creators (왜 이 레퍼런스가 중요한지)
     2. Reference Perspective: What specific style, technique, or cultural perspective it offers (어떤 관점의 레퍼런스인지)
-    3. Visual & Asset Value: Outstanding image/video visual aesthetic worth saving (이미지/영상으로 볼 가치가 높은지)
+    3. Cinematic & Visual Value: Outstanding directing, camera work, or visual aesthetic worth saving (이미지/영상 연출 및 미학적으로 볼 가치가 높은지)
     4. Taste Alignment: Alignment with high-end aesthetic taste network (취향 북마크 네트워크와의 밀접성)
-    5. Zeitgeist Value: High value in reading contemporary creative trends and culture (동시대 흐름을 읽는 데 도움이 되는지)
-    6. Cross-Disciplinary Synergy: How this piece inspires OTHER creative disciplines e.g., how architecture inspires fashion, how 3D motion inspires spatial design (이종 도메인 간의 영감 교차 연결성)
+    5. Marketing & Planning Insight: Strategic value in brand campaigns, ad planning, and consumer engagement (마케팅, 브랜드 캠페인, 기획적 전략에 깊은 통찰을 주는지)
+    6. Cross-Disciplinary Synergy: How this piece inspires OTHER creative disciplines e.g., how film inspires spatial design, how ads inspire tech art (이종 도메인 간의 영감 교차 연결성)
     
     Output strictly in this JSON format:
     {{
