@@ -1,0 +1,359 @@
+{
+  "date": "2026-08-04",
+  "focusQ": "에이전트의 생각: 현대 창작자들은 기술과 예술의 경계를 허물며, 다층적 미학을 융합하여 새로운 감성적 경험을 창출하고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘 우리는 창의력의 다면성을 탐구하며, 다양한 예술 분야에서 영감을 받을 수 있는 기사를 소개합니다.",
+  "session": {
+    "timestamp": "2026-08-04T00:08:50.490786",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "맥킨토시 건물 재건 캠페인 시작",
+      "content": "스코틀랜드 건축가 루아이리 모어는 글래스고 예술학교의 불타버린 맥킨토시 건물을 재건하기 위한 캠페인을 시작하며, 독립기관이 이를 주도해야 한다고 주장합니다.",
+      "url": "https://www.dezeen.com/2026/08/03/glasgow-school-of-art-campaign/",
+      "source": "Dezeen",
+      "domain": "SPATIAL",
+      "category": "리뷰",
+      "creator_name": "Ruairidh Moir",
+      "creator_insight": "모어는 문화유산 보존의 중요성을 강조하며, 지역사회와의 협력을 통한 재건을 추진하고 있습니다.",
+      "tags": [
+        "건축",
+        "문화유산",
+        "재건"
+      ],
+      "execution_techniques": [
+        "#ArchitecturalPreservation",
+        "#CommunityEngagement"
+      ],
+      "why": "이 프로젝트는 건축 문화유산 보존의 중요성을 상기시키며, 지역사회와의 협력을 통한 크로스-디서플리너리 시너지를 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "http://static.dezeen.com/uploads/2018/06/glasgow-school-of-art-fire-opinion-dezeen-2364-sq-411x411.jpg",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    },
+    {
+      "title": "도시 옥상과 들판을 채운 엘라 & 피트르의 거대한 벽화",
+      "content": "엘라와 피트르는 도시의 옥상과 들판을 캔버스로 삼아, 기쁨을 주는 거대한 벽화를 그려냈습니다.",
+      "url": "https://www.thisiscolossal.com/2026/08/ella-pitr-monumental-urban-murals-street-art/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Ella & Pitr",
+      "creator_insight": "그들의 작품은 일상적인 공간을 예술적인 공간으로 변모시키며, 대중에게 새로운 시각적 경험을 제공합니다.",
+      "tags": [
+        "스트리트아트",
+        "벽화",
+        "도시예술"
+      ],
+      "execution_techniques": [
+        "#UrbanArt",
+        "#LargeScaleMurals"
+      ],
+      "why": "이 작품은 도시 공간에 생기를 불어넣으며, 대중과의 상호작용을 통한 미학적 가치를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/ella-pitr-8-e1785768010553.jpg",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    },
+    {
+      "title": "프리드리히 베커 상 수상자 2026: 베로니카 파비안",
+      "content": "2026년 5월 9일, 골드스미스 협회는 베로니카 파비안에게 10,000 유로의 프리드리히 베커 상을 수여했습니다.",
+      "url": "https://artaurea.com/2026/2026-friedrich-becker-prize/",
+      "source": "Art Aurea",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Veronika Fabian",
+      "creator_insight": "파비안은 전통 금속 공예 기술을 현대적 디자인과 융합하여, 독창적인 작품을 선보였습니다.",
+      "tags": [
+        "금속공예",
+        "현대디자인",
+        "예술상"
+      ],
+      "execution_techniques": [
+        "#MetalCraft",
+        "#ContemporaryDesign"
+      ],
+      "why": "이 상은 전통과 현대 디자인의 교차점을 탐구하며, 새로운 예술적 가능성을 열어줍니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://artaurea.com/wp-content/uploads/2026/06/Friedrich-Becker-Preis_Fabian_Veronika_Spring-ring-XXXL.jpg",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    },
+    {
+      "title": "시각적 계층 구조의 중요성",
+      "content": "시각적 계층 구조가 나쁘면 사용자가 길을 잃는 이유에 대해 다룹니다.",
+      "url": "https://medium.com/@codewall_edu/visual-hierarchy-%E1%80%99%E1%80%80%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9B%E1%80%84%E1%80%BA-user-%E1%80%98%E1%80%AC%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%B7%E1%80%BA-%E1%80%9C%E1%80%99%E1%80%BA%E1%80%B8%E1%80%95%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%9E%E1%80%9C%E1%80%B2-baf6ecd6aed8?source=rss------ui_ux-5",
+      "source": "Medium UI/UX Tag",
+      "domain": "UIUX",
+      "category": "리뷰",
+      "creator_name": "Codewall Edu",
+      "creator_insight": "이 기사는 사용자 경험 설계의 핵심인 시각적 계층 구조의 중요성을 설명합니다.",
+      "tags": [
+        "UI/UX",
+        "디자인",
+        "사용자경험"
+      ],
+      "execution_techniques": [
+        "#VisualHierarchy",
+        "#UXDesign"
+      ],
+      "why": "시각적 계층 구조는 디자인의 핵심 요소로, 사용자의 경험을 향상시키는 중요한 역할을 합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn-images-1.medium.com/max/1254/1*Xn2SITX4LCV4CLOMlvP1hA.jpeg",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    },
+    {
+      "title": "2022 제28회 제주청년 작가전",
+      "content": "제주특별자치도 문예회관에서 열리는 제28회 제주청년 작가전에는 강수희, 박길주, 양형석 등 다양한 작가들이 참여합니다.",
+      "url": "https://blog.naver.com/jujukey/222863947443?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "강수희, 박길주, 양형석",
+      "creator_insight": "작가들은 제주 자연과 문화에서 영감을 받아 독창적인 작품을 선보입니다.",
+      "tags": [
+        "제주",
+        "청년작가",
+        "전시회"
+      ],
+      "execution_techniques": [
+        "#EmergingArtists",
+        "#LocalCulture"
+      ],
+      "why": "이 전시는 젊은 작가들의 창의성을 조명하며, 지역 문화와 자연에 대한 새로운 시각을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Unknown%20Source%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    },
+    {
+      "title": "브랜드는 창작자에게 얼마나 지불해야 하는지 모른다",
+      "content": "Billion Dollar Boy의 새로운 가격 도구는 주요 인플루언서 마케팅의 불일치를 해결합니다.",
+      "url": "https://www.campaignlive.com/article/brands-dont-know-pay-creators-heres-billion-dollar-boy-addressing-it/1966148",
+      "source": "Campaign Live",
+      "domain": "MARKETING",
+      "category": "리뷰",
+      "creator_name": "Billion Dollar Boy",
+      "creator_insight": "이 툴은 창작자와 브랜드 간의 공정한 가격 책정을 도와, 마케팅 전략의 효율성을 높입니다.",
+      "tags": [
+        "마케팅",
+        "인플루언서",
+        "가격정책"
+      ],
+      "execution_techniques": [
+        "#InfluencerMarketing",
+        "#PricingStrategy"
+      ],
+      "why": "효과적인 인플루언서 마케팅 전략을 수립하기 위한 공정한 가격 책정의 중요성을 강조합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    },
+    {
+      "title": "체험적 디자인 리더십을 위한 전체론적 프레임워크",
+      "content": "디자인 문제에 대한 동일한 대화를 나누는 두 사람을 상상해보세요. 이 프레임워크는 디자인 리더십을 공유하는 방법을 탐구합니다.",
+      "url": "https://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/",
+      "source": "A List Apart",
+      "domain": "UIUX",
+      "category": "리뷰",
+      "creator_name": "A List Apart",
+      "creator_insight": "이 프레임워크는 협업을 통해 디자인 리더십을 강화하고, 조직 내 혁신을 촉진합니다.",
+      "tags": [
+        "디자인",
+        "리더십",
+        "협업"
+      ],
+      "execution_techniques": [
+        "#DesignLeadership",
+        "#Collaboration"
+      ],
+      "why": "디자인 리더십을 공유하는 전체론적 접근은 팀의 창의적 역량을 최대화합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://placehold.co/800x600/0a0a0a/FFFFFF?text=A%20List%20Apart%0A%28UIUX%29&font=playfair-display",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    },
+    {
+      "title": "유수 - 'Melaleuca'",
+      "content": "유수의 'Melaleuca' 뮤직비디오는 조단 민코프가 연출과 애니메이션을 맡아 디지털과 수작업을 혼합한 독특한 시각적 경험을 제공합니다.",
+      "url": "https://tv.booooooom.com/2021/12/03/premiere-yu-su-melaleuca/",
+      "source": "Booooooom TV",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "Yu Su",
+      "creator_insight": "유수의 뮤직비디오는 다양한 미디어를 결합하여 시청자에게 새로운 시각적 경험을 제공합니다.",
+      "tags": [
+        "뮤직비디오",
+        "애니메이션",
+        "시각예술"
+      ],
+      "execution_techniques": [
+        "#MusicVideo",
+        "#MixedMedia"
+      ],
+      "why": "디지털과 수작업의 융합은 뮤직비디오의 새로운 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "http://tv.booooooom.com/wp-content/uploads/2021/12/YuSu-Melaleuca-09.jpg",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    },
+    {
+      "title": "브랜드 및 비주얼 아이덴티티 그리드 레이아웃 타이포그래피",
+      "content": "몽가 디자인은 Us Vs Them의 브랜딩 비주얼 아이덴티티 그리드 레이아웃 타이포그래피를 구조화하여, 영화적인 브랜드 세계를 창조합니다.",
+      "url": "https://abduzeedo.com/branding-visual-identity-grid-layout-typography-us-vs-them/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Monga Design",
+      "creator_insight": "몽가 디자인은 엄격한 기하학을 통해 브랜드의 정체성을 명확히 하고, 시각적 미학을 강조합니다.",
+      "tags": [
+        "브랜딩",
+        "타이포그래피",
+        "비주얼아이덴티티"
+      ],
+      "execution_techniques": [
+        "#BrandIdentity",
+        "#Typography"
+      ],
+      "why": "엄격한 기하학적 구조는 브랜드의 시각적 아이덴티티를 강화하는 중요한 요소입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_us-vs-them-visual-identity-monga-design.jpg",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    },
+    {
+      "title": "리얼리티 오버레이티드 그룹 전시회",
+      "content": "Base Elements에서 주최하는 'Reality Is Overrated' 그룹 전시회는 현대 디자인의 새로운 가능성을 탐구합니다.",
+      "url": "https://www.baseelements.net/reality-is-overrated/",
+      "source": "Base Elements Blog",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Base Elements",
+      "creator_insight": "이 전시는 현대 디자인의 새로운 가능성을 탐구하며, 창의적 사고의 경계를 확장합니다.",
+      "tags": [
+        "현대디자인",
+        "전시회",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "#ModernDesign",
+        "#Creativity"
+      ],
+      "why": "새로운 디자인 가능성을 탐구하는 이 전시회는 창의적 사고의 경계를 넓혀줍니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Base%20Elements%20Blog%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    },
+    {
+      "title": "빌리 스트링스 x 차코 한정판 컬렉션",
+      "content": "미시간에서 만들어진 이 한정판 콜라보는 유명한 블루그래스 아티스트 빌리 스트링스와 차코의 협업으로 탄생했습니다.",
+      "url": "https://coolhunting.com/buy/the-billy-strings-x-chaco-limited-edition-collection/",
+      "source": "coolhunting.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Billy Strings",
+      "creator_insight": "이 콜라보는 음악과 패션의 경계를 허물며, 새로운 문화적 시너지를 창출합니다.",
+      "tags": [
+        "한정판",
+        "콜라보",
+        "패션"
+      ],
+      "execution_techniques": [
+        "#LimitedEdition",
+        "#Collaboration"
+      ],
+      "why": "음악과 패션의 독창적 결합은 새로운 문화적 시너지를 창출합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/C498AA7F-0510-4506-B076-AC128DF7EAF5_1_201_a-768x768.jpeg",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "파리시립현대미술관의 기억하고픈 파리",
+      "content": "파리시립현대미술관에서의 경험은 사진으로 남기지 않고 감상한 기억이 인상적인 추체험으로 이어집니다.",
+      "url": "https://blog.naver.com/justina75/224329340597?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "파리",
+        "미술관",
+        "기억"
+      ],
+      "why": "이 글은 예술 감상의 새로운 방식을 제시하며, 감각적 경험의 중요성을 일깨워줍니다.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjdfMzUg/MDAxNzgyNTYyNjk5MDc5.345YZrw9lXIbOspsXHd4c8FuZYwCyWXxHzmpQn3L6sMg.v0ll0Ibl-8UBIbZnrZmomkiLLHO_CK4QgBsqgpuM0L0g.JPEG/900_20260627_141646.jpg?type=s3",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    },
+    {
+      "title": "가사(챗GPT)+음악(SUNO)▷M/V",
+      "content": "좋아하는 가수의 음악을 챗GPT로 분석하여 새로운 가사를 작성하고, SUNO의 음악과 결합합니다.",
+      "url": "https://blog.naver.com/tiger6107/224280589045?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "가사",
+        "음악",
+        "AI"
+      ],
+      "why": "AI 기술을 활용한 창의적인 음악 제작 방식은 새로운 감각적 경험을 제공합니다.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA1MTBfMjYg/MDAxNzc4MzQ3NDAxMzYw.xDD9iV_u9l1E4ZZmyfc12AWVydqco2NKxvdX0_cnfJEg.bobVQm6_cBbS1frzooJprPFf6Mk42YMRYTbFup2ACwAg.PNG/20260510_022001.png?type=s3",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    },
+    {
+      "title": "사주 팔자 AI Agent 만들기",
+      "content": "인프런에서 n8n과 Python을 활용한 AI Agent 강의를 소개합니다.",
+      "url": "https://blog.naver.com/nkj2001/224261853861?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "AI",
+        "강의",
+        "자동화"
+      ],
+      "why": "AI와 자동화 기술을 활용한 흥미로운 교육 콘텐츠는 창의적 사고를 자극합니다.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA0MjJfNjEg/MDAxNzc2ODY2Nzc0NzQ5.X9F0MAnoae_PKuuPnUWdBC6eCFuTvL56AopatQkJzSwg.jNEsj-_cL_IvShCRzv5tyWNI-SE5kAkphrJK8GtAuUcg.JPEG/cover3.jpg?type=s3",
+      "pub_date": "2026-08-04T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "문화적 시너지",
+      "is_hot": true
+    },
+    {
+      "word": "크로스-디서플리너리 연결",
+      "is_hot": true
+    },
+    {
+      "word": "창의적 사고 확장",
+      "is_hot": true
+    },
+    {
+      "word": "시각적 경험 혁신",
+      "is_hot": true
+    }
+  ]
+}
