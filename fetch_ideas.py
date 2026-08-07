@@ -156,9 +156,9 @@ def generate_daily_insight(date_str, articles_subset):
     Curation Evaluation Formula:
     Score = (Trustworthiness + Relevance + Timeliness + Cinematic/Visual Quality + Marketing Insight + Originality + Cross-Disciplinary Synergy) - Noise
     
-    CRITICAL QUANTITATIVE RULE:
-    - topPicks MUST contain EXACTLY 10 to 12 items. Do NOT return fewer than 10 or more than 12 items for topPicks.
-    - popcorn MUST contain EXACTLY 3 items.
+    CRITICAL QUANTITATIVE RULE (FLEXIBLE CURATION):
+    - Do NOT force exactly 10-14 items if there are not enough high-quality candidates.
+    - Return a flexible number of items (e.g., 3 to 12 for topPicks, 1 to 3 for popcorn) strictly based on the actual number of high-quality articles available today. Quality over quantity.
     
     Sort and select items strictly by their evaluation score based on the following 6 criteria:
     1. Relevance & Importance: Why it is relevant to contemporary creators (왜 이 레퍼런스가 중요한지)
@@ -176,7 +176,7 @@ def generate_daily_insight(date_str, articles_subset):
       "session": {{
         "timestamp": "{datetime.datetime.now().isoformat()}",
         "considered": {len(articles_subset)},
-        "selected": 14
+        "selected": "(Write the total number of items you selected as an integer)"
       }},
       "topPicks": [
         {{
