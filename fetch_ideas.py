@@ -96,7 +96,17 @@ import glob
 def load_existing_urls_and_titles():
     seen_urls = set()
     seen_titles = set()
+    import datetime
+    cutoff_date = datetime.date.today() - datetime.timedelta(days=30)
     for p in glob.glob(os.path.join(DAILY_DIR, "*.json")):
+        basename = os.path.basename(p)
+        try:
+            file_date_str = basename.replace(".json", "")
+            file_date = datetime.datetime.strptime(file_date_str, "%Y-%m-%d").date()
+            if file_date < cutoff_date:
+                continue
+        except Exception:
+            pass
         try:
             with open(p, "r", encoding="utf-8") as f:
                 data = json.load(f)
@@ -112,53 +122,172 @@ def load_existing_urls_and_titles():
             pass
     return seen_urls, seen_titles
 
+import requests
+from bs4 import BeautifulSoup
+from urllib.parse import urlparse
+
+def fetch_sitemap_urls(source_url):
+    try:
+        parsed_uri = urlparse(source_url)
+        base_url = '{uri.scheme}://{uri.netloc}'.format(uri=parsed_uri)
+        sitemap_url = base_url + '/sitemap.xml'
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+        r = requests.get(sitemap_url, headers=headers, timeout=5)
+        if r.status_code != 200:
+            r = requests.get(base_url + '/robots.txt', headers=headers, timeout=5)
+            if r.status_code == 200:
+                for line in r.text.splitlines():
+                    if line.lower().startswith('sitemap:'):
+                        sitemap_url = line.split(':', 1)[1].strip()
+                        break
+        
+        r = requests.get(sitemap_url, headers=headers, timeout=10)
+        if r.status_code != 200:
+            return []
+            
+        urls = []
+        sitemaps = []
+        soup = BeautifulSoup(r.content, 'xml')
+        for loc in soup.find_all('loc'):
+            url = loc.text.strip()
+            if url.endswith('.xml'):
+                sitemaps.append(url)
+            elif '/20' in url or '/post/' in url or '/article/' in url:
+                if not url.endswith(('.jpg', '.png', '.pdf', '.mp4')):
+                    urls.append(url)
+                    
+        if not urls and sitemaps:
+            import random
+            # Prefer sitemaps that look like they contain posts
+            post_sitemaps = [s for s in sitemaps if 'post' in s or 'article' in s]
+            target_sitemap = random.choice(post_sitemaps) if post_sitemaps else random.choice(sitemaps)
+            r2 = requests.get(target_sitemap, headers=headers, timeout=10)
+            if r2.status_code == 200:
+                soup2 = BeautifulSoup(r2.content, 'xml')
+                for loc in soup2.find_all('loc'):
+                    url = loc.text.strip()
+                    if '/20' in url or '/post/' in url or '/article/' in url:
+                        if not url.endswith(('.jpg', '.png', '.pdf', '.mp4')):
+                            urls.append(url)
+        return urls
+    except Exception as e:
+        return []
+
+def scrape_metadata(url):
+    try:
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+        r = requests.get(url, headers=headers, timeout=5)
+        if r.status_code != 200: return None
+        soup = BeautifulSoup(r.content, 'html.parser')
+        
+        title = soup.title.string if soup.title else ""
+        og_title = soup.find("meta", property="og:title")
+        if og_title: title = og_title.get("content", title)
+            
+        desc = ""
+        og_desc = soup.find("meta", property="og:description")
+        meta_desc = soup.find("meta", attrs={"name": "description"})
+        if og_desc: desc = og_desc.get("content", "")
+        elif meta_desc: desc = meta_desc.get("content", "")
+            
+        image = ""
+        og_img = soup.find("meta", property="og:image")
+        if og_img: image = og_img.get("content", "")
+            
+        if not title: return None
+        
+        return {
+            "title": title.strip(),
+            "link": url,
+            "summary": desc.strip(),
+            "image": image,
+            "published": "" 
+        }
+    except Exception as e:
+        return None
+
 def fetch_rss(sources):
     seen_urls, seen_titles = load_existing_urls_and_titles()
     batch_seen = set()
     articles = []
+    
+    # 30% of sources will be selected for Deep Sitemap Search to prevent extreme overhead
+    sitemap_sources = random.sample(sources, max(1, int(len(sources)*0.3)))
+    
     for src in sources:
         name = src.get("name", "Unknown Source")
         category = src.get("category", "General")
         url = src.get("url", "")
         if not url: continue
         print(f"Fetching {name}...")
+        
+        # 1. Standard RSS Fetch
         try:
             feed = feedparser.parse(url)
-            for entry in feed.entries[:10]: # limit per source
+            for entry in feed.entries[:10]:
                 link = getattr(entry, "link", "").strip().lower()
                 title = getattr(entry, "title", "").strip().lower()
                 if not link or link in seen_urls or link in batch_seen or title in seen_titles:
-                    continue # DEDUPLICATION SHIELD: Skip already collected articles!
+                    continue
                 batch_seen.add(link)
                 
                 img_url = extract_image(entry, domain=category, source_name=name)
-                if not img_url:
-                    continue # Skip articles without images
                 articles.append({
                     "title": getattr(entry, "title", ""),
                     "link": getattr(entry, "link", ""),
                     "summary": getattr(entry, "summary", getattr(entry, "description", "")),
+                    "image": img_url,
                     "source": name,
-                    "domain": category,
-                    "image": img_url
+                    "category": category,
+                    "type": "rss"
                 })
         except Exception as e:
-            print(f"Failed to fetch {name}: {e}")
+            print(f"Failed to fetch RSS {name}: {e}")
+            
+        # 2. Deep Historical Search (Sitemap)
+        if src in sitemap_sources:
+            print(f"  -> Deep searching past data for {name}...")
+            past_urls = fetch_sitemap_urls(url)
+            if past_urls:
+                samples = random.sample(past_urls, min(3, len(past_urls)))
+                for p_url in samples:
+                    if p_url.lower() in seen_urls or p_url.lower() in batch_seen: continue
+                    batch_seen.add(p_url.lower())
+                    meta = scrape_metadata(p_url)
+                    if meta:
+                        img_url = meta['image'] or get_smart_fallback_image(category, name)
+                        articles.append({
+                            "title": meta['title'],
+                            "link": meta['link'],
+                            "summary": meta['summary'],
+                            "image": img_url,
+                            "source": name,
+                            "category": category,
+                            "type": "sitemap"
+                        })
     return articles
 
 def generate_daily_insight(date_str, articles_subset):
     print(f"Generating insight for {date_str} with {len(articles_subset)} articles...")
     
     prompt = f"""
-    You are a world-class Film/Video Director, Marketing Strategist, and Creative Curator.
-    Your evaluation must follow a strict, systematic scoring formula to select the top articles out of the candidates:
+    You are a cynical, sharp-tongued Senior Creative Director and GQ/Vogue Editor-in-Chief.
+    You despise fluffy, generic AI jargon (DO NOT USE words like "여정", "탐구", "교차점", "시너지", "잠재력", "혁신").
+    Your writing must be professional, highly specific, slightly cynical, and extremely sharp.
     
     Curation Evaluation Formula:
-    Score = (Trustworthiness + Relevance + Timeliness + Cinematic/Visual Quality + Marketing Insight + Originality + Cross-Disciplinary Synergy) - Noise
+    Score = (Trustworthiness + Relevance + Timeliness + Cinematic/Visual Quality + Marketing Insight + Originality) - Noise
     
-    CRITICAL QUANTITATIVE RULE (FLEXIBLE CURATION):
-    - Do NOT force exactly 10-14 items if there are not enough high-quality candidates.
-    - Return a flexible number of items (e.g., 3 to 12 for topPicks, 1 to 3 for popcorn) strictly based on the actual number of high-quality articles available today. Quality over quantity.
+    CRITICAL QUANTITATIVE RULE (HARD VOLUME):
+    - You MUST output EXACTLY 12 to 15 items in `topPicks`, and EXACTLY 2 to 3 items in `popcorn`.
+    - Do NOT drop articles just because they seem "average". It is your job as a Senior CD to extract a razor-sharp, profound creative angle even from an ordinary piece of news. Forcing the volume is mandatory.
+    
+    THEMATIC TABS (CRITICAL RULE):
+    Instead of generic domains like DESIGN or ART, you MUST classify each article into one of the following highly specific curational themes for the "domain" field:
+    - "Korean Code" (Trends or insights deeply relevant to the Korean market or culture)
+    - "Cinema & Narrative" (Film, video, storytelling, camera work, directing)
+    - "Design & Space" (Architecture, spatial design, typography, UI/UX, product design)
+    - "Marketing & Brand" (Campaigns, brand strategy, consumer engagement)
     
     Sort and select items strictly by their evaluation score based on the following 6 criteria:
     1. Relevance & Importance: Why it is relevant to contemporary creators (왜 이 레퍼런스가 중요한지)
@@ -171,8 +300,8 @@ def generate_daily_insight(date_str, articles_subset):
     Output strictly in this JSON format:
     {{
       "date": "{date_str}",
-      "focusQ": "Agent's Thought: (Write a deep, philosophical synthesis capturing the contemporary creative zeitgeist and cross-disciplinary synergy in Korean, max 3 sentences)",
-      "creator_message": "큐레이터의 메시지: (Write a welcoming curator message in Korean reflecting today's theme)",
+      "focusQ": "Agent's Thought: (Write a sharp, non-cliché, professional editorial synthesis in Korean. STRICTLY BAN: 여정, 탐구, 교차점, 시너지. Max 3 sentences.)",
+      "creator_message": "큐레이터의 메시지: (Write a direct, cynical yet insightful editor's note in Korean. STRICTLY BAN generic AI buzzwords.)",
       "session": {{
         "timestamp": "{datetime.datetime.now().isoformat()}",
         "considered": {len(articles_subset)},
@@ -184,13 +313,13 @@ def generate_daily_insight(date_str, articles_subset):
           "content": "(Write a 2-3 sentence precise summary of the actual scraped article content in Korean)",
           "url": "(The article's original link)",
           "source": "(The source name)",
-          "domain": "(The source category, e.g., FASHION, ART, FILM, DESIGN, PHOTOGRAPHY)",
+          "domain": "(MUST BE ONE OF: Korean Code, Cinema & Narrative, Design & Space, Marketing & Brand)",
           "category": "리뷰",
           "creator_name": "(Specific real-world artist, designer, architect, or creative lead behind this project)",
-          "creator_insight": "(Specific, high-density creative insight in Korean directly connecting this specific figure to their unique project concept)",
+          "creator_insight": "(Specific, high-density creative insight in Korean directly connecting this specific figure to their unique project concept. Sharp and cynical tone.)",
           "tags": ["(tag1)", "(tag2)", "(tag3)"],
           "execution_techniques": ["(Extract 1-2 precise Visual Taxonomy style hashtags)"],
-          "why": "(Write a compelling Curator View in Korean addressing: 1) Why relevant, 2) Reference perspective, 3) Visual value, 4) Cross-Disciplinary Connection)",
+          "why": "(Write a compelling Curator View in Korean addressing why it matters. Sharp, professional tone.)",
           "social_proof": "",
           "depth": 0.95,
           "image": "(The article's image URL if provided, else empty string)",
