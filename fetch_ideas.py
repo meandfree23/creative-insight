@@ -354,7 +354,7 @@ def generate_daily_insight(date_str, articles_subset):
     
     for i, a in enumerate(articles_subset):
         img_str = f"\nImage: {a['image']}" if a.get('image') else ""
-        prompt += f"\n[{i}] Title: {a['title']}\nLink: {a['link']}\nSource: {a['source']}\nCategory: {a['domain']}{img_str}\nSummary: {a['summary'][:200]}...\n"
+        prompt += f"\n[{i}] Title: {a['title']}\nLink: {a['link']}\nSource: {a['source']}\nCategory: {a.get('category', a.get('domain', 'DESIGN'))}{img_str}\nSummary: {a['summary'][:200]}...\n"
 
     model = genai.GenerativeModel(
         "gemini-1.5-flash",
@@ -366,7 +366,11 @@ def generate_daily_insight(date_str, articles_subset):
             response = model.generate_content(
                 "You are a professional JSON generator. Output strictly valid JSON.\n" + prompt
             )
-            return json.loads(response.text)
+            text = response.text.strip()
+            if text.startswith("```"):
+                text = re.sub(r"^```(?:json)?\s*", "", text)
+                text = re.sub(r"\s*```$", "", text)
+            return json.loads(text)
         except Exception as e:
             print(f"Gemini API error on attempt {attempt+1}: {e}")
             time.sleep(5)
