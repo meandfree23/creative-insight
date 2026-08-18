@@ -31,18 +31,25 @@ def discover_new_sources():
     Ensure "category" is {target_category}.
     """
     
-    chosen_model = "gemini-1.5-flash"
+    supported_models = []
     try:
         for m in genai.list_models():
-            if "generateContent" in m.supported_generation_methods:
-                if "gemini-1.5-flash" in m.name:
-                    chosen_model = m.name
-                    break
-                elif "gemini" in m.name and not chosen_model:
-                    chosen_model = m.name
+            if "generateContent" in getattr(m, "supported_generation_methods", []):
+                supported_models.append(m.name)
+        print(f"Available models: {supported_models}")
     except Exception as e:
-        print(f"Could not list models: {e}")
+        print(f"Error listing models: {e}")
 
+    chosen_model = "gemini-1.5-flash-latest"
+    for cand in ["1.5-flash", "2.0-flash", "flash", "1.5-pro", "gemini-pro"]:
+        match = next((name for name in supported_models if cand in name), None)
+        if match:
+            chosen_model = match
+            break
+    if not match and supported_models:
+        chosen_model = supported_models[0]
+
+    print(f"Selected Gemini model: {chosen_model}")
     model = genai.GenerativeModel(
         chosen_model,
         generation_config={"response_mime_type": "application/json"}
