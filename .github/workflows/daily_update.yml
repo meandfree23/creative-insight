@@ -32,7 +32,7 @@ jobs:
 
       - name: Run Radar Agent (Sundays Only)
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           if [ $(date +%w) -eq 0 ]; then
             echo "Running Radar Agent to discover new sources..."
@@ -43,7 +43,7 @@ jobs:
 
       - name: Run script
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python fetch_ideas.py ${{ github.event.inputs.target_date }}
 

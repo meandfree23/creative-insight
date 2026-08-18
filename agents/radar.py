@@ -2,11 +2,11 @@ import os
 import json
 import random
 import feedparser
-from openai import OpenAI
+import google.generativeai as genai
 from dotenv import load_dotenv
 
 load_dotenv()
-client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
 SOURCES_FILE = "data/sources.json"
 
@@ -18,25 +18,27 @@ def discover_new_sources():
     
     prompt = f"""
     You are an AI Radar Agent specialized in discovering high-quality creative data sources.
-    Suggest 5 valid and active RSS feed URLs for high-quality websites, blogs, or communities related to: {target_category}.
-    Focus on design, creative coding, UI/UX, or contemporary art.
-    Do NOT suggest generic news sites like CNN or BBC.
+    Instead of guessing custom domain RSS feeds that often 404, you MUST construct valid RSS feeds from proven platforms:
+    - Medium Tag: https://medium.com/feed/tag/[tag-name]
+    - Substack: https://[publication].substack.com/feed
+    - Vimeo Channel: https://vimeo.com/channels/[channelname]/videos/rss
+    - Reddit: https://www.reddit.com/r/[subreddit]/.rss
+    
+    Suggest 5 highly specific, niche, and professional feeds for the category: {target_category}.
     Return ONLY a JSON array of objects with keys: "name", "url", and "category".
-    Ensure the "url" is a direct link to the RSS/XML feed.
     Ensure "category" is {target_category}.
     """
     
-    response = client.chat.completions.create(
-        model="gpt-4o",
-        messages=[
-            {"role": "system", "content": "You are a helpful assistant that outputs only valid JSON arrays."},
-            {"role": "user", "content": prompt}
-        ],
-        response_format={"type": "json_object"}
+    model = genai.GenerativeModel(
+        "gemini-1.5-flash",
+        generation_config={"response_mime_type": "application/json"}
     )
     
     try:
-        content = response.choices[0].message.content.strip()
+        response = model.generate_content(
+            "You are a helpful assistant that outputs only valid JSON arrays.\n" + prompt
+        )
+        content = response.text.strip()
         # Handle cases where GPT wraps array in an object
         parsed = json.loads(content)
         if isinstance(parsed, dict) and "sources" in parsed:

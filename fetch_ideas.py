@@ -3,11 +3,11 @@ import json
 import time
 import datetime
 import feedparser
-from openai import OpenAI
+import google.generativeai as genai
 import random
 
 # Use the environment variable for API Key
-client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
 REPO_DIR = os.getcwd()
 DATA_DIR = os.path.join(REPO_DIR, "data")
@@ -356,21 +356,19 @@ def generate_daily_insight(date_str, articles_subset):
         img_str = f"\nImage: {a['image']}" if a.get('image') else ""
         prompt += f"\n[{i}] Title: {a['title']}\nLink: {a['link']}\nSource: {a['source']}\nCategory: {a['domain']}{img_str}\nSummary: {a['summary'][:200]}...\n"
 
+    model = genai.GenerativeModel(
+        "gemini-1.5-flash",
+        generation_config={"response_mime_type": "application/json"}
+    )
+
     for attempt in range(3):
         try:
-            response = client.chat.completions.create(
-                model="gpt-4o-2024-08-06",
-                response_format={ "type": "json_object" },
-                messages=[
-                    {"role": "system", "content": "You are a professional JSON generator. Output strictly valid JSON."},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0.7,
-                max_tokens=10000
+            response = model.generate_content(
+                "You are a professional JSON generator. Output strictly valid JSON.\n" + prompt
             )
-            return json.loads(response.choices[0].message.content)
+            return json.loads(response.text)
         except Exception as e:
-            print(f"OpenAI error on attempt {attempt+1}: {e}")
+            print(f"Gemini API error on attempt {attempt+1}: {e}")
             time.sleep(5)
     return None
 

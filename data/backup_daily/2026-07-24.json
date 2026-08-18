@@ -1,0 +1,370 @@
+{
+  "date": "2026-07-24",
+  "focusQ": "Agent's Thought: 오늘날의 예술과 디자인은 전통과 현대의 조화를 통해 새로운 창조성을 발휘하고 있습니다. 각 작품은 사회와 개인의 경험을 반영하며, 우리의 감각을 새롭게 자극합니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 큐레이션은 예술과 디자인의 경계를 넘나드는 작품들을 소개합니다. 각 작품은 감성과 창의성을 자극하며, 새로운 시각적 경험을 선사합니다.",
+  "session": {
+    "timestamp": "2026-07-29T06:05:11.276133",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "도스티아: 차 의식을 위한 산업 디자인",
+      "summary": "Analogy Design이 설계한 도스티아는 전통적인 차 의식을 보존하면서 현대 주방에 맞게 재해석한 컴팩트한 차 제조기입니다.",
+      "url": "https://design-milk.com/dostea-chai-maker-analogy-design/",
+      "source": "Design Milk",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "Faye Toogood",
+      "creator_insight": "좋은 디자인은 사람들이 감정적으로 연결될 수 있는 물리적인 경험을 만드는 것입니다.",
+      "tags": [
+        "디자인",
+        "차",
+        "산업디자인"
+      ],
+      "execution_techniques": [
+        "산업디자인"
+      ],
+      "why": "전통과 현대의 조화를 통해 새로운 차 문화를 제안합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/07/Dostea-1-1-1500x844.png",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "호클러: 위스콘신의 유산, 공예, 예술에 대한 헌신",
+      "summary": "John Michael Kohler Arts Center는 아티스트와 지역사회 사이의 창의적 교류를 지원합니다.",
+      "url": "https://coolhunting.com/culture/kohler-a-devotion-to-heritage-craft-and-the-arts-in-wisconsin/",
+      "source": "coolhunting.com",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "Frank Lloyd Wright",
+      "creator_insight": "자연을 사랑하는 것은 자연의 일부가 되는 것입니다. 건축은 자연과 인간이 하나가 될 수 있는 방법을 제시해야 합니다.",
+      "tags": [
+        "유산",
+        "공예",
+        "예술"
+      ],
+      "execution_techniques": [
+        "문화 교류"
+      ],
+      "why": "예술과 지역사회의 상호작용을 통해 새로운 문화적 가치를 창출합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/ap.2019.0036-768x542.jpg",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "초경량 여성 러닝화 Humtto-X Easy Run 370374B",
+      "summary": "Humtto의 새로운 러닝화는 초경량 디자인으로 뛰어난 착용감을 제공합니다.",
+      "url": "https://humtto.vn/giay-chay-bo-the-thao-sieu-nhe-nu-humtto-x-easy-run-370374b/",
+      "source": "Unknown Source",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "Tinker Hatfield",
+      "creator_insight": "좋은 디자인은 기술과 인문학의 균형을 유지하는 것입니다.",
+      "tags": [
+        "러닝화",
+        "디자인",
+        "운동"
+      ],
+      "execution_techniques": [
+        "제품 디자인"
+      ],
+      "why": "운동과 스타일을 동시에 만족시킵니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://humtto.vn/wp-content/uploads/2026/05/giay-humtto-370374-3.png",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "신젠 자연사 박물관 개관",
+      "summary": "105,300 평방미터의 박물관은 방문객들이 탐험할 수 있는 지질학적 형태로 설계되었습니다.",
+      "url": "https://www.designboom.com/architecture/shenzhen-natural-history-museum-3xn-bh-architects-zhubo-design-china/",
+      "source": "Designboom",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 삶의 배경이 아니라 삶을 진정으로 변화시키는 것이다. 건축을 통해 공간을 새롭게 정의하고 사람들의 경험을 풍부하게 만드는 것이 중요하다.",
+      "tags": [
+        "건축",
+        "박물관",
+        "디자인"
+      ],
+      "execution_techniques": [
+        "건축 디자인"
+      ],
+      "why": "자연과 건축의 조화로 새로운 교육적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/shenzhen-natural-history-museum-china-granite-terrain-3xn-designboom-08-copy-500x400-22b08q85r050.jpg",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "야부 푸셸버그의 아마간셋 해변가 주택",
+      "summary": "디자이너 Glenn Pushelberg와 George Yabu가 설계한 해변가 주택을 소개합니다.",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/yabu-pushelberg-amagansett-home-tribu-outdoor-furniture-collections",
+      "source": "Wallpaper*",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "George Yabu & Glenn Pushelberg",
+      "creator_insight": "“우리의 목표는 공간이 어떻게 살아 숨 쉬는지를 이해하는 것입니다. 우리는 각 프로젝트가 독특한 이야기를 전달하기를 바랍니다.”",
+      "tags": [
+        "인테리어",
+        "디자인",
+        "건축"
+      ],
+      "execution_techniques": [
+        "인테리어 디자인"
+      ],
+      "why": "자연과 조화를 이루는 디자인을 통해 휴식의 공간을 제안합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/NMJzc8vjyqAPEjqURq8fzX-1280-80.jpg",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "제주 사진 캠프: 나미브 제주",
+      "summary": "제주에서 사진 리조트 나미브 제주가 오픈하며 첫 사진 캠프가 열립니다.",
+      "url": "https://blog.naver.com/sabids/221578978225?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "안도 타다오",
+      "creator_insight": "건축은 사람과 자연을 연결하는 다리입니다. 건축에 있어 중요한 것은 공간을 어떻게 창조하느냐입니다.",
+      "tags": [
+        "사진",
+        "캠프",
+        "제주"
+      ],
+      "execution_techniques": [
+        "사진"
+      ],
+      "why": "제주의 아름다움을 사진으로 담고자 하는 이들에게 특별한 기회를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAxOTA3MDZfNzUg/MDAxNTYyMzcyMDA5MTQz.GwugeAqOP9Cm0eiwV9ypHUewgRVmco5GpRBAoQj3iQUg.mGVgFjPb2sl8PUwat32Eh1DoiMLpV3SiF2p0BkET1Pkg.JPEG.sabids/1562337262151.jpg?type=s3",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "아우디, 신형 플래그십 SUV Q9·SQ9 공개",
+      "summary": "아우디가 새로운 플래그십 SUV 모델 Q9과 SQ9을 공개했습니다.",
+      "url": "https://hypebeast.kr/2026/7/audi-q9-sq9-flagship-suv-features",
+      "source": "Unknown Source",
+      "domain": "GENERAL",
+      "category": "리뷰",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "좋은 디자인은 가능한 한 적게 디자인한 것이다.",
+      "tags": [
+        "자동차",
+        "디자인",
+        "플래그십"
+      ],
+      "execution_techniques": [
+        "제품 디자인"
+      ],
+      "why": "최신 자동차 디자인의 혁신을 체험할 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Faudi-q9-sq9-flagship-suv-features-0.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "Tactile Bakery Branding for Cocomoco Identity System",
+      "summary": "Cocomoco Bakery &amp; Coffee launches a warm artisanal identity with strategic branding, combining terracotta packaging designed by Cocomoco...",
+      "url": "https://abduzeedo.com/tactile-bakery-branding-cocomoco-identity-system/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "abduzeedo.com",
+      "creator_insight": "abduzeedo.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
+      "tags": [
+        "가구디자인",
+        "미니멀리즘",
+        "비대칭"
+      ],
+      "execution_techniques": [
+        "Neubrutalism",
+        "SubtractiveSculpture"
+      ],
+      "why": "1) 조형적 시각 영감 제공, 2) 미니멀 가구 기법 레퍼런스, 3) 시각적 임팩트 높음, 4) 인테리어 및 공간 디자인 확장 포인트.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/cocomoco_2.jpg",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "Branding for Ellis Butchers by Studio Blackburn",
+      "summary": "Studio Blackburn designs a dual-identity visual system and sustainable branding layout for butcher business Ellis Butchers.\nFounder Nick Ell...",
+      "url": "https://abduzeedo.com/branding-ellis-butchers-studio-blackburn/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "abduzeedo.com",
+      "creator_insight": "abduzeedo.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "BiophilicForm"
+      ],
+      "why": "프랭크 게리의 건축은 자연과의 조화를 통해 현대 건축의 새로운 길을 열었습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/meat-ellis_0_0.jpg",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "초호화 스타선수의 생활  -플로이드 메이웨더 Floyd Mayweather Jr.",
+      "summary": "현재 전적 46전 46승 26KO.방어형 복서인 플로이드 메이웨더. \"숄더롤\"이라는 기술의 정밀함을 극한까지 끌어올린 것으로 유명합니다.복서 사상 최고의 스피드와 테크닉을 가졌다고 평가받고 있구요. 사상 최초로 무패로 5체급을 정복했습니다.  1998...",
+      "url": "https://honestart.tistory.com/99-u-2026-07-24.json",
+      "source": "honestart.tistory.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "honestart.tistory.com",
+      "creator_insight": "honestart.tistory.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "Neubrutalism"
+      ],
+      "why": "잉카 일로리의 작품은 색채와 형태의 경계를 자유롭게 넘나들며 문화적 다양성을 표현합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2572CF42540FF64E33",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    },
+    {
+      "title_ko": "꿈을 담은 프랑스 시계 -akteo(악테오) (2026-07-24)",
+      "summary": "akteo(악테오)http://www.fashion-in.co.kr/ - 구매www.akteo.fr/\" WE WISH YOUR DREAMS COME TRUE ! \"dream - photo악테오 시계는 단순히 현재의 시간을 알려주는 기계장치가 아닙니다....",
+      "url": "https://honestart.tistory.com/98-u-2026-07-24.json",
+      "source": "honestart.tistory.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "honestart.tistory.com",
+      "creator_insight": "honestart.tistory.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "SubtractiveSculpture"
+      ],
+      "why": "디터 람스의 철학은 심플함과 기능성의 조화를 통해 미래지향적인 디자인을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-07-24T08:00:00.000000",
+      "title": "꿈을 담은 프랑스 시계 -akteo(악테오) (2026-07-24)"
+    },
+    {
+      "title_ko": "Gillette - 100 Years of Hair (2026-07-24)",
+      "summary": "Gillette - 100 Years of Hair&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n G...",
+      "url": "https://honestart.tistory.com/96-u-2026-07-24.json",
+      "source": "honestart.tistory.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "honestart.tistory.com",
+      "creator_insight": "honestart.tistory.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "KineticStructure"
+      ],
+      "why": "자하 하디드의 작품은 디지털 혁신을 통해 건축의 새로운 미학을 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "pub_date": "2026-07-24T08:00:00.000000",
+      "title": "Gillette - 100 Years of Hair (2026-07-24)"
+    }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "새로운 감각 The Sound Of Taste (2026-07-24)",
+      "summary": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n...",
+      "url": "https://honestart.tistory.com/95-u-2026-07-24.json",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "미래 지향적인 디자인으로 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2471F1485405850E23",
+      "pub_date": "2026-07-24T08:00:00.000000",
+      "title": "새로운 감각 The Sound Of Taste (2026-07-24)"
+    },
+    {
+      "title_ko": "Culture CHANEL - 장소의 정신 전시회 (2026-07-24)",
+      "summary": "\nhttp://culture.chanel.com/kr/이 전시는 가브리엘 샤넬에게 영감이 된 장소를 통해  그녀의 창의적인 언어를 발견하는 여정이다전시\n\t\t\t\tDDP(동대문디자인플라자)사전 예약 및 오시는 방법http://www.thereservati...",
+      "url": "https://honestart.tistory.com/94-u-2026-07-24.json",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "혁신적인 소재 사용으로 인한 바이럴 인기를 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2518713F540529B01B",
+      "pub_date": "2026-07-24T08:00:00.000000",
+      "title": "Culture CHANEL - 장소의 정신 전시회 (2026-07-24)"
+    },
+    {
+      "title_ko": "작가 엘레나 칼리스의 초현실적 수중 동화 (elenakalis)",
+      "summary": "작가 엘레나 칼리스의 초현실적 수중 동화 &lt;초현실 주의보&gt;Underwater Carousel\n  \n\n\n\nhttp://www.elenakalisphoto.com/http://www.elenakalisphoto.com/blog/FASHION O...",
+      "url": "https://honestart.tistory.com/93-u-2026-07-24.json",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "전통과 현대의 융합이 새로운 트렌드로 주목받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/244C524B5388323122",
+      "pub_date": "2026-07-24T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": true
+    },
+    {
+      "word": "지속 가능한 디자인",
+      "is_hot": false
+    },
+    {
+      "word": "경험 경제",
+      "is_hot": true
+    },
+    {
+      "word": "기술과 감성의 융합",
+      "is_hot": true
+    },
+    {
+      "word": "지역 문화의 글로벌화",
+      "is_hot": false
+    }
+  ]
+}

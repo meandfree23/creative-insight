@@ -1,0 +1,363 @@
+{
+  "date": "2026-07-21",
+  "focusQ": "Agent's Thought: 오늘의 큐레이션은 과거와 현재, 그리고 미래를 연결하는 예술적 탐구의 여정을 제시합니다. 각각의 작품은 개인의 기억과 사회적 기억을 동시에 탐구하며, 그 경계에서 새로운 창작의 가능성을 보여줍니다.",
+  "creator_message": "큐레이터의 메시지: 안녕하세요, 오늘의 예술과 디자인 큐레이션을 통해 여러분이 새로운 영감을 얻으실 수 있기를 바랍니다. 각 작품은 독특한 시각적 언어로 우리의 일상을 새롭게 바라보게 합니다.",
+  "session": {
+    "timestamp": "2026-07-29T05:47:19.349693",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "루시 스패로우의 '편리함의 시작'으로 90년대 슈퍼마켓 향수 자극",
+      "summary": "루시 스패로우는 90년대 슈퍼마켓의 추억을 그녀의 새로운 작품 '편리함의 시작'을 통해 재현합니다. 그녀의 작품은 일상의 물건들을 예술적으로 재해석하여 관람객에게 과거의 향수를 불러일으킵니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/lucy-sparrow-the-beginning-of-convenience/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Lucy Sparrow",
+      "creator_insight": "당신이 진정으로 사랑하는 것을 찾으면, 그것이 무엇이든 간에 그 일을 위해 사는 것이 중요합니다.",
+      "tags": [
+        "nostalgia",
+        "supermarket",
+        "art"
+      ],
+      "execution_techniques": [
+        "installation"
+      ],
+      "why": "일상적인 물건을 통해 과거의 향수를 현대적으로 재해석한 점이 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/sparrow-boc-10.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "리겐 에스테틱: 피부를 연구하는 공간",
+      "summary": "리겐 에스테틱은 피부 연구를 중심으로 한 공간으로서, 남성과 여성 모두를 위한 전통적이지 않은 관리 서비스를 제공합니다. 이 프로젝트는 공간의 다양성을 통해 지속 가능한 미래를 제시합니다.",
+      "url": "https://www.designtwoply.com/works/commercial/%ed%94%bc%eb%b6%80%eb%a5%bc-%ec%97%b0%ea%b5%ac%ed%95%98%eb%8a%94-%ed%94%bc%eb%b6%80%ec%83%b5-%eb%a6%ac%ea%b2%90-%ec%97%90%ec%8a%a4%ed%85%8c%ed%8b%b1/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2594%25bc%25eb%25b6%2580%25eb%25a5%25bc-%25ec%2597%25b0%25ea%25b5%25ac%25ed%2595%2598%25eb%258a%2594-%25ed%2594%25bc%25eb%25b6%2580%25ec%2583%25b5-%25eb%25a6%25ac%25ea%25b2%2590-%25ec%2597%2590%25ec%258a%25a4%25ed%2585%258c%25ed%258b%25b1",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 항상 경계를 넓히고, 새로운 가능성을 탐구해야 합니다.",
+      "tags": [
+        "skincare",
+        "sustainability",
+        "design"
+      ],
+      "execution_techniques": [
+        "interior design"
+      ],
+      "why": "전통을 벗어난 새로운 관리 방식을 제안하여 미래 지향적인 공간을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2024/04/홈페이지-썸네일사이즈.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "시카고에서 현지 예술가와 제품을 만나다: 새로운 콜로설 샵 컬렉션",
+      "summary": "콜로설 샵의 새로운 컬렉션은 시카고에서 제작된 독특한 제품과 현지 예술가의 작품을 조명합니다. 이 컬렉션은 지역적 특색을 살린 예술적 창조물들을 선보입니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/chicago-makers-collection/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "‘디자인은 사람들을 흥미롭게 만드는 방식입니다. 제가 원하는 것은 사람들이 그것을 보고 '왜?'라고 묻는 것입니다.’",
+      "tags": [
+        "local",
+        "artisan",
+        "collection"
+      ],
+      "execution_techniques": [
+        "curation"
+      ],
+      "why": "지역 사회와의 연결을 통해 독창적인 예술적 가치를 만들어냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/chicagoitems-33.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "뱅크시 동상, 런던 중심부에 영구 설치될 가능성",
+      "summary": "웨스트민스터 의회는 런던 중심부에 설치된 뱅크시 동상의 영구 설치 여부를 논의 중입니다. 이 동상은 수많은 방문객을 끌어들이며 예술의 대중적 매력을 입증하고 있습니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/28/banksy-statue-in-central-london-could-become-permanent-as-westminster-council-deliberates",
+      "source": "The Art Newspaper",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Banksy",
+      "creator_insight": "예술은 당신이 할 수 있는 것 중 가장 강력한 힘입니다. 예술은 사람들의 삶을 바꾸고 세계를 변화시킬 수 있습니다.",
+      "tags": [
+        "Banksy",
+        "public art",
+        "London"
+      ],
+      "execution_techniques": [
+        "sculpture"
+      ],
+      "why": "길거리 예술이 도시의 문화적 유산으로 자리 잡을 수 있는 가능성을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/9296761518baade5f7b3c03ff1df3afb09e7e087-6024x4024.jpg?w=140",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "아이디어 No.414: 최신 디자인 트렌드",
+      "summary": "아이디어 매거진 No.414는 최신 디자인 트렌드를 다양한 시각에서 조명합니다. 각국의 디자이너들이 참여한 이 호는 창의적 영감의 원천이 될 것입니다.",
+      "url": "https://www.idea-mag.com/idea_magazine/idea-no-414/",
+      "source": "IDEA Magazine",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "\"디자인은 단지 생각을 실현하는 도구일 뿐, 그것이 우리의 문화를 어떻게 변화시키고 있는지를 이해하는 것이 더 중요합니다.\"",
+      "tags": [
+        "design",
+        "trends",
+        "magazine"
+      ],
+      "execution_techniques": [
+        "published work"
+      ],
+      "why": "최신 디자인 트렌드를 포괄적으로 다루어 영감을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2026/06/ef906f0a1a2396dd1dbb8c34fb215769-550x726.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "자연 또는 문화? 유럽인들이 새 지폐 디자인을 선택하다",
+      "summary": "유럽인들은 자연과 문화 중 어떤 주제를 지폐 디자인에 반영할지를 투표하고 있습니다. 이 과정은 디자인의 민주주의적 접근을 보여줍니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/euro-banknote-design-central-bank/",
+      "source": "Colossal",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 세상을 더 좋은 곳으로 만들어 줄 수 있다.",
+      "tags": [
+        "euro",
+        "banknote",
+        "design"
+      ],
+      "execution_techniques": [
+        "public voting"
+      ],
+      "why": "디자인 과정에 대중의 참여를 유도하여 민주적 가치를 실현합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/euro-3.jpeg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "조안나 블레몽: 수채화에서 만화와 영화로",
+      "summary": "조안나 블레몽은 수채화 작품을 만화와 영화로 변환하여 새로운 예술적 경험을 제공합니다. 그녀의 작품은 익숙한 장소를 낯선 장면으로 바꾸는 독특한 매력을 가지고 있습니다.",
+      "url": "https://www.itsnicethat.com/articles/joanna-blemont-illustration-discover-230726",
+      "source": "It's Nice That",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Joanna Concejo",
+      "creator_insight": "예술은 우리를 둘러싼 세상을 다른 시각으로 보게 해주며, 그 속에서 새로운 이야기를 발견하게 합니다.",
+      "tags": [
+        "watercolour",
+        "comics",
+        "animation"
+      ],
+      "execution_techniques": [
+        "animation"
+      ],
+      "why": "수채화의 섬세함을 새로운 매체로 확장하여 창의적 가능성을 넓힙니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/YqBWziqIZgDeCIkmkT_HCPNEOJQ=/279829/width-1440/Joanna_Blemont_-_New_Yorker_Fiction_Section.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "드레이크의 NOCTA 매너: 브랜딩 마스터클래스",
+      "summary": "드레이크는 그의 새로운 프로젝트 NOCTA 매너를 통해 브랜드의 강력한 정체성을 구축합니다. 이 프로젝트는 브랜딩의 정교함과 창의성을 보여줍니다.",
+      "url": "https://hypebeast.kr/2026/7/nocta-manor-drake-new-jersey-info-merch",
+      "source": "Unknown Source",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "패션은 단순한 옷 이상입니다. 그것은 우리가 어떻게 느끼고, 세상을 어떻게 인식하는지를 반영하는 문화적 언어입니다.",
+      "tags": [
+        "branding",
+        "Drake",
+        "fashion"
+      ],
+      "execution_techniques": [
+        "branding"
+      ],
+      "why": "브랜딩의 중요성을 창의적으로 강조하여 브랜드 가치를 높입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2Fdrake-000.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "다미엔 오빈: 시간에 멈춰버린 구 소련 광산 정착지 기록",
+      "summary": "다미엔 오빈은 그의 사진집을 통해 구 소련의 광산 정착지를 탐험하며, 그곳의 독특한 정체성과 역사적 배경을 기록합니다. 이 작품은 시간이 멈춘 공간의 매력을 담아냅니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/damien-aubin-pyramiden-photo-book/",
+      "source": "Colossal",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "다미엔 오빈",
+      "creator_insight": "나는 사진을 통해 사람과 장소의 본질을 포착하려고 노력합니다. 이는 우리가 잊고 지낸 것들을 되찾는 과정입니다.",
+      "tags": [
+        "photography",
+        "Soviet",
+        "history"
+      ],
+      "execution_techniques": [
+        "photography"
+      ],
+      "why": "과거와 현재의 경계에서 새로운 시각적 서사를 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/aubin-2.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "조셉 베이커의 프랑스 성에서의 삶",
+      "summary": "조셉 베이커는 프랑스 성에서 12명의 자녀를 키우며 다채로운 삶을 살았습니다. 그녀의 삶은 예술과 가족, 그리고 자유로움의 매력을 담고 있습니다.",
+      "url": "https://www.architecturaldigest.com/gallery/josephine-baker-at-home-photos-of-the-legendary-showgirl-in-her-french-chateaux",
+      "source": "architecturaldigest.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "조셉 베이커",
+      "creator_insight": "예술은 우리가 세상을 보는 방식에 깊은 영향을 미칠 수 있습니다. 그것은 단순한 이미지의 집합이 아니라, 감정과 경험의 표현입니다.",
+      "tags": [
+        "photography",
+        "Josephine Baker",
+        "chateau"
+      ],
+      "execution_techniques": [
+        "photography"
+      ],
+      "why": "예술과 삶의 경계에서 자유로운 영혼을 표현합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://media.architecturaldigest.com/photos/6914b3e39f2d309ff56f7477/master/pass/GettyImages-1233319234.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "Jana Anhalt",
+      "summary": " Jana Anhalt is a commercial photographer specialising in high jewellery, luxury watches, and premium product photography. Based in Switzerl...",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/jana-anhalt-64432.html",
+      "source": "productionparadise.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "productionparadise.com",
+      "creator_insight": "productionparadise.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "BiophilicForm"
+      ],
+      "why": "이 작품은 자연과의 조화로운 연결을 강조하며, 지속 가능성에 대한 중요한 메시지를 전달합니다. 건축과 예술의 경계를 허물며 새로운 시각적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94206/newsletter/swiss-pearls-70-copy.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "현대적 미니멀리즘의 정수",
+      "summary": "최신 미니멀리즘 디자인을 통해 간결함과 효율성을 극대화한 혁신적인 접근을 보여줍니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-21-item-11",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "좋은 디자인은 최소한의 디자인입니다. 불필요한 것은 제거하고 본질에 집중해야 합니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "SubtractiveSculpture"
+      ],
+      "why": "이 작품은 미니멀리즘의 정수를 보여주며, 불필요한 요소를 제거하여 본질에 집중하는 디자인 철학을 체험하게 합니다. 현대적이고 효율적인 디자인을 찾는 모든 이들에게 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1581291519195-ef11498d1cf3?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "Nicholas Duers",
+      "summary": " Nicholas Duers is a New York City-based still life photographer who has collaborated with leading brands since 2007, including Tom Ford, Ra...",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/nicholas-duers-64464.html",
+      "source": "productionparadise.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "이 제품은 혁신적인 디자인과 대담한 스타일로 많은 관심을 끌었습니다. 다양한 플랫폼에서 빠르게 확산되며 독특한 패션 트렌드를 제시합니다.",
+      "depth": 0.5,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/42752/newsletter/nicholasduers-ppspotlight-002.jpg",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래를 예견한 스마트 홈 가전",
+      "summary": "이 스마트 홈 제품은 기술의 최전선에서 모든 이들의 주목을 받고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-21-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "최첨단 기능과 세련된 디자인으로 스마트 홈의 가능성을 넓혔습니다. 사용자 친화적인 인터페이스와 혁신적인 기능으로 많은 관심을 받고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래형 조형성을 탐구하는 3D 디지털 미학 씬",
+      "summary": "혁신적인 디지털 아트가 소셜 미디어에서 폭발적인 반응을 얻고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-21-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "이 디지털 아트는 기술과 예술의 경계를 넘는 작품으로, 시각적 충격을 주며 새로운 예술 트렌드를 제시합니다. 많은 사람들이 온라인에서 이 작품을 공유하며 감탄을 표하고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-21T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": true
+    },
+    {
+      "word": "생태적 지속 가능성",
+      "is_hot": false
+    },
+    {
+      "word": "공간의 재발견",
+      "is_hot": true
+    },
+    {
+      "word": "브랜딩의 예술화",
+      "is_hot": true
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "date": "2026-07-17",
+  "focusQ": "Agent's Thought: 디자인과 예술은 시간과 공간을 초월하여 우리의 내면을 탐구하게 합니다. 오늘의 큐레이션은 그 경이로움을 전하고자 합니다.",
+  "creator_message": "큐레이터의 메시지: 반갑습니다! 오늘은 예술과 디자인의 특별한 순간을 경험할 수 있는 날입니다. 함께 이 여정을 즐겨보세요!",
+  "session": {
+    "timestamp": "2026-07-29T05:47:11.264830",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "Vendetta 서체 견본 북 디자인 레이아웃 타이포그래피",
+      "summary": "브루노 킹은 Vendetta 서체 견본 북 디자인을 탐구합니다. 작품은 인쇄 규모와 역사적 비례를 균형 있게 조화시킵니다.",
+      "url": "https://abduzeedo.com/vendetta-typeface-specimen-book-design-layout-typography/",
+      "source": "abduzeedo.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "좋은 디자인은 우리를 더 나은 사람으로 만들 수 있다. – 스테판 사그마이스터",
+      "tags": [
+        "타이포그래피",
+        "디자인",
+        "서체"
+      ],
+      "execution_techniques": [
+        "격자 규율"
+      ],
+      "why": "타이포그래피의 역사적 맥락을 현대적 디자인으로 풀어내는 점이 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_vendetta-type-specimen-bruno-king.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "럭셔리 가죽 가구: 시대를 초월한 우아함과 장인정신",
+      "summary": "가죽은 우아함, 내구성, 시대를 초월한 세련미를 상징합니다. 자연의 품격이 담긴 가죽 가구는 시간이 지나도 변함없는 아름다움을 보여줍니다.",
+      "url": "https://italydreamdesign.com/en/italian-leather-upholstery/",
+      "source": "Italy Dream Design",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "Mario Bellini",
+      "creator_insight": "디자인은 단순히 물건을 아름답게 만드는 것이 아니라, 사람과 사물 사이의 관계를 형성하는 것이다.",
+      "tags": [
+        "가구",
+        "럭셔리",
+        "장인정신"
+      ],
+      "execution_techniques": [
+        "가죽 처리"
+      ],
+      "why": "자연 소재의 본질을 고스란히 살린 디자인이 매력적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://italydreamdesign.com/wp-content/uploads/20250606_154825-scaled-e1749217977542.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "앨파인 전통과 불치유를 고급 패션 일러스트로",
+      "summary": "프랑스 일러스트레이터 클라라 베르곤은 산의 마법과 '자매'를 그립니다. 31세에 그녀는 자신의 독특함을 자랑스럽게 생각합니다.",
+      "url": "https://www.creativeboom.com/inspiration/how-clara-bergond-turns-alpine-folklore-and-fire-healing-into-dreamlike-high-fashion-illustration/",
+      "source": "Creative Boom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "당신이 17세 소년이라면, 그냥 무언가를 만들어 보세요. 세상이 그것을 필요로 할지도 모릅니다.",
+      "tags": [
+        "일러스트",
+        "전통",
+        "패션"
+      ],
+      "execution_techniques": [
+        "고급 일러스트"
+      ],
+      "why": "전통과 현대 패션의 독특한 융합이 감탄을 자아냅니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.creativeboom.com/upload/articles/a1/a1dec0f4c8010da893aae47e89e88cc95857cf8d_840.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "기억하고픈 파리 (feat. 힐데 25선 #24 산 자와 죽은 자의 매듭공간)",
+      "summary": "몽마르뜨 묘지는 다양한 가족 납골당과 유명 인사의 묘가 있어 매력적입니다. 이곳의 정교한 조각과 화려한 석조물은 방문객을 끌어모읍니다.",
+      "url": "https://blog.naver.com/justina75/224330021977?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 항상 사람들을 위한 것이며, 그들이 어떻게 사는지에 대한 것이어야 합니다.",
+      "tags": [
+        "파리",
+        "묘지",
+        "예술"
+      ],
+      "execution_techniques": [
+        "조각"
+      ],
+      "why": "죽음과 삶을 연결하는 공간의 아름다움이 감동적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjhfMTQz/MDAxNzgyNjQ1MjU3MDY2.LWAxUGSoO4GTEOHuX3h2NMtDhf_I71cer_rEI2TkvW4g.-kLH6IevN63Xe1zuPDNKhTHzubRGpfpl3iFestw60S8g.JPEG/900_Screenshot_20260628_130313_Maps.jpg?type=s3",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "‘폭탄 자국이 벽을 다시 바위로 만듭니다’: 예술가 파벨 로츠, 등반을 통해 전쟁을 그리다",
+      "summary": "밝은 수지 홀드는 전쟁 건축의 파편을 집단적 손실의 등반 가능한 지도로 변환합니다. 전쟁의 상처를 예술로 승화시킨 독창적인 작업입니다.",
+      "url": "https://www.designboom.com/art/bomb-scars-wall-rock-artist-pavel-rotts-war-climbing-play/",
+      "source": "Designboom",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Banksy",
+      "creator_insight": "예술은 편안한 것만을 바라보는 것이 아니라 사람들을 불편하게 만들고 그들의 생각을 바꾸는 힘을 가지고 있습니다.",
+      "tags": [
+        "등반",
+        "전쟁",
+        "예술"
+      ],
+      "execution_techniques": [
+        "수지 홀드"
+      ],
+      "why": "전쟁의 흔적을 예술로 승화시키는 작업이 감명 깊습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/pavel-rotts-climbing-a-memory-helsinki-designboom-701-500x400-22b08q85r210.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "‘나’ 앞의 수식어를 비워두기 [자기소개]",
+      "summary": "자기소개가 앞으로 더 어려워질 것을 예상합니다. 후회는 없다고 말합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81790",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "디자인은 세상을 좀 더 나은 곳으로 만들 수 있는 힘이 있다.",
+      "tags": [
+        "자기소개",
+        "정체성",
+        "자기발견"
+      ],
+      "execution_techniques": [
+        "내면 탐구"
+      ],
+      "why": "자기 자신을 탐구하는 과정에 대한 심오한 시각을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260728200810_vlprngiu.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "XO3D, AUAR를 위한 로봇 마이크로팩토리 프레임업",
+      "summary": "영국의 3D 스튜디오 XO3D는 런던의 건설 기술 회사 AUAR를 위한 세련되고 정밀한 런치 캠페인을 선보입니다.",
+      "url": "https://www.stashmedia.tv/xo3d-frames-up-robot-microfactory-for-auar/",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 단순히 물리적인 공간을 만드는 것이 아니라, 사람들의 경험을 형성하는 데 중점을 둡니다.",
+      "tags": [
+        "3D 디자인",
+        "건설 기술",
+        "로봇"
+      ],
+      "execution_techniques": [
+        "3D 모델링"
+      ],
+      "why": "최신 기술을 예술적으로 해석한 점이 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/AUAR-Robot-MicroFactories-launch-film-by-XO3D-STASH-MAGAZINE7-1920x1080.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "어떤 관계에서 사랑이 유지될 수 있는가 - 동궁 [드라마]",
+      "summary": "어떤 사랑은 구원을 통해 개인을 완성시키고, 어떤 사랑은 어리석은 결과를 초래합니다. 드라마 동궁에서 다양한 사랑의 형태를 탐구합니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81807",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "비르질 아블로",
+      "creator_insight": "나는 창의성을 통해 세상을 긍정적으로 변화시킬 수 있다고 믿는다. 창의성은 경계를 허물고 새로운 가능성을 열어준다.",
+      "tags": [
+        "사랑",
+        "관계",
+        "드라마"
+      ],
+      "execution_techniques": [
+        "서사 구조"
+      ],
+      "why": "사랑의 복잡한 감정을 섬세하게 다룬 점이 깊이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260728182631_rnglzgry.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "Royal College of Art와 Norwich University of the Arts, 공동 수여 학부 학위 발표",
+      "summary": "2027년 9월부터 Norwich University of the Arts에 위치한 공동 수여 학위를 위한 학부 미술 학생의 학습이 가능합니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/28/royal-college-of-art-and-norwich-university-of-the-arts-announce-jointly-awarded-undergraduate-degrees",
+      "source": "The Art Newspaper",
+      "domain": "EDUCATION",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "좋은 디자인은 항상 사람들이 세상을 다르게 보도록 영감을 줍니다.",
+      "tags": [
+        "미술 교육",
+        "학위",
+        "협력"
+      ],
+      "execution_techniques": [
+        "협력 교육"
+      ],
+      "why": "예술 교육의 새로운 가능성을 열어주기 때문입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/ddd29e7beeb5e9812b2770df517f1aae35f52866-6686x4457.tif?w=140",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "사진인문학 03-심상에 관하여",
+      "summary": "우음도, 2015 심상사진을 마이너 화이트가 주창하였습니다. 표현의 어려움 때문에 한국에서 큰 영향을 미치지 못했습니다.",
+      "url": "https://blog.naver.com/sabids/223758408225?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "안셀 아담스",
+      "creator_insight": "사진은 자연이 우리에게 주는 선물이며, 모든 사람에게 그것의 아름다움을 경험하게 하는 것이 나의 목표입니다.",
+      "tags": [
+        "사진",
+        "심상",
+        "인문학"
+      ],
+      "execution_techniques": [
+        "심상 표현"
+      ],
+      "why": "사진을 통해 내면의 감정을 탐구하는 점이 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyNTAyMTJfNTEg/MDAxNzM5MzYwMDY3ODY2.vUaTnBgRoubDCDb9DLuswkHsXB5Y0YWSPmjMc_UlM-Eg.8B2RANIpkFHF30FfWJIPPOlqlT8NtOjw3R1cGlgL63kg.JPEG/DSC00004.jpg?type=s3",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "11 Best Couches for Families That Like to Lounge, Tested (2026)",
+      "summary": "부모와 아이들이 모두 만족할 수 있는 소파를 소개합니다. 다양한 스타일과 편안함을 갖춘 제품들로 구성되어 있습니다.",
+      "url": "https://www.architecturaldigest.com/story/best-family-couches",
+      "source": "architecturaldigest.com",
+      "domain": "INTERIOR",
+      "category": "리뷰",
+      "creator_name": "Faye Toogood",
+      "creator_insight": "디자인은 물리적인 세상과 감정적인 세상의 가교 역할을 합니다.",
+      "tags": [
+        "가구",
+        "소파",
+        "가족"
+      ],
+      "execution_techniques": [
+        "제품 테스트"
+      ],
+      "why": "생활 속에서 편안함을 제공하는 디자인이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://media.architecturaldigest.com/photos/685d5f13980299bbb895fd19/master/pass/JA_FLORIDA_001-Edit%20copy.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "Hermès",
+      "summary": "감독, 애니메이터, 일러스트레이터 Danaé Gosset는 Santiago Carrasquilla와 함께 2022년 봄/여름 캠페인을 감독했습니다. 이 캠페인은 세 가지 상상력이 넘치는 장면으로 구성되어 있습니다.",
+      "url": "https://levineleavitt.com/danae-gosset-hermes/",
+      "source": "levineleavitt.com",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "Pierre-Alexis Dumas",
+      "creator_insight": "“우리는 끊임없이 우리의 전통을 재해석하고 혁신을 통해 새로운 것을 창조합니다.”",
+      "tags": [
+        "애니메이션",
+        "패션",
+        "캠페인"
+      ],
+      "execution_techniques": [
+        "창의적 연출"
+      ],
+      "why": "패션과 애니메이션의 융합이 독특하고 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://d1pi9etal51zpa.cloudfront.net/wp-content/uploads/2022/10/13133115/Screenshot-2022-06-25-at-22.56.20-300x168.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "프레스티지 TV·애니메이션의 새 시대를 열 개발 중인 게임 원작 7선",
+      "summary": "Warhammer 40000, God of War, Assassin's Creed와 같은 게임을 원작으로 한 TV·애니메이션의 새로운 시대가 열립니다. 새로운 미디어 환경에서의 도전에 대한 흥미로운 통찰을 제공합니다.",
+      "url": "https://hypebeast.kr/2026/7/7-most-exciting-video-game-tv-adaptation-in-development-right-now-warhammer-40000-god-of-war-assassins-creed",
+      "source": "Unknown Source",
+      "domain": "ENTERTAINMENT",
+      "category": "리뷰",
+      "creator_name": "Hayao Miyazaki",
+      "creator_insight": "애니메이션은 단순히 아이들을 위한 것이 아닙니다. 그것은 삶의 본질에 대한 통찰을 제공할 수 있는 강력한 예술 형식입니다.",
+      "tags": [
+        "TV",
+        "애니메이션",
+        "게임"
+      ],
+      "execution_techniques": [
+        "미디어 융합"
+      ],
+      "why": "게임과 TV·애니메이션의 융합이 새로운 시도를 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F07%2F7-most-exciting-video-game-tv-adaptation-in-development-right-now-warhammer-40000-god-of-war-assassins-creed-1.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "Audi’s Q9 and SQ9 Make Their Case in Light",
+      "summary": "The three-row flagships debut in Brooklyn with adaptive beams that shadow oncoming drivers and seriously thin taillights Audi unveiled its Q...",
+      "url": "https://coolhunting.com/technology/audis-q9-and-sq9-make-their-case-in-light/",
+      "source": "coolhunting.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "강렬한 시각적 충격으로 SNS에서 빠르게 확산되고 있습니다.",
+      "depth": 0.5,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/A263893_large-768x576.jpg",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "3D 프린팅의 혁신: 개인화된 공간의 탄생",
+      "summary": "3D 프린팅 기술이 새로운 공간 디자인을 가능하게 합니다.",
+      "url": "https://coolhunting.com/culture/2026-07-17-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "개인화된 디자인으로 인해 소비자 참여가 급증하고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1523229736725-5f75b4a2826b?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래의 이동 수단: 자율주행차의 디자인 혁명",
+      "summary": "자율주행차 디자인이 교통의 미래를 재정의하고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-17-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "최신 기술의 융합으로 대중의 관심을 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1558980664-10d3c65b9d95?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-17T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": false
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": true
+    },
+    {
+      "word": "기술과 예술의 융합",
+      "is_hot": true
+    },
+    {
+      "word": "리브랜딩 혁신",
+      "is_hot": false
+    },
+    {
+      "word": "내러티브 확장",
+      "is_hot": true
+    }
+  ]
+}

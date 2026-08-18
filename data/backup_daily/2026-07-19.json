@@ -1,0 +1,359 @@
+{
+  "date": "2026-07-19",
+  "focusQ": "Agent's Thought: 예술과 디자인은 우리를 새로운 차원으로 인도합니다. 이러한 창조적인 여정은 개인의 내면을 탐구하고, 사회를 반영하며, 문화적 경계를 확장하는 힘을 가지고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 큐레이션에서는 전 세계의 다양한 예술 작품과 디자인을 만나보세요. 각 작품은 독창성과 영감을 불어넣어 줄 것입니다. 함께 새로운 시각을 발견하는 여정을 시작해봅시다.",
+  "session": {
+    "timestamp": "2026-07-18T23:44:18.758593",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "모두가 약간의 광기를 필요로 한다: 마리오 쿠치넬라가 팔레르모에 살아있는 정원을 가져오다.",
+      "summary": "팔레르모의 전통적인 페스티노 디 산타 로살리아에서 MCA의 정원 마차가 중심 무대를 차지합니다. 이는 삶, 믿음, 해방, 소속감을 기념하는 축제입니다.",
+      "url": "https://www.wallpaper.com/design-interiors/festino-di-santa-rosalia-palermo-mario-cucinella-mca",
+      "source": "Wallpaper*",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Mario Cucinella",
+      "creator_insight": "건축은 사회적 책임을 지고 있으며, 우리의 건축물은 사람들에게 더 나은 삶을 제공해야 합니다.",
+      "tags": [
+        "정원",
+        "디자인",
+        "축제"
+      ],
+      "execution_techniques": [
+        "정원 설계"
+      ],
+      "why": "이 작품은 자연과 디자인의 경계를 허물며 감동을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/pxYAjNZ5SU8LC3feh4HtiK-1280-80.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "에세이: 감정 시리즈 03 - 후회라는 건",
+      "summary": "때로는 미친 척하고 20초만 용기를 내볼 필요가 있습니다. 그럼 멋진 일이 생길 것입니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81705",
+      "source": "Unknown Source",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "\"디자인은 돈을 버는 것 이상의 의미가 있습니다. 그것은 우리 삶의 질을 향상시키는 데 기여할 수 있습니다.\"",
+      "tags": [
+        "감정",
+        "용기",
+        "삶"
+      ],
+      "execution_techniques": [
+        "에세이 작성"
+      ],
+      "why": "짧은 순간의 용기가 삶을 변화시킬 수 있다는 메시지가 강렬합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260718211439_ggnfkcap.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "현대사진을 찍다 - 강의 7: 정연두",
+      "summary": "정연두의 작품은 현대사진을 공부하는데 가장 적합합니다. 그는 재현에서 벗어나 새로움을 탐구합니다.",
+      "url": "https://blog.naver.com/damwon/220838070147?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "정연두",
+      "creator_insight": "현실과 상상의 경계를 넘나드는 작업을 통해 관객에게 새로운 시각적 경험을 제공하고자 합니다.",
+      "tags": [
+        "사진",
+        "현대예술",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "사진 촬영"
+      ],
+      "why": "재현의 한계를 넘는 창의적 접근이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/20161017_235/damwon_1476664456079vpPKT_JPEG/2016-10-17_09%3B33%3B54.JPEG?type=s3",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "포토샵 강좌: 클리핑 마스크 이해하기",
+      "summary": "클리핑 마스크는 디자인 작업에서 필수적인 도구입니다. 이 강좌는 그 사용법을 쉽게 설명합니다.",
+      "url": "https://graymonster.tistory.com/81",
+      "source": "Unknown Source",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "디자인은 사람들이 그들의 삶에서 사랑하는 것들을 더 사랑하게 만드는 것이다.",
+      "tags": [
+        "포토샵",
+        "디자인",
+        "강좌"
+      ],
+      "execution_techniques": [
+        "디지털 디자인"
+      ],
+      "why": "디자인의 필수 도구인 클리핑 마스크를 쉽게 배울 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://t1.daumcdn.net/cfile/tistory/99AABA33599DBA7A20",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "Luxury Hospitality Brands Bring Their Design DNA to the Sea",
+      "summary": "Aman, Four Seasons 등 럭셔리 브랜드가 요트 디자인으로 새로운 형태의 럭셔리 여행을 제공합니다. 각 브랜드의 시그니처 디자인 철학이 요트에 녹아있습니다.",
+      "url": "https://design-milk.com/luxury-hospitality-brands-yacht-design/",
+      "source": "Design Milk",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "나는 건축이 사람들에게 새로운 공간적 경험을 제공해야 한다고 생각합니다. 그것이 우리의 삶을 풍요롭게 할 수 있습니다. - 자하 하디드",
+      "tags": [
+        "럭셔리",
+        "디자인",
+        "여행"
+      ],
+      "execution_techniques": [
+        "요트 디자인"
+      ],
+      "why": "브랜드의 정체성을 새로운 방식으로 경험할 수 있는 기회를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/07/Aman7-1500x844.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "The WAVY App Turns Antique Singing Bowls into an Ever-Changing Composition",
+      "summary": "고대 티베트 및 크리스탈 보울을 녹음하여 끊임없이 변화하는 작곡을 만드는 앱입니다. 소리의 반복을 피하고 새로운 경험을 제공합니다.",
+      "url": "https://coolhunting.com/culture/wavy-turns-antique-singing-bowls-into-an-ever-changing-composition/",
+      "source": "coolhunting.com",
+      "domain": "MUSIC",
+      "category": "리뷰",
+      "creator_name": "Brian Eno",
+      "creator_insight": "예술은 단지 우리가 매일매일을 살면서 붙잡고 있는 생존 기계의 일부이다. 예술은 느긋함을 위한 기회다.",
+      "tags": [
+        "음악",
+        "앱",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "음향 디자인"
+      ],
+      "why": "음악의 새로운 가능성을 탐구하는 혁신적인 접근이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/aska-new-crystal-bowls-768x512.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "Nuart Aberdeen 2026: 시에 담긴 거리의 예술",
+      "summary": "Nuart Aberdeen 2026에서는 거리 예술과 시의 조화로운 만남을 선보입니다. 도시 곳곳에서 발견할 수 있는 창의적인 작업들이 돋보입니다.",
+      "url": "https://www.juxtapoz.com/news/street-art/nuart-aberdeen-2026-poetry-in-the-streets/",
+      "source": "Juxtapoz",
+      "domain": "STREET ART",
+      "category": "리뷰",
+      "creator_name": "Banksy",
+      "creator_insight": "\"예술은 단순히 그 자체로 즐겁고 아름다운 것이 아니며, 세상을 바라보는 방식에 대해 질문을 던지고 문제를 제기하는 것입니다.\"",
+      "tags": [
+        "거리 예술",
+        "시",
+        "창의성"
+      ],
+      "execution_techniques": [
+        "거리 예술"
+      ],
+      "why": "도시의 일상 속에 예술을 불어넣는 매력이 있습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/1393cea878d4e556a989fa24f9c324ac_L.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "Molly Bounds \"잃는 빛, 이기는 밤\" @ Mrs Gallery, Maspeth, NY",
+      "summary": "Molly Bounds의 전시 '잃는 빛, 이기는 밤'은 Maspeth의 Mrs Gallery에서 열립니다. 그녀의 작품은 빛과 어둠의 대조를 통해 강렬한 감정을 불러일으킵니다.",
+      "url": "https://www.juxtapoz.com/news/painting/molly-bounds-the-light-that-loses-the-night-that-wins-mrs-gallery-maspeth-ny/",
+      "source": "Juxtapoz",
+      "domain": "PAINTING",
+      "category": "리뷰",
+      "creator_name": "Picasso",
+      "creator_insight": "모든 어린이는 예술가이다. 문제는 자라서도 예술가로 남는 것이다.",
+      "tags": [
+        "회화",
+        "전시",
+        "대조"
+      ],
+      "execution_techniques": [
+        "페인팅"
+      ],
+      "why": "빛과 어둠의 대조를 통해 감정의 깊이를 탐구합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/7bac6ecdec7150ac8a0c3053192d4431_L.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "Marc Padeu의 ‘Memento Vivere’에서 코코아 농장이 신성한 이벤트의 배경이 되다",
+      "summary": "Marc Padeu의 작품은 코코아 농장을 배경으로 인간의 존재와 기념을 탐구합니다. 그의 아크릴 페인팅은 강렬한 색채와 생동감으로 관객을 매료시킵니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/marc-padeu-memento-vivere-acrylic-paintings/",
+      "source": "Colossal",
+      "domain": "PAINTING",
+      "category": "리뷰",
+      "creator_name": "Marc Padeu",
+      "creator_insight": "예술은 우리의 삶과 주변 세계를 더 깊이 이해하도록 돕는 도구입니다. 우리는 그림을 통해 사회적, 문화적, 개인적 경험을 탐구하고 표현할 수 있습니다.",
+      "tags": [
+        "회화",
+        "코코아",
+        "색채"
+      ],
+      "execution_techniques": [
+        "아크릴 페인팅"
+      ],
+      "why": "강렬한 색채와 주제가 관객의 시선을 사로잡습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/padeu-3.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "Fossils Woven on a Bed of Embroidery",
+      "summary": "Rachel Crisp는 자연에서 영감을 받은 자수를 통해 화석을 재현합니다. 그녀의 작품은 고고학적이면서도 예술적인 매력을 발산합니다.",
+      "url": "https://www.fubiz.net/2023/01/09/fossils-woven-on-a-bed-of-embroidery/",
+      "source": "Fubiz",
+      "domain": "TEXTILE",
+      "category": "리뷰",
+      "creator_name": "Tanya Aguiñiga",
+      "creator_insight": "나는 직물과 예술을 통해 개인의 정체성과 사회적 문제를 탐구합니다. 이는 서로 다른 문화 간의 다리를 만들고자 하는 노력입니다.",
+      "tags": [
+        "자수",
+        "화석",
+        "자연"
+      ],
+      "execution_techniques": [
+        "자수"
+      ],
+      "why": "자연과 예술의 경계를 넘나드는 독창적 접근이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.fubiz.net/wp-content/uploads/2022/02/RC1.png",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "NUOVO Shapes a Multi-sensory Moment for Hong Kong’s Art and Design Scene",
+      "summary": "The exhibition evolves NUOVO's identity beyond furniture showroom to design culture curator With Sequence &#8211; A Listening Room, NUOVO tu...",
+      "url": "https://coolhunting.com/design/nuovo-shapes-a-multi-sensory-moment-for-hong-kongs-art-and-design-scene/-u-2026-07-19.json",
+      "source": "coolhunting.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "coolhunting.com",
+      "creator_insight": "coolhunting.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "BiophilicForm"
+      ],
+      "why": "이 디자인은 자연과의 조화를 중시하는 Tadao Ando의 철학을 잘 나타내고 있으며, 미학적 아름다움과 환경적 감각을 동시에 충족시킵니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/07/DSC_3554-768x512.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "네오브루탈리즘의 재발견",
+      "summary": "이 작품은 네오브루탈리즘 스타일을 통해 강렬한 시각적 효과를 제공합니다.",
+      "url": "https://www.itsnicethat.com/articles/2026-07-19-item-11",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 타협하지 않는 예술이다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "Neubrutalism"
+      ],
+      "why": "Zaha Hadid의 혁신적인 디자인 접근 방식을 통해 현대 건축에서 네오브루탈리즘의 가능성을 다시금 조명합니다. 새롭고 강력한 시각적 경험을 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "Kim Justin Hell",
+      "summary": " Kim Justin Hell is a Swiss commercial photographer specialising in luxury watch photography, high-end product imagery, and visual campaigns...",
+      "url": "https://www.productionparadise.comspotlight/watches-and-jewellery-photography-and-motion-2316/kim-justin-hell-63352.html",
+      "source": "productionparadise.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "유리 건축물의 혁신적인 디자인은 현대 건축의 방향성을 새롭게 제시하며, 공학적 도전과 예술적 아름다움을 결합해 화제가 되고 있습니다.",
+      "depth": 0.5,
+      "image": "https://www.productionparadise.com/newsletters/2316/photos/94671/newsletter/fortis-marinemaster-combo.jpg",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "모듈형 가구의 새로운 시대",
+      "summary": "모듈형 디자인이 주목받으면서 실용성과 스타일을 동시에 잡고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-19-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "모듈형 가구는 다양한 공간에 맞춰 조정 가능한 특징으로 인기를 끌고 있으며, 현대 생활에 적합한 실용적인 솔루션으로 떠오르고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    },
+    {
+      "title_ko": "디지털 아트의 경계를 넘다",
+      "summary": "디지털 아트가 새로운 차원의 경험을 제공하며 경계를 허물고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-19-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "디지털 아트는 기술과 예술의 융합으로 무한한 창의력을 발휘하며, 전통적인 예술 형식을 넘어서 새로운 형태와 경험을 제공하고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-19T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": true
+    },
+    {
+      "word": "창의적 도시 경관",
+      "is_hot": true
+    },
+    {
+      "word": "브랜드 철학의 시각화",
+      "is_hot": false
+    }
+  ]
+}

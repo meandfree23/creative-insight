@@ -1,0 +1,361 @@
+{
+  "date": "2026-07-11",
+  "focusQ": "Agent's Thought: 오늘의 큐레이션은 디자인과 예술의 경계를 넘나드는 독창적인 이야기를 통해 우리의 심미적 인식을 다시 한 번 재정립하게 합니다. 우리는 매일의 삶 속에서 발견할 수 있는 아름다움을 놓치지 말아야 합니다.",
+  "creator_message": "큐레이터의 메시지: 안녕하세요, 창조적 영감을 찾아 함께하는 여러분을 환영합니다. 오늘도 독특하고 혁신적인 디자인과 예술 작품들로 가득 찬 하루가 되길 바랍니다.",
+  "session": {
+    "timestamp": "2026-07-13T13:18:11.419304",
+    "considered": 30,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "영원함을 품은 콜로라도 농장 주택",
+      "summary": "Landed Interiors는 숙련된 장인들과 협력하여 '시간을 초월한 견고함과 따뜻함'을 품은 인테리어를 완성했습니다. 이 농장 주택은 자연과 조화를 이루며 오래된 듯한 매력을 발산합니다.",
+      "url": "https://www.architecturaldigest.com/story/landed-interiors-designed-colorado-farmhouse",
+      "source": "architecturaldigest.com",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Faye Toogood",
+      "creator_insight": "나는 작품마다 장인 정신과 감정을 담아내고 싶습니다. 그것이 디자인이 살아 숨쉬는 이유입니다.",
+      "tags": [
+        "인테리어",
+        "건축",
+        "자연"
+      ],
+      "execution_techniques": [
+        "전통적 장인 기술"
+      ],
+      "why": "자연과 조화로운 디자인이 인상적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://media.architecturaldigest.com/photos/6a4c15f798cfe34648c436cc/master/pass/Landed_Boulder_07212025_0048_V2.jpg",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "제한판 디지털 도구의 세계",
+      "summary": "Metapaper와 Gallery Print와의 협업을 통해 특별판 디지털 도구를 선보입니다. 이 에디션은 창의적인 실험과 혁신을 이끌어낼 것입니다.",
+      "url": "https://www.slanted.de/limited-special-edition-digital-tools/",
+      "source": "Slanted",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "디자인은 단순히 물건을 만드는 것이 아니라, 문화와 사람을 연결하는 강력한 도구입니다.",
+      "tags": [
+        "디지털",
+        "툴",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "협업"
+      ],
+      "why": "디지털과 종이의 융합이 새로운 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "오스카 수상작 듄의 인상적인 이미지들",
+      "summary": "드니 빌뇌브 감독의 영화 듄은 94회 아카데미 시상식에서 여섯 개의 상을 수상하며 큰 성공을 거두었습니다. 이 영화는 팀 로시와 젠다야의 출연으로 더욱 주목받고 있습니다.",
+      "url": "https://www.fubiz.net/2023/01/11/impressive-images-from-the-oscar-winning-movie-dunes/",
+      "source": "Fubiz",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "Denis Villeneuve",
+      "creator_insight": "영화는 꿈을 꾸는 것과 같습니다. 그것은 관객들에게 새로운 세계를 탐험하고 감정을 느끼게 하는 마법 같은 경험을 제공합니다.",
+      "tags": [
+        "영화",
+        "아카데미",
+        "이미지"
+      ],
+      "execution_techniques": [
+        "영화 제작"
+      ],
+      "why": "영화의 시각적 효과가 깊은 인상을 줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.fubiz.net/wp-content/uploads/2022/04/Main_Page-5-4-scaled.jpg",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "플러시 숭배자를 위한 일본의 첫 번째 신사",
+      "summary": "일본에서는 플러시 숭배자들을 위한 신사가 새로 개장되었습니다. 이곳은 인형 애호가들이 모여 서로의 취미를 공유할 수 있는 특별한 장소입니다.",
+      "url": "https://spoon-tamago.com/japan-first-plushie-shrine/",
+      "source": "Spoon & Tamago",
+      "domain": "CULTURE",
+      "category": "리뷰",
+      "creator_name": "Tadao Ando",
+      "creator_insight": "건축은 삶과 환경을 연결하는 다리입니다. 우리가 사는 공간은 우리의 사고방식과 삶의 방식을 형성합니다.",
+      "tags": [
+        "문화",
+        "인형",
+        "신사"
+      ],
+      "execution_techniques": [
+        "문화적 전통"
+      ],
+      "why": "현대와 전통의 융합이 독특합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "타이완의 섬세한 거리 사진",
+      "summary": "타이베이 완화구의 번잡한 도시 활동에서 벗어나 짧은 휴식을 취하는 사람들의 사진을 담았습니다. 이 작품은 일상의 순간들을 아름답게 포착합니다.",
+      "url": "https://www.lensculture.com/articles/vladimir-khorev-characters-subtle-street-photography-from-taiwan",
+      "source": "lensculture.com",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "Rinko Kawauchi",
+      "creator_insight": "사진은 일상의 소중함을 발견하는 도구입니다. 그것은 우리가 보지 못했던 순간을 포착하고, 그 속에서 새로운 의미를 찾아내게 합니다.",
+      "tags": [
+        "사진",
+        "거리",
+        "일상"
+      ],
+      "execution_techniques": [
+        "거리 사진"
+      ],
+      "why": "일상 속에서 발견되는 아름다움을 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://images.lensculture.com/image/6c50ec56-8d80-47d7-79be-50f1c9241000/large",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "패션 언폴디드",
+      "summary": "패션의 새로운 해석을 통해 독창적 스타일을 제안합니다. 이 프로젝트는 전통과 현대적 감각의 조화를 이룹니다.",
+      "url": "https://www.behance.net/gallery/251708465/Fashion-Unfolded",
+      "source": "Behance",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "나는 디자인이 세상을 바꿀 수 있다고 믿는다. 나의 목표는 젊은이들에게 그들의 꿈을 실현할 수 있는 플랫폼을 제공하는 것이다.",
+      "tags": [
+        "패션",
+        "스타일",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "스타일링"
+      ],
+      "why": "패션의 경계를 넓히는 시각이 매력적입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/246337251708465.Y3JvcCwxNjM2LDEyODAsMTIsMA.jpg",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "혁신적 웹사이트 브랜딩",
+      "summary": "Ainur Yusupov는 SPACERA를 위한 미래지향적 웹사이트 아이덴티티를 런칭했습니다. 어두운 레이아웃과 전략적 브랜딩을 결합하여 기업 자산을 재구성했습니다.",
+      "url": "https://abduzeedo.com/ainur-yusupov-designs-futuristic-corporate-website-branding/",
+      "source": "abduzeedo.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "디자인은 단순히 문제 해결이 아니라, 그 문제를 다르게 볼 수 있는 새로운 시각을 제공해야 한다고 생각합니다.",
+      "tags": [
+        "웹디자인",
+        "브랜딩",
+        "미래"
+      ],
+      "execution_techniques": [
+        "브랜딩 전략"
+      ],
+      "why": "웹디자인의 새로운 경지를 개척합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/spacera-corporate-website-for-a-design-studio_0.png",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "장 폴 고티에의 두란 란틴크",
+      "summary": "두란 란틴크는 마리 앙투아네트를 참고하여 장 폴 고티에에서 그의 오뜨 꾸뛰르 데뷔를 화려하게 선보였습니다. 이 컬렉션은 18세기를 미래로 끌어들이며 혁신적인 패션을 제안합니다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17313/duran-lantink-jean-paul-gaultier-haute-couture-ss26-review",
+      "source": "anothermag.com",
+      "domain": "FASHION",
+      "category": "리뷰",
+      "creator_name": "Jean Paul Gaultier",
+      "creator_insight": "패션은 단지 옷을 만드는 것이 아니라 사람들에게 자신감을 주고, 그들의 개성을 표현할 수 있는 방법을 제공하는 것입니다.",
+      "tags": [
+        "패션",
+        "오뜨 꾸뛰르",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "컬렉션 디자인"
+      ],
+      "why": "역사적 요소와 현대적 창의성의 융합이 돋보입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "왜 이 작품은 높은 평가를 받았을까",
+      "summary": "간단한 마음으로 시작했다가 치밀한 스토리와 심리 묘사에 빠져든 미스터리 애니메이션의 걸작을 분석합니다. 이 작품은 세심한 심리적 깊이와 스토리텔링으로 감탄을 자아냅니다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=81617",
+      "source": "Unknown Source",
+      "domain": "ANIMATION",
+      "category": "리뷰",
+      "creator_name": "미야자키 하야오",
+      "creator_insight": "진짜 성장은 편안한 곳에서 벗어나는 것에서 시작됩니다. - 미야자키 하야오",
+      "tags": [
+        "애니메이션",
+        "스토리텔링",
+        "평가"
+      ],
+      "execution_techniques": [
+        "심리 묘사"
+      ],
+      "why": "심오한 심리적 접근이 작품을 돋보이게 만듭니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2607/20260712130046_evyfafvl.jpg",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "키드배쉬: 클래식 SNES 게임처럼 렌더링된 블렌더 게임",
+      "summary": "이 인디 게임은 Donkey Kong Country의 유명한 그래픽 트릭을 되살리고 있습니다. 블렌더를 활용하여 클래식한 게임 그래픽을 재현합니다.",
+      "url": "https://www.creativebloq.com/3d/video-game-design/kidbash-super-legend-is-built-in-blender-but-rendered-like-a-classic-snes-game",
+      "source": "Creative Bloq",
+      "domain": "GAMES",
+      "category": "리뷰",
+      "creator_name": "Shigeru Miyamoto",
+      "creator_insight": "나는 항상 즐거운 것을 만들고 싶어한다. 내가 재미있다고 생각하는 게임을 만들면, 다른 사람들도 재미있게 즐길 것이라고 믿는다.",
+      "tags": [
+        "게임",
+        "그래픽",
+        "레트로"
+      ],
+      "execution_techniques": [
+        "그래픽 디자인"
+      ],
+      "why": "클래식과 현대 기술의 융합이 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/tr6SwuWyyR7AYuvxP2oicg-1280-80.jpg",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "비주얼 아티스트 마이클 헤이트의 창작 거리",
+      "summary": "마이클 헤이트는 자신의 삶을 작품으로 만드는 데 필요한 거리와 과정에 대해 이야기합니다. 그의 스튜디오에서의 하루를 통해 창작의 여정을 탐구합니다.",
+      "url": "https://thecreativeindependent.com/people/visual-artist-michael-haight-on-the-distance-it-takes-to-make-work-from-your-own-life/",
+      "source": "Creative Independent",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Stefan Sagmeister",
+      "creator_insight": "행복한 디자인은 단순히 기능적이지 않고, 우리를 놀라게 하고 감동시키며, 삶에 의미를 더합니다.",
+      "tags": [
+        "비주얼 아트",
+        "창작",
+        "삶"
+      ],
+      "execution_techniques": [
+        "예술적 탐구"
+      ],
+      "why": "개인적 경험을 예술로 승화시키는 과정이 흥미롭습니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.filestackcontent.com/resize=width:800/koMzAfhKTReX5dopcfBV",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "광호신, 드로잉",
+      "summary": "광호신의 작품은 강렬한 색채와 형태로 감각적인 경험을 선사합니다. 그의 드로잉은 보는 이로 하여금 새로운 시각적 탐험을 가능하게 합니다.",
+      "url": "https://www.behance.net/gallery/251869211/Kwangho-Shin-Drawing",
+      "source": "Behance",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "김광호",
+      "creator_insight": "예술은 늘 새로움을 갈망하며, 우리의 일상에 스며들어야 한다.",
+      "tags": [
+        "드로잉",
+        "색채",
+        "형태"
+      ],
+      "execution_techniques": [
+        "드로잉"
+      ],
+      "why": "시각적 자극과 창의적인 상상력을 자극합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/564ced251869211.Y3JvcCwzMTU4LDI0NzAsMCw3NzM.jpeg",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "Remembering Sam Neill",
+      "summary": "I never got to meet Sam Neill, but I thought of him as a neighbor for a very specific reason: like me, he had sat in the front row to watch ...",
+      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
+      "source": "Filmmaker Magazine",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "디지털 기술과 예술의 결합은 새로운 경험을 제공하며, 소셜 미디어를 통해 빠르게 확산되고 있습니다.",
+      "depth": 0.5,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "패션과 테크의 경계를 넘다",
+      "summary": "최신 기술을 활용한 혁신적 패션 디자인이 큰 반향을 일으키고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-11-popcorn-1",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "패션 산업에서 기술의 도입은 지속 가능한 미래를 위한 새로운 패러다임을 제시하며, 대중의 관심을 끌고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    },
+    {
+      "title_ko": "건축의 미래를 제시하는 가상현실",
+      "summary": "가상현실 기술을 통한 건축 설계의 혁신적인 접근이 화제가 되고 있습니다.",
+      "url": "https://coolhunting.com/culture/2026-07-11-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "가상현실은 건축 설계의 새로운 가능성을 열며, 특히 교육과 체험적 학습에 큰 기여를 하고 있습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1580910051243-1d4e4cd8405d?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "2026-07-11T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "미래지향적 유산",
+      "is_hot": false
+    },
+    {
+      "word": "문화적 경계 허물기",
+      "is_hot": true
+    }
+  ]
+}

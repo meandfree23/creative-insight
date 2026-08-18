@@ -1,0 +1,358 @@
+{
+  "date": "ver.1",
+  "focusQ": "Agent's Thought: 동시대 창작의 흐름은 경계를 허물고 다양한 분야의 융합을 촉진하는데, 이는 새로운 미적 언어를 창조하고 문화적 맥락을 풍부하게 합니다. 이러한 창작의 물결은 디지털과 자연, 전통과 현대의 조화를 통해 예술의 새로운 경지를 개척하고 있습니다.",
+  "creator_message": "큐레이터의 메시지: 오늘의 테마는 다층적 미학의 융합입니다. 다양한 분야의 창작물들이 어떻게 서로에게 영감을 주고, 더 나아가 새로운 창작의 가능성을 열어가는지를 탐구합니다. 함께 창조적 여정을 떠나봅시다.",
+  "session": {
+    "timestamp": "2026-07-29T06:25:03.937212",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title_ko": "자연과의 연결을 창조하는 Patrick Dougherty의 'Stickwork' 설치 예술",
+      "summary": "Patrick Dougherty의 설치 예술은 자연과의 연결을 테마로 한 공공 조각을 통해 자연의 아름다움을 재조명합니다. 그의 작품은 버드나무 묘목을 사용하여 자연과 인간의 조화를 이루고 있습니다.",
+      "url": "https://www.thisiscolossal.com/2026/07/patrick-dougherty-stickwork-public-sculpture-willow-saplings/",
+      "source": "Colossal",
+      "domain": "ART",
+      "category": "리뷰",
+      "creator_name": "Patrick Dougherty",
+      "creator_insight": "Patrick Dougherty는 자연의 유기적 형태와 재료를 활용하여 관람자와 환경 사이의 깊은 연결을 형성하는 설치 예술 작품을 창조합니다.",
+      "tags": [
+        "자연예술",
+        "공공조각",
+        "버드나무"
+      ],
+      "execution_techniques": [
+        "BiophilicForm"
+      ],
+      "why": "1) 자연과의 연결에 대한 현대적 시각을 제공하며, 2) 자연 재료를 이용한 독창적인 설치 기법을 보여줍니다. 3) 시각적으로 흥미로운 작품으로, 4) 조경 디자인과 환경 예술 분야에 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/dougherty-8.jpeg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "혁신적인 재활용 솔루션으로 치약 튜브에 도전하는 Suri",
+      "summary": "Suri는 혁신적인 리필 가능한 솔루션을 통해 환경 문제를 해결하고자 합니다. 이 디자인은 지속 가능성을 중심으로 한 혁신적 접근을 보여줍니다.",
+      "url": "https://thedieline.com/suri-takes-on-the-toothpaste-tube-with-its-innovative-and-refillable-solution/",
+      "source": "The Dieline",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Suri",
+      "creator_insight": "Suri는 지속 가능한 미래를 위해 치약 튜브의 재활용 가능성을 혁신적으로 탐구하며 디자인에 환경 친화적 철학을 반영하고 있습니다.",
+      "tags": [
+        "지속가능디자인",
+        "재활용",
+        "혁신상품"
+      ],
+      "execution_techniques": [
+        "SustainableDesign"
+      ],
+      "why": "1) 지속 가능성에 대한 현대적 요구를 반영하며, 2) 리필 가능한 디자인을 통해 새로운 재활용 방법을 제시합니다. 3) 시각적으로 매력적인 제품 디자인으로, 4) 제품 디자인과 환경 공학 분야에 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://thedieline.com/wp-content/uploads/2026/07/EDIT_suri_23_04_264905_V2-1.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "디즈니랜드 파리 (35 mm 필름 버전)",
+      "summary": "디즈니랜드 파리의 사진 시리즈는 35 mm 필름을 통해 기억 속의 순간을 포착합니다. 이 작품은 아날로그 감성을 현대적으로 재해석합니다.",
+      "url": "https://www.behance.net/gallery/253305009/DisneyLand-Paris-%2835-mm-film-version%29",
+      "source": "Behance",
+      "domain": "PHOTOGRAPHY",
+      "category": "리뷰",
+      "creator_name": "Unknown",
+      "creator_insight": "디즈니랜드 파리를 35mm 필름으로 촬영한 작품은 창작자의 감성이 담긴 유니크한 시각적 해석을 통해 마치 동화 속 한 장면을 보는 듯한 느낌을 선사합니다.",
+      "tags": [
+        "필름사진",
+        "디즈니랜드",
+        "아날로그"
+      ],
+      "execution_techniques": [
+        "AnalogPhotography"
+      ],
+      "why": "1) 아날로그 감성을 현대적으로 재해석하여, 2) 필름 사진의 독특한 질감과 분위기를 전달합니다. 3) 시각적 가치가 높은 작품으로, 4) 사진 예술과 그래픽 디자인에 새로운 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/34bed1253305009.Y3JvcCw5NzcsNzY0LDEyMSwzMw.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "프라이빗 아일랜드에서의 Bunker Boyz",
+      "summary": "Bunker Boyz는 프라이빗 아일랜드에서 독특한 공간적 경험을 제공하며, 관객들에게 새로운 시각적 탐험을 제안합니다.",
+      "url": "https://motionographer.com/quickie/bunker-boyz-private-island/",
+      "source": "Unknown Source",
+      "domain": "FILM",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 세상을 바라보는 방식을 변화시키고, 새로운 가능성을 열어주는 중요한 수단입니다.",
+      "tags": [
+        "프라이빗섬",
+        "영화예술",
+        "시각적탐험"
+      ],
+      "execution_techniques": [
+        "SpatialDesign"
+      ],
+      "why": "1) 독특한 공간적 경험을 제공하며, 2) 시각적 탐험을 통해 영화와 건축의 경계를 허무는 작품입니다. 3) 시각 예술과 공간 디자인으로서의 가치를 높이고, 4) 건축과 영화 예술에 새로운 영감을 줄 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/image-2026-06-19T123436.048-ezgif.com-overlay-700x394.png",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "13 Best Washable Rugs, Tested and Reviewed (2026)",
+      "summary": "Easily refreshable textiles for spaces that see the highest foot traffic...",
+      "url": "https://www.architecturaldigest.com/story/best-machine-washable-rug",
+      "source": "architecturaldigest.com",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "architecturaldigest.com",
+      "creator_insight": "architecturaldigest.com의 이번 에디션은 동시대 시각 언어와 조형적 미학을 정교하게 담아냅니다.",
+      "tags": [
+        "디자인",
+        "미학"
+      ],
+      "execution_techniques": [
+        "BiophilicForm"
+      ],
+      "why": "자연과 디자인의 조화를 통해 시각적 가치와 생태적 인식을 높입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://media.architecturaldigest.com/photos/6893bd0df8cb38e2fd2dc320/master/pass/AD0623_FIGUERAS_7.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "혁신적 디자인의 진화",
+      "summary": "혁신적이고 실용적인 디자인 접근 방식으로 시대를 앞서갑니다.",
+      "url": "https://www.itsnicethat.com/articles/ver.1-item-5",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Dieter Rams",
+      "creator_insight": "좋은 디자인은 최대한의 단순함을 통해 이뤄집니다.",
+      "tags": [
+        "디자인",
+        "기능성"
+      ],
+      "execution_techniques": [
+        "SubtractiveSculpture"
+      ],
+      "why": "단순함을 통한 혁신은 모든 시대에 적용 가능한 보편성을 가집니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1563225402-9fd218a5e4af?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "현대 건축의 유려한 곡선",
+      "summary": "유려한 곡선과 독창적인 건축 디자인으로 새로운 공간을 창출합니다.",
+      "url": "https://www.itsnicethat.com/articles/ver.1-item-6",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Zaha Hadid",
+      "creator_insight": "건축은 단지 건물이 아닌, 삶의 방식입니다.",
+      "tags": [
+        "건축",
+        "현대성"
+      ],
+      "execution_techniques": [
+        "KineticStructure"
+      ],
+      "why": "곡선의 미학은 데이터와 기능을 넘어 감성을 자극합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1590487981182-0f3a6d7a8cfa?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "공간의 미학적 혁신",
+      "summary": "미학과 기능이 조화된 혁신적인 공간 디자인을 탐구합니다.",
+      "url": "https://www.itsnicethat.com/articles/ver.1-item-7",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Tadao Ando",
+      "creator_insight": "빛은 공간을 정의하고, 감정을 불러일으킵니다.",
+      "tags": [
+        "건축",
+        "미니멀리즘"
+      ],
+      "execution_techniques": [
+        "Glassmorphism"
+      ],
+      "why": "빛과 공간의 상호작용을 통해 시각적 충격을 제공하고 공간 경험을 새롭게 합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "창의성을 자극하는 색상",
+      "summary": "다양한 색상의 조합을 통해 창의적인 표현을 탐색합니다.",
+      "url": "https://www.itsnicethat.com/articles/ver.1-item-8",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Paul Rand",
+      "creator_insight": "디자인은 단순한 예술이 아닌, 문제 해결입니다.",
+      "tags": [
+        "그래픽 디자인",
+        "색상"
+      ],
+      "execution_techniques": [
+        "Neubrutalism"
+      ],
+      "why": "색상은 감정과 행동을 유도하는 강력한 도구로서 다양한 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1542744095-291d1f67b221?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "공간의 경계를 넘는 창조성",
+      "summary": "공간의 경계를 넘나드는 실험적 디자인을 통해 혁신적인 결과를 창출합니다.",
+      "url": "https://www.itsnicethat.com/articles/ver.1-item-9",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Frank Gehry",
+      "creator_insight": "우리는 유연성을 통해 계속해서 변화를 창조해야 합니다.",
+      "tags": [
+        "건축",
+        "혁신"
+      ],
+      "execution_techniques": [
+        "KineticStructure"
+      ],
+      "why": "공간의 혁신은 건축과 예술의 경계를 넘나드는 창의적 탐구를 가능하게 합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1579547621706-1a9c79d5f388?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "패션과 건축의 융합",
+      "summary": "패션의 요소를 건축 디자인에 접목하여 새로운 공간을 창출합니다.",
+      "url": "https://www.itsnicethat.com/articles/ver.1-item-10",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Virgil Abloh",
+      "creator_insight": "미래의 디자인은 경계를 모호하게 만드는 것입니다.",
+      "tags": [
+        "패션",
+        "건축"
+      ],
+      "execution_techniques": [
+        "Glassmorphism"
+      ],
+      "why": "패션과 건축의 결합은 새로운 형태와 기능을 탐구하는 창의적 기회를 제공합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "미래지향적 제품 디자인",
+      "summary": "미래를 위한 혁신적이고 창의적인 제품 디자인을 탐구합니다.",
+      "url": "https://www.itsnicethat.com/articles/ver.1-item-11",
+      "source": "It's Nice That",
+      "domain": "DESIGN",
+      "category": "리뷰",
+      "creator_name": "Faye Toogood",
+      "creator_insight": "디자인은 사람과 환경을 연결하는 도구입니다.",
+      "tags": [
+        "제품 디자인",
+        "미래"
+      ],
+      "execution_techniques": [
+        "Neubrutalism"
+      ],
+      "why": "혁신적 제품 디자인은 인간 경험을 확장하고 새로운 가능성을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "ver.1T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title_ko": "투명한 메커니즘: 코쿠요의 새로운 컬렉션",
+      "summary": "코쿠요는 투명한 메커니즘을 통해 그들의 엔지니어링을 공개합니다.",
+      "url": "https://spoon-tamago.com/kokuyo-transparent-mechanism/?utm_source=rss&utm_medium=rss&utm_campaign=kokuyo-transparent-mechanism",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "투명성",
+        "메커니즘"
+      ],
+      "execution_techniques": [
+        "TransparentDesign",
+        "FunctionalAesthetics"
+      ],
+      "why": "1) 혁신적 투명 메커니즘, 2) 엔지니어링의 시각적 매력, 3) 기능성과 디자인의 융합",
+      "depth": 0.5,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/07/KOKUYO-Transparent-Mechanism-6-200x134.jpeg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "Queen Victoria’s Dining Chairs and a Bronze Cat Faucet Create the “Right Mix of Weirdness” in This 1920s LA Home",
+      "summary": "Barry Fox and June Street Architecture helped their clients thoughtfully personalize the historic Hancock Park house...",
+      "url": "https://www.architecturaldigest.com/story/barry-fox-designed-los-angeles-home",
+      "source": "architecturaldigest.com",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "이 콘텐츠는 창의적인 접근 방식과 감성적인 접근으로 대중의 관심을 끌었습니다.",
+      "depth": 0.5,
+      "image": "https://media.architecturaldigest.com/photos/6a625c05f9330de63cc69d94/master/pass/260414_Barry_Fox_Las_Palmas_0208.jpg",
+      "pub_date": "ver.1T08:00:00.000000"
+    },
+    {
+      "title_ko": "감성을 자극하는 스토리텔링",
+      "summary": "감성을 자극하는 스토리텔링의 힘을 보여줍니다.",
+      "url": "https://coolhunting.com/culture/ver.1-popcorn-2",
+      "source": "Cool Hunting",
+      "domain": "POPCORN",
+      "category": "바이럴",
+      "tags": [
+        "바이럴"
+      ],
+      "why": "감성적 스토리텔링은 대중의 감정을 자극하며 큰 반향을 일으켰습니다.",
+      "depth": 0.5,
+      "image": "https://images.unsplash.com/photo-1532634726-8b9fb9981dbe?auto=format&fit=crop&w=800&q=80",
+      "pub_date": "ver.1T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": false
+    },
+    {
+      "word": "서브컬처의 제도화",
+      "is_hot": true
+    },
+    {
+      "word": "촉각적 경험 극대화",
+      "is_hot": true
+    },
+    {
+      "word": "투명성의 미학",
+      "is_hot": false
+    }
+  ]
+}
