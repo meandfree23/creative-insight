@@ -1,0 +1,400 @@
+{
+  "date": "2026-08-08",
+  "focusQ": "Agent's Thought: 생성형 기술의 범람 속에서 기계적 완벽함은 이미 진부한 기본값이 되었습니다. 시각 예술과 브랜드 씬 전반은 이제 의도된 불완전성과 손끝의 물성, 그리고 철저히 계산된 미니멀리즘으로 회귀하고 있습니다. 결국 소비자의 시선을 붙잡는 유일한 기준은 명확한 연출 철학과 독보적인 태도입니다.",
+  "creator_message": "큐레이터의 메시지: 얄팍한 트렌드 키워드로 포장된 양산형 작업물은 이제 아무런 감흥을 주지 못합니다. 형태의 과잉을 덜어내고 물질의 본질과 직관적인 서사에 집중한 결과물만이 살아남습니다. 이번 리스트에서 진짜 오리지널리티의 단초를 포착하시기 바랍니다.",
+  "session": {
+    "timestamp": "2026-08-18T03:14:01.526397",
+    "considered": 40,
+    "selected": 16
+  },
+  "topPicks": [
+    {
+      "title": "구글 픽셀 11의 역발상 피치: '화면에서 눈을 떼게 만드는 가장 똑똑한 폰'",
+      "content": "구글이 픽셀 11 시리즈를 공개하며 디지털 피로감에 지친 사용자들을 겨냥한 'Reclaim The Moment' 캠페인을 전개합니다. 기기 사용 시간을 늘리는 대신 일상의 순간에 집중하도록 돕는 역설적 브랜드 포지셔닝을 취했습니다.",
+      "url": "https://www.campaignlive.com/article/google-pixels-challenger-brand-pitch-the-smartest-phone-lets-look-away-it/1967442",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Google Creative Team",
+      "creator_insight": "더 많은 스크린 타임을 갈구하는 빅테크의 탐욕 사이에서 역설적으로 '화면을 보지 말라'고 외치는 고단수 반어법 전략을 설계했습니다.",
+      "tags": [
+        "디지털디톡스",
+        "역발상브랜딩",
+        "테크캠페인"
+      ],
+      "execution_techniques": [
+        "#ParadoxicalBranding",
+        "#AntiScreenNarrative"
+      ],
+      "why": "기능 중심의 스펙 나열에서 벗어나 라이프스타일 해방을 제안하는 캠페인 설계는 테크 브랜딩이 취해야 할 가장 정교한 서사적 전환점입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "2026년 12월 개관 확정: 프랭크 게리의 구겐하임 아부다비",
+      "content": "사디야트 문화지구에 들어서는 프랭크 게리 설계의 구겐하임 아부다비가 2026년 12월 공식 개관을 확정했습니다. 거대한 원추형 구조물과 중동 전통 통풍탑 요소를 해체주의 건축 언어로 재해석한 랜드마크 프로젝트입니다.",
+      "url": "https://www.adfwebmagazine.jp/en/architect/the-guggenheim-abu-dhabi-is-set-to-open-in-december-2026/",
+      "source": "ADF Web Magazine",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Frank Gehry",
+      "creator_insight": "지역 고유의 기후 환경과 건축적 유산을 해체주의적 거대 블록과 융합하여 기념비적 조형미를 완성했습니다.",
+      "tags": [
+        "해체주의",
+        "문화공간기획",
+        "메가스트럭처"
+      ],
+      "execution_techniques": [
+        "#DeconstructiveMassing",
+        "#ContextualMonument"
+      ],
+      "why": "도시 브랜딩과 뮤지엄 아키텍처가 결합할 때 발생하는 물리적 스케일감과 공간 경험의 극치를 보여주는 기준점입니다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/08/adf-web-magazine-guggenheim-abu-dhabi-1-300x200.jpg",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "쥘 게랑의 우주적 창조 신화 애니메이션: 'Deneb'",
+      "content": "비메오 스태프 픽에 선정된 쥘 게랑의 실험 단편 애니메이션으로, 눈물과 별, 연인과 뱀을 매개로 한 우주적 탄생 신화를 독창적인 비주얼로 전개합니다. 유기적인 선화와 감각적인 색채 연출이 돋보입니다.",
+      "url": "https://vimeo.com/channels/staffpicks/1202458167",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Jules Guérin",
+      "creator_insight": "정형화된 3D 렌더링에 매몰되지 않고 손그림 특유의 유동적 질감과 상징주의적 미장센으로 초월적 서사를 직조했습니다.",
+      "tags": [
+        "단편애니메이션",
+        "신화적미장센",
+        "실험영상"
+      ],
+      "execution_techniques": [
+        "#FluidMetaphorAnimation",
+        "#SymbolicColorGrading"
+      ],
+      "why": "비선형적 내러티브와 유기적 비주얼 텍스처가 어떻게 관객의 감각을 자극하는지 보여주는 연출 레퍼런스입니다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://i.vimeocdn.com/video/2172370543-df2deedde80f1cb18b10237c186ca0b8f8e2f95bab93a78c4cd5fcf9ebdfedf0-d_960?region=us",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "비노럴의 구형 캡 패키징: 통제된 맥시멀리즘의 정수",
+      "content": "향수 브랜드 비노럴이 구형 캡과 볼드한 타이포그래피를 결합한 새로운 보틀 디자인을 선보였습니다. 과장된 실루엣과 정제된 디테일의 균형을 통해 독보적인 시각적 무게감을 구축했습니다.",
+      "url": "https://thedieline.com/binaurale-goes-for-contained-maximalism-with-globe-capped-perfume-bottles/",
+      "source": "The Dieline",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Bobby Doherty",
+      "creator_insight": "미니멀리즘 일색인 뷰티 패키지 시장에서 기하학적 형태의 과감한 변주를 통해 촉각적 오브제로서의 위상을 확보했습니다.",
+      "tags": [
+        "패키지디자인",
+        "오브제미학",
+        "보틀디렉팅"
+      ],
+      "execution_techniques": [
+        "#GeometricProportion",
+        "#TactileObjectification"
+      ],
+      "why": "단순한 용기를 넘어 독립된 조형 예술품으로 기능하는 하이엔드 패키지 설계의 표본입니다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://thedieline.com/wp-content/uploads/2026/08/BNRL_AGROUP_2_BOBBY-DOHERTY.jpg",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "마이클 하이저의 대지미술 'City'를 디지털로 재현한 인디 비디오 게임",
+      "content": "디지털 아티스트 릴리 벨미라가 네바다 사막에 위치한 마이클 하이저의 전설적인 대지미술 작품 'City'를 가상 공간에 구현한 무료 게임을 공개했습니다. 접근이 극도로 제한된 거대 구조물을 디지털 렌더링으로 체험하게 합니다.",
+      "url": "https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/",
+      "source": "Artforum",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Lily Belmira",
+      "creator_insight": "폐쇄적인 물리적 예술 공간을 게임 엔진 인터랙션으로 해방시키며 원작의 공간감을 화면 너머로 전이시켰습니다.",
+      "tags": [
+        "대지미술",
+        "인터랙티브아트",
+        "가상공간"
+      ],
+      "execution_techniques": [
+        "#SpatialDigitization",
+        "#VirtualPreservation"
+      ],
+      "why": "모뉴멘털 아트를 디지털 환경으로 번역하는 과정에서 나타나는 스케일과 공감각적 연출의 훌륭한 연구 사례입니다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://placehold.co/800x600/3f3f46/FFFFFF?text=Artforum%0A%28ART%29&font=playfair-display",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "한국형 AI Agent 기반 자동화 열풍과 콘텐츠 생태계의 이면",
+      "content": "국내 테크 및 크리에이터 커뮤니티를 중심으로 n8n과 LLM 에이전트를 결합한 자동화 파이프라인 구축 강의가 폭발적인 인기를 끌고 있습니다. 생산성 중심의 알고리즘 설계가 창작 전반의 문법을 재편하고 있습니다.",
+      "url": "https://blog.naver.com/nkj2001/223982790267?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Inflearn AI Creator Network",
+      "creator_insight": "단순한 툴 활용을 넘어 제작 공정 자체를 프로그래머블하게 조작하는 구조적 파이프라인으로 크리에이티브 워크플로우를 전환했습니다.",
+      "tags": [
+        "워크플로우자동화",
+        "콘텐츠파이프라인",
+        "국내테크트렌드"
+      ],
+      "execution_techniques": [
+        "#AutonomousWorkflow",
+        "#AlgorithmicProduction"
+      ],
+      "why": "국내 크리에이터 생태계가 기술 수용을 넘어 시스템적 생산 체계로 전환되고 있음을 보여주는 실질적 지표입니다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://blogthumb.pstatic.net/MjAyNTA4MjVfMjM0/MDAxNzU2MTAwNjIwMTM5.WBch_gHK3t1Epsd8h7fSzlO7n39yzoYPWsEUwtPw6qcg.eCUdIDV_QmhqiPi_8KVLdQNPc8l0GMmg0skneRQJQnAg.PNG/image.png?type=s3",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "런던 비치워스 클로즈: 1960년대 모더니즘 주택의 테라조와 대리석 복원",
+      "content": "데이트립 스튜디오가 패트릭 귄의 유산인 1960년대 런던 주택의 평면과 테라조 계단, 대리석 선반을 현대적 감각으로 완벽히 복원했습니다. 구조적 원형을 훼손하지 않으면서 질감의 대비를 정밀하게 재구성했습니다.",
+      "url": "https://www.architecturaldigest.com/story/this-restored-london-home-proves-that-terrazzo-stairs-and-marble-shelves-never-go-out-of-style",
+      "source": "architecturaldigest.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Daytrip Studio",
+      "creator_insight": "시대착오적인 덧칠을 배제하고 오리지널 건축가가 남긴 재료 본연의 비례감과 표면감을 정제된 미니멀리즘으로 부활시켰습니다.",
+      "tags": [
+        "공간복원",
+        "모더니즘인테리어",
+        "물성대비"
+      ],
+      "execution_techniques": [
+        "#MaterialRestoration",
+        "#MidCenturyReinterpretation"
+      ],
+      "why": "트렌드에 휘둘리지 않고 본질적인 물성과 비례만으로 지속 가능한 공간 미학을 증명한 마스터피스입니다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://media.architecturaldigest.com/photos/6a5fc14415bd063b0e7b3190/master/pass/Daytrip_Studio_Beechworth_Close_4.jpg",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "AI의 매끈함을 거부하다: 디지털 아티스트들이 선택한 '의도된 불완전성'",
+      "content": "인공지능이 생성하는 티 없이 매끄러운 이미지에 반발하여, 글로벌 디지털 아티스트들이 손맛이 묻어나는 결함과 노이즈, 왜곡된 질감을 적극적으로 도입하고 있습니다. 완벽함에 대한 피로가 물질적 텍스처의 가치를 복원하고 있습니다.",
+      "url": "https://www.creativebloq.com/art/digital-art/ai-art-is-making-digital-artists-embrace-imperfections-heres-how",
+      "source": "Creative Bloq",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Creative Bloq Editorial",
+      "creator_insight": "알고리즘적 무결성에 대항하여 아날로그적 흠집과 오차를 시각적 저항의 표식으로 전면에 내세웠습니다.",
+      "tags": [
+        "불완전성의미학",
+        "아날로그텍스처",
+        "시각적노이즈"
+      ],
+      "execution_techniques": [
+        "#IntentionalFlaw",
+        "#TactileNoiseTexturing"
+      ],
+      "why": "AI 과포화 시대에 인간 창작자만의 진정성과 차별화된 미학을 구축하기 위해 필수적인 방향성입니다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cdn.mos.cms.futurecdn.net/X4dHEurP2Gsan64GB3iyZb-1280-80.jpg",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "블레이드 러너의 빗속 눈물에서 착안한 3D 하드서피스 웨더링 디렉팅",
+      "content": "3D 아티스트 드라고슬라프 부그델리야가 영화 '블레이드 러너'의 독백에서 영감을 받아 금속, 유리, 플라스틱 표면의 시간적 마모와 손상을 조각하는 정밀한 파이프라인을 공개했습니다.",
+      "url": "https://80.lv/articles/how-to-sculpt-surface-damage-and-wear-on-a-sci-fi-prop/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Dragoslav Vugdelija",
+      "creator_insight": "단순한 텍스처 매핑을 넘어 오브제가 거쳐온 서사적 시간성을 표면의 흠집과 산화 디테일로 형상화했습니다.",
+      "tags": [
+        "3D디렉팅",
+        "표면질감",
+        "하드서피스"
+      ],
+      "execution_techniques": [
+        "#NarrativeWeathering",
+        "#SubsurfaceScattering"
+      ],
+      "why": "소품 하나에도 서사를 부여하는 미시적 디테일 연출이 전체 비주얼의 사실감을 결정짓는 방식을 증명합니다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://cdn.80.lv/api/upload/post/41246/images/6a7f8c182ffc1/cover_800x800.jpg",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "나즈라엘리 프레스 40년: 독립 사진집 출판의 영속성과 큐레이션",
+      "content": "나즈라엘리 프레스의 설립자 크리스 피클러가 40년간 이어온 독립 사진집 출판의 궤적과 물리적 책이 지닌 지속적 매체력에 대해 논의합니다. 디지털 스크롤이 결코 대체할 수 없는 제본과 인쇄의 촉각적 가치를 조명합니다.",
+      "url": "https://www.lensculture.com/articles/chris-pichler-nazraeli-press-interview-with-photobook-publisher-chris-pichler",
+      "source": "lensculture.com",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Chris Pichler",
+      "creator_insight": "빠르게 소비되고 소멸하는 디지털 이미지에 맞서 종이의 무게와 페이지 넘김의 리듬을 통해 영구적인 시각 경험을 완성했습니다.",
+      "tags": [
+        "사진집아카이브",
+        "독립출판",
+        "물리적매체"
+      ],
+      "execution_techniques": [
+        "#EditorialPacing",
+        "#PrintTactility"
+      ],
+      "why": "시각 내러티브를 가장 순수하고 권위 있는 물리적 형태로 아카이빙하는 편집 철학의 교과서입니다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://images.lensculture.com/image/c5e043dd-b576-4606-6f11-564e0064f500/large",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "이케아의 아트 민주화 프로젝트: 신규 컬렉션 'KONSTRUNDA'",
+      "content": "이케아가 예술품 수집의 문턱을 낮추기 위해 기획한 'KONSTRUNDA' 컬렉션을 발표했습니다. 현대 미술가들과의 협업을 통해 일상적인 생활 공간에 수준 높은 시각 예술을 자연스럽게 침투시키는 캠페인입니다.",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/08/ikea-collezione-konstrunda/",
+      "source": "Artribune",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "IKEA Creative Team",
+      "creator_insight": "하이엔드 예술의 배타성을 해체하고 대중적 유통망을 통해 미적 취향을 일상재로 보급하는 상업적 실천을 설계했습니다.",
+      "tags": [
+        "아트콜라보",
+        "대중화전략",
+        "브랜드캠페인"
+      ],
+      "execution_techniques": [
+        "#ArtDemocratization",
+        "#MassRetailCurating"
+      ],
+      "why": "접근하기 어려운 순수 예술을 대중적인 브랜드 플랫폼으로 끌어안아 새로운 가치를 창출하는 훌륭한 벤치마킹 사례입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/ph207105-scaled.jpg",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "일본 그래픽 디자인의 정점: 아이디어 매거진 No. 407",
+      "content": "타이포그래피와 시각 문화의 최전선을 기록하는 일본 대표 디자인 저널 '아이디어(IDEA)' 407호가 발간되었습니다. 인쇄 매체의 한계를 시험하는 정교한 그리드 시스템과 조형적 레이아웃 아카이브를 제공합니다.",
+      "url": "https://www.idea-mag.com/idea_magazine/idea-no-407/",
+      "source": "IDEA Magazine",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "IDEA Magazine Editorial Team",
+      "creator_insight": "타이포그래피의 엄격한 구조주의적 규칙을 바탕으로 실험적인 레이아웃 질서를 확립하여 시각적 긴장감을 유도했습니다.",
+      "tags": [
+        "타이포그래피",
+        "그리드시스템",
+        "에디토리얼"
+      ],
+      "execution_techniques": [
+        "#RigidGridSystem",
+        "#TypographicDiscipline"
+      ],
+      "why": "디지털 UI와 지면 편집 모두에 적용 가능한 절대적 타이포그래피 질서와 미학적 기준점을 제시합니다.",
+      "social_proof": "",
+      "depth": 0.84,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2024/09/idea_407_h1s-2-550x725.jpg",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "안티 AI 무브먼트의 태동과 디자이너의 생존 문법",
+      "content": "생성형 AI의 무분별한 도입에 맞서 크리에이티브 고유의 의사결정권과 오리지널리티를 방어하려는 'Anti-AI' 흐름이 디자이너들 사이에서 확산되고 있습니다. 도구의 종속에서 벗어나 디렉팅 역량을 강화해야 함을 역설합니다.",
+      "url": "https://medium.muz.li/how-designers-are-beating-ai-becoming-invaluable-5384c32e3fee?source=rss----5969bf7021a3---4",
+      "source": "Muzli (Medium)",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Muzli Design Network",
+      "creator_insight": "기능적 오퍼레이터의 역할을 과감히 버리고 전체 맥락을 통제하는 총괄 디렉터로서의 안목을 차별화 전략으로 규정했습니다.",
+      "tags": [
+        "크리에이티브전략",
+        "디자인철학",
+        "안티AI"
+      ],
+      "execution_techniques": [
+        "#CreativeDisruption",
+        "#HumanCentricDirection"
+      ],
+      "why": "기술 변화의 격랑 속에서 크리에이터가 유지해야 할 진정한 본질과 브랜딩 관점의 가치를 날카롭게 짚어냅니다.",
+      "social_proof": "",
+      "depth": 0.83,
+      "image": "https://cdn-images-1.medium.com/max/1024/1*a1_to7Fva9f21L1Yb9dm8A.jpeg",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "크라운 로열과 쥬시 꾸뛰르의 만남: Y2K 벨벳 위스키 드롭",
+      "content": "위스키 브랜드 크라운 로열과 2000년대 Y2K 감성의 상징 쥬시 꾸뛰르가 협업하여 벨벳 소재의 한정판 패키지를 출시했습니다.",
+      "url": "https://thedieline.com/crown-royal-and-juicy-couture-drop-a-velvety-smooth-collab/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "키치콜라보",
+        "Y2K바이럴"
+      ],
+      "why": "이질적인 두 서브컬처 코드가 결합하여 유쾌한 노스탤지어와 바이럴 화제성을 폭발시키는 기획력의 표본입니다.",
+      "depth": 0.5,
+      "image": "https://thedieline.com/wp-content/uploads/2026/08/crownroyal.png",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "FX 'The Drop: A Snowfall Saga' 스핀오프 공식 예고편",
+      "content": "인기 범죄 드라마 스노우폴의 세계관을 잇는 스핀오프 시리즈 '더 드롭'의 메인 트레일러가 긴장감 넘치는 비트와 함께 공개되었습니다.",
+      "url": "https://hypebeast.kr/2026/8/fx-the-drop-a-snowfall-saga-spinoff-series-official-trailer",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "트레일러",
+        "스트릿누아르"
+      ],
+      "why": "빠른 템포의 편집과 감각적인 힙합 사운드트랙 매칭으로 예고편 연출의 기본기를 완벽하게 보여줍니다.",
+      "depth": 0.5,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2Ffx-the-drop-a-snowfall-saga-spinoff-series-official-trailer-000.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    },
+    {
+      "title": "AD가 제안하는 16가지 초소형 기숙사 룸메이크오버 팁",
+      "content": "협소한 기숙사 공간을 감각적인 조명과 수납 모듈을 활용해 개성 넘치는 공간으로 탈바꿈시키는 스타일링 가이드입니다.",
+      "url": "https://www.architecturaldigest.com/gallery/dorm-room-ideas",
+      "source": "architecturaldigest.com",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "공간팁",
+        "Z세대인테리어"
+      ],
+      "why": "Z세대의 라이프스타일 취향을 저비용 고효율 비주얼로 충족시키는 공간 연출 스낵 콘텐츠입니다.",
+      "depth": 0.5,
+      "image": "https://media.architecturaldigest.com/photos/64ef80e87994cb5785ce872d/master/pass/Dormify_Mood_Lighting.jpg",
+      "pub_date": "2026-08-08T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "의도적 불완전성 복원",
+      "is_hot": true
+    },
+    {
+      "word": "역발상 반어적 브랜딩",
+      "is_hot": true
+    },
+    {
+      "word": "물리적 텍스처 회귀",
+      "is_hot": false
+    },
+    {
+      "word": "안티 테크 미니멀리즘",
+      "is_hot": true
+    },
+    {
+      "word": "모듈러 공간 아카이빙",
+      "is_hot": false
+    },
+    {
+      "word": "자동화 파이프라인 재편",
+      "is_hot": true
+    }
+  ]
+}
