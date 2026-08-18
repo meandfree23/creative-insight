@@ -7,7 +7,9 @@ import google.generativeai as genai
 import random
 
 # Use the environment variable for API Key
-genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
+api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GEMINI") or os.environ.get("GOOGLE_API_KEY")
+if api_key:
+    genai.configure(api_key=api_key)
 
 REPO_DIR = os.getcwd()
 DATA_DIR = os.path.join(REPO_DIR, "data")
