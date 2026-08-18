@@ -367,14 +367,17 @@ def generate_daily_insight(date_str, articles_subset):
     except Exception as e:
         print(f"Error listing models: {e}")
 
-    chosen_model = "gemini-1.5-flash-latest"
-    for cand in ["1.5-flash", "2.0-flash", "flash", "1.5-pro", "gemini-pro"]:
-        match = next((name for name in supported_models if cand in name), None)
+    # Prioritize 3.7-flash, 3.6-flash, 3.5-flash (Google requires 3.6+ for new users)
+    chosen_model = "models/gemini-3.6-flash"
+    for cand in ["3.7-flash", "3.6-flash", "3.5-flash", "flash-latest", "3.1-flash", "flash"]:
+        match = next((name for name in supported_models if cand in name and "2.5" not in name), None)
         if match:
             chosen_model = match
             break
     if not match and supported_models:
-        chosen_model = supported_models[0]
+        # Avoid deprecated 2.5 models
+        non_25 = [m for m in supported_models if "2.5" not in m]
+        chosen_model = non_25[0] if non_25 else supported_models[0]
 
     print(f"Selected Gemini model: {chosen_model}")
     model = genai.GenerativeModel(
