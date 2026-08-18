@@ -1,0 +1,427 @@
+{
+  "date": "2026-08-10",
+  "focusQ": "Agent's Thought: 자극적인 시각 문법 뒤에 감춰진 설계적 치밀함과 물성의 통제력에 주목해야 합니다. 얄팍한 트렌드 추종을 걷어내고, 구조적 완결성과 독보적인 브랜드 미학을 남기는 작업들만 골라냈습니다. 형태와 기능이 타협 없이 맞물릴 때 비로소 크리에이티브의 진짜 골격이 드러납니다.",
+  "creator_message": "큐레이터의 메시지: 유행어만 도배된 뻔한 레퍼런스에 시간을 낭비하지 마십시오. 비주얼의 표면이 아닌 구조와 디테일, 브랜드의 서사가 어떻게 소비자의 감각을 틀어쥐는지 그 날카로운 실체만을 검증했습니다.",
+  "session": {
+    "timestamp": "2026-08-18T03:19:20.436646",
+    "considered": 40,
+    "selected": 17
+  },
+  "topPicks": [
+    {
+      "title": "서울 기반 CG 아티스트 서정민의 디스토피아 SF 단편 ‘Reminder’",
+      "content": "서울의 CG 모션 디자이너 서정민이 연출한 개인 프로젝트 단편 'Reminder'가 공개되었습니다. 암울하면서도 매혹적인 디스토피아 세계관을 고밀도 3D 비주얼과 절제된 카메라 워크로 완벽히 직조해냈습니다.",
+      "url": "https://www.stashmedia.tv/the-dark-and-distant-future-jeongmin-seo-drops-reminder-short-film/",
+      "source": "Stash Media",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "서정민 (Jeongmin Seo)",
+      "creator_insight": "클리셰로 점철된 사이버펑크 클리셰를 버리고, 하드서피스 텍스처와 미니멀한 조명 콘트라스트를 통해 서울 특유의 건조한 정서를 SF 미학으로 정교하게 치환했습니다.",
+      "tags": [
+        "3D모션",
+        "SF단편",
+        "시네마틱비주얼"
+      ],
+      "execution_techniques": [
+        "#HardSurfaceTexturing",
+        "#CinematicLighting"
+      ],
+      "why": "단순한 기술 과시용 CG 릴이 아닌 완결된 내러티브 톤앤매너를 구축한 국내 3D 디렉팅의 수작입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/Reminder-CG-scifi-Short-Film-by-Jeongmin-Seo-STASH-MAGAZINE7-1920x823.jpg",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "길례르미 프로엔사의 패션 필름 ‘Human Trials’: 리미널 스페이스와 신체 퍼포먼스",
+      "content": "감독 길례르미 프로엔사가 패션 필름 'Human Trials'를 통해 삭막한 테스트 공간에서 펼쳐지는 실험적 퍼포먼스를 연출했습니다. 의상과 피사체의 움직임을 해체주의적 앵글로 포착했습니다.",
+      "url": "https://directorsnotes.com/2026/07/27/guilherme-proenca-human-trials/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Guilherme Proença",
+      "creator_insight": "패션을 단순한 피사체로 두지 않고, 공간의 폐쇄성과 인체의 긴장감을 극대화하는 무대 장치로 전환시켰습니다.",
+      "tags": [
+        "패션필름",
+        "퍼포먼스아트",
+        "미장센"
+      ],
+      "execution_techniques": [
+        "#LiminalFraming",
+        "#ChoreographicEditing"
+      ],
+      "why": "상업 패션 영상이 어떻게 순수 예술적 긴장감을 획득할 수 있는지 보여주는 모범적인 연출 문법입니다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/07/human_trials_43.jpg",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "NOWNESS ‘You’ve Already Gone’: 시적 언어로 응축된 무빙 이미지",
+      "content": "샘 만디치와 제이드 조안이 협업한 'Poetic License' 시리즈 신작 영상입니다. 상실과 잔존하는 기억의 파편을 감각적인 필름 질감과 과감한 호흡의 컷 편집으로 담아냈습니다.",
+      "url": "https://www.nowness.com/series/poetic-license/youve-already-gone-sam-mandich-jade-joan",
+      "source": "NOWNESS",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Sam Mandich & Jade Joan",
+      "creator_insight": "설명적 서사를 완전히 배제하고 감정의 결을 시각적 텍스처와 미세한 피사체의 떨림만으로 전달하는 고난도 템포 조절을 선보입니다.",
+      "tags": [
+        "단편영화",
+        "필름미학",
+        "나우니스"
+      ],
+      "execution_techniques": [
+        "#TexturalCinematography",
+        "#PoeticMontage"
+      ],
+      "why": "대사 없이도 시각과 리듬만으로 관객을 압도하는 고밀도 무드보드 필름입니다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://img.nowness.com/nowness-frontend/q1y9HzwCRiaM3WKueqy5_YouveAlreadyGone_ProRes_ST_v2.00_02_50_22.Still032.jpg",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "가이아 알라리의 촉각적 드로잉과 신체 애니메이션의 세계",
+      "content": "일러스트레이터 가이아 알라리가 흑연과 목탄의 거친 질감을 기반으로 인간의 불안과 동물의 신체성을 프레임 단위로 그려낸 애니메이션 작업을 공개했습니다. 손맛이 살아있는 유기적 움직임이 돋보입니다.",
+      "url": "https://www.creativeboom.com/inspiration/i-just-love-dogs-gaia-alari-on-her-wobbly-tactile-drawings-of-animals-bodies-and-emotions/",
+      "source": "Creative Boom",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Gaia Alari",
+      "creator_insight": "디지털 툴의 매끄러움을 거부하고 종이의 마찰감과 불완전한 선을 극대화하여 원초적인 정서적 몰입을 유도합니다.",
+      "tags": [
+        "핸드드로잉",
+        "2D애니메이션",
+        "텍스처"
+      ],
+      "execution_techniques": [
+        "#CharcoalAnimation",
+        "#TactileIllustration"
+      ],
+      "why": "완벽하게 계산된 3D 홍수 속에서 손으로 빚어낸 거친 선의 생명력이 왜 더 강력한지 증명합니다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://www.creativeboom.com/upload/articles/b2/b2ef422299393186af58324befec7a3774012683_840.jpg",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "프랑크푸르트 키친과 마가레테 쉬테-리호츠키: ‘생활을 위한 기계’로서의 공간 설계",
+      "content": "근대 주거 건축의 결정적 전환점이었던 프랑크푸르트 키친의 모듈화 시스템과 노동 효율성 설계를 재조명합니다. 가사 노동을 과학적 작업 동선으로 재구조화한 선구적 디자인입니다.",
+      "url": "https://www.designboom.com/architecture/margarete-schutte-lihotzky-envisioned-frankfurt-kitchen-machine-for-living/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Margarete Schütte-Lihotzky",
+      "creator_insight": "장식을 배제하고 인간의 신체 궤적만을 엄격하게 계산해 완성한 기능주의의 정수이자 공간 UI의 원형입니다.",
+      "tags": [
+        "공간디자인",
+        "바우하우스",
+        "모듈가구"
+      ],
+      "execution_techniques": [
+        "#ErgonomicSpatialLayout",
+        "#FunctionalModularity"
+      ],
+      "why": "공간을 기구학적 시스템으로 분석한 원형적 사례로, 현대 제품 및 공간 기획자 모두에게 유효한 교본입니다.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/08/frankfurt-kitchen-designboom-700-500x400-22b08q85r906.jpg",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "상하이 유산 건축과 현대 오피스의 결합: UNION의 DIALOGS 코워킹 스페이스",
+      "content": "UNION 스튜디오가 상하이의 역사적 건축물 골조를 보존하면서 현대적인 코워킹 허브로 탈바꿈시킨 DIALOGS 프로젝트를 선보였습니다. 고유의 벽돌 구조와 현대적 글래스 파티션이 팽팽한 대비를 이룹니다.",
+      "url": "https://retaildesignblog.net/2026/08/12/dialogs-coworking-offices-by-union/",
+      "source": "Retail Design Blog",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "UNION",
+      "creator_insight": "원형의 시간성을 장식으로 치부하지 않고, 레이어드된 공간 구획의 중심축으로 활용해 상업 공간의 밀도를 높였습니다.",
+      "tags": [
+        "오피스디자인",
+        "헤리티지재해석",
+        "상업인테리어"
+      ],
+      "execution_techniques": [
+        "#AdaptiveReuse",
+        "#HeritageLayering"
+      ],
+      "why": "역사적 물성과 현대적 기능이 충돌할 때 발생하는 공간적 깊이감을 효과적으로 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://placehold.co/800x600/1c1917/FFFFFF?text=Retail%20Design%20Blog%0A%28SPATIAL%29&font=playfair-display",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "색채를 건축적 구조체로 다루다: Punto Zero의 로마 아파트 ‘Casa Alkymia’",
+      "content": "스튜디오 Punto Zero가 로마 몬테베르데의 230㎡ 주거 공간을 블루 디 프루시아 컬러와 정교한 볼륨 분할을 통해 재탄생시켰습니다. 컬러가 단순한 마감이 아닌 공간의 영역을 규정하는 벽체 역할을 수행합니다.",
+      "url": "https://www.yellowtrace.com.au/punto-zero-casa-alkymia-rome-apartment-renovation/",
+      "source": "Yellowtrace",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Punto Zero",
+      "creator_insight": "과감한 채도의 블록을 3차원 입체로 전개해 조도와 시선 이동에 따라 공간의 스케일감이 변화하도록 유도했습니다.",
+      "tags": [
+        "컬러블로킹",
+        "주거인테리어",
+        "이탈리아디자인"
+      ],
+      "execution_techniques": [
+        "#ChromaticZoning",
+        "#SpatialMonochrome"
+      ],
+      "why": "색채를 평면 페인팅이 아닌 공간을 가르는 묵직한 조각적 요소로 다루는 법을 배울 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16203559/Yellowtrace-Punto-Zero-Casa-Alkymia-Rome-Photo-Studio-Eller-Serena-Eller-Vainicher-01_opt80.jpg",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "콘크리트 모더니즘의 보존: 인도 아마다바드의 파텔 스타디움",
+      "content": "인도 아마다바드에 위치한 사르다르 발라브바이 파텔 스타디움의 구조적 보존 캠페인입니다. 캔틸레버 쉘 구조의 콘크리트 모더니즘 기념비가 마주한 물리적 노후화와 복원 전략을 다룹니다.",
+      "url": "https://www.archdaily.com/1183078/modernism-on-the-watch-preserving-the-sardar-vallabhbhai-patel-stadium-in-india",
+      "source": "ArchDaily",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Charles Correa & Mahendra Raj",
+      "creator_insight": "압도적인 콘크리트 엔지니어링이 빚어낸 조형성은 시대를 초월해 지역 정체성과 기념비적 스케일을 동시에 확립합니다.",
+      "tags": [
+        "브루탈리즘",
+        "건축보존",
+        "콘크리트구조"
+      ],
+      "execution_techniques": [
+        "#CantileverShell",
+        "#StructuralModernism"
+      ],
+      "why": "구조 역학 자체가 건축의 가장 강력한 비주얼 훅이 될 수 있음을 입증하는 레퍼런스입니다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://images.adsttc.com/media/images/6a7a/9558/ab59/ca01/8994/4483/newsletter/modernism-on-the-watch-the-race-to-preserve-ahmedabads-patel-stadium-in-india_7.jpg?1786418529",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "칠레 안데스 산자락의 매스팀버 수직 구조: Iragüen Viñuela Arquitectos",
+      "content": "칠레 후이 강변의 산림 지대에 세워진 글루램 목조 주택입니다. 대지의 가파른 경사면을 따라 수직으로 층을 쌓아 올려 숲의 다양한 높이에서 자연을 조망하도록 설계되었습니다.",
+      "url": "https://www.dezeen.com/2026/08/17/iraguen-vinuela-fuy-river-house-chile-mass-timber/",
+      "source": "Dezeen",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Iragüen Viñuela Arquitectos",
+      "creator_insight": "목재의 규격화된 접합 방식을 미학적 디테일로 승화시켜 자연 환경 속에 최소한의 물리적 발자국만을 남겼습니다.",
+      "tags": [
+        "목조건축",
+        "친환경설계",
+        "파빌리온"
+      ],
+      "execution_techniques": [
+        "#GlulamFramework",
+        "#VerticalElevation"
+      ],
+      "why": "매스팀버 공법을 단순한 친환경 구호가 아닌 날렵한 입체 구조 미학으로 풀어냈습니다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "http://static.dezeen.com/uploads/2026/07/iraguen-vinuela-fuy-river-house-mass-timber-chile_dezeen_2364_sq2-411x411.jpg",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "순환 동선으로 해체된 마드리드 아파트: Studio Burr의 ‘AZ06’",
+      "content": "스페인 스튜디오 Burr가 마드리드의 5인 가족 아파트를 건물 코어를 중심으로 회전하는 통로형 시스템으로 개조했습니다. 구획된 방의 개념을 깨고 유기적으로 흐르는 생활 동선을 구축했습니다.",
+      "url": "https://www.yellowtrace.com.au/burr-az06-madrid-family-apartment-renovation/",
+      "source": "Yellowtrace",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "BURR Studio",
+      "creator_insight": "벽체를 문으로 대체하고 복도를 가구의 연속체로 변환하여 면적 이상의 공간 볼륨을 확보했습니다.",
+      "tags": [
+        "공간리노베이션",
+        "순환동선",
+        "마드리드건축"
+      ],
+      "execution_techniques": [
+        "#RotationalCirculation",
+        "#ModularPassageway"
+      ],
+      "why": "아파트라는 획일적 평면을 동선과 가구 모듈의 재조합만으로 파괴하는 명쾌한 방법론입니다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/08/04175737/Yellowtrace-Burr-AZ06-Madrid-Family-Apartment-Renovation-Photo-Maru-Serrano-01_opt80.jpg",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "트래버틴 석재 조각으로 완성한 역사 지구의 광장: MIAS Architects",
+      "content": "바뇰레스의 역사 중심가를 관통하는 포장도로와 공공 가구를 트래버틴 석재 조각으로 마감한 프로젝트입니다. 바닥 포장재의 음각 홈을 통해 물이 흐르도록 유도하여 보행 경험을 전환시켰습니다.",
+      "url": "https://www.designboom.com/architecture/carved-travertine-transforms-paving-furniture-and-planting-across-spanish-historic-old-town/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Josep Miàs (MIAS Architects)",
+      "creator_insight": "인위적 분수대 대신 바닥 석재의 절개선 자체를 수로이자 벤치로 기능하게 만들어 도시의 역사적 지층을 감각하게 만듭니다.",
+      "tags": [
+        "공공디자인",
+        "석재가공",
+        "스페인건축"
+      ],
+      "execution_techniques": [
+        "#CarvedTravertine",
+        "#HydroUrbanism"
+      ],
+      "why": "공공 공간에서 재료의 물성을 극대화해 장소의 기억을 복원하는 정밀한 조경 디테일입니다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/08/banyoles-spain-mias-architects-historic-center-travertine-stone-designboom-700-500x400-22b08q85r427.jpg",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "아날로그 인터랙션의 극대화: Nanu의 아크 알람 시계(Arc Alarm Clock)",
+      "content": "주조 아연 바디, 미네랄 글래스, 알루미늄 합금 차임 바를 조합한 탁상 알람 시계입니다. OLED 디스플레이와 촉각적 물리 다이얼의 결합으로 스마트폰 알람을 대체하는 프리미엄 물성을 제안합니다.",
+      "url": "https://coolhunting.com/buy/arc-alarm-clock/",
+      "source": "coolhunting.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Nanu Design Team",
+      "creator_insight": "스크린 디톡스 트렌드를 감성적 마케팅이 아닌, 금속의 묵직한 무게감과 기계식 차임의 청각적 쾌격으로 물리화했습니다.",
+      "tags": [
+        "제품디자인",
+        "하드웨어UX",
+        "물리인터페이스"
+      ],
+      "execution_techniques": [
+        "#TactileDialUX",
+        "#DieCastAlloy"
+      ],
+      "why": "디지털 과잉 시대에 아날로그 하드웨어가 프리미엄 오브제로 살아남는 가장 확실한 하드웨어 설계법입니다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/08/NanuArc_FinalEdit_LS-10_1440x-768x768.jpg",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "과학적 정밀성과 미니멀 타이포그래피: 마야 레굴라의 OriginBiotics 브랜딩",
+      "content": "디자이너 마야 레굴라가 진행한 프로바이오틱스 브랜드 OriginBiotics 패키지 아이덴티티입니다. 딥 그린 팔레트와 정갈한 타이포그래피로 바이오 헬스케어 제품의 신뢰도를 감각적으로 조율했습니다.",
+      "url": "https://abduzeedo.com/originbiotics-packaging-maja-regula/",
+      "source": "abduzeedo.com",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Maja Regula",
+      "creator_insight": "기존 건강기능식품의 요란한 그래픽 노이즈를 걷어내고, 제약 레이아웃의 냉철한 그리드를 럭셔리 스킨케어 톤으로 다듬었습니다.",
+      "tags": [
+        "브랜드아이덴티티",
+        "패키지디자인",
+        "타이포그래피"
+      ],
+      "execution_techniques": [
+        "#PharmaGridSystem",
+        "#MinimalColorPalette"
+      ],
+      "why": "포화된 웰니스 시장에서 정보의 절제와 정교한 타이포그래피가 어떻게 프리미엄 가격 저항을 허무는지 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_originbiotics-supplement-branding-packaging-maja-regula.jpg",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "핑크를 통한 음료 브랜딩의 탈피: Vitruvius 탄산수의 핑크 에라",
+      "content": "Vitruvius 스파클링 워터가 선보인 파격적인 핑크 컬러웨이 브랜딩입니다. 청량음료의 전형적인 블루/그린 문법을 파괴하고 대담한 네온 핑크와 미니멀 엠보싱 라벨로 Z세대의 시선을 사로잡았습니다.",
+      "url": "https://thedieline.com/sparkling-water-enters-its-pink-era-with-vitruvius/",
+      "source": "The Dieline",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Vitruvius Creative Team",
+      "creator_insight": "카테고리 지배 컬러를 전복하는 것만으로 매대와 소셜 피드에서 독점적인 시각적 점유율을 획득했습니다.",
+      "tags": [
+        "패키징전략",
+        "컬러마케팅",
+        "음료브랜딩"
+      ],
+      "execution_techniques": [
+        "#CategoryDisruptiveColor",
+        "#EmbossedMinimalism"
+      ],
+      "why": "카테고리 룰을 정면으로 뒤집는 컬러 전략이 브랜드의 초기 바이럴 비용을 얼마나 극적으로 낮추는지 증명합니다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://thedieline.com/wp-content/uploads/2026/08/SnapInsta.to_753225111_18566317573070254_8762575024170860140_n-scaled.jpg",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "비앙카 센소리 연출, Ye와 Don Toliver의 ‘OK’ 공식 뮤직비디오",
+      "content": "비앙카 센소리가 메가폰을 잡고 극도의 미니멀리즘과 노이즈 텍스처를 믹스한 화제의 뮤직비디오입니다.",
+      "url": "https://hypebeast.kr/2026/8/ye-kanye-west-don-toliver-ok-bully-deluxe-bianca-censori-music-video-release",
+      "source": "Hypebeast Korea",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "비앙카센소리",
+        "칸예웨스트",
+        "뮤직비디오"
+      ],
+      "why": "논란과 노출을 완벽한 비주얼 브랜딩의 무기로 소비시키는 패션-음악 신의 가장 자극적인 바이럴 레퍼런스입니다.",
+      "depth": 0.5,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F08%2Fye-kanye-west-don-toliver-ok-bully-deluxe-bianca-censori-music-video-release-000.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "스트리트웨어 브랜드보다 콜라보를 더 많이 하는 파이어킹(Fire-King) 머그잔",
+      "content": "제다이트 밀크글라스 브랜드 파이어킹이 BEAMS, 베이프, 카우스와 협업하며 서브컬처 아이콘으로 등극한 현상을 분석합니다.",
+      "url": "https://www.highsnobiety.com/p/beams-fire-king/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "빔즈",
+        "파이어킹",
+        "콜라보레이션"
+      ],
+      "why": "주방용품 레트로 굿즈가 어떻게 서브컬처 패션 신의 핵심 드롭 아이템으로 둔갑하는지 보여주는 콜라보의 정석입니다.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    },
+    {
+      "title": "디자이너를 위한 Claude Code 101 요약집",
+      "content": "개발자 전유물이던 CLI 코딩 도구를 디자이너의 프로토타이핑 워크플로우로 번역해낸 실용적인 치트시트입니다.",
+      "url": "https://yaronschoen.com/blog/claude-code-101-for-designers/",
+      "source": "Sidebar.io",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "생산성툴",
+        "AI워크플로우",
+        "디자이너개발"
+      ],
+      "why": "AI 에이전트 도구를 복잡한 개발 용어 없이 디자이너 감각으로 빠르게 흡수할 수 있는 실무 스낵 콘텐츠입니다.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Sidebar.io%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-10T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "하드웨어 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "기능주의 공간 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "카테고리 컬러 전복",
+      "is_hot": false
+    },
+    {
+      "word": "텍스처 중심 시네마틱",
+      "is_hot": true
+    },
+    {
+      "word": "헤리티지 볼륨 재해석",
+      "is_hot": false
+    },
+    {
+      "word": "서브컬처 오브제화",
+      "is_hot": true
+    }
+  ]
+}
