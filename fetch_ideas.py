@@ -358,8 +358,20 @@ def generate_daily_insight(date_str, articles_subset):
         img_str = f"\nImage: {a['image']}" if a.get('image') else ""
         prompt += f"\n[{i}] Title: {a['title']}\nLink: {a['link']}\nSource: {a['source']}\nCategory: {a.get('category', a.get('domain', 'DESIGN'))}{img_str}\nSummary: {a['summary'][:200]}...\n"
 
+    chosen_model = "gemini-1.5-flash"
+    try:
+        for m in genai.list_models():
+            if "generateContent" in m.supported_generation_methods:
+                if "gemini-1.5-flash" in m.name:
+                    chosen_model = m.name
+                    break
+                elif "gemini" in m.name and not chosen_model:
+                    chosen_model = m.name
+    except Exception as e:
+        print(f"Could not list models: {e}")
+
     model = genai.GenerativeModel(
-        "gemini-1.5-flash",
+        chosen_model,
         generation_config={"response_mime_type": "application/json"}
     )
 
