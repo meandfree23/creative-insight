@@ -1,0 +1,400 @@
+{
+  "date": "2026-08-11",
+  "focusQ": "알고리즘의 요약이 검색의 80%를 집어삼키는 시대, 표피적인 비주얼은 단 1초 만에 소비되고 폐기된다. 날카로운 물질성과 묵직한 내러티브만이 스크린 너머의 시선을 붙잡을 수 있다. 지금 크리에이터에게 필요한 것은 기술에 대한 맹신이 아니라 감각의 통제력이다.",
+  "creator_message": "어설픈 트렌드 흉내와 알맹이 없는 기술 과시는 이제 피로감만 낳을 뿐이다. 공간의 비례, 텍스처의 무게감, 집요한 연출 감각이 결여된 작업은 크리에이티브라 부를 수 없다. 오늘 큐레이션은 시각적 본질에 엄격하게 집중한 레퍼런스들이다.",
+  "session": {
+    "timestamp": "2026-08-19T23:22:31.425517",
+    "considered": 40,
+    "selected": 16
+  },
+  "topPicks": [
+    {
+      "title": "구찌 브랜드 필름: 스프링 지에루 탕의 몽환적 미장센",
+      "content": "디렉터 스프링 지에루 탕이 연출한 구찌 브랜드 필름 프로젝트. 정교한 색채 제어와 초현실적 프레임 구성을 통해 하이엔드 패션 하우스의 감각적 무드를 영상 언어로 완벽히 번역했다.",
+      "url": "https://motionographer.com/quickie/gucci-brand-film-spring-jieru-tang/",
+      "source": "Motionographer",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Spring (Jieru) Tang",
+      "creator_insight": "구찌의 과장된 럭셔리 코드를 뻔한 화려함 대신 서늘하고 감각적인 프레임 분할로 재해석했다.",
+      "tags": [
+        "패션필름",
+        "미장센",
+        "구찌"
+      ],
+      "execution_techniques": [
+        "#SurrealColorPalette",
+        "#CinematicFraming"
+      ],
+      "why": "상업 패션 필름이 어떻게 하이아트 수준의 미학적 긴장감을 유지할 수 있는지 보여주는 모범 사례다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/08/Tang_GucciBrandFilm_StillFrames_Motionographer_05-700x394.jpg",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "기후 위기와 세대 갈등을 녹여낸 단편 영화 'Heat Me'",
+      "content": "감독 켈리 사리가 잔혹한 폭염을 배경으로 세대 간의 심리전을 긴박하게 담아낸 단편 영화. 폐쇄적인 공간 속에서 온도의 상승을 시각적 질감과 음향으로 밀도 높게 설계했다.",
+      "url": "https://directorsnotes.com/2026/08/05/kelly-sarri-heat-me/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Kelly Sarri",
+      "creator_insight": "환경적 재난을 거대한 스케일이 아닌 가족 내부의 서늘한 감정선으로 압축해 전달력을 극대화했다.",
+      "tags": [
+        "단편영화",
+        "내러티브",
+        "연출"
+      ],
+      "execution_techniques": [
+        "#ThermalVisualTone",
+        "#ClaustrophobicStaging"
+      ],
+      "why": "사회적 메시지를 직설적 구호가 아닌 날카로운 드라마와 미장센으로 치환하는 연출 호흡을 배울 수 있다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/08/heat_me_21.jpg",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "도널드 저드의 성지 마파 아틸러리 셰드, 셤 아키텍츠의 복원",
+      "content": "미니멀리즘 거장 도널드 저드의 치나티 재단 대형 포병 창고 건물 복원 프로젝트. 텍사스 사막의 극단적 기후로부터 콘크리트와 알루미늄 작품군을 보존하기 위한 정밀한 건축적 개입이 이루어졌다.",
+      "url": "https://www.dezeen.com/2026/08/19/schaum-architects-restoration-donald-judd-artillery-sheds-texas/",
+      "source": "Dezeen",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Schaum Architects & Donald Judd",
+      "creator_insight": "원작의 엄격한 미니멀리즘 형태를 건드리지 않으면서 구조적 내구성을 확보하는 은밀한 건축술을 선보인다.",
+      "tags": [
+        "미니멀리즘",
+        "공간복원",
+        "도널드저드"
+      ],
+      "execution_techniques": [
+        "#ArchitecturalPreservation",
+        "#MinimalistRestoration"
+      ],
+      "why": "공간의 역사성과 작가의 조형 철학을 훼손하지 않고 기능성을 개선하는 하이엔드 공간 디렉팅의 표본이다.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "http://static.dezeen.com/uploads/2026/08/schaum-architects-judd-artillery-shed-restoration-texas_dezeen_2364_sq-411x411.jpg",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "소우 후지모토가 하카타역에 구현한 3차원 입체 파크",
+      "content": "후쿠오카 하카타역 인근 메이지 공원을 다층적 입체 조경으로 재편한 건축 프로젝트. 도시의 수직성과 자연의 유기적인 곡선이 중첩되어 보행자에게 독특한 공간감을 제공한다.",
+      "url": "https://spoon-tamago.com/sou-fujimoto-meiji-park-fukuoka/?utm_source=rss&utm_medium=rss&utm_campaign=sou-fujimoto-meiji-park-fukuoka",
+      "source": "Spoon & Tamago",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Sou Fujimoto",
+      "creator_insight": "인공 구조물과 식생의 경계를 모호하게 흐려 도심 한복판에 새로운 차원의 휴식 공간을 구축했다.",
+      "tags": [
+        "공공건축",
+        "조경디자인",
+        "소우후지모토"
+      ],
+      "execution_techniques": [
+        "#LayeredLandscape",
+        "#OrganicGeometry"
+      ],
+      "why": "단순한 평면적 공원을 넘어 입체적인 경험 동선을 유도하는 공간 기획의 정수를 확인할 수 있다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/08/meiji-park-fukuoka-by-sou-fujimoto-1-200x133.jpeg",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "메타의 UI 강제 개편 소송과 중독 설계의 종말",
+      "content": "미국 29개 주와 교육구가 인스타그램 및 페이스북을 상대로 제기한 소송 분석. 무한 스크롤과 알고리즘 추천 등 플랫폼의 도파민 유도 장치들이 법적 규제로 인해 강제 수정될 위기에 처했다.",
+      "url": "https://www.campaignlive.com/article/lawsuits-force-meta-redesign-facebook-instagram/1967832",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Meta Product Design Team",
+      "creator_insight": "중독을 조장하던 다크 패턴 UI의 수명이 다했으며 브랜드는 윤리적 인터랙션으로 전환해야 함을 시사한다.",
+      "tags": [
+        "UX규제",
+        "플랫폼전략",
+        "메타"
+      ],
+      "execution_techniques": [
+        "#EthicalUX",
+        "#AlgorithmicDesign"
+      ],
+      "why": "프로덕트 디자이너와 마케터가 향후 소셜 플랫폼의 문법 변화를 예측하고 대비해야 할 결정적 분기점이다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "구글 AI 검색 80% '노클릭' 시대, 전통 SEO의 몰락",
+      "content": "AI 오버뷰가 적용된 검색 결과의 80%가 외부 링크 클릭 없이 종료된다는 최신 분석. 이제 웹사이트 트래픽 유입 중심의 콘텐츠 전략은 마침표를 찍고 머신 리더블 구조로의 전환이 요구된다.",
+      "url": "https://www.campaignlive.com/article/80-google-searches-ai-generated-summaries-end-without-click/1967714",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Search Engine Strategists",
+      "creator_insight": "키워드 도배식 SEO는 완전히 사망했으며 AI 엔진에 구조적으로 읽히는 데이터 설계가 브랜드 생존 조건이다.",
+      "tags": [
+        "검색엔진",
+        "AI오버뷰",
+        "마케팅전략"
+      ],
+      "execution_techniques": [
+        "#ZeroClickStrategy",
+        "#MachineReadableContent"
+      ],
+      "why": "트래픽 장사식 디지털 마케팅의 종말을 선언하고 브랜드 오리지널리티의 가치를 환기한다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "공공 헬스케어 공간의 현대적 해석: 건강생활지원센터 제안",
+      "content": "디자인투플라이가 제안한 전북 지역 건강생활지원센터의 인테리어 공간 기획. 관공서 특유의 딱딱함을 걷어내고 따뜻한 톤앤매너와 정갈한 동선 분할로 지역민을 위한 웰니스 거점을 제시했다.",
+      "url": "https://www.designtwoply.com/planning/%ec%a0%84%eb%b6%81-%e2%97%8b%e2%97%8b%ec%8b%9c-%ea%b1%b4%ea%b0%95%ec%83%9d%ed%99%9c%ec%a7%80%ec%9b%90%ec%84%bc%ed%84%b0-%ec%9d%b8%ed%85%8c%eb%a6%ac%ec%96%b4-%ec%a0%9c%ec%95%88/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%2584%25eb%25b6%2581-%25e2%2597%258b%25e2%2597%258b%25ec%258b%259c-%25ea%25b1%25b4%25ea%25b0%2595%25ec%2583%259d%25ed%2599%259c%25ec%25a7%80%ec%9b%90%ec%84%bc%ed%84%b0-%ec%9d%b8%ed%85%8c%eb%a6%ac%ec%96%b4-%ec%a0%9c%ec%95%88",
+      "source": "Design Twoply",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Design Twoply",
+      "creator_insight": "기능 위주의 공공 기관 시설에 섬세한 텍스처와 조명 설계를 더해 공간의 심리적 안정감을 완성했다.",
+      "tags": [
+        "공공인테리어",
+        "한국공간",
+        "웰니스"
+      ],
+      "execution_techniques": [
+        "#PublicSpaceRedesign",
+        "#WarmMinimalism"
+      ],
+      "why": "국내 공공 시설의 천편일률적인 마감을 벗어나 고급화된 로컬 공간 모델을 구축하는 전략을 엿볼 수 있다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2026/08/planning-cover-health.jpg",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "로컬 인테리어 신의 밀도: 데코저널에 소개된 투플라이의 작업들",
+      "content": "전주와 대구를 기반으로 실무 중심의 공간 작업을 전개하는 스튜디오 투플라이의 디자인 아카이브. 기획부터 3D 모델링, 정밀 시공까지 이어지는 통합적인 공간 구현 방식을 다룬다.",
+      "url": "https://www.designtwoply.com/press/%eb%8d%b0%ec%bd%94%ec%a0%80%eb%84%90-2024-4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258d%25b0%25ec%25bd%2594%25ec%25a0%2580%25eb%2584%2590-2024-4",
+      "source": "Deco Journal",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Twoply Studio",
+      "creator_insight": "서울 중심의 디자인 문법에서 벗어나 지역 상업 및 주거 공간의 특성에 맞춘 맞춤형 디테일을 구현한다.",
+      "tags": [
+        "로컬디자인",
+        "인테리어",
+        "공간설계"
+      ],
+      "execution_techniques": [
+        "#SpatialIdentity",
+        "#BespokeInterior"
+      ],
+      "why": "실제 현장 중심의 완성도 높은 시공 디테일과 브랜딩 결합 방식을 점검하기에 적합하다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2024/03/데코저널-202404-표지.jpg",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "시메나 모르핀의 사진전: 멕시코 할머니들의 우아한 초상",
+      "content": "사진작가 시메나 모르핀이 세 명의 멕시코 할머니들을 모델로 기용해 그들의 꿈과 개성을 포착한 포토 에세이. 노년의 주름과 생생한 컬러 의상을 대담하게 충돌시켜 생명력을 연출했다.",
+      "url": "https://wepresent.wetransfer.com/stories/ximena-morfin-photography-ageing-gracefully",
+      "source": "WePresent",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Ximena Morfín",
+      "creator_insight": "노화를 동정이나 회고의 대상이 아닌 당당하고 화려한 패션 피사체로 전복시켰다.",
+      "tags": [
+        "인물사진",
+        "비주얼스토리",
+        "포트레이트"
+      ],
+      "execution_techniques": [
+        "#VibrantPortraiture",
+        "#CinematicLighting"
+      ],
+      "why": "나이듦을 다루는 미디어의 스테레오타입을 깨부수는 비주얼 디렉팅과 컬러 스키마를 참고할 수 있다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/6oNkMgCxXmSbCL59zGKhaT/e0599b1bf71d0dc00474bf609f4580a9/AGINGGRACEFULLY013.jpg",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "이브라힘 라인타카트의 포스트모던 사이키델릭 일러스트레이션",
+      "content": "과학과 테크놀로지를 주제로 기묘하고 희박한 공기감의 사이키델릭 공간을 창조하는 작가의 포트폴리오. 레트로 퓨처리즘과 정교한 벡터 그래픽의 결합이 독창적인 세계관을 이룬다.",
+      "url": "https://www.picamemag.com/ibrahim-rayintakath/",
+      "source": "Picame",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Ibrahim Rayintakath",
+      "creator_insight": "차가운 기술적 담론을 몽환적인 텍스처와 따뜻한 그러데이션을 통해 감각적인 일러스트로 환원했다.",
+      "tags": [
+        "포스트모던",
+        "그래픽디자인",
+        "일러스트"
+      ],
+      "execution_techniques": [
+        "#RetroFuturism",
+        "#PsychedelicVector"
+      ],
+      "why": "디지털 그래픽 작업에서 아날로그적 밀도와 차별화된 톤을 구축하는 데 유용한 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Picame%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "패션의 시선으로 자연석을 큐레이션하는 에이프릴 그레이브스",
+      "content": "아리아 스톤 갤러리의 에이프릴 그레이브스가 밝히는 천연 대리석 및 암석 셀렉션 철학. 인테리어 자재를 원단의 패턴처럼 취급하며 대담한 결투와 색채의 석재를 뉴트럴 톤으로 치환한다.",
+      "url": "https://design-milk.com/april-graves-aria-stone-gallery-natural-stone/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "April Graves",
+      "creator_insight": "건축 자재를 규격화된 상품이 아니라 한 점의 오트쿠튀르 패브릭처럼 다루는 큐레이션 감각을 강조한다.",
+      "tags": [
+        "물성",
+        "석재디자인",
+        "텍스처"
+      ],
+      "execution_techniques": [
+        "#MaterialCuration",
+        "#TexturalHierarchy"
+      ],
+      "why": "공간 디자인에서 물성의 본질을 극대화하여 럭셔리의 격을 높이는 방식을 설파한다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://design-milk.com/images/2026/08/April-Headshot-3-1500x1071.jpg",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "1927년 아카이브의 귀환: 말본 골프와 레드윙의 목 옥스퍼드 슈즈",
+      "content": "라이프스타일 골프 브랜드 말본과 워크웨어 헤리티지 레드윙의 협업 풋웨어. 1927년 오리지널 스포츠 옥스퍼드 모델의 실루엣을 복각하고 필드와 스트리트를 잇는 하이브리드 디자인을 제시했다.",
+      "url": "https://coolhunting.com/buy/malbon-x-red-wing-moc-oxford-golf-shoe/",
+      "source": "Cool Hunting",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Malbon Golf x Red Wing",
+      "creator_insight": "워크웨어의 둔탁한 가죽 질감을 클래식 골프화에 이식해 정형화된 골프웨어 씬의 규칙을 비틀었다.",
+      "tags": [
+        "브랜드콜라보",
+        "헤리티지복각",
+        "패션마케팅"
+      ],
+      "execution_techniques": [
+        "#ArchiveRevival",
+        "#HybridFootwear"
+      ],
+      "why": "브랜드 간의 단순 로고 플레이를 넘어 아카이브 자산을 재해석하는 콜라보레이션 기획의 정석이다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/08/FFADA43D-EAFB-4249-B260-C4AFDDACB673_1_201_a-768x768.jpeg",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "바르셀로나 카스크 안틱의 1000년 기억을 새긴 스트리트 아트",
+      "content": "역사 지구 카스크 안틱의 상인회와 거리 예술가들이 협업한 공공 미술 프로젝트 'Carrers amb Memòria'. 셔터와 벽면에 역사적 기록과 기억을 현대적 그래피티 언어로 박제했다.",
+      "url": "https://www.streetartbcn.com/carrers-amb-memoria/",
+      "source": "Street Art Barcelona",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Casc Antic Artists Collective",
+      "creator_insight": "도시 재생이라는 거창한 간판 대신 지역 상권의 물리적 표면을 아카이브 캔버스로 영리하게 전환했다.",
+      "tags": [
+        "스트리트아트",
+        "공공미술",
+        "도시디자인"
+      ],
+      "execution_techniques": [
+        "#UrbanStorytelling",
+        "#SiteSpecificArt"
+      ],
+      "why": "공공 공간과 역사적 텍스트를 스트리트 비주얼로 치환하는 공간 브랜딩의 훌륭한 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2026/05/SnapInsta.to_684841826_18582337657043665_2564207003654451017_n-768x1024.jpg",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "클레 아브라함의 표지판 해킹: 일상을 조롱하는 스트리트 그래픽",
+      "content": "도시 도로 표지판에 도발적인 스티커 아트를 부착해 권위적인 교통 신호를 유쾌한 풍자 메시지로 바꾼 게릴라 프로젝트.",
+      "url": "https://www.picamemag.com/clet-abraham-trasforma-i-segnali-stradali-in-dissacranti-messaggi-sociali/",
+      "source": "Picame",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "게릴라아트",
+        "스트리트유머"
+      ],
+      "why": "일상적인 규격 오브젝트를 약간의 비주얼 트위스트로 바이럴 자산으로 만드는 아이디어가 탁월하다.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Picame%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "런던 금융가 한복판에 상륙한 크레이그 & 칼의 네온 미니 골프",
+      "content": "런던 카나리 워프의 차가운 빌딩 숲 사이에 설치된 팝아트 듀오 크레이그 & 칼의 극채색 미니 골프 코스 인스톨레이션.",
+      "url": "https://levineleavitt.com/craig-karl-mini-golf-at-canary-wharf-london/",
+      "source": "levineleavitt.com",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "팝아트",
+        "체험형공간"
+      ],
+      "why": "엄숙한 비즈니스 지구의 분위기를 강렬한 패턴과 유희적 기획으로 단숨에 반전시킨 팝업 레퍼런스다.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=levineleavitt.com%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    },
+    {
+      "title": "바나나킥의 궤적을 3D 코드로 시각화한 축구 시뮬레이션",
+      "content": "마그누스 효과와 공기역학 물리 공식을 크리에이티브 코딩을 통해 유려한 3D 궤적 애니메이션으로 렌더링한 실험.",
+      "url": "https://medium.com/@an25081981/the-banana-kick-computed-5666b5d8f01f?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "크리에이티브코딩",
+        "모션데이터"
+      ],
+      "why": "스포츠 데이터와 물리 엔진을 매끄러운 3D 모션 그래픽으로 구현해 직관적인 시각적 쾌감을 준다.",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/600/1*z93RQS4pBsGOOJLE25e_uw.gif",
+      "pub_date": "2026-08-11T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "제로클릭 콘텐츠 구조화",
+      "is_hot": true
+    },
+    {
+      "word": "윤리적 인터랙션 규제",
+      "is_hot": false
+    },
+    {
+      "word": "아카이브 복각 하이브리드",
+      "is_hot": true
+    },
+    {
+      "word": "다층적 입체 조경",
+      "is_hot": false
+    },
+    {
+      "word": "도발적 스트리트 게릴라",
+      "is_hot": false
+    }
+  ]
+}
