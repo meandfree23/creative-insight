@@ -40,28 +40,35 @@ def discover_new_sources():
     except Exception as e:
         print(f"Error listing models: {e}")
 
-    # Prioritize 3.7-flash, 3.6-flash, 3.5-flash (Google requires 3.6+ for new users)
-    chosen_model = "models/gemini-3.6-flash"
-    for cand in ["3.7-flash", "3.6-flash", "3.5-flash", "flash-latest", "3.1-flash", "flash"]:
-        match = next((name for name in supported_models if cand in name and "2.5" not in name), None)
-        if match:
-            chosen_model = match
-            break
-    if not match and supported_models:
-        non_25 = [m for m in supported_models if "2.5" not in m]
-        chosen_model = non_25[0] if non_25 else supported_models[0]
+    candidate_models = []
+    for cand in ["3.6-flash", "3.5-flash", "flash-latest", "3.1-flash-lite", "pro-latest", "3.7-flash"]:
+        for name in supported_models:
+            if cand in name and "2.5" not in name and name not in candidate_models:
+                candidate_models.append(name)
+    if not candidate_models and supported_models:
+        candidate_models = [m for m in supported_models if "2.5" not in m] or supported_models
 
-    print(f"Selected Gemini model: {chosen_model}")
-    model = genai.GenerativeModel(
-        chosen_model,
-        generation_config={"response_mime_type": "application/json"}
-    )
-    
-    try:
-        response = model.generate_content(
-            "You are a helpful assistant that outputs only valid JSON arrays.\n" + prompt
+    print(f"Candidate Gemini models: {candidate_models}")
+
+    content = ""
+    for model_name in candidate_models:
+        model = genai.GenerativeModel(
+            model_name,
+            generation_config={"response_mime_type": "application/json"}
         )
-        content = response.text.strip()
+        try:
+            response = model.generate_content(
+                "You are a helpful assistant that outputs only valid JSON arrays.\n" + prompt
+            )
+            content = response.text.strip()
+            if content:
+                break
+        except Exception as e:
+            print(f"Error with {model_name}: {e}")
+            continue
+
+    if not content:
+        return []
         # Handle cases where GPT wraps array in an object
         parsed = json.loads(content)
         if isinstance(parsed, dict) and "sources" in parsed:

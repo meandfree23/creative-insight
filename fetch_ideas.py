@@ -367,41 +367,39 @@ def generate_daily_insight(date_str, articles_subset):
     except Exception as e:
         print(f"Error listing models: {e}")
 
-    # Prioritize 3.7-flash, 3.6-flash, 3.5-flash (Google requires 3.6+ for new users)
-    chosen_model = "models/gemini-3.6-flash"
-    for cand in ["3.7-flash", "3.6-flash", "3.5-flash", "flash-latest", "3.1-flash", "flash"]:
-        match = next((name for name in supported_models if cand in name and "2.5" not in name), None)
-        if match:
-            chosen_model = match
-            break
-    if not match and supported_models:
-        # Avoid deprecated 2.5 models
-        non_25 = [m for m in supported_models if "2.5" not in m]
-        chosen_model = non_25[0] if non_25 else supported_models[0]
+    # Prioritize models with standard high quotas (avoid 2.5 deprecated and 3.7 strict preview quota)
+    candidate_models = []
+    for cand in ["3.6-flash", "3.5-flash", "flash-latest", "3.1-flash-lite", "pro-latest", "3.7-flash"]:
+        for name in supported_models:
+            if cand in name and "2.5" not in name and name not in candidate_models:
+                candidate_models.append(name)
+    if not candidate_models and supported_models:
+        candidate_models = [m for m in supported_models if "2.5" not in m] or supported_models
 
-    print(f"Selected Gemini model: {chosen_model}")
-    model = genai.GenerativeModel(
-        chosen_model,
-        generation_config={"response_mime_type": "application/json"}
-    )
+    print(f"Candidate Gemini models: {candidate_models}")
 
-    for attempt in range(5):
-        try:
-            response = model.generate_content(
-                "You are a professional JSON generator. Output strictly valid JSON.\n" + prompt
-            )
-            text = response.text.strip()
-            if text.startswith("```"):
-                text = re.sub(r"^```(?:json)?\s*", "", text)
-                text = re.sub(r"\s*```$", "", text)
-            return json.loads(text)
-        except Exception as e:
-            print(f"Gemini API error on attempt {attempt+1}: {e}")
-            if "429" in str(e) or "quota" in str(e).lower() or "resource" in str(e).lower():
-                print("Rate limit encountered. Waiting 60 seconds before retrying...")
-                time.sleep(60)
-            else:
-                time.sleep(10)
+    for model_name in candidate_models:
+        print(f"Attempting generation with model: {model_name}")
+        model = genai.GenerativeModel(
+            model_name,
+            generation_config={"response_mime_type": "application/json"}
+        )
+        for attempt in range(2):
+            try:
+                response = model.generate_content(
+                    "You are a professional JSON generator. Output strictly valid JSON.\n" + prompt
+                )
+                text = response.text.strip()
+                if text.startswith("```"):
+                    text = re.sub(r"^```(?:json)?\s*", "", text)
+                    text = re.sub(r"\s*```$", "", text)
+                return json.loads(text)
+            except Exception as e:
+                print(f"Gemini API error with {model_name} (attempt {attempt+1}): {e}")
+                if "quota" in str(e).lower() or "429" in str(e) or "resource" in str(e).lower():
+                    print(f"Quota/limit for {model_name}, moving to next candidate model...")
+                    break
+                time.sleep(5)
     return None
 
 def update_manifest(date_str):
