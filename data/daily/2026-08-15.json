@@ -1,0 +1,384 @@
+{
+  "date": "2026-08-15",
+  "focusQ": "Agent's Thought: 허울뿐인 브랜드 포장과 알맹이 없는 미사여구가 넘쳐나는 시장이다. 시각적 자극에만 의존하는 조잡함 속에서 날카로운 구조와 본질적인 미학을 가려내는 냉철한 안목이 요구된다. 브랜드의 진정한 가치는 유행을 흉내 내는 것이 아니라 독자적인 서사 체계를 완성하는 데 있다.",
+  "creator_message": "큐레이터의 메시지: 어설픈 겉치레와 상업적 타협은 창작자의 직무유기다. 트렌드라는 핑계로 양산되는 진부한 콘텐츠 사이에서 오직 날카로운 구조감과 실체 있는 시각언어만이 브랜드의 가치를 증명한다.",
+  "session": {
+    "timestamp": "2026-08-20T02:27:24.151178",
+    "considered": 40,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title": "낡은 모텔의 감성 스테이 리브랜딩, 공간 공간 브랜드 '모키'",
+      "content": "전주 터미널 인근의 노후화된 모텔을 현대적 라이프스타일에 맞춘 감성 스테이로 리브랜딩한 프로젝트다. 단순한 숙박 시설을 넘어 체류 자체가 목적이 되는 공간 레이아웃과 미학적 브랜딩을 제시한다.",
+      "url": "https://www.designtwoply.com/works/commercial/%eb%aa%a8%ed%85%94%ec%97%80%ec%84%9c-%ec%8a%a4%ed%85%8c%ec%9d%b4%eb%a1%9c-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%eb%aa%a8%ed%82%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25aa%25a8%25ed%2585%2594%25ec%2597%2590%25ec%2584%259c-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25eb%25a1%259c-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%eb%aa%a8%ed%82%a4",
+      "source": "Design Twoply",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Design Twoply",
+      "creator_insight": "음습한 모텔이라는 공간적 한계를 감각적인 조명 설계와 마감재 전환으로 단숨에 극복하며 공간 재생의 정석을 보여준다.",
+      "tags": [
+        "공간리브랜딩",
+        "스테이디자인",
+        "전주모키"
+      ],
+      "execution_techniques": [
+        "#SpaceRebranding",
+        "#LightingContrast"
+      ],
+      "why": "국내 지방 도시의 자산 재생 모델로서 실용적인 브랜딩 해법과 공간 기획의 가치를 정확히 짚어냈다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2025/10/moki-썸네일사이즈.jpg",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "Schickeria Studio의 편집 디자인: 새로운 전통의 재해석",
+      "content": "Graz의 Schaumbad 전시를 위해 Schickeria Studio가 기획한 에디토리얼 시스템이다. 강렬한 타이포그래피 계층 구조를 활용해 현대 예술작품을 담아내는 새로운 시각적 규격을 완성했다.",
+      "url": "https://abduzeedo.com/editorial-design-die-neue-tradition-schickeria-studio/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Schickeria Studio",
+      "creator_insight": "전통적인 지면 레이아웃의 규칙을 파괴하면서도 엄격한 격자 체계를 유지해 도발적이고 절제된 폰트 콘트라스트를 완성했다.",
+      "tags": [
+        "에디토리얼디자인",
+        "타이포그래피",
+        "전시디자인"
+      ],
+      "execution_techniques": [
+        "#GridSystem",
+        "#TypographicHierarchy"
+      ],
+      "why": "인쇄 매체의 종말을 논하는 시대에 종이와 타이포그래피가 가질 수 있는 독보적인 중량감을 시각화했다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_die-neue-tradition-editorial-design-exhibition-schickeria-studio.jpg",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "에릭 로메르의 유일한 소설, 80년 만의 영문 출간이 가지는 신화",
+      "content": "누벨바그의 거장 에릭 로메르가 필명으로 집필했던 소설 'Élisabeth'가 80년 만에 영어로 번역되었다. 그의 영화적 연출 기법과 서사 구조의 시초를 보여주는 문학적 원형이다.",
+      "url": "https://www.anothermag.com/design-living/17400/eric-rohmer-elisabeth-novel-english-translation-mcnally-editions?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=discover-eric-rohmer-s-only-novel-published-in-english-for-the-first-time",
+      "source": "AnOther Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Éric Rohmer",
+      "creator_insight": "문장을 연출의 콘티처럼 다루며 후대 영화에서 나타난 특유의 세밀한 인간 관계 묘사를 텍스트 속에 완벽히 구축했다.",
+      "tags": [
+        "에릭로메르",
+        "누벨바그",
+        "시네마틱서사"
+      ],
+      "execution_techniques": [
+        "#TextualCinematography",
+        "#NarrativeBlueprint"
+      ],
+      "why": "텍스트가 어떻게 비주얼 연출의 거대한 기초 콘티가 되는지 거장의 원점을 통해 입증한다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476460.jpg",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "뉴발란스 2040v5 캐슬록: 400달러짜리 놈코어 스니커즈의 출현",
+      "content": "뉴발란스가 최고급 소재와 스펙을 집약한 2040v5 모델을 400달러라는 파격적인 가격에 선보인다. 하이엔드 수집가 시장을 겨냥한 평범함 속의 극단적 하이엔드 브랜딩 전략이다.",
+      "url": "https://www.highsnobiety.com/p/new-balance-2040v5-castlerock/",
+      "source": "Highsnobiety",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "New Balance Design Team",
+      "creator_insight": "가장 평범한 대중적 실루엣에 미학적 극단주의와 프리미엄 유산의 가치를 주입해 브랜딩의 딜레마를 정면 돌파한다.",
+      "tags": [
+        "뉴발란스",
+        "놈코어",
+        "브랜드전략"
+      ],
+      "execution_techniques": [
+        "#NormcoreLuxury",
+        "#HighEndPositioning"
+      ],
+      "why": "평범함과 사치라는 대립적 개념을 전략적으로 결합해 가격 정당성을 확보하는 브랜드 포지셔닝의 백미다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "멕시코시티 Align Studio: 신체 정렬을 건축적 리듬으로 번역하다",
+      "content": "Talo Atelier가 설계한 웰니스 스튜디오로, 곡선형 개구부와 오크 나무 슬랫을 활용해 정교한 건축적 조화를 이뤄냈다. 내면의 조화와 신체 움직임을 공간의 동선으로 구현했다.",
+      "url": "https://design-milk.com/align-studio-talo-atelier-mexico-city/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Talo Atelier",
+      "creator_insight": "신체의 움직임이라는 비물질적 경험을 오크재의 반복적인 패턴과 부드러운 유기적 선으로 물질화했다.",
+      "tags": [
+        "공간디자인",
+        "웰니스건축",
+        "인테리어"
+      ],
+      "execution_techniques": [
+        "#SpatialRhythm",
+        "#OrganicArchitecture"
+      ],
+      "why": "공간의 물리적 형태가 어떻게 이용자의 심리적 안정과 물리적 행위를 유도할 수 있는지 보여주는 명확한 사례다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://design-milk.com/images/2026/08/ALIGN_SALONES_2-render-1500x1124.png",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "WPP 그룹을 흔든 3억 5천만 달러 비공개 리베이트 파문",
+      "content": "전직 WPP 임원의 고발로 불거진 소니 조사 사건으로, 미디어 에이전시의 음성적 리베이트 수수 논란이 수면 위로 올랐다. 글로벌 광고 생태계의 투명성과 비즈니스 윤리를 둘러싼 파장이다.",
+      "url": "https://www.campaignlive.com/article/ex-wpp-executive-claims-sony-probe-found-350m-client-rebates-retained/1967579",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Richard Foster",
+      "creator_insight": "광고대행사와 클라이언트 간의 불투명한 미디어 집행 관행의 구조적 맹점을 적나라하게 폭로했다.",
+      "tags": [
+        "광고업계",
+        "WPP",
+        "미디어에이전시"
+      ],
+      "execution_techniques": [
+        "#AgencyTransparence",
+        "#CorporateGovernance"
+      ],
+      "why": "광고 에이전시의 비즈니스 모델이 직면한 윤리적 신뢰성 위기를 경고하는 중요한 업계 분석이다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "허수아비에서 인간으로: 캐릭터 디자인의 3D 서사 구조 분해",
+      "content": "아티스트 Anna Cerutti가 캐릭터 'Harvey'의 워크플로우를 공개했다. 카툰적 비율과 정교한 기하학적 형태를 결합하여 입체적인 서사를 캐릭터 3D 모델링에 녹여낸 프로세스다.",
+      "url": "https://80.lv/articles/breakdown-how-to-design-a-scarecrow-turned-human-character/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Anna Cerutti",
+      "creator_insight": "캐릭터의 배경 스토리를 메쉬 구조와 재질 질감의 차이로 직관적으로 시각화하는 기술적 탁월함을 보여준다.",
+      "tags": [
+        "캐릭터디자인",
+        "3D모델링",
+        "서사디자인"
+      ],
+      "execution_techniques": [
+        "#3DCharacterMesh",
+        "#VisualStorytelling"
+      ],
+      "why": "단순한 비주얼 연출을 넘어 3D 자산에 서사적 개성을 부여하는 실무 기법의 정수를 전달한다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cdn.80.lv/api/upload/post/41267/images/6a83c8a2be635/cover_800x800.jpg",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "2026 예술의전당 국제음악제: 티모시 리다우트 & 프랑크 뒤프레 듀오 리사이틀",
+      "content": "비올라와 피아노의 절묘한 음색 대비를 통해 깊이 있는 클래식 미학을 전달한 리사이틀 리뷰다. 감람색 추억을 상환하는 고도의 청각적 서사를 무대 위에서 시각화했다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=82104",
+      "source": "Artinsight",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Timothy Ridout & Frank Dupree",
+      "creator_insight": "비올라 특유의 중간 음역대를 조명과 음향 배치를 통해 독주 악기 이상의 감성적 밀도로 확장했다.",
+      "tags": [
+        "예술의전당",
+        "국제음악제",
+        "공연기획"
+      ],
+      "execution_techniques": [
+        "#AcousticStaging",
+        "#AuditoryNarrative"
+      ],
+      "why": "공연 예술 기획에서 악기의 고유한 질감을 시각적 미학으로 재해석하는 날카로운 감각을 선사한다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://www.artinsight.co.kr/data/tmp/2608/20260819091951_hvdqvkfu.jpg",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "RTA Studio의 곡선형 격자 구조: 오클랜드 Fisher & Paykel 본사",
+      "content": "뉴질랜드 오클랜드에 신축된 Fisher & Paykel 및 Haier 본사 사옥 프로젝트다. 곡선형 외곽선과 진보된 대각선 격자(Diagrid) 구조를 결합해 차세대 오피스 공간의 전형을 완성했다.",
+      "url": "https://retaildesignblog.net/2026/08/12/fisher-paykel-and-haier-australasia-headquarters-by-rta-studio/",
+      "source": "Retail Design Blog",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "RTA Studio",
+      "creator_insight": "하중을 견디는 대각선 격자 구조를 외관 입면의 미학적 오브제로 변환시켜 오피스 건축의 지루함을 파괴했다.",
+      "tags": [
+        "건축디자인",
+        "오피스인테리어",
+        "RTAStudio"
+      ],
+      "execution_techniques": [
+        "#DiagridStructure",
+        "#CurvedFacade"
+      ],
+      "why": "사옥 건축이 브랜드의 기술적 우위와 미학적 철학을 공학적으로 표현하는 고도의 예시다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://placehold.co/800x600/1c1917/FFFFFF?text=Retail%20Design%20Blog%0A%28SPATIAL%29&font=playfair-display",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "AI 시대, 이커머스 웹사이트 디자인에서 놓치지 말아야 할 12가지 요소",
+      "content": "생성형 AI가 UX 기획을 대체하는 시점에서도 인간 디자이너가 사수해야 할 이커머스 핵심 설계 요소를 다룬다. 인터랙션의 질감과 구매 전환을 결정짓는 미세한 시각적 차이에 집중한다.",
+      "url": "https://medium.muz.li/12-essential-things-to-consider-when-designing-an-ecommerce-website-now-that-ai-is-doing-the-12e6fcbc88f7?source=rss----5969bf7021a3---4",
+      "source": "Muzli (Medium)",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Muzli Editorial",
+      "creator_insight": "자동화 툴이 결코 모방할 수 없는 감성적 인터랙션 및 타이포그래피의 밀도감을 브랜드 차별화의 무기로 제시한다.",
+      "tags": [
+        "이커머스UX",
+        "웹디자인",
+        "AI디자인"
+      ],
+      "execution_techniques": [
+        "#UXMicroInteractions",
+        "#ConversionDesign"
+      ],
+      "why": "기술 과잉의 시대에 인간 고유의 감각적 설계가 브랜드 스토어를 어떻게 구원하는지 통찰을 제시한다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cdn-images-1.medium.com/max/1024/1*t5wMU4t1Co_vBiVTSsUTcw.jpeg",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "페라리 체조 스틸레의 비밀: 자체 디자인 부서가 만들어낸 신화",
+      "content": "2010년 이전까지 외주에 의존하던 페라리가 Centro Stile을 통해 2013년 라페라리를 탄생시키기까지의 비하인드 스토리를 담은 서적이다. 슈퍼카 디자인 언어의 내재화 과정이다.",
+      "url": "https://coolhunting.com/buy/447756/",
+      "source": "coolhunting.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Ferrari Centro Stile",
+      "creator_insight": "브랜드의 정체성을 타인에게 맡기지 않고 내부 스튜디오 체제에서 완벽한 조형언어로 직조해낸 독자적 시스템이다.",
+      "tags": [
+        "페라리",
+        "자동차디자인",
+        "브랜드유산"
+      ],
+      "execution_techniques": [
+        "#InHouseDesignSystem",
+        "#AerodynamicSculpting"
+      ],
+      "why": "인하우스 디자인 조직이 브랜드 고유의 사치와 스피드 정체성을 어떻게 수호하고 극대화했는지 증명한다.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/08/Ferrari_Design_Creative_Journeys_cover-1-e1786656876636-768x768.jpeg",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "축구, 아름다운 게임을 디자인하다: 도록으로 읽는 스포츠 미학",
+      "content": "세계적 스포츠인 축구에 숨겨진 그래픽, 유니폼 브랜딩, 경기장 건축 및 시각 시스템을 통합 분석한 전시 도록이다. 스포츠 산업 전반을 지배하는 시각 디자인의 힘을 재조명한다.",
+      "url": "http://smadani.com/football-designing-the-beautiful-game-catalogue/",
+      "source": "Shaz Madani Studio",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Shaz Madani",
+      "creator_insight": "하급 서브컬처와 대중 스포츠를 하이엔드 그래픽 가이드라인으로 격상시키는 체계적인 레이아웃 설계를 보여준다.",
+      "tags": [
+        "축구디자인",
+        "스포츠브랜딩",
+        "전시북도록"
+      ],
+      "execution_techniques": [
+        "#SportsBranding",
+        "#PublicationDesign"
+      ],
+      "why": "대중 스포츠 산업이 어떻게 시각 시스템을 통해 거대한 문화적 패티시즘으로 완성되는지 해부한다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Unknown%20Source%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "아트아시아 페어(ART ASIA FAIR): 서이 갤러리의 새로운 데뷔",
+      "content": "코엑스 Hall D2에서 펼쳐진 아트아시아 페어 참여 현장으로, 서이 갤러리가 선보인 현대 미술 컬렉션과 모던한 부스 연출을 기록한 아트 페어 리포트다.",
+      "url": "https://blog.naver.com/sabids/221610094855?fromRss=true&trackingCode=rss",
+      "source": "Seoi Gallery",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "서이 갤러리",
+      "creator_insight": "제한된 갤러리 부스 공간 속에서 작품 간의 시각적 간격을 극대화하여 관람객의 동선을 유연하게 유도했다.",
+      "tags": [
+        "아트아시아",
+        "서이갤러리",
+        "아트페어"
+      ],
+      "execution_techniques": [
+        "#BoothCurating",
+        "#GalleryDisplay"
+      ],
+      "why": "국내 미술 시장의 상업적 현장감과 갤러리 큐레이션의 미학적 타협 지점을 직접 확인할 수 있다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://blogthumb.pstatic.net/MjAxOTA4MDhfOTgg/MDAxNTY1MjU5NzQyNzI1.eYMaMPRTLCHBqcQgaadIMlnjRCj0Xiul0uTX-Zb4YXkg.PHT3dydH3gjGWjSJD8-eAvUy2gD2TBgn7EbgDu8WFHUg.JPEG.sabids/20190808_143321.jpg?type=s3",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "와비의 매우 특별한 여름 (A Very Wabie Summer)",
+      "content": "해변으로 떠난 친구들의 평화롭고 이상한 해프닝을 다룬 위트 넘치는 단편 애니메이션.",
+      "url": "https://vimeo.com/channels/staffpicks/1218375109",
+      "source": "Vimeo Staff Picks",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "단편애니메이션",
+        "비메오"
+      ],
+      "why": "키치한 그래픽 스타일과 예측 불가능한 서사 전개로 영상 창작자들에게 탁월한 유머 스케치를 제공한다.",
+      "depth": 0.5,
+      "image": "https://i.vimeocdn.com/video/2190285556-20906f85650dff80ea54c184411caca322725349cb5b93873ea909cb223f3448-d_960?region=us",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    },
+    {
+      "title": "Absurd & Pointless: 황당함과 무의미의 비주얼 콜라주",
+      "content": "B급 감성과 그래픽실험을 접목한 허무맹랑하고 기발한 비주얼 아트워크 프로젝트.",
+      "url": "https://www.behance.net/gallery/254094787/Absurd-Pointless",
+      "source": "Behance",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "비에이치",
+        "아트워크"
+      ],
+      "why": "진지함에 갇힌 디자이너들의 뇌를 깨우는 기발하고 골때리는 시각적 아이디어 모음집.",
+      "depth": 0.5,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/045c68254094787.Y3JvcCwxMTM1LDg4OCw0MzMsNzg3.jpg",
+      "pub_date": "2026-08-15T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 구조",
+      "is_hot": true
+    },
+    {
+      "word": "공간 재생 브랜딩",
+      "is_hot": true
+    },
+    {
+      "word": "럭셔리 놈코어",
+      "is_hot": false
+    },
+    {
+      "word": "시네마틱 텍스트",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 타이포그래피 계층",
+      "is_hot": false
+    },
+    {
+      "word": "건축적 리듬감",
+      "is_hot": true
+    }
+  ]
+}

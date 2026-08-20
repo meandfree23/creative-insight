@@ -1,0 +1,380 @@
+{
+  "date": "2026-08-19",
+  "focusQ": "Agent's Thought: 어설픈 트렌드 용어로 포장된 기획은 시각적 공해일 뿐이다. 진정한 미학은 집요한 감각적 절제와 기믹 없는 본질의 구현에서 나온다. 크리에이터라면 유행에 눈멀지 말고 냉혹한 시선으로 디테일을 잘라내라.",
+  "creator_message": "큐레이터의 메시지: 뻔한 AI 찌꺼기 단어 뒤에 숨지 마라. 매끄러운 껍데기만 남은 디자인과 마케팅 속에서 당신이 증명해야 할 것은 유연함이 아니라 서늘할 정도의 뾰족한 취향이다. 오늘 고른 15개의 레퍼런스를 통해 당신의 안목에 쌓인 먼지를 털어내길 바란다.",
+  "session": {
+    "timestamp": "2026-08-20T02:43:50.310038",
+    "considered": 40,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title": "불길 속의 서사: 아크레의 뉴로즈를 담은 시네마틱 프레임",
+      "content": "쿠르드족의 뉴로즈 축제 밤, 불빛과 어둠이 교차하는 아크레 산악 지대를 집요하게 추적한 비주얼 필름. 군중의 움직임과 웅장한 자연이 만든 강렬한 명암 대비가 돋보인다.",
+      "url": "https://vimeo.com/channels/staffpicks/1188438376",
+      "source": "Vimeo Staff Picks",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Vimeo Staff Pick Director",
+      "creator_insight": "인위적인 연출을 배제하고 어둠과 불꽃이라는 원초적 재료만으로 군중의 서사를 웅장한 시네마틱 톤으로 포착해냈다.",
+      "tags": [
+        "시네마토그래피",
+        "불꽃 연출",
+        "다큐멘터리"
+      ],
+      "execution_techniques": [
+        "Chiaroscuro-Lighting",
+        "Long-Take-Drifting"
+      ],
+      "why": "조명 기믹 없이 순수한 빛과 어둠의 명암만으로 압도적인 시각적 서사를 완성하는 연출법을 배울 수 있다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://i.vimeocdn.com/video/2183012352-a8afe888ed253d8c695dd938fc550a4c66caad0ebd36887c443089e667c2e8cf-d_960?region=us",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "점심시간의 가식 없는 파리 모델들: 오프-카메라의 서사",
+      "content": "사진작가 마크 아베그 드 부슈빌이 파리 패션위크 도중 88명의 모델들이 점심을 먹는 솔직한 순간을 담은 사진집. 화려한 런웨이 뒤에 숨겨진 인간적인 찰나를 조명한다.",
+      "url": "https://www.anothermag.com/art-photography/17399/mark-abegg-de-doucherville-out-to-lunch-models-lunch-photo-book?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=a-new-photo-book-captures-paris-models-on-their-lunch-break",
+      "source": "AnOther Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Mark Abegg de Boucherville",
+      "creator_insight": "연출된 패션 화보의 작위성을 비웃듯, 점심시간이라는 지극히 일상적인 순간을 렌즈에 담아 무대 밖의 날것 그대로의 미학을 건져 올렸다.",
+      "tags": [
+        "패션포토",
+        "비하인드",
+        "인물사진"
+      ],
+      "execution_techniques": [
+        "Candid-Snapshot",
+        "Raw-Natural-Light"
+      ],
+      "why": "완벽하게 계산된 브랜드 이미지보다 다큐멘터리적 날것의 찰나가 어떻게 더 강렬한 브랜드 서사를 만드는지 보여준다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476454.jpg",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "에센트리카의 디아블로 로드스터: 날것의 아날로그 슈퍼카 재해석",
+      "content": "몬터레이 카 위크에서 공개된 람보르기니 디아블로 기반의 레스토모드. 자연흡기 V12 엔진과 아날로그 퍼포먼스, 현대적 이탈리안 디자인을 극적으로 융합했다.",
+      "url": "https://www.highsnobiety.com/p/eccentrica-just-made-monterey-car-week-even-louder/",
+      "source": "Highsnobiety",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Eccentrica Design Team",
+      "creator_insight": "디지털 화면에 집착하는 현대 자동차 디자인에 반기를 들고, 레트로 아날로그의 질감과 압도적 V12 노이즈로 럭셔리의 정점을 재정의했다.",
+      "tags": [
+        "레스토모드",
+        "슈퍼카디자인",
+        "아날로그"
+      ],
+      "execution_techniques": [
+        "Retro-Futurism-Form",
+        "Raw-Tactile-Materials"
+      ],
+      "why": "신기술 자랑질에 지친 소비자를 사로잡는 것은 결국 과거의 강력한 헤리티지를 극도로 정제해 내놓는 배짱이다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "컬러를 배제한 밀도: 톨루카 레이크 하우스의 모노크롬 공간 레이어링",
+      "content": "디자이너 리단 스파디아가 모헤어, 리넨, 석회암, 오크 소재만을 중첩해 만든 LA의 절제된 주택. 색채 없이 오직 소재의 질감과 명암만으로 깊이감을 완성했다.",
+      "url": "https://design-milk.com/lidan-sfadia-toluca-lake-home/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Lidan Sfadia",
+      "creator_insight": "화려한 색채 범람을 거부하고, 텍스처의 섬세한 차이만으로 공간의 볼륨과 밀도를 자아내는 극도의 정밀함을 보여준다.",
+      "tags": [
+        "공간디자인",
+        "인테리어",
+        "모노크롬"
+      ],
+      "execution_techniques": [
+        "Material-Layering",
+        "Monochromatic-Texture"
+      ],
+      "why": "비주얼 요소를 더하는 것이 아니라 재질의 미묘한 차이로 고급스러움을 만드는 감각적 훈련에 적합하다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://design-milk.com/images/2026/08/toluca-lake-lidan-sfadia-8.jpg",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "더 사보이의 재탄생: 에드워디안과 아트데코를 잇는 럭셔리 공간",
+      "content": "런던의 전설적인 사보이 호텔이 G.A 그룹과의 협업을 통해 에드워디안과 아트데코 스타일의 고전적 유산을 현대적 감각으로 재구성했다.",
+      "url": "https://www.wallpaper.com/travel/hotels/the-savoy-london-review",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "G.A Group",
+      "creator_insight": "역사적 랜드마크의 고전적 디테일을 무작정 덮어씌우지 않고, 시대적 유산을 세련되게 정제하여 공간의 브랜드 가치를 극대화했다.",
+      "tags": [
+        "호텔디자인",
+        "아트데코",
+        "럭셔리브랜딩"
+      ],
+      "execution_techniques": [
+        "Heritage-Restoration",
+        "Art-Deco-Refinement"
+      ],
+      "why": "오래된 브랜드를 현대화할 때 온고지신의 디테일을 어떻게 녹여내야 하는지 보여주는 전형적 스탠다드.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdn.mos.cms.futurecdn.net/3uRDmYAu8iAu4fZBoW9sTA-1280-80.jpg",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "디자인 시스템은 단순한 규격집이 아니다: 브랜드 마케팅의 차가운 핵심",
+      "content": "UI/UX 일관성을 위해 만들어진 디자인 시스템이 어떻게 브랜드의 가장 강력한 마케팅 엔진으로 기능하는지 분석한 기사.",
+      "url": "https://skorudzhiev.medium.com/your-design-system-is-already-a-marketing-engine-39fd1e29aac7?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Stefan Skorudzhiev",
+      "creator_insight": "디자인 시스템을 내부 생산성 도구로만 바라보는 협소한 시각을 깨부수고, 시스템 자체가 브랜드의 고유한 메시지가 되는 지점을 짚었다.",
+      "tags": [
+        "디자인시스템",
+        "브랜드전략",
+        "마케팅"
+      ],
+      "execution_techniques": [
+        "Systemic-Consistency",
+        "Scalable-Visual-Language"
+      ],
+      "why": "마케팅 캠페인과 UI 시스템이 일치할 때 브랜드 메시지가 어떻게 대중에게 마찰 없이 전달되는지 전략적 근거를 제시한다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cdn-images-1.medium.com/max/1600/1*ta7O5a8851cPGXYVRwozmg.png",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "AI의 오만한 확신에 속지 마라: 기획자가 지켜야 할 의구심의 가치",
+      "content": "AI가 제공하는 자신감 넘치는 답안에 의존하지 말라고 경고하며, 기획의 진정한 가치는 끊임없는 의구심과 비판적 질문에서 나온다는 사실을 강조한다.",
+      "url": "https://designobserver.com/ai-will-offer-you-confidence-and-conviction-dont-fall-for-it/",
+      "source": "Design Observer",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Design Observer Editorial Board",
+      "creator_insight": "AI가 뱉어내는 뻔하고 매끄러운 텍스트를 거부하고, 기획자의 뾰족한 회의론이야말로 유일한 독창성의 출처임을 날카롭게 지적한다.",
+      "tags": [
+        "AI비판",
+        "크리에이티브기획",
+        "디자인철학"
+      ],
+      "execution_techniques": [
+        "Critical-Questioning",
+        "Anti-Generic-Framing"
+      ],
+      "why": "무비판적으로 AI 생성 콘텐츠를 가져다 쓰는 기획자들에게 경종을 울리는 자극제.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://designobserver.com/wp-content/uploads/2026/07/6-2-1024x683.png",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "630만 관객을 모으는 메트로폴리탄 미술관의 냉철한 관객 참여 전략",
+      "content": "메트로폴리탄 미술관의 트리시아 롭슨이 설명하는 관객 참여 팀의 협업과 대중과의 접점을 만드는 입체적 접근법.",
+      "url": "https://designobserver.com/tricia-robson-on-how-the-metropolitan-museum-of-arts-audience-engagement-teams-collaborate-to-engage-6-3-million-visitors/",
+      "source": "Design Observer",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Tricia Robson",
+      "creator_insight": "고압적인 예술적 권위를 내려놓고 630만 관객 개개인의 감각적 경험을 자극하는 전략적 커뮤니케이션 설계를 구축해냈다.",
+      "tags": [
+        "미술관브랜딩",
+        "관객참여",
+        "문화마케팅"
+      ],
+      "execution_techniques": [
+        "Audience-Centric-Framing",
+        "Multi-Touchpoint-Strategy"
+      ],
+      "why": "거대한 유산 브랜드가 대중과 소통할 때 단순한 전시를 넘어 어떤 브랜드 경험을 설계해야 하는지 말해준다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://designobserver.com/wp-content/uploads/2026/06/x2Cu_erg-1024x682.jpg",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "프레레-존스의 신작 'Constrictor': 응축된 타이포그래피의 밀도",
+      "content": "프레레-존스 타입이 선보인 새로운 서체 패밀리 Constrictor. 조여오는 듯한 응축된 조형미와 강렬한 시각적 인상을 특징으로 한다.",
+      "url": "https://www.slanted.de/constrictor/",
+      "source": "Slanted",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Frere-Jones Type",
+      "creator_insight": "자간과 굵기의 극단적 조여냄을 통해 단편적인 글자 형태를 하나의 강력한 그래픽 스태프이자 시각적 장치로 탈바꿈시켰다.",
+      "tags": [
+        "타이포그래피",
+        "서체디자인",
+        "그래픽디자인"
+      ],
+      "execution_techniques": [
+        "Tight-Condensed-Form",
+        "High-Contrast-Strokes"
+      ],
+      "why": "브랜드 타이포그래피에서 서체 하나만으로 무드를 지배하는 강렬한 기하학적 조형감을 참고할 수 있다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Slanted%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "미국 건축 시장의 장기 침체: 불황기 공간 디자인의 위기 대응",
+      "content": "미국건축가협회(AIA)가 발표한 건축 수익 지표의 역사상 최장기 침체 기록. 매크로 경제 불확실성이 공간 산업 전반을 거세게 압박하고 있다.",
+      "url": "https://www.dezeen.com/2026/08/19/aia-announces-longest-ongoing-slump-abi/",
+      "source": "Dezeen",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "American Institute of Architecture",
+      "creator_insight": "건축 스케일의 거대 자본 투자가 멈춘 시대에 디자이너들이 거대한 신축 대신 고밀도의 미시적 리노베이션에 주목해야 함을 시사한다.",
+      "tags": [
+        "건축트렌드",
+        "공간산업",
+        "매크로인사이트"
+      ],
+      "execution_techniques": [
+        "Economic-Data-Analysis",
+        "Micro-Architecture-Shift"
+      ],
+      "why": "공간 디자이너와 기획자가 불황기 프로젝트의 규모와 내러티브를 어떻게 재설정해야 하는지 실용적인 시장 데이터를 제공한다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "http://static.dezeen.com/uploads/2023/05/new-york-city-skyline-sq-411x411.jpg",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "14시간 비행이 주는 고립감: 밀폐된 공간에서의 현대적 피로 미학",
+      "content": "장거리 비행이라는 기이한 고립 상태에서 겪은 감각적 일상을 담아낸 에세이. 고도 3만 피트 속 비행기 안이라는 특수 공간의 정서를 세밀하게 기록했다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=82106",
+      "source": "Unknown Source",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "아트인사이트 에디터",
+      "creator_insight": "이동 공간 속에서 일어나는 현대인의 이동 피로와 차단된 시간성을 감각적인 텍스트로 잘라내어 독특한 고립의 정서를 그려냈다.",
+      "tags": [
+        "한국소비자정서",
+        "공간경험",
+        "에세이"
+      ],
+      "execution_techniques": [
+        "Claustrophobic-Narrative",
+        "Temporal-Isolation"
+      ],
+      "why": "한국의 현대 소비자들이 '여행'과 '이동'이라는 시공간에서 느끼는 미묘한 감성적 결핍을 읽어내는 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.artinsight.co.kr/data/tmp/2608/20260819210949_rbzusfun.jpg",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "고전 서사의 비틀기: 오디세우스의 영웅주의에 던지는 서늘한 질문",
+      "content": "'오디세이아'를 2026년의 시선으로 읽어내며, 영웅주의라는 허상을 해체하고 현대적 관점에서 오디세우스의 영악함과 한계를 고찰한다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=82100",
+      "source": "Unknown Source",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "아트인사이트 문화 리뷰어",
+      "creator_insight": "무비판적으로 수용되던 신화적 클리셰를 찢어발기고, 현대 콘텐츠 기획에 필요한 서사 해체적 시각을 제시한다.",
+      "tags": [
+        "고전해체",
+        "서사분석",
+        "한국크리에이티브"
+      ],
+      "execution_techniques": [
+        "Deconstructive-Reading",
+        "Subversive-Framing"
+      ],
+      "why": "기존 브랜드 스토리텔링이나 콘텐츠 제작 시 영웅 서사 클리셰를 어떻게 뒤집을 것인가에 대한 통찰을 준다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://www.artinsight.co.kr/data/tmp/2608/20260818221824_yenouptc.jpg",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "군집 알고리즘의 비주얼 미학: 400마리 새의 무작위성이 만든 시각적 질서",
+      "content": "단 3가지 규칙으로 새들의 완벽한 군집 비행(Murmuration)을 구현하는 Boids 알고리즘과 수학적 번호가 만드는 시각적 경이로움을 분석한다.",
+      "url": "https://medium.com/data-arkaive/the-boids-flocking-algorithm-400-birds-3-rules-and-one-number-that-measures-a-murmuration-889d5c0b8535?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Craig Reynolds / Data Arkaive",
+      "creator_insight": "단순한 코드 규칙 몇 줄로 자연의 복잡한 움직임과 유기적 연출을 대체하는 하이엔드 모션 그래픽 기술의 근본을 밝혀낸다.",
+      "tags": [
+        "알고리즘아트",
+        "제너레이티브아트",
+        "모션디자인"
+      ],
+      "execution_techniques": [
+        "Rule-Based-Simulation",
+        "Emergent-Behavior-Visual"
+      ],
+      "why": "CG 및 모션 연출에서 자연스러운 군집 감각을 컴퓨터 그래픽으로 녹여내는 핵심 원리를 선사한다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cdn-images-1.medium.com/max/1200/1*aqtJKL26egwIC6GmvUe1FQ.png",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "인형 전용 신사의 등장: 일본 오타쿠 문화가 낳은 키치한 팝 신사",
+      "content": "봉제인형만을 위해 만들어진 일본 최초의 신사. 애착 인형을 모시는 기이하고 귀여운 서브컬처적 공간의 탄생.",
+      "url": "https://spoon-tamago.com/japan-first-plushie-shrine/?utm_source=rss&utm_medium=rss&utm_campaign=japan-first-plushie-shrine",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "서브컬처",
+        "키치콘텐츠"
+      ],
+      "why": "소비자의 과몰입을 아예 신성한 공간으로 극대화한 일본 특유의 유쾌한 팝컬처 기획 레퍼런스.",
+      "depth": 0.5,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/06/japan-plushie-shrine-2-200x167.jpeg",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    },
+    {
+      "title": "Modern Toss 21주년: 욕설과 직장 내 분노로 가득한 서카즘 카툰",
+      "content": "21주년을 맞은 Modern Toss의 전시. 직장인의 분노와 조소를 직관적이고 거친 카툰으로 표현한 영국적 풍자.",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/gloriously-inappropriate-cartoon-modern-toss-marks-21-years",
+      "source": "Wallpaper*",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "풍자카툰",
+        "서카즘"
+      ],
+      "why": "솔직하다 못해 날것인 서카즘 톤앤매너가 현대 숏폼/바이럴 콘텐츠에서 어떻게 대중을 사로잡는지 입증한다.",
+      "depth": 0.5,
+      "image": "https://cdn.mos.cms.futurecdn.net/ZeXFb2i42WvmnD7mVcB79Q-1280-80.gif",
+      "pub_date": "2026-08-19T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "감각적 절제주의",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 패러독스",
+      "is_hot": true
+    },
+    {
+      "word": "하이어라키의 해체",
+      "is_hot": false
+    },
+    {
+      "word": "정제된 미학적 질감",
+      "is_hot": true
+    },
+    {
+      "word": "서사적 시네마티즘",
+      "is_hot": false
+    }
+  ]
+}
