@@ -385,7 +385,7 @@ def generate_daily_insight(date_str, articles_subset):
         generation_config={"response_mime_type": "application/json"}
     )
 
-    for attempt in range(3):
+    for attempt in range(5):
         try:
             response = model.generate_content(
                 "You are a professional JSON generator. Output strictly valid JSON.\n" + prompt
@@ -397,7 +397,11 @@ def generate_daily_insight(date_str, articles_subset):
             return json.loads(text)
         except Exception as e:
             print(f"Gemini API error on attempt {attempt+1}: {e}")
-            time.sleep(5)
+            if "429" in str(e) or "quota" in str(e).lower() or "resource" in str(e).lower():
+                print("Rate limit encountered. Waiting 60 seconds before retrying...")
+                time.sleep(60)
+            else:
+                time.sleep(10)
     return None
 
 def update_manifest(date_str):
@@ -471,7 +475,13 @@ def main():
         print(f"Found {len(missing_dates)} missing dates: {missing_dates}. Processing in single batch...")
         sources = load_sources()
         for d_str in missing_dates:
-            process_date(d_str, sources=sources)
+            success = process_date(d_str, sources=sources)
+            if success:
+                print(f"Successfully processed {d_str}. Pausing 15s before next date...")
+                time.sleep(15)
+            else:
+                print(f"Failed to process {d_str}. Pausing 30s before next date...")
+                time.sleep(30)
 
 if __name__ == "__main__":
     main()

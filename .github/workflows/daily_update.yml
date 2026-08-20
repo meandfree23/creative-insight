@@ -49,14 +49,9 @@ jobs:
         run: |
           python fetch_ideas.py ${{ github.event.inputs.target_date }}
 
-          # Save the generated daily file to a temporary location
-          TARGET_FILE=$(ls -t data/daily/*.json | head -1)
-          if [ -z "$TARGET_FILE" ]; then
-            echo "No daily file generated. Exiting."
-            exit 1
-          fi
-          FILENAME=$(basename "$TARGET_FILE")
-          cp "$TARGET_FILE" /tmp/$FILENAME
+          # Save all generated daily files to a temporary directory
+          mkdir -p /tmp/daily_backup
+          cp data/daily/*.json /tmp/daily_backup/
 
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -66,8 +61,8 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             
-            # Restore our generated file
-            cp /tmp/$FILENAME data/daily/$FILENAME
+            # Restore all generated files
+            cp /tmp/daily_backup/*.json data/daily/
             
             # Rebuild manifest.json dynamically
             python3 -c "import os, json; json.dump({'dates': sorted([f.replace('.json', '') for f in os.listdir('data/daily') if f.endswith('.json')], reverse=True)}, open('data/manifest.json', 'w'), indent=2)"
@@ -77,6 +72,6 @@ jobs:
               break
             fi
             
-            git commit -m "Automated daily update for $FILENAME"
+            git commit -m "Automated daily update"
             git push origin main && break || sleep $((RANDOM % 10 + 5))
           done
