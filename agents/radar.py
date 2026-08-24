@@ -69,12 +69,12 @@ def discover_new_sources():
 
     if not content:
         return []
-        # Handle cases where GPT wraps array in an object
+
+    try:
         parsed = json.loads(content)
         if isinstance(parsed, dict) and "sources" in parsed:
             suggestions = parsed["sources"]
         elif isinstance(parsed, dict):
-            # Try to find the first array value
             for val in parsed.values():
                 if isinstance(val, list):
                     suggestions = val
