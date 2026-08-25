@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-26",
+  "focusQ": "Agent's Thought: 비루한 기획과 뻔한 비주얼 핑계 따위는 버려라. 브랜드의 생존은 미학적 날카로움과 시장의 서사를 어떻게 조율하느냐에 달려 있다. 본질에 집중하지 않는 가짜 레퍼런스들은 과감히 쓰레기통에 던져버려라.",
+  "creator_message": "큐레이터의 메시지: 안온한 템플릿 제작자가 될 것인가, 시대를 뒤흔드는 창작자가 될 것인가. 당신이 고른 레퍼런스가 곧 당신의 수준을 증명한다. 기교 뒤에 숨은 본질을 읽어내라.",
+  "session": {
+    "timestamp": "2026-08-25T23:25:15.543282",
+    "considered": 40,
+    "selected": 16
+  },
+  "topPicks": [
+    {
+      "title": "전통 간장의 하이엔드 럭셔리 패키징, 킴솔 리저브",
+      "content": "디자이너 헤람브 아로라는 한국의 숙성 간장을 수집가용 고급 미식 제품으로 승화시키는 럭셔리 패키징 콘셉트를 선보였다. 전통 장류가 가진 세월의 가치를 현대적이고 정갈한 디자인 언어로 다듬어냈다.",
+      "url": "https://retaildesignblog.net/2026/08/21/kimsol-reserve-by-heramb-arora/",
+      "source": "Retail Design Blog",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Heramb Arora",
+      "creator_insight": "전통 식재료를 케케묵은 민속품이 아닌 타임리스 럭셔리 오브제로 탈바꿈시키는 집요한 물성 조율.",
+      "tags": [
+        "럭셔리패키징",
+        "전통의재해석",
+        "K푸드브랜딩"
+      ],
+      "execution_techniques": [
+        "#MaterialityContrast",
+        "#HighEndMinimalism"
+      ],
+      "why": "로컬 유산의 고급화 전략에서 미학적 완성도가 어떻게 브랜딩의 가치를 끌어올리는지 보여주는 직관적 사례다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://placehold.co/800x600/1c1917/FFFFFF?text=Retail%20Design%20Blog%0A%28SPATIAL%29&font=playfair-display",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "낯선 시선이 포착한 한국의 다층적 역사, 영화 '사진의 얼굴'",
+      "content": "90세 일본 포토저널리스트 구와바라 시세이의 삶과 프레임을 다룬 다큐멘터리 영화다. 렌즈를 통해 한국 현대사의 격동기를 건조하면서도 깊이 있게 조명한다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=82177",
+      "source": "Art Insight",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "김덕철",
+      "creator_insight": "외부자의 서늘한 시선으로 한국의 역사적 피사체를 관찰해 감상주의를 배제한 아카이빙 톤을 완성함.",
+      "tags": [
+        "포토저널리즘",
+        "다큐멘터리",
+        "시각적기록"
+      ],
+      "execution_techniques": [
+        "#DocumentaryRealism",
+        "#ArchivalFraming"
+      ],
+      "why": "타자의 렌즈로 담아낸 한국의 시각적 유산이 어떻게 클래식한 서사적 힘을 갖는지 증명한다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://www.artinsight.co.kr/data/tmp/2608/20260825150349_zplvbrdh.jpg",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "부산 매드스타즈 2026, 영스타즈와 뉴스타즈 경연 개막",
+      "content": "부산에서 열린 글로벌 마케팅 광고제 매드스타즈가 차세대 크리에이터들의 경쟁 프로그램인 영스타즈 및 뉴스타즈를 시작했다. 전 세계 신진 크리에이터들이 창의적 솔루션을 제안한다.",
+      "url": "https://www.brandinginasia.com/mad-stars-2026-young-stars-and-new-stars-competitions-kick-off-in-busan/",
+      "source": "Branding in Asia",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "MAD STARS Organizing Committee",
+      "creator_insight": "글로벌 광고 프레임워크와 한국적 플랫폼을 결합하여 신진 인재의 날것 그대로의 아이디어를 추출함.",
+      "tags": [
+        "광고제",
+        "크리에이티브경연",
+        "마케팅인사이트"
+      ],
+      "execution_techniques": [
+        "#GlobalAdvertising",
+        "#CompetitionBranding"
+      ],
+      "why": "급변하는 글로벌 마케팅 씬에서 한국이 아시아 크리에이티브의 거점으로 작동하는 방식을 확인해야 한다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/08/MAD-STARS-YOUNG-STARS.-2026-2.webp",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "할리우드의 인종적 재현과 자아를 풍자하다: '플레이버 오브 더 먼스'",
+      "content": "네이선 시아 감독의 풍자 단편 영화로, 할리우드 내 아시아계 대표성과 창작자의 자아 사이의 갈등을 유머러스하게 해체한다. 헐리우드 시스템의 위선을 날카롭게 집어낸다.",
+      "url": "https://directorsnotes.com/2026/08/07/nathan-xia-flavor-of-the-month/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Nathan Xia",
+      "creator_insight": "자기 고백적 풍자와 과감한 클로즈업 연출을 통해 정치적 올바름의 상업화를 조롱함.",
+      "tags": [
+        "풍자극",
+        "할리우드비판",
+        "단편영화"
+      ],
+      "execution_techniques": [
+        "#SatiricalLighting",
+        "#CharacterDeconstruction"
+      ],
+      "why": "표면적인 다문화주의 플래카드를 내건 브랜드들이 필히 참고해야 할 위트 넘치는 비판적 관점.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/08/flavor_of_the_month_nathan_xia_20.jpg",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "욕망과 죄책감의 미학적 연출, 단편 영화 '플레저'",
+      "content": "재스퍼 케이버리 감독의 단편 영화 '플레저'는 두 인물 간의 묘한 긴장감과 욕망을 섬세한 미장센으로 표현한다. 감정의 소용돌이를 인물들의 조용한 움직임 속에 담아냈다.",
+      "url": "https://www.shortoftheweek.com/2026/08/20/pleasure/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Jasper Caverly",
+      "creator_insight": "절제된 톤앤매너와 묵직한 조명 설계로 대사 없이도 서사의 밀도를 극대화함.",
+      "tags": [
+        "미장센",
+        "단편영화",
+        "시네마틱뷰"
+      ],
+      "execution_techniques": [
+        "#VisceralFraming",
+        "#IntimateColorGrading"
+      ],
+      "why": "극적인 스펙터클 없이도 앵글과 톤만으로 시청자를 압도하는 비주얼 연출 테크닉의 정수.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/08/pleasure_jasper_caverly_01.jpg",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "고독의 상실감을 시각화한 뮤직비디오, 루시 블루의 '포스트맨'",
+      "content": "감독 셉 타베는 은퇴한 우체부의 상실감과 우울증을 우아하고 슬픈 비주얼 톤으로 연출했다. 과거의 직업적 정체성이 사라진 노년의 삶을 감각적 앵글로 포착한다.",
+      "url": "https://tv.booooooom.com/2022/01/26/lucy-blue-postman-directors-cut/",
+      "source": "Booooooom TV",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Seb Tabe",
+      "creator_insight": "일상적인 정경을 메마른 텍스처와 정적인 컷 구성으로 재해석해 우울의 깊이를 시각화함.",
+      "tags": [
+        "뮤직비디오",
+        "디렉터스컷",
+        "비주얼텔링"
+      ],
+      "execution_techniques": [
+        "#MelancholicTones",
+        "#VisualNostalgia"
+      ],
+      "why": "브랜드 필름에서 신파적 감성을 배제하고 어떻게 깊은 페이소스와 감정을 구축하는지 보여준다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://placehold.co/800x600/0f172a/FFFFFF?text=Booooooom%20TV%0A%28FILM%29&font=playfair-display",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "실버케어 공간의 도심형 재해석, 상하이 구오화 헤웨이자",
+      "content": "GN 아키텍츠가 설계한 상하이 도심의 시니어 리빙 센터. 자칫 병원처럼 보일 수 있는 공간을 고급스러운 입면과 자연과의 통합을 통해 현대적 아지트로 탈바꿈시켰다.",
+      "url": "https://retaildesignblog.net/2026/08/24/shanghai-guohua-heyuejia-international-senior-living-centre-by-gn-architects/",
+      "source": "Retail Design Blog",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "GN Architects",
+      "creator_insight": "기능적 의료 공간을 하이엔드 호스피탈리티의 차원으로 격상시키는 공간 재료 조율법.",
+      "tags": [
+        "공간디자인",
+        "건축디자인",
+        "시니어케어"
+      ],
+      "execution_techniques": [
+        "#BiophilicStructure",
+        "#SpatialErgonomics"
+      ],
+      "why": "초고령화 시대에 럭셔리 스페이스 디자인이 나아가야 할 정교한 비전과 비즈니스 힌트.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://placehold.co/800x600/1c1917/FFFFFF?text=Retail%20Design%20Blog%0A%28SPATIAL%29&font=playfair-display",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "자연에 스며드는 바이오기반 오피스, 스튜디오 마시모",
+      "content": "네덜란드 건축사무소 스튜디오 마시모가 수피 외장재와 거대한 녹화 지붕을 적용해 숲속 환경에 동화되는 사무소를 완공했다. 자연을 훼손하지 않고 서식지를 더하는 건축이다.",
+      "url": "https://www.dezeen.com/2026/08/25/studio-massimo-office-by-nature-netherlands/",
+      "source": "Dezeen",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Studio Massimo",
+      "creator_insight": "건물 자체를 주변 숲의 일부로 위장시켜 인공 구조물의 시각적 위압감을 완벽히 제거함.",
+      "tags": [
+        "친환경건축",
+        "바이오디자인",
+        "오피스인테리어"
+      ],
+      "execution_techniques": [
+        "#BioBasedFacade",
+        "#NaturalCamouflage"
+      ],
+      "why": "지속가능성이라는 상투적 슬로건을 시각적 실체와 완벽한 물성으로 구현한 공간 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "http://static.dezeen.com/uploads/2026/08/studio-massimo-office-by-nature-netherlands-sq_dezeen_2364_col_0-411x411.jpg",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "아트와 수집용 디자인이 공존하는 공간 경계의 붕괴",
+      "content": "sierra+delahiguera와 VASTO 갤러리가 연합하여 현대 미술과 컬렉터블 디자인을 한 공간에 융합했다. 재료와 공기감의 공통된 언어를 통해 장르 간의 장벽을 지워낸다.",
+      "url": "https://www.designboom.com/art/sierra-de-la-higuera-vasto-gallery-art-collectible-design-one-roof/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "sierra+delahiguera & VASTO gallery",
+      "creator_insight": "전시 공간과 주거 공간의 모호한 경계선 위에서 오브제의 가치를 극대화하는 연출력.",
+      "tags": [
+        "갤러리디자인",
+        "컬렉터블디자인",
+        "전시공간"
+      ],
+      "execution_techniques": [
+        "#TactileMateriality",
+        "#AtmosphericSpatiality"
+      ],
+      "why": "공간 기획자가 리테일과 갤러리의 경계를 무너뜨려 스페이스 밸류를 창출하는 구체적 방법론.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://www.designboom.com/wp-content/dbsub/467726/2026-08-24/capsule-04-c2b7-sdlh-x-vasto-700-6a8bf3fe924c1-500x400-22b08q85r877.jpg",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "공공주거의 하이엔드 건축적 재해석, OMA의 샌프란시스코 프로젝트",
+      "content": "건축 그룹 OMA가 샌프란시스코에 처음으로 저소득층을 위한 보급형 주거 공간을 완공했다. 스마트한 디자인과 혁신적 소재로 공공주택도 명품 건축이 될 수 있음을 증명한다.",
+      "url": "https://www.wallpaper.com/architecture/residential/oma-affordable-housing-san-francisco-730-stanyan",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "OMA",
+      "creator_insight": "저예산의 제약을 모듈식 입면과 유연한 동선 설계라는 고도의 건축 테크닉으로 극복.",
+      "tags": [
+        "OMA",
+        "공공건축",
+        "주거디자인"
+      ],
+      "execution_techniques": [
+        "#ModularFacade",
+        "#RethinkingAffordableHousing"
+      ],
+      "why": "제한된 예산 속에서도 압도적인 비주얼 아우라를 도출해내는 건축 스튜디오의 기획력.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://cdn.mos.cms.futurecdn.net/t4fbdMcWXHqcPtNWY2zYzb-1280-80.jpg",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "가구 광고를 예술의 경지로 끌어올린 B&B 이탈리아 60년",
+      "content": "B&B 이탈리아 창립 60주년을 맞아, 단순 제품 노출을 넘어 그래픽 디자이너, 사진작가와 협업하며 가구 커뮤니케이션의 패러다임을 바꾼 역사적 캠페인들을 돌아본다.",
+      "url": "https://www.wallpaper.com/design-interiors/visual-comms/bandb-italia-advertising-campaigns-60-anniversary",
+      "source": "Wallpaper*",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "B&B Italia Creative Team",
+      "creator_insight": "제품 판매에 목매지 않고 비주얼 아카이브 자체를 브랜드 헤리티지로 구축한 롱런 전략.",
+      "tags": [
+        "브랜드캠페인",
+        "가구디자인",
+        "광고아트디렉션"
+      ],
+      "execution_techniques": [
+        "#EditorialStorytelling",
+        "#GraphicFurnitureVisuals"
+      ],
+      "why": "단기적 ROI보다 굳건한 브랜드 이미지를 구축하는 비주얼 컬처 중심 아트 디렉션의 힘.",
+      "social_proof": "",
+      "depth": 0.97,
+      "image": "https://cdn.mos.cms.futurecdn.net/uDkYcvPCkofShJVGjVe7sJ-1280-80.jpg",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "정신 건강 관리의 뮤지컬적 전환, 그로우 테라피 캠페인",
+      "content": "멘탈 헬스 플랫폼 그로우 테라피가 치료를 비상 상황용이 아닌 일상적 감정 유지 관리로 재정의하는 뮤지컬 형태의 전국 광고 캠페인을 공개했다.",
+      "url": "https://www.campaignlive.com/article/grow-therapys-musical-campaign-reframes-therapy-emotional-maintenance-not-emergency-care/1968161",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Grow Therapy Creative Team",
+      "creator_insight": "무거운 카운슬링이란 소재를 경쾌한 브로드웨이 뮤지컬 화법으로 전복시켜 심리적 문턱을 낮춤.",
+      "tags": [
+        "브랜드캠페인",
+        "멘탈헬스",
+        "광고기획"
+      ],
+      "execution_techniques": [
+        "#ToneShift",
+        "#MusicalBranding"
+      ],
+      "why": "소비자가 거부감을 느끼는 금기/심각 주제를 밝고 경쾌한 화법으로 프레이밍하는 방법.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "전통 스포츠 공식을 거부하는 이스포츠 마케팅의 플레이북",
+      "content": "이스포츠를 기존 NBA 스타일 마케팅으로 접근하는 오류를 지적하고, 게이머들의 톡특한 문화적 맥락에 맞는 차별화된 비즈니스 및 브랜드 전략을 분석한다.",
+      "url": "https://www.brandinginasia.com/esports-isnt-the-new-nba-why-gaming-needs-a-different-marketing-playbook/",
+      "source": "Branding in Asia",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Branding in Asia Research",
+      "creator_insight": "메인스트림 스포츠의 게으른 공식을 버리고 하위문화에 최적화된 마케팅 화법을 제시함.",
+      "tags": [
+        "이스포츠",
+        "게이밍마케팅",
+        "브랜드전략"
+      ],
+      "execution_techniques": [
+        "#GamerBehavioralDesign",
+        "#SubcultureTargeting"
+      ],
+      "why": "기존 상식만 믿고 서브컬처 시장에 무모하게 진입했다 낭패를 보는 기획자들을 위한 냉정한 지침.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/08/Gaming-in-Asia-1-1.webp",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "리복이 선보이는 버켄스탁 풍 슬리퍼, 클래식 뮬",
+      "content": "스포티한 감각에 스웨이드 재질과 버켄스탁 스타일을 얹은 리복의 신상 슬립온 뮬 라인업.",
+      "url": "https://www.highsnobiety.com/p/reebok-classic-mules/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "스니커즈",
+        "스트릿패션"
+      ],
+      "why": "스포츠 브랜드가 라이프스타일 풋웨어 카테고리를 비틀어 재미를 챙기는 힙한 미학.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "송모피로 뒤덮인 나이키의 기괴하고 힙한 타비 스니커즈",
+      "content": "나이키가 특유의 갈라진 족발 모양 에어 리프트에 포니 헤어(송모피) 털을 입혀 재출시했다.",
+      "url": "https://www.highsnobiety.com/p/nike-air-rift-pony-hair-sneakers/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "나이키",
+        "타비스니커즈"
+      ],
+      "why": "호불호가 극명히 갈리는 키치한 질감으로 힙스터들의 수집 욕구를 자극하는 유쾌한 도발.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    },
+    {
+      "title": "돌리 파튼의 40년 광고 잔혹사와 상업적 위트",
+      "content": "전설적인 팝스타 돌리 파튼이 지난 40년간 출연한 슈퍼볼과 인포머셜 캠페인을 모아본 스페셜 모음.",
+      "url": "https://www.adweek.com/creativity/rewatch-the-late-dolly-partons-iconic-ads-over-the-decades/",
+      "source": "Adweek",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "돌리파튼",
+        "레트로광고"
+      ],
+      "why": "셀러브리티 아이콘이 자신의 캐릭터를 유머러스하게 활용해온 상업적 스펙트럼의 정수.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/1e1b4b/FFFFFF?text=Adweek%0A%28BRANDING%29&font=playfair-display",
+      "pub_date": "2026-08-26T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "해체적 미학",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "하이엔드 서사구조",
+      "is_hot": false
+    },
+    {
+      "word": "서브컬처 패러다임",
+      "is_hot": true
+    },
+    {
+      "word": "맥락적 공간 연출",
+      "is_hot": false
+    }
+  ]
+}
