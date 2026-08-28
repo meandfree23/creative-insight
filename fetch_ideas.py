@@ -272,10 +272,31 @@ def fetch_rss(sources):
 def generate_daily_insight(date_str, articles_subset):
     print(f"Generating insight for {date_str} with {len(articles_subset)} articles...")
     
+    taste_instruction = ""
+    taste_file = os.path.join(os.path.dirname(__file__), "data", "taste_dna.json")
+    if os.path.exists(taste_file):
+        try:
+            with open(taste_file, "r", encoding="utf-8") as tf:
+                dna = json.load(tf)
+            if dna and "top_tags" in dna:
+                tags_str = ", ".join(dna["top_tags"][:5])
+                doms_str = ", ".join(dna["top_domains"][:3])
+                taste_instruction = f"""
+    [CRITICAL - USER TASTE DNA INJECTION (Reverse Feedback)]
+    이 사용자는 미학적으로 다음 키워드/태그를 특별히 선호합니다: {tags_str}
+    이 사용자는 다음 도메인을 주로 저장(북마크)했습니다: {doms_str}
+    
+    위의 Taste DNA 데이터를 기반으로, 큐레이션 시 해당 카테고리와 태그와 연관된 기사가 목록에 있다면 반드시 최우선(Top 1~3위 내)으로 선택하세요.
+    'why' (Curator's View) 작성 시, 이 기사가 사용자의 취향({tags_str})과 어떻게 공명하는지 시니컬하고 날카롭게 짚어주세요.
+    """
+        except Exception as e:
+            print(f"Failed to read taste DNA: {e}")
+            
     prompt = f"""
     You are a cynical, sharp-tongued Senior Creative Director and GQ/Vogue Editor-in-Chief.
     You despise fluffy, generic AI jargon (DO NOT USE words like "여정", "탐구", "교차점", "시너지", "잠재력", "혁신").
     Your writing must be professional, highly specific, slightly cynical, and extremely sharp.
+    {taste_instruction}
     
     Curation Evaluation Formula:
     Score = (Trustworthiness + Relevance + Timeliness + Cinematic/Visual Quality + Marketing Insight + Originality) - Noise

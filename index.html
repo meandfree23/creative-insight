@@ -344,6 +344,7 @@ button { font-family:inherit; cursor:pointer; }
   </div>
   <div class="hdr-r" style="display:flex; align-items:center; gap:20px;">
     <span class="hdr-date" id="hdate"></span>
+    <a href="graph.html" style="background:none; border:none; font-size:20px; cursor:pointer; text-decoration:none;" title="지식망(Graph) 보기">🌌</a>
     <button onclick="openSettings()" style="background:none; border:none; font-size:20px; cursor:pointer;" title="AI 에이전트 설정">⚙️</button>
     <button onclick="openSyncModal()" style="background:none; border:none; font-size:20px; cursor:pointer;" title="아카이브 동기화">☁️</button>
   </div>
@@ -1241,8 +1242,14 @@ document.addEventListener("DOMContentLoaded", function() {
       <button onclick="exportSyncCode()" style="flex:1; padding:12px; background:transparent; border:1px solid var(--text); color:var(--text); cursor:pointer; font-weight:bold;">코드 발급받기 (내보내기)</button>
       <button onclick="importSyncCode()" style="flex:1; padding:12px; background:var(--acc); border:none; color:#fff; cursor:pointer; font-weight:bold;">코드 적용하기 (불러오기)</button>
     </div>
+    <div style="margin-top:20px; padding-top:20px; border-top:1px solid var(--border);">
+      <h3 style="font-size:13px; color:var(--text); margin-bottom:10px;">🧠 AI 취향 프로필 (Taste DNA) 추출</h3>
+      <p style="font-size:11px; color:var(--dim); margin-bottom:15px; line-height:1.5;">북마크 데이터를 분석하여 사용자 고유의 미학적 취향 파일을 생성합니다. 이 파일을 백엔드에 연동하면 AI가 취향에 맞게 진화합니다.</p>
+      <button onclick="window.downloadTasteDNA && window.downloadTasteDNA()" style="width:100%; padding:10px; background:var(--text); color:#fff; border:none; cursor:pointer; font-weight:bold;">taste_dna.json 다운로드</button>
+    </div>
     <div id="syncMsg" style="margin-top:15px; font-size:13px; color:var(--acc); text-align:center; min-height:20px;"></div>
   </div>
 </div>
+<script src="taste_tracker.js"></script>
 </body>
 </html>

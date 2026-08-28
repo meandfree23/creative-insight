@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>CREATIVE INSIGHT - KNOWLEDGE GRAPH</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,600;1,400&display=swap" rel="stylesheet">
+  <style>
+    body { margin: 0; background: #0a0a0a; color: #fff; font-family: 'Inter', sans-serif; overflow: hidden; }
+    #graph { width: 100vw; height: 100vh; }
+    .back-btn { position: absolute; top: 20px; left: 20px; z-index: 100; color: #fff; text-decoration: none; border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; font-size: 12px; font-weight: 600; letter-spacing: 1px; transition: all 0.2s; background: rgba(0,0,0,0.5); backdrop-filter: blur(4px); }
+    .back-btn:hover { border-color: #ff3366; color: #ff3366; }
+    .title-box { position: absolute; top: 20px; right: 20px; z-index: 100; text-align: right; background: rgba(0,0,0,0.5); backdrop-filter: blur(4px); padding: 15px 20px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); pointer-events: none; }
+    .brand { font-family: 'Playfair Display', serif; font-size: 18px; letter-spacing: 1px; margin-bottom: 4px; }
+    .brand b { color: #ff3366; font-style: italic; }
+    .desc { font-size: 10px; color: #aaa; letter-spacing: 1px; text-transform: uppercase; }
+  </style>
+  <script src="https://unpkg.com/force-graph"></script>
+</head>
+<body>
+  <a href="index.html" class="back-btn">← BACK TO FEED</a>
+  <div class="title-box">
+    <div class="brand">CREATIVE<b>GRAPH</b></div>
+    <div class="desc">Neural Knowledge Network</div>
+  </div>
+  <div id="graph"></div>
+
+  <script>
+    async function loadGraph() {
+        try {
+            const res = await fetch('data/manifest.json');
+            const manifest = await res.json();
+            // 최근 30일치 데이터를 불러와 지식망을 형성 (성능과 시각적 밀도 고려)
+            const dates = manifest.dates.slice(0, 30); 
+
+            const nodes = [];
+            const links = [];
+            const nodeMap = new Map();
+            const linkSet = new Set(); // 중복 연결 방지
+
+            function addNode(id, type, name, url=null) {
+                if (!nodeMap.has(id)) {
+                    let val = 5;
+                    if (type === 'domain') val = 20;
+                    else if (type === 'tag') val = 10;
+                    
+                    const node = { id, type, name, url, val };
+                    nodes.push(node);
+                    nodeMap.set(id, node);
+                } else if (type === 'tag') {
+                    // 태그가 중복 등장할수록 크기를 키움 (연결성 시각화)
+                    nodeMap.get(id).val += 2;
+                }
+            }
+            
+            function addLink(source, target) {
+                const linkId = source < target ? source+'-'+target : target+'-'+source;
+                if (!linkSet.has(linkId)) {
+                    links.push({ source, target });
+                    linkSet.add(linkId);
+                }
+            }
+
+            for (let d of dates) {
+                try {
+                    const dr = await fetch(`data/daily/${d}.json`);
+                    const djson = await dr.json();
+                    
+                    const items = (djson.topPicks || []).concat(djson.popcorn || []);
+                    items.forEach(p => {
+                        const artId = 'art_' + p.url;
+                        // 기사 제목 생략 및 툴팁을 위해 사용
+                        addNode(artId, 'article', p.title_ko || p.title, p.url);
+
+                        const dom = p.domain || p.category || 'ETC';
+                        const domId = 'dom_' + dom;
+                        addNode(domId, 'domain', dom);
+                        addLink(artId, domId);
+
+                        if (p.tags) {
+                            p.tags.forEach(t => {
+                                const tagId = 'tag_' + t;
+                                addNode(tagId, 'tag', '#' + t);
+                                addLink(artId, tagId);
+                            });
+                        }
+                    });
+                } catch(e) { console.warn("Failed to load date:", d, e); }
+            }
+
+            // D3 기반 Force Graph 렌더링
+            const Graph = ForceGraph()(document.getElementById('graph'))
+                .graphData({ nodes, links })
+                .nodeId('id')
+                .nodeColor(n => {
+                    if (n.type === 'domain') return '#ff3366'; // 강렬한 액센트
+                    if (n.type === 'tag') return '#666666';    // 중간톤
+                    return '#ffffff';                          // 기본 (기사)
+                })
+                .nodeRelSize(3)
+                .nodeVal('val')
+                .linkColor(() => 'rgba(255,255,255,0.15)')
+                .nodeLabel('name') // 호버 시 이름 표시
+                .onNodeClick(node => {
+                    if (node.type === 'article' && node.url) {
+                        window.open(node.url, '_blank');
+                    } else if (node.type === 'tag' || node.type === 'domain') {
+                        // 노드 클릭 시 해당 노드를 중심으로 포커스
+                        Graph.centerAt(node.x, node.y, 1000);
+                        Graph.zoom(3, 1000);
+                    }
+                })
+                .onNodeHover(node => {
+                    document.body.style.cursor = node && node.type === 'article' ? 'pointer' : (node ? 'crosshair' : 'default');
+                })
+                .d3Force('charge', d3 => d3.forceManyBody().strength(-30)) // 노드 간 반발력 조절
+                .d3Force('link', d3 => d3.forceLink().distance(40)); // 링크 길이 조절
+
+        } catch(e) {
+            console.error("Graph loading error:", e);
+        }
+    }
+    
+    // 페이지 로드 시 그래프 초기화
+    document.addEventListener("DOMContentLoaded", loadGraph);
+  </script>
+</body>
+</html>
