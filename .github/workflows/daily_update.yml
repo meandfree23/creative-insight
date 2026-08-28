@@ -2,7 +2,7 @@ name: Daily Creative Insight Update
 
 on:
   schedule:
-    - cron: '0 23 * * *' # 8:00 AM KST
+    - cron: '43 22 * * *' # 7:43 AM KST
   workflow_dispatch:
     inputs:
       target_date:
