@@ -1,0 +1,406 @@
+{
+  "date": "2026-08-29",
+  "focusQ": "Agent's Thought: 매일 쏟아지는 클리셰와 인공지능 타령에 피로를 느낀다. 진정한 크리에이티브는 기술 소음 속에서 날카로운 기획적 벼랑을 만들어내는 감각에서 나온다. 안이한 미학을 덜어내고 벼려진 구조만 남겨야 할 시점이다.",
+  "creator_message": "큐레이터의 메시지: 어설픈 트렌드 용어로 조악한 조형을 포장하지 마라. 당신들이 영감이라 부르는 것들의 90%는 단순한 시각적 쓰레기다. 진짜 감각을 벼리고 싶다면 오늘 선별한 비주얼 구조와 날카로운 타격점을 스크랩해라.",
+  "session": {
+    "timestamp": "2026-08-29T03:55:50.597876",
+    "considered": 40,
+    "selected": 17
+  },
+  "topPicks": [
+    {
+      "title": "박평종 저서 '인공지능과 사진': 카메라인가 알고리즘인가",
+      "content": "생성형 이미지의 등장은 사진의 광학적 본질을 뒤흔들며 매체 자체의 정의를 다시 묻는다. 인간의 손과 카메라를 거쳐 알고리즘으로 이동한 이미지 생산의 주체성을 비판적으로 다룬다.",
+      "url": "https://blog.naver.com/tiger6107/224394069191?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "박평종",
+      "creator_insight": "사진 비평가 박평종은 기술적 착시를 걷어내고 알고리즘이 흉내 내는 광학 매체의 허구성을 서늘하게 지목한다.",
+      "tags": [
+        "사진학",
+        "생성형AI",
+        "매체비평"
+      ],
+      "execution_techniques": [
+        "#AlgorithmicImagery"
+      ],
+      "why": "프롬프트 몇 줄로 만든 이미지를 예술이라 착각하는 기획자들에게 매체 본질에 대한 날카로운 질문을 던진다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA4MjlfMjYx/MDAxNzg3OTcyMjAyNTc2.zjRFMhQxw3u1Rak018Q9YFJM_WxOZYDqnNWuaKpxjS8g.yfrsO3_xMyXQlSnVN9r9A8-r2NuogqtexDIZ9BP04qsg.PNG/20260829_115538.png?type=s3",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "60세에 다시 시작되는 삶: 우크라이나 난민들의 위트 있는 초상",
+      "content": "전쟁을 피해 브라티슬라바에 정착한 60대 이상 우크라이나 이주민들의 삶을 포착한 초상 사진 시리즈. 비극적 상황 속에서도 묘한 유머와 위트를 잃지 않는 시각적 절제를 보여준다.",
+      "url": "https://www.lensculture.com/articles/maryna-syrovatka-when-life-begins-again-at-60-playful-portraits-of-displaced-ukrainians",
+      "source": "lensculture.com",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Maryna Syrovatka",
+      "creator_insight": "신파적 감상주의를 철저히 배제하고 유머러스한 피사체 배치를 통해 비극을 역설적으로 강조하는 연출력이 돋보인다.",
+      "tags": [
+        "인물사진",
+        "다큐멘터리",
+        "시각적서사"
+      ],
+      "execution_techniques": [
+        "#PlayfulContrast"
+      ],
+      "why": "상투적인 자선 캠페인식 연출에서 벗어나 비극을 재치 있게 뒤집는 서사적 프레임 기법을 배울 수 있다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.lensculture.com/image/25f9110d-2af1-4fad-79a0-6fd3f9c71b00/large",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "AD 에디터가 검증한 명작 다이닝 체어 14선",
+      "content": "해리 베르토이아와 마르셀 브로이어의 거장 디자인부터 현대적인 스파이셜 스툴까지 체어 디자인의 본질을 검증한 디렉토리. 구조적 아름다움과 기능성의 균형을 보여준다.",
+      "url": "https://www.architecturaldigest.com/story/shop-best-dining-chairs",
+      "source": "architecturaldigest.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Harry Bertoia, Marcel Breuer",
+      "creator_insight": "브로이어와 베르토이아는 금속 파이프와 와이어라는 산업 재료의 한계를 뚫고 가구 디자인의 클래식한 비례감을 완성했다.",
+      "tags": [
+        "가구디자인",
+        "공간디자인",
+        "미드센추리"
+      ],
+      "execution_techniques": [
+        "#TubularStructure"
+      ],
+      "why": "어설픈 트렌디 가구에 현혹되지 않고 감각적인 공간을 구성하는 뼈대로서의 가구 비례를 학습할 수 있다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://media.architecturaldigest.com/photos/68b066f497cb5fe570b37848/master/pass/ADSeatWk25_diningchairs_site.jpg",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "12미터 캔틸레버의 압도적 공중 구조: 봄 레티로 하우스",
+      "content": "침실 공간을 12미터 교각 구조 위로 떠 있게 설계하여 하부의 거대한 보이드 공간을 주거 생활의 중심으로 끌어들인 획기적인 주택 프로젝트.",
+      "url": "https://www.archdaily.com/1184138/bom-retiro-house-michel-macedo-arquitetos",
+      "source": "ArchDaily",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Michel Macedo Arquitetos",
+      "creator_insight": "구조적 중력을 역용하여 주거공간의 상하 체계를 파괴하고 공중 공백 자체를 기능적 메인 무대로 변환시켰다.",
+      "tags": [
+        "건축디자인",
+        "캔틸레버",
+        "공간구조"
+      ],
+      "execution_techniques": [
+        "#CantileveredVoid"
+      ],
+      "why": "공간의 물리적 한계를 시각적 쾌감으로 반전시키는 명확한 구조적 아이디어를 제시한다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.adsttc.com/media/images/6a8f/1a31/4253/0500/01ca/0f9b/newsletter/08_JO_O_VITOR_SARTURI.jpg?1787763315",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "아방가르드의 거장 야요이 쿠사마 타계: 물결치는 점의 역사",
+      "content": "강박적 물방울무늬와 호박 오브제, 입체적 거울 공간으로 현대 미술의 시각 패러다임을 바꾼 야요이 쿠사마의 작고 소식과 그녀가 남긴 유산.",
+      "url": "https://www.architecturaldigest.com/story/yayoi-kusama-was-an-iconoclast-whose-work-paved-a-new-path",
+      "source": "architecturaldigest.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Yayoi Kusama",
+      "creator_insight": "개인적 정신증적 불안을 상업적·예술적 미학으로 완벽하게 전환해 거대한 브랜드적 시그니처 패턴을 구축했다.",
+      "tags": [
+        "현대미술",
+        "공간인스톨레이션",
+        "패턴미학"
+      ],
+      "execution_techniques": [
+        "#InfiniteObsession"
+      ],
+      "why": "단 하나의 독보적인 그래픽 패턴이 어떻게 거대한 브랜드 아카이브이자 전설이 되는지 증명한다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://media.architecturaldigest.com/photos/6a908e499b4c32879e9b05e6/master/pass/GettyImages-1480365643.jpg",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "아날로그 르네상스: 인테리어를 품은 5가지 프리미엄 턴테이블",
+      "content": "테크닉스, 아르곤 오디오, 프로젝트 등 하이파이 브랜드들이 선보이는 아날로그 턴테이블 디자인. 오디오 기기를 넘어 공간의 오브제로 기능하는 기기들을 소개한다.",
+      "url": "https://www.wallpaper.com/tech/stylish-new-turntables",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Technics, Argon Audio",
+      "creator_insight": "청각적 도구를 정교한 메탈릭 조형물로 승화시켜 아날로그적 감성을 극도로 현대적인 미학으로 재정의한다.",
+      "tags": [
+        "제품디자인",
+        "오디오미학",
+        "아날로그"
+      ],
+      "execution_techniques": [
+        "#MinimalTactility"
+      ],
+      "why": "디지털 일상에서 물리적 질감과 오디오 오브제가 브랜드 공간의 취향을 어떻게 상징하는지 비전을 제시한다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/ZeZ3QtiAdLqqrchons5fDb-1280-80.jpg",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "메트로폴리탄 미술관의 라파엘로 특별전: 숭고한 시학의 정수",
+      "content": "미국 최초로 라파엘로의 명작 대여 작품들을 한자리에 모은 대규모 회고전. 르네상스 고전주의의 완벽한 비례와 색채 미학을 입체적으로 조명한다.",
+      "url": "https://theartwolf.com/exhibitions/raphael-metropolitan-2026/",
+      "source": "The Art Wolf",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Raphael",
+      "creator_insight": "라파엘로는 구도의 완벽한 밸런스와 인물의 구성을 통해 시각 예술이 도달할 수 있는 극상의 인문학적 질서를 연출했다.",
+      "tags": [
+        "르네상스",
+        "고전미학",
+        "전시기획"
+      ],
+      "execution_techniques": [
+        "#ClassicalSymmetry"
+      ],
+      "why": "모든 시각 연출의 근간이 되는 르네상스의 클래식 프레이밍과 구도 미학의 기본기를 다시 돌아보게 만든다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://placehold.co/800x600/3f3f46/FFFFFF?text=The%20Art%20Wolf%0A%28ART%29&font=playfair-display",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "배우 샘 닐을 추모하며: 장르 영화의 고유한 얼굴",
+      "content": "샘 닐의 인상적인 연기 인생과 쥬라기 공원, 매드니스 등 그가 남긴 미장센 속 존재감을 조명하는 미디어 필름 매거진의 헌사.",
+      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
+      "source": "Filmmaker Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "John Carpenter",
+      "creator_insight": "샘 닐의 서늘한 마스크와 심리적 긴장감을 활용하여 컬트적 미장센을 극대화한 캐스팅 연출력이 돋보인다.",
+      "tags": [
+        "영화미학",
+        "캐스팅",
+        "캐릭터서사"
+      ],
+      "execution_techniques": [
+        "#PsychologicalMiseEnScene"
+      ],
+      "why": "캐릭터의 페르소나가 영상 전체의 톤앤매너를 결정짓는 핵심 기획 요소임을 실감하게 한다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "레슬리 웨인의 'Unintended Blues': 침수되는 해안선의 유기적 미학",
+      "content": "해수면 상승과 취약한 해안선을 공중 시점으로 담아낸 레슬리 웨인의 입체적 회화 연출. 과감한 두꺼운 물감 텍스처가 지구 환경의 균열을 서늘하게 보여준다.",
+      "url": "https://www.thisiscolossal.com/2026/08/leslie-wayne-the-unintended-blues-paintings-rivers-aerial-landscapes/",
+      "source": "Colossal",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Leslie Wayne",
+      "creator_insight": "평면 회화에 유화 물감을 두껍게 조형하여 항공 사진적 시점과 실물 텍스처의 경계를 파괴하는 물질성을 보여준다.",
+      "tags": [
+        "입체회화",
+        "텍스처",
+        "환경미학"
+      ],
+      "execution_techniques": [
+        "#ImpastoAerialVisual"
+      ],
+      "why": "환경 메시지를 뻔한 경고문이 아니라 입체적 텍스처와 미학적 쾌감으로 전환하는 그래픽 비전을 제시한다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/wayne-1.jpg",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "모션 어워즈 X: 20주년을 맞이한 영상 그래픽의 진수",
+      "content": "모션그래퍼 20주년을 맞아 독보적인 글로벌 모션 디자인 및 타이포그래피 필름들을 한데 모은 공모전 어워드.",
+      "url": "https://motionographer.com/2026/08/18/the-motion-awards-x-this-one-belongs-to-all-of-us/",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Motionographer",
+      "creator_insight": "움직이는 프레임 속에서 브랜드 메시지와 리듬감을 완벽하게 통제하는 첨단 모션 그래픽의 정점을 집대성했다.",
+      "tags": [
+        "모션디자인",
+        "영상그래픽",
+        "어워드"
+      ],
+      "execution_techniques": [
+        "#RhythmicDynamicMotion"
+      ],
+      "why": "영상 기획자와 디렉터가 차용해야 할 2026년형 그래픽 트렌드와 프레임 전환 테크닉의 벤치마크 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/08/tma-x-20th-anniversary-hero-wide-v4-4k-sound-ezgif.com-video-to-gif-converter-700x394.gif",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "뉴욕 무비: 16mm 아날로그 필름으로 찍어낸 도시의 불안",
+      "content": "뉴욕에 막 도착한 이방인의 내면적 불안을 16mm 필름의 거친 입자감과 몽환적인 스케치로 포착한 단편 영화 프로젝트.",
+      "url": "https://vimeo.com/channels/staffpicks/1191500052",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Vimeo Staff Picks Director",
+      "creator_insight": "16mm 필름 특유의 질감과 불완전함을 의도적으로 활용해 현대 도시인의 정서적 고립감을 극적으로 연출했다.",
+      "tags": [
+        "16mm필름",
+        "단편영화",
+        "시네마틱"
+      ],
+      "execution_techniques": [
+        "#GrainyAnalogueLook"
+      ],
+      "why": "고화질 4K 시대에 역설적으로 아날로그 질감이 지닌 감성적 충격과 톤앤매너 구축 방식을 보여준다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://i.vimeocdn.com/video/2189541441-20a90d556c11a0b72149fee4254fdd21b7a74b7eaaacc20c603d2ec42f42147f-d_960?region=us",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "Tripo가 제시하는 3D 파이프라인의 깔끔한 토폴로지",
+      "content": "AI 기반 3D 생성 과정에서 클린한 위상 구조를 실시간으로 자동 생성하는 기술. 아티스트의 정교한 매시 제어를 돕는 3D 워크플로우를 밝힌다.",
+      "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline/",
+      "source": "80 Level",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Dr. Yanpei Cao",
+      "creator_insight": "3D 그래픽의 병목 구간이었던 폴리곤 위상 정리를 정교한 알고리즘으로 자동화해 제작 생산성을 극대화시켰다.",
+      "tags": [
+        "3D그래픽",
+        "토폴로지",
+        "파이프라인"
+      ],
+      "execution_techniques": [
+        "#AutomatedTopology"
+      ],
+      "why": "비주얼 아티스트들이 무의미한 단순 노동에서 벗어나 오직 연출과 컨셉에 집중할 수 있는 파이프라인 기획을 보여준다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.80.lv/api/upload/post/41330/images/6a8caa22020d9/cover_800x800.jpg",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "Agnes Herr의 에디토리얼 디자인: Treasure Hunt 북 디자인",
+      "content": "페렌치 미술관 센터를 위해 기획된 서적 'Treasure Hunt'. 노출 제본 공법과 엄격한 타이포그래피 그리드를 적용해 아카이브 북의 진수를 보여준다.",
+      "url": "https://abduzeedo.com/editorial-design-treasure-hunt-agnes-herr/",
+      "source": "abduzeedo.com",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Agnes Herr",
+      "creator_insight": "책의 물리적 노출 제본 구조 자체를 타이포그래피 그리드와 연결해 인쇄 매체의 미학적 완성도를 직관적으로 드러냈다.",
+      "tags": [
+        "에디토리얼",
+        "북디자인",
+        "타이포그래피"
+      ],
+      "execution_techniques": [
+        "#OpenSpineGrid"
+      ],
+      "why": "브랜드 아카이브 북 및 지면 기획 시 시각적 질서와 제본 물성을 결합하는 세련된 방식을 제시한다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_treasure-hunt-adventure-science-agnes-herr.jpg",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "바토의 딸들(Filhas do Barro): 점토와 여성성의 다큐멘터리",
+      "content": "브라질 진흙 공예가 여성들의 조형 노동을 시네마틱한 카메라 워크로 담아낸 NOWNESS의 필름 프로젝트.",
+      "url": "https://www.nowness.com/series/craft-work/filhas-do-barro-daughters-of-clay",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "NOWNESS / Craft Work",
+      "creator_insight": "장인정신의 거친 손길과 흙의 질감을 근접 촬영하여 공예적 가치를 극단적인 시각적 몰입감으로 승화시켰다.",
+      "tags": [
+        "크래프트",
+        "다큐멘터리",
+        "미장센"
+      ],
+      "execution_techniques": [
+        "#TactileMacroShot"
+      ],
+      "why": "브랜드의 수공예적 헤리티지를 시각 미학으로 극대화할 때 참고해야 할 라이팅과 클로즈업 연출 방식.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://img.nowness.com/nowness-frontend/YCKjiGAxR9StU2K4v0z8_FILHAS%20DO%20BARRO%20STILL%2019.jpg",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "트럭 짐칸에 차린 이동식 미술관: 칼리트리의 실험적 전시",
+      "content": "이탈리아 시골 마을의 소형 트럭 짐칸 내부를 갤러리로 개조해 힐라리 작품을 선보인 유쾌한 Pop-up 무대.",
+      "url": "https://www.artribune.com/progettazione/2026/08/furgonetta-progetto-itinerante-calitri-avellino/",
+      "source": "Artribune",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "이동식전시",
+        "스트릿컬처"
+      ],
+      "why": "전시 공간의 틀을 부수고 이동 수단을 무대로 활용한 아이디어가 신선한 스트릿 마케팅 레퍼런스.",
+      "depth": 0.5,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/08/img6257-scaled.jpg",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "위트 있는 스위스/프랑스 아날로그 위트: 악테오 시계 컬렉션",
+      "content": "시계 바늘에 페인트 붓, 음악 악보 등을 위트 있게 유쾌한 오브제로 연출한 프랑스 오뜨 꾸뛰르 시계 디자인.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "위트위치",
+        "오브제디자인"
+      ],
+      "why": "지루한 시계 디자인에 그래픽적 유머 요소를 가미해 소장 욕구를 극대화하는 위트있는 아이디어.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    },
+    {
+      "title": "포르쉐 USA: 아스팔트를 찢는 미니멀리즘 비주얼 컷",
+      "content": "포르쉐의 아이코닉 실루엣을 하이엔드 그래픽과 강렬한 톤앤매너로 담아낸 시각 연출 프로젝트.",
+      "url": "https://www.behance.net/gallery/254907609/Porsche-USA",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "포르쉐",
+        "비주얼아트"
+      ],
+      "why": "자동차 광고에서 불필요한 텍스트를 배제하고 오직 컷 연출만으로 럭셔리 브랜드 감성을 전달하는 예시.",
+      "depth": 0.5,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/25b7ba254907609.Y3JvcCwyNzMzLDIxMzgsODg2LDA.jpg",
+      "pub_date": "2026-08-29T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 미학 융합",
+      "is_hot": true
+    },
+    {
+      "word": "알고리즘 매체 비평",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 보이드 연출",
+      "is_hot": false
+    },
+    {
+      "word": "아날로그 질감 회복",
+      "is_hot": true
+    },
+    {
+      "word": "에디토리얼 타이포그래피",
+      "is_hot": false
+    }
+  ]
+}
