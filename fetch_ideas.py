@@ -18,7 +18,7 @@ SOURCES_FILE = os.path.join(DATA_DIR, "sources.json")
 MANIFEST_FILE = os.path.join(DATA_DIR, "manifest.json")
 
 def load_sources():
-    with open(SOURCES_FILE, "r") as f:
+    with open(SOURCES_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
 
 import re
@@ -468,10 +468,12 @@ def main():
     
     if len(sys.argv) > 1 and sys.argv[1] and sys.argv[1] != "auto":
         target_date = sys.argv[1]
-        process_date(target_date)
+        success = process_date(target_date)
+        if not success:
+            sys.exit(1)
     else:
         # Auto mode: check all missing dates up to today
-        with open(MANIFEST_FILE, "r") as f:
+        with open(MANIFEST_FILE, "r", encoding="utf-8") as f:
             manifest = json.load(f)
         existing_dates = set(manifest.get("dates", []))
         
@@ -493,14 +495,21 @@ def main():
             
         print(f"Found {len(missing_dates)} missing dates: {missing_dates}. Processing in single batch...")
         sources = load_sources()
+        
+        any_success = False
         for d_str in missing_dates:
             success = process_date(d_str, sources=sources)
             if success:
+                any_success = True
                 print(f"Successfully processed {d_str}. Pausing 15s before next date...")
                 time.sleep(15)
             else:
                 print(f"Failed to process {d_str}. Pausing 30s before next date...")
                 time.sleep(30)
+                
+        if not any_success:
+            print("ERROR: All attempted dates failed to generate. Exiting with error code to trigger GitHub Actions alert.")
+            sys.exit(1)
 
 if __name__ == "__main__":
     main()
