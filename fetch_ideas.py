@@ -212,11 +212,16 @@ def fetch_rss(sources):
     seen_urls, seen_titles = load_existing_urls_and_titles()
     batch_seen = set()
     articles = []
+    sources_modified = False
     
     # 30% of sources will be selected for Deep Sitemap Search to prevent extreme overhead
-    sitemap_sources = random.sample(sources, max(1, int(len(sources)*0.3)))
+    active_sources = [s for s in sources if not s.get("quarantined", False)]
+    sitemap_sources = random.sample(active_sources, max(1, int(len(active_sources)*0.3)))
     
     for src in sources:
+        if src.get("quarantined", False):
+            continue
+            
         name = src.get("name", "Unknown Source")
         category = src.get("category", "General")
         url = src.get("url", "")
@@ -224,30 +229,46 @@ def fetch_rss(sources):
         print(f"Fetching {name}...")
         
         # 1. Standard RSS Fetch
+        success_this_run = False
         try:
             feed = feedparser.parse(url)
-            for entry in feed.entries[:10]:
-                link = getattr(entry, "link", "").strip().lower()
-                title = getattr(entry, "title", "").strip().lower()
-                if not link or link in seen_urls or link in batch_seen or title in seen_titles:
-                    continue
-                batch_seen.add(link)
-                
-                img_url = extract_image(entry, domain=category, source_name=name)
-                articles.append({
-                    "title": getattr(entry, "title", ""),
-                    "link": getattr(entry, "link", ""),
-                    "summary": getattr(entry, "summary", getattr(entry, "description", "")),
-                    "image": img_url,
-                    "source": name,
-                    "category": category,
-                    "type": "rss"
-                })
+            if feed.entries and len(feed.entries) > 0:
+                success_this_run = True
+                for entry in feed.entries[:10]:
+                    link = getattr(entry, "link", "").strip().lower()
+                    title = getattr(entry, "title", "").strip().lower()
+                    if not link or link in seen_urls or link in batch_seen or title in seen_titles:
+                        continue
+                    batch_seen.add(link)
+                    
+                    img_url = extract_image(entry, domain=category, source_name=name)
+                    articles.append({
+                        "title": getattr(entry, "title", ""),
+                        "link": getattr(entry, "link", ""),
+                        "summary": getattr(entry, "summary", getattr(entry, "description", "")),
+                        "image": img_url,
+                        "source": name,
+                        "category": category,
+                        "type": "rss"
+                    })
+            else:
+                print(f"Failed to fetch RSS {name}: Feed empty or invalid")
         except Exception as e:
             print(f"Failed to fetch RSS {name}: {e}")
             
+        if success_this_run:
+            if src.get("fail_count", 0) > 0:
+                src["fail_count"] = 0
+                sources_modified = True
+        else:
+            src["fail_count"] = src.get("fail_count", 0) + 1
+            sources_modified = True
+            if src["fail_count"] >= 3:
+                src["quarantined"] = True
+                print(f"🚨 [AUTO-QUARANTINE] {name} has failed 3 times consecutively. Marking as quarantined.")
+            
         # 2. Deep Historical Search (Sitemap)
-        if src in sitemap_sources:
+        if src in sitemap_sources and success_this_run:
             print(f"  -> Deep searching past data for {name}...")
             past_urls = fetch_sitemap_urls(url)
             if past_urls:
@@ -267,6 +288,11 @@ def fetch_rss(sources):
                             "category": category,
                             "type": "sitemap"
                         })
+                        
+    if sources_modified:
+        with open(SOURCES_FILE, "w", encoding="utf-8") as f:
+            json.dump(sources, f, ensure_ascii=False, indent=2)
+            
     return articles
 
 def generate_daily_insight(date_str, articles_subset):
@@ -403,28 +429,34 @@ def generate_daily_insight(date_str, articles_subset):
 
     print(f"Candidate Gemini models: {candidate_models}")
 
-    for model_name in candidate_models:
-        print(f"Attempting generation with model: {model_name}")
-        model = genai.GenerativeModel(
-            model_name,
-            generation_config={"response_mime_type": "application/json"}
-        )
-        for attempt in range(2):
-            try:
-                response = model.generate_content(
-                    "You are a professional JSON generator. Output strictly valid JSON.\n" + prompt
-                )
-                text = response.text.strip()
-                if text.startswith("```"):
-                    text = re.sub(r"^```(?:json)?\s*", "", text)
-                    text = re.sub(r"\s*```$", "", text)
-                return json.loads(text)
-            except Exception as e:
-                print(f"Gemini API error with {model_name} (attempt {attempt+1}): {e}")
-                if "quota" in str(e).lower() or "429" in str(e) or "resource" in str(e).lower():
-                    print(f"Quota/limit for {model_name}, moving to next candidate model...")
-                    break
-                time.sleep(5)
+    for grand_attempt in range(2):
+        for model_name in candidate_models:
+            print(f"Attempting generation with model: {model_name}")
+            model = genai.GenerativeModel(
+                model_name,
+                generation_config={"response_mime_type": "application/json"}
+            )
+            for attempt in range(2):
+                try:
+                    response = model.generate_content(
+                        "You are a professional JSON generator. Output strictly valid JSON.\n" + prompt
+                    )
+                    text = response.text.strip()
+                    if text.startswith("```"):
+                        text = re.sub(r"^```(?:json)?\s*", "", text)
+                        text = re.sub(r"\s*```$", "", text)
+                    return json.loads(text)
+                except Exception as e:
+                    print(f"Gemini API error with {model_name} (attempt {attempt+1}): {e}")
+                    if "quota" in str(e).lower() or "429" in str(e) or "resource" in str(e).lower():
+                        print(f"Quota/limit for {model_name}, moving to next candidate model...")
+                        break
+                    time.sleep(5)
+                    
+        if grand_attempt == 0:
+            print("🚨 All models exhausted! Initiating Self-Healing (Method 1): Sleeping for 15 minutes before retrying...")
+            time.sleep(900)
+
     return None
 
 def update_manifest(date_str):
