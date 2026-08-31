@@ -1,0 +1,376 @@
+{
+  "date": "2026-09-01",
+  "focusQ": "Agent's Thought: 움직이는 이미지의 전면 배치야말로 미학적 거품을 걷어내는 유일한 정화 장치다. 조잡한 텍스트 기획안에 은폐된 가짜 크리에이티브를 버리고, 프레임 내 연출과 미장센의 완결성으로만 기획을 증명하라. 감상주의적 수사와 무능을 기술과 프레이밍으로 즉각 단죄하는 것이 이번 큐레이션의 결론이다.",
+  "creator_message": "큐레이터의 메시지: 미지근한 텍스트 뒤에 숨어 자위하는 기획자들의 시대는 끝났다. 미장센 하나 렌즈 각도 하나 조율하지 못하면서 대단한 브랜드 철학을 읊어대는 헛소리에 지쳤다. 오직 프레임의 밀도와 연출의 집요함만이 시선을 고정시킨다. 가짜 미학을 감상할 시간 따위는 없다.",
+  "session": {
+    "timestamp": "2026-08-31T23:56:56.247274",
+    "considered": 40,
+    "selected": 15
+  },
+  "topPicks": [
+    {
+      "title": "포트레이트 오브 어 플레이스: 알리나",
+      "content": "파키스탄 칼라샤 계곡의 웅장한 자연과 인물의 초상을 담아낸 필름. 날것의 미장센과 카메라 워크로 지역적 정체성을 감각적으로 풀어낸 나우니스(Nowness) 시리즈.",
+      "url": "https://www.nowness.com/series/portrait-of-a-place/alina-kalasha-pakistan",
+      "source": "Nowness",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Nowness",
+      "creator_insight": "피사체를 유기하지 않고 인물의 표정과 주변 지형의 대비를 극대화하는 프레이밍 감각이 돋보인다.",
+      "tags": [
+        "Nowness",
+        "Documentary",
+        "Cinematography"
+      ],
+      "execution_techniques": [
+        "인류학적 프레이밍",
+        "자연광 텍스처"
+      ],
+      "why": "인류학적 다큐멘터리조차 고도의 미장센으로 감각화할 수 있음을 증명하는 시각적 척도.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://img.nowness.com/nowness-frontend/w3W66EDzQ9Sld7jLM8Ig_TC-27886-February%2027%2C%202025-3%20(1).jpg",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "본 투 허슬: 감각적 편집과 렌즈의 미학",
+      "content": "팍팍한 도시 삶 속 허슬러의 혼란스러운 내면을 빠른 패닝과 컷 전환으로 담아낸 단편 영화. 가파른 템포의 편집과 감각적인 렌즈 선택이 강렬하다.",
+      "url": "https://filmshortage.com/shorts/born-to-hustle/",
+      "source": "Film Shortage",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "그레이스 안나 카르도나 (Grace Anna Cardona)",
+      "creator_insight": "과도한 설명 대신 자르기와 붙이기의 극단적인 시각적 리듬만으로 캐릭터의 광기를 압축했다.",
+      "tags": [
+        "ShortFilm",
+        "Editing",
+        "VisualRhythm"
+      ],
+      "execution_techniques": [
+        "퀴시 컷 연출",
+        "초광각 핸드헬드"
+      ],
+      "why": "리듬감 있는 카메라 연출과 스피디한 편집 스타일을 브랜드 필름에 이식하는 정석적인 연출법.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://filmshortage.com/wp-content/uploads/2026/08/fs-BornToHustle_Press-Play.jpg",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "솔라 - “You Don’t Have To Say” 뮤직비디오",
+      "content": "상처와 기억의 치유 과정을 한 편의 움직이는 색채 회화처럼 풀어낸 뮤직비디오. 몸과 공간이 뒤섞이는 미장센이 돋보인다.",
+      "url": "https://tv.booooooom.com/2021/11/10/sola-you-dont-have-to-say/",
+      "source": "Booooooom TV",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "니콜리 씬 (Nicolee Tsin)",
+      "creator_insight": "피부와 스페이스의 텍스처 변화를 색채의 은유로 해석하여 압도적인 시각적 서사를 구축했다.",
+      "tags": [
+        "MusicVideo",
+        "ColorTheory",
+        "VisualDirection"
+      ],
+      "execution_techniques": [
+        "색채 은유 기법",
+        "텍스처 미장센"
+      ],
+      "why": "단순한 스토리텔링을 넘어 색채 체계 자체를 서사로 활용하는 고난도 영상 연출의 본보기.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://placehold.co/800x600/0f172a/FFFFFF?text=Booooooom%20TV%0A%28FILM%29&font=playfair-display",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "멜리사 아프 더 마우어: 90년대 록 컬처의 서사적 기록",
+      "content": "홀과 스매싱 펌킨스의 베이스기타리스트가 날것으로 기록한 90년대 록 아카이브 모노그래프. 아날로그 필름이 주는 거친 텍스처와 비하인드 컷이 강렬하다.",
+      "url": "https://www.wallpaper.com/art/photography/melissa-auf-der-maurs-new-monograph-chronicles-life-at-the-heart-of-90s-rock-culture",
+      "source": "Wallpaper*",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "멜리사 아프 더 마우어 (Melissa Auf der Maur)",
+      "creator_insight": "찰나의 순간을 포착한 카메라의 시선이 날것의 서브컬처를 유일무이한 서사적 유산으로 격상시킨다.",
+      "tags": [
+        "RockCulture",
+        "AnalogPhotography",
+        "Archive"
+      ],
+      "execution_techniques": [
+        "아날로그 필름 스냅",
+        "서브컬처 아카이빙"
+      ],
+      "why": "연출되지 않은 찰나의 카메라 워크와 사진 기법이 어떻게 강렬한 시각적 톤앤매너를 형성하는지 보여준다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://cdn.mos.cms.futurecdn.net/aU942d4nRdD8CL7dTkBpAj-1280-80.jpg",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "티 본 버넷 & 칼리 쿠리: 내쉬빌 하우스의 뮤직 스튜디오 미장센",
+      "content": "영화 '델마와 루이스'의 작가와 전설적 음악 프로듀서가 결합된 내쉬빌 주택. 100년 된 건축물 내부에 구축된 믹싱 스튜디오와 영화적 오브제 연출.",
+      "url": "https://www.architecturaldigest.com/story/t-bone-burnett-and-callie-khouri-nashville-home",
+      "source": "Architectural Digest",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "티 본 버넷 & 칼리 쿠리 (T Bone Burnett & Callie Khouri)",
+      "creator_insight": "음향과 영화 서사를 개인의 거주 공간에 완벽히 이식하며 공간 자체를 한 편의 세트장으로 연출함.",
+      "tags": [
+        "SetDesign",
+        "InteriorAesthetic",
+        "MusicHistory"
+      ],
+      "execution_techniques": [
+        "영화 세트 스타일링",
+        "사운드 앤 스페이스"
+      ],
+      "why": "수많은 영화와 음악이 태어난 공간의 오라를 어떻게 미학적인 비주얼 필드로 유지하는지에 대한 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://media.architecturaldigest.com/photos/6a88b9009dd0055d393edf90/master/pass/03253508_EditV2.jpg",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "라울 기예르모: “내재된 눈물” 사진 시리즈",
+      "content": "고독과 정적을 담아낸 에세이적 사진 프로젝트. 어둡고 내밀한 조명 처리와 절제된 앵글로 멜랑콜리한 시각적 톤을 전파한다.",
+      "url": "https://www.booooooom.com/2026/08/31/an-inherent-tear-by-photographer-raul-guillermo/",
+      "source": "Booooooom",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "라울 기예르모 (Raul Guillermo)",
+      "creator_insight": "조도의 대비와 절제된 인물 배치만으로 묵직한 서사적 침묵을 프레임 안에 가둔다.",
+      "tags": [
+        "VisualStorytelling",
+        "Portrait",
+        "MoodLighting"
+      ],
+      "execution_techniques": [
+        "로우키 조명 연출",
+        "정적 앵글"
+      ],
+      "why": "상업 영상이나 화보 촬영 시 조명과 음영을 극단적으로 다루어 분위기를 장악하는 앵글법.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Raul1.jpg",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "케이시 케이시: 평범한 셔츠를 착용 가능한 예술로 전환하는 법",
+      "content": "흔한 셔츠 패브릭과 실루엣을 하이엔드 예술품 수준으로 격상시킨 브랜드 파괴 전략. 단순함 속 텍스처와 볼륨의 미학에 집중한다.",
+      "url": "https://www.highsnobiety.com/p/casey-casey-shirt/",
+      "source": "Highsnobiety",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "케이시 케이시 (Casey Casey)",
+      "creator_insight": "본질적인 소재의 디테일에 집중하여 제품을 평범한 의류가 아닌 스태치먼트 피스로 격상시키는 패블릭 바이럴 전략.",
+      "tags": [
+        "FashionStrategy",
+        "WearableArt",
+        "Branding"
+      ],
+      "execution_techniques": [
+        "소재 미학화",
+        "볼륨 실루엣"
+      ],
+      "why": "제품 하나로 브랜드 패러다임을 바꿀 때 텍스처와 비율을 어떻게 전략화해야 하는지 제시.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "포트넘 앤 메이슨: 카카오의 땅에서 온 엽서 패키지 전략",
+      "content": "브랜딩 역사상 가장 오래된 유산 중 하나인 브랜드가 카카오 컬렉션을 위해 선보인 그래픽 및 비주얼 패키징 시스템.",
+      "url": "https://thedieline.com/fortnum-mason-deliver-a-postcard-from-the-land-of-cacao/",
+      "source": "The Dieline",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "포트넘 앤 메이슨 (Fortnum & Mason)",
+      "creator_insight": "클래식 브랜딩 요소를 현대적 판타지 일러스트레이션으로 다듬어 전통을 상품성으로 전환했다.",
+      "tags": [
+        "PackagingDesign",
+        "BrandIdentity",
+        "Heritage"
+      ],
+      "execution_techniques": [
+        "일러스트 브랜딩",
+        "패키지 그래픽"
+      ],
+      "why": "오래된 전통 브랜드를 모던한 디자인 톤으로 재해석할 때 필요한 그래픽 밸런싱.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://thedieline.com/wp-content/uploads/2026/08/1784184038287.jpeg",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "AI의 호스피탈리티 문제: 자본으로 해결할 수 없는 접객의 미학",
+      "content": "AI 기술이 절대 대체할 수 없는 고급 럭셔리 호스피탈리티와 인간적 스킨십의 브랜딩적 가치를 다룬 분석 칼럼.",
+      "url": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "휘트니 헤스 (Whitney Hess)",
+      "creator_insight": "정량화된 시스템이 흉내 낼 수 없는 오프라인 브랜드 경험의 디테일과 감성적 마찰의 중요성을 짚어냄.",
+      "tags": [
+        "BrandExperience",
+        "LuxuryStrategy",
+        "ServiceDesign"
+      ],
+      "execution_techniques": [
+        "브랜드 경험 설계",
+        "감성 접객 전략"
+      ],
+      "why": "브랜드가 디지털 자동화에만 의존할 때 발생하는 브랜드 감성의 탈색 문제에 대한 전략적 제언.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdn-images-1.medium.com/max/1024/1*fLVFiV48q_7pvwepVB6ovg.png",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "치아 투이 닌: 구름의 형상을 시각화한 크리스털과 스틸 공간",
+      "content": "알민 레시 상하이 갤러리에서 선보인 설치 미술. 비즈와 크리스털, 스틸을 결합하여 변화하는 하늘과 구름의 모듈을 공간적으로 재현.",
+      "url": "https://www.designboom.com/art/beads-crystals-steel-cloud-formations-exhibition-china-tia-thuy-nguyen-fields-resonance/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "치아 투이 닌 (Tia-Thuy Nguyen)",
+      "creator_insight": "손에 잡히지 않는 기상 현상을 무거운 스틸과 반사성 비즈로 대치하며 강렬한 재질적 마찰을 생성함.",
+      "tags": [
+        "SpatialInstallation",
+        "Materiality",
+        "ExhibitionDesign"
+      ],
+      "execution_techniques": [
+        "재질 마찰 연출",
+        "공간 설치 기법"
+      ],
+      "why": "물리적 공간 디자인에 비물질적 자연 요소를 텍스처로 이식하는 구조적 아이디어.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/08/tia-thuy-nguyen-fields-resonance-cloud-exhibition-china-designboom-700-500x400-22b08q85r236.jpg",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "앤도버 오디오: 포터블 하이파이 스피커의 미니멀 미학",
+      "content": "투박하고 과장된 아웃도어 스피커 폼팩터를 배제하고 정갈한 가구 조형과 스테레오 사운드를 결합한 스피커 프리플레이.",
+      "url": "https://design-milk.com/andover-audio-freeplay-portable-speaker/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "앤도버 오디오 (Andover Audio)",
+      "creator_insight": "산업용 기능주의 제품에서 과도한 군더더기를 깎아내고 럭셔리 인테리어와 어울리는 조형적 절제를 이뤄냄.",
+      "tags": [
+        "ProductDesign",
+        "Minimalism",
+        "HiFiAudio"
+      ],
+      "execution_techniques": [
+        "조형적 절제",
+        "재질 럭셔리화"
+      ],
+      "why": "하드웨어 제품 디자인에서 과격한 바이럴 요소 대신 클린한 조형미로 프리미엄 시장을 설득하는 방식.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://design-milk.com/images/2026/08/FreePlay-Beach-2-1500x1000.png",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "매튜 블랙번: 17세기 정물화 프레임으로 재구성한 서브컬처 노스탤지어",
+      "content": "플레이스테이션 콘트롤러와 프루트 룹스 시리얼을 17세기 고전 정물화 양식으로 재현한 유화 작품들. 팝컬처 소비재의 정물화.",
+      "url": "https://www.creativeboom.com/inspiration/matthew-blackburn-gives-ps1-controllers-and-froot-loops-the-old-master-treatment/",
+      "source": "Creative Boom",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "매튜 블랙번 (Matthew Blackburn)",
+      "creator_insight": "한국 소비문화에서도 고도로 소비되는 Y2K/레트로 정서를 고전 미학의 엄숙한 양식으로 전복함.",
+      "tags": [
+        "ContemporaryArt",
+        "PopSubculture",
+        "Nostalgia"
+      ],
+      "execution_techniques": [
+        "양식적 전복",
+        "고전 텍스처"
+      ],
+      "why": "저급하게 소비되기 쉬운 서브컬처 소재를 하이엔드 예술 양식의 장치로 다루어 시각적 반전을 꾀하는 기법.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://media.creativeboom.com/9f9041bc-b9bd-4fdd-a9f3-5190c7940055/conversions/46746576aac28012b4560186aeb64fad50ca54be-medium.webp",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "옵터스 광고: 코치가 낙마하자 등판한 할머니의 위엄",
+      "content": "축구 팀 코치가 공석이 되자 할머니(Nonna)가 대신 감독으로 나서 승리를 이끄는 유쾌하고 감동적인 호주 통신사 옵터스의 바이럴 캠페인.",
+      "url": "https://www.brandinginasia.com/when-the-coach-drops-out-nonna-steps-in-for-optus-theres-always-a-way/",
+      "source": "Branding in Asia",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "ViralAd",
+        "HumorStorytelling"
+      ],
+      "why": "비전형적인 캐릭터 기용 하나만으로 전체 브랜드 스토리에 폭발적인 친근함과 웃음을 더한 광고적 재치.",
+      "depth": 0.5,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/08/Optus-Nonna-1-1.webp",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "AI로 하루 만에 아이디어에서 프로토타입까지 완성해버린 후기",
+      "content": "기획 아이디어 수준이었던 프로젝트를 생성형 AI 툴들을 총동원해 단 24시간 만에 완전한 실행 템플릿과 디자인으로 구현한 실전 실험기.",
+      "url": "https://medium.muz.li/i-used-ai-to-go-from-idea-to-prototype-in-one-day-heres-what-happened-b59b16978301?source=rss----5969bf7021a3---4",
+      "source": "Muzli (Medium)",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "AITools",
+        "RapidPrototyping"
+      ],
+      "why": "쓸데없는 회의로 날을 지새우는 기획자들에게 하루 만에 시각적 결과물을 때려 박는 속도감을 직관적으로 보여줌.",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/1672/1*rf2t5QyaaLrTp_vcteQepw.png",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    },
+    {
+      "title": "그리드셋: 엉성한 초안을 1분 만에 브랜드 문서로 탈바꿈하는 툴",
+      "content": "텍스트나 PDF 초안을 넣으면 미리 설정된 브랜드 규칙에 맞추어 완벽한 디자인 문서로 즉시 출력해 주는 유용한 자동화 툴.",
+      "url": "https://bit.ly/side-grid1",
+      "source": "Sidebar.io",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "DesignTool",
+        "Productivity"
+      ],
+      "why": "형편없는 디자인 서식 때문에 메시지까지 구려 보이는 기획자들의 시간을 단번에 아껴주는 꿀 팁.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Sidebar.io%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-01T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "영상 미장센의 우위",
+      "is_hot": true
+    },
+    {
+      "word": "고전 양식의 팝컬처 전복",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 절제와 오프라인 오라",
+      "is_hot": false
+    },
+    {
+      "word": "하드웨어의 럭셔리 조형화",
+      "is_hot": true
+    },
+    {
+      "word": "색채 서사주의",
+      "is_hot": false
+    },
+    {
+      "word": "서브컬처 아카이빙",
+      "is_hot": true
+    }
+  ]
+}
