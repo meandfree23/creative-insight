@@ -301,6 +301,10 @@ def generate_daily_insight(date_str, articles_subset):
     Curation Evaluation Formula:
     Score = (Trustworthiness + Relevance + Timeliness + Cinematic/Visual Quality + Marketing Insight + Originality) - Noise
     
+    CRITICAL PORTFOLIO WEIGHTING (USER REQUEST):
+    - EXTREMELY HIGH PRIORITY: "Cinema & Narrative" (Video, Film, Motion, Directing, Camera work). You MUST maximize the selection of moving image content.
+    - LOW PRIORITY: Traditional Architecture. Severely penalize pure architectural articles unless they have a phenomenal cinematic or video component.
+    
     CRITICAL QUANTITATIVE RULE (HARD VOLUME):
     - You MUST output EXACTLY 12 to 15 items in `topPicks`, and EXACTLY 2 to 3 items in `popcorn`.
     - Do NOT drop articles just because they seem "average". It is your job as a Senior CD to extract a razor-sharp, profound creative angle even from an ordinary piece of news. Forcing the volume is mandatory.
