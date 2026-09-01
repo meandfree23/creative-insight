@@ -1,0 +1,400 @@
+{
+  "date": "2026-09-02",
+  "focusQ": "Agent's Thought: 감상주의로 포장된 껍데기 디자인은 가차 없이 버려진다. 시각 매체와 영상 내러티브가 브랜드의 직관적 타격감을 결정짓는 시대다. 날카로운 프레임과 상업적 직관만이 미학적 시장에서 생존을 보장한다.",
+  "creator_message": "큐레이터의 메시지: 모호한 개념을 나열하며 감성에 호소하는 크리에이터들에게 경고한다. 시각적 밀도가 빠진 아이디어는 한낱 잡담에 불과하다. 지금 필요한 것은 프레임을 압도하는 영상 연출력과 브랜드의 확실한 서사다.",
+  "session": {
+    "timestamp": "2026-09-01T22:39:45.868154",
+    "considered": 40,
+    "selected": 16
+  },
+  "topPicks": [
+    {
+      "title": "더그 에이트켄의 'Lightscape': 공간과 영상 서사의 기학적 연출",
+      "content": "미디어 아티스트 더그 에이트켄이 선보이는 'Lightscape' 프로젝트는 공간 구조물과 무빙 이미지를 결합해 압도적인 감각 경험을 설계한다. 건축적 맥락 속에서 펼쳐지는 영상 연출은 단순한 관람을 넘어 오감의 몰입을 유도한다.",
+      "url": "https://www.nowness.com/series/video-art-visions/doug-aitken-lightscape-open-house",
+      "source": "NOWNESS",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Doug Aitken",
+      "creator_insight": "더그 에이트켄은 빛과 영상의 파편화를 통해 고전적 전시 형태를 철저히 해체하며, 무빙 이미지의 지평을 극한으로 확장한다.",
+      "tags": [
+        "비디오아트",
+        "공간연출",
+        "무빙이미지"
+      ],
+      "execution_techniques": [
+        "#DynamicProjectionMapping",
+        "#ArchitecturalFraming"
+      ],
+      "why": "영상과 공간의 경계를 와해시키는 더그 에이트켄의 미장센은 비주얼 디렉터들에게 강력한 시각적 쾌감을 선사한다.",
+      "social_proof": "",
+      "depth": 0.98,
+      "image": "https://img.nowness.com/nowness-frontend/UspySIHVSK2DCOOunSTA_LIGHTSCAPE%20-%20OPEN%20HOUSE%20STILL%2019.jpg",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "AI 에이전트를 활용한 뮤직비디오 자동화 연출 워크플로우",
+      "content": "코딩 없이 n8n과 AI 툴을 연동하여 음악 트랙에서 뮤직비디오 비주얼을 자동 생성하는 연출 시스템의 실전 가이드다. 창작자의 직관을 알고리즘으로 변환하여 영상 제작의 시간적 비용을 대폭 축소한다.",
+      "url": "https://blog.naver.com/nkj2001/223869007191?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "남경진",
+      "creator_insight": "단순 자동화를 넘어 시각적 프레이밍 알고리즘을 구축해 영상 연출의 생산성과 직관을 극대화한다.",
+      "tags": [
+        "AIVideo",
+        "뮤직비디오",
+        "워크플로우"
+      ],
+      "execution_techniques": [
+        "#GenerativePrompting",
+        "#AutomatedEditing"
+      ],
+      "why": "AI 기술을 영상 프레이밍에 직접 개입시켜 제작 리소스를 파격적으로 줄이는 현명한 디렉팅 전략을 보여준다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://blogthumb.pstatic.net/MjAyNTA1MTdfMjI2/MDAxNzQ3NDg4MjMxODcz.CYGvJkOa6wJdjAzcy_rzXZfpQiRbCYqqJagysXzqFrMg.Q_lcgwKjqBJ3-76tsuhzIh2nslf_tQ0QY5v-55FAXvYg.PNG/3.output_10_0.png?type=s3",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "2026 부산·광주 비엔날레: 한국적 저항 서사와 미술의 중력",
+      "content": "한국의 서사와 역사적 저항을 다루는 89개 팀의 작품들이 부산과 광주에서 동시 다발적으로 펼쳐진다. 시대적 혼란 속에서 시각 예술이 브랜드적·문화적 메시지를 전달하는 강렬한 방식을 보여준다.",
+      "url": "https://www.theartnewspaper.com/2026/09/01/busan-and-gwangju-biennials-take-a-deep-dive-into-resistance-and-change",
+      "source": "The Art Newspaper",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "김성원, 앙팡 탱",
+      "creator_insight": "로컬의 동력이 어떻게 글로벌 시각 언어로 전이되는지 증명하는 날카로운 서사 기획이다.",
+      "tags": [
+        "비엔날레",
+        "한국현대미술",
+        "서사기획"
+      ],
+      "execution_techniques": [
+        "#CuratorialNarrative",
+        "#SpatialInstallation"
+      ],
+      "why": "한국의 시대적 서사를 시각적으로 재구성하는 비엔날레의 기획력은 캠페인 기획자들에게 깊은 직관을 제공한다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/366258b4114d7e883e4729ae40a46cb3efa2123a-2166x1472.jpg?w=140",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "진동선 사진전 <밤의 파리>: 야경 프레임이 완성하는 흑백의 내러티브",
+      "content": "명동성당 1898 광장에서 개최되는 진동선의 사진전으로, 파리의 밤이 가진 정막과 어둠을 특유의 프레임으로 담아냈다. 빛의 절제와 텍스처를 활용해 영화적 순간을 완성한다.",
+      "url": "https://blog.naver.com/sabids/221577722796?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "진동선",
+      "creator_insight": "피사체를 드러내기보다 어둠의 밀도를 제어하여 정적인 영상적 서사를 만들어낸다.",
+      "tags": [
+        "사진전",
+        "파리야경",
+        "흑백사진"
+      ],
+      "execution_techniques": [
+        "#ChiaroscuroFraming",
+        "#MonochromeTexture"
+      ],
+      "why": "어둠과 빛의 대조만으로 분위기를 장악하는 클래식한 흑백 톤 앤 매너의 정수를 확인할 수 있다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://blogthumb.pstatic.net/MjAxOTA3MDRfMyAg/MDAxNTYyMjI5MDUwMjcw.RwAWD9YfMq2J2R8hICKm3EjKLkHOXTrYmQjv1mv0l2Ag.P_L4nFU4OXnkqrWRzGvvWMJ5qloNhGi0Uq3TaMot2k8g.JPEG.sabids/20190704_165046.jpg?type=s3",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "조 스카니치의 패션 캠페인: 타미 힐피거 화보의 상업적 연출",
+      "content": "상업 사진가 조 스카니치가 연출한 타미 힐피거 FW25 캠페인 스틸 컷 시리즈다. 클로즈업과 미장센을 활용해 의상의 질감과 상업적 메시지를 공존시켰다.",
+      "url": "https://www.productionparadise.comshowcase/united-states-and-canada-issue-1026-2318/joe-scarnici-63795.html",
+      "source": "Production Paradise",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Joe Scarnici",
+      "creator_insight": "피사체의 역동적인 순간을 찰나의 프레임으로 포착하는 인물 연출력이 돋보인다.",
+      "tags": [
+        "패션화보",
+        "상업사진",
+        "캠페인 연출"
+      ],
+      "execution_techniques": [
+        "#CommercialLighting",
+        "#DynamicPortrait"
+      ],
+      "why": "브랜드의 클래식함을 훼손하지 않으면서 힙한 감각을 더하는 상업 화보 디렉팅의 모범 답안이다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://www.productionparadise.com/newsletters/2318/photos/83070/newsletter/25-267-fw25-tommy-q3-5046.jpg",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "모엣 샹동의 US Open 웰컴 스위트 리브랜딩 공간 전략",
+      "content": "테니스 볼 캔에 샴페인을 따라주는 이벤트부터 고서체 포스터까지, 3년 차를 맞은 모엣 샹동의 US Open 브랜드 경험 기획이다. VIP 스위트룸을 현대적인 클럽 감성으로 탈바꿈시켰다.",
+      "url": "https://coolhunting.com/culture/club-de-tennis-moet-chandon-rebuilds-its-us-open-welcome/",
+      "source": "COOL HUNTING",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Moët & Chandon Global Brand Team",
+      "creator_insight": "위트 있는 기믹과 고급스러운 디테일을 매끄럽게 결합하여 럭셔리의 이미지를 유쾌하게 전달한다.",
+      "tags": [
+        "브랜드경험",
+        "팝업스페이스",
+        "럭셔리마케팅"
+      ],
+      "execution_techniques": [
+        "#ArchiveReinterpretation",
+        "#SpatialActivation"
+      ],
+      "why": "고루한 전통 럭셔리 브랜드가 위트 있는 상징적 기믹을 통해 젊은 층과 호흡하는 방식을 증명한다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/08/DSC01724-768x512.jpg",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "데렉앤에릭의 무질서한 패키징: 정돈된 난장판의 미학",
+      "content": "디자인 스튜디오 데렉앤에릭이 선보인 독창적인 식음료 패키지 디자인으로, 무작위한 그래픽 요소를 정교한 타이포그래피로 통제했다. 브랜드의 자유분방한 개성을 패키지에 반영했다.",
+      "url": "https://thedieline.com/a-glorious-mess-perfectly-packaged-courtesy-of-derekeric/",
+      "source": "The Dieline",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Derek&Eric",
+      "creator_insight": "통제되지 않은 비주얼 요소를 정밀한 레이아웃으로 묶어내는 그래픽적 배짱을 보여준다.",
+      "tags": [
+        "패키지디자인",
+        "타이포그래피",
+        "브랜딩"
+      ],
+      "execution_techniques": [
+        "#MaximalistLayout",
+        "#ControlledChaos"
+      ],
+      "why": "지루한 미니멀리즘 일색의 패키지 시장에서 맥시멀한 요소를 기막히게 통제한 시각적 승리다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://thedieline.com/wp-content/uploads/2026/08/Screenshot-2026-08-30-at-5.59.42-PM.png",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "타깃의 균열을 파고드는 세대별 브랜딩 포지셔닝",
+      "content": "젊은 세대와 기성세대의 소비 패턴 차이를 그래픽 및 언어 전략으로 분해한 브랜딩 가이드다. 타깃별 인지 방식에 맞춘 시각적 문법 선택이 브랜드 수명에 미치는 영향을 논한다.",
+      "url": "https://medium.com/@jkbclr/branding-for-older-vs-younger-generations-3b862324da0f?source=rss------branding-5",
+      "source": "Medium Branding Tag",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Jakob Color",
+      "creator_insight": "감성에 의존하지 않고 연령대별 인지 심리를 정확히 타격하는 시각 전략을 선사한다.",
+      "tags": [
+        "브랜드전략",
+        "타깃인사이트",
+        "마케팅"
+      ],
+      "execution_techniques": [
+        "#DemographicPositioning",
+        "#VisualPsychology"
+      ],
+      "why": "타깃 마케팅에 필수적인 시각 언어의 온도 차이를 정밀히 파악할 수 있는 필독 가이드다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cdn-images-1.medium.com/max/1672/1*DMf5F8djoLOluJKKSzKPLQ.jpeg",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "몰나르 페테르의 '1976-2026': 레트로 타이포그래피의 현대적 재해석",
+      "content": "그래픽 디자이너 몰나르 페테르가 자신의 출생년도인 1976년의 문화적 아이콘을 2026년의 그래픽 감각으로 재구성한 포스터 시리즈다. 대담한 스위스 스타일 타이포그래피가 인상적이다.",
+      "url": "https://abduzeedo.com/molnar-peter-crafts-nostalgic-1976-2026-branding-concept/",
+      "source": "Abduzeedo",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Molnár Péter",
+      "creator_insight": "과거의 그래픽 자산을 현대적인 비주얼 언어로 치환하는 탁월한 감각을 과시한다.",
+      "tags": [
+        "포스터디자인",
+        "타이포그래피",
+        "그래픽디자인"
+      ],
+      "execution_techniques": [
+        "#SwissTypography",
+        "#RetroModernism"
+      ],
+      "why": "향수를 시용하는 레트로가 아닌, 대담한 타이포그래피 그리드로 과거를 다듬어낸 고밀도 그래픽 작업이다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/1976-2026_1.png",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "보그 저머니의 'Diane': 디안 크루거의 영화적 미장센 화보",
+      "content": "디안 크루거와 제이슨 우의 드레스가 어우러진 보그 저머니의 패션 에디토리얼이다. 클래식한 조명과 연출을 통해 영화 스틸컷을 연상시키는 드라마틱한 화보를 연출했다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/12/vogue-germany-diane/",
+      "source": "The Style Watcher",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Vogue Germany Editorial Team",
+      "creator_insight": "단순한 의상 쇼케이스를 넘어 피사체의 존재감을 극대화하는 광량 제어 연출을 선보인다.",
+      "tags": [
+        "보그",
+        "패션에디토리얼",
+        "영화적 연출"
+      ],
+      "execution_techniques": [
+        "#CinematicLighting",
+        "#DramaticStaging"
+      ],
+      "why": "스틸 한 컷으로 고전 영화의 한 장면을 재현해 내는 클래식 에디토리얼 연출의 모범 사례다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "다이안 아버스: 금기를 찌르는 프레임과 인물 서사",
+      "content": "20세기 사진 거장 다이안 아버스의 작품들을 분석하며, 규범 바깥의 피사체를 피하지 않고 정면으로 마주하는 연출관을 조명한다. 날카로운 시선으로 인물의 기괴함과 솔직함을 적나라하게 담아낸다.",
+      "url": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-cheimread/usr/images/artworks/main_image/items/93/9341104ed6c8497b963a92f2a5e93df3/ar.4456.jpg",
+      "source": "Cheim & Read",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Diane Arbus",
+      "creator_insight": "피사체와의 정면 대립을 통해 가식적인 미학을 철저히 깨부수는 날카로운 관점을 제시한다.",
+      "tags": [
+        "인물사진",
+        "다이안아버스",
+        "프레임기획"
+      ],
+      "execution_techniques": [
+        "#RawConfrontation",
+        "#SquareFormat"
+      ],
+      "why": "피사체를 위선 없이 다루는 아버스의 시선은 영상 및 이미지 크리에이터들이 가져야 할 태도를 환기한다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto,dpr_auto/ws-cheimread/usr/images/artworks/main_image/items/93/9341104ed6c8497b963a92f2a5e93df3/ar.4456.jpg",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "베를린 Silent Green: 기억의 경계를 허무는 동영상 및 전시 페스티벌",
+      "content": "베를린의 문화공간 Silent Green에서 열리는 2일간의 페스티벌로, 기억의 금기를 다루는 영상 예술과 설치 작품들을 선보인다. 역사적 장소가 갖는 물리적 공간감과 무빙 미디어가 만난다.",
+      "url": "https://www.berlinartlink.com/2026/09/01/transgressive-memory-festival-silent-green-preview/",
+      "source": "Berlin Art Link",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Transgressive Memory Curator Team",
+      "creator_insight": "금기시된 주제를 무빙 이미지와 공간 연출을 통해 묵직한 서사로 변환한다.",
+      "tags": [
+        "영상페스티벌",
+        "베를린전시",
+        "미디어아트"
+      ],
+      "execution_techniques": [
+        "#MultiScreenProjection",
+        "#ImmersiveAudio"
+      ],
+      "why": "묵직한 역사적 소재를 동시대 영상 언어로 다루는 방식이 미디어 아트 크리에이터들에게 깊은 울림을 준다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://placehold.co/800x600/3f3f46/FFFFFF?text=Berlin%20Art%20Link%0A%28ART%29&font=playfair-display",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "댄스 디스커버리 Issue 399: 생산성 압박 속 창작자의 취약성과 자존감",
+      "content": "디지털 미디어 환경에서 무분별한 콘텐츠 생산에 몰두하는 창작자들의 정서적 고갈을 다룬 에세이다. 단순 제작 효율보다 미학적 밀도를 유지하기 위한 내면의 정제 과정의 중요성을 역설한다.",
+      "url": "https://www.densediscovery.com/issues/399/",
+      "source": "Dense Discovery",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Kai Brach",
+      "creator_insight": "무의미한 양적 팽창을 멈추고 창작의 직관을 지키는 현실적인 태도를 요구한다.",
+      "tags": [
+        "창작자정신",
+        "디자인에세이",
+        "생산성"
+      ],
+      "execution_techniques": [
+        "#EditorialInsight",
+        "#MentalWellbeing"
+      ],
+      "why": "공장식 콘텐츠 생산에 지친 크리에이터들이 자신의 미학적 기준점을 다시 세우게 하는 서늘한 당부다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.densediscovery.com/img/screenshot/square-399.jpg",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "[포토샵 강좌] 스트로크 패스 기본 테크닉",
+      "content": "포토샵 패스 선에 펜이나 브러시 효과를 입히는 스트로크 패스 기능의 기초 사용법 레퍼런스.",
+      "url": "https://graymonster.tistory.com/86",
+      "source": "Gray Monster",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "포토샵",
+        "디자인팁"
+      ],
+      "why": "기초 툴 활용법이지만 순간적으로 헷갈릴 때 빠르게 복습하기 좋은 스낵 스킬이다.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/99094F3359FACC3018",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "[포토샵 강좌] 레이어 마스크 완벽 이해",
+      "content": "비파괴 편집의 핵심인 포토샵 레이어 마스크 기능의 개념과 빠르게 적용하는 팁 정리.",
+      "url": "https://graymonster.tistory.com/80",
+      "source": "Gray Monster",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "포토샵",
+        "튜토리얼"
+      ],
+      "why": "디자인 작업 시 레이어 손상 없이 빠르게 이미지를 가공하는 실용 팁.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/996D4833599C91CE2D",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    },
+    {
+      "title": "아티스트 포트폴리오 사이트 백링크 수집 전략 2가지",
+      "content": "개인 포트폴리오 웹사이트의 검색 노출을 높이기 위한 실전 백링크 확보 노하우 공유.",
+      "url": "https://veryprivategallery.com/artist-website-backlinks/",
+      "source": "Very Private Gallery",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "SEO",
+        "포트폴리오"
+      ],
+      "why": "창작물이 아무리 뛰어남도 노출되지 않으면 소용없다는 점을 상기시키는 현실적 스낵 팁.",
+      "depth": 0.5,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2024/02/artist-website-backlinks-ideas.jpg",
+      "pub_date": "2026-09-02T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "영상 미장센 중심주의",
+      "is_hot": true
+    },
+    {
+      "word": "AI 연출 자동화",
+      "is_hot": true
+    },
+    {
+      "word": "서사적 밀도",
+      "is_hot": true
+    },
+    {
+      "word": "스위스 타이포그래피 재해석",
+      "is_hot": false
+    },
+    {
+      "word": "럭셔리 팝업 경험",
+      "is_hot": true
+    },
+    {
+      "word": "창작자 정서적 고갈",
+      "is_hot": false
+    }
+  ]
+}
