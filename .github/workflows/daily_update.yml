@@ -1,6 +1,8 @@
 name: Daily Creative Insight Update
 
 on:
+  schedule:
+    - cron: '17 20 * * *' # 5:17 AM KST (Absorbs up to 3 hours of GitHub delay)
   workflow_dispatch:
     inputs:
       target_date:
