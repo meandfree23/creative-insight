@@ -1,0 +1,424 @@
+{
+  "date": "2026-09-10",
+  "focusQ": "Agent's Thought: 감상주의적 그래픽과 공장형 UI가 넘쳐나는 시장에서 진짜 창작자는 프레임 단위의 연출력과 날카로운 서사 구조로 승부한다. 매체와 도메인의 경계를 허무는 동영상 중심 미학과 감각적인 브랜드 타격점만이 시각적 피로감을 뚫고 살아남는다.",
+  "creator_message": "큐레이터의 메시지: 뻔한 AI 합성물과 알맹이 없는 디자인 템플릿에 안주하는 시대다. 이번 큐레이션에서는 시각적 밀도와 연출의 본질을 꿰뚫는 영화적 기법, 날카로운 브랜드 전략만을 골라냈다. 예쁜 껍데기가 아닌 진짜 연출력을 본받아라.",
+  "session": {
+    "timestamp": "2026-09-09T22:36:53.331755",
+    "considered": 40,
+    "selected": 17
+  },
+  "topPicks": [
+    {
+      "title": "미국의 차 파괴 문화와 파괴적 미학의 단편 영화",
+      "content": "미국 특유의 차량 파괴 이벤트와 그에 얽힌 인물들의 미학을 다룬 단편 영화 리뷰다. 거친 질감과 미학적 프레임 연출이 인상적인 서사를 완성한다.",
+      "url": "https://www.shortoftheweek.com/2026/09/03/wrecked-a-bunch-of-cars-had-a-good-time/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Short of the Week Editorial",
+      "creator_insight": "날것의 혼돈을 세련된 피사체 포착 능력과 컷 편집으로 승화시켜 거친 서사를 고급스러운 무드로 끌어올렸다.",
+      "tags": [
+        "단편영화",
+        "시네마틱",
+        "차량파괴"
+      ],
+      "execution_techniques": [
+        "#CinematicLighting",
+        "#RawDocumentaryStyle"
+      ],
+      "why": "파괴라는 자극적인 소재를 감각적인 프레임으로 다루어 비주얼 스토리텔링의 한계를 확장했다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/09/wrecked_a_bunch_of_cars_had_a_good_time_05.jpg",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "버디와 리빗: 연출력이 돋보이는 모션 3D 애니메이션",
+      "content": "유쾌하면서도 밀도 높은 캐릭터 디자인과 역동적인 카메라 워크가 어우러진 모션 그래픽 작품이다. 유머와 연출 미학의 완성도를 동시에 챙겼다.",
+      "url": "https://motionographer.com/quickie/birdie-ribbit/",
+      "source": "Motionographer",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Birdie & Ribbit Production Team",
+      "creator_insight": "짧은 호흡 속에서도 완벽한 타이밍과 시선을 사로잡는 모션 래그로 유쾌함과 비주얼 완성도를 동시에 잡아낸 명작이다.",
+      "tags": [
+        "모션그래픽",
+        "3D애니메이션",
+        "캐릭터 연출"
+      ],
+      "execution_techniques": [
+        "#DynamicCameraWork",
+        "#Stylized3DRendering"
+      ],
+      "why": "3D 캐릭터 모션에서 정교한 카메라이동과 시선 유도가 어떻게 스토리를 전개하는지 보여주는 정석이다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Birdie_16x9_img02-700x394.png",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "중세 드워프 3D 작업으로 보는 노화 피부 텍스처 연출법",
+      "content": "3D 아티스트 니키타 팝이 노인의 주름진 피부와 사실적인 질감을 표현하는 노하우를 상세히 설명한다. 모발과 깃털 표현까지 정교한 기술을 담았다.",
+      "url": "https://80.lv/articles/mastering-wrinkly-skin-texture-by-making-an-old-medieval-dwarf-in-3d/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Nikita Popp",
+      "creator_insight": "해부학적 이해에 기반한 하이퍼 리얼리즘 텍스처링으로 리얼타임 캐릭터에 시네마틱한 생명력을 부여했다.",
+      "tags": [
+        "3D디지털아트",
+        "텍스처링",
+        "캐릭터디자인"
+      ],
+      "execution_techniques": [
+        "#SubsurfaceScattering",
+        "#PBRTexturing"
+      ],
+      "why": "영화 수준의 리얼리티를 구현하기 위해 피부 디테일과 조명이 캐릭터의 서사에 마침표를 찍는 과정을 증명한다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cdn.80.lv/api/upload/post/41462/images/6a994fda48adf/cover_800x800.jpg",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "LA 필름 스쿨: 시네마틱 스토리를 완성하는 필름 연출 교육",
+      "content": "할리우드 중심부에서 스토리를 시각적 유산으로 전환하는 전문 필름 연출 및 영상 기획에 대한 통찰을 다룬다.",
+      "url": "https://filmmakermagazine.com/133964-the-los-angeles-film-school-craft-your-story-leave-a-legacy-sponsored/",
+      "source": "Filmmaker Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "The Los Angeles Film School",
+      "creator_insight": "상업 영화와 독립 영화의 경계에서 실전 카메라워크와 서사 설계를 극한으로 연마하는 시스템을 보여준다.",
+      "tags": [
+        "영화 연출",
+        "스토리텔링",
+        "할리우드"
+      ],
+      "execution_techniques": [
+        "#CinematicDirection",
+        "#NarrativeArcDesign"
+      ],
+      "why": "영상 창작자라면 반드시 갖춰야 할 프레임 연출과 스토리 구조화의 기본기를 재확인시킨다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/LAFS_building-1240x698.jpg-940x400.png",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "야마다 코헤이: 뉴욕 GR 갤러리에서 선보인 스크린 테스트",
+      "content": "스크린 테스트를 페인팅과 시각 예술로 재해석하여 설치 미학의 정수를 보여주는 야마다 코헤이의 전시 현장이다.",
+      "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/",
+      "source": "Juxtapoz",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Kohei Yamada",
+      "creator_insight": "영화적 인물 테스트 화면을 캔버스 공간으로 확장하여 프레임 속 움직임을 멈춘 정적 서사로 재구성했다.",
+      "tags": [
+        "현대미술",
+        "스크린테스트",
+        "갤러리전시"
+      ],
+      "execution_techniques": [
+        "#KineticPainitng",
+        "#FrameByFrameAesthetic"
+      ],
+      "why": "움직이는 영상 언어를 정지된 회화 패널로 변환하며 시각 예술의 프레임 연출을 확장했다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/feb6fd8d21b05a9d2a007a4aa38955a2_L.jpg",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "낙원이라는 이름의 식민지 아카이브 사진 재해석",
+      "content": "20명의 국제적인 아티스트가 식민지 시절 아카이브 사진을 재해석하여 역사와 정체성의 멀티포닉 서사를 구축한다.",
+      "url": "https://www.lensculture.com/articles/museum-rietberg-a-kind-of-paradise-colonial-era-photography",
+      "source": "lensculture.com",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Museum Rietberg & Curator Group",
+      "creator_insight": "과거의 정지된 아카이브 컷들을 현대적 비판 시선으로 연결하여 다층적인 시각 큐레이션을 완성했다.",
+      "tags": [
+        "아카이브사진",
+        "비주얼서사",
+        "다큐멘터리"
+      ],
+      "execution_techniques": [
+        "#ArchiveReinterpretation",
+        "#VisualMontage"
+      ],
+      "why": "단순한 기공이 아닌 시각적 기록을 재해석하여 새로운 연출적 메시지를 도출하는 아카이빙 기법이다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://images.lensculture.com/image/b7541fba-5485-402d-922a-190018c5c900/large",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "버라이어티 매거진: 소피 홀랜드가 포착한 나탈리 포트만",
+      "content": "포토그래퍼 소피 홀랜드가 나탈리 포트만의 깊이 있는 표정과 감정을 영화적인 포트레이트 조명으로 포착한 매거진 화보다.",
+      "url": "https://levineleavitt.com/sophy-holland-natalie-portman-for-variety-magazine/",
+      "source": "levineleavitt.com",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Sophy Holland",
+      "creator_insight": "강렬한 콘트라스트와 극적인 조명 톤으로 인물의 연기 내공을 한 컷의 스틸 샷에 고스란히 담아냈다.",
+      "tags": [
+        "포트레이트",
+        "Variety",
+        "시네마틱조명"
+      ],
+      "execution_techniques": [
+        "#HighContrastLighting",
+        "#CinematicPortraiture"
+      ],
+      "why": "스틸 한 장만으로도 인물의 서사를 끌어내는 인물 라이팅과 카메라 구도의 교본이다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=levineleavitt.com%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "비엔날레 이미지 브베 2026: 야외 공간과 사진 연출의 결합",
+      "content": "스위스 브베에서 열리는 대규모 사진 비엔날레로, 건물 외벽과 공공장소를 활용한 압도적인 옥외 비주얼 연출을 선보인다.",
+      "url": "https://strba.ch/2026/08/26/biennale-images-vevey-2026/",
+      "source": "strba.ch",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Annelies Štrba",
+      "creator_insight": "건축물과 야외 공간 전체를 초대형 스크린으로 전환하여 시각적 스케일감을 선사한다.",
+      "tags": [
+        "사진전시",
+        "비엔날레",
+        "공간 연출"
+      ],
+      "execution_techniques": [
+        "#SiteSpecificInstallation",
+        "#LargeScaleVisuals"
+      ],
+      "why": "이미지가 프레임을 벗어나 도시적 환경 속에서 스케일감 있게 작용할 때 발생하는 시각적 충격을 보여준다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://strba.ch/wp-content/uploads/2026/08/vevey_2026-2020x3030.jpg",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "꼼꼼(KkomKkom): 한글 타이포그래피로 아이들의 쓰기를 돕다",
+      "content": "독일의 슬랜티드 매거진에 소개된 한글 타이포그래피 프로젝트로, 어린이들의 글쓰기 교육을 돕는 감각적인 한글 폰트 시스템 디자인이다.",
+      "url": "https://www.slanted.de/kkomkkom/",
+      "source": "Slanted",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "KkomKkom Project Team",
+      "creator_insight": "한글의 자음과 모음의 구조적 조형미를 교육적 경험과 결합하여 세련된 그래픽 언어로 풀어냈다.",
+      "tags": [
+        "한글타이포그래피",
+        "한국디자인",
+        "교육UIUX"
+      ],
+      "execution_techniques": [
+        "#KoreanTypography",
+        "#ModularGridSystem"
+      ],
+      "why": "한글이라는 독창적인 문자 체계를 현대적인 디자인 문법과 기능성으로 실현한 한국적 디자인 아이덴티티다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Slanted%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "AI 디자인 슬롭: 왜 AI는 똑같은 대시보드와 카드 뷰만 그리는가",
+      "content": "영혼 없는 AI 기반 UI/UX 생성기들이 양산해내는 일률적인 그라디언트와 둥근 모서리 양식을 비판하고 진정한 디자이너의 독창성을 촉구한다.",
+      "url": "https://medium.com/@dollyborade07/ai-design-slop-why-ai-keeps-designing-the-same-dashboard-cards-gradients-and-rounded-corners-26d8e4779a86?source=rss------ui_ux-5",
+      "source": "Medium UI/UX Tag",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Dolly Borade",
+      "creator_insight": "양식화된 프롬프트가 만들어내는 자기복제적 UI 패턴의 허점을 정밀하게 폭로하고 고유한 감각의 가치를 제기한다.",
+      "tags": [
+        "AI디자인",
+        "UIUX트렌드",
+        "비판적디자인"
+      ],
+      "execution_techniques": [
+        "#AntiGenericDesign",
+        "#CustomUXPattern"
+      ],
+      "why": "공장형 AI 결과물에 의존하지 않고 오직 디자이너만의 날카로운 감각과 철학을 세워야 하는 이유를 밝힌다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://cdn-images-1.medium.com/max/1376/1*5KFIC5LF7ruhPu3aM2ymcg.png",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "Parental Advisory: 금지 로고가 브랜딩 아이콘이 된 과정",
+      "content": "음반에 부착되던 금지 로고 'Parental Advisory'가 어떻게 공포를 넘어 스트리트 패션과 힙합 문화의 상징적 브랜딩으로 부상했는지 파헤친다.",
+      "url": "https://medium.com/@emma.gouju/parental-advisory-personne-na-jamais-eu-peur-de-ce-logo-1746e35c2138?source=rss------design-5",
+      "source": "Medium Design Tag",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Emma Gouju",
+      "creator_insight": "규제 목적의 라벨을 문화적 반항의 기호로 전용한 서브컬처 브랜드 전략의 시초이자 완벽한 예시다.",
+      "tags": [
+        "브랜딩",
+        "서브컬처",
+        "로고디자인"
+      ],
+      "execution_techniques": [
+        "#SubversiveBranding",
+        "#IconicTypography"
+      ],
+      "why": "네거티브 요소조차 브랜드 아이덴티티와 서브컬처의 강력한 기호로 반전시킬 수 있음을 입증하는 아티클이다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://cdn-images-1.medium.com/max/1500/1*_jE-wnidQ_FDqBuiCqKIcg.png",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "애스턴 마틴 F1과 페르난도 알론소를 위한 스트리트 뮤럴 캠페인",
+      "content": "애스턴 마틴 F1 팀이 레이서 페르난도 알론소를 오마주하기 위해 스트리트 아티스트 Fert One과 협업하여 완성한 대형 스트리트 아트 프로젝트다.",
+      "url": "https://www.streetartbcn.com/tribute-to-fernando-alonso-for-aston-martin-f1-by-fert-one/",
+      "source": "Street Art Barcelona",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Fert One & Aston Martin F1",
+      "creator_insight": "고급 모터스포츠 브랜드가 스트리트 아트를 만나 거리에 강렬한 에너지와 속도감을 입체적으로 과시했다.",
+      "tags": [
+        "AstonMartin",
+        "스트리트아트",
+        "브랜드콜라보"
+      ],
+      "execution_techniques": [
+        "#MuralCampaign",
+        "#UrbanArtActivation"
+      ],
+      "why": "하이엔드 스포츠 브랜드가 거리를 무대로 팬들과 강력한 정서적 접점을 형상화하는 기획 기법이다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.streetartbcn.com/wp-content/uploads/2025/09/Need_to_know_Spain_mural_2.jpg",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "차이나타운의 숨겨진 남성복 스토어 AFACTORY NYC",
+      "content": "알고리즘 기반의 디지털 마케팅에 의존하지 않고 우연한 발견을 매개로 한 오프라인 스토어 브랜딩 경험을 제공하는 에이팩토리 NYC의 매장 전략이다.",
+      "url": "https://www.highsnobiety.com/p/afactory-nyc-store/",
+      "source": "Highsnobiety",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "AFACTORY NYC",
+      "creator_insight": "희소성과 우연성을 극대화하여 진짜 취향을 가진 이들만 모이게 만든 리버스 마케팅의 신의 한 수다.",
+      "tags": [
+        "오프라인스토어",
+        "리버스마케팅",
+        "뉴욕패션"
+      ],
+      "execution_techniques": [
+        "#AntiAlgorithmRetail",
+        "#CurationStore"
+      ],
+      "why": "노출 과다의 시대에 숨겨진 공간이라는 신비감으로 자발적인 브랜드 팬덤을 구축하는 브랜딩의 정석이다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "Sorbe 셔벗: 디자이너 칸수 메르다메르트의 감각적인 패키징",
+      "content": "과일 셔벗 브랜드 Sorbe의 신규 패키지 디자인으로, 생동감 넘치는 컬러와 미니멀한 폰트 구성으로 과즙의 시각적 청량감을 극대화했다.",
+      "url": "https://thedieline.com/sorbes-sherbet-gets-a-fresh-pour-from-designer-cansu-merdamert/",
+      "source": "The Dieline",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Cansu Merdamert",
+      "creator_insight": "식감을 자극하는 대담한 컬러 조합과 절제된 라벨링으로 매대 위에서 즉각적인 시선 강탈을 구현했다.",
+      "tags": [
+        "패키지디자인",
+        "브랜드브랜딩",
+        "컬러팔레트"
+      ],
+      "execution_techniques": [
+        "#MinimalPackaging",
+        "#VibrantColorBlocking"
+      ],
+      "why": "제품의 본질적인 감각을 패키지 그래픽 하나로 즉각 전달하는 시각적 셀링 포인트를 보여준다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://thedieline.com/wp-content/uploads/2026/09/05142d252969197.6a5cea03cd2b0.jpg-1.png",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "일본의 새로운 관광 마스코트에 비난을 멈춰라",
+      "content": "괴상하지만 자꾸만 눈이 가는 일본의 신규 지역 마스코트가 인터넷에서 논란과 신선한 재미를 선사한다.",
+      "url": "https://www.creativebloq.com/design/stop-being-mean-to-the-new-japanese-travel-mascots",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "마스코트",
+        "바이럴디자인"
+      ],
+      "why": "완벽함보다 엉뚱함과 키치함이 어떻게 바이럴 확산력을 얻는지 보여주는 유머러스한 사례다.",
+      "depth": 0.5,
+      "image": "https://cdn.mos.cms.futurecdn.net/CnKDy32FHHiS2sopUd3T8A-1280-80.jpg",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "폭주족 베이브: 거친 레트로 서브컬처 비주얼",
+      "content": "일본의 보소조쿠 폭주족 문화와 서브컬처 스타일을 현대적 화풍으로 해석한 비주얼 그래픽 모음이다.",
+      "url": "https://www.behance.net/gallery/255247371/Bosozoku-babes",
+      "source": "Behance",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "서브컬처",
+        "비헤인스"
+      ],
+      "why": "B급 서브컬처 감성을 감각적인 일러스트 스타일로 전환하는 가벼운 비주얼 쉼터다.",
+      "depth": 0.5,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/44b934255247371.Y3JvcCw5OTksNzgyLDAsMA.png",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    },
+    {
+      "title": "미드저니 V8.1 스타일 참조(SREF) 마스터 튜토리얼",
+      "content": "미드저니의 SREF 스타일 파라미터를 활용해 무 무드 이미지를 추출하고 적용하는 유튜브 튜토리얼 팁이다.",
+      "url": "https://blog.naver.com/tiger6107/224344287394?fromRss=true&trackingCode=rss",
+      "source": "Naver Blog",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "미드저니",
+        "AI아트"
+      ],
+      "why": "AI 프롬프트의 난해함을 단번에 해결하는 스낵성 실전 프롬프트 테크닉이다.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Unknown%20Source%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-10T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "시네마틱 프레임 미학",
+      "is_hot": true
+    },
+    {
+      "word": "안티 AI 슬롭",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처 텍스처",
+      "is_hot": false
+    },
+    {
+      "word": "리버스 브랜딩",
+      "is_hot": true
+    },
+    {
+      "word": "하이퍼 리얼리즘 연출",
+      "is_hot": false
+    },
+    {
+      "word": "한글 구조적 타이포",
+      "is_hot": false
+    }
+  ]
+}
