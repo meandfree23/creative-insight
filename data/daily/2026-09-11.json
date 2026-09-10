@@ -1,0 +1,404 @@
+{
+  "date": "2026-09-11",
+  "focusQ": "Agent's Thought: 이미지 소비의 과잉 속에서 움직이는 프레임과 서사의 밀도만이 시각적 설득력을 가진다. 상업 미학의 얕은 속임수를 걷어내고, 시네마틱 연출과 압도적 메커니즘을 갖춘 레퍼런스만을 추려냈다. 무의미한 조형 놀음 대신 진짜 감각의 뼈대를 직시하라.",
+  "creator_message": "큐레이터의 메시지: 어설픈 트렌드 흉내와 지루한 인테리어 사진에 시간을 빼앗기지 마라. 이번 주 큐레이션은 무빙 이미지의 프레임 연출과 강렬한 서사 구조를 최우선으로 배치했다. 당신의 눈을 날카롭게 제련할 진짜 클래스만 골라 담았다.",
+  "session": {
+    "timestamp": "2026-09-10T22:38:16.393039",
+    "considered": 40,
+    "selected": 16
+  },
+  "topPicks": [
+    {
+      "title": "넥서스 스튜디오, 멀티 디렉터 데빈 크레인 전속 계약 체결",
+      "content": "글로벌 크리에이티브 스튜디오 넥서스가 디렉터이자 멀티 아티스트 데빈 크레인을 상업 영상 로스터로 영입했다. 애니메이션 스타일링과 상업 프레임 연출의 정점을 보여주는 포트폴리오다.",
+      "url": "https://www.stashmedia.tv/nexus-studios-signs-director-artist-devin-crane-to-commercial-roster/",
+      "source": "Stash Media",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Devin Crane",
+      "creator_insight": "일러스트레이션 고유의 평면적 감각을 3D 애니메이션 연출과 연동하여 상업 영상의 시각적 밀도를 한 단계 높였다.",
+      "tags": [
+        "애니메이션디렉팅",
+        "상업영상",
+        "시네마틱스타일링"
+      ],
+      "execution_techniques": [
+        "#StylizedMotion",
+        "#CameraBlocking"
+      ],
+      "why": "단순 그래픽 효과를 넘어 프레임 안에서 인물의 캐릭터 감정을 미학적으로 제어하는 연출력이 독보적이다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://placehold.co/800x600/1E1E1E/FFFFFF?text=Unknown%20Source%0A%28MOTION_FILM%29&font=playfair-display",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "데렉 자먼의 급진적 신화: 테오 로슨 감독의 영화 '에드워드 2세' 헌정작",
+      "content": "베니스 영화제에서 공개된 테오 로슨의 다큐멘터리 영화는 데렉 자먼의 비하인드 풋티지를 통해 그의 정치적 아티비즘과 연출 미학을 정밀 복원한다.",
+      "url": "https://www.anothermag.com/design-living/17453/jarman-theo-rollason-edward-ii-film-venice?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-pain-and-glory-of-derek-jarman-s-politically-furious-masterwork",
+      "source": "AnOther Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Theo Rollason",
+      "creator_insight": "과거 미공개 필름 풋티지를 미학적으로 재편집하여 거장의 정체성과 아티비즘을 현대적 프레임으로 재구성했다.",
+      "tags": [
+        "아카이브필름",
+        "시네마틱서사",
+        "영화연출"
+      ],
+      "execution_techniques": [
+        "#ArchiveFootageEditing",
+        "#AnalogueCinematography"
+      ],
+      "why": "거칠고 강렬한 필름 질감 속에서 메시지를 전달하는 미장센 연출의 날카로움을 배울 수 있다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/7/477146.jpg",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "레바논의 파편화된 기억을 조립하다: 라나 다헤르 감독의 'Do You Love Me'",
+      "content": "라나 다헤르 감독의 장편 데뷔작은 레바논의 아카이브 영상과 사운드트랙을 엮어 집단적 기억과 문화적 잔상을 영화적 기법으로 조립한다.",
+      "url": "https://filmmakermagazine.com/133997-do-you-love-me-reassembles-lebanons-cultural-memory/",
+      "source": "Filmmaker Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Lana Daher",
+      "creator_insight": "파편화된 아카이브 풋티지를 음악과 감정적 호흡으로 정교하게 컷팅해 문화적 기억을 하나의 서사로 압축했다.",
+      "tags": [
+        "파운드풋티지",
+        "다큐멘터리",
+        "영상서사"
+      ],
+      "execution_techniques": [
+        "#FoundFootageMontage",
+        "#RhythmicSoundDesign"
+      ],
+      "why": "직접 찍은 영상 없이 오직 편집과 사운드 디자인만으로 상흔과 기억을 시네마틱하게 재구성하는 정교함의 극치다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/do-you-love-me-940x400.jpg",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "경찰관의 절망적인 하루: 단편 애니메이션 'There's a Robbery in Progress'",
+      "content": "영국 경찰관의 실감 나는 보이스 연기와 독창적인 비주얼 스타일로 강도 사건 현장의 혼란을 위트 있게 풀어낸 비메오 스태프 픽 선정작이다.",
+      "url": "https://vimeo.com/channels/staffpicks/1225609993",
+      "source": "Vimeo Staff Picks",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Brian Croucher",
+      "creator_insight": "음성 타이밍과 그래픽 컷팅의 절묘한 동기화를 통해 코미디와 긴장감의 균형을 극대화했다.",
+      "tags": [
+        "단편애니메이션",
+        "비메오스태프픽",
+        "캐릭터연출"
+      ],
+      "execution_techniques": [
+        "#AudioDrivenCut",
+        "#DynamicFraming"
+      ],
+      "why": "짧은 호흡 안에서 캐릭터의 심리와 사건의 전개를 완벽하게 맞물리게 하는 편집 감각을 보여준다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://i.vimeocdn.com/video/2199449190-ce58e13a4e3a7afeacf5245a9419c386a8134114a69a38b16076569e19f74f8d-d_960?region=us",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "아르카의 살아있는 LED 룩: 23세 디자이너 홍지 얀의 착용형 디스플레이",
+      "content": "신예 디자이너 홍지 얀이 뮤지션 아르카를 위해 제작한 유연한 LED 스크린 의상은 인체를 움직이는 영상 매체 그 자체로 확장한다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17461/hongji-yan-arca-interview-xxxxx-led-screen?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-young-designer-behind-arca-s-living-led-look",
+      "source": "AnOther Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "HongJi Yan",
+      "creator_insight": "패브릭의 신축성과 LED 디스플레이 기술을 결합해 무대 위 퍼포머의 몸을 실시간 무빙 미디어로 변환시켰다.",
+      "tags": [
+        "웨어러블미디어",
+        "아르카",
+        "무빙디스플레이"
+      ],
+      "execution_techniques": [
+        "#WearableDisplay",
+        "#PerformanceVisuals"
+      ],
+      "why": "패션이 고정된 형태를 벗어나 프레임 연출을 수용할 때 발생하는 압도적인 시각 파괴력을 입증한다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476759.jpg",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "산업 현장의 미학적 재해석: 일리야 C. 헨델의 비주얼 포토그래피",
+      "content": "기업 및 산업 포토그래퍼 일리야 C. 헨델이 거친 공장과 기계 장치를 절제된 조명과 프레임 구성으로 웅장하게 포착했다.",
+      "url": "https://www.productionparadise.comshowcase/nordic-europe-issue-1027-2320/ilja-c-hendel-63921.html",
+      "source": "Production Paradise",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Ilja C. Hendel",
+      "creator_insight": "자칫 지루할 수 있는 산업 현장을 웅장한 영화의 한 장면처럼 스케일과 명암 대비로 연출해냈다.",
+      "tags": [
+        "산업사진",
+        "비주얼디렉팅",
+        "시네마틱라이팅"
+      ],
+      "execution_techniques": [
+        "#CinematicLighting",
+        "#IndustrialComposition"
+      ],
+      "why": "상업적 스틸컷에서도 영화적 톤앤매너와 압도적인 공간감을 설계하는 조명 연출 기법을 제공한다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://www.productionparadise.com/newsletters/2320/photos/80057/newsletter/00-main-ilja-c-hendel-img-0438-ilja-c-hendel-corporate-and-industrial-photographers.jpg",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "송포더뮤트 x 아디다스 아디제로 EVO SL '더브 그레이' 협업 공식 이미지",
+      "content": "호주 기반 브랜드 송포더뮤트와 아디다스가 레트로 러닝 스니커즈 아디제로 EVO SL을 특유의 톤다운된 재질감으로 재해석했다.",
+      "url": "https://hypebeast.kr/2026/9/song-for-the-mute-adidas-adizero-evo-sl-dove-grey-grey-two-grey-six-kj0774-release-info",
+      "source": "Hypebeast Korea",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Melvin Tanaya & Lyna Ty",
+      "creator_insight": "기능성 러닝화의 차가운 유선형 실루엣에 해체주의적 마감과 빈티지 질감을 결합해 한국 스트리트 씬의 신선한 자극을 던진다.",
+      "tags": [
+        "스니커즈컬래버",
+        "송포더뮤트",
+        "스트리트패션"
+      ],
+      "execution_techniques": [
+        "#TexturalContrast",
+        "#DeconstructedDesign"
+      ],
+      "why": "국내 하이엔드 스트리트 소비층이 열광하는 빈티지 텍스처와 모던 실루엣의 교묘한 결합 방식을 보여준다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F09%2Fsong-for-the-mute-adidas-adizero-evo-sl-dove-grey-grey-two-grey-six-kj0774-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "예거 르쿨트르, 메티에 라르 장인정신이 집약된 하이 워치메이킹 3종",
+      "content": "예거 르쿨트르가 미니트 리피터, 코스모투르비용 등 극상의 컴플리케이션 기술과 세밀한 공예를 결합한 최고급 시계 컬렉션을 선보였다.",
+      "url": "https://hypebeast.kr/2026/9/jaeger-lecoultre-master-hybris-artistica-minute-repeater-cosmotourbillon-duometre-grande-complication-a-grande-sonnerie-101-secrets-watch-info",
+      "source": "Hypebeast Korea",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Jaeger-LeCoultre Artisans",
+      "creator_insight": "마이크로 메커니즘의 극한과 정교한 핸드 에나멜링 기법을 결합하여 하이엔드 럭셔리의 정점을 구현했다.",
+      "tags": [
+        "하이워치메이킹",
+        "예거르쿨트르",
+        "럭셔리공예"
+      ],
+      "execution_techniques": [
+        "#MicroEngineering",
+        "#HandEnameling"
+      ],
+      "why": "한국 럭셔리 시장에서 초고가 타깃을 설득할 때 필수적인 스토리를 입히는 정교한 메커니즘과 아티산 브랜딩의 정석이다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F09%2Fjaeger-lecoultre-master-hybris-artistica-minute-repeater-cosmotourbillon-duometre-grande-complication-a-grande-sonnerie-101-secrets-watch-info.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "아디다스 오리지널스 x 시몬 로샤: 프릴과 삼선의 완벽한 결합",
+      "content": "로맨틱한 프릴과 리본, 아디다스의 불꽃 로고와 삼선 레이어링이 만난 시몬 로샤 협업 컬렉션이 마침내 베일을 벗었다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17433/simone-rocha-interview-adidas-originals-another-magazine-autumn-winter-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=adidas-originals-by-simone-rocha-we-could-only-create-this-together",
+      "source": "AnOther Magazine",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Simone Rocha",
+      "creator_insight": "극단적으로 상반된 페미닌 디테일과 스포츠웨어의 헤리티지를 과감하게 충돌시켜 완전히 새로운 시각 언어를 창출했다.",
+      "tags": [
+        "패션컬래버",
+        "시몬로샤",
+        "브랜드리파이닝"
+      ],
+      "execution_techniques": [
+        "#AestheticCollision",
+        "#SubversiveStyling"
+      ],
+      "why": "서로 다른 정체성을 가진 두 브랜드가 타협 없이 각자의 고유한 미학을 겹쳐내는 상업적 기획의 백미다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476869.jpg",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "푸생에서 포켓몬까지: 미술품 수집 시장의 거대한 패러다임 변화",
+      "content": "초부유층 콜렉터들이 전통 순수 미술 대신 수집형 포켓몬 카드와 슈퍼마리오 등 팝 컬처 아이콘과 사치품으로 눈을 돌리는 현상을 분석한다.",
+      "url": "https://www.theartnewspaper.com/2026/09/10/from-poussin-and-pollock-to-pokemon-and-super-mario-bros-the-market-is-shifting",
+      "source": "The Art Newspaper",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Art Market Analysts",
+      "creator_insight": "자산의 개념이 고전적 희소성에서 세대적 서사와 팬덤 중심의 서브컬처 자산으로 이동했음을 보여준다.",
+      "tags": [
+        "아트마켓",
+        "서브컬처자산",
+        "팝컬처수집"
+      ],
+      "execution_techniques": [
+        "#CulturalAssetValuation",
+        "#PopCulturePivot"
+      ],
+      "why": "희소성의 가치가 어디로 이동하고 있는지 브랜딩과 마케팅 전략 차원에서 판을 읽게 만드는 리포트다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/d6345d76dd5279fe960a27e38e7c53d4d4164dd5-3124x2082.jpg?w=140",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "스위즈 비츠와 알리샤 키스, 본햄스와 손잡고 아티스트 재판매 로열티 발족",
+      "content": "음악가 부부가 옥션 하우스 본햄스와 협력해 미술품 재판매 시 낙찰가의 일부를 아티스트에게 직접 환원하는 이니셔티브를 시작했다.",
+      "url": "https://www.theartnewspaper.com/2026/09/09/swizz-beatz-alicia-keys-bonhams-resale-royalties-artists",
+      "source": "The Art Newspaper",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Swizz Beatz & Alicia Keys",
+      "creator_insight": "미술 시장의 기존 유통 관행에 창작자 권리 보호라는 자선 및 윤리적 시스템을 직접 이식했다.",
+      "tags": [
+        "아트이커머스",
+        "크리에이터로열티",
+        "브랜드임팩트"
+      ],
+      "execution_techniques": [
+        "#EthicalEcosystem",
+        "#MatchingFundModel"
+      ],
+      "why": "브랜드가 사회적 진정성을 확보하고 크리에이터 생태계를 지원하는 방식의 진일보한 모델을 보여준다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/d2fda0b00ce3a5bee3da40376a0e6587b70ed18b-6000x4000.jpg?w=140",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "진보적 영원성: 맥스 레드포드 갤러리와 크리스토퍼 파의 카펫 디자인전",
+      "content": "런던 디자인 페스티벌의 일환으로 열린 전시에서 현대 가구 디자인과 아카이브 럭셔리 럭이 만나 공예와 디자인의 진화된 형태를 제시한다.",
+      "url": "https://www.wallpaper.com/design-interiors/max-radford-christopher-farr-london-design-festival-2026",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Max Radford & Christopher Farr",
+      "creator_insight": "역사적 텍스타일 패턴과 현대적 기하학 가구를 대치시켜 공간 속 대화주의적 배치를 연출했다.",
+      "tags": [
+        "공간디자인",
+        "카펫디자인",
+        "런던디자인페스티벌"
+      ],
+      "execution_techniques": [
+        "#TextileCuration",
+        "#SpatialDialogue"
+      ],
+      "why": "단순 가구 배치를 넘어 평면 텍스타일과 입체 가구가 만나 만들어내는 미학적 밀도를 확인할 수 있다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/aYEM9FxrjYhZ4hhY9PVesW-1280-80.jpg",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "형광 팬톤 805의 인쇄 실험: Andrew Townsend & James Warfield의 'Previous/Next'",
+      "content": "디자이너 앤드루 타운센드와 제임스 워필드가 CMYK와 팬톤 805 형광 컬러를 조합해 번개 같은 그래픽 실험을 담아낸 자가 출판물이다.",
+      "url": "https://www.andrew-townsend.com/Previous-Next",
+      "source": "Cargo Collective",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Andrew Townsend & James Warfield",
+      "creator_insight": "디지털 스크린이 구현하지 못하는 팬톤 형광 잉크의 물리적 질감과 콘트라스트를 극단까지 밀어붙였다.",
+      "tags": [
+        "타이포그래피",
+        "팬톤컬러",
+        "인쇄미학"
+      ],
+      "execution_techniques": [
+        "#PantoneFluorescent",
+        "#ExperimentalLayout"
+      ],
+      "why": "디지털 시대에 종이 매체만이 전달할 수 있는 극강의 색채 자극과 레이아웃 실험을 선사한다.",
+      "social_proof": "",
+      "depth": 0.84,
+      "image": "https://payload.cargocollective.com/1/1/33015/5083619/prt_1362744137.jpg",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "패밀리마트와 스모 전설 치요노후지의 파격적인 컬래버레이션",
+      "content": "일본 편의점 패밀리마트가 전설적인 스모 선수 치요노후지의 비주얼을 위트 있게 활용한 이색 마케팅 상품을 선보였다.",
+      "url": "https://spoon-tamago.com/familymart-sumo-legend-chiyonofuji-collab/?utm_source=rss&utm_medium=rss&utm_campaign=familymart-sumo-legend-chiyonofuji-collab",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "패밀리마트",
+        "이색컬래버"
+      ],
+      "why": "전통적 레전드 아이콘을 현대 B급 바이럴 마케팅으로 단숨에 변환시키는 대담함.",
+      "depth": 0.5,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/08/family-mart-chiyonofuji-collab-5-200x200.jpg",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "백만 달러 브랜드의 착시: 브랜든 콘디의 신작 숏폼",
+      "content": "크리에이터 브랜든 콘디가 공개한 숏폼 영상으로 백만 달러 규모 브랜드가 연출하는 브랜딩의 환상과 착시를 뼈아프게 짚어낸다.",
+      "url": "https://medium.com/@condycapital/branden-condy-just-dropped-a-new-short-the-perception-of-a-million-dollar-brand-f822d0cc09fa?source=rss------branding-5",
+      "source": "Medium Branding Tag",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "브랜드퍼셉션",
+        "숏폼마케팅"
+      ],
+      "why": "브랜딩의 실체보다 '비주얼 연출'이 만드는 착시 현상을 가볍지만 뾰족하게 파헤친 스낵 컨텐츠.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/1e1b4b/FFFFFF?text=Medium%20Branding%20Tag%0A%28BRANDING%29&font=playfair-display",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    },
+    {
+      "title": "오스틴 감성과 멕시코 전통의 조화: 베르다데로 데킬라 패키지 디자인",
+      "content": "크리에이티브와이즈가 스몰 배치 프리미엄 데킬라를 위해 선보인 대담하고 세련된 보틀 라벨링과 텍스처 스타일링.",
+      "url": "https://retaildesignblog.net/2026/09/04/verdadero-tequila-by-creativewise/",
+      "source": "Retail Design Blog",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "패키지디자인",
+        "데킬라브랜딩"
+      ],
+      "why": "식음료 브랜딩에서 보틀 그래픽과 텍스처 감각만으로 프리미엄 위상을 만드는 비주얼 스낵 레퍼런스.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/1c1917/FFFFFF?text=Retail%20Design%20Blog%0A%28SPATIAL%29&font=playfair-display",
+      "pub_date": "2026-09-11T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "시네마틱 미장센",
+      "is_hot": true
+    },
+    {
+      "word": "아카이브 재구성",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처 자산화",
+      "is_hot": true
+    },
+    {
+      "word": "착용형 미디어",
+      "is_hot": false
+    },
+    {
+      "word": "이종 미학 충돌",
+      "is_hot": true
+    },
+    {
+      "word": "마이크로 메커니즘",
+      "is_hot": false
+    },
+    {
+      "word": "물리적 텍스처 회복",
+      "is_hot": true
+    }
+  ]
+}
