@@ -1,0 +1,420 @@
+{
+  "date": "2026-09-14",
+  "focusQ": "기획자의 느슨한 타협을 박살내는 프레임워크와 비주얼 연출의 서사적 칼날. 평범한 브랜드에 상업적 날을 세우는 것은 그래픽이 아니라 노련한 시네마틱 렌즈다. 감상주의 따위는 버리고 렌즈의 프레임과 마케팅 구조만 남겨라.",
+  "creator_message": "어설픈 텍스트와 안이한 디자인으로 젠체하는 기획물들이 넘쳐나는 시장이다. 이번 큐레이션은 무의미한 미사여구를 칼같이 쳐내고, 오직 서사적 영상미와 브랜드의 냉혹한 상업적 결단만을 추려냈다. 훔칠 가치가 있는 기교만 섭취해라.",
+  "session": {
+    "timestamp": "2026-09-13T22:27:53.941273",
+    "considered": 40,
+    "selected": 17
+  },
+  "topPicks": [
+    {
+      "title": "리얼리즘을 해체한 페티시즘 다큐멘터리: '효도의 낙원'",
+      "content": "일본의 리얼돌 뮤지엄을 조명한 감독 자크 라비의 시네마틱 다큐멘터리 'Hyodo’s Paradise' 비하인드. 피사체를 기묘하도록 투명하게 포착하는 카메라 워크와 왜곡된 욕망의 인물을 담아내는 렌즈 연출을 다룬다.",
+      "url": "https://directorsnotes.com/2026/08/24/jacque-rabie-hyodos-paradise/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Jacque Rabie",
+      "creator_insight": "피사체를 동정하거나 희화화하지 않는 극도의 차가운 프레이밍으로 탭식 금기를 비주얼 서사로 변주해냈다.",
+      "tags": [
+        "다큐멘터리",
+        "시네마토그래피",
+        "프레이밍"
+      ],
+      "execution_techniques": [
+        "#ColdFraming",
+        "#DocumentaryRealism"
+      ],
+      "why": "기획 단계에서 피사체를 향한 감정적 과입입을 털어내고, 미학적 정서만을 서사로 압출하는 연출 감각이 돋보인다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/08/hyodos_paradise_20.jpg",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "아이슬란드 폭풍 속 프레임: 필름 '피알페르드(Fjallferð)'",
+      "content": "아이슬란드 전통 양 몰이 현장의 거친 폭풍우와 공동체의 노래를 담아낸 미니멀 필름 연출. 거친 자연의 질감과 인물의 움직임을 극적인 프레임으로 잡아냈다.",
+      "url": "https://directorsnotes.com/2026/09/08/caution-media-fjallferd/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Caution Media",
+      "creator_insight": "인위적인 세트 연출 대신 거친 날씨의 입자감을 그대로 영상 텍스처로 전환시킨 기획적 승리.",
+      "tags": [
+        "시네마틱",
+        "필름연출",
+        "자연텍스처"
+      ],
+      "execution_techniques": [
+        "#RawTexture",
+        "#AtmosphericLighting"
+      ],
+      "why": "영상 기획자라면 시각적 쾌감을 극대화하기 위해 환경의 거친 질감을 어떻게 활용할지에 대한 답을 얻을 것.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/09/fjallferd_12.jpeg",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "기계적 생명체의 움직임: 짐승적 모션 아트 'Artifex Creatura'",
+      "content": "디렉터 호안 모레노의 신작 모션 피스 아트워크. 금속과 유기적 생명체의 기묘한 움직임을 렌더링한 3D 연출로 시각적 중력감을 극대화했다.",
+      "url": "https://motionographer.com/quickie/artifex-creatura-joan-moreno/",
+      "source": "Motionographer",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Joan Moreno",
+      "creator_insight": "정교한 물리 엔진 렌더링을 시네마틱 프레임 안에 욱여넣어 시각적 압도감을 자아낸다.",
+      "tags": [
+        "3D모션",
+        "시네마틱아트워크",
+        "물리렌더링"
+      ],
+      "execution_techniques": [
+        "#KineticMotion",
+        "#OrganicCGI"
+      ],
+      "why": "3D 비주얼 씬에서 무의미한 그래픽 과시를 버리고 중력감 있는 서사적 움직임을 부여하는 방식을 보여준다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/08/artcrea-700x394.jpg",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "안소니 바카렐로: 모두를 만족시킬 필요 없는 입생로랑의 영화적 영혼",
+      "content": "데뷔 10주년을 맞은 앙통 바카렐로의 럭셔리 하우스 운영 철학. 유행에 타협하지 않는 시네마틱 미학의 이식과 럭셔리 브랜딩의 강경한 애티튜드를 조명한다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17431/anthony-vaccarello-interview-saint-laurent-another-autumn-winter-2026",
+      "source": "Another Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Anthony Vaccarello",
+      "creator_insight": "대중적 대타협을 거부하고 영화적 서사와 타협 없는 블랙 톤 앤 매너로 브랜드를 벼려낸 통찰.",
+      "tags": [
+        "럭셔리브랜딩",
+        "패션시네마",
+        "크리에이티브디렉션"
+      ],
+      "execution_techniques": [
+        "#HighFashionCinema",
+        "#SubversiveBranding"
+      ],
+      "why": "모두를 아우르려는 밋밋한 브랜드 전략이 왜 실패하는지, 럭셔리의 날카로운 아우라가 어떻게 형성되는지 일깨운다.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/6/476965.jpg",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "클리셰를 짓밟은 CGI 3D 캐릭터 렌더링: '워리어 캣츠'",
+      "content": "동화적 기대감을 배신하는 파격적 캐릭터 표현과 묵직한 조명 연출이 돋보이는 워리어 캣츠 비하인드 아키텍처. 아동용 애니메이션의 진부한 미학을 전복시킨다.",
+      "url": "https://www.creativebloq.com/art/animation/these-cat-animation-designs-look-nothing-like-what-i-expected",
+      "source": "Creative Bloq",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Warrior Cats Animation Team",
+      "creator_insight": "뻔한 귀여움을 거부하고 극적인 라이팅과 텍스처로 전형적인 애니메이션 미학을 전복했다.",
+      "tags": [
+        "3D애니메이션",
+        "캐릭터디자인",
+        "시네마틱라이팅"
+      ],
+      "execution_techniques": [
+        "#SubversiveCGI",
+        "#DramaticLighting"
+      ],
+      "why": "타깃층의 예측을 배신하는 비주얼 기획이 어떻게 독보적인 시네마틱 톤을 형상화하는지 증명한다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cdn.mos.cms.futurecdn.net/cJEdKWnQq5N56Hcv8thWZ5-1280-80.jpg",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "마더 디자인의 웰니스 정복: 점술 플랫폼 'Keen'의 민속 미술 리브랜딩",
+      "content": "지루한 미니멀리즘 웰니스 디자인 트렌드를 조롱하듯 민속 아트 일러스트레이션을 전면에 내세운 Keen 브랜드 리뉴얼. 감성 마케팅의 허점을 파고든 전략적 키치함.",
+      "url": "https://www.creativeboom.com/news/mother-design-gives-psychic-platform-keen-a-folk-art-rebrand-that-takes-on-minimalist-wellness/",
+      "source": "Creative Boom",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Mother Design & María Jesús Contreras",
+      "creator_insight": "클린 웰니스라는 흔해빠진 그래픽 공식 대신 강렬한 민속 아트워크로 차별적 브랜드 영토를 구축했다.",
+      "tags": [
+        "브랜드리뉴얼",
+        "일러스트레이션",
+        "포크아트"
+      ],
+      "execution_techniques": [
+        "#FolkArtBranding",
+        "#AntiMinimalism"
+      ],
+      "why": "천편일률적인 그래픽 공식에서 벗어나 브랜드에 독보적인 서사적 아우라를 부여하는 전략적 사례.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://media.creativeboom.0c60862f-df72-41e5-8732-4221dd60c924/conversions/ff5f755da04a5a1e0daf7c225caa2c8fdef41ad8-medium.webp",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "질레트 100년의 헤어: 남성성 서사의 아카이브 캠페인",
+      "content": "100년간의 남성 헤어스타일 변화를 한 줄기 시각 서사로 엮어낸 질레트의 아카이브 광고 캠페인. 브랜드 역사성을 단순한 자랑이 아닌 시대적 문화 텍스트로 풀어낸다.",
+      "url": "https://honestart.tistory.com/96",
+      "source": "honestart.tistory.com",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Gillette Creative Team",
+      "creator_insight": "100년이라는 막대한 시간의 아카이브를 컷 편집의 미학을 통해 압축적 브랜드 서사로 전환함.",
+      "tags": [
+        "브랜드캠페인",
+        "아카이브",
+        "광고기획"
+      ],
+      "execution_techniques": [
+        "#ArchiveStorytelling",
+        "#VisualHeritage"
+      ],
+      "why": "오래된 브랜드가 자신의 유산을 파괴하지 않으면서 감각적인 비주얼 타임라인으로 재생산하는 정석을 보여준다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://t1.daumcdn.net/cfile/tistory/24072535540588C52B",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "아침 식사용 아이스크림의 역발상: 알렉스 x 퓨어리 엘리자베스 콜라보",
+      "content": "죄책감을 자극하던 아이스크림을 오트밀 브랜드와 결합해 아침 식사 카테고리로 뻔뻔하게 재정의한 패키징 및 마케팅 전략. 죄의식을 즐거움으로 바꾸는 문맥 전환 기획.",
+      "url": "https://thedieline.com/alecs-x-purely-elizabeth-collab-takes-the-shame-out-of-ice-cream-for-breakfast/",
+      "source": "The Dieline",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Alec’s & Purely Elizabeth",
+      "creator_insight": "소비자의 죄책감이라는 심리적 장벽을 상쾌한 아침의 럭셔리로 탈바꿈시킨 프레임 재구성의 정수.",
+      "tags": [
+        "콜라보레이션",
+        "패키지디자인",
+        "프레임전환"
+      ],
+      "execution_techniques": [
+        "#ContextShifting",
+        "#PlayfulBranding"
+      ],
+      "why": "제품 카테고리의 한계를 극복하기 위해 어떠한 마케팅 프레임 전환이 필요한지 극적으로 증명한다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://thedieline.com/wp-content/uploads/2026/09/imgi_80_purely-elizabeth-hero-shot-w-hand_1_1-1.jpg",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "퍼렐 위클래식의 괴작: 아디다스 퓨처리스틱 워터 슈즈",
+      "content": "퍼렐 윌리엄스와 아디다스가 협업한 옐로-블랙 컬러의 실험적 워터 슈즈 'PW Water Moc'. 기능성 기어의 경계를 무너뜨리는 흉측하면서도 압도적인 디자인 랭귀지.",
+      "url": "https://www.highsnobiety.com/p/adidas-pw-water-moc/",
+      "source": "Highsnobiety",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Pharrell Williams & adidas",
+      "creator_insight": "어설픈 예쁨 대신 명확한 붉은 깃발을 세우는 아방가르드 실루엣으로 하이프의 아이콘을 조형해냈다.",
+      "tags": [
+        "스니커즈디자인",
+        "스트리트웨어",
+        "퍼렐윌리엄스"
+      ],
+      "execution_techniques": [
+        "#AvantGardeForm",
+        "#HighContrastShade"
+      ],
+      "why": "호불호가 갈리는 파격적 실루엣이 브랜드 바이럴 마케팅에서 어떻게 독점적 화제성을 확보하는지 입증.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "하이엔드 타조 가죽으로 재해석한 클래식: 아디다스 울트라스타 'Made in Germany'",
+      "content": "독일 장인 정신의 수제 공정을 바탕으로 타조 가죽 텍스처를 이식한 아디다스의 울트라스타 프리미엄 라인. 스트리트 아이콘을 럭셔리 오브제로 격상시키는 방식.",
+      "url": "https://www.highsnobiety.com/p/adidas-ultrastar-made-in-germany-ostrich-sneakers/",
+      "source": "Highsnobiety",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "adidas Design Team",
+      "creator_insight": "소재의 이질적 질감(Ostrich Leather) 하나만으로 헤리티지 제품에 압도적 럭셔리 텍스처를 입힘.",
+      "tags": [
+        "럭셔리제품",
+        "소재혁신",
+        "스니커컬처"
+      ],
+      "execution_techniques": [
+        "#ExoticMaterial",
+        "#CraftsmanshipFocus"
+      ],
+      "why": "기존 제품 아키텍처를 유지하면서 질감의 전복만으로 럭셔리 포지셔닝을 획득하는 마케팅 클래스.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "생성형 프롬프트 스타일 레퍼런스 세트: sREF v8.1 아카이빙",
+      "content": "미드저니 sREF 코드 2001-2200 번대의 시각적 스타일 라이브러리. 국내 AI 크리에이터들이 획일적인 비주얼에서 벗어나 고유한 아트 디렉션을 구축하는 도구적 레퍼런스.",
+      "url": "https://blog.naver.com/tiger6107/224300597817?fromRss=true&trackingCode=rss",
+      "source": "Naver Blog",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "tiger6107",
+      "creator_insight": "무의미한 텍스트 프롬프트를 배제하고 코드화된 비주얼 텍스처 파라미터를 체계적으로 분류함.",
+      "tags": [
+        "미드저니",
+        "AI아트디렉션",
+        "sREF"
+      ],
+      "execution_techniques": [
+        "#PromptArchitecture",
+        "#StyleCodeIndexing"
+      ],
+      "why": "AI 도구를 다루는 한국 크리에이터 씬에서 흔해빠진 'AI 티'를 떼어내고 정교한 무드를 고정하는 가이드라인.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA1MzBfMTE1/MDAxNzgwMDc3NTQ2Nzgy.1u8A5m_0DYrfkCRm2zPo1jlT6PuJOU4OI3cEV9Qh2kcg.phYw4IATmg_dibspCZrIWUQ1n1SVYFG5Fsr-2C9Qixcg.PNG/20260530_025816.png?type=s3",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "미술품 가격의 비열한 진실: '세상에 순수한 미술은 없다' 분석",
+      "content": "미술품의 상업적 가치와 자본주의적 검증 구조를 냉혹하게 파헤치는 비평 도서 리뷰. 자본과 컬렉터의 미학적 공모가 예술의 가치를 책정하는 시스템을 폭로한다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=82401",
+      "source": "Art Insight",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "아트인사이트 비평진",
+      "creator_insight": "순수 예술이라는 낭만적 껍데기를 벗겨내고 예술 시장을 움직이는 서슬 퍼런 시장 논리를 직시.",
+      "tags": [
+        "아트마켓",
+        "비평",
+        "예술자본주의"
+      ],
+      "execution_techniques": [
+        "#MarketCritique",
+        "#DeconstructiveAnalysis"
+      ],
+      "why": "한국 럭셔리 아트 시장에서 브랜드의 가치 설정을 어떻게 설계할 것인가에 대한 철학적 뼈대를 제공한다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://www.artinsight.co.kr/data/tmp/2609/20260913181345_spfhydqq.jpg",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "타이포그래피의 밀도: 일본 그래픽 저널 '아이디어(IDEA) No.412'",
+      "content": "일본 편집 디자인의 자존심 'IDEA' 매거진의 최신호 아카이브. 인쇄 매체의 물리적 질감과 밀도 높은 그리드 시스템이 제시하는 시각적 아우라를 분석한다.",
+      "url": "https://www.idea-mag.com/idea_magazine/no-412/",
+      "source": "IDEA Magazine",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "IDEA Magazine Editorial Team",
+      "creator_insight": "디지털 화면이 절대 흉내 낼 수 없는 인쇄 레이아웃의 절대적 밀도와 시각적 체계를 고집함.",
+      "tags": [
+        "편집디자인",
+        "타이포그래피",
+        "아이디어매거진"
+      ],
+      "execution_techniques": [
+        "#GridPrecision",
+        "#PrintTactility"
+      ],
+      "why": "화면 속 가벼운 디자인에 지친 그래픽 디렉터들에게 강렬한 그리드 압도감과 텍스처 감각을 환기한다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2025/12/be061351eef2b0680d3a58d67663246d-2-550x726.jpg",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "스토리를 제어하는 현대 CSS: 바닐라 JS 스크롤 스냅 내비게이션",
+      "content": "웹 UI/UX에서 스크롤 이벤트를 통해 시네마틱 인터랙션을 구현하는 프론트엔드 기법. 무거운 라이브러리 없이 단순한 코드 구조로 시각적 몰입감을 구축한다.",
+      "url": "https://medium.com/@francesco-saviano/building-a-scroll-snap-story-navigator-with-modern-css-and-vanilla-javascript-ff56c2da393e?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Francesco Saviano",
+      "creator_insight": "불필요한 프레임워크 낭비 없이 프런트엔드의 본질적 코드로 완벽한 시네마틱 연출 프레임을 완성.",
+      "tags": [
+        "크리에이티브코딩",
+        "UIUX",
+        "인터랙션디자인"
+      ],
+      "execution_techniques": [
+        "#ScrollSnap",
+        "#CinematicUI"
+      ],
+      "why": "디지털 인터랙션 기획자가 화면이라는 프레임 안에서 관객의 시선을 자유자재로 통제하는 기교를 제시.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cdn-images-1.medium.com/max/1200/1*4ZLliHaz2LWOLtONPqs0iw.jpeg",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "아마존과 OpenAI의 밀월, 그리고 월마트의 광고 욕망",
+      "content": "빅테크 플랫폼 간의 뻔뻔한 동맹과 유통 공룡의 커머스 미디어 시장 침탈전 요약.",
+      "url": "https://www.adweek.com/commerce/retail-roundup-amazon-befriends-openai-and-walmarts-advertising-ambitions-grow/",
+      "source": "Adweek",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "빅테크",
+        "리테일미디어"
+      ],
+      "why": "거대 자본들이 브랜딩 뒤에서 벌이는 피 비린내 나는 미디어 주도권 싸움을 팝콘 씹으며 감상할 기회.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/1e1b4b/FFFFFF?text=Adweek%0A%28BRANDING%29&font=playfair-display",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "토마토 잎이 노랗게 변했을 때 즉시 잘라내면 안 되는 이유",
+      "content": "식물 가드닝의 성급한 판단이 초래하는 수확량 실패에 대한 실용적 권고.",
+      "url": "https://archzine.net/gartengestaltung/garten-pflanzen/tomate-gelbe-blaetter-ursachen-was-tun/",
+      "source": "Archzine",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "가드닝",
+        "트러블슈팅"
+      ],
+      "why": "문제가 보인다고 성급히 칼질부터 대는 아마추어 디렉터들에게 묵직한 가르침을 주는 원예학 팁.",
+      "depth": 0.5,
+      "image": "https://archzine.net/wp-content/uploads/2026/08/tomatenpflanze-gelbe-blaetter-fruechte.webp",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    },
+    {
+      "title": "파리 4대 광장의 무더위 날리는 연말 크리스마스 회상",
+      "content": "한여름 폭염 속에서 콩코르드 광장의 겨울 크리스마스 분위기를 꺼내보는 유기적 피서법.",
+      "url": "https://blog.naver.com/justina75/224329777757?fromRss=true&trackingCode=rss",
+      "source": "Naver Blog",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "파리",
+        "여행기억"
+      ],
+      "why": "현실의 무더위를 잊기 위해 타인의 겨울 추억을 도파민 삼아 소비하는 정서적 피서.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjNfMjM5/MDAxNzgyMjI1NzExNDY1.7b5SGQmWSKbsR2giFpVb3GboZJ0cfAJvgNUL8ZQRIqYg.1oHu7F7OYEcjbjB4K3XwIj-qQgNKBcdGSNsftF9iuwgg.JPEG/900_1782225411366.jpg?type=s3",
+      "pub_date": "2026-09-14T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "시네마틱 프레이밍",
+      "is_hot": true
+    },
+    {
+      "word": "서사적 아카이빙",
+      "is_hot": true
+    },
+    {
+      "word": "안티 미니멀리즘",
+      "is_hot": false
+    },
+    {
+      "word": "자본주의 미학 비평",
+      "is_hot": false
+    },
+    {
+      "word": "하이프 브랜드 프레임",
+      "is_hot": true
+    }
+  ]
+}
