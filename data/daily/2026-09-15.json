@@ -1,0 +1,403 @@
+{
+  "date": "2026-09-15",
+  "focusQ": "Agent's Thought: 뻔한 비주얼 잔치는 끝났다. 움직이는 프레임과 서사 프레임워크가 브랜드 미학의 생존을 결정한다. 감상적인 디자인 텍스처를 벗어던지고 차가운 연출 기법과 비디오 그래픽에 집중하라.",
+  "creator_message": "큐레이터의 메시지: 안이한 아키텍처 아카이빙은 치워버렸다. 소비자의 미각을 자극하는 것은 정지된 공간이 아니라 날카로운 카메라 워크와 움직이는 영상의 긴장감이다. 이번 큐레이션은 오직 시각적 서사와 명확한 마케팅 충격만을 골라냈다.",
+  "session": {
+    "timestamp": "2026-09-14T23:10:36.992176",
+    "considered": 40,
+    "selected": 16
+  },
+  "topPicks": [
+    {
+      "title": "나이키와 발렌시아가를 조작하는 연출가: 요나스 스프랏랜드의 프레임 해체학",
+      "content": "디자이너 요나스 스프랏랜드가 나이키 및 발렌시아가를 위해 제작한 비디오 연출작. 공간, 움직임, 형태의 왜곡을 통해 '근본적으로 틀렸지만 완벽하게 옳은' 미학적 긴장감을 연출한다.",
+      "url": "https://www.itsnicethat.com/articles/jonas-sprattland-film-discover-100926",
+      "source": "It's Nice That",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Jonas Sprattland",
+      "creator_insight": "상업 패션 필름에서 의도적인 비동기적 움직임과 렌즈 distortion을 활용해 안티 프레임 레이아웃을 완성함.",
+      "tags": [
+        "패션필름",
+        "모션디렉팅",
+        "발렌시아가"
+      ],
+      "execution_techniques": [
+        "#GlitchMotion",
+        "#AsymmetricFraming"
+      ],
+      "why": "하이엔드 럭셔리 브랜딩에서 매끄러운 CG보다 불완전한 움직임이 주는 파괴력을 직관적으로 입증한다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/emf3l5h076fj1e_gRgmx2H8MNgk=/281461/width-1440%7Cformat-jpeg/Screenshot_2026-08-25_at_12.22.10.png",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "나우니스 <The Young Ones>: 신체적 기억이 빚어낸 무용 서사 필름",
+      "content": "하르키우의 신체적 훈련과 운동 감각을 영상으로 담아낸 단편 영화. 움직임의 잔상과 압도적인 인물 앵글을 통해 신체 언어의 파급력을 극대화한다.",
+      "url": "https://www.nowness.com/series/the-young-ones/muscle-memory-kharkiv-mikayla-jean-miller",
+      "source": "Nowness",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Mikayla Jean Miller",
+      "creator_insight": "피사체의 피지컬 무브먼트를 시네마틱 미디엄으로 포착하여 감정적 몰입도를 미학적으로 제어함.",
+      "tags": [
+        "단편영화",
+        "무용필름",
+        "나우니스"
+      ],
+      "execution_techniques": [
+        "#KineticCinematography",
+        "#HighContrastLighting"
+      ],
+      "why": "단순한 댄스 비디오를 넘어 미장센의 완벽한 톤앤매너와 조명 설계로 최고 수준의 시각 레퍼런스를 제시한다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://img.nowness.com/nowness-frontend/0qvEEDJNROiFb4RFTfMM_Sequence%2001.00_01_58_17.Still004.jpg",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "단편 영화 <Night Nurse>: 타이틀 시퀀스가 결정짓는 톤앤매너의 승리",
+      "content": "영화감독 조지아 번스타인의 신작 단편 연출 분석. 폰트와 오프닝 타이틀 프레임만으로 관객의 심리적 긴장감을 제어하는 시네마틱 테크닉을 다룬다.",
+      "url": "https://filmmakermagazine.com/133972-take-care-georgia-bernstein-on-night-nurse/",
+      "source": "Filmmaker Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Georgia Bernstein",
+      "creator_insight": "오프닝 타이틀 시퀀스에서 글자 속도와 사운드 레이어링을 조화시켜 서사의 시작점을 직관적으로 강타함.",
+      "tags": [
+        "타이포그래피",
+        "연출기법",
+        "독립영화"
+      ],
+      "execution_techniques": [
+        "#TitleSequenceDesign",
+        "#AtmosphericSound"
+      ],
+      "why": "영상 시작 5초 안에 분위기를 확립해야 하는 현대 영상 크리에이터들에게 가장 정교한 타이틀 설계 샘플.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/night-nurse-940x400.webp",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "악마와 친해지는 법: 블랙 코미디 서사 연출의 미학",
+      "content": "친구의 실종을 쫓는 코미디 호러 단편. 신선한 대사 호흡과 과감한 카메라 구도로 장르적 인습을 기분 좋게 깬다.",
+      "url": "https://www.shortoftheweek.com/2026/09/10/best-friends-devil/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Lola & Short Film Collective",
+      "creator_insight": "상반된 감정선(코미디와 호러)을 컷 편집과 색보정의 대비로 깔끔하게 정리해내는 편집적 대담성.",
+      "tags": [
+        "단편영화",
+        "블랙코미디",
+        "시나리오"
+      ],
+      "execution_techniques": [
+        "#GenreBending",
+        "#RapidCutEditing"
+      ],
+      "why": "짧은 시간 안에 지루함 없이 서사를 이끄는 속도감과 위트 있는 컷 전환의 교본.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/09/Best-Friends-with-the-Devil-02.jpeg",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "3D 물성 표현의 극한: 고풍스러운 텍스처와 물결 모션 렌더링",
+      "content": "80 Level에서 소개한 레트로 3D 물고기 분수 오브젝트. 고전적 감성과 실시간 3D 셰이딩 기법이 어우러진 비주얼 아트워크.",
+      "url": "https://80.lv/articles/this-stylized-3d-fish-fountain-looks-like-it-belongs-in-a-lively-old-town/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "3D Environment Team",
+      "creator_insight": "물 스플래시 애니메이션과 스틸 질감의 마찰면을 수식화하여 손으로 그린 듯한 감각의 3D를 구현.",
+      "tags": [
+        "3D아크",
+        "VFX",
+        "모션아트"
+      ],
+      "execution_techniques": [
+        "#StylizedRendering",
+        "#FluidSimulation"
+      ],
+      "why": "실사 영화와 3D 그래픽을 혼합하는 광고 비주얼 작업 시 인스피레이션을 제공하는 미학 템플릿.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cdn.80.lv/api/upload/post/41604/images/6aa879f688ca/cover_800x800.jpg",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "샤넬 필름과 에르메스 캠페인을 집도한 손그림: 사라 마르티농의 디테일",
+      "content": "럭셔리 하우스들이 AI 대신 파리의 아티스트 사라 마르티농을 선택한 이유. 오프라인 일러스트레이션이 영상 프레임과 제품 패키지에 이식되는 과정.",
+      "url": "https://www.creativeboom.com/inspiration/how-sarah-martinons-drawings-escaped-the-page-to-dress-bodies-rooms-and-a-chanel-film/",
+      "source": "Creative Boom",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Sarah Martinon",
+      "creator_insight": "아날로그 아날로그 아웃라인을 패션 필름의 아티스틱 레이어로 합성하여 디지털 피로감을 정면 돌파.",
+      "tags": [
+        "샤넬",
+        "패션일러스트",
+        "아날로그미학"
+      ],
+      "execution_techniques": [
+        "#HandDrawnOverlays",
+        "#TactileVisuals"
+      ],
+      "why": "디지털 과잉 시대에 명품 브랜드들이 선택하는 진짜 희소 가치가 어디에 있는지 명확히 짚어준다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://media.creativeboom.com/a976b32a-90c4-4967-8e1f-0109647e3407/conversions/83ec66fb61cf58253c33bd3ff600d99a5589cca2-medium.webp",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "데이비드 두코브니가 말하는 연출가의 대비태세: 다층적 창작자의 프레임",
+      "content": "배우, 연출가, 소설가로 진화한 데이비드 두코브니의 인터뷰. 어떤 매체에서든 즉흥성과 정교함을 동시에 유지하는 디렉팅 원칙.",
+      "url": "https://thecreativeindependent.com/people/actor-director-author-and-musician-david-duchovny-on-being-prepared-for-anything/",
+      "source": "Creative Independent",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "David Duchovny",
+      "creator_insight": "연기 경험을 바탕으로 연출 현장에서 디렉터와 배우 간 대화의 톤을 완벽하게 재설계함.",
+      "tags": [
+        "크리에이티브디렉션",
+        "연출관",
+        "인터뷰"
+      ],
+      "execution_techniques": [
+        "#ActorCenteredDirecting",
+        "#StorytellingStrategy"
+      ],
+      "why": "프로젝트의 스케일이 달라져도 메인 디렉터로서 중심을 잃지 않는 명확한 크리에이티브 관점을 훈련시킨다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Creative%20Independent%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "한옥스테이 미음니은: 여백의 레이어로 완성한 한국적 로컬리티",
+      "content": "전통 한옥의 목조 프레임과 현대적 미니멀리즘이 집약된 공간 프로젝트. 비움의 미학을 바탕으로 공간 내 시선 동선을 치밀하게 계산했다.",
+      "url": "https://www.designtwoply.com/works/residence/%ed%95%9c%ec%98%a5%ec%8a%a4%ed%85%8c%ec%9d%b4-%eb%af%b8%ec%9d%8c%eb%8b%88%ec%9d%80/",
+      "source": "Design Twoply",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "디자인투플라이",
+      "creator_insight": "자연광과 창호의 레이아웃을 프레임화하여 한국적 정취를 세련된 오브제 감성으로 정립함.",
+      "tags": [
+        "한옥스테이",
+        "공간브랜딩",
+        "한국적미학"
+      ],
+      "execution_techniques": [
+        "#SpatialFraming",
+        "#NaturalTimberGrid"
+      ],
+      "why": "뻔한 한옥 리노베이션을 넘어 브랜드 공간으로서 시각적 기호화에 성공한 유용한 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2026/07/01-2-rotated.jpg",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "브루노 다이안의 패션 프레임: 빛과 섀도의 고전적 에로티시즘",
+      "content": "프랑스 사진작가 브루노 다이안의 포토그래피 아카이브. 강렬한 원색과 짙은 그림자의 대비를 통해 명품 브랜딩의 톤을 재정의한다.",
+      "url": "https://honestart.tistory.com/91",
+      "source": "Honest Art",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Bruno Dayan",
+      "creator_insight": "피사체의 피부 질감과 빛의 하이라이트를 극한으로 조율하여 압도적인 시각적 농도를 획득.",
+      "tags": [
+        "패션포토",
+        "비주얼디렉팅",
+        "조명테크닉"
+      ],
+      "execution_techniques": [
+        "#HighSaturationLighting",
+        "#CinematicStills"
+      ],
+      "why": "국내 패션 및 뷰티 브랜드 캠페인 기획 시 라이팅 톤앤매너 벤치마킹으로 최상급의 가치를 가진다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://t1.daumcdn.net/cfile/tistory/27542D3A53FEA4BB12",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "버튼의 종말: UI 인터페이스가 인터랙션 서사로 바뀌는 이유",
+      "content": "클릭과 클릭 사이의 물리적 클릭 인터페이스가 사라지는 시대, 인간의 의도를 감지하는 감각적 UX 설계의 패러다임 전환.",
+      "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+      "source": "Smashing Magazine",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Smashing UX Research",
+      "creator_insight": "시각적 UI 요소를 최소화하고 터치/모션 중심의 직관적 반응형 레이아웃으로 변환.",
+      "tags": [
+        "UIUX",
+        "인터랙션디자인",
+        "미래UX"
+      ],
+      "execution_techniques": [
+        "#ZeroUI",
+        "#IntentBasedDesign"
+      ],
+      "why": "화면을 넘어서 웹과 앱 비주얼을 기획하는 아티스트들에게 버튼 없는 경험의 미학을 전파한다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "스타벅스의 고객 경험 브랜딩: 커피가 아닌 상징을 판 전략",
+      "content": "스타벅스가 단순 유통 브랜드를 넘어 생활 전반의 미학적 기호로 자리잡게 만든 CX(고객 경험) 구축 모델 분석.",
+      "url": "https://medium.com/@nishcx/how-starbucks-became-a-household-name-and-why-cx-was-a-big-part-of-it-09397d7626d4?source=rss------branding-5",
+      "source": "Medium Branding",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Nishant Sharma",
+      "creator_insight": "공간, 오디오, 컵 디자인 등 모든 접점을 고객의 라이프스타일 페르소나와 정교하게 결합.",
+      "tags": [
+        "브랜드전략",
+        "고객경험",
+        "CX디자인"
+      ],
+      "execution_techniques": [
+        "#ConsistentTouchpoints",
+        "#BrandIdentitySystem"
+      ],
+      "why": "브랜드 기획 시 겉모습만이 아닌 360도 전방위적 체경험을 어떻게 디자인해야 하는지 일깨워준다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://cdn-images-1.medium.com/max/1200/1*LD9bxUsiMTFa2M_tsIhZ-Q.png",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "물리적 촉감을 지닌 웹 UX: 로티(Lottie) 애니메이션을 활용한 모션 스케일링",
+      "content": "디지털 화면 위에 손끝의 촉감을 구현하기 위해 Lottie 웹 모션 아키텍처를 설계한 실무 비하인드.",
+      "url": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+      "source": "Smashing Magazine",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Alexey Kopytin",
+      "creator_insight": "웹 프론트엔드와 모션 그래픽 간 렌더링 프레임을 밀리초 단위로 맞춰 생동감 있는 질감 부여.",
+      "tags": [
+        "Lottie",
+        "웹모션",
+        "촉각UX"
+      ],
+      "execution_techniques": [
+        "#MicroInteractions",
+        "#VectorAnimation"
+      ],
+      "why": "인터랙티브 웹사이트 제작 시 모션 디자이너와 개발자가 당장 활용할 수 있는 실질적 연출 솔루션.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "디지털 피로감에 맞선 구글 UX 연구원의 선택: 아날로그 신문 발행",
+      "content": "화면을 연구하던 UX 전문가가 왜 피지컬 종이 신문 판형으로 귀환했는가. 피드 과부하 시대를 관통하는 아날로그 매체의 미학적 역습.",
+      "url": "https://designobserver.com/a-google-ux-researcher-responded-to-digital-fatigue-by-founding-a-newspaper/",
+      "source": "Design Observer",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Ex-Google UX Researcher",
+      "creator_insight": "디지털 화면의 이탈률에 대한 반작용으로 정제된 편집물의 스틸 텍스트가 주는 몰입감을 브랜드로 연결.",
+      "tags": [
+        "아날로그리뉴얼",
+        "출판디자인",
+        "디지털피로"
+      ],
+      "execution_techniques": [
+        "#EditorialLayout",
+        "#PrintTactility"
+      ],
+      "why": "오프라인 브랜딩과 팝업 스토어 굿즈 기획 시 어떤 시각 매체를 택해야 진정성을 전달할 수 있는지 방향성을 제안한다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://designobserver.com/wp-content/uploads/2026/06/f74c0862-d89c-73c3-33f8-d6c73568d083-1.png",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "케이트 맥키넌, Zoom 캠페인서 악덕 CEO로 변신하다",
+      "content": "SNL 스타 케이트 맥키넌이 악독한 CEO 역할을 맡아 리모트 워크의 현실을 자학적 팝컬처 유머로 승화시킨 Zoom의 대형 브랜드 리셋 광고.",
+      "url": "https://www.adweek.com/brand-marketing/kate-mckinnon-is-an-evil-ceo-in-sequel-to-zooms-bowen-yang-led-brand-reset/",
+      "source": "Adweek",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "Zoom광고",
+        "케이트맥키넌",
+        "바이럴광고"
+      ],
+      "why": "자칫 지루해질 수 있는 B2B 테크 브랜드가 셀럽과 코미디 연출을 통해 바이럴을 극대화하는 수작.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/1e1b4b/FFFFFF?text=Adweek%0A%28BRANDING%29&font=playfair-display",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "케키 파머의 80년대 에어로빅: 버라이즌의 아이폰 18 프로 광고 바이럴",
+      "content": "80년대 레트로 에어로빅 컨셉과 팝컬처 파워를 극대화해 네트워킹 성능 대신 코미디적 흥미에 올인한 버라이즌 캠페인.",
+      "url": "https://www.campaignlive.com/article/keke-palmer-brings-80s-aerobics-verizons-new-iphone-18-pro-push/1969977",
+      "source": "Campaign Live",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "아이폰18프로",
+        "레트로에어로빅",
+        "버라이즌"
+      ],
+      "why": "기술 스펙 나열에서 벗어나 레트로 비주얼 파워로 시선을 강탈하는 상업 광고의 직관성.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    },
+    {
+      "title": "75만 송이 달리아 꽃으로 재현한 호쿠사이의 '가나가와 오키 나미우라'",
+      "content": "아티스트 히로 스기야마가 75만 송이의 생화를 사용해 벨기에 브뤼셀 광장에 폭 40m 규모의 호쿠사이 파도 명화를 재현한 스펙터클 연출.",
+      "url": "https://spoon-tamago.com/hiro-sugiyama-hokusai-great-wave-brussels/?utm_source=rss&utm_medium=rss&utm_campaign=hiro-sugiyama-hokusai-great-wave-brussels",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "히로스기야마",
+        "생화설치미술",
+        "바이럴아트"
+      ],
+      "why": "압도적인 재료의 스케일감 하나만으로 인스타그램 및 숏폼 알고리즘을 지배하는 시각적 충격.",
+      "depth": 0.5,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/08/hiro-sugiyama-great-wave-in-brussells-1-200x200.jpeg",
+      "pub_date": "2026-09-15T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "비동기적 모션 연출",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 미학의 역습",
+      "is_hot": true
+    },
+    {
+      "word": "시네마틱 타이틀 시퀀스",
+      "is_hot": false
+    },
+    {
+      "word": "촉각 UX 인터랙션",
+      "is_hot": true
+    },
+    {
+      "word": "팝컬처 자학적 코미디",
+      "is_hot": false
+    },
+    {
+      "word": "한국적 여백의 기호화",
+      "is_hot": true
+    }
+  ]
+}
