@@ -1,0 +1,396 @@
+{
+  "date": "2026-09-18",
+  "focusQ": "디지털 화면에 절여진 대중을 흔드는 건 결국 노골적인 시각 연출과 날카로운 프레임 전개다. 무의미한 기술 자랑을 버리고 시네마틱 서사와 날카로운 미학을 집요하게 파고들어야 할 시점이다. 거품 빠진 기획만이 매체 과잉 시대에 생존한다.",
+  "creator_message": "어설픈 트렌드 용어로 포장된 기획서만큼 지루한 것은 없다. 겉치레뿐인 건축이나 모호한 개념 대신, 렌즈 끝에서 완성되는 명확한 앵글과 브랜드의 실질적인 체질 개선 사례만 추렸다. 날카롭게 관찰하고 즉각 실행에 옮겨라.",
+  "session": {
+    "timestamp": "2026-09-17T22:54:19.253017",
+    "considered": 40,
+    "selected": 16
+  },
+  "topPicks": [
+    {
+      "title": "식당 퇴근 후 두 인물이 벌이는 극적 단편 연극 'Dish Pit'",
+      "content": "안나 홉킨스 감독이 연출한 'Dish Pit'은 영업이 끝난 레스토랑의 접시 세척실을 배경으로 두 인물의 밀도 높은 대화를 다룬 2인극 구조의 단편 영화다. 제한된 공간 안에서 조명과 인물의 동선만으로 팽팽한 긴장감을 유지한다.",
+      "url": "https://directorsnotes.com/2026/08/27/anna-hopkins-dish-pit/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Anna Hopkins",
+      "creator_insight": "제한된 밀폐 공간을 연극적 조명 연출과 미니멀한 숏 설계로 극대화하여 미장센의 밀도를 높인 미학적 선택이 돋보인다.",
+      "tags": [
+        "단편영화",
+        "미장센",
+        "인물 연출"
+      ],
+      "execution_techniques": [
+        "#SingleLocationCinematography",
+        "#LightingDesign"
+      ],
+      "why": "한정된 공간에서 시각적 지루함 없이 서사를 이끄는 프레임 구성법과 조명 설계는 영상 크리에이터가 반드시 참고해야 할 실전 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/08/dish_pit_03.jpeg",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "브릿지 존스의 일기 25주년: 르네 젤위거와 샤론 맥과이어의 디테일 미학",
+      "content": "트라이베카 페스티벌에서 진행된 '브릿지 존스의 일기' 25주년 대담으로, 감독 샤론 맥과이어와 배우 르네 젤위거가 참여했다. 극중 캐릭터의 입체감을 살린 날카로운 디테일과 당대 대중문화의 비하인드 스토리를 담아냈다.",
+      "url": "https://motionographer.com/2026/09/17/bridget-jones-diary-25-zellweger-maguire/",
+      "source": "Motionographer",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Sharon Maguire & Renée Zellweger",
+      "creator_insight": "가장 지극히 구체적이고 사소한 디테일이 보편적 공감대를 형성한다는 클래식 캐릭터 구축 법칙을 증명한다.",
+      "tags": [
+        "캐릭터디자인",
+        "영화출연",
+        "클래식서사"
+      ],
+      "execution_techniques": [
+        "#CharacterBuilding",
+        "#NarrativeDetail"
+      ],
+      "why": "시대가 지나도 소비되는 서사 콘텐츠는 결국 캐릭터의 거칠고 구체적인 디테일에서 나온다는 점을 각인시킨다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/09/TRIMRIDGETJONESSDIARY2001_OfficialTrailer_4KRestoration_1080p-ezgif.com-optimize.gif",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "쓰레기로 뒤덮인 중정을 다룬 애니메이션 단편 'IHR (THEM)'",
+      "content": "아멜리 코쉐와 루이 메를르 감독의 단편 애니메이션으로, 아파트 중정에 무심코 쓰레기를 버리는 주민들의 행동이 불러오는 비극을 시각화했다. 독특한 질감의 일러스트와 과감한 카메라 워크로 기말한 기후와 사회적 메시지를 전달한다.",
+      "url": "https://tv.booooooom.com/2021/12/06/ihr-them-by-amelie-cochet-louis-mohrle/",
+      "source": "Booooooom TV",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Amélie Cochet & Louis Möhrle",
+      "creator_insight": "우화적인 그래픽 스타일과 기하학적인 카메라 앵글 전환으로 메시지의 중량감을 시각적 유희로 전환했다.",
+      "tags": [
+        "애니메이션",
+        "모션디렉팅",
+        "시각스토리텔링"
+      ],
+      "execution_techniques": [
+        "#StylizedAnimation",
+        "#DynamicCameraMovement"
+      ],
+      "why": "무거운 사회적 메시지를 세련된 2D/3D 모션 스타일링으로 풀어내는 시각적 완성도가 탁월하다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://placehold.co/800x600/0f172a/FFFFFF?text=Booooooom%20TV%0A%28FILM%29&font=playfair-display",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "호주 대표 모션 디자인 컨퍼런스 NodeFest 2026 시드니 상륙",
+      "content": "호주 최고 권위의 모션 디자인 및 애니메이션 행사 NodeFest가 11월 시드니에서 개최된다. 업계 최고의 크리에이터들이 모여 모션 그래픽, VFX, 프레임 디렉팅의 최신 기법과 날것의 제작 비하인드를 공유한다.",
+      "url": "https://www.stashmedia.tv/nodefest-2026-lands-in-sydney-november-13/",
+      "source": "Stash Media",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "NodeFest Creative Committee",
+      "creator_insight": "상업 모션 디자인과 예술적 그래픽의 경계를 허무는 글로벌 디렉터들의 제작 공정을 다각도로 제시한다.",
+      "tags": [
+        "모션그래픽",
+        "컨퍼런스",
+        "VFX"
+      ],
+      "execution_techniques": [
+        "#MotionDesignSystem",
+        "#3DRendering"
+      ],
+      "why": "움직이는 이미지(Moving Image) 비주얼 트렌드의 가장 앞선 줄기를 파악할 수 있는 최적의 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://placehold.co/800x600/1E1E1E/FFFFFF?text=Unknown%20Source%0A%28MOTION_FILM%29&font=playfair-display",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "Life360의 파격적인 드라마틱 감성 광고 'The Tap'",
+      "content": "위치 공유 앱 Life360이 기존의 블랙 코미디 톤앤매너에서 벗어나 차량 충돌 감지 기능을 다룬 감정적이고 드라마틱한 영상 광고를 공개했다. 극적인 긴장감 연출과 대비되는 정적 편집이 몰입감을 극대화한다.",
+      "url": "https://www.campaignlive.com/article/the-tap-dramatic-departure-life360s-usual-dark-comedy/1970213",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Life360 Creative Team",
+      "creator_insight": "브랜드 톤앤매너를 반전시켜 기능성 메시지를 완벽하게 드라마틱한 감성 서사로 전환한 과감함.",
+      "tags": [
+        "브랜드캠페인",
+        "영상 연출",
+        "스토리텔링"
+      ],
+      "execution_techniques": [
+        "#ToneShift",
+        "#CinematicAd"
+      ],
+      "why": "유머 중심 광고를 펼치던 브랜드가 차분하고 강렬한 드라마틱 숏으로 브랜드 신뢰도를 올리는 뛰어난 기획 전략이다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "Zoom과 콜린 조스트가 선보이는 B2B 코미디 마케팅",
+      "content": "화상회의 플랫폼 Zoom이 SNL의 콜린 조스트와 케이트 맥키논을 기용해 기업용 B2B 솔루션 시장을 겨냥한 위트 있는 코미디 캠페인을 전개한다. 자칫 지루해질 수 있는 엔터프라이즈 솔루션을 위트 있는 영상 기획으로 풀었다.",
+      "url": "https://www.adweek.com/media/zoom-colin-jost-b2b-comedy/",
+      "source": "Adweek",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Colin Jost & Kate McKinnon",
+      "creator_insight": "경직된 B2B 메시지를 코미디 숏의 호흡으로 완화하여 솔루션의 진입 장벽을 낮추는 연출 기법.",
+      "tags": [
+        "B2B마케팅",
+        "코미디영상",
+        "브랜딩"
+      ],
+      "execution_techniques": [
+        "#ComedicDialogue",
+        "#B2BBranding"
+      ],
+      "why": "B2B 마케팅도 유머와 날카로운 스크립트 연출을 결합하면 대중적 브랜딩 파워를 얻을 수 있음을 보여준다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://placehold.co/800x600/1e1b4b/FFFFFF?text=Adweek%0A%28BRANDING%29&font=playfair-display",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "디지털 피로감을 타파하는 아날로그 매체: 뉴욕 신문 가판대의 게임 전용 신문",
+      "content": "구글 UX 리서치 매니저 출신 아이라 블라섬이 아날로그 아티팩트에 대한 갈망을 포착해, 뉴욕 시티 가판대에서 판매되는 인쇄 전용 퍼즐 신문을 제작했다. 디지털 스크린을 벗어난 오프라인 경험 설계 사례다.",
+      "url": "https://designobserver.com/ira-blossom-created-a-games-only-print-only-newspaper-and-its-sold-at-a-newsstand-in-new-york-city/",
+      "source": "Design Observer",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Ira Blossom",
+      "creator_insight": "UX 분석가가 디지털 화면을 탈피해 물질적 매체(Print)로 역발상 접근하여 새로운 오프라인 인터랙션을 창출함.",
+      "tags": [
+        "아날로그기획",
+        "오프라인경험",
+        "뉴욕시티"
+      ],
+      "execution_techniques": [
+        "#AnalogTactility",
+        "#PrintExperience"
+      ],
+      "why": "디지털 과몰입 시대에 아날로그 매체를 한정판 물리적 경험으로 재정의하는 상리적 기획 기법이다.",
+      "social_proof": "2개 매체 동시 포착: new york city",
+      "depth": 0.94,
+      "image": "https://designobserver.com/wp-content/uploads/2026/09/DG_080926_NewspaperClub_SundayClub_206-683x1024.jpg",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "뉴욕 금융 트레이딩 룸의 감성을 담은 Stantec의 공간 디자인",
+      "content": "Stantec이 설계한 뉴욕 시티의 신규 오피스는 금융 트레이딩 룸의 역동적인 에너지를 세련된 건축 조닝과 차분한 재료감으로 균형 있게 재해석했다. 빛의 레이어와 정교한 조닝 배치가 특징이다.",
+      "url": "https://retaildesignblog.net/2026/09/10/office-by-stantec/",
+      "source": "Retail Design Blog",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Stantec Design Studio",
+      "creator_insight": "업무 공간의 치밀한 기능성과 시각적 조형미를 조명 연출 및 모듈형 레이아웃으로 결합한 오피스 스파이셜 기획.",
+      "tags": [
+        "공간디자인",
+        "뉴욕시티",
+        "오피스인테리어"
+      ],
+      "execution_techniques": [
+        "#SpatialZoning",
+        "#ArchitecturalLighting"
+      ],
+      "why": "긴장감이 높은 공간 요구조건을 미학적 텍스처와 빛 설계로 다듬어낸 고난도 공간 브랜딩 기준점이다.",
+      "social_proof": "2개 매체 동시 포착: new york city",
+      "depth": 0.87,
+      "image": "https://placehold.co/800x600/1c1917/FFFFFF?text=Retail%20Design%20Blog%0A%28SPATIAL%29&font=playfair-display",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "1997년의 날카로운 원작 복각: 나이키 에어 베이킨 OG 바시티 레드",
+      "content": "나이키가 90년대 하이테크 스트리트 감성을 대표하는 에어 베이킨 OG 바시티 레드 컬러웨이를 원작 특유의 강렬한 실루엣으로 복각한다. 불꽃을 형상화한 레이어드 패턴과 당대의 원색 대비가 독보적이다.",
+      "url": "https://www.highsnobiety.com/p/nike-air-bakin-varsity-red/",
+      "source": "Highsnobiety",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Nike Design Team",
+      "creator_insight": "과거 아카이브의 아이코닉 요소를 훼손 없이 완벽하게 복각하여 한국 스트리트 패션 시장의 레트로 수요를 타격.",
+      "tags": [
+        "스트리트패션",
+        "복각스니커즈",
+        "나이키"
+      ],
+      "execution_techniques": [
+        "#RetroArchive",
+        "#ColorBlocking"
+      ],
+      "why": "한국 유스 컬처 시장에서 아카이브 제품을 어떻게 유의미한 브랜드 자산으로 재소환하는지 보여주는 스니커 브랜딩 사례다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "한국 숏폼 자동화 및 AI 에이전트 구축 실전 파이프라인 분석",
+      "content": "n8n 및 자동화 툴을 활용해 유튜브 쇼츠와 블로그 콘텐츠 생성 인프라를 구축하는 최신 실무 가이드. 복잡한 워크플로우를 자동화하여 숏폼 비주얼을 신속하게 양산하는 실전 기술을 다룬다.",
+      "url": "https://blog.naver.com/nkj2001/223982790267?fromRss=true&trackingCode=rss",
+      "source": "Naver Blog",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "국내 AI 자동화 크리에이터",
+      "creator_insight": "콘텐츠 제작자가 직면하는 작업 시간을 자동화 에이전트로 단축시켜 숏폼 콘텐츠의 제작 생산성을 극한으로 올림.",
+      "tags": [
+        "유튜브쇼츠",
+        "자동화시스템",
+        "한국마케팅"
+      ],
+      "execution_techniques": [
+        "#WorkflowAutomation",
+        "#ShortsProduction"
+      ],
+      "why": "국내 숏폼 시장의 격렬한 속도전에 대응하기 위해 크리에이터가 파이프라인을 어떻게 구축해야 하는지 명확히 제시한다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://blogthumb.pstatic.net/MjAyNTA4MjVfMjM0/MDAxNzU2MTAwNjIwMTM5.WBch_gHK3t1Epsd8h7fSzlO7n39yzoYPWsEUwtPw6qcg.eCUdIDV_QmhqiPi_8KVLdQNPc8l0GMmg0skneRQJQnAg.PNG/image.png?type=s3",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "'맥시멀리즘' 트렌드를 입증하는 팬톤의 224가지 신규 컬러",
+      "content": "팬톤 시스템이 대담하고 과감한 색조를 반영한 224가지의 신규 컬러 팔레트를 출시했다. 그동안 기조를 이루던 미니멀리즘에서 벗어나 보다 과감하고 극적인 색채 대비를 선호하는 시장 트렌드를 증명한다.",
+      "url": "https://www.fastcompany.com/91608327/pantones-new-colors-prove-were-living-in-a-more-is-more-world?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Pantone Color Institute",
+      "creator_insight": "대중의 비주얼 피로감을 극복하기 위해 맥시멀리즘 기반의 강렬한 컬러 팔레트로 디자인 표준을 재편함.",
+      "tags": [
+        "팬톤",
+        "컬러트렌드",
+        "맥시멀리즘"
+      ],
+      "execution_techniques": [
+        "#ColorTheory",
+        "#MaximalistAesthetic"
+      ],
+      "why": "향후 브랜드 비주얼 패키지 및 아트 디렉션에서 미니멀리즘을 넘어선 과감한 컬러 매칭이 부상할 것임을 경고한다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91608327-new-pantone-colors.jpg",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "글로벌 음료 거인들의 에이전시 재편: 펩시코·코카콜라 대형 수주전의 내막",
+      "content": "펩시코와 코카콜라, 퍼블리시스 그룹 사이의 글로벌 미디어 계약 재편 과정에서 WPP와 주요 에이전시들이 겪는 구조 변화를 다룬다. 대형 브랜드 마케팅 지형의 긴박한 변화와 매체 집행 방식의 이면을 진단한다.",
+      "url": "https://digiday.com/media-buying/why-wpp-isnt-the-biggest-casualty-in-the-pepsico-coca-cola-publicis-shuffle/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Digiday Media Analysts",
+      "creator_insight": "에이전시 생태계의 권력 이동과 대형 브랜드의 미디어 집행 내재화 및 파트너십 재편 전략을 정밀 분석.",
+      "tags": [
+        "광고에이전시",
+        "미디어바잉",
+        "브랜드전략"
+      ],
+      "execution_techniques": [
+        "#AgencyAccountReorganization",
+        "#MediaStrategy"
+      ],
+      "why": "글로벌 거대 브랜드들이 광고 대행사를 다루는 날카로운 전략적 판단 기준을 엿볼 수 있다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Digiday%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "AI 시스템 내부에 숨겨진 문화적 레이어와 UX의 과제",
+      "content": "생성형 AI 인터페이스 뒤에 가려진 문화적 맥락과 사용자 경험(UX) 문제를 깊이 파헤친다. AI가 전달하는 응답이 문화적 편향을 넘어 창의적 인터랙션으로 도약하기 위해 필요한 제품 기획 관점을 제공한다.",
+      "url": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "UX Collective Research Team",
+      "creator_insight": "AI의 기술적 기능성에만 몰두하는 대신 문화적 뉘앙스와 디자인 맥락을 융합해야 하는 UX 디자이너의 고도의 시각.",
+      "tags": [
+        "AI프로덕트",
+        "UX디자인",
+        "문화적맥락"
+      ],
+      "execution_techniques": [
+        "#CulturalUX",
+        "#AIInterfaceDesign"
+      ],
+      "why": "AI 프로덕트를 기획할 때 기술적 스펙보다 문화적 이해와 공감이 서비스 몰입도에 얼마나 큰 영향을 미치는지 밝혀준다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cdn-images-1.medium.com/max/1672/1*YsoO1glOlAn8SFiqMCsHYg.png",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "Three.js 첫 컨퍼런스에서 모두를 사로잡은 '물리적 버튼' 무대 연출",
+      "content": "3D 웹 라이브러리 Three.js 컨퍼런스 무대 위에서 가장 뜨거운 반응을 얻은 것은 스크린 속 그래픽이 아닌 실제 거대한 물리 버튼이었다.",
+      "url": "https://medium.muz.li/three-js-threw-its-first-conference-the-best-thing-on-stage-was-a-button-muzli-blog-8553d4cdd83a?source=rss----5969bf7021a3---4",
+      "source": "Muzli (Medium)",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "3D웹",
+        "위트연출"
+      ],
+      "why": "최첨단 3D 웹 컨퍼런스에서 역설적으로 오프라인 스위치 하나로 대중의 호응을 이끌어낸 재치 있는 연출 기법.",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/1024/0*Ed6qdbTiyiDM5Pwg.jpg",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "웹 브라우저로 구현한 사진-펄러비즈 도안 생성기",
+      "content": "일반 사진을 업로드하면 브라우저 내에서 즉석으로 펄러비즈 도안으로 변환해 주는 사이드 프로젝트 개발기.",
+      "url": "https://medium.com/@zhuwei9362/how-i-built-a-photo-to-perler-bead-pattern-maker-in-the-browser-5ae214cf2eac?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "크리에이티브코딩",
+        "픽셀아트"
+      ],
+      "why": "단순한 아이디어를 가벼운 웹 인터랙티브 툴로 완성해 바이럴 재미를 유발하는 좋은 예시다.",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/1254/1*JgZVlYbHVRH6TvDRA9RFRw.png",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    },
+    {
+      "title": "LA 선셋 블러버드에 착륙한 밀라노풍 아페리티보 바 'Bar di Bello'",
+      "content": "밀라노의 클래식한 분위기와 연극적 조명을 L.A. 한복판으로 옮겨온 연극적인 트렌디 바 상권 소개.",
+      "url": "https://thecoolhunter.net/bar-di-bello-la-dolce-vita-comes-to-sunset-boulevard-l-a/",
+      "source": "The Cool Hunter",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "핫플레이스",
+        "공간콘셉트"
+      ],
+      "why": "특정 도시의 클래식 감성을 다분히 의도적으로 연출해 인스타그램 무드로 소비시키는 상업 공간 팝콘 픽.",
+      "depth": 0.5,
+      "image": "http://thecoolhunter.net/wp-content/uploads/2026/04/BARDIBELLO-1024x767.webp",
+      "pub_date": "2026-09-18T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "시네마틱 미장센 기획",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 재질감 회복",
+      "is_hot": true
+    },
+    {
+      "word": "B2B 코미디 브랜딩",
+      "is_hot": false
+    },
+    {
+      "word": "맥시멀리즘 컬러링",
+      "is_hot": true
+    },
+    {
+      "word": "숏폼 파이프라인 자동화",
+      "is_hot": false
+    }
+  ]
+}
