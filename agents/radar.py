@@ -10,12 +10,31 @@ if api_key:
 
 SOURCES_FILE = "data/sources.json"
 
-CATEGORIES = ["DESIGN", "TECH_ART", "UIUX", "BRANDING", "ART", "ARCHITECTURE"]
+CATEGORIES = ["DESIGN", "TECH_ART", "UIUX", "BRANDING", "ART", "ARCHITECTURE", "TREND_RESEARCH", "MARKETING", "KOREAN_TREND"]
 
 def discover_new_sources():
     print("Initiating Radar Agent: Brainstorming new sources...")
     target_category = random.choice(CATEGORIES)
     
+    category_hint = ""
+    if target_category == "KOREAN_TREND":
+        category_hint = """
+    This category is specifically about the KOREAN market. You MUST suggest real Korean-language
+    consumer trend, culture, or marketing-insight sources (e.g. Korean research firms, Korean
+    marketing/agency blogs, Korean Naver/Tistory blogs about trends), NOT English-language sources.
+    """
+    elif target_category == "TREND_RESEARCH":
+        category_hint = """
+    This category is about genuine trend-spotting / consumer-insight / zeitgeist-tracking media
+    (the kind of outlets that forecast what's next in culture, retail, and consumer behavior),
+    NOT generic design portfolio blogs.
+    """
+    elif target_category == "MARKETING":
+        category_hint = """
+    This category is about marketing/advertising trade press covering brand campaigns, media
+    strategy, and consumer engagement news, not general design inspiration blogs.
+    """
+
     prompt = f"""
     You are an AI Radar Agent specialized in discovering high-quality creative data sources.
     Instead of guessing custom domain RSS feeds that often 404, you MUST construct valid RSS feeds from proven platforms:
@@ -23,7 +42,7 @@ def discover_new_sources():
     - Substack: https://[publication].substack.com/feed
     - Vimeo Channel: https://vimeo.com/channels/[channelname]/videos/rss
     - Reddit: https://www.reddit.com/r/[subreddit]/.rss
-    
+    {category_hint}
     Suggest 5 highly specific, niche, and professional feeds for the category: {target_category}.
     Return ONLY a JSON array of objects with keys: "name", "url", and "category".
     Ensure "category" is {target_category}.
