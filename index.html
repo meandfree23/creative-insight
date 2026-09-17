@@ -943,6 +943,17 @@ function getSavedArticles() {
     }
   });
 
+  // Attach personal Socratic reflections saved when archiving
+  var socraticNotes = {};
+  try {
+    socraticNotes = JSON.parse(localStorage.getItem('creative_insights_notes') || '{}');
+  } catch(e) {}
+  saved.forEach(function(item) {
+    if (socraticNotes[item.url]) {
+      item.my_insight = socraticNotes[item.url];
+    }
+  });
+
   return saved;
 }
 
@@ -999,6 +1010,7 @@ function renderArchive() {
       else h += '<div class="pick-desc">'+(p.summary||'')+'</div>';
       
       if (p.why) h += '<div class="pick-why">'+p.why+'</div>';
+      if (p.my_insight) h += '<div class="pick-my-insight" style="margin-top:10px; padding-top:10px; border-top:1px dashed var(--border); font-size:12px; color:var(--acc); font-weight:600;">💭 나의 통찰: '+esc(p.my_insight)+'</div>';
       h += '</div>';
       
       h += '<div class="pick-bot">';
