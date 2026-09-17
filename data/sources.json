@@ -592,5 +592,45 @@
     "name": "Booooooom TV",
     "url": "https://tv.booooooom.com/feed/",
     "category": "FILM"
+  },
+  {
+    "name": "Trend Hunter",
+    "url": "https://www.trendhunter.com/rss",
+    "category": "TREND_RESEARCH"
+  },
+  {
+    "name": "Fast Company Co.Design",
+    "url": "https://www.fastcompany.com/co-design/rss",
+    "category": "TREND_RESEARCH"
+  },
+  {
+    "name": "Digiday",
+    "url": "https://digiday.com/feed/",
+    "category": "MARKETING"
+  },
+  {
+    "name": "Marketing Dive",
+    "url": "https://www.marketingdive.com/feeds/news/",
+    "category": "MARKETING"
+  },
+  {
+    "name": "Retail Dive",
+    "url": "https://www.retaildive.com/feeds/news/",
+    "category": "MARKETING"
+  },
+  {
+    "name": "The Cool Hunter",
+    "url": "https://www.thecoolhunter.net/feed/",
+    "category": "TREND_RESEARCH"
+  },
+  {
+    "name": "오픈서베이 블로그",
+    "url": "https://blog.opensurvey.co.kr/feed/",
+    "category": "KOREAN_TREND"
+  },
+  {
+    "name": "Trend Bible",
+    "url": "https://www.trendbible.com/feed",
+    "category": "TREND_RESEARCH"
   }
 ]
