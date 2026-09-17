@@ -21,6 +21,52 @@ def load_sources():
     with open(SOURCES_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
 
+
+def compute_cross_source_signals(articles, min_sources=2, max_signals=12):
+    """
+    Real (non-AI-guessed) zeitgeist signal detector.
+    Scans today's fetched article pool for keywords/proper-noun phrases that
+    appear in the title or summary of articles coming from at least
+    min_sources DIFFERENT feeds. This gives the curation LLM a grounded,
+    measurable "multiple independent sources are talking about this right now"
+    signal instead of letting it subjectively invent trend claims.
+    Note: relies on the 're' module already imported near the top of this file.
+    """
+    stopwords = set([
+        "the", "a", "an", "of", "in", "on", "for", "with", "and", "or", "to", "is",
+        "are", "how", "why", "new", "this", "that", "its", "it's", "best", "top",
+        "what", "from", "your", "you", "into", "more", "than", "just", "will",
+        "can", "not", "but", "has", "have", "his", "her", "our", "their",
+    ])
+
+    term_sources = {}
+    term_examples = {}
+
+    for a in articles:
+        source = a.get("source") or a.get("source_name") or "?"
+        text = "{} {}".format(a.get("title", ""), (a.get("summary", "") or "")[:150])
+        candidates = re.findall(r"[A-Z][a-zA-Z0-9&']{2,}(?:\s+[A-Z][a-zA-Z0-9&']{2,}){0,2}", text)
+        for raw in candidates:
+            key = raw.strip().lower()
+            if key in stopwords or len(key) < 4:
+                continue
+            term_sources.setdefault(key, set()).add(source)
+            examples = term_examples.setdefault(key, [])
+            if len(examples) < 3:
+                examples.append(a.get("title", ""))
+
+    signals = []
+    for term, sources in term_sources.items():
+        if len(sources) >= min_sources:
+            signals.append({
+                "term": term,
+                "source_count": len(sources),
+                "sources": sorted(sources)[:5],
+            })
+
+    signals.sort(key=lambda x: -x["source_count"])
+    return signals[:max_signals]
+
 import re
 import hashlib
 import socket
@@ -317,12 +363,30 @@ def generate_daily_insight(date_str, articles_subset):
     """
         except Exception as e:
             print(f"Failed to read taste DNA: {e}")
-            
+
+    trend_signal_text = ""
+    cross_signals = compute_cross_source_signals(articles_subset)
+    if cross_signals:
+        signal_lines = []
+        for s in cross_signals[:10]:
+            signal_lines.append(
+                "- \"{}\" ({}개 서로 다른 매체에서 동시 언급: {})".format(
+                    s["term"], s["source_count"], ", ".join(s["sources"])
+                )
+            )
+        trend_signal_text = (
+            "\n[오늘의 교차-소스 신호 (실측 데이터, 추측 금지)]\n"
+            "이 용어/주제들은 오늘 수집된 기사 중 서로 다른 매체 2곳 이상에서 동시에 등장한, 실제로 검증된 교차 신호입니다:\n"
+            + "\n".join(signal_lines)
+            + "\n\n이 신호와 연관된 기사가 topPicks에 있다면, social_proof 필드에 이 신호를 근거로 명시하고 우선순위를 높이세요. 신호가 없는 기사도 품질이 좋다면 당연히 선택하되, social_proof를 억지로 지어내지는 마세요.\n"
+        )
+
     prompt = f"""
     You are a cynical, sharp-tongued Senior Creative Director and GQ/Vogue Editor-in-Chief.
     You despise fluffy, generic AI jargon (DO NOT USE words like "여정", "탐구", "교차점", "시너지", "잠재력", "혁신").
     Your writing must be professional, highly specific, slightly cynical, and extremely sharp.
     {taste_instruction}
+    {trend_signal_text}
     
     Curation Evaluation Formula:
     Score = (Trustworthiness + Relevance + Timeliness + Cinematic/Visual Quality + Marketing Insight + Originality) - Noise
@@ -373,7 +437,7 @@ def generate_daily_insight(date_str, articles_subset):
           "tags": ["(tag1)", "(tag2)", "(tag3)"],
           "execution_techniques": ["(Extract 1-2 precise Visual Taxonomy style hashtags)"],
           "why": "(Write a compelling Curator View in Korean addressing why it matters. Sharp, professional tone.)",
-          "social_proof": "",
+          "social_proof": "(ONLY if this exact pick matches one of the cross-source signals listed above, write it in Korean like 'N개 매체 동시 포착: 용어'. Otherwise leave as an empty string. NEVER fabricate a signal that wasn't listed.)",
           "depth": 0.95,
           "image": "(The article's image URL if provided, else empty string)",
           "pub_date": "{date_str}T08:00:00.000000"
