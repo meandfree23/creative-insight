@@ -1,0 +1,427 @@
+{
+  "date": "2026-09-19",
+  "focusQ": "Agent's Thought: 감상주의에 빠진 쓸데없는 비주얼을 걸러내고 시네마틱 스토링텔링의 날카로운 뼈대만 남겼다. 브랜딩이라는 미명 하에 텍스트만 짓거리는 가짜 기획자들의 거품을 제거하는 것이 오늘의 핵심 과제다. 렌즈의 프레임과 화면 연출이 만드는 직관적인 타격감만이 크리에이터를 구원한다.",
+  "creator_message": "큐레이터의 메시지: 입으로만 크리에이티브를 부르짖는 어설픈 기획서에 지쳤다면 오늘 리스트를 똑바로 봐라. 텍스트 나열 대신 프레임을 통제하고 비주얼의 밀도를 극대화한 진짜 레퍼런스들이다. 뜬구름 잡는 추상적인 개념 따위는 전부 내던지고 비주얼 아카이빙의 칼날을 세워라.",
+  "session": {
+    "timestamp": "2026-09-18T22:37:15.023574",
+    "considered": 40,
+    "selected": 17
+  },
+  "topPicks": [
+    {
+      "title": "BFI 런던 영화제를 위해 빛과 투사로 기획된 마리나 윌러의 새로운 타이포그래피 아이덴티티",
+      "content": "펜타그램의 마리나 윌러가 BFI 런던 영화제를 위해 프로젝션 빛을 연출하여 글자를 직접 촬영하는 방식의 브랜딩 캠페인을 선보였다. 필름 본연의 물리적 질감과 광학적 움직임을 타이포그래피에 직조해 넣은 독보적인 그래픽 연출이다.",
+      "url": "https://www.itsnicethat.com/articles/marina-willer-pentagram-bfi-london-film-festival-graphic-design-160926",
+      "source": "It's Nice That",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Marina Willer (Pentagram)",
+      "creator_insight": "디지털 툴로 쉽게 연출하는 그래픽 효과를 거부하고 실제 빛과 렌즈의 굴절을 활용해 시네마틱 질감을 그래픽 디자인의 핵심 인프라로 고착화했다.",
+      "tags": [
+        "BFI",
+        "타이포그래피",
+        "프로젝션 연출"
+      ],
+      "execution_techniques": [
+        "#LightProjection",
+        "#AnalogKineticType"
+      ],
+      "why": "디지털 합성 기법에 의존하는 가짜 텍스처를 기조에서 배제하고 실제 렌즈의 광학 현상을 이용해 영화제의 근본적인 서사를 아이덴티티에 담아낸 비주얼 기획의 정석이다.",
+      "social_proof": "2개 매체 동시 포착: london, featuredvisual",
+      "depth": 0.98,
+      "image": "https://admin.itsnicethat.com/images/ustkghc2XWGm_YapSl7BYtJmAYk=/282007/width-1440%7Cformat-jpeg/BFI_LFF_Logo.png",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "원초적 재료와 서사: 빌리 아담스의 도예 미학을 다룬 숏 필름 'What Remains'",
+      "content": "나우니스(NOWNESS)의 Raw Materials 시리즈 중 하나로 도예가 빌리 아담스의 작업 방식을 감각적인 카메라 워크로 담아냈다. 흙의 텍스처와 물성이 시네마틱한 렌즈 감각을 통해 생생하게 살아 움직인다.",
+      "url": "https://www.nowness.com/series/raw-materials/what-remains-billy-adams-ceramics",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Billy Adams",
+      "creator_insight": "공예의 질감을 고화질 매크로 렌즈와 클로즈업 연출로 다큐멘터리 스릴러 수준의 긴장감으로 끌어올린 영상 연출력을 보여준다.",
+      "tags": [
+        "NOWNESS",
+        "공예다큐",
+        "질감 연출"
+      ],
+      "execution_techniques": [
+        "#MacroCinematography",
+        "#TactileStorytelling"
+      ],
+      "why": "오브제 자체보다 렌즈가 사물의 텍스처를 포착하는 시네마틱 리듬감이 미학적으로 압도적이다.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://img.nowness.com/nowness-frontend/g3L4thR7RDa1lKtnsFMA_WHAT%20REMAINS%20STILL%203.jpg",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "레미디 엔터테인먼트의 신작 '컨트롤 레조넌트': 비주얼 스펙터클과 미장센의 진화",
+      "content": "게임 연출의 경계를 허무는 레미디가 선보인 신작으로, 근접 전투와 공간 파괴 메커니즘을 파격적인 미장센으로 결합했다. 초현실적인 건축 구조와 정교한 조명 연출이 한 편의 잔혹한 아방가르드 영화를 떠올리게 한다.",
+      "url": "https://80.lv/articles/control-resonant-is-a-fantastic-evolution-of-remedy-s-formula/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Remedy Entertainment",
+      "creator_insight": "게임 인터랙션을 시네마틱 라이팅과 공간 변형 미학으로 전이시켜 유저에게 완벽히 통제된 비주얼 경험을 강제한다.",
+      "tags": [
+        "ControlResonant",
+        "미장센",
+        "공간 연출"
+      ],
+      "execution_techniques": [
+        "#BrutalistLighting",
+        "#DynamicSpatialShift"
+      ],
+      "why": "단순한 게임 플레이를 넘어 비주얼 연출의 최전선을 보여주는 미장센 아카이브로, 영상 크리에이터들이 반드시 컷 단위로 분석해야 할 자료다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.80.lv/api/upload/post/41674/images/6aadae76e106b/cover_800x800.jpg",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "네온 오비트: 수학적 계산이 선명한 모션 그래픽으로 환원되는 순간",
+      "content": "수학적 알고리즘을 네온 모션 아트워크로 변환하는 크리에이티브 코딩 작업이다. 정교하게 계산된 궤적이 비주얼 아티스트들에게 예측 불가능한 빛의 안무를 제공한다.",
+      "url": "https://abbas-damerchi.medium.com/neon-orbit-when-mathematics-becomes-motion-ffdf0e3b64e7?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Abbas Damerchi",
+      "creator_insight": "코딩 수식을 예술적 모션 디렉션으로 치환하여 감성적 그래픽에 도달하는 모션 그래픽의 정밀한 구조를 증명한다.",
+      "tags": [
+        "크리에이티브코딩",
+        "모션아트",
+        "수학적미학"
+      ],
+      "execution_techniques": [
+        "#GenerativeMotion",
+        "#AlgorithmicLight"
+      ],
+      "why": "감정에만 의존하는 허술한 그래픽 작업을 비웃듯 수학적 규칙성 속에서 뿜어져 나오는 극도의 시각적 쾌감을 선사한다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdn-images-1.medium.com/max/1254/1*Tk2h-8Mtjx0kR1Zio0eflg.png",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "비트가 울리기 전의 서스펜스: 소리를 시각화하는 모션 디렉션",
+      "content": "사운드가 시작되기 직전의 정적과 긴장감을 모션 그래픽으로 시각화하는 실험적인 오디오-비주얼 기획 기사다. 소리의 파장을 영상 프레임으로 선제 타격하는 디렉팅 메커니즘을 다룬다.",
+      "url": "https://medium.com/@jacksonfdam/hook-the-beat-before-it-sounds-e1e5f14acc83?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Jackson Dam",
+      "creator_insight": "소리의 발생 이전에 존재하는 무음의 시간에 시각적 서스펜스를 부여하여 오디오-비주얼 타이밍의 신차원을 제안한다.",
+      "tags": [
+        "사운드디렉션",
+        "모션그래픽",
+        "오디오비주얼"
+      ],
+      "execution_techniques": [
+        "#SonicAnticipation",
+        "#RhythmicEditing"
+      ],
+      "why": "영상 제작 시 음악에 종속되는 평범한 편집자들에게 소리를 지배하는 프레임 구성법을 일깨워주는 칼날 같은 가이드다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cdn-images-1.medium.com/max/2600/1*m5TRS8XlrJ9108U5af_OFA.jpeg",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "뮤지션 아리마 에데라: 다층적 디스코그래피를 구축하는 서사 구조 기획",
+      "content": "아티스트 아리마 에데라가 본인의 사운드 트랙과 비주얼 아카이브를 구축해 나가는 방식을 인터뷰했다. 여러 층위의 페르소나를 영상과 음악 프레임 안에 어떻게 조율해 넣는지를 냉철하게 파헤친다.",
+      "url": "https://thecreativeindependent.com/people/musician-arima-ederra-on-how-to-build-a-body-of-work/",
+      "source": "Creative Independent",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Arima Ederra",
+      "creator_insight": "단순한 일회성 음원이 아닌 스토리텔링 중심의 비주얼 아카이빙을 구축하여 아티스트 고유의 우주를 조형해냈다.",
+      "tags": [
+        "아티스트아카이브",
+        "비주얼서사",
+        "음악기획"
+      ],
+      "execution_techniques": [
+        "#MultiLayeredNarrative",
+        "#ConceptualArchiving"
+      ],
+      "why": "단발성 콘텐츠에 집착하는 요즘 크리에이터들에게 체계적인 작업군(Body of work)을 구축하는 단단한 뼈대를 제시한다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Creative%20Independent%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "카메라의 프레임처럼 풍경을 자르는 레이크 하우스의 시네마틱 공간 구조",
+      "content": "건축가 제프리 덩건이 앨라배마 펜인술라 호숫가에 설계한 레이크 하우스는 건물 자체를 하나의 대형 카메라 프레임으로 작동시킨다. 삼면의 유리창이 자연을 프레임 안으로 크롭해 넣는 스틸컷으로 변환된다.",
+      "url": "https://thecoolhunter.net/the-lake-house-that-lives-like-a-camera/",
+      "source": "The Cool Hunter",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Jeffrey Dungan",
+      "creator_insight": "건축 공간을 단순한 주거지가 아닌 풍경을 정교하게 담아내는 카메라 렌즈의 구조적 프레임으로 설계했다.",
+      "tags": [
+        "카메라건축",
+        "프레이밍",
+        "공간미학"
+      ],
+      "execution_techniques": [
+        "#ArchitecturalFraming",
+        "#LandscapeCropping"
+      ],
+      "why": "공간을 렌즈의 프레임 시각으로 접근하여 비주얼 디자이너와 공간 기획자 모두에게 파격적인 관점의 전환을 선사한다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "http://thecoolhunter.net/wp-content/uploads/2026/05/JD_LakeWeahapa-1024x576.webp",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "앤서니 에드워즈 x 아디다스 슈퍼스타 'Cold Blooded': 클래식의 차가운 변주",
+      "content": "1970년대 클래식 코트 슈즈인 아디다스 슈퍼스타가 앤서니 에드워즈의 차가운 직관을 입고 9월 18일 새롭게 재해석된다. 레트로 모델의 본질을 건드리지 않으면서도 미니멀한 냉정함을 극대화한 스니커즈 컬래버레이션이다.",
+      "url": "https://www.highsnobiety.com/p/anthony-edwards-adidas-superstar-cold-blooded/",
+      "source": "Highsnobiety",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Anthony Edwards x adidas",
+      "creator_insight": "클래식 헤리티지 제품에 페르소나의 차가운 온도를 텍스처와 컬러감으로 정교하게 투영시켰다.",
+      "tags": [
+        "아디다스",
+        "슈퍼스타",
+        "브랜드컬래버"
+      ],
+      "execution_techniques": [
+        "#ColdToneMinimalism",
+        "#HeritageReinterpretation"
+      ],
+      "why": "유행을 좇아 난잡한 디테일을 더하는 뻔한 협업 프로젝트들을 비웃듯 비우는 디자인의 차가운 힘을 보여준다.",
+      "social_proof": "2개 매체 동시 포착: september",
+      "depth": 0.89,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "2026년 9월에 필독해야 할 신규 폰트 큐레이션",
+      "content": "크리에이티브 봄이 선정한 이번 달 타입 드롭은 가을 시즌을 겨냥해 날카롭고 구조적인 스트로크를 자랑하는 타입페이스들을 모았다. 타이포그래피의 가독성과 상징적 조형미의 결합을 보여준다.",
+      "url": "https://www.creativeboom.com/type-drop/the-best-new-fonts-for-september-2026/",
+      "source": "Creative Boom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Creative Boom Editorial",
+      "creator_insight": "트렌드에 편승하지 않고 오직 글자의 구조적 긴장감과 그래픽 라이브러리로서의 유용성만을 기준으로 필터링했다.",
+      "tags": [
+        "타이포그래피",
+        "폰트큐레이션",
+        "그래픽디자인"
+      ],
+      "execution_techniques": [
+        "#SharpTypeface",
+        "#StructuralStroke"
+      ],
+      "why": "디자이너의 가장 기본이자 강력한 무기인 폰트 선택에서 상투성을 배제하고 비주얼의 날끝을 세우는 큐레이션이다.",
+      "social_proof": "2개 매체 동시 포착: september",
+      "depth": 0.88,
+      "image": "https://media.creativeboom.com/a18ccb02-fbe3-40aa-a2b4-75f3efff29f6/conversions/f53664f0938681d93bbe2e1aec6c7f51bb6fd2be-medium.webp",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "ENGWE 전기 더트 바이크 'Eagle': 날것의 'Spirit'을 표방한 모빌리티 브랜딩",
+      "content": "ENGWE가 올테레인 전기 더트 바이크 'Eagle'을 발표하며 'Born to Fly'라는 슬로건 아래 역동적인 브랜딩 캠페인을 펼친다. 거친 지형을 질주하는 거친 텍스처의 룩앤필이 인상적이다.",
+      "url": "https://hypebeast.kr/2026/9/engwes-born-to-fly-spirit-takes-flight-with-the-eagle-all-terrain-dirt-bike",
+      "source": "Unknown Source",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "ENGWE",
+      "creator_insight": "친환경 모빌리티의 정갈한 이미지에서 벗어나 하이엔드 테크웨어 감성과 하드코어 스트리트 스타일을 매끄럽게 접목했다.",
+      "tags": [
+        "더트바이크",
+        "모빌리티브랜딩",
+        "하드코어미학"
+      ],
+      "execution_techniques": [
+        "#RoughTextureLook",
+        "#ExtremeLifestyleFilming"
+      ],
+      "why": "국내 모빌리티 시장의 뻔하고 얌전한 마케팅 방식을 기습하는 야생적인 브랜드 톤앤매너의 선례다.",
+      "social_proof": "2개 매체 동시 포착: spirit",
+      "depth": 0.87,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F09%2FENGWEs-Born-to-Fly-Spirit-Takes-Flight-With-the-Eagle-All-Terrain-Dirt-Bike-000.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "보그 차이나 - 'Smells Like Teen Spirit': 10대의 반항심을 포착한 패션 에디토리얼",
+      "content": "보그 차이나가 자유와 거친 영충동을 담아낸 비주얼 화보집을 공개했다. 90년대 널바나의 그런지 미학을 현대적인 유스 컬처 감성과 감각적인 필름 톤으로 재구성했다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/12/vogue-china-smells-like-teen-spirit/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Vogue China Editorial",
+      "creator_insight": "과거 서브컬처 유산을 가짜 레트로로 복제하지 않고 현재 세대의 거친 질감과 결합한 에디토리얼 화보를 연출했다.",
+      "tags": [
+        "보그차이나",
+        "그런지패션",
+        "에디토리얼"
+      ],
+      "execution_techniques": [
+        "#GrainyFilmTexture",
+        "#YouthSubcultureStyle"
+      ],
+      "why": "패션 화보가 단순히 옷을 보여주는 것을 넘어 시대의 불온한 공기를 어떻게 비주얼로 전파하는지 보여주는 에디팅의 정수다.",
+      "social_proof": "2개 매체 동시 포착: spirit",
+      "depth": 0.86,
+      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "도도(Dodo)의 이동식 로드트립 캠페인: 모바일 환경을 활용한 기습적 마케팅",
+      "content": "브랜드 도도가 대륙을 transversing하는 로드트립 캠페인을 집행하며 브랜드 경험을 움직이는 스토어로 확장시켰다. 정적인 매장을 벗어나 무작위 소비자들과의 직접적 비주얼 스팟을 형성한다.",
+      "url": "https://www.brandinginasia.com/dodo-goes-mobile-with-road-trip-campaign-via-atimeplace/",
+      "source": "Branding in Asia",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "A Time Place / Dodo",
+      "creator_insight": "고정된 리테일 팝업스토어 공식에서 벗어나 이동성 자체를 로드무비 형식의 브랜드 콘텐츠로 변환했다.",
+      "tags": [
+        "도도",
+        "로드트립캠페인",
+        "브랜드경험"
+      ],
+      "execution_techniques": [
+        "#MobilePopUp",
+        "#GuerillaBranding"
+      ],
+      "why": "팝업스토어 범남으로 피로해진 소비자들에게 로드무비 형태의 역동적인 기획이 어떤 몰입감을 주는지 입증한다.",
+      "social_proof": "2개 매체 동시 포착: featuredvisual",
+      "depth": 0.85,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/09/Dodo-Goes-Mobile-1-1.webp",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "런던 디자인 르네상스: 침체를 깨고 부활하는 디자인 씬의 현주소",
+      "content": "런던 디자인 페스티벌(LDF) 2026을 맞아 디진(Dezeen) 위클리 팟캐스트가 런던 크리에이티브 씬의 회복세를 진단한다. 지난 10년간의 정체를 딛고 실험적 공간 연출과 그래픽이 다시 꿈틀대는 현장을 다룬다.",
+      "url": "https://www.dezeen.com/2026/09/18/london-design-festival-2026-dezeen-weekly-podcast/",
+      "source": "Dezeen",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Dezeen Editorial",
+      "creator_insight": "도시의 예술적 정체를 비판적으로 수용함과 동시에 새로운 자생적 디자인 씬의 태동을 다각도로 분석했다.",
+      "tags": [
+        "런던디자인페스티벌",
+        "LDF2026",
+        "디자인씬"
+      ],
+      "execution_techniques": [
+        "#CulturalAnalysis",
+        "#SceneReport"
+      ],
+      "why": "글로벌 크리에이티브 메카의 흐름을 파악하고 향후 비주얼 트렌드의 거점이 어디로 움직이는지 판단하는 눈을 제공한다.",
+      "social_proof": "2개 매체 동시 포착: london",
+      "depth": 0.84,
+      "image": "http://static.dezeen.com/uploads/2026/09/dezeen-weekly-podcast-18-september-2026-sq-411x411.jpg",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "당신의 브랜드 가치는 그저 웹사이트의 텍스트에 불과하다",
+      "content": "브랜딩의 허상을 꼬집는 칼럼으로, 현란한 키워드와 슬로건 뒤에 정작 실체적 비주얼 실행과 행동이 빠져있는 마케팅 현실을 날카롭게 비판한다.",
+      "url": "https://goodmansoutonte.medium.com/your-brand-values-are-probably-just-words-on-a-website-day-5-of-21-b0ae7c439a80?source=rss------branding-5",
+      "source": "Medium Branding Tag",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Goodman Soutonte",
+      "creator_insight": "말뿐인 브랜드 가치를 집어치우고 실체적인 비주얼 시스템과 제품으로 증명하라는 비타협적 일침을 던진다.",
+      "tags": [
+        "브랜드전략",
+        "브랜딩비판",
+        "실행력"
+      ],
+      "execution_techniques": [
+        "#NoBSBranding",
+        "#ExecutionFirst"
+      ],
+      "why": "번지르르한 미사여구로 마케팅 보고서를 채우는 기획자들의 뺨을 때리는 통쾌하고 지극히 현실적인 비평이다.",
+      "social_proof": "",
+      "depth": 0.83,
+      "image": "https://cdn-images-1.medium.com/max/2600/0*mcwjy-ie821z6ec4",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "인스타카트, 슈렉과 스쿠비두 아이콘을 기용한 AI 어시스턴트 바이럴 캠페인",
+      "content": "인스타카트가 자사 AI 어시스턴트를 홍보하기 위해 대중문화 아이콘인 슈렉과 스쿠비두를 캐스팅해 유쾌하고 위트 있는 광고를 선보였다.",
+      "url": "https://www.marketingdive.com/news/instacart-enlists-icons-like-shrek-scooby-doo-to-market-ai-assistant/830757/",
+      "source": "Marketing Dive",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "인스타카트",
+        "슈렉",
+        "AI마케팅"
+      ],
+      "why": "딱딱한 기술 AI 마케팅에 고전 서브컬처 캐릭터를 밈(Meme)처럼 결합해 바이럴을 유도하는 똑똑한 유머 기획이다.",
+      "depth": 0.5,
+      "image": "https://imgproxy.divecdn.com/o9bJl6V2A7xxEBGvsJ6AEgtXgiBRhknmyCQEWNFjFGY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UaGVfVWx0aW1hdGVfU2FuZHdpY2hfX19JbnN0YWNhcnRfMC0xM19zY3JlZW5zaG90LnBuZw==.webp",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "어도비 포토샵 엘리먼츠 2027 출시: AI 툴의 일상화",
+      "content": "어도비가 한층 고도화된 머신러닝 기능이 탑재된 포토샵 및 프리미어 엘리먼츠 2027 라인업을 정식 공개했다.",
+      "url": "https://abduzeedo.com/design-tools-adobe-photoshop-elements-2027-release/",
+      "source": "abduzeedo.com",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "어도비",
+        "포토샵2027",
+        "디자인툴"
+      ],
+      "why": "툴의 진화 속도에 맞춰 크리에이터가 도구에 지배당하지 않고 이를 어떻게 착취해야 하는지 질문을 던진다.",
+      "depth": 0.5,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_adobe-elements-2027-photoshop-premiere-elements-adobe.jpg",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    },
+    {
+      "title": "웹에서 'App Store에서 다운로드' 버튼은 왜 다 사라졌을까?",
+      "content": "한때 모든 웹사이트를 도배했던 앱스토어 다운로드 배너 버튼의 멸종과 인터페이스 미학의 변화를 추적한 가벼운 디자인 UX 탐구다.",
+      "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "UX디자인",
+        "앱스토어버튼",
+        "웹트렌드"
+      ],
+      "why": "당연하게 여기던 UI 디테일 하나가 시대 트렌드에 의해 어떻게 소멸하는지 유쾌하게 짚어주는 흥미로운 읽을거리다.",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/1024/1*wqYAvTSJQa3-QGzmGrTgsg.png",
+      "pub_date": "2026-09-19T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "시네마틱 라이팅 통제",
+      "is_hot": true
+    },
+    {
+      "word": "광학 굴절 타이포그래피",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 질감 디렉팅",
+      "is_hot": true
+    },
+    {
+      "word": "탈구조적 공간 프레이밍",
+      "is_hot": false
+    },
+    {
+      "word": "실체적 브랜딩 실행력",
+      "is_hot": true
+    },
+    {
+      "word": "하드코어 비주얼 스펙터클",
+      "is_hot": false
+    }
+  ]
+}
