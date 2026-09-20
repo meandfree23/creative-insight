@@ -1,0 +1,102 @@
+{
+  "_meta": {
+    "purpose": "CREATIVE INSIGHT 사이트의 지속 기억 파일. 매일 도는 Aside 큐레이터 에이전트가 매 실행 시작 시 이 파일을 먼저 읽고, 끝날 때 갱신한다.",
+    "created": "2026-09-20",
+    "pattern_source": "RE:COLLECTION curator_memory.json / ARCHE persistent-agent memory와 동일한 패턴"
+  },
+  "taste_profile": {
+    "editorial_dna": "화려한 수사와 감성적 포장보다 실제 연출 기법, 데이터 근거, 크로스보더/크로스소스 신호를 우선한다. '진짜 인사이트'는 카테고리 템플릿 문장이 아니라 사건마다 다른 구체적 관찰이어야 한다.",
+    "known_bias_to_watch": "일일 큐레이션 프롬프트가 Cinema & Narrative에 강한 가중치를, Architecture에는 페널티를 부여하도록 고정되어 있다 (2026-09-18 확인). 매 실행마다 이 편향이 실제 그날의 문화적 중요도를 왜곡하지 않는지 점검한다.",
+    "source_language_goal": "125→133개 소스 중 여전히 서구 소스 비중이 높다 (DESIGN 카테고리 63/125). 매일 최소 1건은 한국어 소스 또는 한국 관련 소재로 보강해 Korean Code 카테고리의 실질을 채운다."
+  },
+  "source_quality_notes": {
+    "reliable": [
+      "Motionographer",
+      "Wallpaper*",
+      "The Dieline",
+      "Fast Company Co.Design",
+      "Marketing Dive",
+      "오픈서베이 블로그",
+      "Creative Boom",
+      "Design Milk",
+      "Hypebeast Korea"
+    ],
+    "watch_for_breakage": [
+      "Production Paradise (2026-09-17에 URL 슬래시 누락으로 깨진 링크 발견 후 수정됨 — 향후 URL 무결성 재확인 필요)"
+    ],
+    "orphaned_legacy_file": "data/agent_memory.json 파일이 저장소에 존재하지만 fetch_ideas.py/agents/radar.py/index.html 등 현재 코드 어디에서도 참조되지 않는다 (2026-09-20 grep 확인). core_philosophy/recent_lessons 구조를 가진 레거시 파일로 추정되며, 내용이 반복적/보일러플레이트라 이 curator_memory.json이 사실상 이를 대체한다. 사용자 승인 없이 삭제하지 않는다."
+  },
+  "pipeline_health_log": [
+    {
+      "date": "2026-09-20",
+      "status": "healthy",
+      "notes": "GitHub Actions 'Daily Creative Insight Update' (cron 5:17 AM KST)가 매일 공백 없이 커밋 중. data/daily/2026-09-20.json 정상 생성 확인 (topPicks 13건 + popcorn). RE:COLLECTION과 달리 이 저장소는 침묵 정지(silent stall) 없음."
+    },
+    {
+      "date": "2026-09-20",
+      "status": "agent_first_run",
+      "notes": "큐레이터 에이전트 아키텍처 최초 구축. 라이브 데모로 실제 조사·팩트체크한 기사 1건(디즈니코리아 'ICONS UNLEASED' K팝 캠페인, marketech-apac.com + Korea Times 교차 확인)을 topPicks에 추가하고 Marketing & Brand / 한국 관련 소재로 분류. agent_curated: true 필드로 기계적 파이프라인 산출물과 구분."
+    }
+  ],
+  "editorial_decisions": [
+    "Taste DNA/Cloud Sync localStorage 키 불일치(analyzeTaste가 savedArchives를 읽지만 저장은 creative_archive에 함)는 2026-09-18에 사용자가 명시적으로 보류함. 사용자가 먼저 요청하기 전에는 고치지 않는다.",
+    "강제 12-15개 topPicks 볼륨 규칙도 2026-09-18에 사용자가 보류함.",
+    "cross-source trend detection과 소스 다양화(125→133)는 2026-09-18에 우선순위로 선택되어 이미 구현됨."
+  ],
+  "open_questions_for_next_run": [
+    "오늘 기계적 파이프라인이 생성한 콘텐츠 중 창작 기법(execution_techniques)이나 근거(why)가 템플릿처럼 반복되는 항목이 있는지 점검할 것.",
+    "Korean Code 카테고리가 실제로 한국 관련 실질 콘텐츠로 채워지고 있는지, 아니면 이름만 다르고 서구 소스 번역인지 매일 확인할 것.",
+    "social_proof 필드가 실제 cross-source 신호 없이 비어있는 항목이 대다수인데, 매일 최소 1-2건은 실제 신호를 찾아 채울 수 있는지 시도할 것."
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
