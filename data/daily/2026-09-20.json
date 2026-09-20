@@ -4,8 +4,7 @@
   "creator_message": "감성에 의존하는 시대는 끝났다. 모션 그래픽, 감각적인 패키징, 정교하게 계산된 광고 캠페인만이 크리에이터의 진짜 무기다. 뻔하고 진부한 수식어를 버리고, 당장 당신의 컷 구성과 비주얼 프레임워크를 재검토하라.",
   "session": {
     "timestamp": "2026-09-19T22:23:22.031859",
-    "considered": 40,
-    "selected": 16
+    "considered": 40,    "selected": 17
   },
   "topPicks": [
     {
@@ -317,11 +316,9 @@
       "why": "메시지 전달의 극대화를 위해 기존 인쇄 매체 틀을 깨고 실제 오브제를 3D 형태로 배치하는 압도적 캠페인 연출력의 예시다.",
       "social_proof": "",
       "depth": 0.97,
-      "image": "https://media.creativeboom.com/93d063e9-c40f-4469-9a73-4b03856c0aaa/conversions/424829facbe7838352dcac7f711eab44c8de61dc-medium.webp",
-      "pub_date": "2026-09-20T08:00:00.000000"
-    }
-  ],
-  "popcorn": [
+      "image": "https://media.creativeboom.com/93d063e9-c40f-4469-9a73-4b03856c0aaa/conversions/424829facbe7838352dcac7f711eab44c8de61dc-medium.webp",      "pub_date": "2026-09-20T08:00:00.000000"    },
+    {"title":"디즈니코리아 'ICONS UNLEASED', K팝 4대 기획사와 손잡고 마블 세계관에 한국을 이식하다","content":"디즈니코리아가 한국 문화유산을 축으로 글로벌 소비재 사업을 확장하는 'ICONS UNLEASED: Global Icon Becomes Center of New K-Wave' 캠페인을 공개했다. 카카오엔터테인먼트, SM엔터테인먼트, HYBE, 스타쉽엔터테인먼트 등 K팝 4대 기획사와 협업해 아티스트의 크리에이티브 아이덴티티를 마블 서사에 결합하고, 한국 문화유산 기반 관광 상품과 오리지널 한국 콘텐츠까지 세 축으로 확장한다.","url":"https://marketech-apac.com/disney-korea-unveils-icons-unleased-campaign-partnering-with-k-pop-labels-on-global-expansion","source":"MARKETECH APAC","domain":"Marketing & Brand","category":"리뷰","creator_name":"Kim Hyun-jin (Disney Korea, Head of Consumer Products)","creator_insight":"'한국만 할 수 있는 것'과 '디즈니만 할 수 있는 것'을 교차시켜, K팝 아티스트의 비주얼 아이덴티티를 마블 IP 서사에 이식하는 크로스보더 브랜드 연출 전략을 구사한다.","tags":["브랜드전략","K웨이브","IP콜라보레이션"],"execution_techniques":["Cross-Border IP Licensing","Culture-Led Brand Storytelling"],"why":"K팝이라는 문화 수출력을 글로벌 프랜차이즈 확장의 엔진으로 전환한 사례로, 로컬 문화자산을 브랜드 서사에 결합하는 전략의 실질적 청사진을 제공한다.","social_proof":"2개 매체 동시 포착: Disney Korea, Korea Times","depth":0.95,"image":"https://marketech-apac.com/wp-content/uploads/2026/09/Disney-Korea-unveils-ICONS-UNLEASED-campaign-partnering-with-K-pop-labels-on-global-expansion-1-2.webp","pub_date":"2026-09-20T09:30:00.000000","agent_curated":true}
+  ],  "popcorn": [
     {
       "title": "미드저니 sREF v8.1 스타일 코드 파라미터 백과사전",
       "content": "미드저니 이미지 생성을 위한 고유 스타일 레퍼런스(sREF) 파라미터 조합을 실시간 프롬프트 테스트 결과물과 함께 정리한 프롬프트 실험집.",
