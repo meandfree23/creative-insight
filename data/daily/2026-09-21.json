@@ -1,0 +1,400 @@
+{
+  "date": "2026-09-21",
+  "focusQ": "화려한 수식어로 범벅된 평범함은 거부한다. 렌즈의 프레임과 미학적 엄격함만이 살아남는 기획의 유일한 기준이다. 감상적인 클리셰를 쳐내고 서사와 질감의 본질만 남겼다.",
+  "creator_message": "AI가 뱉어내는 뻔한 텍스트와 의미 없는 비주얼에 지쳤다면 제대로 들어왔다. 눈을 더럽히는 트래시 콘텐츠를 솎아내고, 오직 감각적 날이 서 있는 컷과 날카로운 비즈니스 프레임만 골라냈다. 핑계 대지 말고 기획의 뼈대를 다시 세워라.",
+  "session": {
+    "timestamp": "2026-09-20T22:29:48.567425",
+    "considered": 40,
+    "selected": 16
+  },
+  "topPicks": [
+    {
+      "title": "크리스토퍼 놀란의 <오디세이>: 서사의 직조와 프레임 미학",
+      "content": "크리스토퍼 놀란 감독이 신작 <오디세이>를 통해 대서사시의 시각적 재현에 도전한다. 고전적 필름 촬영기법과 압도적인 프레임 스케일로 대서사시의 질감을 극대화한다.",
+      "url": "https://filmmakermagazine.com/134042-weaving-the-odyssey/",
+      "source": "Filmmaker Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Christopher Nolan & Hoyte van Hoytema",
+      "creator_insight": "거대한 고전 대서사를 수공예적인 필름 질감과 압도적인 프레임 스케일로 압축하는 놀란식 미장센의 정수.",
+      "tags": [
+        "영화연출",
+        "필름촬영",
+        "서사미학"
+      ],
+      "execution_techniques": [
+        "#IMAX_Cinematography",
+        "#Analogue_Texture"
+      ],
+      "why": "비주얼 스토리텔링이 어떤 미학적 압도감을 가져야 하는지 보여주는 정석적인 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.98,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/the-odyssey_A17-940x400.jpg",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "단편 영화 <Suo Jiang>: 열쇠공의 패러독스와 미니멀리즘 연출",
+      "content": "세상의 모든 자물쇠를 열 수 있지만 정작 단 하나의 열쇠 구멍 앞에서 멈춰 선 열쇠공의 이야기를 다룬 단편 영화. 극단적인 인물 조명과 좁은 프레임 연출이 돋보인다.",
+      "url": "https://www.shortoftheweek.com/2026/09/01/suo-jiang/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Suo Jiang Production Team",
+      "creator_insight": "단 하나의 자물쇠라는 극단적 제약을 미니멀한 연출과 시각적 긴장감으로 전환하는 날카로운 프레이밍.",
+      "tags": [
+        "단편영화",
+        "미니멀리즘",
+        "프레임연출"
+      ],
+      "execution_techniques": [
+        "#LowKey_Lighting",
+        "#Claustrophobic_Framing"
+      ],
+      "why": "제한된 공간과 소재 속에서 밀도 높은 긴장감을 유발하는 시각적 숏 구성의 좋은 예시.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/09/suo_jiang_short_film_08.jpg",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "단편 영화 <Mercenaire>: 도축장의 미학적 날카로움과 생존 서사",
+      "content": "사회 재활 프로그램을 통해 도축장에 취업한 인물의 날것 그대로의 생존 서사. 차가운 금속과 붉은 톤의 정교한 대비가 인상적인 단편 영상 프로젝트.",
+      "url": "https://www.shortoftheweek.com/2026/09/04/mercenaire/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Mercenaire Directing Crew",
+      "creator_insight": "차가운 산업 공간을 날것의 감정과 강렬한 시각적 색채 대비로 채워넣은 도발적인 미장센.",
+      "tags": [
+        "미장센",
+        "색채대비",
+        "서사 연출"
+      ],
+      "execution_techniques": [
+        "#Industrial_Realism",
+        "#Color_Grading"
+      ],
+      "why": "거친 상업 환경을 날카로운 미학적 오브제로 전환하는 연출가의 잔혹하고 명확한 시선.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/09/mercenaire_short_film_06.jpg",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "모션그래퍼 20주년: 모션 디렉팅 산업의 생존 법칙",
+      "content": "Motionographer의 20주년을 기념하여 업계 크리에이터들을 위한 공모 및 네트워크 개편을 진행한다. 정체된 모션 디자인 씬에 새로운 자극을 제시한다.",
+      "url": "https://motionographer.com/2026/09/10/motionographer-jobs-is-back-in-motion/",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Motionographer Editorial Team",
+      "creator_insight": "정체된 모션 그래픽 씬에서 평범함을 탈피하고 차별화된 비주얼 텍스처를 구축하기 위한 통찰.",
+      "tags": [
+        "모션디자인",
+        "디렉팅",
+        "영상커뮤니티"
+      ],
+      "execution_techniques": [
+        "#Motion_Directing",
+        "#Visual_Curation"
+      ],
+      "why": "움직이는 이미지의 트렌드 축이 어디로 이동하고 있는지 파악할 수 있는 인더스트리 이정표.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/09/logo-20-wide-hero-image-texturd-700x394.png",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "소울라이크 <Valor Mortis>: 다크 판타지 비주얼과 모션 연출",
+      "content": "신작 소울라이크 RPG 발로 모티스가 시각적 완성도와 정교한 타격감 모션을 공개하며 합리적인 가격 정책을 선언했다. 특유의 어두운 질감 묘사가 일품이다.",
+      "url": "https://80.lv/articles/soulslike-rpg-valor-mortis-will-launch-at-lower-price/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Valor Mortis Development Studio",
+      "creator_insight": "가격 경쟁력 이면에 숨겨진 묵직한 캐릭터 모션과 어두운 시각적 몰입감의 구조적 설계.",
+      "tags": [
+        "게임아트",
+        "3D모션",
+        "다크판타지"
+      ],
+      "execution_techniques": [
+        "#Dark_Fantasy_Aesthetic",
+        "#Combat_Animation"
+      ],
+      "why": "3D 비주얼과 카메라 워크가 어떻게 유저의 시각적 경험을 지배하는지 보여주는 상업적 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cdn.80.lv/api/upload/post/41670/images/6aad8f050b871/cover_800x800.jpg",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "2805년 타이완: 콘셉트 아트가 제안하는 사이버펑크 미장센",
+      "content": "미래 대만의 정체성을 2805년이라는 시점의 고밀도 그래픽으로 재구성한 콘셉트 아트 프로젝트. 초고층 빌딩과 전통 양식의 기이한 조합을 다룬다.",
+      "url": "https://www.behance.net/gallery/255833205/Future-Taiwan-2805-AD-",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Behance Digital Concept Artist",
+      "creator_insight": "아시아 도시의 디스토피아적 밀도를 비주얼 스토리텔링으로 재구성하는 프레임 아트의 세계관 설계.",
+      "tags": [
+        "콘셉트아트",
+        "사이버펑크",
+        "비주얼월드빌딩"
+      ],
+      "execution_techniques": [
+        "#World_Building",
+        "#Cyberpunk_VFX"
+      ],
+      "why": "미래적 비주얼 아트워크를 기획할 때 필요한 아시안 퓨처리즘 미장센의 노골적인 가이드.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/64d88f255833205.Y3JvcCwxMDgwLDg0NCwwLDQwMw.png",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "베드배스앤비욘드: 90년대 복고 패션과 신용조합의 기이한 브랜딩",
+      "content": "베드배스앤비욘드의 모회사가 신용조합 설립을 모색하는 한편, 익스프레스 브랜드는 90년대 레트로 노스탤지어 패션으로 복귀한다.",
+      "url": "https://www.retaildive.com/news/bed-bath-and-beyond-credit-union-express-nineties-nostalgia/830739/",
+      "source": "Retail Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Retail Dive Strategy Team",
+      "creator_insight": "파산한 리테일 브랜드가 노스탤지어 마케팅과 금융 서비스 결합으로 생명을 연장하려는 냉혹한 셈법.",
+      "tags": [
+        "리테일마케팅",
+        "레트로브랜딩",
+        "비즈니스전략"
+      ],
+      "execution_techniques": [
+        "#Archive_Branding",
+        "#Nostalgia_Marketing"
+      ],
+      "why": "위기에 몰린 리테일 자산이 추억 팔이와 기이한 서비스 확장으로 연명하는 생존 방식을 엿볼 수 있다.",
+      "social_proof": "2개 매체 동시 포착: beyond",
+      "depth": 0.87,
+      "image": "https://imgproxy.divecdn.com/IY7WU-EzNlUNlgL7ksJB_6UU7OgVzVVnRTg78ZNcf6s/g:nowe:0:4/c:960:542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9leHPro3NzX2FyY2hpdmVfLV8xXzEuanBlZw==.webp",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "Beyond the Cart: 보이지 않는 고객 경험의 비즈니스 설계",
+      "content": "장바구니 결제 단계 너머에서 발생하는 이탈 원인을 분석하고, 디지털 스토어프론트에서 이탈하는 고객을 잡기 위한 '보이지 않는 UX' 전략을 조명한다.",
+      "url": "https://medium.com/@junaidmaniyar/beyond-the-cart-why-the-invisible-customer-journey-is-your-biggest-growth-lever-99be4959c68c?source=rss------ui_ux-5",
+      "source": "Medium UI/UX Tag",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Junaid Maniyar",
+      "creator_insight": "화려한 UI 뒤에 숨겨진 보이지 않는 구매 동선 UX를 브랜드 성장의 핵심 엔진으로 전환하는 시각.",
+      "tags": [
+        "UX전략",
+        "그로스마케팅",
+        "디지털리테일"
+      ],
+      "execution_techniques": [
+        "#Invisible_UX",
+        "#Conversion_Design"
+      ],
+      "why": "눈에 보이는 디자인에만 매몰된 디자이너들에게 비즈니스 실질 전환을 이끄는 동선 설계의 중요성을 상기시킨다.",
+      "social_proof": "2개 매체 동시 포착: beyond",
+      "depth": 0.86,
+      "image": "https://placehold.co/800x600/0a0a0a/FFFFFF?text=Medium%20UI/UX%20Tag%0A%28UIUX%29&font=playfair-display",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "마린 세르 x Chaisor: 초승달 패턴으로 해체한 프렌치 폴딩 체어",
+      "content": "패션 디자이너 마린 세르가 프랑스 대표 체어 브랜드 셰조르와 협업하여 시그니처 초승달 모티프를 입힌 커스텀 폴딩 체어를 선보인다.",
+      "url": "https://hypebeast.kr/2026/9/marine-serre-chaisor-chair-furniture-collaboration-info",
+      "source": "Unknown Source",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Marine Serre",
+      "creator_insight": "패션 하우스의 상징적 엠블럼을 가구라는 일상 오브제에 주입하여 하이엔드 소비 욕구를 자극하는 리브랜딩 기법.",
+      "tags": [
+        "패션콜라보",
+        "가구디자인",
+        "트렌드컬처"
+      ],
+      "execution_techniques": [
+        "#Monogram_Pattern",
+        "#Object_Rebranding"
+      ],
+      "why": "국내 패션 및 크리에이티브 마켓에서 강력하게 작동하는 '엠블럼 기반 콜라보레이션'의 완성도 높인 사례.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F09%2Fmarine-serre-chaisor-chair-furniture-collaboration-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "파리 페루 거리의 문학적 미장센: 랭보의 시와 돌담의 텍스처",
+      "content": "파리 6구 페루 거리에 새겨진 아르튀르 랭보의 시 <취한 배>의 돌담을 따라 걷는 아카이빙 노트. 공간과 텍스트가 이루는 시각적 호흡을 담아냈다.",
+      "url": "https://blog.naver.com/justina75/224330968207?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Hilde",
+      "creator_insight": "도시의 무심한 돌담 텍스처에 문학적 서사를 입혀 감각적인 컷으로 아카이빙하는 한국 크리에이터의 프레임 시선.",
+      "tags": [
+        "파리공간",
+        "시각아카이브",
+        "텍스트미학"
+      ],
+      "execution_techniques": [
+        "#Textual_Space",
+        "#Urban_Texture"
+      ],
+      "why": "한국 감성 소비자들이 열광하는 유럽 공간의 문학적 텍스처와 비주얼 연출을 영리하게 포착했다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA2MjlfNDAg/MDAxNzgyNzE3OTk4NDYw._ukdOY2mt2u9JuO4-bwmdDHcj6Ugag0rt7frEk_Nv6og.SO0grQQmzrvYKGHy0BswJEh7P_jc2VBIM1tWojUcI7kg.JPEG/900_Screenshot_20260629_092340_NAVER.jpg?type=s3",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "스티븐 마이젤이 렌즈로 담아낸 모스키노: 패스트푸드와 하이패션의 위트",
+      "content": "전설적인 모델 린다 에반젤리스타와 사진가 스티븐 마이젤이 조우한 모스키노 캠페인. 패스트푸드 문화를 모던 하이패션의 틀로 비틀어버린 명작 비주얼.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/09/moschino-aw-2014-15-campaign/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Steven Meisel & Linda Evangelista",
+      "creator_insight": "저급한 상업 팝아트 모티프를 최고급 패션 캠페인의 언어로 뒤집어버리는 냉소적 캠프(Camp) 미학.",
+      "tags": [
+        "패션캠페인",
+        "비주얼마케팅",
+        "스티븐마이젤"
+      ],
+      "execution_techniques": [
+        "#Camp_Aesthetic",
+        "#High_Fashion_Satire"
+      ],
+      "why": "키치함과 하이엔드의 경계를 허무는 마케팅 비주얼이 갖춰야 할 서사적 위트의 고전.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "마케팅이 색상이라면 회색일까: 무색무취 마케팅에 던지는 경고",
+      "content": "지나치게 데이터에만 의존하며 개성을 잃어버린 현대 브랜드 마케팅의 무색무취함을 '회색'으로 정의하고, 강렬한 색채와 자기주장의 필요성을 논한다.",
+      "url": "https://medium.com/marketing-in-the-age-of-digital/if-marketing-were-a-color-would-it-be-gray-6fefabbd9e4b?source=rss------branding-5",
+      "source": "Medium Branding Tag",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Medium Branding Editorial",
+      "creator_insight": "안전함만 추구하다 기이할 정도로 밋밋해진 현대 브랜드에 날카로운 비판을 던지는 브랜드 칼럼.",
+      "tags": [
+        "브랜드전략",
+        "마케팅에세이",
+        "비주얼정체성"
+      ],
+      "execution_techniques": [
+        "#Anti_Generic_Design",
+        "#Bold_Identity"
+      ],
+      "why": "남들과 똑같은 가이드라인에 갇혀 브랜드의 비주얼 엣지를 잃어버린 기획자들을 위한 매서운 직설.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cdn-images-1.medium.com/max/694/0*PYUDs2QBscf98NTJ.png",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "라파엘 골티에: 정적인 순간을 지배하는 스트리트 포토그래피",
+      "content": "사진가 라파엘 골티에의 렌즈에 포착된 도심의 절제된 순간들. 기하학적 구도와 빛의 그늘을 이용해 정막한 미학을 연출한다.",
+      "url": "https://www.booooooom.com/2026/09/11/photographer-spotlight-raphael-gaultier/",
+      "source": "Booooooom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Raphaël Gaultier",
+      "creator_insight": "일상의 복잡한 노이즈를 쳐내고 오직 빛과 선의 정교한 프레임 구조로 공간을 재해석하는 시각적 쾌감.",
+      "tags": [
+        "포토그래피",
+        "스트리트아트",
+        "구도미학"
+      ],
+      "execution_techniques": [
+        "#Geometric_Composition",
+        "#Shadow_Play"
+      ],
+      "why": "스틸 컷 한 장만으로도 공간의 서사적인 분위기를 압도하는 구도 감각을 배우기 좋은 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Gaultier1.jpg",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "루시 헤일의 LA 저택: '마녀 느낌' 나는 셀럽 인테리어",
+      "content": "배우 루시 헤일이 과감한 패턴과 어두운 톤을 조합해 완성한 독특한 LA 자택 인테리어를 공개했다.",
+      "url": "https://www.architecturaldigest.com/story/lucy-hale-los-angeles-home",
+      "source": "architecturaldigest.com",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "셀럽하우스",
+        "인테리어"
+      ],
+      "why": "취향이 확실한 셀럽의 독특한 인테리어 스토리는 가볍게 소비하기 좋은 비주얼 가십 스낵.",
+      "depth": 0.5,
+      "image": "https://media.architecturaldigest.com/photos/6aa81844569f08d739987c47/master/pass/LC_AD_GL-4.jpg",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "켄 오야마의 카와이 빌딩: 도쿄 도심 건축물의 귀여운 반전",
+      "content": "도시 사진가 켄 오야마가 도쿄 도심 속 건축물들을 '귀여움(Kawaii)'이라는 시선으로 포착해낸 유쾌한 사진집.",
+      "url": "https://spoon-tamago.com/kawaii-buildings-ken-ohyama-photobook/?utm_source=rss&utm_medium=rss&utm_campaign=kawaii-buildings-ken-ohyama-photobook",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "도쿄건축",
+        "팝컬처"
+      ],
+      "why": "딱딱한 도시 건축을 팝하고 귀엽게 꺾어보는 시선의 전환이 주는 머리 식히기용 영감.",
+      "depth": 0.5,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/08/ken-ohyama-kawaii-buildings-7-1-200x133.jpeg",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "Humtto-X 이지 런: 아웃도어 스니커즈의 기이한 상품 페이지",
+      "content": "베트남 커머스에 등장한 초경량 러닝화의 극단적으로 텍스트 중심적인 B급 상세페이지 뷰.",
+      "url": "https://humtto.vn/giay-chay-bo-the-thao-sieu-nhe-nu-humtto-x-easy-run-370374b/",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "이커머스",
+        "B급바이럴"
+      ],
+      "why": "날것 그대로의 날카로운 로컬 이커머스 상세페이지에서 느껴지는 B급 바이럴의 묘한 쾌감.",
+      "depth": 0.5,
+      "image": "https://humtto.vn/wp-content/uploads/2026/05/giay-humtto-370374-3.png",
+      "pub_date": "2026-09-21T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "프레임 미장센",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 리브랜딩",
+      "is_hot": true
+    },
+    {
+      "word": "초승달 모티프",
+      "is_hot": false
+    },
+    {
+      "word": "디스토피아 컨셉아트",
+      "is_hot": true
+    },
+    {
+      "word": "시각적 텍스처",
+      "is_hot": false
+    },
+    {
+      "word": "하이패션 캠프",
+      "is_hot": true
+    }
+  ]
+}
