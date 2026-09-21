@@ -410,7 +410,7 @@ async function setSpecialView(view) {
   renderDomainTabs();
   
   // If we haven't loaded all history, fetch them
-  if (view !== 'archive') {
+  if (view !== 'archive' && view !== 'agentlog') {
       let promises = [];
       for(let i=0; i<MANIFEST_DATES.length; i++) {
         if(!DATA.history[i]) {
@@ -463,10 +463,11 @@ function renderDateTabs() {
   html += '<button class="'+popCls+'" onclick="setSpecialView(\'popcorn\')" style="color:#ff0055; font-weight:700;">🍿 POPCORN</button>';
 
   var trendCls = (specialView === 'trend') ? 'dtab on' : 'dtab';
-  html += '<button class="'+trendCls+'" onclick="setSpecialView(\'trend\')" style="color:#1da1f2; font-weight:700;">📈 WEEKLY TREND</button>';
-
-  var archCls = (specialView === 'archive') ? 'dtab on' : 'dtab';
+  html += '<button class="'+trendCls+'" onclick="setSpecialView(\'trend\')" style="color:#1da1f2; font-weight:700;">📈 WEEKLY TREND</button>';  var archCls = (specialView === 'archive') ? 'dtab on' : 'dtab';
   html += '<button class="'+archCls+'" onclick="setSpecialView(\'archive\')" style="color:#ff3366; font-weight:700; margin-right:20px;">♥ MY ARCHIVE</button>';
+
+  var agentCls = (specialView === 'agentlog') ? 'dtab on' : 'dtab';
+  html += '<button class="'+agentCls+'" onclick="setSpecialView(\'agentlog\')" style="color:#8a5cf6; font-weight:700; margin-right:20px;">🧠 AGENT LOG</button>';
 
   for (var i=0; i<MANIFEST_DATES.length; i++) {
     var dateStr = MANIFEST_DATES[i];
@@ -766,9 +767,12 @@ function renderMain() {
   if (specialView === 'trend') {
     renderWeeklyTrend();
     return;
-  }
-  if (specialView === 'archive') {
+  }  if (specialView === 'archive') {
     renderArchive();
+    return;
+  }
+  if (specialView === 'agentlog') {
+    renderAgentLog();
     return;
   }
   var entry = DATA.history[di];
@@ -1031,6 +1035,67 @@ function renderArchive() {
   h += '</div>';
   document.getElementById('main').innerHTML = h;
 }
+async function renderAgentLog() {
+  document.getElementById('main').innerHTML = "<div style='padding:40px; text-align:center; color:var(--sub);'>큐레이터의 기억을 불러오는 중...</div>";
+  var mem = null;
+  try {
+    var res = await fetch("data/curator_memory.json?" + new Date().getTime(), { cache: 'no-store' });
+    mem = await res.json();
+  } catch(e) {
+    document.getElementById('main').innerHTML = "<div style='padding:40px; text-align:center; color:var(--sub);'>큐레이터 기억을 불러올 수 없습니다.</div>";
+    return;
+  }
+
+  var h = '<div style="max-width:800px; margin: 40px auto; padding: 0 40px;">';
+  h += '<h2 style="font-size:2rem; margin-bottom:10px; color:var(--acc); font-family:\'Playfair Display\', serif; text-align:center;">🧠 AGENT LOG</h2>';
+  h += '<p style="color:var(--sub); margin-bottom:40px; text-align:center;">이 사이트는 매일 스스로를 점검하고 학습하는 큐레이터 에이전트가 관리합니다. 여기 보이는 내용은 그 에이전트가 실제로 남긴 기록입니다.</p>';
+
+  if (mem.taste_profile) {
+    h += '<div class="editorial-note" style="margin-bottom:25px;">';
+    h += '<div class="ed-title">TASTE PROFILE</div>';
+    if (mem.taste_profile.editorial_dna) h += '<div class="ed-text" style="margin-bottom:10px;">' + esc(mem.taste_profile.editorial_dna) + '</div>';
+    if (mem.taste_profile.known_bias_to_watch) h += '<div class="ed-text" style="margin-bottom:10px; opacity:0.85;">⚠ ' + esc(mem.taste_profile.known_bias_to_watch) + '</div>';
+    if (mem.taste_profile.source_language_goal) h += '<div class="ed-text" style="opacity:0.85;">🌐 ' + esc(mem.taste_profile.source_language_goal) + '</div>';
+    h += '</div>';
+  }
+
+  if (mem.pipeline_health_log && mem.pipeline_health_log.length) {
+    h += '<div class="editorial-note" style="margin-bottom:25px;">';
+    h += '<div class="ed-title">RECENT ACTIVITY LOG</div>';
+    var logs = mem.pipeline_health_log.slice().reverse().slice(0, 6);
+    logs.forEach(function(entry) {
+      h += '<div style="padding:12px 0; border-bottom:1px solid var(--border);">';
+      h += '<div style="font-weight:700; color:var(--acc); font-size:0.85rem; margin-bottom:4px;">' + esc(entry.date||'') + ' · ' + esc(entry.status||'') + '</div>';
+      h += '<div class="ed-text" style="font-size:0.95rem;">' + esc(entry.notes||'') + '</div>';
+      h += '</div>';
+    });
+    h += '</div>';
+  }
+
+  if (mem.editorial_decisions && mem.editorial_decisions.length) {
+    h += '<div class="editorial-note" style="margin-bottom:25px;">';
+    h += '<div class="ed-title">EDITORIAL DECISIONS</div>';
+    h += '<ul style="margin:0; padding-left:20px;">';
+    mem.editorial_decisions.forEach(function(d) {
+      h += '<li class="ed-text" style="margin-bottom:8px;">' + esc(d) + '</li>';
+    });
+    h += '</ul></div>';
+  }
+
+  if (mem.open_questions_for_next_run && mem.open_questions_for_next_run.length) {
+    h += '<div class="editorial-note" style="margin-bottom:25px;">';
+    h += '<div class="ed-title">OPEN QUESTIONS FOR NEXT RUN</div>';
+    h += '<ul style="margin:0; padding-left:20px;">';
+    mem.open_questions_for_next_run.forEach(function(q) {
+      h += '<li class="ed-text" style="margin-bottom:8px; opacity:0.85;">' + esc(q) + '</li>';
+    });
+    h += '</ul></div>';
+  }
+
+  h += '</div>';
+  document.getElementById('main').innerHTML = h;
+}
+
 function renderWeeklyTrend() {
   var recentHistory = DATA.history.slice(0, 7);
   var allKeywords = [];
