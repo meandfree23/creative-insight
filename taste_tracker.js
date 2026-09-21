@@ -1,11 +1,11 @@
 // taste_tracker.js
 // 조용한 취향 추적기 (Silent Taste Tracker)
-// 사용자가 북마크한 기사(savedArchives)의 빈도를 분석하여 Taste DNA를 생성합니다.
+// 사용자가 북마크한 기사(creative_archive)의 빈도를 분석하여 Taste DNA를 생성합니다.
 
 (function() {
     function analyzeTaste() {
         try {
-            const saved = JSON.parse(localStorage.getItem('savedArchives') || '[]');
+            const saved = JSON.parse(localStorage.getItem('creative_archive') || '[]');
             if (saved.length === 0) return null;
             
             if (!window.allArticlesMap) return null;
@@ -73,7 +73,7 @@ window.openSyncModal = function() {
 };
 
 window.exportSyncCode = function() {
-    const saved = localStorage.getItem('savedArchives') || '[]';
+    const saved = localStorage.getItem('creative_archive') || '[]';
     const code = btoa(saved); // 간단한 Base64 인코딩
     document.getElementById('syncCodeInput').value = code;
     document.getElementById('syncMsg').innerText = "코드가 발급되었습니다. 복사해서 다른 기기에 붙여넣으세요.";
@@ -89,7 +89,7 @@ window.importSyncCode = function() {
         const decoded = atob(code);
         const arr = JSON.parse(decoded);
         if (Array.isArray(arr)) {
-            localStorage.setItem('savedArchives', JSON.stringify(arr));
+            localStorage.setItem('creative_archive', JSON.stringify(arr));
             document.getElementById('syncMsg').innerText = "동기화 완료! 페이지를 새로고침합니다.";
             setTimeout(() => location.reload(), 1500);
         } else {
