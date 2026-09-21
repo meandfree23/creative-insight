@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-09-20T22:29:48.567425",
     "considered": 40,
-    "selected": 16
+    "selected": 17
   },
   "topPicks": [
     {
@@ -319,6 +319,31 @@
       "depth": 0.91,
       "image": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Gaultier1.jpg",
       "pub_date": "2026-09-21T08:00:00.000000"
+    },
+    {
+      "title": "대상 청정원 30주년 캠페인 완결편: 임윤아와 '우리가 원하던 가득찬 오늘'",
+      "content": "대상 청정원이 1996년 론칭 30주년을 맞아 4월(건강), 7월(여유)에 이어 9월 '정성'을 주제로 한 3부작 브랜드 필름 시리즈를 완결했다. 배우 임윤아가 본된장, 호밍스 등 실제 제품으로 요리해 가까운 사람과 나누는 일상을 담았다.",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447096",
+      "source": "비즈니스포스트",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "대상 청정원 Brand Campaign팀",
+      "creator_insight": "단발성 광고가 아니라 한 해를 건강-여유-정성이라는 세 개의 정서적 챕터로 나눠 설계한 시리즈 브랜드 필름. 매 편마다 실제 제품(본된장, 호밍스 초간편 볶음요리 등)을 서사 안에 자연스럽게 배치해, 30주년이라는 이벤트성 소재를 광고가 아닌 '한 해 동안 쌓이는 브랜드 다큐멘터리'로 전환한 구조가 핵심이다.",
+      "tags": [
+        "브랜드필름",
+        "시리즈캠페인",
+        "푸드마케팅"
+      ],
+      "execution_techniques": [
+        "#Serialized_Brand_Film",
+        "#Product_Integration"
+      ],
+      "why": "하나의 슬로건을 반복하는 대신 1년에 걸쳐 3부작으로 감정선을 이어가는 시리즈 캠페인 구조는, 단일 TVCF보다 브랜드 세계관을 축적하는 연출 전략으로 참고할 가치가 있다.",
+      "social_proof": "비즈니스포스트, 서울경제, 디찌tv, 매일경제, 푸드투데이, 뉴스웍스 등 6개 이상 매체가 2026-09-14 동시 보도로 사실 확인.",
+      "depth": 0.83,
+      "image": "https://www.businesspost.co.kr/news/photo/202609/20260914095119_237720.png",
+      "pub_date": "2026-09-21T08:00:00.000000",
+      "agent_curated": true
     }
   ],
   "popcorn": [
