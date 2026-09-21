@@ -122,21 +122,35 @@ module.exports = async function handler(req, res) {
       // fall through with default modelName
     }
 
-    const geminiRes = await fetch(
-      'https://generativelanguage.googleapis.com/v1beta/models/' + modelName + ':generateContent?key=' + apiKey,
-      {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          contents: [
-            { role: 'user', parts: [{ text: systemPrompt + '\n\n=== 사용자 질문 ===\n' + question }] }
-          ],
-          generationConfig: { temperature: 0.7, maxOutputTokens: 500 }
-        })
-      }
-    );
-    const geminiJson = await geminiRes.json();
-    if (!geminiRes.ok) {
+    async function callGemini() {
+      const r = await fetch(
+        'https://generativelanguage.googleapis.com/v1beta/models/' + modelName + ':generateContent?key=' + apiKey,
+        {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            contents: [
+              { role: 'user', parts: [{ text: systemPrompt + '\n\n=== 사용자 질문 ===\n' + question }] }
+            ],
+            generationConfig: {
+              temperature: 0.7,
+              maxOutputTokens: 1024,
+              thinkingConfig: { thinkingBudget: 0 }
+            }
+          })
+        }
+      );
+      const j = await r.json();
+      return { ok: r.ok, status: r.status, json: j };
+    }
+
+    let geminiResult = await callGemini();
+    if (!geminiResult.ok && geminiResult.status === 503) {
+      await new Promise((resolve) => setTimeout(resolve, 1200));
+      geminiResult = await callGemini();
+    }
+    const geminiJson = geminiResult.json;
+    if (!geminiResult.ok) {
       res.status(502).json({ error: 'Gemini API error', detail: geminiJson });
       return;
     }
