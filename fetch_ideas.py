@@ -394,10 +394,10 @@ def generate_daily_insight(date_str, articles_subset):
     CRITICAL PORTFOLIO WEIGHTING (USER REQUEST):
     - EXTREMELY HIGH PRIORITY: "Cinema & Narrative" (Video, Film, Motion, Directing, Camera work). You MUST maximize the selection of moving image content.
     - LOW PRIORITY: Traditional Architecture. Severely penalize pure architectural articles unless they have a phenomenal cinematic or video component.
-    
-    CRITICAL QUANTITATIVE RULE (HARD VOLUME):
-    - You MUST output EXACTLY 12 to 15 items in `topPicks`, and EXACTLY 2 to 3 items in `popcorn`.
-    - Do NOT drop articles just because they seem "average". It is your job as a Senior CD to extract a razor-sharp, profound creative angle even from an ordinary piece of news. Forcing the volume is mandatory.
+    CRITICAL QUALITY RULE (NO FORCED VOLUME):
+    - Select however many items in `topPicks` today's actual source material genuinely earns. This is typically 6 to 15, but can be fewer on a quiet day or more on an exceptional one. Do NOT pad the list with mediocre or generic picks just to hit a target count -- a quiet day with 6 razor-sharp picks beats 15 with filler forced in.
+    - Still push yourself as a Senior CD to find the real creative angle in ordinary-seeming news before discarding it -- "no angle found yet" is different from "genuinely not worth including". Only discard after making that real attempt.
+    - For `popcorn`, include 0 to 3 items -- only tools/links that are genuinely useful or fun today. An empty popcorn list is fine if nothing qualifies.
     
     THEMATIC TABS (CRITICAL RULE):
     Instead of generic domains like DESIGN or ART, you MUST classify each article into one of the following highly specific curational themes for the "domain" field:
