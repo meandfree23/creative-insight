@@ -42,68 +42,24 @@
       "date": "2026-09-21",
       "status": "agent_added",
       "notes": "기계적 파이프라인 05:17 KST 정상 생성 확인 (topPicks 13건, domain 분포 Cinema&Narrative 6/Marketing&Brand 4/Korean Code 2/Design&Space 1로 여전히 Cinema 편중). URL 13건 전부 200 정상. social_proof 필드에서 서로 무관한 두 기사가 제목 속 공통 단어(\"beyond\")만으로 교차매칭되는 오탐 발견(IDEAS.md에 코드 수정 제안 기록, 이번엔 손대지 않음). 대상 청정원 30주년 브랜드필름 완결편(임윤아 출연, 6개 이상 한국 매체 2026-09-14 동시 보도로 검증)을 Korean Code 카테고리에 agent_curated:true로 추가, session.selected 16→17."
+    },
+    {
+      "date": "2026-09-21",
+      "status": "agent_evolution",
+      "notes": "사용자 요청으로 이 사이트를 '에이전트화 발전 예시'로 삼아 3단계 개선을 실제로 배포함. (1) Taste DNA/localStorage 키 불일치 수정 완료(savedArchives→creative_archive) — 사용자가 소크라테스식 저장 반영에 남긴 취향 데이터가 이제 실제로 tasteDNA에 반영됨. (2) fetch_ideas.py의 강제 12-15개 topPicks 볼륨 규칙 제거, 품질 기반 가변 개수로 전환. (3) 새 AGENT LOG 탭 추가 — curator_memory.json의 taste_profile/파이프라인 로그/편집 결정/오픈 퀘스천을 방문자에게 실시간으로 노출. (4) Vercel 서버리스 함수(/api/ask.js) + Gemini 무료 API로 실제 대화형 'Ask the Curator' 위젯 배포 — curator_memory.json과 최근 5일 아카이브를 근거로만 답변, 라이브 검증 완료."
     }
   ],
   "editorial_decisions": [
     "Taste DNA/Cloud Sync localStorage 키 불일치(analyzeTaste가 savedArchives를 읽지만 저장은 creative_archive에 함)는 2026-09-18에 사용자가 명시적으로 보류함. 사용자가 먼저 요청하기 전에는 고치지 않는다.",
     "강제 12-15개 topPicks 볼륨 규칙도 2026-09-18에 사용자가 보류함.",
-    "cross-source trend detection과 소스 다양화(125→133)는 2026-09-18에 우선순위로 선택되어 이미 구현됨."
+    "cross-source trend detection과 소스 다양화(125→133)는 2026-09-18에 우선순위로 선택되어 이미 구현됨.",
+    "2026-09-21: Taste DNA 버그, 강제 볼륨 규칙은 사용자가 명시적으로 수정을 승인하여 반영 완료. 더 이상 '보류 항목' 아님."
   ],
   "open_questions_for_next_run": [
     "오늘 기계적 파이프라인이 생성한 콘텐츠 중 창작 기법(execution_techniques)이나 근거(why)가 템플릿처럼 반복되는 항목이 있는지 점검할 것.",
     "Korean Code 카테고리가 실제로 한국 관련 실질 콘텐츠로 채워지고 있는지, 아니면 이름만 다르고 서구 소스 번역인지 매일 확인할 것.",
     "social_proof 필드가 실제 cross-source 신호 없이 비어있는 항목이 대다수인데, 매일 최소 1-2건은 실제 신호를 찾아 채울 수 있는지 시도할 것.",
-    "기계적 파이프라인의 social_proof 교차매칭 로직이 제목 속 공통 단어만으로 오탐을 내는 사례를 2026-09-21에 발견함(IDEAS.md 기록). 다음 실행에서도 social_proof 필드가 실제로 두 매체의 같은 '사실'을 가리키는지, 아니면 단어 우연 일치인지 의심하고 검증할 것."
+    "기계적 파이프라인의 social_proof 교차매칭 로직이 제목 속 공통 단어만으로 오탐을 내는 사례를 2026-09-21에 발견함(IDEAS.md 기록). 다음 실행에서도 social_proof 필드가 실제로 두 매체의 같은 '사실'을 가리키는지, 아니면 단어 우연 일치인지 의심하고 검증할 것.",
+    "Ask the Curator 위젯의 Vercel 함수가 GEMINI_API_KEY 쿼터를 GitHub Actions 파이프라인과 공유하지 않고 별도 키를 쓰는지 주기적으로 확인할 것 (현재는 동일 프로젝트 키 공유 중)."
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
