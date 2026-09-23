@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-09-22T22:59:20.720830",
     "considered": 40,
-    "selected": 10
+    "selected": 11
   },
   "topPicks": [
     {
@@ -245,8 +245,33 @@
       "why": "인스타그램용 예쁜 컷에만 집착하는 한국 포토그래퍼들과 기획자들이 반드시 되짚어야 할 visual depth.",
       "social_proof": "",
       "depth": 0.85,
-      "image": "https://blogthumb.pstatic.net/MjAyNTAyMTJfNTEg/MDAxNzM5MzYwMDY3 erosion/DSC00004.jpg?type=s3",
+      "image": "https://blogthumb.pstatic.net/MjAyNTAyMTJfNTEg/MDAxNzM5MzYwMDY3ODY2.vUaTnBgRoubDCDb9DLuswkHsXB5Y0YWSPmjMc_UlM-Eg.8B2RANIpkFHF30FfWJIPPOlqlT8NtOjw3R1cGlgL63kg.JPEG/DSC00004.jpg?type=w2",
       "pub_date": "2026-09-23T08:00:00.000000"
+    },
+    {
+      "title": "현대차그룹 '나오 레스토랑 북', 세계 3대 디자인상 브랜딩 부문 금상 수상",
+      "content": "현대자동차그룹이 미국 산업디자인협회(IDSA) 주관 '2026 IDEA 디자인 어워드'에서 금상 2개를 포함해 총 16개 부문을 수상했다. 그중 HMGICS(현대차그룹 싱가포르 글로벌 혁신센터) 내 한식당 '나오(Na Oh)'의 브랜드 철학을 담은 아카이브북 '나오 레스토랑 북'이 브랜딩 부문 금상을 받았다. 미쉐린 3스타 셰프 코리 리와의 협업과 한국 장인들과의 연결 과정을 '농장에서 식탁까지(Seed-to-Table)' 철학으로 엮어낸 편집 구성이 심사위원단의 평가를 받았다.",
+      "url": "https://www.yna.co.kr/view/AKR20260903041100003",
+      "source": "연합뉴스",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "현대차그룹 HMGICS 브랜드팀",
+      "creator_insight": "완성차 브랜드가 자동차 조형이 아니라 '책'이라는 편집 매체로 브랜드 철학을 완성해 세계 3대 디자인상에서 금상을 받은 드문 사례다. 레스토랑의 요리 서사와 한국 장인의 공예 서사를 하나의 아카이브 출판물 안에 나란히 배치한 편집 디자인 전략이 핵심 평가 포인트였다.",
+      "tags": [
+        "산업디자인",
+        "브랜드북",
+        "IDEA어워드"
+      ],
+      "execution_techniques": [
+        "#BrandArchiveBookDesign",
+        "#HeritageStorytellingEditorial"
+      ],
+      "why": "자동차 회사의 디자인 경쟁력이 제품 조형을 넘어 인쇄 매체의 편집 디자인까지 확장되고 있음을 보여준다. 브랜드 아이덴티티를 캠페인 영상이 아니라 단행본 한 권으로 완성했다는 점에서 다른 국내 대기업 브랜딩 사례와 결이 다르다.",
+      "social_proof": "연합뉴스·한국경제·ZDNet코리아·머니투데이·오토뷰·코리아데일리 등 8개 이상 매체가 2026-09-03 동일 사실(금상 2·은상 1·동상 3·본상 10, 총 16개 부문 수상)을 보도",
+      "depth": 0.82,
+      "image": "https://img8.yna.co.kr/etc/inner/KR/2026/09/03/AKR20260903041100003_02_i_P4.jpg",
+      "pub_date": "2026-09-23T08:00:00.000000",
+      "agent_curated": true
     }
   ],
   "popcorn": [
