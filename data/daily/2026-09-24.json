@@ -1,0 +1,243 @@
+{
+  "date": "2026-09-24",
+  "focusQ": "트렌드를 쫓는다는 핑계로 양산되는 무의미한 서사를 거부한다. 오직 날카로운 시각적 도발과 물성을 관통하는 레퍼런스만이 가치를 지닌다.",
+  "creator_message": "큐레이터의 메시지: 게으른 기획과 뻔한 키워드는 오늘부로 폐기한다. 시각적 밀도와 연출의 본질에 집중하지 못한 콘텐츠는 쓸모없다.",
+  "session": {
+    "timestamp": "2026-09-23T22:59:51.442239",
+    "selected": 8
+  },
+  "topPicks": [
+    {
+      "title": "펜넬: 긴장감 넘치는 식탁 위 부자의 심리적 대치",
+      "content": "팽팽한 긴장감이 감도는 점심 식사 자리에서 아버지와 아들이 벌이는 미묘한 심리적 갈등을 포착한 단편 영화다. 대사만큼이나 공간과 인물의 구도가 압도적인 몰입감을 선사한다.",
+      "url": "https://www.shortoftheweek.com/2026/09/21/fennel/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "단편영화",
+      "creator_name": "Short of the Week Director",
+      "creator_insight": "정적인 공간 속에서 인물의 미세한 시선 이동만으로 극적 긴장을 극대화하는 연출력이 탁월하다. 불필요한 설명을 배제한 태도가 고마울 지경이다.",
+      "tags": [
+        "단편영화",
+        "심리전",
+        "미장센"
+      ],
+      "execution_techniques": [
+        "Tense Framing",
+        "Subdued Color Palette"
+      ],
+      "why": "공간을 활용한 인물 간의 권력 관계 시각화가 무엇인지 보여주는 정석적인 레퍼런스다. 영상 매체 크리에이터라면 반드시 분석해야 할 앵글의 교과서.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/09/Fennel-short-film-01.jpg",
+      "pub_date": "2026-09-24T08:00:00.000000"
+    },
+    {
+      "title": "맥도날드 인도네시아의 로컬 푸드 재해석 캠페인",
+      "content": "글로벌 패스트푸드 브랜드가 지역 고유의 맛과 문화적 코드를 어떻게 세련되게 이식하는지 보여주는 모범 사례다. 단순한 현지화를 넘어 브랜드의 시각적 언어로 재구축했다.",
+      "url": "https://www.brandinginasia.com/mcdonalds-indonesia-ini-rasa-kita-campaign/",
+      "source": "Branding in Asia",
+      "domain": "Marketing & Brand",
+      "category": "브랜딩",
+      "creator_name": "McDonald's Indonesia Marketing Team",
+      "creator_insight": "로컬 감성을 소비하는 방식을 세련된 타이포그래피와 비주얼 스토리로 풀어내어 촌스러움을 완벽히 지워냈다.",
+      "tags": [
+        "브랜드캠페인",
+        "로컬라이징",
+        "비주얼전략"
+      ],
+      "execution_techniques": [
+        "Cultural Graphic Identity",
+        "Vibrant Product Styling"
+      ],
+      "why": "글로벌 스탠다드와 지역적 특수성의 경계를 허물고 대중의 시선을 사로잡는 마케팅 기획의 실전적 교본이다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/09/McDonalds-Indonesia-.webp",
+      "pub_date": "2026-09-24T08:00:00.000000"
+    },
+    {
+      "title": "나무 몰드와 체인소로 빚어낸 유리 조형의 물성",
+      "content": "나무 거푸집을 직접 조각해 유리를 불어내는 방식으로 자연의 불규칙한 아름다움을 물리적으로 구현해낸 작품이다. 인공적인 정밀함 대신 자연의 변주를 고스란히 담아냈다.",
+      "url": "https://artaurea.com/2026/von-natur-aus/",
+      "source": "Art Aurea",
+      "domain": "Design & Space",
+      "category": "공예/디자인",
+      "creator_name": "Andreas Rier",
+      "creator_insight": "기계적 매끈함을 거부하고 거친 도구 자국과 자연의 유기적인 형태를 그대로 수용하는 장인 정신이 돋보인다.",
+      "tags": [
+        "유리공예",
+        "소재연구",
+        "물성"
+      ],
+      "execution_techniques": [
+        "Organic Textures",
+        "Raw Material Contrast"
+      ],
+      "why": "디지털 가상성이 판치는 시대에 아날로그적 물성과 수공예적 결함이 주는 시각적 쾌감이 무엇인지 증명한다.",
+      "social_proof": "2개 매체 동시 포착: nature",
+      "depth": 0.92,
+      "image": "https://artaurea.com/wp-content/uploads/2026/05/Eva-Maisch_Von-Natur-aus_Hofstall_Glasobjekt-von-Andreas-Rier.jpg",
+      "pub_date": "2026-09-24T08:00:00.000000"
+    },
+    {
+      "title": "그림 카탈로그의 재정의: 수에르테 스튜디오의 제 베로",
+      "content": "무라노 유리 공예의 역사적 깊이를 계산된 여백과 대담한 그리드 시스템으로 엮어낸 에디토리얼 디자인 프로젝트. 철저한 타이포그래피 통제가 돋보인다.",
+      "url": "https://abduzeedo.com/editorial-design-xe-vero-catalogue-suerte-studio/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "에디토리얼",
+      "creator_name": "Suerte Studio",
+      "creator_insight": "역사적 공예품을 다루면서도 고루한 방식을 거부하고 극단적인 미니멀리즘과 공간감을 부여했다.",
+      "tags": [
+        "에디토리얼디자인",
+        "그리드",
+        "타이포그래피"
+      ],
+      "execution_techniques": [
+        "Calculated White Space",
+        "Rigid Editorial Grid"
+      ],
+      "why": "지면 위에서 정보와 물성이 어떻게 충돌하고 조화를 이루어야 하는지 보여주는 편집 디자인의 마스터클래스.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_un-catalogo-contemporaneo-e-materico-costruito-su-suerte.jpg",
+      "pub_date": "2026-09-24T08:00:00.000000"
+    },
+    {
+      "title": "그림자 속의 이방인: 베를린 그로피우스 바우의 크로이츠베르크전",
+      "content": "베를린의 상징적인 지역을 배경으로 이주 노동자의 역사와 문화적 궤적을 미술이라는 언어로 날카롭게 파헤친 대규모 그룹 전시 리뷰.",
+      "url": "https://www.berlinartlink.com/2026/09/18/kreuzberg-group-exhibition-gropius-bau-review/",
+      "source": "Berlin Art Link",
+      "domain": "Korean Code",
+      "category": "전시리뷰",
+      "creator_name": "Mia Butter",
+      "creator_insight": "도시의 사회적 단면을 예술적 서사로 치환하는 큐레이토리얼 역량이 얼마나 강력한지 보여준다.",
+      "tags": [
+        "현대미술",
+        "도시사회학",
+        "전시"
+      ],
+      "execution_techniques": [
+        "Archival Documentation",
+        "Site-Specific Curation"
+      ],
+      "why": "동시대 크리에이터가 사회적 맥락과 서사를 공간과 비주얼로 어떻게 번역해야 하는지에 대한 훌륭한 레퍼런스.",
+      "social_proof": "2개 매체 동시 포착: artist",
+      "depth": 0.87,
+      "image": "https://placehold.co/800x600/3f3f46/FFFFFF?text=Berlin%20Art%20Link%0A%28ART%29&font=playfair-display",
+      "pub_date": "2026-09-24T08:00:00.000000"
+    },
+    {
+      "title": "놀의 클래식을 비틀다: 샘 처마예프의 스토리지 컬렉션",
+      "content": "가구 거장 플로렌스 놀의 클래식 디자인을 모던한 비례와 과감한 컬러웨이로 재해석한 건축가 겸 디자이너의 신작 가구 라인업.",
+      "url": "https://www.wallpaper.com/design-interiors/knoll-sam-chermayeff-storage-collection-launch",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "제품디자인",
+      "creator_name": "Sam Chermayeff",
+      "creator_insight": "오랜 헤리티지를 무작정 답습하지 않고 건축적 감각을 더해 새로운 타이폴로지로 변주시켰다.",
+      "tags": [
+        "가구디자인",
+        "컨템포러리",
+        "공간디자인"
+      ],
+      "execution_techniques": [
+        "Proportional Shift",
+        "Modern Color Block"
+      ],
+      "why": "클래식과 컨템포러리의 경계를 허물고 새로운 기능적 실루엣을 도출하는 방식에 대한 명쾌한 해답.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cdn.mos.cms.futurecdn.net/naiqQphkumH6u5mxW2qMX6-1920-80.png",
+      "pub_date": "2026-09-24T08:00:00.000000"
+    },
+    {
+      "title": "어둡지만 온화하게: 미국 주거 공간 페인트 컬러의 반란",
+      "content": "수백만 개의 페인트 샘플 데이터를 분석해 도출한 주거 공간 컬러 트렌드. 어둡고 무거운 톤이 대세이지만, 그 속에서 극한의 온화함을 찾는 소비자들의 심리를 읽어낸다.",
+      "url": "https://design-milk.com/american-paint-color-trends-samplize-2026/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "인테리어",
+      "creator_name": "Samplize Analysis Team",
+      "creator_insight": "데이터를 기반으로 대중의 미적 취향 변화를 포착해 감정적 안정감을 주는 컬러 조합을 역추적했다.",
+      "tags": [
+        "컬러트렌드",
+        "인테리어",
+        "공간감성"
+      ],
+      "execution_techniques": [
+        "Warm Dark Palette",
+        "Textured Wall Finish"
+      ],
+      "why": "공간의 분위기를 결정짓는 가장 원초적인 요소인 컬러와 물성의 미세한 변화를 읽어내는 시각적 단초를 제공한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/09/IMG_8752-e1789755767497-1500x1000.jpg",
+      "pub_date": "2026-09-24T08:00:00.000000"
+    },
+    {
+      "title": "그림의 탄생을 기록하다: 제이미 제임스 메디나의 개러지 아카이브",
+      "content": "영국 그라임 음악의 태동기인 2003년부터 2006년까지의 열기를 날것 그대로 담아낸 포토북. 거리의 에너지가 시각적 아카이브로 박제되었다.",
+      "url": "https://wepresent.wetransfer.com/stories/hate-is-a-strong-word-jamie-james-medina",
+      "source": "WePresent",
+      "domain": "Cinema & Narrative",
+      "category": "포토그래피",
+      "creator_name": "Jamie-Jamie Medina",
+      "creator_insight": "하이엔드 패션의 정제된 미학과는 완전히 대척점에 있는 로우파이 서브컬처의 생생한 현장을 가감 없이 기록했다.",
+      "tags": [
+        "서브컬처",
+        "다큐멘터리",
+        "포토북"
+      ],
+      "execution_techniques": [
+        "Raw Flash Photography",
+        "Documentary Aesthetic"
+      ],
+      "why": "시대의 문화적 에너지가 비주얼 매체를 통해 어떻게 영원한 레퍼런스로 남는지 보여주는 완벽한 아카이빙 사례.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/WvjQODOrsDgsMeQvQlaB3/085cd6bb220caa38305de781a4b2bbaa/JJM_HIASW_46.jpg",
+      "pub_date": "2026-09-24T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "마누큐리스트의 10주년 한정판 네일 폴리시",
+      "content": "브랜드 런칭 10주년을 기념해 밀키 말차와 그랜드 캐니언의 색감을 담아낸 재치 있는 컬러 드롭.",
+      "url": "http://www.trendhunter.com/trends/anniversary-nail-polish-drops",
+      "source": "Trend Hunter",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "뷰티",
+        "컬러웨어"
+      ],
+      "why": "소소한 기념일을 감각적인 굿즈 컬렉션으로 탈바꿈시키는 브랜드의 위트 있는 기획 감각.",
+      "depth": 0.5,
+      "image": "http://cdn.trendhunterstatic.com/phpthumbnails/635/635447/635447_1_468.jpeg",
+      "pub_date": "2026-09-24T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "정제된 로우파이 미학",
+      "is_hot": true
+    },
+    {
+      "word": "물성의 귀환과 수공예적 변주",
+      "is_hot": true
+    },
+    {
+      "word": "공간적 서사의 시각화",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처 아카이빙의 하이엔드화",
+      "is_hot": false
+    },
+    {
+      "word": "데이터 기반의 감성적 톤조절",
+      "is_hot": true
+    }
+  ]
+}
