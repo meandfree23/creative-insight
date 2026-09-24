@@ -53,6 +53,11 @@
       "date": "2026-09-23",
       "status": "agent_added",
       "notes": "기계적 파이프라인 05:17 KST 정상 생성 확인 (topPicks 10건, domain 분포 Cinema&Narrative 5/Marketing&Brand 3/Design&Space 1/Korean Code 1로 Cinema 편중 지속). 새 실패 유형 발견: Korean Code 항목의 네이버 블로그 썸네일 image URL이 base64 파라미터 중간에 ' erosion' 문자열이 삽입되어 404가 나는 손상 발견 — 원문 페이지(PostView.naver)에서 og:image를 재조회해 올바른 URL로 교체 완료(명백한 버그 수정 예외 적용). social_proof 교차매칭 오탐이 이번엔 완전히 무관한 두 기사(WPP/네슬레 중국 콘텐츠 운영 vs 리아 수드 일러스트 프로젝트)에 동일하게 \"2개 매체 동시 포착: featuredvisual\"로 붙어 재발함 — 2026-09-21 'beyond' 사례와 같은 계열의 버그로, 코드 수정 없이는 반복될 것으로 판단됨. 실제 리서치: 현대차그룹 '2026 IDEA 디자인 어워드' 16개 부문 수상(HMGICS '나오 레스토랑 북' 브랜딩 부문 금상)을 연합뉴스 등 8개 이상 한국 매체 2026-09-03 동시 보도로 검증해 Design & Space 카테고리에 agent_curated:true로 추가, session.selected 10→11."
+    },
+    {
+      "date": "2026-09-24",
+      "status": "agent_added",
+      "notes": "기계적 파이프라인 05:17 KST 정상 생성 확인 (topPicks 8건, session.selected 8). 자가진단에서 두 가지 문제 발견: (1) 깨진 링크 — 맥도날드 인도네시아 항목의 URL이 404를 반환(원문 슬러그가 'ini-rasa-kita-campaign'에서 'celebrates-regional-flavors-with-ini-rasa-kita-campaign'로 변경된 것이 원인)해 원문 검색으로 올바른 URL을 찾아 교체함(명백한 버그 수정 예외 적용). (2) domain 오분류 — 'Korean Code'로 분류된 유일한 항목이 실제로는 베를린 그로피우스 바우 전시 리뷰(Berlin Art Link)로 한국과 전혀 무관한 콘텐츠였다. 즉 오늘 기계적 파이프라인 산출물에는 진짜 한국 관련 콘텐츠가 0건이었음 — Korean Code 카테고리가 이름만 다르고 실제로는 무작위 서구 소스로 채워질 수 있다는 구조적 위험을 처음으로 명확히 확인한 사례. social_proof 교차매칭 오탐이 이번엔 'nature', 'artist' 두 흔한 단어에서 각각 발생(2026-09-21 'beyond', 2026-09-23 'featuredvisual'에 이은 3번째 관찰)해 구조적 버그임이 더 굳어짐. 실제 리서치: 한진그룹 창립 80주년 New CI 캠페인 영상이 '2026 뉴욕페스티벌' 광고 필름 부문 파이널리스트(한국 출품작 중 유일 수상)로 선정된 사실을 대한항공 뉴스룸(공식) 포함 8개 이상 한국 매체 2026-07-08 동시 보도로 검증해 Korean Code 카테고리에 agent_curated:true로 추가, session.selected 8→9. 오늘 진짜 한국 관련 콘텐츠를 채운 것은 이 agent_curated 항목이 유일했다."
     }
   ],
   "editorial_decisions": [
@@ -67,5 +72,6 @@
     "social_proof 필드가 실제 cross-source 신호 없이 비어있는 항목이 대다수인데, 매일 최소 1-2건은 실제 신호를 찾아 채울 수 있는지 시도할 것.",
     "기계적 파이프라인의 social_proof 교차매칭 로직이 제목 속 공통 단어만으로 오탐을 내는 사례를 2026-09-21에 발견함(IDEAS.md 기록). 다음 실행에서도 social_proof 필드가 실제로 두 매체의 같은 '사실'을 가리키는지, 아니면 단어 우연 일치인지 의심하고 검증할 것.",
     "Ask the Curator 위젯의 Vercel 함수가 GEMINI_API_KEY 쿼터를 GitHub Actions 파이프라인과 공유하지 않고 별도 키를 쓰는지 주기적으로 확인할 것 (현재는 동일 프로젝트 키 공유 중).",
-    "social_proof 교차매칭 오탐이 2026-09-21('beyond')과 2026-09-23('featuredvisual') 두 차례에 걸쳐 서로 다른 무관한 기사 쌍에서 반복 확인됨 — 일회성이 아니라 fetch_ideas.py의 compute_cross_source_signals()에 있는 구조적 버그로 보임. 사용자가 코드 수정(최소 단어 길이 제한 또는 불용어 제외)을 승인하면 다음 세션에서 제안할 것."
+    "social_proof 교차매칭 오탐이 2026-09-21('beyond')과 2026-09-23('featuredvisual') 두 차례에 걸쳐 서로 다른 무관한 기사 쌍에서 반복 확인됨 — 일회성이 아니라 fetch_ideas.py의 compute_cross_source_signals()에 있는 구조적 버그로 보임. 사용자가 코드 수정(최소 단어 길이 제한 또는 불용어 제외)을 승인하면 다음 세션에서 제안할 것.",
+    "Korean Code 도메인 라벨링이 실제 콘텐츠 소재와 무관하게 붙는 사례를 2026-09-24에 처음 발견함 (베를린 그로피우스 바우 전시 리뷰가 'Korean Code'로 분류되어, 그날 진짜 한국 관련 콘텐츠가 0건이었음). domain 값만 믿지 말고 매일 topPicks 각 항목의 실제 소재가 라벨과 일치하는지 재확인할 것. 반복되면 fetch_ideas.py의 Korean Code 분류 로직 자체가 편향/오류를 갖고 있다는 뜻이므로 사용자에게 보고할 것."
   ]}
