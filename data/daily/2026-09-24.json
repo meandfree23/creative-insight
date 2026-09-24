@@ -4,7 +4,7 @@
   "creator_message": "큐레이터의 메시지: 게으른 기획과 뻔한 키워드는 오늘부로 폐기한다. 시각적 밀도와 연출의 본질에 집중하지 못한 콘텐츠는 쓸모없다.",
   "session": {
     "timestamp": "2026-09-23T22:59:51.442239",
-    "selected": 8
+    "selected": 9
   },
   "topPicks": [
     {
@@ -34,7 +34,7 @@
     {
       "title": "맥도날드 인도네시아의 로컬 푸드 재해석 캠페인",
       "content": "글로벌 패스트푸드 브랜드가 지역 고유의 맛과 문화적 코드를 어떻게 세련되게 이식하는지 보여주는 모범 사례다. 단순한 현지화를 넘어 브랜드의 시각적 언어로 재구축했다.",
-      "url": "https://www.brandinginasia.com/mcdonalds-indonesia-ini-rasa-kita-campaign/",
+      "url": "https://www.brandinginasia.com/mcdonalds-indonesia-celebrates-regional-flavors-with-ini-rasa-kita-campaign/",
       "source": "Branding in Asia",
       "domain": "Marketing & Brand",
       "category": "브랜딩",
@@ -198,6 +198,31 @@
       "depth": 0.91,
       "image": "https://images.ctfassets.net/adaoj5ok2j3t/WvjQODOrsDgsMeQvQlaB3/085cd6bb220caa38305de781a4b2bbaa/JJM_HIASW_46.jpg",
       "pub_date": "2026-09-24T08:00:00.000000"
+    },
+    {
+      "title": "한진그룹 80주년 CI 캠페인 영상, 2026 뉴욕페스티벌 필름 부문 파이널리스트 수상",
+      "content": "한진그룹이 창립 80주년을 맞아 공개한 New CI 캠페인 영상이 칸 국제광고제, 클리오 어워즈와 함께 세계 3대 광고제로 꼽히는 '2026 뉴욕페스티벌' 광고 필름 부문 파이널리스트에 선정됐다. 1945년 한진상사에서 출발한 구슬 하나가 항공기, 트럭, 선박, 호텔, 대학 등 그룹의 사업 영역을 상징하는 오브제들을 끊임없이 통과하며 80년의 역사를 시각화한 원컨티뉴어스 모션 구조가 핵심이다.",
+      "url": "https://news.koreanair.com/%ED%95%9C%EC%A7%84%EA%B7%B8%EB%A3%B9-%ED%95%9C%EC%A7%84%EA%B7%B8%EB%A3%B9-80%EC%A3%BC%EB%85%84-new-ci-%EC%BA%A0%ED%8E%98%EC%9D%B8-%EC%98%81%EC%83%81-2026-%EB%89%B4%EC%9A%95%ED%8E%98%EC%8A%A4/",
+      "source": "대한항공 뉴스룸(한진그룹)",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "한진그룹",
+      "creator_insight": "구슬이라는 단일 오브제를 편집 컷 없이 계속 이동시켜 물류기업 특유의 '연결'과 '이동' 이미지를 시각 문법으로 치환한 점이 영리하다. 여기에 사내에서만 쓰이던 그룹 사가 멜로디를 사운드 브랜딩으로 끌어와 무형의 기업 역사를 청각적으로도 각인시켰다.",
+      "tags": [
+        "CI리브랜딩",
+        "브랜드필름",
+        "국제광고제"
+      ],
+      "execution_techniques": [
+        "단일 오브제 원컨티뉴어스 트래킹",
+        "사가 멜로디 사운드 브랜딩"
+      ],
+      "why": "제품이 아니라 노선망과 신뢰처럼 눈에 보이지 않는 물류기업의 경쟁력을 하나의 지속적인 카메라 움직임으로 압축한 사례다. B2B 성격이 강해 브랜드 스토리텔링이 상대적으로 약한 항공·물류 업종에서 국제 광고제 필름 부문 수상까지 이어졌다는 점이 실무적으로 참고할 가치가 크다.",
+      "social_proof": "대한항공 뉴스룸(한진그룹 공식), 위키트리, 머니투데이, 네이트뉴스, 캠페인인사이트, 코리아타임즈, 라디오K1230 등 8개 이상 매체가 2026-07-08 동일 사실(뉴욕페스티벌 광고 필름 부문 파이널리스트, 한국 출품작 중 유일 수상)을 보도",
+      "depth": 0.85,
+      "image": "https://kr.img.news.koreanair.com/wp-content/uploads/2026/07/%ED%95%9C%EC%A7%84%EA%B7%B8%EB%A3%B9-%EC%BA%A0%ED%8E%98%EC%9D%B8-%EC%98%81%EC%83%81-%EB%89%B4%EC%9A%95%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%EA%B4%91%EA%B3%A0%EC%A0%9C-%EC%88%98%EC%83%81.jpg",
+      "pub_date": "2026-09-24T08:00:00.000000",
+      "agent_curated": true
     }
   ],
   "popcorn": [
