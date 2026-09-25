@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-09-24T23:15:14.506918",
     "considered": 40,
-    "selected": 11
+    "selected": 12
   },
   "topPicks": [
     {
@@ -271,6 +271,31 @@
       "depth": 0.9,
       "image": "https://blogthumb.pstatic.net/MjAyNjA2MjdfMzUg/MDAxNzgyNTYyNjk5MDc5.345YZrw9lXIbOspsXHd4c8FuZYwCyWXxHzmpQn3L6sMg.v0ll0Ibl-8UBIbZnrZmomkiLLHO_CK4QgBsqgpuM0L0g.JPEG/900_20260627_141646.jpg?type=s3",
       "pub_date": "2026-09-25T08:00:00.000000"
+    },
+    {
+      "title": "밀라노에서 검증받은 한국 소반, DDP 소장품 되어 서울로 귀환",
+      "content": "서울디자인재단이 지난 4월 밀라노 디자인위크 ADI 디자인뮤지엄에서 선보인 'SEOUL LIFE 2026: Heritage Reimagined, Soban' 전시가 9월 14일부터 10월 8일까지 DDP 둘레길갤러리에서 국내 관객을 만난다. 국내 13팀, 해외 4팀 등 디자이너 17팀이 조선시대 소반을 3D 프린팅 등 디지털 제작 기술과 옻칠, 나전 같은 전통 공예 기법으로 재해석했다. 밀라노 전시에는 2만346명이 방문해 호평받았고, 전시작 17점은 모두 DDP의 정식 소장품으로 귀속돼 시민이 상시 관람할 수 있는 공공 디자인 자산이 됐다.",
+      "url": "https://seouldesign.or.kr/?menuno=562&act=view&cateno=&boardno=1068&siteno=1&cates=&key=bbstitle&etc3=Exhibition/Event&pageIndex=1&page=1&bbspasswd=&bbsno=175",
+      "source": "서울디자인재단 (Seoul Design Foundation)",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "서울디자인재단 · 디자이너 17팀",
+      "creator_insight": "'독상(獨床)'이라는 한국 고유의 1인용 상차림 문화를, 슬기와민은 1인가구 비중 통계를 자개 문양으로 새겨 넣는 방식으로 동시대 데이터로 번역했다. 3D 프린터로 뽑아낸 다리 구조 위에 장인이 옻칠과 나전을 입히는 신구 기법의 물리적 접합이 이 전시 전체의 편집 원리를 요약한다.",
+      "tags": [
+        "전통공예",
+        "헤리티지리디자인",
+        "1인가구"
+      ],
+      "execution_techniques": [
+        "#3D프린팅_전통옻칠나전_하이브리드",
+        "#독상서사_동선설계"
+      ],
+      "why": "밀라노의 인증을 거친 뒤에야 고향에서 소장품이 되는 이 익숙한 순서는 K-디자인이 여전히 해외 검증을 통과의례로 요구받는 현실을 그대로 보여줍니다. 그럼에도 소반이라는 유물을 인구구조 데이터의 그릇으로 재발명한 시도는, 전통을 박제된 장식이 아니라 살아있는 편집 소재로 다루는 방법론을 제시합니다.",
+      "social_proof": "서울디자인재단 공식, DDP 공식 사이트, 환경일보(hkbs.co.kr) 등 3개 이상 매체가 밀라노 ADI 디자인뮤지엄 전시(2만346명 방문) 종료 후 DDP 소장품으로 귀속돼 9월 14일~10월 8일 둘레길갤러리에서 전시된다는 동일 사실을 확인",
+      "depth": 0.85,
+      "image": "https://cdn.hkbs.co.kr/news/thumbnail/202609/833851_563915_5838_v150.jpg",
+      "pub_date": "2026-09-25T08:00:00.000000",
+      "agent_curated": true
     }
   ],
   "popcorn": [
