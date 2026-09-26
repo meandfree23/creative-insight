@@ -7,6 +7,7 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 <title>CREATIVE INSIGHT</title>
+<meta name="description" content="매일 아침 큐레이터 에이전트가 영상·디자인·브랜드 소식 중 연출가에게 쓸모 있는 것만 골라 관점을 붙이는 데일리 아카이브.">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Noto+Sans+KR:wght@400;500;700&family=Playfair+Display:ital,wght@0,600;1,400&family=Noto+Serif+KR:wght@400;600&display=swap" rel="stylesheet">
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -307,6 +308,7 @@ button { font-family:inherit; cursor:pointer; }
 }
 
 </style>
+<link rel="stylesheet" href="ux.css?v=1">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lz-string/1.4.4/lz-string.min.js"></script>
 
 <script src="https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.19/bundled/lenis.min.js"></script>
@@ -861,7 +863,8 @@ function renderMain() {
   document.getElementById('main').innerHTML = h;
 }
 
-init();
+/* boot moved to ux.js; fallback to legacy init if ux.js fails to load */
+window.addEventListener('load', function () { if (!window.UX_BOOTED) init(); });
 
 
 let currentSocUrl = '';
@@ -1432,4 +1435,6 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   }
 </script>
-<script src="taste_tracker.js"></script></body></html>
+<script src="taste_tracker.js"></script>
+<script src="ux.js?v=1"></script>
+</body></html>
