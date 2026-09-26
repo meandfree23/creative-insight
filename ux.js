@@ -60,7 +60,7 @@ window.UX_BOOTED = true;
   function notes() { return LS.get('creative_insights_notes', {}); }
   function isSaved(url) { return savedUrls.indexOf(url) !== -1; }
   function heartSVG(on) {
-    return '<svg width="16" height="16" viewBox="0 0 24 24" fill="' + (on ? '#ff3366' : 'transparent') + '" stroke="' + (on ? '#ff3366' : '#ccc') + '" stroke-width="2"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>';
+    return '<svg width="14" height="14" viewBox="0 0 24 24" fill="' + (on ? 'var(--ux-acc)' : 'none') + '" stroke="' + (on ? 'var(--ux-acc)' : 'currentColor') + '" stroke-width="1.6"><path d="M12 20.5l-1.3-1.2C5.6 14.7 2.5 11.9 2.5 8.4 2.5 5.6 4.7 3.5 7.4 3.5c1.6 0 3.2.8 4.6 2.1 1.4-1.3 3-2.1 4.6-2.1 2.7 0 4.9 2.1 4.9 4.9 0 3.5-3.1 6.3-8.2 10.9L12 20.5z"/></svg>';
   }
   function hayOf(p) {
     return [p.title_ko, p.title, p.content, p.summary, p.why, p.creator_name, p.creator_insight, p.domain, p.category, p.source,
@@ -179,25 +179,27 @@ window.UX_BOOTED = true;
   /* ---------------- nav (overrides) ---------------- */
   window.renderDateTabs = function () {
     var s = state, d = (s.v === 'day' ? s.d : (lastDay || latest())), i = dateIdx(d);
-    var feats = [['creators', "✨ CREATORS' INSIGHT", 'var(--acc)'], ['popcorn', '🍿 POPCORN', '#ff0055'], ['trend', '📈 WEEKLY TREND', '#1da1f2'], ['archive', '♥ MY ARCHIVE', '#ff3366'], ['agentlog', '🧠 AGENT LOG', '#8a5cf6']];
-    var h = '<div class="ux-nav-feats"><button class="dtab' + (s.v === 'day' ? ' on' : '') + '" onclick="uxGoDay(\'' + d + '\')" style="font-weight:700;">📰 DAILY ISSUE</button></div>';
-    h += '<div class="ux-datepick">';
-    h += '<button class="ux-arrow" ' + (i >= MANIFEST_DATES.length - 1 ? 'disabled' : '') + ' onclick="uxStep(1)" title="이전 호">‹</button>';
+    var views = [['day', 'Issue'], ['creators', 'Creators'], ['popcorn', 'Popcorn'], ['trend', 'Trend'], ['archive', 'Archive'], ['agentlog', 'Log']];
+    var h = '<div class="ux-views">';
+    views.forEach(function (v) {
+      var act = v[0] === 'day' ? 'uxGoDay(\'' + d + '\')' : 'setSpecialView(\'' + v[0] + '\')';
+      h += '<button class="ux-v' + (s.v === v[0] ? ' on' : '') + '" onclick="' + act + '">' + v[1] + '</button>';
+    });
+    h += '</div><div class="ux-datepick">';
+    h += '<button class="ux-arrow" ' + (i >= MANIFEST_DATES.length - 1 ? 'disabled' : '') + ' onclick="uxStep(1)" title="이전 호" aria-label="이전 호">‹</button>';
     h += '<select class="' + (s.v === 'day' ? 'is-on' : '') + '" onchange="uxGoDay(this.value)" aria-label="발행일 선택">';
     var curMonth = '';
     MANIFEST_DATES.forEach(function (ds) {
       var m = ds.slice(0, 7);
       if (m !== curMonth) { if (curMonth) h += '</optgroup>'; curMonth = m; h += '<optgroup label="' + m.slice(0, 4) + '년 ' + parseInt(m.slice(5), 10) + '월">'; }
       var isNew = newDates.indexOf(ds) !== -1;
-      h += '<option value="' + ds + '"' + (ds === d ? ' selected' : '') + '>' + fmtDate(ds) + ' (' + wk(ds) + ')' + (ds === latest() ? ' · 최신' : '') + (isNew ? ' · NEW' : '') + '</option>';
+      h += '<option value="' + ds + '"' + (ds === d ? ' selected' : '') + '>' + fmtDate(ds) + ' ' + wk(ds) + (isNew ? ' · new' : '') + '</option>';
     });
     if (curMonth) h += '</optgroup>';
     h += '</select>';
-    h += '<button class="ux-arrow" ' + (i <= 0 ? 'disabled' : '') + ' onclick="uxStep(-1)" title="다음 호">›</button>';
+    h += '<button class="ux-arrow" ' + (i <= 0 ? 'disabled' : '') + ' onclick="uxStep(-1)" title="다음 호" aria-label="다음 호">›</button>';
     if (i > 0) h += '<button class="ux-today" onclick="uxGoDay(\'' + latest() + '\')">최신호</button>';
-    if (newDates.length && s.v === 'day' && d === latest()) h += '<span class="ux-newdot">NEW ' + newDates.length + '</span>';
-    h += '</div><div class="ux-nav-sep"></div><div class="ux-nav-feats">';
-    feats.forEach(function (f) { h += '<button class="dtab' + (s.v === f[0] ? ' on' : '') + '" onclick="setSpecialView(\'' + f[0] + '\')" style="color:' + f[2] + '; font-weight:700;">' + f[1] + '</button>'; });
+    else if (newDates.length && s.v === 'day') h += '<span class="ux-newdot">new ' + newDates.length + '</span>';
     h += '</div>';
     document.getElementById('dateTabs').innerHTML = h;
   };
@@ -210,9 +212,9 @@ window.UX_BOOTED = true;
     if (state.v !== 'day' || !entry) { tt.innerHTML = ''; return; }
     var items = dayItems(entry), counts = {};
     items.forEach(function (p) { var t = p.domain || p.thread; if (t) counts[t] = (counts[t] || 0) + 1; });
-    var h = '<button class="ttab ' + (state.f === 'ALL' ? 'on' : '') + '" onclick="setDom(\'ALL\')">ALL (' + items.length + ')</button>';
+    var h = '<button class="ttab ' + (state.f === 'ALL' ? 'on' : '') + '" onclick="setDom(\'ALL\')">All ' + items.length + '</button>';
     Object.keys(counts).sort().forEach(function (k) {
-      h += '<button class="ttab ' + (state.f === k ? 'on' : '') + '" onclick="setDom(\'' + jsq(k) + '\')">' + e(domLabel(k)) + ' (' + counts[k] + ')</button>';
+      h += '<button class="ttab ' + (state.f === k ? 'on' : '') + '" onclick="setDom(\'' + jsq(k) + '\')">' + e(domLabel(k)) + ' ' + counts[k] + '</button>';
     });
     tt.innerHTML = h;
   };
@@ -242,7 +244,6 @@ window.UX_BOOTED = true;
       if (!DAYS[s.d]) main.innerHTML = loadingHTML('이슈를 불러오는 중...');
       p = loadDay(s.d).then(function (entry) {
         if (seq !== renderSeq) return;
-        document.documentElement.style.setProperty('--acc', entry.dominant_color || '#ff3366');
         window.renderDomainTabs();
         renderDay(entry);
         document.title = 'CREATIVE INSIGHT · ' + fmtDate(s.d);
@@ -252,7 +253,11 @@ window.UX_BOOTED = true;
       var titles = { creators: "Creators' Insight", popcorn: 'Popcorn', trend: 'Weekly Trend', archive: 'My Archive', agentlog: 'Agent Log', search: '검색: ' + s.q };
       document.title = 'CREATIVE INSIGHT · ' + titles[s.v];
       if (s.v === 'agentlog') {
-        p = Promise.resolve(ORIG.renderAgentLog && ORIG.renderAgentLog());
+        p = Promise.resolve(ORIG.renderAgentLog && ORIG.renderAgentLog()).then(function () {
+          var box = document.querySelector('#main > div'); if (!box) return;
+          box.classList.add('ux-legacy');
+          var h2 = box.querySelector('h2'); if (h2) h2.textContent = 'Agent Log';
+        });
       } else {
         if (!allLoaded) main.innerHTML = loadingHTML('전체 아카이브(' + MANIFEST_DATES.length + '개 호)를 불러오는 중...');
         p = loadAll().then(function () {
@@ -278,28 +283,21 @@ window.UX_BOOTED = true;
   /* ---------------- card ---------------- */
   function cardHTML(p, date, opts) {
     opts = opts || {};
-    var id = hid(p.url), read = !!READ[id], saved = isSaved(p.url), delay = Math.min((opts.i || 0) * 0.05, 0.6).toFixed(2);
-    var h = '<a href="' + e(p.url) + '" target="_blank" rel="noopener" class="pick ux-card' + (read ? ' is-read' : '') + '" data-id="' + id + '" style="animation-delay:' + delay + 's" onclick="return uxCardClick(event,\'' + id + '\')">';
-    if (!isPlaceholder(p.image)) {
-      h += '<div class="pick-img-wrap"><img loading="lazy" src="' + e(p.image) + '" alt="" onerror="this.parentElement.style.display=\'none\'">';
-      h += '<div class="pick-img-overlay">' + (p.creator_name ? '<span class="overlay-creator">By ' + e(p.creator_name) + '</span>' : '') + '<span class="overlay-text">요약 · 관점 보기</span></div></div>';
-    } else {
-      h += '<div class="ux-noimg"></div>';
-    }
-    h += '<div class="pick-meta"><span class="pick-src">' + e(srcName(p)) + '</span>' + (read ? '<span class="ux-read">읽음</span>' : '') + (opts.showDate ? '<span class="pick-date">' + fmtDate(date) + '</span>' : '') + '</div>';
-    h += '<div class="pick-ko">' + hlText(p.title_ko || p.title, opts.hl) + '</div>';
-    h += '<button class="save-btn" data-save-id="' + id + '" onclick="uxSave(event,\'' + id + '\')" title="아카이브에 저장" style="position:absolute; right:0; top:' + (isPlaceholder(p.image) ? '-12px' : '12px') + '; margin-right:12px; background:rgba(255,255,255,0.95); border:none; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 2px 5px rgba(0,0,0,0.1); z-index:10;">' + heartSVG(saved) + '</button>';
-    var sum = p.content || p.summary;
-    if (sum) h += '<div class="ux-sum">' + hlText(sum, opts.hl) + '</div>';
-    if (p.why) h += '<div class="pick-why">' + hlText(p.why, opts.hl) + '</div>';
-    if (p.social_proof) h += '<div class="pick-social">🏆 ' + e(p.social_proof) + '</div>';
-    if (opts.note) h += '<div class="ux-mynote">💭 나의 통찰: ' + e(opts.note) + '</div>';
-    h += '<div class="pick-bot">';
+    var id = hid(p.url), read = !!READ[id], saved = isSaved(p.url);
+    var h = '<a href="' + e(p.url) + '" target="_blank" rel="noopener" class="pick ux-card' + (read ? ' is-read' : '') + '" data-id="' + id + '" style="animation-delay:' + Math.min((opts.i || 0) * 0.04, 0.4).toFixed(2) + 's" onclick="return uxCardClick(event,\'' + id + '\')">';
+    if (!isPlaceholder(p.image)) h += '<div class="pick-img-wrap"><img loading="lazy" src="' + e(p.image) + '" alt="" onerror="var w=this.parentElement;w.classList.add(\'ux-noimg\');w.innerHTML=\'<span>' + e(jsq(srcName(p))) + '</span>\'"></div>';
+    else h += '<div class="pick-img-wrap ux-noimg"><span>' + e(srcName(p)) + '</span></div>';
+    h += '<div class="pick-meta"><span class="pick-src">' + e(srcName(p)) + '</span>';
     var dom = p.domain || p.thread;
-    if (dom) h += '<span class="chip' + (dom === 'POPCORN' ? ' chip-popcorn' : '') + '">' + e(domLabel(dom)) + '</span>';
-    if (p.category) h += '<span class="chip">' + e(p.category) + '</span>';
-    (p.execution_techniques || []).slice(0, 3).forEach(function (t) { h += '<span class="chip chip-technique ux-chip" title="이 기법으로 아카이브 검색" onclick="return uxChip(event,\'' + e(jsq(chipQ(t))) + '\')">#' + e((t || '').replace(/^#+/, '')) + '</span>'; });
-    h += '</div></a>';
+    if (dom) h += '<span class="ux-dom">' + e(domLabel(dom)) + '</span>';
+    if (opts.showDate) h += '<span class="pick-date">' + short(date) + '</span>';
+    if (read) h += '<span class="ux-read">읽음</span>';
+    h += '<button class="ux-save' + (saved ? ' is-on' : '') + '" data-save-id="' + id + '" onclick="uxSave(event,\'' + id + '\')" title="저장" aria-label="저장">' + heartSVG(saved) + '</button></div>';
+    h += '<div class="pick-ko">' + hlText(p.title_ko || p.title, opts.hl) + '</div>';
+    var line = p.why || p.content || p.summary;
+    if (line) h += '<div class="pick-why">' + hlText(line, opts.hl) + '</div>';
+    if (opts.note) h += '<div class="ux-mynote">— ' + e(opts.note) + '</div>';
+    h += '</a>';
     return h;
   }
   window.uxCardClick = function (ev, id) {
@@ -314,8 +312,8 @@ window.UX_BOOTED = true;
     for (var i = 0; i < c.length; i++) {
       if (!c[i].classList.contains('is-read')) {
         c[i].classList.add('is-read');
-        var m = c[i].querySelector('.pick-meta .pick-src');
-        if (m && !c[i].querySelector('.ux-read')) m.insertAdjacentHTML('afterend', '<span class="ux-read">읽음</span>');
+        var m = c[i].querySelector('.pick-meta .ux-save');
+        if (m && !c[i].querySelector('.ux-read')) m.insertAdjacentHTML('beforebegin', '<span class="ux-read">읽음</span>');
       }
     }
     updateProgress();
@@ -323,7 +321,7 @@ window.UX_BOOTED = true;
   function updateProgress() {
     var el = document.getElementById('uxProgress'); if (!el || !DAYS[state.d]) return;
     var items = dayItems(DAYS[state.d]), n = items.filter(function (p) { return READ[hid(p.url)]; }).length;
-    el.innerHTML = '읽음 <b>' + n + '/' + items.length + '</b> <i><u style="width:' + Math.round(100 * n / Math.max(1, items.length)) + '%"></u></i>';
+    el.innerHTML = '<i><u style="width:' + Math.round(100 * n / Math.max(1, items.length)) + '%"></u></i>' + n + ' / ' + items.length + ' 읽음';
   }
 
   /* ---------------- day view ---------------- */
@@ -337,30 +335,26 @@ window.UX_BOOTED = true;
     kwScore.cur = makeScorer(items);
     var h = '';
     if (firstVisit && !LS.get('ci_onboarded', false)) {
-      h += '<div class="ux-onboard" id="uxOnboard"><button onclick="uxDismissOnboard()">닫기</button>';
-      h += '<b>CREATIVE INSIGHT 사용법</b> · 매일 아침 큐레이터 에이전트가 영상·디자인·브랜드 소식 중 연출가에게 쓸모 있는 것만 골라 관점을 붙입니다.';
-      h += '<ol><li>카드를 누르면 원문으로 바로 나가지 않고 <b>요약 · 큐레이터 관점 · 연결된 이슈</b>가 먼저 열립니다. 원문은 그 안의 버튼으로.</li>';
-      h += '<li><b>오늘의 키워드</b>를 누르면 그 흐름에 해당하는 카드만 강조됩니다.</li>';
-      h += '<li>♥ 로 저장하면 MY ARCHIVE에 한 줄 생각과 함께 쌓이고, 🧠 버튼으로 큐레이터에게 직접 물을 수 있습니다.</li></ol></div>';
+      h += '<div class="ux-onboard" id="uxOnboard"><span>카드를 누르면 요약과 큐레이터 관점이 먼저 열리고, 원문은 그 안에서 엽니다. 키워드를 누르면 관련 카드만 남습니다.</span><button onclick="uxDismissOnboard()">알겠어요</button></div>';
     }
     if (newDates.length && d === latest()) {
-      h += '<div class="ux-since">지난 방문 이후 <b>' + newDates.length + '개 호</b>가 새로 발행됐어요.';
-      newDates.slice(0, 6).forEach(function (nd) { h += '<button onclick="uxGoDay(\'' + nd + '\')">' + short(nd) + ' (' + wk(nd) + ')</button>'; });
+      h += '<div class="ux-since"><span>지난 방문 이후 <b>' + newDates.length + '개 호</b>가 새로 나왔어요</span>';
+      newDates.slice(1, 6).forEach(function (nd) { h += '<button onclick="uxGoDay(\'' + nd + '\')">' + short(nd) + ' ' + wk(nd) + '</button>'; });
       h += '</div>';
     }
     h += '<section class="ux-brief">';
-    h += '<div class="ux-brief-top"><span><b>' + fmtDate(d) + '</b> ISSUE</span><span>' + items.length + ' PICKS</span><span class="ux-progress" id="uxProgress"></span>';
-    if (readN < items.length) h += '<button class="ux-mini primary" onclick="uxResume()">' + (readN ? '이어 읽기 ▶' : '처음부터 읽기 ▶') + '</button>';
-    else h += '<span class="ux-done">✓ 이 호를 다 읽었어요</span>';
-    if (readN) h += '<button class="ux-mini' + (unreadOnly ? ' on' : '') + '" onclick="uxToggleUnread()">' + (unreadOnly ? '전체 보기' : '안 읽은 것만') + '</button>';
+    h += '<div class="ux-brief-top"><span><b>' + fmtDate(d) + '</b> ' + wk(d) + '요일 · ' + items.length + '개</span><span class="ux-progress" id="uxProgress"></span>';
+    if (readN < items.length) h += '<button class="ux-link" onclick="uxResume()">' + (readN ? '이어 읽기' : '처음부터 읽기') + '</button>';
+    else h += '<span class="ux-done">다 읽었어요</span>';
+    if (readN) h += '<button class="ux-link muted' + (unreadOnly ? ' on' : '') + '" onclick="uxToggleUnread()">' + (unreadOnly ? '전체 보기' : '안 읽은 것만') + '</button>';
     h += '</div>';
-    if (entry.focusQ) h += '<div class="ux-brief-note" onclick="this.classList.toggle(\'open\')">' + e(cleanQ(entry.focusQ)) + '</div>';
+    if (entry.focusQ) h += '<p class="ux-brief-note" onclick="this.classList.toggle(\'open\')">' + e(cleanQ(entry.focusQ)) + '</p>';
     var kws = entry.macro_keywords || [];
     if (kws.length) {
-      h += '<div class="ux-brief-kw"><span class="ux-label">오늘의 키워드</span>';
+      h += '<div class="ux-brief-kw">';
       kws.forEach(function (k) {
         var n = items.filter(function (p) { return kwScore(k.word, p) > 0; }).length;
-        h += '<button class="ux-kw' + (k.is_hot ? ' hot' : '') + '" data-kw="' + e(k.word) + '" onclick="uxKw(this)">' + (k.is_hot ? '🔥 ' : '#') + e(k.word) + (n ? '<small>' + n + '</small>' : '') + '</button>';
+        h += '<button class="ux-kw' + (k.is_hot ? ' hot' : '') + '" data-kw="' + e(k.word) + '" onclick="uxKw(this)">' + e(k.word) + (n ? '<small>' + n + '</small>' : '') + '</button>';
       });
       h += '</div><div class="ux-kw-hint" id="uxKwHint"></div>';
     }
@@ -374,8 +368,8 @@ window.UX_BOOTED = true;
     }
     var i2 = dateIdx(d), older = MANIFEST_DATES[i2 + 1], newer = MANIFEST_DATES[i2 - 1];
     h += '<div class="ux-issue-nav">';
-    h += older ? '<button onclick="uxGoDay(\'' + older + '\')">‹ 이전 호<b>' + fmtDate(older) + ' (' + wk(older) + ')</b></button>' : '<span></span>';
-    h += newer ? '<button onclick="uxGoDay(\'' + newer + '\')">다음 호 ›<b>' + fmtDate(newer) + ' (' + wk(newer) + ')</b></button>' : '<span></span>';
+    h += older ? '<button onclick="uxGoDay(\'' + older + '\')">이전 호<b>← ' + fmtDate(older) + '</b></button>' : '<span></span>';
+    h += newer ? '<button onclick="uxGoDay(\'' + newer + '\')">다음 호<b>' + fmtDate(newer) + ' →</b></button>' : '<span></span>';
     h += '</div>';
     document.getElementById('main').innerHTML = h;
     updateProgress();
@@ -399,7 +393,7 @@ window.UX_BOOTED = true;
       cards[k].classList.toggle('ux-dim', !hit);
       if (hit) { n++; if (!first) first = cards[k]; }
     }
-    if (hint) hint.innerHTML = n ? '“' + e(word) + '” 흐름과 연결된 카드 ' + n + '개를 강조했습니다. 다시 누르면 해제.' : '“' + e(word) + '”는 오늘 이슈 전체에서 도출된 흐름이라 특정 카드와 직접 연결되지 않습니다.';
+    if (hint) hint.innerHTML = n ? '관련 카드 ' + n + '개 · 다시 누르면 해제' : '특정 카드보다 이 호 전체에서 읽힌 흐름입니다';
     if (first) first.scrollIntoView({ behavior: 'smooth', block: 'center' });
   };
 
@@ -495,48 +489,48 @@ window.UX_BOOTED = true;
     var rec = ITEMS[id], p = rec.item;
     var pos = listCtx.indexOf(id);
     var bar = '';
-    bar += '<button class="ux-rbtn" ' + (pos > 0 ? '' : 'disabled') + ' onclick="uxReaderStep(-1)" title="이전 기사 (←)">‹ 이전</button>';
+    bar += '<button class="ux-rbtn" ' + (pos > 0 ? '' : 'disabled') + ' onclick="uxReaderStep(-1)" title="이전 기사 (←)">← 이전</button>';
     bar += '<span class="pos">' + (pos >= 0 ? (pos + 1) + ' / ' + listCtx.length : '') + '</span>';
-    bar += '<button class="ux-rbtn" ' + (pos >= 0 && pos < listCtx.length - 1 ? '' : 'disabled') + ' onclick="uxReaderStep(1)" title="다음 기사 (→)">다음 ›</button>';
+    bar += '<button class="ux-rbtn" ' + (pos >= 0 && pos < listCtx.length - 1 ? '' : 'disabled') + ' onclick="uxReaderStep(1)" title="다음 기사 (→)">다음 →</button>';
     bar += '<span class="sp"></span>';
-    bar += '<button class="ux-rbtn" onclick="uxCopyLink()" title="이 기사로 바로 오는 링크 복사">🔗 링크</button>';
-    bar += '<button class="ux-rbtn" onclick="uxCloseReader()" title="닫기 (Esc)">✕</button>';
+    bar += '<button class="ux-rbtn" onclick="uxCopyLink()" title="이 기사로 바로 오는 링크 복사">링크 복사</button>';
+    bar += '<button class="ux-rbtn" onclick="uxCloseReader()" title="닫기 (Esc)">닫기</button>';
     document.getElementById('uxReaderBar').innerHTML = bar;
 
     var h = '';
     if (!isPlaceholder(p.image)) h += '<img src="' + e(p.image) + '" alt="" onerror="this.remove()">';
-    h += '<div class="ux-r-meta"><span>' + e(srcName(p)) + '</span><span>' + fmtDate(rec.date) + ' 호</span>' + (p.domain ? '<span>' + e(domLabel(p.domain)) + '</span>' : '') + (p.category ? '<span>' + e(p.category) + '</span>' : '') + '</div>';
+    h += '<div class="ux-r-meta"><span>' + e(srcName(p)) + '</span><span>' + fmtDate(rec.date) + '</span>' + (p.domain ? '<span>' + e(domLabel(p.domain)) + '</span>' : '') + (p.category ? '<span>' + e(p.category) + '</span>' : '') + '</div>';
     h += '<h2 class="ux-r-title">' + e(p.title_ko || p.title) + '</h2>';
-    if (p.creator_name) h += '<div class="ux-r-by">By ' + e(p.creator_name) + '</div>';
+    if (p.creator_name) h += '<div class="ux-r-by">' + e(p.creator_name) + '</div>';
     var sum = p.content || p.summary;
-    if (sum) h += '<div class="ux-r-sec"><h4>무슨 내용인가</h4><p>' + e(sum) + '</p></div>';
+    if (sum) h += '<div class="ux-r-sec"><h4>요약</h4><p>' + e(sum) + '</p></div>';
     if (p.why) h += '<div class="ux-r-sec ux-r-why"><h4>큐레이터의 관점</h4><p>' + e(p.why) + '</p></div>';
     if (p.creator_insight && p.creator_insight !== p.why) h += '<div class="ux-r-sec ux-r-quote"><h4>크리에이터 인사이트</h4><p>“' + e(p.creator_insight) + '”</p></div>';
-    if (p.social_proof) h += '<div class="ux-r-sec"><h4>교차 신호</h4><p>🏆 ' + e(p.social_proof) + '</p></div>';
+    if (p.social_proof) h += '<div class="ux-r-sec"><h4>교차 보도</h4><p>' + e(p.social_proof) + '</p></div>';
     var chips = [];
     (p.execution_techniques || []).forEach(function (t) { chips.push(String(t).replace(/^#+/, '')); });
     (p.tags || []).forEach(function (t) { chips.push(String(t).replace(/^#+/, '')); });
     if (chips.length) {
-      h += '<div class="ux-r-sec"><h4>기법 · 태그 (누르면 아카이브 검색)</h4><div class="ux-r-chips">';
-      chips.forEach(function (c) { var q = c.replace(/\s*\(.*$/, ''); h += '<button onclick="uxSearchFromReader(\'' + jsq(q) + '\')">#' + e(c) + '</button>'; });
+      h += '<div class="ux-r-sec"><h4>기법 · 태그</h4><div class="ux-r-chips">';
+      chips.forEach(function (c) { var q = c.replace(/\s*\(.*$/, ''); h += '<button onclick="uxSearchFromReader(\'' + jsq(q) + '\')">' + e(c) + '</button>'; });
       h += '</div></div>';
     }
     var saved = isSaved(p.url), note = notes()[p.url];
     h += '<div class="ux-r-actions">';
     h += '<a class="primary" href="' + e(p.url) + '" target="_blank" rel="noopener" onclick="uxMarkRead(\'' + id + '\')">원문 읽기 ↗</a>';
-    h += '<button class="' + (saved ? 'saved' : '') + '" onclick="uxSave(event,\'' + id + '\')">' + (saved ? '♥ 저장됨' : '♡ 저장 + 한 줄 생각') + '</button>';
-    h += '<button onclick="uxAskAbout(\'' + id + '\')">🧠 큐레이터에게 더 묻기</button>';
+    h += '<button class="' + (saved ? 'saved' : '') + '" onclick="uxSave(event,\'' + id + '\')">' + (saved ? '저장됨' : '저장') + '</button>';
+    h += '<button onclick="uxAskAbout(\'' + id + '\')">큐레이터에게 묻기</button>';
     h += '</div>';
-    if (saved && note) h += '<div class="ux-r-note">💭 나의 통찰: ' + e(note) + '</div>';
+    if (saved && note) h += '<div class="ux-r-note">' + e(note) + '</div>';
     h += '<div class="ux-rel" id="uxRel"></div>';
     var nid = pos >= 0 ? listCtx[pos + 1] : null;
     if (nid && ITEMS[nid]) {
-      h += '<button class="ux-next" onclick="uxReaderStep(1)"><small>다음 기사 · ' + (pos + 2) + ' / ' + listCtx.length + '</small><span>' + e(ITEMS[nid].item.title_ko || ITEMS[nid].item.title) + ' →</span></button>';
+      h += '<button class="ux-next" onclick="uxReaderStep(1)"><small>다음 · ' + (pos + 2) + ' / ' + listCtx.length + '</small><span>' + e(ITEMS[nid].item.title_ko || ITEMS[nid].item.title) + '</span></button>';
     } else if (state.v === 'day' && pos >= 0) {
       var older = MANIFEST_DATES[dateIdx(state.d) + 1];
-      h += '<div class="ux-next end"><small>이 호의 마지막 기사예요</small>' + (older ? '<button onclick="uxCloseThen(\'' + older + '\')">이전 호 ' + fmtDate(older) + ' (' + wk(older) + ') 읽기 →</button>' : '') + '</div>';
+      h += '<div class="ux-next end"><small>이 호의 마지막 기사</small>' + (older ? '<button onclick="uxCloseThen(\'' + older + '\')">' + fmtDate(older) + ' 호로 →</button>' : '') + '</div>';
     }
-    h += '<div class="ux-kbd">← → 이전/다음 · Esc 닫기 · 링크를 공유하면 이 기사가 바로 열립니다</div>';
+    h += '<div class="ux-kbd">← → 이동 · Esc 닫기</div>';
     var body = document.getElementById('uxReaderBody');
     body.innerHTML = h;
     body.scrollTop = 0;
@@ -548,16 +542,16 @@ window.UX_BOOTED = true;
   function renderRelated(id) {
     var box = document.getElementById('uxRel'); if (!box) return;
     if (!allLoaded) {
-      box.innerHTML = '<div class="ux-r-sec"><h4>연결된 이슈</h4><p style="font-size:13px;color:var(--dim)">전체 아카이브에서 찾는 중...</p></div>';
+      box.innerHTML = '<div class="ux-r-sec"><h4>이어서 볼 기사</h4><p style="font-size:13px;color:var(--dim)">찾는 중...</p></div>';
       loadAll().then(function () { if (state.a === id) renderRelated(id); });
       return;
     }
     var rel = related(id, 5);
-    var h = '<div class="ux-r-sec"><h4>연결된 이슈 · 같은 기법/태그로 이어진 기사</h4>';
-    if (!rel.length) h += '<p style="font-size:13px;color:var(--dim)">아직 같은 기법이나 태그로 이어진 기사가 없습니다.</p>';
+    var h = '<div class="ux-r-sec"><h4>이어서 볼 기사</h4>';
+    if (!rel.length) h += '<p style="font-size:13px;color:var(--dim)">아직 이어지는 기사가 없습니다.</p>';
     rel.forEach(function (x) {
       var o = ITEMS[x.id].item;
-      h += '<button class="ux-rel-item" onclick="uxOpenRelated(\'' + x.id + '\')"><small>' + fmtDate(x.date) + ' · ' + e(srcName(o)) + '</small><span>' + e(o.title_ko || o.title) + '</span><em>' + e(x.why.slice(0, 3).join(' · ')) + '</em></button>';
+      h += '<button class="ux-rel-item" onclick="uxOpenRelated(\'' + x.id + '\')"><small>' + fmtDate(x.date) + ' · ' + e(srcName(o)) + ' · ' + e(x.why.slice(0, 2).join(', ').replace(/#/g, '')) + '</small><span>' + e(o.title_ko || o.title) + '</span><em>' + e(x.why.slice(0, 3).join(' · ')) + '</em></button>';
     });
     h += '</div>';
     box.innerHTML = h;
@@ -611,11 +605,11 @@ window.UX_BOOTED = true;
     if (savedUrls.indexOf(currentSocUrl) === -1) { savedUrls.push(currentSocUrl); localStorage.setItem('creative_archive', JSON.stringify(savedUrls)); }
     closeSocraticModal();
     afterSaveChange();
-    toast('MY ARCHIVE에 저장했습니다', '보러 가기', function () { setSpecialView('archive'); });
+    toast('저장했습니다', 'Archive 보기', function () { setSpecialView('archive'); });
   };
   function afterSaveChange() {
     var btns = document.querySelectorAll('[data-save-id]');
-    for (var i = 0; i < btns.length; i++) { var it = ITEMS[btns[i].getAttribute('data-save-id')]; if (it) btns[i].innerHTML = heartSVG(isSaved(it.item.url)); }
+    for (var i = 0; i < btns.length; i++) { var it = ITEMS[btns[i].getAttribute('data-save-id')]; if (it) { var on = isSaved(it.item.url); btns[i].innerHTML = heartSVG(on); btns[i].classList.toggle('is-on', on); } }
     if (state.v === 'archive') renderArchiveX();
     if (state.a) syncReader();
   }
@@ -640,12 +634,12 @@ window.UX_BOOTED = true;
     scraped.forEach(function (p) { if (!p || !p.url) return; var id = hid(p.url); if (!ITEMS[id]) { ITEMS[id] = { item: p, date: (p.scrapedAt || '').slice(0, 10) || latest(), id: id }; } if (cards.indexOf(ITEMS[id]) === -1) cards.push(ITEMS[id]); });
     listCtx = cards.map(function (c) { return c.id; });
     var noteN = cards.filter(function (c) { return n[c.item.url]; }).length;
-    var h = '<div class="ux-sec-h"><h2>♥ MY ARCHIVE</h2><p>저장한 기사 <b>' + cards.length + '개</b> · 한 줄 생각 ' + noteN + '개. 최근 저장 순. 이 기기 브라우저에 저장되므로 다른 기기에서 보려면 ☁️ 동기화 코드를 쓰세요.</p>';
-    if (scraped.length) h += '<p><button class="ux-more" style="display:inline-block;margin:14px 0 0;" onclick="exportScrapedData()">📥 딥서치 스크랩 데이터 다운로드</button></p>';
+    var h = '<div class="ux-sec-h"><h2>Archive</h2><p>저장 ' + cards.length + ' · 메모 ' + noteN + ' · 최근 저장 순. 이 브라우저에 보관되며, 다른 기기로는 Sync로 옮길 수 있어요.</p>';
+    if (scraped.length) h += '<p><button class="ux-link" onclick="exportScrapedData()">딥서치 스크랩 내려받기</button></p>';
     h += '</div>';
-    if (!cards.length) h += '<div class="ux-grid-empty">아직 저장한 기사가 없습니다.<br>카드의 ♥ 또는 기사 안의 “저장 + 한 줄 생각”을 눌러 영감을 모아보세요.</div>';
+    if (!cards.length) h += '<div class="ux-grid-empty">아직 저장한 기사가 없습니다. 카드의 하트나 기사 안의 “저장”으로 모아보세요.</div>';
     else {
-      h += '<div class="picks" style="margin-top:30px">';
+      h += '<div class="picks">';
       cards.forEach(function (c, i) { h += cardHTML(c.item, c.date, { i: i, showDate: true, note: n[c.item.url] }); });
       h += '</div>';
     }
@@ -668,44 +662,39 @@ window.UX_BOOTED = true;
     });
     var shown = groups.slice(0, popLimit);
     listCtx = [];
-    var h = '<div class="ux-sec-h"><h2>🍿 POPCORN</h2><p>가볍게 훑는 화제성 이슈. 전체 ' + total + '개 중 최근 ' + shown.length + '개 호를 보여줍니다.</p></div>';
+    var h = '<div class="ux-sec-h"><h2>Popcorn</h2><p>가볍게 훑는 화제성 이슈 · 전체 ' + total + '개</p></div>';
     if (!groups.length) h += '<div class="ux-grid-empty">아직 수집된 팝콘 뉴스가 없습니다.</div>';
     shown.forEach(function (g) {
-      h += '<div class="ux-dayhead">' + fmtDate(g.d) + ' (' + wk(g.d) + ') <button onclick="uxGoDay(\'' + g.d + '\')">이 날 이슈 전체 보기</button></div><div class="picks">';
+      h += '<div class="ux-dayhead"><b>' + fmtDate(g.d) + '</b> ' + wk(g.d) + ' <button onclick="uxGoDay(\'' + g.d + '\')">이 호 보기</button></div><div class="picks">';
       g.items.forEach(function (p, i) { listCtx.push(hid(p.url)); h += cardHTML(p, g.d, { i: i }); });
       h += '</div>';
     });
-    if (groups.length > popLimit) h += '<button class="ux-more" onclick="uxMorePop()">이전 7일 더 보기 (' + (groups.length - popLimit) + '개 호 남음)</button>';
+    if (groups.length > popLimit) h += '<button class="ux-more" onclick="uxMorePop()">이전 7일 더 보기</button>';
     document.getElementById('main').innerHTML = h;
   }
   window.uxMorePop = function () { var y = window.scrollY; popLimit += 7; renderPopcornX(); window.scrollTo(0, y); };
 
   /* ---------------- creators ---------------- */
   function renderCreatorsX() {
-    var shown = MANIFEST_DATES.filter(function (d) { return DAYS[d]; }).slice(0, creLimit);
+    var all = MANIFEST_DATES.filter(function (d) { return DAYS[d]; }), shown = all.slice(0, creLimit);
     listCtx = [];
-    var h = '<div style="max-width:900px; margin: 40px auto; padding: 0 20px; text-align:center;">';
-    h += '<div class="ux-sec-h" style="padding:0;text-align:center"><h2>✨ CREATORS\' INSIGHT</h2><p>기사 속 창작자의 태도와 방법론만 모아 읽는 뷰. 카드를 누르면 전체 맥락이 열립니다.</p></div>';
+    var h = '<div class="ux-sec-h"><h2>Creators</h2><p>기사 속 창작자의 태도와 방법론만 모아 읽는 뷰입니다.</p></div>';
     shown.forEach(function (d) {
       var entry = DAYS[d], picks = dayItems(entry);
-      h += '<div style="margin: 50px 0 70px;"><div style="font-size:13px; font-weight:700; color:var(--acc); letter-spacing:3px; margin-bottom:25px;">' + fmtDate(d) + ' (' + wk(d) + ')</div>';
-      if (entry.creator_message) h += '<div style="background:var(--card); border:1px solid var(--border); padding:34px 30px; margin-bottom:40px; border-radius:16px;"><div style="font-family:\'Noto Serif KR\',serif; font-size:18px; line-height:1.8; max-width:680px; margin:0 auto; word-break:keep-all; font-style:italic;">' + e(cleanQ(entry.creator_message)) + '</div></div>';
-      h += '<div style="display:flex; flex-direction:column; gap:26px; align-items:center;">';
+      h += '<div class="ux-dayhead"><b>' + fmtDate(d) + '</b> ' + wk(d) + '</div><div class="ux-clist">';
+      if (entry.creator_message) h += '<p class="ux-cmsg">' + e(cleanQ(entry.creator_message)) + '</p>';
       picks.forEach(function (p) {
         var id = hid(p.url); listCtx.push(id);
         var name = (p.creator_name && p.creator_name.trim()) || srcName(p);
         var quote = p.creator_insight || p.why || '';
-        h += '<a href="' + e(p.url) + '" target="_blank" rel="noopener" class="ux-creator" data-id="' + id + '" onclick="return uxCardClick(event,\'' + id + '\')" style="display:block; width:100%; max-width:720px; background:var(--card); border:1px solid var(--border); border-radius:16px; padding:32px 30px; text-align:center;' + (READ[id] ? ' opacity:.7;' : '') + '">';
-        h += '<div style="font-family:\'Playfair Display\',serif; font-size:24px; font-weight:700; margin-bottom:10px;">' + e(name) + '</div>';
-        if (quote) h += '<div style="font-family:\'Noto Serif KR\',serif; font-size:16px; line-height:1.8; color:var(--acc); margin:14px auto; max-width:620px; font-style:italic;">“ ' + e(quote) + ' ”</div>';
-        h += '<div style="font-size:13px; font-weight:600; color:var(--sub); margin-top:12px;">' + e(p.title_ko || p.title) + '</div>';
-        h += '<div style="font-size:11px; color:var(--dim); margin-top:10px; letter-spacing:1.5px; text-transform:uppercase;">' + e(domLabel(p.domain || '')) + ' · ' + e(srcName(p)) + '</div></a>';
+        h += '<a href="' + e(p.url) + '" target="_blank" rel="noopener" class="ux-citem ux-creator' + (READ[id] ? ' is-read' : '') + '" data-id="' + id + '" onclick="return uxCardClick(event,\'' + id + '\')">';
+        h += '<div class="n">' + e(name) + '</div>';
+        if (quote) h += '<div class="q">' + e(quote) + '</div>';
+        h += '<div class="t">' + e(p.title_ko || p.title) + ' · ' + e(srcName(p)) + '</div></a>';
       });
-      h += '</div></div><hr style="border:0; border-top:1px dashed var(--border); margin:40px 0;">';
+      h += '</div>';
     });
-    h += '</div>';
-    var remain = MANIFEST_DATES.filter(function (d) { return DAYS[d]; }).length - shown.length;
-    if (remain > 0) h += '<button class="ux-more" onclick="uxMoreCre()">이전 5일 더 보기 (' + remain + '개 호 남음)</button>';
+    if (all.length > shown.length) h += '<button class="ux-more" onclick="uxMoreCre()">이전 5일 더 보기</button>';
     document.getElementById('main').innerHTML = h;
   }
   window.uxMoreCre = function () { var y = window.scrollY; creLimit += 5; renderCreatorsX(); window.scrollTo(0, y); };
@@ -733,18 +722,18 @@ window.UX_BOOTED = true;
       })
       .filter(function (x) { return x.hits > 0 && x.hits / Math.max(1, Object.keys(ITEMS).length) <= 0.1; })
       .sort(function (a, b) { return b.n - a.n || b.hits - a.hits; }).slice(0, 10);
-    var h = '<div class="ux-sec-h"><h2>📈 WEEKLY TREND</h2><p>최근 7개 호에서 큐레이터가 뽑은 키워드입니다. 각 키워드 아래에 <b>그 흐름과 실제로 연결된 기사</b>를 붙였고, 여러 날 반복된 단어는 “반복 신호”로 따로 모았습니다.</p></div>';
+    var h = '<div class="ux-sec-h"><h2>Trend</h2><p>최근 7개 호의 키워드와, 그 키워드로 이어지는 기사입니다.</p></div>';
     if (signals.length) {
-      h += '<div class="ux-dayhead">반복 신호 · 2개 호 이상 등장 (누르면 전체 아카이브 검색)</div><div class="ux-signals">';
-      signals.forEach(function (x) { h += '<button class="ux-sig" onclick="searchArchiveKeyword(\'' + jsq(x.t) + '\')">' + e(x.t) + '<small>' + x.n + '개 호 · 기사 ' + x.hits + '</small></button>'; });
+      h += '<div class="ux-dayhead"><b>반복 신호</b> 2개 호 이상 등장</div><div class="ux-signals">';
+      signals.forEach(function (x) { h += '<button class="ux-sig" onclick="searchArchiveKeyword(\'' + jsq(x.t) + '\')">' + e(x.t) + '<small>' + x.n + '호 · ' + x.hits + '</small></button>'; });
       h += '</div>';
     }
     if (!groups.length) h += '<div class="ux-grid-empty">최근 7일 키워드 데이터가 없습니다.</div>';
     groups.forEach(function (g) {
-      h += '<div class="ux-dayhead">' + fmtDate(g.d) + ' (' + wk(g.d) + ') <button onclick="uxGoDay(\'' + g.d + '\')">이 날 이슈 보기</button></div><div class="ux-kwgrid">';
+      h += '<div class="ux-dayhead"><b>' + fmtDate(g.d) + '</b> ' + wk(g.d) + ' <button onclick="uxGoDay(\'' + g.d + '\')">이 호 보기</button></div><div class="ux-kwgrid">';
       g.cards.forEach(function (c) {
-        h += '<div class="ux-kwcard' + (c.k.is_hot ? ' hot' : '') + '"><h3>#' + e(c.k.word) + (c.k.is_hot ? '<small>HOT</small>' : '') + '</h3>';
-        if (!c.rel.length) h += '<div class="none">특정 기사보다 이 날 전체 흐름에서 도출된 키워드</div>';
+        h += '<div class="ux-kwcard' + (c.k.is_hot ? ' hot' : '') + '"><h3>' + e(c.k.word) + (c.k.is_hot ? '<small>hot</small>' : '') + '</h3>';
+        if (!c.rel.length) h += '<div class="none">이 호 전체에서 읽힌 흐름</div>';
         c.rel.forEach(function (x) {
           var id = hid(x.p.url); if (listCtx.indexOf(id) === -1) listCtx.push(id);
           h += '<button class="ux-rel-item" onclick="uxOpen(\'' + id + '\')"><small>' + e(srcName(x.p)) + '</small><span>' + e(x.p.title_ko || x.p.title) + '</span></button>';
@@ -771,15 +760,14 @@ window.UX_BOOTED = true;
     if (searchFor !== q) { searchFor = q; searchCap = 60; }
     var cap = searchCap, shown = res.slice(0, cap);
     listCtx = shown.map(function (x) { return hid(x.p.url); });
-    var h = '<div class="ux-sec-h"><h2 style="font-size:1.5rem">“' + e(q) + '” 검색 결과 ' + res.length + '건</h2>';
-    h += '<p>제목 · 요약 · 큐레이터 관점 · 크리에이터 · 기법 · 태그를 모두 검색합니다. 최신순' + (res.length > cap ? ', ' + cap + '건씩 표시' : '') + '. ';
-    h += '<button class="ux-kw" style="margin-left:6px" onclick="uxAskSearch()">🧠 이 주제로 큐레이터에게 묻기</button></p></div>';
-    if (!res.length) h += '<div class="ux-grid-empty">일치하는 기사가 없습니다. 더 짧은 단어(예: “물성”, “타이포”, “캠페인”)로 검색하거나 큐레이터에게 물어보세요.</div>';
+    var h = '<div class="ux-sec-h"><h2>“' + e(q) + '” ' + res.length + '건</h2>';
+    h += '<p>최신순 · <button class="ux-link" onclick="uxAskSearch()">이 주제로 큐레이터에게 묻기</button></p></div>';
+    if (!res.length) h += '<div class="ux-grid-empty">일치하는 기사가 없습니다. 더 짧은 단어로 찾아보세요.</div>';
     else {
-      h += '<div class="picks" style="margin-top:30px">';
+      h += '<div class="picks">';
       shown.forEach(function (x, i) { h += cardHTML(x.p, x.d, { i: i, showDate: true, hl: toks }); });
       h += '</div>';
-      if (res.length > cap) h += '<button class="ux-more" onclick="uxMoreSearch()">더 보기 (' + (res.length - cap) + '건 남음)</button>';
+      if (res.length > cap) h += '<button class="ux-more" onclick="uxMoreSearch()">더 보기</button>';
     }
     document.getElementById('main').innerHTML = h;
   }
@@ -846,7 +834,7 @@ window.UX_BOOTED = true;
     if (si) {
       var fresh = si.cloneNode(true);
       si.parentNode.replaceChild(fresh, si);
-      fresh.placeholder = '아카이브 검색 (예: 타이포, 캠페인, 물성)  /';
+      fresh.placeholder = 'Search';
       var tmr = null;
       fresh.addEventListener('keydown', function (ev) {
         if (ev.key === 'Enter') { clearTimeout(tmr); var v = fresh.value.trim(); if (v) searchArchiveKeyword(v); else uxGoDay(lastDay || latest()); }
@@ -861,9 +849,13 @@ window.UX_BOOTED = true;
     var hr = document.querySelector('.hdr-r');
     if (hr) {
       var g = hr.querySelector('a[href="graph.html"]'), c = hr.querySelector('button[onclick="openSyncModal()"]');
-      if (g && !g.querySelector('.ux-hlabel')) g.insertAdjacentHTML('beforeend', '<span class="ux-hlabel">지식망</span>');
-      if (c && !c.querySelector('.ux-hlabel')) c.insertAdjacentHTML('beforeend', '<span class="ux-hlabel">동기화</span>');
+      if (g) g.textContent = 'Graph';
+      if (c) c.textContent = 'Sync';
     }
+    var ab = document.getElementById('askCuratorBtn'); if (ab) ab.textContent = 'Ask';
+    var ah = document.querySelector('#askCuratorHeader span'); if (ah) ah.textContent = 'Ask the curator';
+    var sh = document.getElementById('uxSocHint'); if (sh) sh.textContent = '비워둬도 저장됩니다 · ⌘/Ctrl+Enter 저장 · Esc 취소';
+    var sm = document.querySelector('#syncModal h2'); if (sm) sm.textContent = 'Sync';
     var brand = document.querySelector('.brand');
     if (brand) brand.setAttribute('onclick', 'uxGoDay(MANIFEST_DATES[0])');
   }
@@ -909,7 +901,7 @@ window.UX_BOOTED = true;
       }
     });
     if (!found.length) return '';
-    return '<div class="ux-ans-links">' + found.map(function (k) { return '<button onclick="uxOpenFromAsk(\'' + k + '\')">📄 ' + e(ITEMS[k].item.title_ko || ITEMS[k].item.title) + '</button>'; }).join('') + '</div>';
+    return '<div class="ux-ans-links">' + found.map(function (k) { return '<button onclick="uxOpenFromAsk(\'' + k + '\')">→ ' + e(ITEMS[k].item.title_ko || ITEMS[k].item.title) + '</button>'; }).join('') + '</div>';
   }
   window.uxOpenFromAsk = function (id) { listCtx = [id]; if (state.a) uxOpen(id, true); else uxOpen(id); };
   function flashCard(id) {
