@@ -26,6 +26,18 @@ window.UX_BOOTED = true;
   var popLimit = 7, creLimit = 5;
   var prevSeen = null, newDates = [], firstVisit = false;
   var activeKw = '';
+  var unreadOnly = LS.get('ci_unread_only', false);
+  var lastOpen = '';
+  function hlText(txt, toks) {
+    var out = e(txt);
+    (toks || []).forEach(function (t) {
+      var et = e(t); if (!et) return;
+      out = out.replace(new RegExp(et.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi'), function (m) { return '<mark>' + m + '</mark>'; });
+    });
+    return out;
+  }
+  function chipQ(t) { return String(t || '').replace(/^#+/, '').replace(/\s*\(.*$/, '').trim(); }
+  window.uxChip = function (ev, q) { ev.preventDefault(); ev.stopPropagation(); searchArchiveKeyword(q); return false; };
 
   /* ---------------- helpers ---------------- */
   function hid(url) { var h = 5381; url = String(url || ''); for (var i = 0; i < url.length; i++) { h = (((h << 5) + h) + url.charCodeAt(i)) >>> 0; } return h.toString(36); }
@@ -142,8 +154,11 @@ window.UX_BOOTED = true;
     return s;
   }
   function sameBase(a, b) { return a.v === b.v && a.d === b.d && a.f === b.f && a.q === b.q; }
+  var SCROLL = {};
+  function hkey() { return location.hash || '#'; }
   function navigate(ns, opts) {
     opts = opts || {};
+    SCROLL[hkey()] = window.scrollY;
     var base = defaults();
     Object.keys(ns).forEach(function (k) { base[k] = ns[k]; });
     state = base;
@@ -156,7 +171,9 @@ window.UX_BOOTED = true;
     var onlyReader = sameBase(ns, state);
     state = ns;
     readerPushed = false;
-    if (onlyReader) syncReader(); else renderState({ scroll: true });
+    if (onlyReader) { syncReader(); return; }
+    var y = SCROLL[hkey()];
+    renderState({ scroll: y === undefined }).then(function () { if (y !== undefined) setTimeout(function () { window.scrollTo(0, y); }, 60); });
   });
 
   /* ---------------- nav (overrides) ---------------- */
@@ -270,18 +287,18 @@ window.UX_BOOTED = true;
       h += '<div class="ux-noimg"></div>';
     }
     h += '<div class="pick-meta"><span class="pick-src">' + e(srcName(p)) + '</span>' + (read ? '<span class="ux-read">읽음</span>' : '') + (opts.showDate ? '<span class="pick-date">' + fmtDate(date) + '</span>' : '') + '</div>';
-    h += '<div class="pick-ko">' + e(p.title_ko || p.title) + '</div>';
+    h += '<div class="pick-ko">' + hlText(p.title_ko || p.title, opts.hl) + '</div>';
     h += '<button class="save-btn" data-save-id="' + id + '" onclick="uxSave(event,\'' + id + '\')" title="아카이브에 저장" style="position:absolute; right:0; top:' + (isPlaceholder(p.image) ? '-12px' : '12px') + '; margin-right:12px; background:rgba(255,255,255,0.95); border:none; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 2px 5px rgba(0,0,0,0.1); z-index:10;">' + heartSVG(saved) + '</button>';
     var sum = p.content || p.summary;
-    if (sum) h += '<div class="ux-sum">' + e(sum) + '</div>';
-    if (p.why) h += '<div class="pick-why">' + e(p.why) + '</div>';
+    if (sum) h += '<div class="ux-sum">' + hlText(sum, opts.hl) + '</div>';
+    if (p.why) h += '<div class="pick-why">' + hlText(p.why, opts.hl) + '</div>';
     if (p.social_proof) h += '<div class="pick-social">🏆 ' + e(p.social_proof) + '</div>';
     if (opts.note) h += '<div class="ux-mynote">💭 나의 통찰: ' + e(opts.note) + '</div>';
     h += '<div class="pick-bot">';
     var dom = p.domain || p.thread;
     if (dom) h += '<span class="chip' + (dom === 'POPCORN' ? ' chip-popcorn' : '') + '">' + e(domLabel(dom)) + '</span>';
     if (p.category) h += '<span class="chip">' + e(p.category) + '</span>';
-    (p.execution_techniques || []).slice(0, 3).forEach(function (t) { h += '<span class="chip chip-technique">#' + e((t || '').replace(/^#+/, '')) + '</span>'; });
+    (p.execution_techniques || []).slice(0, 3).forEach(function (t) { h += '<span class="chip chip-technique ux-chip" title="이 기법으로 아카이브 검색" onclick="return uxChip(event,\'' + e(jsq(chipQ(t))) + '\')">#' + e((t || '').replace(/^#+/, '')) + '</span>'; });
     h += '</div></a>';
     return h;
   }
@@ -313,6 +330,8 @@ window.UX_BOOTED = true;
   function renderDay(entry) {
     var d = state.d, items = dayItems(entry);
     var picks = state.f === 'ALL' ? items : items.filter(function (x) { return (x.domain || x.thread) === state.f; });
+    var readN = items.filter(function (p) { return READ[hid(p.url)]; }).length;
+    if (unreadOnly && readN) picks = picks.filter(function (p) { return !READ[hid(p.url)]; });
     listCtx = picks.map(function (p) { return hid(p.url); });
     activeKw = '';
     kwScore.cur = makeScorer(items);
@@ -330,8 +349,12 @@ window.UX_BOOTED = true;
       h += '</div>';
     }
     h += '<section class="ux-brief">';
-    h += '<div class="ux-brief-top"><span><b>' + fmtDate(d) + '</b> ISSUE</span><span>' + items.length + ' PICKS</span><span class="ux-progress" id="uxProgress"></span></div>';
-    if (entry.focusQ) h += '<div class="ux-brief-note">' + e(cleanQ(entry.focusQ)) + '</div>';
+    h += '<div class="ux-brief-top"><span><b>' + fmtDate(d) + '</b> ISSUE</span><span>' + items.length + ' PICKS</span><span class="ux-progress" id="uxProgress"></span>';
+    if (readN < items.length) h += '<button class="ux-mini primary" onclick="uxResume()">' + (readN ? '이어 읽기 ▶' : '처음부터 읽기 ▶') + '</button>';
+    else h += '<span class="ux-done">✓ 이 호를 다 읽었어요</span>';
+    if (readN) h += '<button class="ux-mini' + (unreadOnly ? ' on' : '') + '" onclick="uxToggleUnread()">' + (unreadOnly ? '전체 보기' : '안 읽은 것만') + '</button>';
+    h += '</div>';
+    if (entry.focusQ) h += '<div class="ux-brief-note" onclick="this.classList.toggle(\'open\')">' + e(cleanQ(entry.focusQ)) + '</div>';
     var kws = entry.macro_keywords || [];
     if (kws.length) {
       h += '<div class="ux-brief-kw"><span class="ux-label">오늘의 키워드</span>';
@@ -460,7 +483,15 @@ window.UX_BOOTED = true;
   function syncReader() {
     var r = ensureReader();
     var id = state.a;
-    if (!id || !ITEMS[id]) { r.classList.remove('open'); document.documentElement.style.overflow = ''; return; }
+    if (!id || !ITEMS[id]) {
+      var wasOpen = r.classList.contains('open');
+      r.classList.remove('open'); document.documentElement.style.overflow = ''; document.body.classList.remove('ux-reading');
+      if (wasOpen && lastOpen) flashCard(lastOpen);
+      lastOpen = '';
+      return;
+    }
+    lastOpen = id;
+    document.body.classList.add('ux-reading');
     var rec = ITEMS[id], p = rec.item;
     var pos = listCtx.indexOf(id);
     var bar = '';
@@ -498,6 +529,13 @@ window.UX_BOOTED = true;
     h += '</div>';
     if (saved && note) h += '<div class="ux-r-note">💭 나의 통찰: ' + e(note) + '</div>';
     h += '<div class="ux-rel" id="uxRel"></div>';
+    var nid = pos >= 0 ? listCtx[pos + 1] : null;
+    if (nid && ITEMS[nid]) {
+      h += '<button class="ux-next" onclick="uxReaderStep(1)"><small>다음 기사 · ' + (pos + 2) + ' / ' + listCtx.length + '</small><span>' + e(ITEMS[nid].item.title_ko || ITEMS[nid].item.title) + ' →</span></button>';
+    } else if (state.v === 'day' && pos >= 0) {
+      var older = MANIFEST_DATES[dateIdx(state.d) + 1];
+      h += '<div class="ux-next end"><small>이 호의 마지막 기사예요</small>' + (older ? '<button onclick="uxCloseThen(\'' + older + '\')">이전 호 ' + fmtDate(older) + ' (' + wk(older) + ') 읽기 →</button>' : '') + '</div>';
+    }
     h += '<div class="ux-kbd">← → 이전/다음 · Esc 닫기 · 링크를 공유하면 이 기사가 바로 열립니다</div>';
     var body = document.getElementById('uxReaderBody');
     body.innerHTML = h;
@@ -693,7 +731,7 @@ window.UX_BOOTED = true;
         var hits = 0; Object.keys(ITEMS).forEach(function (id) { if (hayOf(ITEMS[id].item).indexOf(x.t) !== -1) hits++; });
         x.hits = hits; return x;
       })
-      .filter(function (x) { return x.hits > 0; })
+      .filter(function (x) { return x.hits > 0 && x.hits / Math.max(1, Object.keys(ITEMS).length) <= 0.1; })
       .sort(function (a, b) { return b.n - a.n || b.hits - a.hits; }).slice(0, 10);
     var h = '<div class="ux-sec-h"><h2>📈 WEEKLY TREND</h2><p>최근 7개 호에서 큐레이터가 뽑은 키워드입니다. 각 키워드 아래에 <b>그 흐름과 실제로 연결된 기사</b>를 붙였고, 여러 날 반복된 단어는 “반복 신호”로 따로 모았습니다.</p></div>';
     if (signals.length) {
@@ -739,7 +777,7 @@ window.UX_BOOTED = true;
     if (!res.length) h += '<div class="ux-grid-empty">일치하는 기사가 없습니다. 더 짧은 단어(예: “물성”, “타이포”, “캠페인”)로 검색하거나 큐레이터에게 물어보세요.</div>';
     else {
       h += '<div class="picks" style="margin-top:30px">';
-      shown.forEach(function (x, i) { h += cardHTML(x.p, x.d, { i: i, showDate: true }); });
+      shown.forEach(function (x, i) { h += cardHTML(x.p, x.d, { i: i, showDate: true, hl: toks }); });
       h += '</div>';
       if (res.length > cap) h += '<button class="ux-more" onclick="uxMoreSearch()">더 보기 (' + (res.length - cap) + '건 남음)</button>';
     }
@@ -768,7 +806,7 @@ window.UX_BOOTED = true;
       var res = await fetch(ASK_CURATOR_ENDPOINT, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ question: q }) });
       var data = await res.json();
       var text = data.answer || ('오류: ' + (data.error || '알 수 없는 오류'));
-      el.querySelector('.bubble').innerHTML = e(text).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/\n/g, '<br>');
+      el.querySelector('.bubble').innerHTML = e(text).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/\n/g, '<br>') + answerLinks(text);
     } catch (x) {
       el.querySelector('.bubble').textContent = '연결에 실패했습니다. 잠시 후 다시 시도해주세요.';
     } finally {
@@ -843,6 +881,7 @@ window.UX_BOOTED = true;
       document.getElementById('main').innerHTML = loadingHTML('시스템 로딩에 실패했습니다. (Manifest Error)');
       return;
     }
+    try { history.scrollRestoration = 'manual'; } catch (x) {}
     prevSeen = LS.get('ci_seen_latest', null);
     firstVisit = !prevSeen;
     if (prevSeen) newDates = MANIFEST_DATES.filter(function (d) { return d > prevSeen; });
@@ -854,6 +893,66 @@ window.UX_BOOTED = true;
     var idle = window.requestIdleCallback || function (f) { return setTimeout(f, 1500); };
     idle(function () { loadAll(); });
   }
+  /* link article titles the curator mentions in its answer */
+  function answerLinks(text) {
+    var cands = [], m, re = /['‘“"「『]([^'’”"」』]{2,40})['’”"」』]/g;
+    while ((m = re.exec(text))) cands.push(m[1].trim());
+    var bre = /\*\*(.+?)\*\*/g; while ((m = bre.exec(text))) cands.push(m[1].replace(/['‘’“”"]/g, '').replace(/\s*(기사|캠페인|사례)$/, '').trim());
+    var found = [], seen = {};
+    var keys = Object.keys(ITEMS).sort(function (a, b) { return ITEMS[a].date < ITEMS[b].date ? 1 : -1; });
+    cands.forEach(function (c) {
+      if (c.length < 3 || found.length >= 3) return;
+      var cl = c.toLowerCase();
+      for (var i = 0; i < keys.length; i++) {
+        var it = ITEMS[keys[i]].item, t = String(it.title_ko || it.title || '').toLowerCase();
+        if (t.indexOf(cl) !== -1 || (cl.length >= 8 && cl.indexOf(t.slice(0, 12)) !== -1)) { if (!seen[keys[i]]) { seen[keys[i]] = 1; found.push(keys[i]); } break; }
+      }
+    });
+    if (!found.length) return '';
+    return '<div class="ux-ans-links">' + found.map(function (k) { return '<button onclick="uxOpenFromAsk(\'' + k + '\')">📄 ' + e(ITEMS[k].item.title_ko || ITEMS[k].item.title) + '</button>'; }).join('') + '</div>';
+  }
+  window.uxOpenFromAsk = function (id) { listCtx = [id]; if (state.a) uxOpen(id, true); else uxOpen(id); };
+  function flashCard(id) {
+    var c = document.querySelector('#main .ux-card[data-id="' + id + '"], #main .ux-creator[data-id="' + id + '"]');
+    if (!c) return;
+    var r = c.getBoundingClientRect();
+    if (r.top < 60 || r.bottom > window.innerHeight) c.scrollIntoView({ block: 'center' });
+    c.classList.add('ux-flash');
+    setTimeout(function () { c.classList.remove('ux-flash'); }, 1600);
+  }
+  window.uxResume = function () {
+    var ids = dayItems(DAYS[state.d] || {}).map(function (p) { return hid(p.url); });
+    listCtx = listCtx.length ? listCtx : ids;
+    var target = listCtx.filter(function (id) { return !READ[id]; })[0] || listCtx[0];
+    if (target) openReader(target);
+  };
+  window.uxToggleUnread = function () { unreadOnly = !unreadOnly; LS.set('ci_unread_only', unreadOnly); renderState({ scroll: false }); };
+  window.uxCloseThen = function (d) { readerPushed = false; state.a = ''; lastOpen = ''; syncReader(); uxGoDay(d); };
+
+  /* sync code v2: saves + notes + read marks (legacy codes still import) */
+  window.exportSyncCode = function () {
+    var payload = { v: 2, a: savedUrls, n: notes(), r: READ };
+    var code = (window.LZString ? 'CI2:' + LZString.compressToEncodedURIComponent(JSON.stringify(payload)) : btoa(JSON.stringify(savedUrls)));
+    document.getElementById('syncCodeInput').value = code;
+    document.getElementById('syncMsg').innerText = '저장 ' + savedUrls.length + '개 · 메모 ' + Object.keys(notes()).length + '개 · 읽음 표시 ' + Object.keys(READ).length + '개를 담은 코드입니다. 다른 기기에 붙여넣으세요.';
+  };
+  window.importSyncCode = function () {
+    var code = document.getElementById('syncCodeInput').value.trim(), msg = document.getElementById('syncMsg');
+    if (!code) { msg.innerText = '코드를 입력해주세요.'; return; }
+    try {
+      var a, n = {}, r = {};
+      if (code.indexOf('CI2:') === 0) { var p = JSON.parse(LZString.decompressFromEncodedURIComponent(code.slice(4))); a = p.a; n = p.n || {}; r = p.r || {}; }
+      else a = JSON.parse(atob(code));
+      if (!Array.isArray(a)) throw new Error('bad');
+      var merged = savedUrls.slice(); a.forEach(function (u) { if (merged.indexOf(u) === -1) merged.push(u); });
+      localStorage.setItem('creative_archive', JSON.stringify(merged));
+      var nn = notes(); Object.keys(n).forEach(function (k) { if (n[k] || !nn[k]) nn[k] = n[k]; }); LS.set('creative_insights_notes', nn);
+      Object.keys(r).forEach(function (k) { if (!READ[k]) READ[k] = r[k]; }); LS.set('ci_read', READ);
+      msg.innerText = '동기화 완료 (기존 기록과 합침). 새로고침합니다.';
+      setTimeout(function () { location.reload(); }, 1200);
+    } catch (x) { msg.innerText = '유효하지 않은 코드입니다.'; }
+  };
+
   window.uxDebug = function () { return { state: state, days: Object.keys(DAYS).length, items: Object.keys(ITEMS).length, allLoaded: allLoaded, newDates: newDates, listCtx: listCtx.length }; };
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot); else boot();

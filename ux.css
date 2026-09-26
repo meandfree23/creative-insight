@@ -149,3 +149,49 @@
   .ux-issue-nav { flex-direction: column; }
   .ux-card .pick-ko { font-size: 20px; }
 }
+
+/* ---------- v2 (round 2): continuity, density, stable layout ---------- */
+.ux-mini { border: 1px solid var(--border); background: var(--card); color: var(--text); border-radius: 16px; padding: 5px 12px; font-size: 10px; font-weight: 700; letter-spacing: 1px; }
+.ux-mini.primary { background: var(--text); color: #fff; border-color: var(--text); }
+.ux-mini.on { border-color: var(--acc); color: var(--acc); }
+.ux-done { color: var(--acc); letter-spacing: 1px; }
+.ux-brief { padding: 30px 36px 26px; }
+.ux-brief-note { font-size: 19px; cursor: default; }
+.ux-card .pick-img-wrap { aspect-ratio: 16 / 10; }
+.ux-card .pick-img-wrap img { width: 100%; height: 100%; object-fit: cover; }
+.ux-chip { cursor: pointer; }
+.ux-chip:hover { border-color: var(--text); color: var(--text); }
+mark { background: rgba(255, 51, 102, .18); color: inherit; padding: 0 2px; border-radius: 2px; }
+.ux-card.ux-flash { outline: 2px solid var(--acc); outline-offset: 8px; transition: outline-color .4s; }
+.ux-next { display: block; width: 100%; text-align: left; margin-top: 30px; padding: 20px 22px; border: 1px solid var(--text); background: var(--text); color: #fff; }
+.ux-next small { display: block; font-size: 10px; letter-spacing: 2px; opacity: .7; margin-bottom: 6px; }
+.ux-next span { font-size: 16px; font-weight: 700; line-height: 1.5; }
+.ux-next.end { background: var(--card); color: var(--text); border-color: var(--border); }
+.ux-next.end button { margin-top: 10px; border: none; background: var(--text); color: #fff; border-radius: 20px; padding: 10px 16px; font-size: 13px; font-weight: 700; }
+.ux-ans-links { margin-top: 8px; display: flex; flex-direction: column; gap: 4px; }
+.ux-ans-links button { text-align: left; border: 1px solid var(--border); background: var(--card); border-radius: 8px; padding: 6px 8px; font-size: 12px; color: var(--text); }
+.ux-ans-links button:hover { border-color: var(--acc); color: var(--acc); }
+@media (max-width: 600px) {
+  .hdr { padding-top: 12px !important; padding-bottom: 12px !important; gap: 10px !important; }
+  .brand { font-size: 17px; }
+  .hdr-date { display: none; }
+  .hdr-search input { padding: 8px 36px 8px 14px !important; }
+  .ttabs { padding-top: 8px; padding-bottom: 8px; }
+  .ux-brief { margin: 14px 20px 18px; padding: 18px 16px 14px; }
+  .ux-brief-top { gap: 8px; margin-bottom: 10px; font-size: 10px; letter-spacing: 1px; }
+  .ux-brief-note { font-size: 15px; line-height: 1.65; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; cursor: pointer; }
+  .ux-brief-note.open { display: block; -webkit-line-clamp: unset; }
+  .ux-brief-kw { flex-wrap: nowrap; overflow-x: auto; justify-content: flex-start; margin-top: 12px; padding-bottom: 4px; }
+  .ux-brief-kw::-webkit-scrollbar { display: none; }
+  .ux-kw { white-space: nowrap; flex: 0 0 auto; }
+  .ux-label { display: none; }
+  .ux-kw-hint { margin-top: 8px; font-size: 11px; }
+  .ux-onboard { margin: 14px 20px 0; padding: 16px 18px; font-size: 12px; }
+  .ux-since { margin: 14px 20px 0; }
+  .picks { gap: 28px; }
+  .pick { margin-bottom: 20px; }
+  #askCuratorBtn { width: 46px; height: 46px; font-size: 20px; right: 14px; bottom: 14px; }
+  body.ux-reading #askCuratorBtn { display: none; }
+  .ux-reader-bar { padding: 10px 12px; gap: 6px; }
+  .ux-rbtn { padding: 6px 10px; }
+}
