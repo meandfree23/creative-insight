@@ -429,8 +429,34 @@ window.UX_BOOTED = true;
       if (s >= 3) out.push({ id: k, s: s + ((o.domain === src.domain) ? 0.5 : 0), why: why, date: ITEMS[k].date });
     });
     out.sort(function (a, b) { return b.s - a.s || (a.date < b.date ? 1 : -1); });
+    if (out.length < 3) {
+      /* loose pass: tag/technique words found anywhere in other items' text, ignoring words common across the archive */
+      var keys = Object.keys(ITEMS), N = keys.length, have = {};
+      out.forEach(function (x) { have[x.id] = 1; });
+      var probes = [];
+      tags.forEach(function (t) { var n = t.replace(/\s+/g, ''); if (n.length >= 2) probes.push({ t: n, ns: true, w: 1.5, label: '#' + t }); });
+      Object.keys(techWords).forEach(function (w) { probes.push({ t: w, ns: false, w: 1, label: w }); });
+      probes.forEach(function (pr) {
+        var df = 0;
+        keys.forEach(function (k) { if ((pr.ns ? hayNS(k) : hayK(k)).indexOf(pr.t) !== -1) df++; });
+        pr.ok = df > 1 && df / N < 0.03;
+      });
+      var loose = [];
+      keys.forEach(function (k) {
+        if (k === id || have[k]) return;
+        var o = ITEMS[k].item;
+        if (String(o.title_ko || o.title || '').trim().toLowerCase() === titleKey) return;
+        var s = 0, why = [];
+        probes.forEach(function (pr) { if (pr.ok && (pr.ns ? hayNS(k) : hayK(k)).indexOf(pr.t) !== -1) { s += pr.w; why.push(pr.label); } });
+        if (s >= 1.5) loose.push({ id: k, s: s, why: why, date: ITEMS[k].date });
+      });
+      loose.sort(function (a, b) { return b.s - a.s || (a.date < b.date ? 1 : -1); });
+      out = out.concat(loose);
+    }
     return out.slice(0, limit || 4);
   }
+  function hayK(k) { var r = ITEMS[k]; if (!r.hay) r.hay = hayOf(r.item); return r.hay; }
+  function hayNS(k) { var r = ITEMS[k]; if (!r.hayns) r.hayns = hayK(k).replace(/\s+/g, ''); return r.hayns; }
   function syncReader() {
     var r = ensureReader();
     var id = state.a;
