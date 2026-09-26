@@ -25,7 +25,8 @@
     "watch_for_breakage": [
       "Production Paradise (2026-09-17에 URL 슬래시 누락으로 깨진 링크 발견 후 수정됨 — 향후 URL 무결성 재확인 필요)",
       "blogthumb.pstatic.net (네이버 블로그 썸네일) — 2026-09-23에 base64 파라미터 중간에 임의 문자열(' erosion')이 삽입되어 404가 나는 손상된 image URL 발견, PostView.naver의 og:image 재조회로 수정함. 파이프라인이 URL을 스크래핑하는 과정에서 문자열 손상이 발생할 수 있음을 시사.",
-      "lensculture.com — 2026-09-23에 기사 URL이 403(봇 차단으로 추정)을 반환. 깨진 링크는 아니고 User-Agent 기반 차단일 가능성이 높음, 재확인 필요."
+      "lensculture.com — 2026-09-23에 기사 URL이 403(봇 차단으로 추정)을 반환. 깨진 링크는 아니고 User-Agent 기반 차단일 가능성이 높음, 재확인 필요.",
+      "designobserver.com — 2026-09-26에 기사 URL이 403(봇 차단으로 추정)을 반환. lensculture.com/medium.muz.li와 같은 패턴으로, 실제 깨진 링크가 아닐 가능성이 높음."
     ],
     "orphaned_legacy_file": "data/agent_memory.json 파일이 저장소에 존재하지만 fetch_ideas.py/agents/radar.py/index.html 등 현재 코드 어디에서도 참조되지 않는다 (2026-09-20 grep 확인). core_philosophy/recent_lessons 구조를 가진 레거시 파일로 추정되며, 내용이 반복적/보일러플레이트라 이 curator_memory.json이 사실상 이를 대체한다. 사용자 승인 없이 삭제하지 않는다."
   },
@@ -63,6 +64,11 @@
       "date": "2026-09-25",
       "status": "agent_added",
       "notes": "기계적 파이프라인 05:17 KST 정상 생성 확인 (topPicks 11건, session.selected 11). 자가진단: domain 분포는 Cinema & Narrative 5/11, Design & Space 4/11로 known_bias_to_watch가 계속 유효함을 재확인. social_proof 교차매칭 오탐이 이번엔 'design'이라는 흔한 단어에서 발생(2026-09-21 'beyond', 2026-09-23 'featuredvisual', 2026-09-24 'nature'/'artist'에 이은 5번째 관찰) — compute_cross_source_signals()의 구조적 버그가 계속 재현됨. medium.muz.li URL이 403을 반환했으나 lensculture.com과 같은 봇 차단 패턴으로 추정, 실제 깨짐은 아닐 가능성이 높음. Korean Code 항목(파리시립현대미술관 관련 네이버 블로그)이 한국어 소스이지만 소재 자체는 프랑스 전시라 실질적 한국 콘텐츠는 아니었음(2026-09-24 베를린 사례보다는 경미하나 같은 계열의 라벨링 이슈). 실제 리서치: 서울디자인재단이 지난 4월 밀라노 ADI 디자인뮤지엄에서 선보인 'SEOUL LIFE 2026: Heritage Reimagined, Soban' 전시(국내외 디자이너 17팀이 조선 소반을 3D프린팅+옻칠+나전으로 재해석, 밀라노 2만346명 방문)가 9월 14일~10월 8일 DDP 둘레길갤러리에서 DDP 정식 소장품 전시로 이어진다는 사실을 서울디자인재단 공식, DDP 공식 사이트, 환경일보(hkbs.co.kr) 등 3개 이상 매체로 교차 확인해 Korean Code 카테고리에 agent_curated:true로 추가, session.selected 11→12. 오늘은 진짜 한국 문화 소재(전통 공예 헤리티지)로 Korean Code 라벨의 실질을 채운 사례."
+    },
+    {
+      "date": "2026-09-26",
+      "status": "agent_added",
+      "notes": "기계적 파이프라인 05:17 KST 정상 생성 확인 (topPicks 12건, session.selected 12, considered 40). domain 분포는 Cinema & Narrative 5/12, Marketing & Brand 3/12, Korean Code 2/12, Design & Space 2/12로 Cinema 편중이 있으나 최근 며칠보다는 완화됨. 오늘 Korean Code 2건은 모두 오픈서베이 블로그(한국어 소스이자 한국 소비자 트렌드 리포트)로 라벨과 소재가 정확히 일치한 사례 — 최근 며칠 반복된 '한국어 소스 vs 한국 소재' 회색지대 문제가 오늘은 없었음. social_proof 교차매칭 오탐이 다시 'design'에서 발생(2026-09-25와 동일 단어 재발 — 매번 다른 단어가 아니라 같은 단어도 반복될 수 있음을 처음 확인, 누적 6회). designobserver.com URL이 403을 반환했으나 lensculture.com/medium.muz.li와 같은 봇 차단 패턴으로 추정(나머지 11건 URL, 이미지 12건 전부 200 정상). 실제 리서치: 연합뉴스가 2026-09-23~25 보도한 패션업계 '영화 같은 광고' 트렌드 — 내셔널지오그래픽 어패럴이 돌고래유괴단과 함께 고윤정·허남준을 캐스팅해 만든 '너를 만난 계절' 캠페인이 실제 로맨스 영화 개봉 포맷(챕터 표기, 개봉일, 티저→에피소드 순차공개)을 통째로 차용한 사례를 매일경제/네이트뉴스/bnt뉴스 등 4개 매체 동시보도로 검증해 Korean Code 카테고리에 agent_curated:true로 추가, session.selected 12→13. TVCF 연출자인 사용자 업무 도메인과 직접 연결되는 소재라 편집 가치가 높았음."
     }
   ],
   "editorial_decisions": [
@@ -80,5 +86,7 @@
     "social_proof 교차매칭 오탐이 2026-09-21('beyond')과 2026-09-23('featuredvisual') 두 차례에 걸쳐 서로 다른 무관한 기사 쌍에서 반복 확인됨 — 일회성이 아니라 fetch_ideas.py의 compute_cross_source_signals()에 있는 구조적 버그로 보임. 사용자가 코드 수정(최소 단어 길이 제한 또는 불용어 제외)을 승인하면 다음 세션에서 제안할 것.",
     "Korean Code 도메인 라벨링이 실제 콘텐츠 소재와 무관하게 붙는 사례를 2026-09-24에 처음 발견함 (베를린 그로피우스 바우 전시 리뷰가 'Korean Code'로 분류되어, 그날 진짜 한국 관련 콘텐츠가 0건이었음). domain 값만 믿지 말고 매일 topPicks 각 항목의 실제 소재가 라벨과 일치하는지 재확인할 것. 반복되면 fetch_ideas.py의 Korean Code 분류 로직 자체가 편향/오류를 갖고 있다는 뜻이므로 사용자에게 보고할 것.",
     "social_proof 교차매칭 오탐이 2026-09-25에 'design'에서도 발생해 누적 5회(beyond/featuredvisual/nature/artist/design) 관찰됨 — 매번 다른 흔한 단어에서 재현되는 것으로 보아 일회성 오류가 아니라 명백한 구조적 결함. 우선순위 큐 최상단으로 유지하고, 사용자가 다음 대화에서 코드 수정(최소 단어 길이 제한 또는 불용어 제외)을 승인하면 지체 없이 제안할 것.",
-    "2026-09-25 Korean Code 항목은 한국어 소스(네이버 블로그)이지만 소재는 프랑스 파리시립현대미술관 전시라 완전한 한국 콘텐츠는 아니었음(2026-09-24 베를린 사례보다는 경미). '한국어 소스'와 '한국 소재'를 구분해서 매일 점검할 것 — agent 추가 항목(오늘은 서울디자인재단 DDP 소반 전시)으로 실질을 보완하는 패턴이 반복 중임을 인지할 것."
+    "2026-09-25 Korean Code 항목은 한국어 소스(네이버 블로그)이지만 소재는 프랑스 파리시립현대미술관 전시라 완전한 한국 콘텐츠는 아니었음(2026-09-24 베를린 사례보다는 경미). '한국어 소스'와 '한국 소재'를 구분해서 매일 점검할 것 — agent 추가 항목(오늘은 서울디자인재단 DDP 소반 전시)으로 실질을 보완하는 패턴이 반복 중임을 인지할 것.",
+    "social_proof 교차매칭 오탐이 2026-09-26에 다시 'design'에서 발생 — 2026-09-25와 정확히 같은 단어가 재발한 첫 사례. 이전까지는 매번 다른 흔한 단어(beyond/featuredvisual/nature/artist/design)에서 나타나 '아무 단어나 걸린다'는 가설이었는데, 같은 단어가 반복된 것은 그 단어 자체(예: 'design')가 이 사이트 기사 제목에 특히 자주 등장해 우연 매칭 확률이 구조적으로 더 높다는 뜻일 수 있음. 누적 6회, 여전히 사용자 승인 대기.",
+    "2026-09-26 Korean Code 2건(오픈서베이 블로그 소셜미디어/카페 트렌드 리포트)은 한국어 소스이자 한국 소비자 소재로 라벨-소재가 정확히 일치한 좋은 사례였음 — 2026-09-24(베를린 오분류), 2026-09-25(파리 소재, 한국어 소스만 일치) 같은 회색지대 없이 지나간 첫 날. 오픈서베이 블로그처럼 실질적인 한국 리포트 소스가 자주 뽑히는 날엔 이 문제가 저절로 해소된다는 패턴 가설을 다음 실행에서 계속 검증할 것."
   ]}
