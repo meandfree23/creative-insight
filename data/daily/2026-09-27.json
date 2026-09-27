@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-09-26T22:52:20.232974",
     "considered": 40,
-    "selected": 11
+    "selected": 12
   },
   "topPicks": [
     {
@@ -271,7 +271,35 @@
       "depth": 0.79,
       "image": "https://spoon-tamago.com/wp-content/uploads/2026/08/gyoda-rice-paddy-art-minecraft-2026-3-200x150.jpeg",
       "pub_date": "2026-09-27T08:00:00.000000"
-    }
+    },
+  {
+    "title": "도루코, 창립 70주년 CI 리뉴얼로 '레드닷 디자인 어워드 2026' 기업 아이덴티티 부문 본상 수상",
+    "content": "면도기 제조사 도루코가 창립 70주년을 맞아 디자인 에이전시 플러스엑스와 함께 진행한 CI 리뉴얼 프로젝트로 '레드닷 디자인 어워드 2026' 브랜드&커뮤니케이션 디자인 부문 기업 아이덴티티 본상을 수상했다. 같은 날 페이셜 케어 브랜드 '틴클' 리뉴얼도 IDEA 디자인 어워드 2026 브랜딩 부문 파이널리스트에 선정됐다.",
+    "url": "https://designcompass.org/project/dorco/",
+    "source": "Design Compass",
+    "domain": "Design & Space",
+    "category": "리뷰",
+    "creator_name": "플러스엑스 (Plus X)",
+    "creator_insight": "'역사에 남다(Go down in history)'라는 메시지 하나를 단일 선(line) 로고 시스템으로 압축하고, Heritage Red와 메탈릭 그레이스케일을 병치해 70년 유산과 미래 기술력을 동시에 표현한 절제된 CI 문법.",
+    "tags": [
+      "CI 리뉴얼",
+      "브랜드 아이덴티티",
+      "레드닷 디자인 어워드",
+      "플러스엑스",
+      "도루코"
+    ],
+    "execution_techniques": [
+      "단일 선(line-based) 로고 심볼 시스템",
+      "Heritage Red + 메탈릭 그레이스케일 컬러 체계",
+      "GT America 글로벌 통합 서체 도입"
+    ],
+    "why": "70년 된 한국 제조업 브랜드가 로고 하나의 선(line)에 '리딩 엣지'라는 철학을 응축시켜 글로벌 심사에서 검증받은 사례로, 제품이 아니라 그래픽 언어 자체로 기업 정체성을 완성했다는 점에서 TVCF/브랜드 연출 실무에도 참고할 만한 CI 설계 논리를 보여준다.",
+    "social_proof": "파이낸셜뉴스·라이센스뉴스·녹색경제신문 등 국내 다수 매체가 2026-09-22 동일 사실(레드닷 기업 아이덴티티 본상 + 틴클 IDEA 파이널리스트)을 동시 보도",
+    "depth": 0.8,
+    "image": "https://image.fnnews.com/resource/media/image/2026/09/22/202609221718420258_e.jpg",
+    "pub_date": "2026-09-27T09:00:00.000000",
+    "agent_curated": true
+  }
   ],
   "popcorn": [
     {
