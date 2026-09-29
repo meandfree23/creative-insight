@@ -1,0 +1,312 @@
+{
+  "date": "2026-09-29",
+  "focusQ": "Agent's Thought: 클리셰로 점철된 미사여구는 버려라. 연출의 미학과 텍스처의 직관성이 기획의 생패를 가른다. 이미지와 프레임이 스스로 말하게 만드는 감각만을 엄선했다.",
+  "creator_message": "큐레이터의 메시지: 어설픈 AI 타령과 무의미한 건축 렌더링에 피로를 느낀 크리에이티브들을 위해 준비했다. 시각적 서사와 명확한 상업적 칼날을 갖춘 레퍼런스만 스크랩해라.",
+  "session": {
+    "timestamp": "2026-09-29T00:24:45.350308",
+    "considered": 40,
+    "selected": 10
+  },
+  "topPicks": [
+    {
+      "title": "사운드와 비전의 단편 영화: Opera Omnia",
+      "content": "감독 발랑탱 누잼과 뮤지션 스페이스 아프리카가 협업한 영상 프로젝트. 몽환적인 음향 프레임 속에서 도시의 유령 같은 풍경과 시각적 아우라를 밀도 높게 포착했다.",
+      "url": "https://www.nowness.com/series/sound-vision/opera-omnia-valentin-noujaim-space-afrika",
+      "source": "NOWNESS",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Valentin Noujaim",
+      "creator_insight": "발랑탱 누잼은 정교한 카메라 워크와 사운드 디자인의 결합을 통해 정적인 공간에 강렬한 드라마틱 서사를 주입하는 기량의 정점을 보여준다.",
+      "tags": [
+        "비디오아트",
+        "시네마틱",
+        "사운드디자인"
+      ],
+      "execution_techniques": [
+        "Lighting&Atmosphere",
+        "CinematicFraming"
+      ],
+      "why": "영상과 사운드가 상호작용하며 긴장감을 쌓아올리는 연출 방식은 필름 디렉터라면 반드시 스크랩해야 할 미학적 기준점이다.",
+      "social_proof": "",
+      "depth": 0.98,
+      "image": "https://img.nowness.com/nowness-frontend/NfbXO2VjSdWXXHKADmEg_OPERA%20OMNIA%20STILL%2014.jpg",
+      "pub_date": "2026-09-29T08:00:00.000000"
+    },
+    {
+      "title": "윗집 이웃에게: 코니 허 감독이 AI에게 자신의 드로잉을 가르친 방식",
+      "content": "픽사 출신 애니메이터 코니 허가 6분짜리 단편 애니메이션을 제작하며 커스텀 생성 AI 모델에 본인의 아트웍 스타일을 학습시킨 프로세스를 공개했다.",
+      "url": "https://motionographer.com/2026/09/28/dear-upstairs-neighbors-how-connie-he-taught-a-machine-to-see-the-way-she-draws/",
+      "source": "Motionographer",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Connie He",
+      "creator_insight": "공장형 AI 생성물을 거부하고 작가 고유의 붓터치와 오가닉한 질감을 파이프라인으로 이식해 개인 연출 스타일의 지평을 넓혔다.",
+      "tags": [
+        "애니메이션",
+        "AI프리프로덕션",
+        "모션디렉팅"
+      ],
+      "execution_techniques": [
+        "StyleTransferAnimation",
+        "HandDrawnTexture"
+      ],
+      "why": "기술에 지배당하지 않고 자신의 예술적 지문을 AI 도구로 정교하게 구현해낸 모션 디렉팅의 실전 예시.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Dear-Upstairs-Neighbors-Poster-474x700.jpg",
+      "pub_date": "2026-09-29T08:00:00.000000"
+    },
+    {
+      "title": "M&M's, 클리셰 장르를 위트 있게 패러디한 스포크스캔디 캠페인",
+      "content": "BBDO 시카고가 제작한 이번 캠페인은 텔레노벨라, 리얼리티 경연, 범죄 드라마 등 익숙한 TV 장르의 연출 문법을 패러디하여 캐릭터 비주얼을 재치 있게 재구성했다.",
+      "url": "https://www.campaignlive.com/article/m-ms-casts-its-spokescandies-tvs-familiar-genres/1970848",
+      "source": "Campaign Live",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "BBDO Chicago",
+      "creator_insight": "대중문화의 고전적 클리셰 장면들을 프레임 단위로 완벽히 오마주해 브랜디드 캐릭터의 유머 감각을 극대화했다.",
+      "tags": [
+        "브랜디드콘텐츠",
+        "영상연출",
+        "장르패러디"
+      ],
+      "execution_techniques": [
+        "GenreParodyLighting",
+        "CommercialEditing"
+      ],
+      "why": "뻔한 상업 광고 영상을 대중매체 문법 패러디로 탈바꿈시키는 유쾌하면서도 날카로운 기획적 혜안.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-09-29T08:00:00.000000"
+    },
+    {
+      "title": "가족 초상화를 통해 조명하는 디아스포라의 정체성",
+      "content": "사진작가 아얀 압디와 모하메드 아흐메드가 디아스포라 공동체의 가족 초상 사진을 통해 소속감과 이주 민족의 정체성을 시각적 서사로 재조명한다.",
+      "url": "https://wepresent.wetransfer.com/stories/ayan-abdi-photography-family-in-focus",
+      "source": "WePresent",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Ayan Abdi & Mohamed Ahmed",
+      "creator_insight": "피사체의 인물 사진 속 조명과 구도를 절제하여 인물 내면에 숨겨진 역사적 서사를 한 장의 정지 이미지로 압축해냈다.",
+      "tags": [
+        "인물사진",
+        "시각적서사",
+        "디아스포라"
+      ],
+      "execution_techniques": [
+        "EditorialPortraiture",
+        "ColorGrading"
+      ],
+      "why": "단순한 기공용 사진을 넘어 묵직한 인문학적 레이어를 시각 예술로 승화시키는 연출법.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/5uUEVWQHR7PCDx7ZjyYtwl/0d3fa46ee25a7e16b7a3350df7aa4305/86090007_copy.jpg",
+      "pub_date": "2026-09-29T08:00:00.000000"
+    },
+    {
+      "title": "제이콥 포크너의 사진 시리즈: 'Rowers'",
+      "content": "조정 선수들의 고된 훈련과 수면 위의 미학을 고요하면서도 격렬한 프레임 속에 담아낸 제이콥 포크너의 신규 사진 스토리가 공개되었다.",
+      "url": "https://www.booooooom.com/2026/09/25/rowers-by-photographer-jacob-faulkner/",
+      "source": "Booooooom",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Jacob Faulkner",
+      "creator_insight": "물의 질감과 피사체의 근육 운동을 초고속 셔터 speed와 시네마틱 톤으로 포착해 역동적 순간을 미학적 정적 상태로 가두었다.",
+      "tags": [
+        "사진학",
+        "시네마틱비주얼",
+        "구도미학"
+      ],
+      "execution_techniques": [
+        "HighSpeedPhotography",
+        "ChiaroscuroLighting"
+      ],
+      "why": "스포츠 포토그래피를 한 단계 끌어올려 영화의 한 장면 같은 서정적 감흥을 선사하는 시각적 완성도.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Faulkner1.jpg",
+      "pub_date": "2026-09-29T08:00:00.000000"
+    },
+    {
+      "title": "전주 노후 모텔의 감성 스테이 리브랜딩: 모키(Moki)",
+      "content": "전주 터미널 인근의 오래된 모텔을 현대적 스테이 공간으로 리브랜딩한 프로젝트. 잠만 자는 낙후된 숙소를 머무름 자체가 목적이 되는 공간 경험으로 전환했다.",
+      "url": "https://www.designtwoply.com/works/commercial/%eb%aa%a8%ed%85%94%ec%97%90%ec%84%9c-%ec%8a%a4%ed%85%8c%ec%9d%b4%eb%a1%9c-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%eb%aa%a8%ed%82%a4/",
+      "source": "Design Twoply",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "디자인투플라이",
+      "creator_insight": "한국 특유의 모텔 자산을 과감히 도려내고 웰니스와 로컬 감성을 접목하여 국내 리스테이 시장의 핵심 니즈를 정밀 타격했다.",
+      "tags": [
+        "공간리브랜딩",
+        "로컬스테이",
+        "한국소비트렌드"
+      ],
+      "execution_techniques": [
+        "AdaptiveReuse",
+        "MinimalLightingDesign"
+      ],
+      "why": "국내 중소형 숙박 시설의 자산 가치를 재정의하는 상업 공간 리브랜딩의 실질적 교본.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2025/10/moki-썸네일사이즈.jpg",
+      "pub_date": "2026-09-29T08:00:00.000000"
+    },
+    {
+      "title": "콘라트 피셔 갤러리: 마틴 마르지엘라의 경계적 미로 전시",
+      "content": "베를린 콘라트 피셔 갤러리에서 개최된 마틴 마르지엘라의 개인전. 신체, 신소재, 공간의 경계를 허무는 오브제와 미로 형태의 동선 설계를 선보인다.",
+      "url": "https://hypebeast.kr/2026/9/martin-margiela-in-berlin-konrad-fischer-galerie-exhibition-info",
+      "source": "Hypebeast Korea",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Martin Margiela",
+      "creator_insight": "패션 해체주의의 거장이 예술 공간으로 영역을 확장하며 해체와 미완성의 미학을 물질적 스케일로 관객에게 강제한다.",
+      "tags": [
+        "전시디자인",
+        "해체주의",
+        "마르지엘라"
+      ],
+      "execution_techniques": [
+        "SpatialMazes",
+        "TactileMateriality"
+      ],
+      "why": "브랜드 유산이 어떻게 순수 예술 공간에서 감각적인 실체로 치환되는지 증명하는 스파티알 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F09%2Fmartin-margiela-in-berlin-konrad-fischer-galerie-exhibition-info-0.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-09-29T08:00:00.000000"
+    },
+    {
+      "title": "탄화목 야키스기와 버몬트 숲의 결합: 마일로 하우스",
+      "content": "엘리자베스 허먼이 설계한 버몬트주 마일로 하우스는 전통 탄화목(Gendai Yakisugi) 외장재를 사용하여 숲속 환경과 조화를 이루는 강렬한 텍스처를 형성했다.",
+      "url": "https://design-milk.com/milo-house-gendai-yakisugi-vermont/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Elizabeth Herrmann",
+      "creator_insight": "단순한 목조 건축을 넘어 표면을 그을린 야키스기 기법을 적용하여 시각적 질감과 내구성을 결합한 원형적 형태를 만들어냈다.",
+      "tags": [
+        "공간디자인",
+        "야키스기",
+        "텍스처미학"
+      ],
+      "execution_techniques": [
+        "CharredTimberCladding",
+        "MonolithicVoluming"
+      ],
+      "why": "전통 재료의 표면 질감을 묵직한 현대적 건축 볼륨으로 변환시킨 비주얼 스페셜티.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://design-milk.com/images/2026/09/milo-house-elizabeth-herrmann-architecture-16-e1789677650524.jpg",
+      "pub_date": "2026-09-29T08:00:00.000000"
+    },
+    {
+      "title": "분자 단위의 집착: 무 판(Mu Pan)의 아크릴 만다라",
+      "content": "브루클린 기반 아티스트 무 판이 분자 수준의 세밀함으로 완성한 정교한 만다라 시리즈. 복잡한 서사구조와 신화적 요소를 정교한 필치로 그렸다.",
+      "url": "https://www.thisiscolossal.com/2026/09/mu-pan-acrylic-paintings-drawings-mandalas/",
+      "source": "Colossal",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Mu Pan",
+      "creator_insight": "광기 어린 스케일의 밀도감과 동양적 신화 서사를 현대적 아크릴 일러스트레이션으로 뒤섞어 밀도감의 한계를 보여준다.",
+      "tags": [
+        "일러스트레이션",
+        "시각적밀도",
+        "동양적서사"
+      ],
+      "execution_techniques": [
+        "MicroDetailing",
+        "LayeredComposition"
+      ],
+      "why": "보는 이의 시선을 압도하는 시각적 밀도와 레이어링 기법을 배울 수 있는 미학적 작품.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/pan-2.jpg",
+      "pub_date": "2026-09-29T08:00:00.000000"
+    },
+    {
+      "title": "기괴한 푸드 협업 컬래버레이션이 범람하는 이유",
+      "content": "브랜드들이 혐오감을 유발하거나 상식 밖의 식음료 협업 제품을 지속적으로 출시하는 마케팅 심리 및 바이럴 자극 메커니즘을 분석한다.",
+      "url": "https://www.creativebloq.com/design/branding/why-are-so-many-brands-making-disgusting-food-collabs",
+      "source": "Creative Bloq",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Creative Bloq Editorial",
+      "creator_insight": "노이즈 마케팅과 도파민 중심의 소셜 미디어 알고리즘을 노린 엽기적 브랜딩 협업 전략의 실제 효율성을 신랄하게 파헤친다.",
+      "tags": [
+        "브랜드전략",
+        "바이럴마케팅",
+        "유기적노이즈"
+      ],
+      "execution_techniques": [
+        "ShockValueMarketing",
+        "SubversiveBranding"
+      ],
+      "why": "어설픈 예쁜 브랜딩보다 인지도를 폭발시키는 기괴한 노이즈 전략의 비즈니스적 역설을 이해하라.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://cdn.mos.cms.futurecdn.net/E2kMHco8GaiTRwj9SWHTJ8-1920-80.jpg",
+      "pub_date": "2026-09-29T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "2026년 크리에이터 워크플로우를 10배 높여주는 디자인 툴 세트",
+      "content": "현업 실무자가 실제로 매일 사용하는 생산성 및 시각화 디자인 도구 모음집.",
+      "url": "https://medium.muz.li/10-best-design-tools-how-i-10x-my-design-workflow-in-2026-49d3760021e7?source=rss----5969bf7021a3---4",
+      "source": "Muzli (Medium)",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "디자인툴",
+        "생산성"
+      ],
+      "why": "작업 시간을 효율적으로 단축하고 워크플로우에 바로 적용할 수 있는 유용한 도구 스낵 리포트.",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/1024/1*7dWeJi99TL3bs3p0uzk6SQ.png",
+      "pub_date": "2026-09-29T08:00:00.000000"
+    },
+    {
+      "title": "월페이퍼가 선정한 신규 AI 디바이스 8선",
+      "content": "웨어러블부터 데스크톱 오브제까지 AI와 교감하는 형태의 최신 하드웨어 모음.",
+      "url": "https://www.wallpaper.com/tech/8-new-ai-devices",
+      "source": "Wallpaper*",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "테크디자인",
+        "AI하드웨어"
+      ],
+      "why": "새로운 하드웨어 폼팩터들이 어떤 비주얼 언어를 채택하고 있는지 빠르게 파악하기 좋다.",
+      "depth": 0.5,
+      "image": "https://cdn.mos.cms.futurecdn.net/zE6SVqGvjpQM6zHEQPGzCo-1920-80.jpg",
+      "pub_date": "2026-09-29T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "시네마틱 프레이밍",
+      "is_hot": true
+    },
+    {
+      "word": "탄화목 질감 미학",
+      "is_hot": false
+    },
+    {
+      "word": "장르 패러디 연출",
+      "is_hot": true
+    },
+    {
+      "word": "해체주의 공간화",
+      "is_hot": false
+    },
+    {
+      "word": "노이즈 브랜딩",
+      "is_hot": true
+    },
+    {
+      "word": "로컬 스테이 재정의",
+      "is_hot": true
+    }
+  ]
+}
