@@ -1,0 +1,424 @@
+{
+  "date": "2026-09-30",
+  "focusQ": "Agent's Thought: 어설픈 렌더링과 의미 없는 AI 텍스트가 범람하는 시장에서 진짜 visual weight를 지닌 디렉팅만 골라냈다. 베를린의 퇴폐적 미학부터 비디오 아트의 감각적 연출까지, 겉포장만 화려한 작업들을 솎아낸 진정한 크리에이티브 결산이다. 말보다 시각적 실체로 증명하는 레퍼런스에 집중하라.",
+  "creator_message": "큐레이터의 메시지: 말만 거창하고 알맹이는 없는 기획안에 지쳤다면 제대로 봐라. 미학적 완성도 없는 알량한 건축물이나 식상한 브랜드 슬로건 따위는 차단했다. 날카로운 미앙적 감각과 실전 연출 테크닉을 갈고닦을 정통 레퍼런스만 남겼으니 그대로 흡수하도록.",
+  "session": {
+    "timestamp": "2026-09-29T23:46:12.407150",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "알츠하이머의 언어 상실을 시각화한 감각적 단편 영화 'Aphasia'",
+      "content": "알츠하이머 환자가 언어 능력을 잃어갈 때 겪는 혼란과 감각적 왜곡을 미학적인 연출과 기괴한 사운드 디자인으로 담아낸 단편 영상 작품이다.",
+      "url": "https://vimeo.com/channels/staffpicks/1226954782",
+      "source": "Vimeo Staff Picks",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Vimeo Staff Picks Curators",
+      "creator_insight": "언어의 해체를 기획적 추상이 아닌 프레임 단위의 질감과 불쾌한 렌즈 와곡으로 구현하여 시청자에게 직접적인 감각적 압박을 선사한다.",
+      "tags": [
+        "비디오아트",
+        "단편영화",
+        "감각적연출"
+      ],
+      "execution_techniques": [
+        "Sensory Distortion",
+        "Sound Design"
+      ],
+      "why": "추상적인 질환의 고통을 직관적인 렌즈 연출과 사운드 레이어링으로 시각화한 고난도 디렉팅 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://i.vimeocdn.com/video/2201266517-b6710def3df3d18bbb43582416bba42bce672f8f2a6d2b72792e4d9e216ad059-d_960?region=us",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "배우 샘 닐의 유작과 기괴한 미학을 되짚다",
+      "content": "영화 '광기의 피노키오'와 '이벤트 호라이즌'으로 독보적 캐릭터를 구축했던 배우 샘 닐의 필모그래피와 연출적 기법을 조명한다.",
+      "url": "https://filmmakermagazine.com/134021-remembering-sam-neill/",
+      "source": "Filmmaker Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Filmmaker Editorial",
+      "creator_insight": "공포와 광기를 연기할 때 카메라 앵글과 배우의 호흡이 만들어내는 서스펜스의 밀도를 명확히 짚어낸다.",
+      "tags": [
+        "영화연출",
+        "시네마틱",
+        "필모그래피"
+      ],
+      "execution_techniques": [
+        "Psychological Framing",
+        "Lighting Contrast"
+      ],
+      "why": "클래식 호러 및 스릴러 영화에서 카메라 매칭과 인물 연출이 어떻게 긴장감을 극대화하는지 증명하는 사료.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/in-the-mouth-of-madness-940x400.jpg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "디스코드 연령 인증 규제에 맞선 서브컬처 크리에이터들의 잔혹 아트 시위",
+      "content": "디스코드의 강제 연령 인증 정책에 반발하여 마스코트 캐릭터를 기괴하고 잔혹하게 변형한 서브컬처 팬아트 및 애니메이션 시위가 확산되고 있다.",
+      "url": "https://80.lv/articles/discord-users-protest-age-verification-with-gruesome-art-of-its-cartoon-mascot/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Discord User Community",
+      "creator_insight": "플랫폼의 억압적 규제에 대응해 브랜드 아이콘을 스스로 해체하고 기괴한 비주얼로 재가공하는 유저 주도형 반란 커뮤니케이션.",
+      "tags": [
+        "서브컬처",
+        "팬아트",
+        "디지털애니메이션"
+      ],
+      "execution_techniques": [
+        "Subversive Character Design",
+        "Dark Humor"
+      ],
+      "why": "브랜드의 마스코트가 상징적 반항의 도구로 변질되는 과정에서 나타나는 디지털 서브컬처의 기묘한 에너지.",
+      "social_proof": "2개 매체 동시 포착: content",
+      "depth": 0.88,
+      "image": "https://cdn.80.lv/api/upload/post/41784/images/6abb9a6722db8/cover_800x800.jpg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "베를린 갤러리 맥스 헤츨러, 윌리엄 N. 코플리의 관능적 팝아트전",
+      "content": "베를린 갤러리 맥스 헤츨러에서 윌리엄 N. 코플리의 1970년대 작업 'X-Rated' 연작을 통해 에로티시즘과 위트를 결합한 팝아트 미학을 선보인다.",
+      "url": "https://www.juxtapoz.com/news/painting/william-n-copley-x-rated-1972-1974-galerie-max-hetzler-berlin/",
+      "source": "Juxtapoz",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "William N. Copley",
+      "creator_insight": "금기시되는 소재를 대담한 선과 원색의 면으로 단순화하여 포르노그래피와 순수 미술의 경계를 조롱한다.",
+      "tags": [
+        "팝아트",
+        "베를린전시",
+        "일러스트"
+      ],
+      "execution_techniques": [
+        "Flat Color Blocks",
+        "Contour Line Art"
+      ],
+      "why": "상업적 금기와 순수 예술의 아슬아슬한 경계선에서 구사하는 대담한 그래픽 표현 방식.",
+      "social_proof": "2개 매체 동시 포착: berlin",
+      "depth": 0.9,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/fe3ae852da4c9b4899a335d0e4574387_L.jpg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "베를린 신진 디자인 씬의 에너지를 집약한 커런츠 페스티벌",
+      "content": "독립 디자이너와 크리에이티브 컬렉티브가 한데 모여 베를린 전역에서 펼친 새로운 디자인 페스티벌 'Currents'의 현장과 핵심 작품들을 다룬다.",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/currents-design-festival-berlin",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Currents Berlin Collectives",
+      "creator_insight": "상업화된 거대 페어에서 벗어나 언더그라운드 디자인 스튜디오들이 직관적인 오브제와 가구로 완성한 대안적 미학.",
+      "tags": [
+        "디자인페스티벌",
+        "베를린",
+        "오브제디자인"
+      ],
+      "execution_techniques": [
+        "Experimental Materiality",
+        "Spatial Installation"
+      ],
+      "why": "트렌드에 휘둘리지 않고 날것의 재료감과 실험적 조형성으로 무장한 베를린 디자인 스튜디오의 저력.",
+      "social_proof": "2개 매체 동시 포착: berlin",
+      "depth": 0.91,
+      "image": "https://cdn.mos.cms.futurecdn.net/wSXZWLmpi5DvbTLuGDdeXD-1920-80.jpg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "아티스트 웹사이트의 본질: 시각 포트폴리오 큐레이션 가이드",
+      "content": "시각 예술가들이 불필요한 장식을 배제하고 작품 본연의 무게감을 전달하기 위해 웹사이트 레이아웃과 콘텐츠를 구성하는 군더더기 없는 전략을 제안한다.",
+      "url": "https://veryprivategallery.com/website-for-artists/",
+      "source": "Very Private Gallery",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Very Private Gallery",
+      "creator_insight": "화려한 애니메이션 대신 작품의 해상도와 여백의 비율로 아티스트의 고유한 세계관을 증명하는 디지털 가이드.",
+      "tags": [
+        "웹디자인",
+        "포트폴리오",
+        "브랜딩"
+      ],
+      "execution_techniques": [
+        "Minimal UI Layout",
+        "Visual Grid Strategy"
+      ],
+      "why": "화려함에 눈이 멀어 정작 본질인 시각 콘텐츠를 놓치는 디자이너들에게 던지는 직구.",
+      "social_proof": "2개 매체 동시 포착: content",
+      "depth": 0.87,
+      "image": "https://veryprivategallery.com/wp-content/uploads/2026/05/website-for-artists-header.jpg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "전태형 작가의 초현실적 보태니컬 디지털 일러스트레이션",
+      "content": "한국 출신 작가 전태형이 디테일한 디지털 드로잉 기법으로 완성한 식물학 모티프의 그래픽 아트북 'Folium'을 소개한다.",
+      "url": "https://www.thisiscolossal.com/2026/09/taehyoung-maria-jeon-folium-botanical-illustration-book/",
+      "source": "Colossal",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Taehyoung Maria Jeon",
+      "creator_insight": "정밀한 식물학적 관찰에 동양적 선의 기운과 디지털 텍스처를 덧입혀 독보적인 초현실적 그래픽 세계관을 구축했다.",
+      "tags": [
+        "한국크리에이터",
+        "디지털일러스트",
+        "그래픽아트"
+      ],
+      "execution_techniques": [
+        "Digital Botanical Drawing",
+        "Precision Linework"
+      ],
+      "why": "섬세한 라인워크와 집요한 묘사력으로 글로벌 그래픽 아카이브에서 존재감을 증명한 모범 사례.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/Plant-196.jpeg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "샤넬 문화 기금과 방콕 DiB의 만남: 게이밍 세계관이 접목된 현대미술",
+      "content": "방콕 DiB 미술관에서 아티스트 나윈 누통이 게이밍 메커니즘과 인터랙티브 미디어를 결합하여 샤넬의 신규 문화 커미션 위작을 선보인다.",
+      "url": "https://www.wallpaper.com/art/galleries/gaming-inspires-chanels-first-gateway-commission-on-show-at-dib-bangkok",
+      "source": "Wallpaper*",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Nawin Nuthong",
+      "creator_insight": "럭셔리 하우스의 우아함과 비디오 게임의 서브컬처 코드를 조화롭게 버무려 젊은 예술 소비층을 끌어들이는 커미션 작업.",
+      "tags": [
+        "샤넬",
+        "게이밍아트",
+        "인터랙티브전시"
+      ],
+      "execution_techniques": [
+        "Gamified Installation",
+        "Interactive Storytelling"
+      ],
+      "why": "하이엔드 럭셔리 브랜드가 서브컬처 매체를 다루는 세련된 방식과 시각적 접점 설계법.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdn.mos.cms.futurecdn.net/xKPy9tcG44Ywke4M9CUtZd-1920-80.jpg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "알파 로메오의 묵직한 조형성을 이식한 타이베이 카페 포르투나",
+      "content": "RLWW 스튜디오가 알파 로메오의 상징적인 과드라포글리오 기하학 구조와 밀라노 모더니즘 재료를 타이베이의 카페 공간에 성공적으로 재interprete했다.",
+      "url": "https://www.designboom.com/design/dark-wood-deep-green-alfa-romeo-iconic-design-caffe-fortuna-taipei-rlww-studio/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "RLWW Studio",
+      "creator_insight": "클래식 카의 기계적 미학을 짙은 우드와 그린 컬러의 질감으로 번역하여 우아한 공간감으로 탈바꿈시켰다.",
+      "tags": [
+        "공간디자인",
+        "알파로메오",
+        "밀라노모더니즘"
+      ],
+      "execution_techniques": [
+        "Geometric Woodwork",
+        "Brand Identity Spatialization"
+      ],
+      "why": "자동차 브랜드의 역사적 디자인 언어가 인테리어의 질감과 컬러로 전환되는 탁월한 조형적 훈련.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/caffe-fortuna-quadrifoglio-alfa-romeo-taipei-rlww-studio-designboom-700-500x400-22b08q85r457.jpg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "빈 모더니즘을 디지털 UI로 재해석한 융 판마트 도나우의 디자인 시스템",
+      "content": "크리에이티브 에이전시 Jung von Matt DONAU가 비엔나 디자인 위크를 기념하여 빈 모더니즘 양식을 모던 Figma UI 템플릿으로 풀어냈다.",
+      "url": "https://abduzeedo.com/jung-von-matt-donau-crafts-vienna-template-ui-design/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Jung von Matt DONAU",
+      "creator_insight": "고전적인 타이포그래피 규칙과 조형 이론을 현대 UI Grid 시스템에 강제로 주입해 독창적인 웹 패러다임을 제안한다.",
+      "tags": [
+        "UIUX",
+        "비엔나모더니즘",
+        "디자인시스템"
+      ],
+      "execution_techniques": [
+        "Modernist Grid Systems",
+        "Editorial Typography"
+      ],
+      "why": "뻔한 3단 웹 그리드에 질린 디자이너들에게 고전 예술 양식이 훌륭한 시스템이 될 수 있음을 보여주는 사례.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_vienna-template-jung-von-matt.jpg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "Dalziel & Pow가 선보이는 아날로그 리노컷 타이포그래피 브랜딩",
+      "content": "런던의 디자인 스튜디오 Dalziel & Pow가 수작업 리노컷 판화 기법을 활용하여 중고 의류 캠페인 'Secondhand September'의 브랜드 아이덴티티를 구축했다.",
+      "url": "https://abduzeedo.com/dalziel-pow-unveils-create-crisis-brand-identity/",
+      "source": "abduzeedo.com",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Dalziel & Pow",
+      "creator_insight": "컴퓨터 베치 작업에서 나올 수 없는 거친 손맛의 판화 텍스처로 캠페인의 친환경 메시지를 직관적으로 각인시켰다.",
+      "tags": [
+        "브랜딩",
+        "타이포그래피",
+        "판화미학"
+      ],
+      "execution_techniques": [
+        "Handcrafted Linocut",
+        "Tactile Print Assets"
+      ],
+      "why": "디지털 그래픽 일색인 광고판에서 아날로그 판화의 투박함이 주는 거대한 시각적 타격감.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_create-for-crisis-dalziel-pow_0.jpg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "캠퍼와 비트라 디자인 뮤지엄의 컬래버레이션 전시",
+      "content": "신발 브랜드 캠퍼가 아트 바젤 2026을 맞아 비트라 디자인 뮤지엄에서 자사의 협업 프로젝트와 오가닉 형태의 가구 오브제들을 전시한다.",
+      "url": "https://www.fubiz.net/2026/07/01/camper-for-vitra-design-museum-at-art-basel-2026/",
+      "source": "Fubiz",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Camper & Vitra Design Museum",
+      "creator_insight": "패션 잡화가 공간 오브제 및 건축 뮤지엄과 결합할 때 발생하는 입체적인 브랜드 경험 설계.",
+      "tags": [
+        "캠퍼",
+        "비트라",
+        "전시디자인"
+      ],
+      "execution_techniques": [
+        "Sculptural Shoe Display",
+        "Spatial Collaboration"
+      ],
+      "why": "제품을 단순 판매 대상이 아닌 유기적 조형물로 승화시키는 브랜드 리테일의 정석.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.fubiz.net/wp-content/uploads/2026/07/06_VDM_Hella-Jongerius-Exhibition_hr-900x600.jpg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "초현실주의 화가 레메디오스 바로가 현대 연출가들에게 남긴 미학적 유산",
+      "content": "덴마크 루이지애나 채널에서 여성 초현실주의 작가 레메디오스 바로의 몽환적인 화풍이 현대 시각예술가와 작가들에게 미친 영향력을 분석한다.",
+      "url": "https://www.thisiscolossal.com/2026/09/remedios-varo-surrealist-paintings-louisiana-channel/",
+      "source": "Colossal",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Remedios Varo / Louisiana Channel",
+      "creator_insight": "연금술과 신화적 도상학을 기하학적 건축물 안에 배치하는 고밀도 프레임 구성 기법.",
+      "tags": [
+        "초현실주의",
+        "회화",
+        "미술사"
+      ],
+      "execution_techniques": [
+        "Surreal Storyboarding",
+        "Architectural Fantasy"
+      ],
+      "why": "영화 콘셉트 아트와 미장센 기획 시 참고할 수 있는 가장 우아하고 신비로운 회화적 레이아웃.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/varo-1.jpeg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "독립 공연 주최자를 위한 다이렉트 티켓팅 플랫폼 언스픽",
+      "content": "별도의 제휴 절차 없이 인디 아트쇼, 대학 공연, 소극장 연극의 주최자가 직접 티켓을 등록하고 판매할 수 있는 국내 플랫폼 언스픽을 다룬다.",
+      "url": "https://www.artinsight.co.kr/news/view2.php?no=82633",
+      "source": "Artinsight",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "UNSPICK Team",
+      "creator_insight": "중간 유통 단계를 제거하고 인디 창작자들의 소규모 공연 마케팅 진입 장벽을 낮춘 실용적 서비스 구조.",
+      "tags": [
+        "한국플랫폼",
+        "인디공연",
+        "티켓팅"
+      ],
+      "execution_techniques": [
+        "Direct Ticketing UX",
+        "Creator Friction Elimination"
+      ],
+      "why": "국내 서브컬처 및 소규모 인디 예술 시장의 유통 구조를 직관적으로 개편하려는 모바일 UX 접근.",
+      "social_proof": "",
+      "depth": 0.8,
+      "image": "https://www.artinsight.co.kr/data/tmp/2609/20260930070157_hfhxkiys.jpg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "일상 오브제와 그림자가 만든 위트 있는 섀도 아트",
+      "content": "사물의 그림자 위에 유머러스한 드로잉을 덧붙여 새로운 상황을 연출하는 재치 있는 미주얼 아트 프로젝트.",
+      "url": "https://www.fubiz.net/2023/01/10/amusing-pieces-made-with-shadows-3/",
+      "source": "Fubiz",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "그림자아트",
+        "아이디어"
+      ],
+      "why": "사소한 시각적 착시를 숏폼 숏츠나 기발한 컷 연출로 승화시키는 가장 단순하고 강력한 예시.",
+      "depth": 0.5,
+      "image": "https://www.fubiz.net/wp-content/uploads/2022/01/VB6.jpg",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "위트 있는 모티브의 프렌치 악테오 시계 디자인",
+      "content": "음악, 미술, 스포츠 등 다양한 직업군의 도구를 시침과 분침으로 재해석한 위트 있는 프랑스 시계 브랜드 소개.",
+      "url": "https://honestart.tistory.com/98",
+      "source": "honestart.tistory.com",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "제품디자인",
+        "위트오브제"
+      ],
+      "why": "아이콘을 가볍고 재치 있게 오프라인 제품으로 확장하는 그래픽적 재치.",
+      "depth": 0.5,
+      "image": "https://t1.daumcdn.net/cfile/tistory/2301FB48540FE7B412",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "영화 포스터 제작 무료 툴을 찾는 디자이너들의 토론 스레드",
+      "content": "포토샵 대신 사용할 수 있는 영화 포스터 작업용 그래픽 툴 레퍼런스를 공유하는 레딧 디자인 커뮤니티 스레드.",
+      "url": "https://www.reddit.com/r/Design/comments/1wtnqko/websites_to_make_a_movie_poster/",
+      "source": "Reddit /r/Design",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "포스터디자인",
+        "디자인툴"
+      ],
+      "why": "실무자들이 구체적으로 어떤 대체 그래픽 툴을 사용해 포스터 워크플로우를 단순화하는지 파악 가능한 소스.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Reddit%20/r/Design%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-09-30T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "베를린 팝아방가르드",
+      "is_hot": true
+    },
+    {
+      "word": "감각 왜곡 미장센",
+      "is_hot": true
+    },
+    {
+      "word": "판화 텍스처 브랜딩",
+      "is_hot": false
+    },
+    {
+      "word": "서브컬처 플랫폼 반란",
+      "is_hot": true
+    },
+    {
+      "word": "고전 모더니즘 UI",
+      "is_hot": false
+    },
+    {
+      "word": "초현실 보태니컬 드로잉",
+      "is_hot": true
+    }
+  ]
+}
