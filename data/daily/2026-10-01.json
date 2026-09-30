@@ -1,0 +1,360 @@
+{
+  "date": "2026-10-01",
+  "focusQ": "소비자의 시선을 0.1초 만에 사로잡지 못하는 시각 예술은 단순한 자위행위에 불과하다. 2D 프레임에 갇힌 미학을 넘어 프레임 밖의 서사를 설계하는 영상 연출과 냉혹한 마케팅 리얼리즘만이 크리에이터의 생존 조건이다.",
+  "creator_message": "허울 좋은 공간이나 뜬구름 잡는 디자인 이론은 치워라. 오늘 선택한 레퍼런스는 렌즈를 통해 서사를 설계하는 직관적 연출력과 상업적 긴장감을 품은 신호들이다. 감상에 젖지 말고 실전 감각만 뼈저리게 챙겨가라.",
+  "session": {
+    "timestamp": "2026-09-30T23:51:43.851582",
+    "considered": 40,
+    "selected": 12
+  },
+  "topPicks": [
+    {
+      "title": "영화 <What If They Bomb Here Tonight?>: 유리 지붕 아래 팽팽한 정적",
+      "content": "레바논 레바논 베이루트의 한 부부가 유리 프레임 구조물 아래서 느끼는 긴장감과 아름다움을 다룬 비메오 스태프 픽 단편 영화. 폭격의 공포 속에서도 지상의 빛을 담아내는 건축과 영화적 연출이 돋보인다.",
+      "url": "https://vimeo.com/channels/staffpicks/1225756547",
+      "source": "Vimeo Staff Picks",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Samir and Nadine",
+      "creator_insight": "폭격이라는 극단적 상황을 신파 없이 프레임 안의 조명과 건축적 유리 구조물만으로 정교하게 압축해 내는 연출력.",
+      "tags": [
+        "비메오스태프픽",
+        "단편영화",
+        "미장센"
+      ],
+      "execution_techniques": [
+        "#NaturalLighting",
+        "#ArchitecturalFraming"
+      ],
+      "why": "공간 구조가 서사의 긴장감을 극대화하는 완벽한 시네마틱 텍스트. 프레임 내 빛 계산법을 배울 수 있다.",
+      "social_proof": "",
+      "depth": 0.98,
+      "image": "https://i.vimeocdn.com/video/2205164271-69f2b220c38ccf0cdc5857b3c2cecb8abe889bdbfe36b5f98448f6ee955a9dd4-d_960?region=us",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    },
+    {
+      "title": "볼턴 국제 단편 영화제 2026: 시선을 압도하는 단편 10선",
+      "content": "정치성, 강렬함, 위트를 모두 갖춘 2026 볼턴 국제 단편 영화제 대표작 10편을 조명한다. 다양한 장르와 시각적 스타일을 다루며 현대 단편 영화의 압축적 연출 기법을 제시한다.",
+      "url": "https://directorsnotes.com/2026/09/09/bolton-2026-best-shorts/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Bolton International Film Festival Directors",
+      "creator_insight": "짧은 러닝타임 안에 톤앤매너를 완벽하게 통제하며 독자적인 미장센을 완공하는 독립 감독들의 감각.",
+      "tags": [
+        "볼턴영화제",
+        "단편영화",
+        "카메라워크"
+      ],
+      "execution_techniques": [
+        "#NarrativeCompression",
+        "#VisualPacing"
+      ],
+      "why": "길고 지루한 설명 없이 영상의 분위기와 컷 구성만으로 대중의 감정을 쥐고 흔드는 숏폼 미학의 교본.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/09/a_little_death_bolton_2026.jpg",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    },
+    {
+      "title": "단편 영화 <Transylvanie>: 10세 소녀의 착각이 만든 기묘한 잔혹극",
+      "content": "자신이 뱀파이어라고 믿는 10세 소녀 에와의 시선을 따라가는 심리 단편 영화. 차가운 앵글과 인물의 시선 처리를 통해 기묘한 몰입감을 선사한다.",
+      "url": "https://www.shortoftheweek.com/2026/09/16/transylvanie/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Ewa & Transylvanie Production Team",
+      "creator_insight": "어린아이의 왜곡된 세계관을 시각적 콘트라스트와 차가운 미장센으로 엮어낸 심리적 연출의 정수.",
+      "tags": [
+        "ShortOfTheWeek",
+        "심리무비",
+        "촬영기법"
+      ],
+      "execution_techniques": [
+        "#POV_Shots",
+        "#ColdColorGrading"
+      ],
+      "why": "캐릭터의 왜곡된 시각을 카메라 앵글로 구체화하는 방식에 대한 탁월한 힌트.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/09/transylvanie_short_film_06.jpg",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    },
+    {
+      "title": "안드로이드 태블릿에서 구동되는 블렌더 5.3과 모션의 미래",
+      "content": "블렌더 5.3이 안드로이드 플래폼 및 와콤 태블릿 환경에서 공식 구동되는 시연 영상을 발표했다. 모바일 환경에서 3D 렌더링 및 모션 작업이 가능해진 시각 작업의 체질 변화를 다룬다.",
+      "url": "https://80.lv/articles/see-blender-5-3-running-on-wacom-android-tablet/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Blender Foundation Development Team",
+      "creator_insight": "데스크톱에 갇혀 있던 3D 모션 연출 환경을 현장 중심으로 직관화해 프레임 제작 스피드를 올린 기술적 전환.",
+      "tags": [
+        "블렌더5.3",
+        "모션디자인",
+        "3D렌더링"
+      ],
+      "execution_techniques": [
+        "#MobileWorkflow",
+        "#RealTimeRendering"
+      ],
+      "why": "제작 파이프라인의 속도가 곧 연출의 경쟁력이 되는 시대. 장비의 한계를 부수는 모션 제작의 미래.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://cdn.80.lv/api/upload/post/41806/images/6abd367592ee5/cover_800x800.jpg",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    },
+    {
+      "title": "BuildFest 2026: 야생화 모티브의 재활용 목재 파빌리온 비디오",
+      "content": "리하이 대학교 학생들이 디진(Dezeen)과 협업해 선보인 비디오 프로젝트. 야생화를 모티브로 한 재활용 목재 파빌리온 구조물이 비디오 카메라의 렌즈를 통해 어떻게 생동감을 얻는지 보여준다.",
+      "url": "https://www.dezeen.com/2026/09/30/recyclable-wildflower-timber-installation-buildfest-2026/",
+      "source": "Dezeen",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Lehigh University Students & Dezeen Video Team",
+      "creator_insight": "정적인 건축 구조물을 움직이는 영상 매체의 카메라 워크로 해석하여 유기적인 생명력을 부여한 연출.",
+      "tags": [
+        "디진비디오",
+        "목재파빌리온",
+        "공간 연출"
+      ],
+      "execution_techniques": [
+        "#KineticStructure",
+        "#CinematicArchitecture"
+      ],
+      "why": "건축물도 결국 영상 속에서 어떻게 프레이밍되느냐에 따라 브랜딩의 가치가 달라진다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "http://static.dezeen.com/uploads/2026/09/wildflower_sq1-411x411.jpg",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    },
+    {
+      "title": "루킨 커피 싱가포르 100호점 출점: 오프라인 확장 스케일",
+      "content": "중국의 루킨 커피가 싱가포르 진출 3년 만에 100번째 매장을 열었다. 리테일 매장 확장 및 기술 기반 오프라인 운영 체계의 공격적 행보를 분석한다.",
+      "url": "https://www.brandinginasia.com/luckin-coffee-singapore-opens-100th-store-three-years-after-initial-launch/",
+      "source": "Branding in Asia",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Luckin Coffee Regional Strategy Team",
+      "creator_insight": "데이터 중심의 입지 분석과 오프라인 스토어 시스템을 극단적으로 단순화하여 시장 침투 속도를 끌어올린 전략.",
+      "tags": [
+        "루킨커피",
+        "리테일스토어",
+        "브랜드확장"
+      ],
+      "execution_techniques": [
+        "#DataDrivenExpansion",
+        "#AgileRetail"
+      ],
+      "why": "거대 F&B 브랜드가 오프라인 접점을 확장할 때 필요한 속도감과 효율적인 브랜딩 뼈대.",
+      "social_proof": "2개 매체 동시 포착: store",
+      "depth": 0.88,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/09/Luckin-Coffee-Singapore--2000x1073.webp",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    },
+    {
+      "title": "미국 정부의 인공지능 챗봇 america.gov 도입",
+      "content": "미국 연방 정부가 연방 서비스 안내 및 도밍을 위해 챗GPT 스타일의 대화형 인공지능 플랫폼 america.gov를 공식 런칭했다.",
+      "url": "https://www.fastcompany.com/91614952/america-gov-ai-chatbot-for-the-federal-government?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "U.S. Federal Digital Service Team",
+      "creator_insight": "복잡한 공공 행정 인터페이스를 민간 AI UX 스타일로 일원화하여 국가 브랜딩의 접근성을 재설계한 점.",
+      "tags": [
+        "AmericaGov",
+        "AI인터페이스",
+        "공공브랜딩"
+      ],
+      "execution_techniques": [
+        "#ConversationalUI",
+        "#MinimalistDX"
+      ],
+      "why": "국가 단위의 서비스도 결국 단순한 대화형 인터페이스 하나로 압축되는 디자이너의 가혹한 현실.",
+      "social_proof": "2개 매체 동시 포착: america",
+      "depth": 0.86,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91614952-america-dot-gov-chat-bot.jpg",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    },
+    {
+      "title": "트럼프 기념 아치 프로젝트에 대한 미국 자문위원회의 협의 중단",
+      "content": "미국 역사보존자문위원회(ACHP)가 트럼프 전 대통령의 대형 아치 건축 프로젝트에 대한 자문 및 협의 절차를 공식 종료했다. 역사적 공간과 상징물 구축을 둘러싼 정서적 대립을 조명한다.",
+      "url": "https://www.artforum.com/news/advisory-council-historic-preservation-arch-project-1234760439/",
+      "source": "Artforum",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Advisory Council on Historic Preservation (ACHP)",
+      "creator_insight": "정치적 권력의 상징물 기획이 전통적 맥락과 충돌할 때 공간의 상징성이 어떻게 균열을 일으키는지 보여주는 사례.",
+      "tags": [
+        "공공건축",
+        "역사보존",
+        "공간상징성"
+      ],
+      "execution_techniques": [
+        "#MonumentalDesign",
+        "#ContextualConflict"
+      ],
+      "why": "공간을 디자인할 때 시각적 화려함보다 중요한 것은 그 공간이 위치한 역사적/문화적 맥락이다.",
+      "social_proof": "2개 매체 동시 포착: america",
+      "depth": 0.85,
+      "image": "https://placehold.co/800x600/3f3f46/FFFFFF?text=Artforum%0A%28ART%29&font=playfair-display",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    },
+    {
+      "title": "바이에른 공예협회 BKV 리테일 스토어 및 갤러리 폐쇄 소식",
+      "content": "독일 뮌헨의 대표적 예술공예 단체인 BKV의 리테일 스토어와 갤러리가 문을 닫는다. 공예품 소비 형태의 변화와 오프라인 갤러리 플랫폼의 재편을 논한다.",
+      "url": "https://artaurea.com/2026/bkv-closes-retail-store-and-gallery/",
+      "source": "Art Aurea",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Bavarian Arts and Crafts Association",
+      "creator_insight": "전통적 디스플레이 방식에 갇힌 오프라인 리테일 공간이 실용적 가치 소비 앞에서 겪는 구조적 한계.",
+      "tags": [
+        "공예갤러리",
+        "리테일폐쇄",
+        "전시공간"
+      ],
+      "execution_techniques": [
+        "#GallerySpatialLayout",
+        "#CraftExhibition"
+      ],
+      "why": "아무리 뛰어난 공예 작품이라도 공간과 상업적 접점 모델이 낡으면 외면받는다는 잔혹한 교훈.",
+      "social_proof": "2개 매체 동시 포착: store",
+      "depth": 0.83,
+      "image": "https://artaurea.com/wp-content/uploads/2026/07/BKV_UlrichSanberger_175Expo_ArtAurea.jpg",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    },
+    {
+      "title": "LA28 올림픽 성화 봉송: 미국 50개 주 전역을 잇는 필름 라이브 스케일",
+      "content": "LA28 올림픽 조직위원회가 미국 역대 최초로 50개 주 전체를 관통하는 성화 봉송 경로와 관련 캠페인을 공개했다. 메가 스포츠 이벤트의 공간적 연출과 로컬 스토리텔링을 다룬다.",
+      "url": "https://www.campaignlive.com/article/la28-olympic-torch-relay-will-visit-50-states-first-time/1971250",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "LA28 Olympic Organizing Committee",
+      "creator_insight": "광범위한 지리적 스케일을 로드무비 형태의 시각적 서사로 연결해 국가적 유대감을 끌어내는 기획력.",
+      "tags": [
+        "LA28",
+        "올림픽캠페인",
+        "브랜드스토리"
+      ],
+      "execution_techniques": [
+        "#LargeScaleCampaign",
+        "#RoadMovieNarrative"
+      ],
+      "why": "대형 브랜드 스토리를 물리적 공간의 이동과 결합해 매력적인 스펙터클로 만드는 기획법.",
+      "social_proof": "",
+      "depth": 0.82,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    },
+    {
+      "title": "식음료 브랜들의 리워드 프로그램 개악과 소비자 락인 전략",
+      "content": "맥도날드, 스타벅스, 던킨 등 대형 체인들이 리워드 혜택을 줄임에도 불구하고 고객 충성도를 유지하는 배경과 소비자 심리 메커니즘을 다룬다.",
+      "url": "https://www.fastcompany.com/91607721/mcdonalds-dunkin-starbucks-other-chains-rewards-programs-worse-getting-away-with-it-restaurant-loyalty?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Fast Company Business & Brand Analysts",
+      "creator_insight": "소비자의 일상적 습관을 미끼로 리워드 가치를 인플레이션시키면서도 브랜드 이탈을 방지하는 계산된 시스템 design.",
+      "tags": [
+        "로열티프로그램",
+        "소비자심리",
+        "브랜드락인"
+      ],
+      "execution_techniques": [
+        "#LoyaltySystemDesign",
+        "#HabitFormingUX"
+      ],
+      "why": "달콤한 감성 브랜딩 뒤에 숨겨진 냉혹한 상업적 수익 구조와 사용자 행동 유도 장치.",
+      "social_proof": "",
+      "depth": 0.81,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91607721-restaurant-point-system.jpg",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    },
+    {
+      "title": "조각가 존 배의 철학: 물성을 넘어서는 공간과 빛의 조율",
+      "content": "조각가 존 배의 작품에 드러난 철의 중량감과 빛, 공간, 움직임의 시네마틱한 관계를 조명한다. 단단한 재료를 다루는 시각 작가의 디테일한 접근을 분석한다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=82632",
+      "source": "Art Insight",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Sculptor John Bae",
+      "creator_insight": "차가운 금속이라는 재료의 물리적 한계를 관객의 시선 이동과 빛의 반사를 활용해 부드러운 움직임으로 탈바꿈시키는 역발상.",
+      "tags": [
+        "존배",
+        "철조각",
+        "한국현대미술"
+      ],
+      "execution_techniques": [
+        "#MaterialDeconstruction",
+        "#LightInteraction"
+      ],
+      "why": "재료를 있는 그대로 쓰지 않고, 시선과 조명에 따라 다층적으로 변주하는 입체적 미학 감각.",
+      "social_proof": "",
+      "depth": 0.8,
+      "image": "https://www.artinsight.co.kr/data/tmp/2609/20260929222211_xezekaie.jpg",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "차기 제임스 본드 캐스팅: 배우보다 거대한 프랜차이즈 브랜딩",
+      "content": "유명 스타 캐스팅에 의존하지 않고 캐릭터 본연의 유산으로 대중을 설득하는 제임스 본드 프랜차이즈의 고집스러운 브랜딩 철학.",
+      "url": "https://www.creativebloq.com/entertainment/the-next-james-bond-actor-wont-be-who-you-think",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "제임스본드",
+        "캐릭터브랜딩"
+      ],
+      "why": "셀럽 스타성에 기대지 않고 오직 브랜드 파워만으로 팬덤을 유지하는 지독한 캐릭터 관리 방식.",
+      "depth": 0.5,
+      "image": "https://cdn.mos.cms.futurecdn.net/YJjM49a2puUB7sRaZQoEpK-1920-80.jpg",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    },
+    {
+      "title": "일본 그래픽 디자인의 정수, 아이디어(IDEA) 매거진 No.413",
+      "content": "종이 지면만이 줄 수 있는 타이포그래피의 압도적 밀도와 수작업 출판 디자인의 정점을 보여주는 일본 디자인 전문지.",
+      "url": "https://www.idea-mag.com/idea_magazine/no-413/",
+      "source": "IDEA Magazine",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "아이디어매거진",
+        "타이포그래피"
+      ],
+      "why": "디지털 화면에서는 절대 느낄 수 없는 지면 레이아웃의 결벽증적 정교함.",
+      "depth": 0.5,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2026/03/6112fabc589f3991fe941d51a1afb795-550x726.jpg",
+      "pub_date": "2026-10-01T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "시네마틱 프레이밍",
+      "is_hot": true
+    },
+    {
+      "word": "공간 서사성",
+      "is_hot": true
+    },
+    {
+      "word": "리테일 오프라인 재편",
+      "is_hot": false
+    },
+    {
+      "word": "대화형 UI 표준화",
+      "is_hot": true
+    },
+    {
+      "word": "소비자 락인 아키텍처",
+      "is_hot": false
+    },
+    {
+      "word": "물성 재해석",
+      "is_hot": false
+    }
+  ]
+}
