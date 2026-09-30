@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-09-29T23:46:12.407150",
     "considered": 40,
-    "selected": 14
+    "selected": 15
   },
   "topPicks": [
     {
@@ -343,6 +343,31 @@
       "depth": 0.8,
       "image": "https://www.artinsight.co.kr/data/tmp/2609/20260930070157_hfhxkiys.jpg",
       "pub_date": "2026-09-30T08:00:00.000000"
+    },
+    {
+      "title": "스포티파이 코리아, 아일릿 광고와 '스포티파이 하우스 서울'로 완성한 온오프라인 연결 캠페인",
+      "content": "스포티파이 코리아가 2026년 9월 아일릿(ILLIT)과 함께 '음악으로 이어지는 우리' 캠페인(티저+3부작)을 공개하고, 같은 달 서울 성수동에서 오프라인 행사 '스포티파이 하우스 서울'을 운영해 앱 안의 기능을 실제 공연장 경험으로 확장했다.",
+      "url": "https://www.openads.co.kr/content/contentDetail?contsId=20521",
+      "source": "애드타입 (openads.co.kr)",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Spotify Korea",
+      "creator_insight": "Messages로 곡을 보내고, Jam으로 함께 듣고, 플레이리스트로 저장하는 세 가지 실제 앱 기능을 티저→Ep1→Ep2→Ep3 서사 구조에 정확히 1:1로 매핑해, 기능 설명형 광고가 흔히 빠지는 '설명충' 함정을 피하면서도 시청 후 눌러야 할 행동을 학습시켰다.",
+      "tags": [
+        "K팝브랜딩",
+        "기능매핑광고",
+        "온오프라인연계"
+      ],
+      "execution_techniques": [
+        "Feature-to-Episode Narrative Mapping",
+        "Digital-to-Physical Campaign Extension"
+      ],
+      "why": "TVCF 연출 관점에서 참고할 지점은 앱 기능이라는 추상적 스펙을 설명 없이 아일릿 멤버들의 케미로 체화시킨 서사 설계와, 그 서사를 성수동 오프라인 공간의 실제 '함께 듣기' 경험으로 다시 연결한 캠페인 생태계 구조다.",
+      "social_proof": "openads.co.kr 애드타입 분석(2026-09-23)과 bnt뉴스가 '스포티파이 하우스 서울'의 동일한 개최 일정(9/10~13, 성수동 앤더슨씨)을 각각 독립적으로 보도했고, 캠페인 티저(9/18)-Ep1~3(9/19~21) 순차 공개 일정은 openads.co.kr 기사와 스포티파이 코리아 공식 인스타그램(@spotifykr) 게시물 타임스탬프로 교차 확인됨.",
+      "depth": 0.85,
+      "image": "https://storage.googleapis.com/pr-newsroom-wp/1/2026/09/SpotifyHouse-Header-134234234-scaled.jpg",
+      "pub_date": "2026-09-30T09:00:00.000000",
+      "agent_curated": true
     }
   ],
   "popcorn": [
