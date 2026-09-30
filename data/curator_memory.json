@@ -6,7 +6,7 @@
   },
   "taste_profile": {
     "editorial_dna": "화려한 수사와 감성적 포장보다 실제 연출 기법, 데이터 근거, 크로스보더/크로스소스 신호를 우선한다. '진짜 인사이트'는 카테고리 템플릿 문장이 아니라 사건마다 다른 구체적 관찰이어야 한다.",
-    "known_bias_to_watch": "일일 큐레이션 프롬프트가 Cinema & Narrative에 강한 가중치를, Architecture에는 페널티를 부여하도록 고정되어 있다 (2026-09-18 확인). 매 실행마다 이 편향이 실제 그날의 문화적 중요도를 왜곡하지 않는지 점검한다.",
+    "known_bias_to_watch": "일일 큐레이션 프롬프트가 Cinema & Narrative에 강한 가중치를, Architecture에는 페널티를 부여하도록 고정되어 있다 (2026-09-18 확인). 매 실행마다 이 편향이 실제 그날의 문화적 중요도를 왜곡하지 않는지 점검한다. (2026-09-30 관찰: 오늘은 Cinema&Narrative/Design&Space/Marketing&Brand 각 4건, Korean Code 2건으로 최근 중 가장 균등한 분포였음 — 편중이 매일 고정된 것은 아니라는 반증 사례로 기록.)",
     "source_language_goal": "125→133개 소스 중 여전히 서구 소스 비중이 높다 (DESIGN 카테고리 63/125). 매일 최소 1건은 한국어 소스 또는 한국 관련 소재로 보강해 Korean Code 카테고리의 실질을 채운다."
   },
   "source_quality_notes": {
@@ -20,7 +20,8 @@
       "Creative Boom",
       "Design Milk",
       "Hypebeast Korea",
-      "비즈니스포스트"
+      "비즈니스포스트",
+      "애드타입 (openads.co.kr)"
     ],
     "watch_for_breakage": [
       "Production Paradise (2026-09-17에 URL 슬래시 누락으로 깨진 링크 발견 후 수정됨 — 향후 URL 무결성 재확인 필요)",
@@ -49,7 +50,8 @@
     {
       "date": "2026-09-21",
       "status": "agent_evolution",
-      "notes": "사용자 요청으로 이 사이트를 '에이전트화 발전 예시'로 삼아 3단계 개선을 실제로 배포함. (1) Taste DNA/localStorage 키 불일치 수정 완료(savedArchives→creative_archive) — 사용자가 소크라테스식 저장 반영에 남긴 취향 데이터가 이제 실제로 tasteDNA에 반영됨. (2) fetch_ideas.py의 강제 12-15개 topPicks 볼륨 규칙 제거, 품질 기반 가변 개수로 전환. (3) 새 AGENT LOG 탭 추가 — curator_memory.json의 taste_profile/파이프라인 로그/편집 결정/오픈 퀘스천을 방문자에게 실시간으로 노출. (4) Vercel 서버리스 함수(/api/ask.js) + Gemini 무료 API로 실제 대화형 'Ask the Curator' 위젯 배포 — curator_memory.json과 최근 5일 아카이브를 근거로만 답변, 라이브 검증 완료."    },
+      "notes": "사용자 요청으로 이 사이트를 '에이전트화 발전 예시'로 삼아 3단계 개선을 실제로 배포함. (1) Taste DNA/localStorage 키 불일치 수정 완료(savedArchives→creative_archive) — 사용자가 소크라테스식 저장 반영에 남긴 취향 데이터가 이제 실제로 tasteDNA에 반영됨. (2) fetch_ideas.py의 강제 12-15개 topPicks 볼륨 규칙 제거, 품질 기반 가변 개수로 전환. (3) 새 AGENT LOG 탭 추가 — curator_memory.json의 taste_profile/파이프라인 로그/편집 결정/오픈 퀘스천을 방문자에게 실시간으로 노출. (4) Vercel 서버리스 함수(/api/ask.js) + Gemini 무료 API로 실제 대화형 'Ask the Curator' 위젯 배포 — curator_memory.json과 최근 5일 아카이브를 근거로만 답변, 라이브 검증 완료."
+    },
     {
       "date": "2026-09-23",
       "status": "agent_added",
@@ -71,9 +73,14 @@
       "notes": "기계적 파이프라인 05:17 KST 정상 생성 확인 (topPicks 12건, session.selected 12, considered 40). domain 분포는 Cinema & Narrative 5/12, Marketing & Brand 3/12, Korean Code 2/12, Design & Space 2/12로 Cinema 편중이 있으나 최근 며칠보다는 완화됨. 오늘 Korean Code 2건은 모두 오픈서베이 블로그(한국어 소스이자 한국 소비자 트렌드 리포트)로 라벨과 소재가 정확히 일치한 사례 — 최근 며칠 반복된 '한국어 소스 vs 한국 소재' 회색지대 문제가 오늘은 없었음. social_proof 교차매칭 오탐이 다시 'design'에서 발생(2026-09-25와 동일 단어 재발 — 매번 다른 단어가 아니라 같은 단어도 반복될 수 있음을 처음 확인, 누적 6회). designobserver.com URL이 403을 반환했으나 lensculture.com/medium.muz.li와 같은 봇 차단 패턴으로 추정(나머지 11건 URL, 이미지 12건 전부 200 정상). 실제 리서치: 연합뉴스가 2026-09-23~25 보도한 패션업계 '영화 같은 광고' 트렌드 — 내셔널지오그래픽 어패럴이 돌고래유괴단과 함께 고윤정·허남준을 캐스팅해 만든 '너를 만난 계절' 캠페인이 실제 로맨스 영화 개봉 포맷(챕터 표기, 개봉일, 티저→에피소드 순차공개)을 통째로 차용한 사례를 매일경제/네이트뉴스/bnt뉴스 등 4개 매체 동시보도로 검증해 Korean Code 카테고리에 agent_curated:true로 추가, session.selected 12→13. TVCF 연출자인 사용자 업무 도메인과 직접 연결되는 소재라 편집 가치가 높았음."
     },
     {
-          "date": "2026-09-27",
-          "status": "agent_added",
-          "notes": "기계적 파이프라인 07:52 KST 생성 확인(평소 05:17보다 늦었으나 같은 날짜 내 정상 완료, data/daily/2026-09-27.json, topPicks 11건, session.selected 11, considered 40). domain 분포는 Cinema & Narrative 4/11, Marketing & Brand 4/11, Design & Space 2/11, Korean Code 1/11로 최근 며칠보다 Cinema 편중이 완화됨. Korean Code 항목(네이버 블로그 '사주 팔자 n8n 자동화')은 한국어 소스이자 한국 소재(샤머니즘 문화)가 정확히 일치한 사례. URL 11건 전부 200 정상, 이미지도 깨짐 없음. social_proof 교차매칭 오탐의 새로운 하위 유형 발견: 갭(Gap) 보이그룹 콜라보와 로우즈(Lowe's) 드론 배송이라는 완전히 무관한 두 기사에 똑같이 '2개 매체 동시 포착: 리테일/마케팅 Dive 플랫폼 신호'가 붙어있었다. 이전까지의 오탐(beyond/featuredvisual/nature/artist/design)은 제목 속 공통 단어 때문이었는데, 이번엔 출처명(Marketing Dive, Retail Dive)에 공통된 'Dive'라는 퍼블리셔 네트워크 이름 때문으로 추정되는 새로운 하위 유형(누적 7회, 원인 패턴 2종)이다. 실제 리서치: 도루코가 창립 70주년 CI 리뉴얼(디자인 에이전시 플러스엑스와 협업, 'Leading Edge' 코어, 단일 선 로고+Heritage Red+GT America 서체)로 '레드닷 디자인 어워드 2026' 기업 아이덴티티 부문 본상을 수상하고 페이셜 케어 브랜드 '틴클'도 IDEA 2026 파이널리스트에 선정된 사실을 파이낸셜뉴스·라이센스뉴스·녹색경제신문·한국경제 등 6개 이상 한국 매체가 2026-09-22 동일 보도한 것으로 교차 확인(Design Compass의 프로젝트 페이지에서 실제 디자인 요소 확인)해 Design & Space 카테고리에 agent_curated:true로 추가, session.selected 11→12."
+      "date": "2026-09-27",
+      "status": "agent_added",
+      "notes": "기계적 파이프라인 07:52 KST 생성 확인(평소 05:17보다 늦었으나 같은 날짜 내 정상 완료, data/daily/2026-09-27.json, topPicks 11건, session.selected 11, considered 40). domain 분포는 Cinema & Narrative 4/11, Marketing & Brand 4/11, Design & Space 2/11, Korean Code 1/11로 최근 며칠보다 Cinema 편중이 완화됨. Korean Code 항목(네이버 블로그 '사주 팔자 n8n 자동화')은 한국어 소스이자 한국 소재(샤머니즘 문화)가 정확히 일치한 사례. URL 11건 전부 200 정상, 이미지도 깨짐 없음. social_proof 교차매칭 오탐의 새로운 하위 유형 발견: 갭(Gap) 보이그룹 콜라보와 로우즈(Lowe's) 드론 배송이라는 완전히 무관한 두 기사에 똑같이 '2개 매체 동시 포착: 리테일/마케팅 Dive 플랫폼 신호'가 붙어있었다. 이전까지의 오탐(beyond/featuredvisual/nature/artist/design)은 제목 속 공통 단어 때문이었는데, 이번엔 출처명(Marketing Dive, Retail Dive)에 공통된 'Dive'라는 퍼블리셔 네트워크 이름 때문으로 추정되는 새로운 하위 유형(누적 7회, 원인 패턴 2종)이다. 실제 리서치: 도루코가 창립 70주년 CI 리뉴얼(디자인 에이전시 플러스엑스와 협업, 'Leading Edge' 코어, 단일 선 로고+Heritage Red+GT America 서체)로 '레드닷 디자인 어워드 2026' 기업 아이덴티티 부문 본상을 수상하고 페이셜 케어 브랜드 '틴클'도 IDEA 2026 파이널리스트에 선정된 사실을 파이낸셜뉴스·라이센스뉴스·녹색경제신문·한국경제 등 6개 이상 한국 매체가 2026-09-22 동일 보도한 것으로 교차 확인(Design Compass의 프로젝트 페이지에서 실제 디자인 요소 확인)해 Design & Space 카테고리에 agent_curated:true로 추가, session.selected 11→12."
+    },
+    {
+      "date": "2026-09-30",
+      "status": "agent_added",
+      "notes": "기계적 파이프라인이 평소보다 늦은 08:46 KST경 생성 확인(session.timestamp 2026-09-29T23:46:12Z, 같은 날짜 내 정상 완료. data/daily/2026-09-30.json, topPicks 14건, session.selected 14→15, considered 40). domain 분포는 Cinema & Narrative 4/14, Design & Space 4/14, Marketing & Brand 4/14, Korean Code 2/14로 최근 관찰 중 가장 균등한 날이었음. URL 14건, 이미지 14건 전부 200 정상(깨진 링크 없음). social_proof 교차매칭 오탐이 오늘도 2건 발생(무관한 두 기사 쌍에 '2개 매체 동시 포착: content', 다른 무관한 두 기사에 '2개 매체 동시 포착: berlin') — 'berlin' 사례는 두 기사가 실제로 둘 다 베를린 디자인/아트 씬을 다루지만 같은 사실을 보도한 게 아니라 단어 매칭일 뿐이라 여전히 신뢰할 수 없는 오탐으로 분류함. 새 Korean Code 하위 유형 발견: 전태형(Taehyoung Maria Jeon) 작가 항목은 한국계로 추정되는 이름의 창작자이지만 게재처가 완전히 서구 매체(Colossal)로, '한국어 소스'도 '한국 소재'도 아닌 세 번째 하위 유형(창작자 이름만 한국적)으로 분류됨. 실제 리서치: 스포티파이 코리아가 2026년 9월 아일릿(ILLIT)과 함께 공개한 '음악으로 이어지는 우리' 3부작 캠페인(Messages→Jam→Playlist 앱 기능을 서사에 1:1 매핑)과 연계 오프라인 행사 '스포티파이 하우스 서울'(9/10-13, 성수동 앤더슨씨)을 openads.co.kr 애드타입 분석(2026-09-23)과 bnt뉴스, 스포티파이 코리아 공식 인스타그램 게시물로 교차 확인해 Marketing & Brand 카테고리에 agent_curated:true로 추가, session.selected 14→15. TVCF 연출자인 사용자 업무 도메인에 직접 참고가 되는 '기능-서사 매핑' 실행 기법이라 편집 가치가 높았음."
     }
   ],
   "editorial_decisions": [
@@ -84,15 +91,10 @@
   ],
   "open_questions_for_next_run": [
     "오늘 기계적 파이프라인이 생성한 콘텐츠 중 창작 기법(execution_techniques)이나 근거(why)가 템플릿처럼 반복되는 항목이 있는지 점검할 것.",
-    "Korean Code 카테고리가 실제로 한국 관련 실질 콘텐츠로 채워지고 있는지, 아니면 이름만 다르고 서구 소스 번역인지 매일 확인할 것.",
+    "Korean Code 카테고리가 실제로 한국 관련 실질 콘텐츠로 채워지고 있는지 매일 확인할 것. 지금까지 확인된 하위 문제 3종: (1) 소재 자체가 한국과 무관(2026-09-24 베를린), (2) 한국어 소스이나 소재는 무관(2026-09-25 파리), (3) 창작자 이름만 한국적이고 게재처/소재 모두 서구(2026-09-30 전태형/Colossal). domain 라벨을 그대로 믿지 말 것.",
     "social_proof 필드가 실제 cross-source 신호 없이 비어있는 항목이 대다수인데, 매일 최소 1-2건은 실제 신호를 찾아 채울 수 있는지 시도할 것.",
-    "기계적 파이프라인의 social_proof 교차매칭 로직이 제목 속 공통 단어만으로 오탐을 내는 사례를 2026-09-21에 발견함(IDEAS.md 기록). 다음 실행에서도 social_proof 필드가 실제로 두 매체의 같은 '사실'을 가리키는지, 아니면 단어 우연 일치인지 의심하고 검증할 것.",
+    "social_proof 교차매칭 오탐이 2026-09-21부터 2026-09-30까지 누적 9회 이상 관찰됨(beyond/featuredvisual/nature/artist/design×2/Dive/content/berlin). 원인 3종으로 분화: (1) 제목 속 흔한 단어, (2) 출처명 공통 문자열(예: Dive), (3) 흔한 단어가 우연히 진짜 같은 주제와도 겹치는 경우(2026-09-30 'berlin', 두 기사 모두 실제 베를린 아트씬을 다루지만 같은 사실 보도는 아님) — 세 경우 모두 '두 매체가 같은 사실을 보도했는지'를 검증하지 않는 것이 근본 원인. compute_cross_source_signals() 구조적 버그로 완전히 굳어졌으므로, 사용자 승인 시 코드 수정(제목 매칭 최소 단어 길이/불용어 제외 + source 필드 매칭 제외)을 최우선 제안할 것.",
     "Ask the Curator 위젯의 Vercel 함수가 GEMINI_API_KEY 쿼터를 GitHub Actions 파이프라인과 공유하지 않고 별도 키를 쓰는지 주기적으로 확인할 것 (현재는 동일 프로젝트 키 공유 중).",
-    "social_proof 교차매칭 오탐이 2026-09-21('beyond')과 2026-09-23('featuredvisual') 두 차례에 걸쳐 서로 다른 무관한 기사 쌍에서 반복 확인됨 — 일회성이 아니라 fetch_ideas.py의 compute_cross_source_signals()에 있는 구조적 버그로 보임. 사용자가 코드 수정(최소 단어 길이 제한 또는 불용어 제외)을 승인하면 다음 세션에서 제안할 것.",
-    "Korean Code 도메인 라벨링이 실제 콘텐츠 소재와 무관하게 붙는 사례를 2026-09-24에 처음 발견함 (베를린 그로피우스 바우 전시 리뷰가 'Korean Code'로 분류되어, 그날 진짜 한국 관련 콘텐츠가 0건이었음). domain 값만 믿지 말고 매일 topPicks 각 항목의 실제 소재가 라벨과 일치하는지 재확인할 것. 반복되면 fetch_ideas.py의 Korean Code 분류 로직 자체가 편향/오류를 갖고 있다는 뜻이므로 사용자에게 보고할 것.",
-    "social_proof 교차매칭 오탐이 2026-09-25에 'design'에서도 발생해 누적 5회(beyond/featuredvisual/nature/artist/design) 관찰됨 — 매번 다른 흔한 단어에서 재현되는 것으로 보아 일회성 오류가 아니라 명백한 구조적 결함. 우선순위 큐 최상단으로 유지하고, 사용자가 다음 대화에서 코드 수정(최소 단어 길이 제한 또는 불용어 제외)을 승인하면 지체 없이 제안할 것.",
-    "2026-09-25 Korean Code 항목은 한국어 소스(네이버 블로그)이지만 소재는 프랑스 파리시립현대미술관 전시라 완전한 한국 콘텐츠는 아니었음(2026-09-24 베를린 사례보다는 경미). '한국어 소스'와 '한국 소재'를 구분해서 매일 점검할 것 — agent 추가 항목(오늘은 서울디자인재단 DDP 소반 전시)으로 실질을 보완하는 패턴이 반복 중임을 인지할 것.",
-    "social_proof 교차매칭 오탐이 2026-09-26에 다시 'design'에서 발생 — 2026-09-25와 정확히 같은 단어가 재발한 첫 사례. 이전까지는 매번 다른 흔한 단어(beyond/featuredvisual/nature/artist/design)에서 나타나 '아무 단어나 걸린다'는 가설이었는데, 같은 단어가 반복된 것은 그 단어 자체(예: 'design')가 이 사이트 기사 제목에 특히 자주 등장해 우연 매칭 확률이 구조적으로 더 높다는 뜻일 수 있음. 누적 6회, 여전히 사용자 승인 대기.",
-    "2026-09-26 Korean Code 2건(오픈서베이 블로그 소셜미디어/카페 트렌드 리포트)은 한국어 소스이자 한국 소비자 소재로 라벨-소재가 정확히 일치한 좋은 사례였음 — 2026-09-24(베를린 오분류), 2026-09-25(파리 소재, 한국어 소스만 일치) 같은 회색지대 없이 지나간 첫 날. 오픈서베이 블로그처럼 실질적인 한국 리포트 소스가 자주 뽑히는 날엔 이 문제가 저절로 해소된다는 패턴 가설을 다음 실행에서 계속 검증할 것.",
-    "social_proof 교차매칭 오탐이 2026-09-27에 처음으로 '제목 속 공통 단어'가 아니라 '출처명(Marketing Dive/Retail Dive)의 공통 문자열(Dive)' 때문으로 추정되는 새 하위 유형을 보였다 — compute_cross_source_signals()가 제목뿐 아니라 source 필드도 매칭에 사용하고 있을 가능성을 시사. 다음 실행에서 이 가설을 추가로 검증하고, 사용자가 코드 수정을 승인하면 제목 매칭 최소 단어 길이 제한과 함께 source 필드를 매칭 대상에서 제외하는 수정도 함께 제안할 것."
-  ]}
+    "2026-09-28/2026-09-29 이틀간 이 큐레이터 루틴의 실행 기록이 curator_memory.json pipeline_health_log에 없음(공급자/네트워크 장애 가능성이 있었던 것으로 추정되나 미확인, memory/episodic/2026-09-28.md 참고). 다음 실행에서 이 공백이 반복되는지, 그 이틀간 GitHub Actions 기계적 파이프라인 자체는 정상 작동했는지 확인할 것."
+  ]
+}
