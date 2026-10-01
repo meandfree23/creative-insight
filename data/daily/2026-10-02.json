@@ -1,0 +1,304 @@
+{
+  "date": "2026-10-02",
+  "focusQ": "안구만 어지럽히는 허울뿐인 콘텐츠가 넘쳐나는 시대다. 날카로운 미학적 프레임과 철저히 계산된 연출만이 감각을 자극한다. 본질을 꿰뚫는 시선 없이는 브랜드의 수명도 단명할 뿐이다.",
+  "creator_message": "뻔하고 진부한 수식어는 전부 도려냈다. 진짜 기획자라면 이미지 한 장, 컷 한 소절에 담긴 의도와 미학적 구조부터 파악해라. 오늘 선별한 레퍼런스들은 타협 없는 연출 기법과 기획의 칼날이 살아있는 비주얼 마스터피스들이다.",
+  "session": {
+    "timestamp": "2026-10-01T23:56:18.316958",
+    "considered": 40,
+    "selected": 9
+  },
+  "topPicks": [
+    {
+      "title": "마리나 아브라모비치가 밀착 기록한 예술적 영감의 시선",
+      "content": "행위예술의 거장 마리나 아브라모비치의 사적인 예술관과 퍼포먼스 비하인드를 다룬 프라이빗 뷰 다큐멘터리 스틸컷. 프레임 안에서 정적으로 고조되는 긴장감과 몸을 매개로 한 미학적 연출을 섬세하게 담아냈다.",
+      "url": "https://www.nowness.com/series/private-view/marina-abramovic-nowness-china",
+      "source": "NOWNESS",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Marina Abramović",
+      "creator_insight": "신체의 한계를 극한으로 몰아붙이는 퍼포먼스를 고요하고 날카로운 카메라 앵글로 프레이밍하여 시각적 압도감을 선사한다.",
+      "tags": [
+        "퍼포먼스아트",
+        "시네마틱",
+        "비주얼서사"
+      ],
+      "execution_techniques": [
+        "#StaticFraming",
+        "#HighContrastLighting"
+      ],
+      "why": "단순한 인물 인터뷰를 넘어 정적인 카메라워크 하나만으로 시청자를 압도하는 미학적 연출의 정수를 보여준다.",
+      "social_proof": "",
+      "depth": 0.98,
+      "image": "https://img.nowness.com/nowness-frontend/DmZPNwmIRErwyexyjAAC_260806_NOWNESS_CHINA_MARINA_ABRAMOVIC_FINALS_JPEG_03.jpg",
+      "pub_date": "2026-10-02T08:00:00.000000"
+    },
+    {
+      "title": "베르나르도 마르틴스의 POV 시선: 취향에 관한 시네마틱 프레이밍",
+      "content": "공간과 인물의 관계를 1인칭 관점 및 세련된 미장센으로 담아낸 영상 프로젝트. 미니멀한 톤앤매너와 절제된 컷 편집이 독보적인 감각을 전달한다.",
+      "url": "https://www.nowness.com/series/pov-antonioli/oh-you-made-it-i-knew-you-had-taste-bernardo-martins-antonioli",
+      "source": "NOWNESS",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Bernardo Martins",
+      "creator_insight": "특유의 1인칭 시점 연출을 통해 패션과 공간 디자인을 하나의 극적인 단편 영화처럼 다루는 기량을 발휘한다.",
+      "tags": [
+        "POV",
+        "미장센",
+        "패션필름"
+      ],
+      "execution_techniques": [
+        "#FirstPersonPOV",
+        "#AtmosphericColorGrading"
+      ],
+      "why": "브랜드의 페르소나를 영상 속 프레임으로 어떻게 녹여내는지 보여주는 하이엔드 무드보드 템플릿.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://img.nowness.com/nowness-frontend/5196gnjdTEa53wQPsedh_BERNARDO_STILL%201.jpg",
+      "pub_date": "2026-10-02T08:00:00.000000"
+    },
+    {
+      "title": "파비오 케르스티치, 관객의 책임을 묻는 무대 연출의 경계선",
+      "content": "이탈리아 연출가 파비오 케르스티치가 연극과 미술, 공간 퍼포먼스의 경계를 허무는 방식에 관한 고찰. 관객을 단순한 관람객이 아닌 연출의 주체로 끌어들이는 시도를 보여준다.",
+      "url": "https://www.designboom.com/art/spectator-responsibility-fabio-cherstich-boundaries-art-theater/",
+      "source": "Designboom",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Fabio Cherstich",
+      "creator_insight": "관객의 시선 자체를 연출 요소로 변환하여 공간 전체를 하나의 움직이는 프레임으로 다룬다.",
+      "tags": [
+        "무대연출",
+        "공간디렉팅",
+        "퍼포먼스"
+      ],
+      "execution_techniques": [
+        "#InteractiveImmersiveness",
+        "#SpatialDirecting"
+      ],
+      "why": "오프라인 공간이나 캠페인을 기획할 때 관객의 참여를 극적 요소로 승화시키는 연출 기법의 해답을 제시한다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/fabio-cherstich-designboom-700-1-500x400-22b08q85r326.jpg",
+      "pub_date": "2026-10-02T08:00:00.000000"
+    },
+    {
+      "title": "사진가 오웬 마의 'Photopsia': 광학적 잔상과 몽환적 텍스처",
+      "content": "빛과 잔상을 미학적으로 왜곡하여 몽환적인 텍스처를 구현한 사진 시리즈. 독특한 컬러 그라데이션과 필터링 기법으로 비현실적인 무드를 형성한다.",
+      "url": "https://www.booooooom.com/2026/09/29/photopsia-by-photographer-owen-mar/",
+      "source": "Booooooom",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Owen Mar",
+      "creator_insight": "렌즈를 통과하는 빛의 산란 효과를 극대화하여 찰나의 순간을 미학적 이미지로 변환해낸다.",
+      "tags": [
+        "비주얼아트",
+        "사진 연출",
+        "빛의왜곡"
+      ],
+      "execution_techniques": [
+        "#OpticalDistortion",
+        "#ChiaroscuroTone"
+      ],
+      "why": "영상 및 그래픽 작업 시 기묘하고 차별화된 텍스처 무드를 잡기 위한 최고의 시각 자료.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/09/Mar1.jpg",
+      "pub_date": "2026-10-02T08:00:00.000000"
+    },
+    {
+      "title": "Ad Council의 허식을 거둔 모성 정신건강 캠페인 필름",
+      "content": "대행사 Mischief가 제작한 모성 정신건강 캠페인 영상. 감성적인 신파를 배제하고 적나라한 직설법과 정교한 컷 구성으로 깊은 울림을 준다.",
+      "url": "https://www.campaignlive.com/article/ad-council-uncovers-secret-motherhood-powerful-spot/1971396",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Mischief Agency",
+      "creator_insight": "사회적 금기시되는 감정을 날것 그대로의 톤앤매너로 다루어 시청자에게 강렬한 메시지 타격을 가한다.",
+      "tags": [
+        "캠페인필름",
+        "브랜드스토리",
+        "카피라이팅"
+      ],
+      "execution_techniques": [
+        "#RawStorytelling",
+        "#ContrastEditing"
+      ],
+      "why": "상투적인 감성 마케팅을 탈피하여 진정성 있는 브랜드 화법을 보여주는 진정한 브랜딩 사례.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-10-02T08:00:00.000000"
+    },
+    {
+      "title": "파리 생통주 거리에 들어선 Satisfy의 거울상 플래그십 스토어",
+      "content": "디자인 스튜디오 Ciguë가 러닝 브랜드 Satisfy를 위해 설계한 파리의 마주 보는 두 매장 공간. 서로 대칭을 이루며 소재의 대비를 통해 브랜드의 독창적인 아이덴티티를 극대화했다.",
+      "url": "https://www.yellowtrace.com.au/cigue-satisfy-running-brand-paris-flagship/",
+      "source": "Yellowtrace",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Ciguë",
+      "creator_insight": "마주 보는 두 매장이라는 파격적인 구조를 활용해 메탈과 거친 콘크리트의 조화를 공간적 서사로 해석했다.",
+      "tags": [
+        "플래그십스토어",
+        "공간디자인",
+        "브랜드아이덴티티"
+      ],
+      "execution_techniques": [
+        "#MirrorSymmetry",
+        "#RawMaterialFinish"
+      ],
+      "why": "단순한 리테일 매장을 넘어 스토리를 지닌 스파이셜 스토어 브랜딩의 압도적 본보기.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/09/09180900/Yellowtrace-Cigue-Satisfy-running-brand-Paris-Flagship-Photo-Maris-Mezulis-05_opt80.jpg",
+      "pub_date": "2026-10-02T08:00:00.000000"
+    },
+    {
+      "title": "Horah Inc, 포켓몬과 타이포그래피의 파격적 그래픽 재해석",
+      "content": "디자인 스튜디오 Horah Inc가 서브컬처 아이콘과 클래식 타이포그래피를 결합하여 제작한 스파이스드 럼 및 트레이딩 카드 아이덴티티. 대중문화와 그래픽 아트의 지적인 결합을 보여준다.",
+      "url": "https://www.itsnicethat.com/articles/horah-inc-graphic-design-discover-290926",
+      "source": "It's Nice That",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Horah Inc",
+      "creator_insight": "유희적인 아이콘을 정교한 패키지 및 타이포그래피 레이아웃과 조합하여 키치함을 고급스러운 그래픽 레벨로 격상시킨다.",
+      "tags": [
+        "그래픽디자인",
+        "타이포그래피",
+        "브랜드아이덴티티"
+      ],
+      "execution_techniques": [
+        "#PopCultureRemix",
+        "#PrecisionGrid"
+      ],
+      "why": "서브컬처 요소와 클래식 브랜딩 사이에서 균형을 맞추는 정교한 그래픽 기술의 정수.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://admin.itsnicethat.com/images/Mw5aYVTJRy_l-Xj3SrHiOJg3SuM=/281892/width-1440/horah-inc-graphic-design-itsnicethat-8.jpg",
+      "pub_date": "2026-10-02T08:00:00.000000"
+    },
+    {
+      "title": "제주 나미브 사진캠프: 로컬 프레임 속 이미지 기획",
+      "content": "제주의 독특한 자연환경을 배경으로 국내 대표 작가진과 함께 진행하는 인텐시브 사진 캠프. 풍경 속에서 인물과 텍스처를 담아내는 아날로그적 카메라 워크를 다룬다.",
+      "url": "https://blog.naver.com/sabids/221578978225?fromRss=true&trackingCode=rss",
+      "source": "Naver Blog",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "남인근, 이갑철, 진동선",
+      "creator_insight": "한국 로컬 고유의 질감과 정서를 정교한 사진적 시선으로 담아내어 시각적 원형을 고찰하게 한다.",
+      "tags": [
+        "한국로컬",
+        "사진워크숍",
+        "시각예술"
+      ],
+      "execution_techniques": [
+        "#AnalogFraming",
+        "#LocalTextureFocus"
+      ],
+      "why": "국내 로컬 라이프스타일과 시각 매체를 결합할 때 고려해야 할 디테일한 비주얼 톤앤매너.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAxOTA3MDZfNzUg/MDAxNTYyMzcyMDA5MTQz.GwugeAqOP9Cm0eiwV9ypHUewgRVmco5GpRBAoQj3iQUg.mGVgFjPb2sl8PUwat32Eh1DoiMLpV3SiF2p0BkET1Pkg.JPEG.sabids/1562337262151.jpg?type=s3",
+      "pub_date": "2026-10-02T08:00:00.000000"
+    },
+    {
+      "title": "The Dieline 선점 2026년 9월 패키징 디자인 큐레이션",
+      "content": "9월 한 달간 전 세계에서 주목받은 상위 패키징 디자인 셀렉션. 친환경 소재의 조형적 변형과 타이포그래피 중심의 스몰 브랜드 브랜딩 트렌드를 집대성했다.",
+      "url": "https://thedieline.com/the-dielines-best-of-september-2026/",
+      "source": "The Dieline",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "The Dieline Editorial Board",
+      "creator_insight": "제품의 물성과 라벨 디자인의 유기적 결합을 파악할 수 있는 글로벌 크리에이티브 지표.",
+      "tags": [
+        "패키지디자인",
+        "브랜딩",
+        "지속가능성"
+      ],
+      "execution_techniques": [
+        "#MaterialPackaging",
+        "#MinimalTypo"
+      ],
+      "why": "제품 디자인과 브랜드 디자인 팀이 당장 실무 무드보드에 이식해야 할 필수 비주얼 레퍼런스 모음.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://thedieline.com/wp-content/uploads/2026/09/Subheading-2.png",
+      "pub_date": "2026-10-02T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "드론과 매장의 경계를 허문 도어대시의 배송 시스템",
+      "content": "도어대시가 자율주행 드론을 레스토랑 주방 시스템에 직결시킨 최신 리테일 테크 연출.",
+      "url": "http://www.trendhunter.com/trends/drone-food-delivery-trend",
+      "source": "Trend Hunter",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "리테일테크",
+        "드론배송"
+      ],
+      "why": "기술과 서비스의 결합이 어떻게 미래의 일상적 비주얼을 바꿀지 감상하는 스낵 콘텐츠.",
+      "depth": 0.5,
+      "image": "http://cdn.trendhunterstatic.com/phpthumbnails/638/638828/638828_1_120.jpeg",
+      "pub_date": "2026-10-02T08:00:00.000000"
+    },
+    {
+      "title": "840만 달러에 거래된 레인코트 피카츄 카드의 광기",
+      "content": "역대 두 번째 고가로 낙찰된 포켓몬 카드가 증명하는 자본주의 수집 광풍.",
+      "url": "https://www.creativebloq.com/entertainment/toys-collectibles/imagine-spending-usd8-4-million-on-a-pokemon-card",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "서브컬처",
+        "수집품"
+      ],
+      "why": "팝 컬처 팬덤이 만드는 황당하고도 거대한 자본의 흐름을 확인하는 뉴스.",
+      "depth": 0.5,
+      "image": "https://cdn.mos.cms.futurecdn.net/qdLba2EzRCAeHbDdY6vvpi-1920-80.jpg",
+      "pub_date": "2026-10-02T08:00:00.000000"
+    },
+    {
+      "title": "하이라인에 출현한 거대 금빛 거품 루프 포털",
+      "content": "Plastique Fantastique가 뉴욕 하이라인에 설치한 기상천외한 공기주입식 대형 조형물 프로젝트.",
+      "url": "https://www.thisiscolossal.com/2026/09/auroboros-plastique-fantastique-high-line-inflatable-sculpture/",
+      "source": "Colossal",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "공공미술",
+        "인스톨레이션"
+      ],
+      "why": "도심 공간에 위트를 더하는 거대 조형 예술의 연출 감각.",
+      "depth": 0.5,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/plastique-4.jpg",
+      "pub_date": "2026-10-02T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "시네마틱 프레이밍",
+      "is_hot": true
+    },
+    {
+      "word": "공간적 대칭 서사",
+      "is_hot": true
+    },
+    {
+      "word": "하이엔드 텍스처",
+      "is_hot": false
+    },
+    {
+      "word": "직설적 미장센",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처 리믹스",
+      "is_hot": false
+    },
+    {
+      "word": "아날로그 프레임",
+      "is_hot": false
+    }
+  ]
+}
