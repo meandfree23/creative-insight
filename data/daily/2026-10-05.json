@@ -1,0 +1,324 @@
+{
+  "date": "2026-10-05",
+  "focusQ": "브랜드 언어가 천편일률적인 클리셰로 타락하는 시대에 비주얼 내러티브의 밀도를 높이는 연출만이 크리에이티브의 생존 조건이다. 표피적인 AI 자랑을 넘어 화면 속 아우라와 기획의 날카로움을 갈고닦아야 한다. 영감이 아니라 실질적인 프레임 설계 능력으로 증명하라.",
+  "creator_message": "모두가 뻔한 텍스트와 껍데기로 포장할 때, 진짜 에디터는 프레임의 각도와 서사의 깊이만 봅니다. 오늘 큐레이션은 어설픈 장식성을 걷어내고 영상 연출과 브랜드 전략의 뼈대를 직시하는 레퍼런스들로 선별했습니다. 시각적 타협은 프로 크리에이터의 자멸입니다.",
+  "session": {
+    "timestamp": "2026-10-04T23:12:13.661908",
+    "considered": 40,
+    "selected": 10
+  },
+  "topPicks": [
+    {
+      "title": "시블링 라이벌리, 신예 디렉터 그레이시 코 영입으로 영상 서사 강화",
+      "content": "글로벌 비주얼 프로덕션 시블링 라이벌리가 디렉터 그레이시 코를 로스터에 전격 영입했다. 감각적인 미장센과 밀도 높은 영상 미학을 바탕으로 한 차세대 스토리텔링 연출력을 시사한다.",
+      "url": "https://www.stashmedia.tv/sibling-rivalry-welcomes-director-gracie-koh/",
+      "source": "Stash Media",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Gracie Koh",
+      "creator_insight": "그레이시 코는 정제된 프레임과 리듬감 있는 모션 프레임워크로 상업 영상의 한계를 상쇄하며 내러티브의 선명도를 한 단계 격상시킨다.",
+      "tags": [
+        "영상연출",
+        "디렉터로스터",
+        "미장센"
+      ],
+      "execution_techniques": [
+        "Kinetic Framing",
+        "Cinematography"
+      ],
+      "why": "단순한 비주얼 나열을 넘어 정교한 카메라 워크와 톤앤매너로 브랜드 서사를 어떻게 완성하는지 보여주는 필수 영상 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://placehold.co/800x600/1E1E1E/FFFFFF?text=Unknown%20Source%0A%28MOTION_FILM%29&font=playfair-display",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    },
+    {
+      "title": "노스탤직 Y2K 웹 미학을 가상 모션 플랫폼으로 구현한 퍼즐 게임 'Snaptic'",
+      "content": "2000년대 초반 노트북 OS 인터페이스를 고스란히 복원한 퍼즐 플랫폼 게임 Snaptic이 등장했다. 레트로 인터랙티브 디자인과 픽셀 아트를 현대적 영상 미학으로 재해석했다.",
+      "url": "https://80.lv/articles/this-puzzle-platformer-takes-you-inside-laptop-for-dose-of-pure-y2k-web-nostalgia/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Snaptic Dev Team",
+      "creator_insight": "과거 그래픽의 조악함을 감성으로 치장하는 대신, 디지털 질감의 시각적 인터랙션을 철저한 미학적 계산 하에 모션으로 재구성했다.",
+      "tags": [
+        "Y2K미학",
+        "모션디자인",
+        "인터랙티브아트"
+      ],
+      "execution_techniques": [
+        "Retro UI Motion",
+        "Pixel Aesthetics"
+      ],
+      "why": "Y2K 트렌드를 우려먹는 브랜드들에게 진짜 레트로 질감과 디지털 물성을 그래픽 연출로 녹여내는 명확한 지침을 제시한다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cdn.80.lv/api/upload/post/41836/images/6abfbc7c6fd13/cover_800x800.jpg",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    },
+    {
+      "title": "버튼 하나로 신화가 된 크리에이티브 디렉터 리치 실버스타인의 AI 풍자 캠페인",
+      "content": "GS&P의 공동 창업자 리치 실버스타인의 은퇴를 기념하여 제작된 스푸프 인포머셜 캠페인. 그의 까칠한 크리틱 피드백을 전달하는 'GPT Rich' 핫라인을 유쾌한 영상으로 담았다.",
+      "url": "https://www.campaignlive.com/article/rich-silverstein-steps-down-gs-p-ai-hotline-will-critique-ideas/1971402",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Rich Silverstein & GS&P",
+      "creator_insight": "광고계의 거장이 보여주는 자조적 위트와 AI 열풍을 비꼬는 위트 있는 바이럴 숏폼 연출이 백미다.",
+      "tags": [
+        "크리에이티브캠페인",
+        "광고풍자",
+        "브랜드위트"
+      ],
+      "execution_techniques": [
+        "Satirical Parody",
+        "Commercial Direction"
+      ],
+      "why": "AI 시대를 대하는 대형 대행사의 유쾌하면서도 칼날 같은 인식을 필름 및 캠페인 기획으로 입증한 고난도 위트 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Campaign%20Live%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    },
+    {
+      "title": "비엔날레의 재조명: 광주와 부산에서 읽는 현대 미술의 비판적 현주소",
+      "content": "Artforum이 광주와 부산 비엔날레를 통해 재난이 일상이 된 시대의 예술적 정체성을 조명한다. 'You Must Change Your Life'라는 화두 아래 미술관이라는 공간과 작가들의 미학적 반응을 다룬다.",
+      "url": "https://www.artforum.com/columns/on-site-seoul-to-the-16th-gwangju-biennale-luan-shixuan-1234760630/",
+      "source": "Artforum",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Luan Shixuan",
+      "creator_insight": "한국 현지 예술 비엔날레의 서사를 단순 전시 리뷰가 아닌 시시대적 위기의 미학적 대응으로 분석하는 큐레이토리얼 시각을 보여준다.",
+      "tags": [
+        "광주비엔날레",
+        "부산비엔날레",
+        "한국현대미술"
+      ],
+      "execution_techniques": [
+        "Critical Curation",
+        "Spatial Exposition"
+      ],
+      "why": "한국의 글로벌 아트 씬 위치를 점검하고, 국내 대형 전시 프로젝트 기획 시 가져야 할 정밀한 서사 구조의 본보기를 제공한다.",
+      "social_proof": "2개 매체 동시 포착: your life",
+      "depth": 0.96,
+      "image": "https://placehold.co/800x600/3f3f46/FFFFFF?text=Artforum%0A%28ART%29&font=playfair-display",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    },
+    {
+      "title": "비르라 오퍼스 페인트, 가문의 유대감을 담아낸 단편 영화급 브랜드 필름 공개",
+      "content": "Durga Pujo 축제를 맞아 비르라 오퍼스 페인트가 가족의 정체성과 집의 의미를 스토리에 녹여낸 캠페인 필름을 선보였다. 감성적인 컬러 감각과 밀도 높은 프레임 연출이 돋보인다.",
+      "url": "https://www.brandinginasia.com/birla-opus-paints-brings-family-roots-into-durga-pujo-film/",
+      "source": "Branding in Asia",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Birla Opus Creative Team",
+      "creator_insight": "색채(Paint)라는 제품 속성을 직접적으로 노출하는 대신, 문화적 서사 및 유대감이라는 스토리텔링 필터를 통과시켜 브랜드 아우라를 완성했다.",
+      "tags": [
+        "브랜드필름",
+        "시네마틱광고",
+        "컬러미학"
+      ],
+      "execution_techniques": [
+        "Emotional Lighting",
+        "Narrative Pacing"
+      ],
+      "why": "제품 노출에 안달 난 상업 광고 기획자들에게 영상의 감정선이 브랜드 호감도로 연결되는 미장센 공식을 직관적으로 가르쳐준다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/10/Togetherness-Is-the-True-Colour-of-Pujo--2000x1125.webp",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    },
+    {
+      "title": "인터넷이 모든 브랜드의 톤앤매너를 평이하게 박제해 버린 이유",
+      "content": "온라인 플랫폼의 알고리즘 최적화로 인해 모든 브랜드의 목소리와 비주얼 보이스가 하향 평준화되고 있다는 매서운 비판 칼럼. 개성을 상실한 획일화된 보이스앤톤을 지적한다.",
+      "url": "https://medium.com/@thearjittaneja/the-internet-has-made-every-brand-sound-the-same-445b2479a479?source=rss------brand_strategy-5",
+      "source": "Medium Tag - Brand Strategy",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Arjit Taneja",
+      "creator_insight": "디지털 트렌드라는 무난함 뒤에 숨은 무개성한 카피라이팅과 브랜딩의 실태를 날카롭게 짚어냈다.",
+      "tags": [
+        "브랜드전략",
+        "카피라이팅",
+        "아이덴티티"
+      ],
+      "execution_techniques": [
+        "Critical Analysis",
+        "Brand Positioning"
+      ],
+      "why": "남들과 똑같은 트렌드 키워드만 따라가다 브랜드의 독자성을 잃어버린 디렉터들이 정신을 차리게 만드는 통찰이다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdn-images-1.medium.com/max/1672/1*3jf3hQzu2bOZvCnotHOiew.png",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    },
+    {
+      "title": "리즈(Reese’s), 할로윈 타깃 멀티채널 로컬라이제이션 캠페인 전개",
+      "content": "리즈 브랜드가 할로윈 시즌을 맞아 '가장 사탕 받기 좋은 거리'를 찾는 참여형 멀티채널 프로모션을 펼친다. 온·오프라인 마케팅 접점을 리얼타임 데이터와 결합한 구조다.",
+      "url": "https://www.marketingdive.com/news/reeses-searches-for-trick-or-treatiest-street-in-multichannel-effort/831813/",
+      "source": "Marketing Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Reese's Brand Marketing Team",
+      "creator_insight": "단순 일회성 이벤트를 넘어 소비자 행동 패턴과 온·오프라인 바이럴을 미디어 믹스로 정교하게 엮어낸 캠페인 설계력.",
+      "tags": [
+        "리테일마케팅",
+        "시즌캠페인",
+        "소비자참여"
+      ],
+      "execution_techniques": [
+        "Omnichannel Activation",
+        "Consumer Engagement"
+      ],
+      "why": "시즌성 마케팅을 진부한 할로윈 그래픽으로 때우지 않고 소비자 행동 맥락을 자극하는 캠페인 구조 설계의 예시.",
+      "social_proof": "2개 매체 동시 포착: z3m6ly9kaxzlc2l0ZS1zdG9yYWdlL2",
+      "depth": 0.89,
+      "image": "https://imgproxy.divecdn.com/ehdu2-yLdTcYz2qNz-8O1fnVFyJtkU3l21IWWdbFhec/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS84ZDA5YmQzMS05YTYzLTRhMWYtOGQ0Mi1hMTA1MzU5Mzc5N2YucG5n.webp",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    },
+    {
+      "title": "서울 디자인 교육과 그래픽 미학의 미래: 'What’s next in Seoul Design?'",
+      "content": "독일 잡지 Slanted가 관찰한 서울 디자인 씬의 유연성과 한국 특유의 시각적 그래픽 트렌드 분석. 글로벌 디자인 관점에서 서울이 가진 미학적 특수성을 반추한다.",
+      "url": "https://www.slanted.de/whats-next-in-seoul-design/",
+      "source": "Slanted",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Slanted Editorial",
+      "creator_insight": "서구권 디자인 관성에 매몰되지 않고, 한국 특유의 고밀도 그래픽과 공간 언어가 가진 독창적인 조합을 입체적으로 포착했다.",
+      "tags": [
+        "서울디자인",
+        "K디자인",
+        "시각문화"
+      ],
+      "execution_techniques": [
+        "Cultural Comparison",
+        "Visual Editorial"
+      ],
+      "why": "한국 크리에이터들이 정작 놓치기 쉬운 '서울적 디자인 자산'을 객관적 시선으로 파악하게 돕는 시각적 참조점.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Slanted%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    },
+    {
+      "title": "팔로마 바우 스튜디오, 조명의 정체성을 해부한 설치 미술 'Anatomy of Light'",
+      "content": "발렌시아 조명 브랜드 Ilutrek을 위해 Paloma Bau Studio가 연출한 Spatial Installation. 빛의 가공되지 않은 기하학적 구조를 전시장 공간 안에 모듈식으로 풀어냈다.",
+      "url": "https://retaildesignblog.net/2026/10/03/anatomy-of-light-installation-by-paloma-bau-studio/",
+      "source": "Retail Design Blog",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Paloma Bau Studio",
+      "creator_insight": "조명 기기라는 산만한 제품을 과시하지 않고, 빛이라는 물리적 재료의 굴절과 음영만을 미니멀한 공간으로 구조화했다.",
+      "tags": [
+        "공간설치",
+        "조명디자인",
+        "스파이셜미학"
+      ],
+      "execution_techniques": [
+        "Architectural Lighting",
+        "Spatial Minimalism"
+      ],
+      "why": "제품을 주인공으로 세우지 않으면서도 제품의 본질을 공간적 웅장함으로 치환하는 전시 연출 레퍼런스.",
+      "social_proof": "2개 매체 동시 포착: light",
+      "depth": 0.88,
+      "image": "https://placehold.co/800x600/1c1917/FFFFFF?text=Retail%20Design%20Blog%0A%28SPATIAL%29&font=playfair-display",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    },
+    {
+      "title": "마티아 코라토의 사진집: 런던 리 리버를 따라가는 시네마틱 프레임의 연속",
+      "content": "사진작가 마티아 코라토가 동런던 산업 지대의 자연과 도시 폐허를 담은 프로젝트. 영화적 조도와 적막한 연출을 통해 풍경을 하나의 드라마틱한 내러티브로 전환시킨다.",
+      "url": "https://www.lensculture.com/articles/mattia-corato-along-the-river-lea",
+      "source": "lensculture.com",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Mattia Corato",
+      "creator_insight": "단순 다큐멘터리 사진을 넘어서 프레임 안의 빛과 인물의 비대칭 배치를 통해 시네마틱 톤앤매너를 구현했다.",
+      "tags": [
+        "시네마틱사진",
+        "비주얼서사",
+        "프레임미학"
+      ],
+      "execution_techniques": [
+        "Documentary Lighting",
+        "Cinematic Framing"
+      ],
+      "why": "영상 및 포토 디렉터들이 로케이션 촬영 시 자연광과 거친 질감을 필름 룩으로 정제하는 방법을 제시한다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://images.lensculture.com/image/8bc850d0-11a0-4a6d-464a-127f2db8ec00/large",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "래퍼래리 준의 래디컬한 디자인: 4,550달러짜리 오렌지 컬러 '폴린 텅 체어'",
+      "content": "힙합 래퍼 래리 준이 1967년 클래식 디자인 체어를 자신의 상징적인 오렌지 컬러로 재해석해 재출시했다.",
+      "url": "https://www.highsnobiety.com/p/larry-june-paulin-tongue-chair/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "스트릿컬처",
+        "가구디자인"
+      ],
+      "why": "힙합 뮤지션의 브랜딩이 빈티지 가구 스펙으로 전이되는 위트 있는 컬래버레이션 케이스.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    },
+    {
+      "title": "계란 후라이 주전자부터 롤케이크 텍스타일: 미리암 레몽의 기발한 오브제",
+      "content": "프랑스-모로코 아티스트 미리암 레몽이 아침 식사 메뉴들을 키치한 도자기와 드로잉 오브제로 재탄생시켰다.",
+      "url": "https://www.creativeboom.com/work/fried-egg-teapots-tufted-roll-cakes-and-moroccan-landscapes-feature-in-myriam-lemons-creations/",
+      "source": "Creative Boom",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "키치아트",
+        "오브제"
+      ],
+      "why": "일상적 식재료를 시각적 위트로 탈바꿈시키는 위트 넘치는 아트워크 아이디어 스낵.",
+      "depth": 0.5,
+      "image": "https://media.creativeboom.com/34a027c7-ba08-46be-9f6f-3dc530eaafff/conversions/3605e2125ef6faa7bbda2dafa945c1d5faf7f1b0-medium.webp",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    },
+    {
+      "title": "애플 iOS 27 잠금화면 커스텀 업데이트 트렌드",
+      "content": "잠금화면 타이포그래피와 시계 위치를 미세 조정할 수 있는 새로운 UI 커스텀 기능이 소셜에서 바이럴 중이다.",
+      "url": "http://www.trendhunter.com/trends/lock-screen-customization",
+      "source": "Trend Hunter",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "iOS트렌드",
+        "UI커스텀"
+      ],
+      "why": "모바일 스크린을 개인화하는 사용자들의 최근 비주얼 커스텀 놀이 문화를 파악할 수 있는 스낵 정보.",
+      "depth": 0.5,
+      "image": "http://cdn.trendhunterstatic.com/phpthumbnails/639/639708/639708_1_468.jpeg",
+      "pub_date": "2026-10-05T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "시네마틱 미장센",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 노스탤지어",
+      "is_hot": true
+    },
+    {
+      "word": "브랜드 톤앤매너 비판",
+      "is_hot": false
+    },
+    {
+      "word": "공간 해부학",
+      "is_hot": true
+    },
+    {
+      "word": "멀티채널 로컬라이제이션",
+      "is_hot": false
+    }
+  ]
+}
