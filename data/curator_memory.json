@@ -27,7 +27,10 @@
       "Production Paradise (2026-09-17에 URL 슬래시 누락으로 깨진 링크 발견 후 수정됨 — 향후 URL 무결성 재확인 필요)",
       "blogthumb.pstatic.net (네이버 블로그 썸네일) — 2026-09-23에 base64 파라미터 중간에 임의 문자열(' erosion')이 삽입되어 404가 나는 손상된 image URL 발견, PostView.naver의 og:image 재조회로 수정함. 파이프라인이 URL을 스크래핑하는 과정에서 문자열 손상이 발생할 수 있음을 시사.",
       "lensculture.com — 2026-09-23에 기사 URL이 403(봇 차단으로 추정)을 반환. 깨진 링크는 아니고 User-Agent 기반 차단일 가능성이 높음, 재확인 필요.",
-      "designobserver.com — 2026-09-26에 기사 URL이 403(봇 차단으로 추정)을 반환. lensculture.com/medium.muz.li와 같은 패턴으로, 실제 깨진 링크가 아닐 가능성이 높음."
+      "designobserver.com — 2026-09-26에 기사 URL이 403(봇 차단으로 추정)을 반환. lensculture.com/medium.muz.li와 같은 패턴으로, 실제 깨진 링크가 아닐 가능성이 높음.",
+      "campaignlive.com — 2026-10-06(2026-10-05.json 점검 중)에 기사 URL이 403 반환. lensculture.com/designobserver.com과 같은 봇 차단 패턴으로 추정.",
+      "medium.com (브랜드 전략 칼럼) — 2026-10-06 점검 중 403 반환. Medium 플랫폼 자체가 서버사이드 요청을 차단하는 것으로 추정, 실제 깨짐 아닐 가능성 높음.",
+      "lensculture.com — 기존엔 403이었으나 2026-10-06 점검에서는 'fetch failed'(연결 자체 실패)로 격상 관찰됨. 차단이 강화됐을 가능성, 다음에도 재확인 필요."
     ],
     "orphaned_legacy_file": "data/agent_memory.json 파일이 저장소에 존재하지만 fetch_ideas.py/agents/radar.py/index.html 등 현재 코드 어디에서도 참조되지 않는다 (2026-09-20 grep 확인). core_philosophy/recent_lessons 구조를 가진 레거시 파일로 추정되며, 내용이 반복적/보일러플레이트라 이 curator_memory.json이 사실상 이를 대체한다. 사용자 승인 없이 삭제하지 않는다."
   },
@@ -81,6 +84,21 @@
       "date": "2026-09-30",
       "status": "agent_added",
       "notes": "기계적 파이프라인이 평소보다 늦은 08:46 KST경 생성 확인(session.timestamp 2026-09-29T23:46:12Z, 같은 날짜 내 정상 완료. data/daily/2026-09-30.json, topPicks 14건, session.selected 14→15, considered 40). domain 분포는 Cinema & Narrative 4/14, Design & Space 4/14, Marketing & Brand 4/14, Korean Code 2/14로 최근 관찰 중 가장 균등한 날이었음. URL 14건, 이미지 14건 전부 200 정상(깨진 링크 없음). social_proof 교차매칭 오탐이 오늘도 2건 발생(무관한 두 기사 쌍에 '2개 매체 동시 포착: content', 다른 무관한 두 기사에 '2개 매체 동시 포착: berlin') — 'berlin' 사례는 두 기사가 실제로 둘 다 베를린 디자인/아트 씬을 다루지만 같은 사실을 보도한 게 아니라 단어 매칭일 뿐이라 여전히 신뢰할 수 없는 오탐으로 분류함. 새 Korean Code 하위 유형 발견: 전태형(Taehyoung Maria Jeon) 작가 항목은 한국계로 추정되는 이름의 창작자이지만 게재처가 완전히 서구 매체(Colossal)로, '한국어 소스'도 '한국 소재'도 아닌 세 번째 하위 유형(창작자 이름만 한국적)으로 분류됨. 실제 리서치: 스포티파이 코리아가 2026년 9월 아일릿(ILLIT)과 함께 공개한 '음악으로 이어지는 우리' 3부작 캠페인(Messages→Jam→Playlist 앱 기능을 서사에 1:1 매핑)과 연계 오프라인 행사 '스포티파이 하우스 서울'(9/10-13, 성수동 앤더슨씨)을 openads.co.kr 애드타입 분석(2026-09-23)과 bnt뉴스, 스포티파이 코리아 공식 인스타그램 게시물로 교차 확인해 Marketing & Brand 카테고리에 agent_curated:true로 추가, session.selected 14→15. TVCF 연출자인 사용자 업무 도메인에 직접 참고가 되는 '기능-서사 매핑' 실행 기법이라 편집 가치가 높았음."
+    },
+    {
+      "date": "2026-10-01",
+      "status": "agent_errored_no_transcript",
+      "notes": "큐레이터 에이전트 세션(Qb1KarKZLPFBuLnC)이 00:43 KST 시작, 01:16 KST errored 종료. 마지막 메시지가 내용 없는 turn-lifecycle 이벤트뿐이라 그날 무슨 작업을 했는지 추적 불가. 근본 원인은 추정하지 않고 사실만 기록."
+    },
+    {
+      "date": "2026-10-02 ~ 2026-10-05",
+      "status": "agent_silent_pipeline_healthy",
+      "notes": "Aside 계정의 모든 cron 루틴(ARCHE, CREATIVE INSIGHT, MOTIF)이 2026-10-01 02:30 KST 이후 2026-10-05 23:29 KST까지 세션을 전혀 생성하지 않음(aside.sessions.list로 확인, 3개 루틴 모두 동일 패턴) — 이 저장소만의 문제가 아니라 계정 전체 Aside 데몬/스케줄러 가동 중단으로 추정(원인 미확인). 반면 GitHub Actions 'Daily Creative Insight Update'는 이 기간 매일 정상 커밋(10-02~05 데이터 전부 존재, Actions 로그 전부 success) — 기계적 파이프라인이 Aside 루틴과 완전히 독립적으로 건강하게 작동한다는 설계 가정이 실전 장애 상황에서 검증됨. 결과적으로 4일치(10-02~10-05) 기계적 산출물이 에이전트 검토/보강을 받지 못한 백로그로 남음."
+    },
+    {
+      "date": "2026-10-06",
+      "status": "agent_added_backfill",
+      "notes": "오늘 데이터는 체크 시점(08:29~08:40 KST)까지 기계적 파이프라인이 생성하지 않아(05:17 KST 기준 지연, 09-27/09-30에도 지연 전례 있어 이례적이진 않음) 몇 분 간격 재확인에도 끝내 미생성 — 대신 가장 최근 완성본이자 4일간 미검토 백로그였던 2026-10-05.json에 보강했다. 서울교통공사·하나증권 전동차 손잡이 광고 8년 만의 부활(2026-09-22, 뉴시스/동아일보/문화일보/위키트리 등 8개 이상 매체 동일 보도로 교차 확인, 손잡이 형태를 활용한 입체 디자인+투자자 심리를 그대로 받아적은 카피가 포인트)을 Design & Space 카테고리에 agent_curated:true로 추가, session.selected 10→11. **새로운 핵심 발견(social_proof 오탐 4번째 원인 후보)**: Reese's 항목의 social_proof가 'z3m6ly9kaxzlc2l0ZS1zdG9yYWdlL2'라는 의미불명 문자열이었는데 base64 디코딩 결과 'site-storage/' 조각이 나왔고, 같은 항목의 image 필드(imgproxy URL)가 정확히 그 base64 조각을 포함한 CDN 경로였다. 즉 compute_cross_source_signals()가 제목/출처명뿐 아니라 image 필드(혹은 레코드 전체 직렬화 문자열)까지 토큰화 대상에 포함하고 있어 base64 URL 조각이 우연히 다른 항목과 매칭되는 것으로 추정 — 기존 3가지 원인 가설(제목 흔한 단어/출처명 공통문자열/우연한 주제 일치)에 이은 가장 구체적인 4번째 후보. 또한 'your life'(Artforum 기사 인용구 'You Must Change Your Life'에서 유래 추정)처럼 2단어 구절 매칭도 처음 확인돼, 매칭 단위가 단일 단어를 넘어선다는 것도 갱신된 관찰."
     }
   ],
   "editorial_decisions": [
@@ -90,11 +108,10 @@
     "2026-09-21: Taste DNA 버그, 강제 볼륨 규칙은 사용자가 명시적으로 수정을 승인하여 반영 완료. 더 이상 '보류 항목' 아님."
   ],
   "open_questions_for_next_run": [
-    "오늘 기계적 파이프라인이 생성한 콘텐츠 중 창작 기법(execution_techniques)이나 근거(why)가 템플릿처럼 반복되는 항목이 있는지 점검할 것.",
-    "Korean Code 카테고리가 실제로 한국 관련 실질 콘텐츠로 채워지고 있는지 매일 확인할 것. 지금까지 확인된 하위 문제 3종: (1) 소재 자체가 한국과 무관(2026-09-24 베를린), (2) 한국어 소스이나 소재는 무관(2026-09-25 파리), (3) 창작자 이름만 한국적이고 게재처/소재 모두 서구(2026-09-30 전태형/Colossal). domain 라벨을 그대로 믿지 말 것.",
-    "social_proof 필드가 실제 cross-source 신호 없이 비어있는 항목이 대다수인데, 매일 최소 1-2건은 실제 신호를 찾아 채울 수 있는지 시도할 것.",
-    "social_proof 교차매칭 오탐이 2026-09-21부터 2026-09-30까지 누적 9회 이상 관찰됨(beyond/featuredvisual/nature/artist/design×2/Dive/content/berlin). 원인 3종으로 분화: (1) 제목 속 흔한 단어, (2) 출처명 공통 문자열(예: Dive), (3) 흔한 단어가 우연히 진짜 같은 주제와도 겹치는 경우(2026-09-30 'berlin', 두 기사 모두 실제 베를린 아트씬을 다루지만 같은 사실 보도는 아님) — 세 경우 모두 '두 매체가 같은 사실을 보도했는지'를 검증하지 않는 것이 근본 원인. compute_cross_source_signals() 구조적 버그로 완전히 굳어졌으므로, 사용자 승인 시 코드 수정(제목 매칭 최소 단어 길이/불용어 제외 + source 필드 매칭 제외)을 최우선 제안할 것.",
-    "Ask the Curator 위젯의 Vercel 함수가 GEMINI_API_KEY 쿼터를 GitHub Actions 파이프라인과 공유하지 않고 별도 키를 쓰는지 주기적으로 확인할 것 (현재는 동일 프로젝트 키 공유 중).",
-    "2026-09-28/2026-09-29 이틀간 이 큐레이터 루틴의 실행 기록이 curator_memory.json pipeline_health_log에 없음(공급자/네트워크 장애 가능성이 있었던 것으로 추정되나 미확인, memory/episodic/2026-09-28.md 참고). 다음 실행에서 이 공백이 반복되는지, 그 이틀간 GitHub Actions 기계적 파이프라인 자체는 정상 작동했는지 확인할 것."
+    "social_proof 교차매칭 오탐의 원인이 이제 4종으로 분화됨: (1) 제목 속 흔한 단어, (2) 출처명 공통 문자열(Dive), (3) 흔한 단어의 우연한 주제적 일치, (4) image 필드의 base64 URL 조각이 매칭 corpus에 포함되는 것으로 추정(2026-10-06 최초 발견, 'z3m6ly9...' 디코딩으로 확인). 다음 실행에서도 image 필드발 오탐이 재현되는지 확인하고, 사용자 승인 시 fetch_ideas.py의 매칭 대상 필드를 title/source 일부로 제한하는 수정을 최우선 제안할 것.",
+    "Korean Code 카테고리가 실제로 한국 관련 실질 콘텐츠로 채워지고 있는지 매일 확인할 것. 지금까지 확인된 하위 문제 3종: (1) 소재 자체가 한국과 무관, (2) 한국어 소스이나 소재는 무관, (3) 창작자 이름만 한국적이고 게재처/소재 모두 서구. 2026-10-05 관찰: Korean Code 2건(Artforum 광주/부산비엔날레, Slanted 서울디자인) 모두 '소재는 한국 관련이지만 소스가 서구 매체'라는 패턴 — 완전 무관보다는 경미하나, 한국어 원 소스가 여전히 0건이었다는 점에서 에이전트의 한국어 소스 보강 역할이 계속 유효함.",
+    "2026-10-01~05 사이 Aside 계정 전체 cron 루틴(ARCHE/CREATIVE INSIGHT/MOTIF)이 4일간 세션을 생성하지 않은 시스템 전체 장애가 있었다. 다음 실행에서 유사 공백이 재발하는지, 그리고 10-02~10-05 백로그(이번에 10-05만 보강함, 10-02/03/04는 여전히 에이전트 미검토 상태) 중 여유가 있으면 추가로 보강할 것.",
+    "오늘(10-06) 체크 시점까지 기계적 파이프라인이 평소(05:17 KST)보다 많이 늦었다(09-27 +2.5h, 09-30 +3.5h 전례에 이어 이번엔 체크 시점 기준 +3시간 이상 지연 추정). 다음 실행에서 10-06.json이 결국 생성됐는지, 그 날짗 콘텐츠도 자가진단이 필요한지 확인할 것.",
+    "Ask the Curator 위젯의 Vercel 함수가 GEMINI_API_KEY 쿼터를 GitHub Actions 파이프라인과 공유하지 않고 별도 키를 쓰는지 주기적으로 확인할 것."
   ]
 }
