@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-10-05T23:53:01.433895",
     "considered": 40,
-    "selected": 14
+    "selected": 15
   },
   "topPicks": [
     {
@@ -343,6 +343,32 @@
       "depth": 0.89,
       "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/09/adf-web-magazine-arkobject-1-300x225.jpg",
       "pub_date": "2026-10-06T08:00:00.000000"
+    },
+    {
+      "title": "넷플릭스 코리아 10주년 '십장생' 포스터 — 전통 민화 화풍에 K-콘텐츠 캐릭터 15편을 박아 넣다",
+      "content": "넷플릭스가 한국 서비스 10주년을 맞아 조선시대 민화 '십장생도'의 화풍을 차용한 기념 포스터 '십(10)장생'과 브랜드 필름 '미쳤넷!'을 공개했다. 포스터에는 오징어 게임, 참교육, 킹덤, 흑백요리사, 폭싹 속았수다, 케이팝 데몬 헌터스, 피지컬: 100 등 10년간 사랑받은 K-콘텐츠 캐릭터들이 민화 구도 속에 배치됐고, 브랜드 필름은 이은지 내레이션으로 시작해 각 작품 출연진이 \"미쳤넷!\"을 외치는 장면을 교차 편집했다. 10월 24~25일 서울 상암 문화비축기지에서 팬 행사 '넷플잔치'가 열린다.",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=768331",
+      "source": "slist.kr",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "넷플릭스 코리아 (Netflix Korea)",
+      "creator_insight": "15편 가까운 서로 다른 IP의 캐릭터를 한 포스터에 욱여넣으면서도 산만해지지 않도록, 민화 특유의 평면적 격자 구도와 대칭 배치(영희-나화진이 서로 마주보는 구성 등)를 그대로 가져왔다. '기념 포스터'를 콜라주가 아니라 하나의 완결된 전통 도상 체계로 승격시킨 설계가 핵심이다.",
+      "tags": [
+        "넷플릭스코리아",
+        "십장생",
+        "미쳤넷",
+        "브랜드필름"
+      ],
+      "execution_techniques": [
+        "#TraditionalMotifRemix",
+        "#MultiIPEnsembleLayout"
+      ],
+      "why": "여러 시리즈의 캐릭터를 한 화면에 모으는 '기념 비주얼'은 보통 콜라주로 끝나기 쉬운데, 한국 전통 회화의 격자형 구도 규칙을 그대로 차용해 10년치 IP를 하나의 문화적 서사로 묶어낸 로컬라이제이션 설계는 멀티 프로퍼티 브랜드의 마일스톤 캠페인에 참고할 가치가 있다.",
+      "social_proof": "slist.kr(2026-09-23), 톱스타뉴스(2026-09-23), RNX(2026-09-26)가 동일한 '십장생 포스터·미쳤넷! 브랜드 필름' 공개 사실과 캐릭터 구성을 각각 독립 보도했고, 넷플릭스 공식 뉴스룸(about.netflix.com)의 10주년 기사와 Netflix Korea 공식 X 계정 게시물(2026-09-23)로 1차 사실관계가 교차 확인됨.",
+      "depth": 0.88,
+      "image": "https://img.youtube.com/vi/6XEH6HVkvFk/maxresdefault.jpg",
+      "pub_date": "2026-10-06T09:00:00.000000",
+      "agent_curated": true
     }
   ],
   "popcorn": [
