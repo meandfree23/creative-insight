@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-10-06T23:51:04.642522",
     "considered": 40,
-    "selected": 9
+    "selected": 10
   },
   "topPicks": [
     {
@@ -223,6 +223,34 @@
       "depth": 0.87,
       "image": "https://design-milk.com/images/2026/10/Odami_Shinji_Image-3_High-Res-JPG-Lightened-1280x900-copy-2-e1791233465352.jpg",
       "pub_date": "2026-10-07T08:00:00.000000"
+    },
+    {
+      "title": "한국타이어 '리무브(re:move)': 타이어 부산물 블래더로 완성한 업사이클링 가구, 4개 디자인 어워드 석권",
+      "content": "한국타이어앤테크놀로지가 타이어 생산 과정에서 나오는 부산물 '블래더(Bladder)'를 재활용해 가구·브릭·라이프스타일 제품으로 만든 업사이클링 프로젝트 '리무브(re:move)'로 '2026 IDEA 디자인 어워드' 사회적 영향 디자인 부문 본상을, 구형 모듈러 로보틱 휠 시스템 '휠봇2(WheelBot2)'로 콘셉트 디자인 부문 본상을 각각 수상했다. 리무브는 서울대학교 순환디자인연구실 '디스코랩'과 공동 개발했으며, 올해 레드닷·A' 디자인·그린 굿 디자인 어워드에 이어 IDEA까지 받아 동일 프로젝트로 4개 국제 디자인 어워드를 석권했다.",
+      "url": "https://www.hankooktire.com/kr/ko/company/media-list/media-detail.633936.html",
+      "source": "Hankook Tire Newsroom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "한국타이어 × 서울대학교 디스코랩(DISCO Lab)",
+      "creator_insight": "폐기물로 처리되던 타이어 성형 틀(블래더)을 분말화해 가구와 브릭으로 재성형하고, 그 브릭을 쌓아 '키네틱 월'이라는 전시 가능한 조형물까지 완성시켜 하나의 부산물로 제품-건축 스케일을 모두 커버하는 디자인 시스템을 만들었다.",
+      "tags": [
+        "업사이클링",
+        "산업디자인",
+        "지속가능디자인",
+        "서울대디스코랩",
+        "타이어디자인"
+      ],
+      "execution_techniques": [
+        "#WasteMaterialReframing",
+        "#ModularBrickAssembly",
+        "#AwardCircuitSequencing"
+      ],
+      "why": "지속가능성을 말로 선언하는 대신 만질 수 있는 가구와 벽으로 증명하고, 그 증거를 레드닷→A'디자인→그린굿디자인→IDEA 순으로 반복 출품해 '하나의 서사를 여러 심사위원단 앞에 다시 세우는' 방식으로 신뢰를 축적했다. 브랜드 필름에서 부산물·폐기물을 다루는 소재를 어떻게 전시 가능한 오브제로 승격시킬지 참고할 수 있는 사례.",
+      "social_proof": "한국타이어 공식 뉴스룸(한글+영문), 오토데일리, 매일일보, 쿠키뉴스, 오토뷰, 디지틀조선일보(dizzotv), 데일리한국, 매경비즈니스(영문) 등 9개 이상 매체가 2026-09-30 동일하게 '리무브 사회적 영향 디자인 부문'과 '휠봇2 콘셉트 디자인 부문' 수상 사실을 보도.",
+      "depth": 0.82,
+      "image": "https://www.hankooktire.com/content/dam/hankooktire/common/media/KR/ko/2026/09/news_img_20260930_og.jpg",
+      "pub_date": "2026-10-07T09:00:00.000000",
+      "agent_curated": true
     }
   ],
   "popcorn": [
