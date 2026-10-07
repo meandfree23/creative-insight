@@ -30,7 +30,7 @@
       "designobserver.com — 2026-09-26에 기사 URL이 403(봇 차단으로 추정)을 반환. lensculture.com/medium.muz.li와 같은 패턴으로, 실제 깨진 링크가 아닐 가능성이 높음.",
       "campaignlive.com — 2026-10-06(2026-10-05.json 점검 중)에 기사 URL이 403 반환. lensculture.com/designobserver.com과 같은 봇 차단 패턴으로 추정.",
       "medium.com (브랜드 전략 칼럼) — 2026-10-06 점검 중 403 반환. Medium 플랫폼 자체가 서버사이드 요청을 차단하는 것으로 추정, 실제 깨짐 아닐 가능성 높음.",
-      "lensculture.com — 기존엔 403이었으나 2026-10-06 점검에서는 'fetch failed'(연결 자체 실패)로 격상 관찰됨. 차단이 강화됐을 가능성, 다음에도 재확인 필요."
+      "lensculture.com — 2026-10-06, 2026-10-07 연속 2회 'fetch failed'(연결 자체 실패, 403 아님)로 관찰됨. 기존 403 봇 차단보다 더 강한 차단 단계로 전환된 것으로 보임. 2회 연속 재현되었으므로 거의 확정적인 패턴 — 이 소스의 URL은 앞으로 fetch 검증 없이도 '접근 불가' 전제하고 교차검증 소스를 우선 찾을 것."
     ],
     "orphaned_legacy_file": "data/agent_memory.json 파일이 저장소에 존재하지만 fetch_ideas.py/agents/radar.py/index.html 등 현재 코드 어디에서도 참조되지 않는다 (2026-09-20 grep 확인). core_philosophy/recent_lessons 구조를 가진 레거시 파일로 추정되며, 내용이 반복적/보일러플레이트라 이 curator_memory.json이 사실상 이를 대체한다. 사용자 승인 없이 삭제하지 않는다."
   },
@@ -104,6 +104,11 @@
       "date": "2026-10-06 (2차 실행)",
       "status": "agent_added",
       "notes": "오전 실행(08:29 KST, backfill)에서는 10-06.json이 아직 미생성이라 10-05.json에 보강했는데, 이번 실행(09:30 KST)에는 기계적 파이프라인이 10-06.json을 정상 생성해둔 상태였다 (topPicks 14건, considered 40, domain 분포 Design&Space 5/Cinema&Narrative 4/Marketing&Brand 3/Korean Code 2 — 평소와 달리 오늘은 Cinema가 아니라 Design&Space가 최다였음, 2026-09-30과 유사하게 편향이 매일 고정은 아님을 재확인). URL 14건 중 13건 200, medium.com 1건만 403(기존 watch_for_breakage 목록의 Medium 플랫폼 차단 패턴과 일치, 실제 깨짐 아닐 가능성 높음). **새로운 데이터 품질 관찰**: source 필드가 'Unknown Source'인 항목이 5/14(36%, nowness/vimeo×2/motionographer/네이버블로그)로 꽤 높은 비중을 차지했다 — 이 중 네이버 블로그(정종원 사진가 에세이, Korean Code) 항목만 image 필드도 placeholder.co 플레이스홀더로 대체되어 있었고, 나머지 4건(nowness/vimeo×2/motionographer)은 source만 비어있고 image는 정상 실제 이미지였다. 즉 source 추출 실패와 image 추출 실패가 항상 같이 나는 건 아니고, 네이버 블로그 쪽만 둘 다 실패하는 경향이 있다(2026-09-23 blogthumb 손상 사례와 같은 계열, 이번엔 손상 대신 완전 누락으로 실패 양상이 바뀜). social_proof 교차매칭 오탐이 오늘도 재현(item 4 Italy Dream Design 다이닝테이블 vs item 5 ignant.com 플로럴 디자인 기사에 똑같이 '2개 매체 동시 포착: the art' — 영문 원제에 공통된 흔한 단어 'art' 매칭으로 추정, 기존 가설(1)과 일치, 누적 10회 이상). 실제 리서치: 넷플릭스 코리아 10주년 '십장생' 포스터·'미쳤넷!' 브랜드 필름(조선 민화 화풍으로 10년치 K-콘�텐츠 캐릭터 15편을 재배치, slist.kr/톱스타뉴스/RNX 등 3개 이상 한국 매체 + 넷플릭스 공식 뉴스룸으로 교차 검증)을 Korean Code 카테고리에 agent_curated:true로 추가, session.selected 14→15."
+    },
+    {
+      "date": "2026-10-07",
+      "status": "agent_added",
+      "notes": "기계적 파이프라인이 평소보다 이른 시각(session.timestamp 2026-10-06T23:51 KST 기준, 전날 밤 늦게 생성된 것으로 추정)에 data/daily/2026-10-07.json을 정상 생성(topPicks 9건, considered 40). domain 분포는 Cinema & Narrative 4/9, Marketing & Brand 3/9, Korean Code 1/9, Design & Space 1/9로 known_bias_to_watch(Cinema 편중)가 계속 유효함. 자가진단: creator_insight/why 문장은 모두 항목별로 구체적이었고(템플릿 반복 없음), social_proof는 9건 전부 빈 문자열로 깨끗했음(최근 누적 10회 이상 발생한 교차매칭 오탐이 오늘은 0건 — 흔한 단어가 우연히 적었던 날로 추정, 버그 자체가 고쳐진 것은 아님). URL 9건 중 8건 200, lensculture.com만 'fetch failed'로 연결 자체 실패(2026-10-06에 이어 2회 연속 같은 증상, watch_for_breakage 패턴 강화됨). Korean Code 항목(네이버 블로그, 정연두 작가의 현대사진 연출론)은 한국어 소스+한국 작가/소재가 정확히 일치한 양호한 사례. 실제 리서치: 한국타이어앤테크놀로지가 타이어 생산 부산물 '블래더'를 재활용한 업사이클링 프로젝트 '리무브(re:move, 서울대 디스코랩과 공동개발)'로 '2026 IDEA 디자인 어워드' 사회적 영향 디자인 부문 본상, 구형 모듈러 로보틱 휠 시스템 '휠봇2'로 콘셉트 디자인 부문 본상을 수상한 사실(2026-09-30)을 한국타이어 공식 뉴스룸(한글+영문)과 오토데일리·매일일보·쿠키뉴스·오토뷰·디지틀조선일보·데일리한국·매경비즈니스(영문) 등 9개 이상 매체 동시 보도로 교차 확인해 Design & Space 카테고리에 agent_curated:true로 추가, session.selected 9→10. 리무브는 올해 레드닷·A'디자인·그린굿디자인에 이어 IDEA까지 받아 동일 프로젝트로 4개 국제 디자인 어워드를 석권한 점을 creator_insight/why에 반영."
     }
   ],
   "editorial_decisions": [
@@ -113,10 +118,10 @@
     "2026-09-21: Taste DNA 버그, 강제 볼륨 규칙은 사용자가 명시적으로 수정을 승인하여 반영 완료. 더 이상 '보류 항목' 아님."
   ],
   "open_questions_for_next_run": [
-    "social_proof 교차매칭 오탐이 2026-10-06에도 'the art'(흔한 단어 매칭, 가설 1)로 재현되어 누적 10회 이상이 됨. 4가지 원인 가설(제목 흔한 단어/출처명 공통문자열/우연한 주제 일치/image 필드 base64 조각)이 모두 최소 1회 이상 재현 확인됐으므로, 사용자 승인 시 fetch_ideas.py의 compute_cross_source_signals() 매칭 대상을 title 토큰(불용어 제외, 최소 길이 제한)으로만 한정하고 source/image 필드는 매칭 corpus에서 완전히 제외하는 수정을 최우선 제안할 것.",
-    "**신규 발견(2026-10-06)**: source 필드가 'Unknown Source'인 항목이 오늘 5/14(36%)로 높은 비중이었다(nowness.com, vimeo×2, motionographer.com, 네이버블로그). 이 중 네이버 블로그 항목만 image도 placeholder.co로 대체되어 있어 실제 이미지가 아예 없었다 — 나머지 4건은 source만 비고 image는 정상. 다음 실행에서도 'Unknown Source' 비중이 계속 높은지, 특히 네이버 블로그처럼 source+image가 동시에 실패하는 패턴이 재발하는지 확인할 것. 재발이 쌓이면 fetch_ideas.py의 source/image 추출 로직(아마 og:site_name 또는 발행처 메타태그 파싱) 점검을 사용자에게 제안할 근거가 된다.",
-    "Korean Code 카테고리 실질 점검 계속: 2026-10-06은 오픈서베이 블로그(한국어+한국 소재 일치, 양호)와 네이버 블로그 정종원 에세이(한국어 소스이나 소재는 생성형 AI 일반론, 한국 고유성은 약함) 2건이었다. 기존 3종 그레이존(소재 무관/소스만 한국어/창작자 이름만 한국적) 패턴이 계속 재현되는지 추적할 것.",
-    "2026-10-02~04 사흘치 기계적 산출물이 여전히 에이전트 미검토 백로그로 남아있다(10-05는 10-06 오전 실행에서 보강 완료). 여유가 있는 다음 실행에서 역순으로 하루씩 보강하는 것을 계속 고려할 것(사용자 승인 불필요, 데이터 레이어 작업).",
+    "social_proof 교차매칭 오탐: 4가지 원인 가설(제목 흔한 단어/출처명 공통문자열/우연한 주제 일치/image 필드 base64 조각)이 모두 1회 이상 재현되었으나, 2026-10-07은 처음으로 9건 전부 0건이었다. 버그가 고쳐진 게 아니라 그날 제목들의 우연한 단어 중복이 적었을 가능성이 높으므로 계속 추적할 것. 사용자 승인 시 fetch_ideas.py의 compute_cross_source_signals() 매칭 대상을 title 토큰(불용어 제외, 최소 길이 제한)으로만 한정하고 source/image 필드는 매칭 corpus에서 완전히 제외하는 수정을 최우선 제안.",
+    "lensculture.com이 2026-10-06, 10-07 연속 'fetch failed'(연결 자체 실패)로 관찰되어 봇 차단에서 더 강한 차단으로 전환된 것이 거의 확정적. 이 소스가 계속 선택되면 사용자에게 소스 목록에서 제외하거나 우선순위를 낮추는 것을 제안할 근거가 쌓이고 있음.",
+    "source 필드 'Unknown Source' 비중과 네이버 블로그 image placeholder 대체 패턴(2026-10-06 관찰)이 재발하는지 다음 실행에서 계속 확인할 것.",
+    "Korean Code 카테고리 실질 점검 계속: 2026-10-07은 네이버 블로그(정연두 작가 현대사진, 한국어+한국 소재 일치, 양호)로 최근 중 깨끗한 사례였음. 기존 3종 그레이존(소재 무관/소스만 한국어/창작자 이름만 한국적) 패턴이 계속 재현되는지 추적.",
     "Ask the Curator 위젯의 Vercel 함수가 GEMINI_API_KEY 쿼터를 GitHub Actions 파이프라인과 공유하지 않고 별도 키를 쓰는지 주기적으로 확인할 것."
   ]
 }
