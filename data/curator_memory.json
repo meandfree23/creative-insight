@@ -109,6 +109,11 @@
       "date": "2026-10-07",
       "status": "agent_added",
       "notes": "기계적 파이프라인이 평소보다 이른 시각(session.timestamp 2026-10-06T23:51 KST 기준, 전날 밤 늦게 생성된 것으로 추정)에 data/daily/2026-10-07.json을 정상 생성(topPicks 9건, considered 40). domain 분포는 Cinema & Narrative 4/9, Marketing & Brand 3/9, Korean Code 1/9, Design & Space 1/9로 known_bias_to_watch(Cinema 편중)가 계속 유효함. 자가진단: creator_insight/why 문장은 모두 항목별로 구체적이었고(템플릿 반복 없음), social_proof는 9건 전부 빈 문자열로 깨끗했음(최근 누적 10회 이상 발생한 교차매칭 오탐이 오늘은 0건 — 흔한 단어가 우연히 적었던 날로 추정, 버그 자체가 고쳐진 것은 아님). URL 9건 중 8건 200, lensculture.com만 'fetch failed'로 연결 자체 실패(2026-10-06에 이어 2회 연속 같은 증상, watch_for_breakage 패턴 강화됨). Korean Code 항목(네이버 블로그, 정연두 작가의 현대사진 연출론)은 한국어 소스+한국 작가/소재가 정확히 일치한 양호한 사례. 실제 리서치: 한국타이어앤테크놀로지가 타이어 생산 부산물 '블래더'를 재활용한 업사이클링 프로젝트 '리무브(re:move, 서울대 디스코랩과 공동개발)'로 '2026 IDEA 디자인 어워드' 사회적 영향 디자인 부문 본상, 구형 모듈러 로보틱 휠 시스템 '휠봇2'로 콘셉트 디자인 부문 본상을 수상한 사실(2026-09-30)을 한국타이어 공식 뉴스룸(한글+영문)과 오토데일리·매일일보·쿠키뉴스·오토뷰·디지틀조선일보·데일리한국·매경비즈니스(영문) 등 9개 이상 매체 동시 보도로 교차 확인해 Design & Space 카테고리에 agent_curated:true로 추가, session.selected 9→10. 리무브는 올해 레드닷·A'디자인·그린굿디자인에 이어 IDEA까지 받아 동일 프로젝트로 4개 국제 디자인 어워드를 석권한 점을 creator_insight/why에 반영."
+    },
+    {
+      "date": "2026-10-08",
+      "status": "agent_added",
+      "notes": "기계적 파이프라인이 00:15 KST경 정상 생성 확인(data/daily/2026-10-08.json, topPicks 12건, considered 40). domain 분포는 Cinema & Narrative 5/12, Design & Space 3/12, Marketing & Brand 3/12, Korean Code 1/12로 known_bias_to_watch(Cinema 편중)가 계속 유효함. 자가진단: social_proof 교차매칭 오탐이 오늘도 재현됨 — 완전히 무관한 두 기사(유니티 스파크 AI 에디터 워크플로우 vs 유럽의회 트럼프 누드상 풍자 조형물)에 동일하게 '2개 매체 동시 포착: artist'가 붙어있었다(기존 가설1: 제목 속 흔한 단어 매칭과 일치, 누적 11회 이상). URL 12건 중 11건 정상(80.lv는 301 리다이렉트로 정상, medium.com만 403 — 기존 봇 차단 패턴과 일치). **Korean Code 그레이존 재확인**: 오늘 유일한 Korean Code 라벨 항목(artinsight.co.kr, 'GDIF 360 야외무대')을 WebSearch로 교차 확인한 결과, 실제로는 런던 그리니치+도클랜즈 국제 페스티벌(Greenwich+Docklands International Festival, 완전히 영국 행사)에 대한 한국어 리뷰였다 — 2026-09-25 파리 전시 네이버블로그 사례와 동일한 '한국어 소스이나 소재는 완전히 무관'형 그레이존이 재발, 오늘 기계적 파이프라인의 진짜 한국 콘텐츠는 0건이었음. 실제 리서치: LG전자가 올인원 세탁건조기 'AI 워시콤보' 홍보를 위해 가상 기획사 'AWC엔터테인먼트'를 만들고 5인조 프로젝트 걸그룹 '에이아이돌(AI-DOL)'을 실제로 데뷔시킨 사례(2026-08-28 정체 공개, 조선비즈 2026-10-06 심층 인터뷰 기사에서 누적 조회수 3200만회·온라인 언급량 72% 증가 확인, 코리아헤럴드·g-enews·코리아뉴스룸·더스타(말레이시아) 등 5개 이상 매체가 데뷔 경위와 제품-캐릭터 매핑 구조를 동일 보도)를 Korean Code 카테고리에 agent_curated:true로 추가해 오늘의 라벨 공백을 메웠다, session.selected 12→13. 제품명/로고를 한 달간 숨긴 정체 지연 공개 전략, 제품 기능 5개를 멤버 캐릭터에 1:1 의인화한 구조가 TVCF 연출 관점에서 편집 가치가 높았음."
     }
   ],
   "editorial_decisions": [
@@ -118,10 +123,10 @@
     "2026-09-21: Taste DNA 버그, 강제 볼륨 규칙은 사용자가 명시적으로 수정을 승인하여 반영 완료. 더 이상 '보류 항목' 아님."
   ],
   "open_questions_for_next_run": [
-    "social_proof 교차매칭 오탐: 4가지 원인 가설(제목 흔한 단어/출처명 공통문자열/우연한 주제 일치/image 필드 base64 조각)이 모두 1회 이상 재현되었으나, 2026-10-07은 처음으로 9건 전부 0건이었다. 버그가 고쳐진 게 아니라 그날 제목들의 우연한 단어 중복이 적었을 가능성이 높으므로 계속 추적할 것. 사용자 승인 시 fetch_ideas.py의 compute_cross_source_signals() 매칭 대상을 title 토큰(불용어 제외, 최소 길이 제한)으로만 한정하고 source/image 필드는 매칭 corpus에서 완전히 제외하는 수정을 최우선 제안.",
-    "lensculture.com이 2026-10-06, 10-07 연속 'fetch failed'(연결 자체 실패)로 관찰되어 봇 차단에서 더 강한 차단으로 전환된 것이 거의 확정적. 이 소스가 계속 선택되면 사용자에게 소스 목록에서 제외하거나 우선순위를 낮추는 것을 제안할 근거가 쌓이고 있음.",
-    "source 필드 'Unknown Source' 비중과 네이버 블로그 image placeholder 대체 패턴(2026-10-06 관찰)이 재발하는지 다음 실행에서 계속 확인할 것.",
-    "Korean Code 카테고리 실질 점검 계속: 2026-10-07은 네이버 블로그(정연두 작가 현대사진, 한국어+한국 소재 일치, 양호)로 최근 중 깨끗한 사례였음. 기존 3종 그레이존(소재 무관/소스만 한국어/창작자 이름만 한국적) 패턴이 계속 재현되는지 추적.",
+    "social_proof 교차매칭 오탐: 'artist' 단어로 또 재현(누적 11회 이상), 4가지 원인 가설 중 가설1(제목 속 흔한 단어)이 가장 빈발. 사용자 승인 시 fetch_ideas.py의 compute_cross_source_signals() 매칭 대상을 title 토큰(불용어 제외, 최소 길이 제한)으로만 한정하고 source/image 필드는 매칭 corpus에서 완전히 제외하는 수정을 최우선 제안.",
+    "Korean Code 그레이존 '한국어 소스이나 소재 무관' 패턴이 2026-09-25(파리 전시)에 이어 2026-10-08(런던 GDIF 페스티벌)에 재차 확인됨 — 이름만 Korean Code이고 실제로는 서구 소재인 사례가 간헐적으로 계속 재발. 재발 빈도가 더 쌓이면 fetch_ideas.py의 Korean Code 판정 프롬프트에 '소재가 한국과 직접 관련되어야 함'을 명시하는 수정을 사용자에게 제안할 근거로 사용할 것.",
+    "lensculture.com이 2026-10-06, 10-07 연속 'fetch failed'(연결 자체 실패)로 관찰됨 — 이 소스가 계속 선택되면 사용자에게 소스 목록에서 제외/우선순위 하향을 제안할 근거가 쌓이고 있음. 2026-10-08에는 lensculture.com이 아예 topPicks에 선택되지 않아 추가 관찰 없음.",
+    "source 필드 'Unknown Source' 비중(2026-10-06 36%)이 재발하는지 계속 확인할 것. 2026-10-08에는 vimeo/nowness 2건이 Unknown Source였으나 image는 정상(기존 패턴과 일치).",
     "Ask the Curator 위젯의 Vercel 함수가 GEMINI_API_KEY 쿼터를 GitHub Actions 파이프라인과 공유하지 않고 별도 키를 쓰는지 주기적으로 확인할 것."
   ]
 }
