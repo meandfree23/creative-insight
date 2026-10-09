@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-09",
+  "focusQ": "비주얼의 밀도가 곧 브랜드의 지성이 되는 시대다. 허울뿐인 신기술 타령을 걷어내고, 날것의 질감과 치밀한 화면 연출로 보는 이의 시각을 자극하는 진짜 기획자들의 문법을 직시해야 한다. 마우스 스크롤 하나, 카메라 앵글 하나에 담긴 집착만이 평범함을 벗어나는 유일한 무기다.",
+  "creator_message": "그럴듯한 AI 버즈워드로 기획서를 채우는 무능한 이들에게 권한다. 질감과 프레임, 그리고 집요한 디테일이 어떻게 감정을 움직이는지 똑똑히 봐라. 기술은 수단일 뿐, 결국 사람을 붙잡는 건 철저하게 계산된 날것의 미학이다. 오늘 소개하는 레퍼런스들을 보며 얄팍한 기획 감각을 다시 세우길 바란다.",
+  "session": {
+    "timestamp": "2026-10-09T00:25:22.171614",
+    "considered": 40,
+    "selected": 8
+  },
+  "topPicks": [
+    {
+      "title": "ESPN '빅 데이': 뉴욕의 거친 질감을 담은 역동적인 모션 그래픽 오프닝",
+      "content": "뉴욕의 로컬 크리에이티브 스튜디오 BIGSTAR가 ESPN의 새로운 스포츠 토크쇼를 위해 제작한 오프닝 영상이다. 뉴욕 도시 고유의 질감과 아이코닉한 요소들을 빠르고 타격감 있는 컷 편집으로 구현해냈다.",
+      "url": "https://www.stashmedia.tv/bigstar-opens-big-day-with-peter-schrager-for-espn/",
+      "source": "Stash Media",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "BIGSTAR",
+      "creator_insight": "전형적인 스포츠 오프닝의 매끈한 3D 그래픽을 거부하고, 도시의 아스팔트와 그라피티 같은 아날로그적 질감을 화면 가득 채워 타격감을 극대화했다.",
+      "tags": [
+        "모션그래픽",
+        "오프닝타이틀",
+        "시네마틱질감"
+      ],
+      "execution_techniques": [
+        "#콜라주모션비주얼",
+        "#아날로그텍스처링"
+      ],
+      "why": "모션그래픽이 단순한 기술 자랑을 넘어 어떻게 브랜드의 고유한 지역색과 에너지를 시각화할 수 있는지 보여주는 완벽한 교본이다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/BIGSTAR-Opens-Big-Day-With-Peter-Schrager-for-ESPN-STASH-MAGAZINE7-1920x1080.jpg",
+      "pub_date": "2026-10-09T08:00:00.000000"
+    },
+    {
+      "title": "조지아의 고요한 침묵과 미장센: 사다 'Nu Ocnebob' 뮤직비디오",
+      "content": "살리 니콜라이슈빌리와 산드로 다라크벨리제가 연출한 뮤직비디오로, 차분하면서도 묵직한 카메라 워크와 날것의 미장센을 선보인다. 조지아 특유의 쓸쓸하고 고풍스러운 공간감이 영상 전반을 지배한다.",
+      "url": "https://www.promonews.tv/videos/2026/10/08/sada-nu-ocnebob-sali-nikolaishvili-and-sandro-darakhvelidze/96592",
+      "source": "promonews.tv",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Sali Nikolaishvili & Sandro Darakhvelidze",
+      "creator_insight": "대중문화의 자극적인 컷 편집을 배제하고, 인물과 공간의 유기적인 구도를 통해 한 편의 회화 같은 고유한 시각 서사를 직조했다.",
+      "tags": [
+        "뮤직비디오디렉팅",
+        "시네마틱미장센",
+        "유럽인디필름"
+      ],
+      "execution_techniques": [
+        "#로우앤로우미장센",
+        "#네추럴라이팅"
+      ],
+      "why": "트렌디함이라는 강박에 사로잡힌 국내 영상 제작자들에게 화면 안의 정적과 구도가 주는 묵직한 설득력이 무엇인지 되묻는다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://admin.promonews.tv/sites/default/files/styles/bmvd_content_page/public/webform/Screenshot%202026-09-16%20at%2019.23.31.png?itok=spzj57wS",
+      "pub_date": "2026-10-09T08:00:00.000000"
+    },
+    {
+      "title": "미카엘 얀손이 포착한 루피타 뇽오: 시간이 흐를수록 선명해지는 아날로그 패션 포트레이트",
+      "content": "2014년 7월 아메리칸 보그 커버로, 포토그래퍼 미카엘 얀손과 스타일리스트 필리스 포스닉이 완성한 에디토리얼이다. 프라다를 입은 루피타 뇽오의 생동감 넘치는 색채 대비와 자연광 연출이 돋보인다.",
+      "url": "https://thestylewatcher.wordpress.com/2014/06/19/american-vogue-july-2014/",
+      "source": "thestylewatcher.wordpress.com",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Mikael Jansson",
+      "creator_insight": "디지털 보정으로 가득 찬 오늘날의 패션 화보와 달리, 피사체의 피부 질감과 자연광의 유기적인 대비를 집요하게 추적하여 인물의 생명력을 날것 그대로 포착했다.",
+      "tags": [
+        "패션포토그래피",
+        "보그화보",
+        "자연광라이팅"
+      ],
+      "execution_techniques": [
+        "#아날로그크로마틱컬러",
+        "#인물중심클로즈업"
+      ],
+      "why": "화려한 컴퓨터 그래픽 없이 오직 피사체와 빛, 의상의 삼박자만으로 시선을 압도하는 클래식 패션 화보의 힘을 상기시킨다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://0.gravatar.com/avatar/605fc662c6a6c543263bc1ded5f023129577a8e6b0e9d6c0b123a6504146bcf3?s=96&d=identicon&r=G",
+      "pub_date": "2026-10-09T08:00:00.000000"
+    },
+    {
+      "title": "시간의 휘발성을 착용하다: 몸 위에서 녹아내리는 GOLEM의 얼음 목걸이",
+      "content": "아티스트 아리엘 앙드레와 라이라 엘 메헬미가 이끄는 GOLEM이 선보인 얼음 목걸이 프로젝트다. 은제 비즈 목걸이에 진짜 얼음 7개를 결합해, 착용자의 체온에 따라 녹아내리며 사라지는 찰나의 예술을 완성했다.",
+      "url": "https://www.designboom.com/design/silver-bead-necklace-ice-cubes-ariel-andre-golem-laila-el-mehelmy/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Ariel André & Laila El Mehelmy",
+      "creator_insight": "영원불변을 자랑하는 보석의 물질성에 정면으로 도전하며, 시간의 흐름과 해체 과정을 신체 장신구라는 매체로 극적으로 시각화했다.",
+      "tags": [
+        "파인주얼리",
+        "컨셉추얼아트",
+        "웨어러블디자인"
+      ],
+      "execution_techniques": [
+        "#물성변화시각화",
+        "#인체실험디자인"
+      ],
+      "why": "패션을 단순히 입는 행위에서 시간의 흐름을 오감으로 감각하는 차원으로 끌어올린 지극히 컨셉추얼하고 도발적인 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/melting-jewelry-ariel-andre-golem-paris-laila-el-mehelmy-ice-cube-necklace-designboom-700-500x400-22b08q85r666.jpg",
+      "pub_date": "2026-10-09T08:00:00.000000"
+    },
+    {
+      "title": "일본 그래픽 디자인의 정수: 아이디어 매거진 410호가 보여주는 그리드 시스템의 힘",
+      "content": "정교한 타이포그래피와 독창적인 인쇄 미학을 다루는 전설적인 디자인 잡지 '아이디어'의 410호다. 물리적인 인쇄 매체만이 줄 수 있는 지독할 정도로 치밀한 레이아웃 디자인을 수록했다.",
+      "url": "https://www.idea-mag.com/idea_magazine/no-410/",
+      "source": "IDEA Magazine",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "IDEA Editorial Team",
+      "creator_insight": "모바일 액정 속 반응형 웹에 갇혀 죽어가는 타이포그래피를 구출해, 인쇄 지면 위에서 압도적인 공간 분할과 시각적 계층 구조를 복원했다.",
+      "tags": [
+        "편집디자인",
+        "타이포그래피",
+        "그리드시스템"
+      ],
+      "execution_techniques": [
+        "#인쇄레이아웃그리드",
+        "#마이크로타이포그래피"
+      ],
+      "why": "스크롤 몇 번으로 끝나는 인스턴트 디지털 레이아웃에 질린 디자이너들에게 진짜 '면과 선의 질서'가 무엇인지 보여주는 시각적 이정표다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.idea-mag.com/wp/wp-content/uploads/2025/06/766a5250a4ab9f07dbb6c593dbcc3cc1-550x726.jpg",
+      "pub_date": "2026-10-09T08:00:00.000000"
+    },
+    {
+      "title": "우버 할증 요금과의 전쟁: 에스폴론 테킬라의 심야 택시비 지원 캠페인",
+      "content": "주류 브랜드 에스폴론이 심야 시간대 택시 호출 앱의 할증 요금으로 고통받는 소비자들을 위해 택시비를 일부 환급해 준 게릴라성 마케팅 캠페인이다. 브랜드가 직접 소비자의 실질적 페인 포인트를 해결해 준 영리한 사례다.",
+      "url": "https://www.marketingdive.com/news/espolon-tequila-combats-surge-pricing-with-ride-hailing-refund-program/832452/",
+      "source": "Marketing Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Espolòn Tequila",
+      "creator_insight": "술자리가 끝난 후 집에 가는 괴로운 순간을 공략해, 브랜드 인지도를 긍정적인 구원자 이미지로 각인시킨 고도의 전술적 배치다.",
+      "tags": [
+        "게릴라마케팅",
+        "소비자경험기획",
+        "테킬라캠페인"
+      ],
+      "execution_techniques": [
+        "#실시간페인포인트해결",
+        "#택티컬브랜딩"
+      ],
+      "why": "단순한 주류 브랜드 광고판을 세우는 것보다, 소비자의 일상적 불편함을 물리적으로 해결해 주는 것이 백 배 나은 충성도를 보장함을 증명한다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://imgproxy.divecdn.com/CRPZtsQ5597RDRIYpp6Nqh_2iU-RBZHoQjKDMxXIIxY/g:nowe:6:165/c:1073:606/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Fc3BvbG9uX0ZhcmVfU2hhcmUucG5n.webp",
+      "pub_date": "2026-10-09T08:00:00.000000"
+    },
+    {
+      "title": "마우스 스크롤이 차를 광택 내다: Three.js 기반의 극한의 인터랙티브 웹 디자인",
+      "content": "차량 디테일링 스튜디오의 웹사이트로, 사용자가 스크롤을 내릴 때마다 3D 차량 모델의 표면이 점진적으로 닦이고 광택이 나는 시각적 피드백을 제공한다. WebGL과 Three.js를 사용해 매끄러운 렌더링을 구현했다.",
+      "url": "https://medium.com/@gadwebsites/a-detailing-studio-website-where-scrolling-polishes-the-car-how-it-works-in-three-js-95d1e3e2e1fc?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "GAD Websites",
+      "creator_insight": "텍스트 나열식 포트폴리오를 과감히 버리고, 차량 광택이라는 비즈니스의 본질적 가치를 스크롤이라는 디지털 제스처와 유기적으로 밀착시켰다.",
+      "tags": [
+        "인터랙티브웹",
+        "Three.js",
+        "사용자경험"
+      ],
+      "execution_techniques": [
+        "#3D스크롤인터랙션",
+        "#실시간렌더링"
+      ],
+      "why": "웹 디자인은 정보 전달을 넘어 촉각적 재미를 줄 수 있는 도구다. 비즈니스의 정체성을 인터랙션으로 번역하는 기획력이 매우 날카롭다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://cdn-images-1.medium.com/max/1400/0*gignFyXzqdt7Xxkc.jpg",
+      "pub_date": "2026-10-09T08:00:00.000000"
+    },
+    {
+      "title": "형태의 문법: 조각가 베로니카 야노베츠의 거친 점토와 공간의 대화",
+      "content": "체코 조각가 베로니카 야노베츠의 작업실 겸 주거 공간을 조명하며, 날것의 조각 예술과 건축적 여백이 어떻게 공존하는지 보여준다. 클레멘스 폴로첵의 정적인 사진 라이팅이 돋보인다.",
+      "url": "https://www.ignant.com/2026/04/29/a-vocabulary-of-form-at-home-with-sculptor-veronika-janovec/",
+      "source": "ignant.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Veronika Janovec",
+      "creator_insight": "장식적인 가구들을 전부 배제하고 오직 흙과 석고, 거친 콘크리트 질감만을 사용해 공간에 성스러운 고독감을 불어넣었다.",
+      "tags": [
+        "스페이스디자인",
+        "미니멀리즘조각",
+        "스튜디오인테리어"
+      ],
+      "execution_techniques": [
+        "#텍스처대비미학",
+        "#구조적네거티브스페이스"
+      ],
+      "why": "예쁜 가구 편집숍처럼 변질된 현대 인테리어 트렌드에 경종을 울리며, 공간을 예술가의 물질적 연장선으로 만드는 방식을 제시한다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
+      "pub_date": "2026-10-09T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "룰루레몬의 극단적 미니멀리즘 아우터웨어: 디테일의 소멸이 만든 기능미",
+      "content": "룰루레몬의 새로운 아우터웨어 컬렉션은 불필요한 장식과 소음을 완전히 배제하고 오직 900필파워 다운의 본질적인 보호 기능에만 집중했다.",
+      "url": "https://coolhunting.com/style/zero-distraction-a-conversation-with-lululemons-jj-collier-on-outerwear-design/",
+      "source": "coolhunting.com",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "룰루레몬",
+        "아우터웨어",
+        "테크웨어"
+      ],
+      "why": "패션이나 캐릭터 의상 디렉팅 시 불필요한 비주얼 노이즈를 어떻게 통제하고 핏과 소재의 질감만 남길 수 있는지 참고할 만한 스낵 콘텐츠.",
+      "depth": 0.5,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/10/FA26_OTW_M_FeatherweightStand-NeckQuiltedPuffer_LewisH_AA_MC_005159_RGB-1-768x576.jpg",
+      "pub_date": "2026-10-09T08:00:00.000000"
+    },
+    {
+      "title": "루이나르 샴페인 셀러에 둥지를 튼 거친 나뭇가지: 타다시 가와마타의 파격적 설치 예술",
+      "content": "아티스트 타다시 가와마타가 유서 깊은 프랑스 루이나르 샴페인 하우스 내부와 정원에 거친 폐목재와 나뭇가지로 거대한 둥지 형태의 조형물을 설치했다.",
+      "url": "https://www.ignant.com/2026/04/29/tadashi-kawamata-leads-ruinarts-latest-conversation-with-nature/",
+      "source": "ignant.com",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "설치미술",
+        "루이나르",
+        "브랜드협업"
+      ],
+      "why": "하이엔드 럭셔리 브랜드가 예술가와 만날 때 보여줄 수 있는 가장 세련되고 거친 날것의 미장센이다. 브랜드 공간 기획의 배경 레퍼런스로 즉각 소화 가능하다.",
+      "depth": 0.5,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/04/kv-cmjn-a4-horiz-hd-720x509.jpg",
+      "pub_date": "2026-10-09T08:00:00.000000"
+    },
+    {
+      "title": "아이들을 위한 아날로그적 테크 가젯: Wallpaper*가 선정한 레트로-미니멀 기기들",
+      "content": "Wallpaper*가 디지털 화면 중독에 맞서 아이들의 아날로그적 창의력을 자극하는 새롭고 직관적인 어린이용 테크 기기 디자인들을 분석했다.",
+      "url": "https://www.wallpaper.com/tech/new-gadgets-for-kids",
+      "source": "Wallpaper*",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "가젯디자인",
+        "아날로그감성",
+        "레트로테크"
+      ],
+      "why": "현대 하이테크 기기의 차가움을 부수고 아날로그적 온기와 감성을 주입하는 제품 디자인적 발상을 훔치기 좋다.",
+      "depth": 0.5,
+      "image": "https://cdn.mos.cms.futurecdn.net/D8UGNCn8rt7Ei5HcKFXLW4-1920-80.jpg",
+      "pub_date": "2026-10-09T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "촉각적 마이크로 인터랙션",
+      "is_hot": true
+    },
+    {
+      "word": "저지연 시각적 쾌감",
+      "is_hot": true
+    },
+    {
+      "word": "휘발성 하이엔드",
+      "is_hot": false
+    },
+    {
+      "word": "서사적 서브컬처 레이어",
+      "is_hot": true
+    },
+    {
+      "word": "안티-디지털 텍스처",
+      "is_hot": true
+    }
+  ]
+}
