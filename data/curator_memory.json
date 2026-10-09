@@ -114,6 +114,11 @@
       "date": "2026-10-08",
       "status": "agent_added",
       "notes": "기계적 파이프라인이 00:15 KST경 정상 생성 확인(data/daily/2026-10-08.json, topPicks 12건, considered 40). domain 분포는 Cinema & Narrative 5/12, Design & Space 3/12, Marketing & Brand 3/12, Korean Code 1/12로 known_bias_to_watch(Cinema 편중)가 계속 유효함. 자가진단: social_proof 교차매칭 오탐이 오늘도 재현됨 — 완전히 무관한 두 기사(유니티 스파크 AI 에디터 워크플로우 vs 유럽의회 트럼프 누드상 풍자 조형물)에 동일하게 '2개 매체 동시 포착: artist'가 붙어있었다(기존 가설1: 제목 속 흔한 단어 매칭과 일치, 누적 11회 이상). URL 12건 중 11건 정상(80.lv는 301 리다이렉트로 정상, medium.com만 403 — 기존 봇 차단 패턴과 일치). **Korean Code 그레이존 재확인**: 오늘 유일한 Korean Code 라벨 항목(artinsight.co.kr, 'GDIF 360 야외무대')을 WebSearch로 교차 확인한 결과, 실제로는 런던 그리니치+도클랜즈 국제 페스티벌(Greenwich+Docklands International Festival, 완전히 영국 행사)에 대한 한국어 리뷰였다 — 2026-09-25 파리 전시 네이버블로그 사례와 동일한 '한국어 소스이나 소재는 완전히 무관'형 그레이존이 재발, 오늘 기계적 파이프라인의 진짜 한국 콘텐츠는 0건이었음. 실제 리서치: LG전자가 올인원 세탁건조기 'AI 워시콤보' 홍보를 위해 가상 기획사 'AWC엔터테인먼트'를 만들고 5인조 프로젝트 걸그룹 '에이아이돌(AI-DOL)'을 실제로 데뷔시킨 사례(2026-08-28 정체 공개, 조선비즈 2026-10-06 심층 인터뷰 기사에서 누적 조회수 3200만회·온라인 언급량 72% 증가 확인, 코리아헤럴드·g-enews·코리아뉴스룸·더스타(말레이시아) 등 5개 이상 매체가 데뷔 경위와 제품-캐릭터 매핑 구조를 동일 보도)를 Korean Code 카테고리에 agent_curated:true로 추가해 오늘의 라벨 공백을 메웠다, session.selected 12→13. 제품명/로고를 한 달간 숨긴 정체 지연 공개 전략, 제품 기능 5개를 멤버 캐릭터에 1:1 의인화한 구조가 TVCF 연출 관점에서 편집 가치가 높았음."
+    },
+    {
+      "date": "2026-10-09",
+      "status": "agent_added",
+      "notes": "기계적 파이프라인이 00:25 KST경 정상 생성 확인(data/daily/2026-10-09.json, topPicks 8건, considered 40). domain 분포는 Design & Space 4/8, Cinema & Narrative 3/8, Marketing & Brand 1/8, Korean Code 0/8 — 오늘도 Korean Code 라벨 공백이 재발함(10-08에 이어 2일 연속은 아니지만 자주 반복되는 패턴). 자가진단: social_proof 8건 전부 빈 문자열로 깨끗했음(교차매칭 오탐 0건, 최근 10회 이상 재발 사례와 달리 오늘은 흔한 단어가 드물었던 날로 추정, 버그 자체가 고쳐진 것은 아님). URL 8건 전부 200 정상(깨진 링크 없음). creator_insight/why 문장도 항목별로 구체적이라 템플릿 반복 없음. 실제 리서치: 타미 진스(타미 힐피거)가 글로벌 브랜드 앰버서더 장원영과 공개한 2026 가을 캠페인(데님+타탄+레이어링 스타일링, 전국 매장/H패션/EQL/무신사 유통)을 한국섬유신문(2026-10-06)과 피플게이트(2026-10-05) 2개 매체 동일 보도로 교차 확인해 Korean Code 카테고리에 agent_curated:true로 추가, session.selected 8→9. 브랜드 자체는 글로벌이지만 한국 시장 전용 캠페인 집행·유통이라는 점에서 2026-09-20 디즈니코리아 선례와 같은 패턴. 참고로 adidas Originals 성수 플래그십의 iF Design Award 2026 수상(올해 3월 발표)과 Montblanc Wes Anderson 'Let's Write' 서울 팝업(2026-10-01, 롯데 에비뉴엘 잠실) 두 후보도 검토했으나 각각 (1) 오늘 기준 7개월 지난 뉴스라 '오늘의 사실 확인' 기준에 안 맞음, (2) 크리에이티브 콘텐츠 자체가 완전히 서구(Wes Anderson 글로벌 캠페인)이고 서울은 팝업 매장 입지일 뿐이라 기존에 반복 확인된 'Korean Code 그레이존(한국어 소스이나 소재 무관)' 패턴 위험이 있어 최종 후보에서 제외함."
     }
   ],
   "editorial_decisions": [
@@ -123,10 +128,10 @@
     "2026-09-21: Taste DNA 버그, 강제 볼륨 규칙은 사용자가 명시적으로 수정을 승인하여 반영 완료. 더 이상 '보류 항목' 아님."
   ],
   "open_questions_for_next_run": [
-    "social_proof 교차매칭 오탐: 'artist' 단어로 또 재현(누적 11회 이상), 4가지 원인 가설 중 가설1(제목 속 흔한 단어)이 가장 빈발. 사용자 승인 시 fetch_ideas.py의 compute_cross_source_signals() 매칭 대상을 title 토큰(불용어 제외, 최소 길이 제한)으로만 한정하고 source/image 필드는 매칭 corpus에서 완전히 제외하는 수정을 최우선 제안.",
-    "Korean Code 그레이존 '한국어 소스이나 소재 무관' 패턴이 2026-09-25(파리 전시)에 이어 2026-10-08(런던 GDIF 페스티벌)에 재차 확인됨 — 이름만 Korean Code이고 실제로는 서구 소재인 사례가 간헐적으로 계속 재발. 재발 빈도가 더 쌓이면 fetch_ideas.py의 Korean Code 판정 프롬프트에 '소재가 한국과 직접 관련되어야 함'을 명시하는 수정을 사용자에게 제안할 근거로 사용할 것.",
-    "lensculture.com이 2026-10-06, 10-07 연속 'fetch failed'(연결 자체 실패)로 관찰됨 — 이 소스가 계속 선택되면 사용자에게 소스 목록에서 제외/우선순위 하향을 제안할 근거가 쌓이고 있음. 2026-10-08에는 lensculture.com이 아예 topPicks에 선택되지 않아 추가 관찰 없음.",
-    "source 필드 'Unknown Source' 비중(2026-10-06 36%)이 재발하는지 계속 확인할 것. 2026-10-08에는 vimeo/nowness 2건이 Unknown Source였으나 image는 정상(기존 패턴과 일치).",
+    "Korean Code 라벨 공백이 10-09에도 재발(10-08은 agent_curated로 메움, 10-09 기계적 산출물 자체는 0건). 기계적 파이프라인의 Korean Code 소스 풀이 구조적으로 빈약한 것인지, 그날그날의 RSS 운 문제인지 다음 며칠 더 관찰이 필요함.",
+    "social_proof 교차매칭 오탐: 2026-10-09에는 0건 발생(최근 10회 이상 누적 사례와 대조적). 버그 자체가 고쳐진 것은 아니므로 계속 관찰할 것. 사용자 승인 시 fetch_ideas.py의 compute_cross_source_signals() 매칭 대상을 title 토큰(불용어 제외, 최소 길이 제한)으로만 한정하고 source/image 필드는 매칭 corpus에서 완전히 제외하는 수정을 최우선 제안.",
+    "Korean Code 그레이존 판정 기준 강화 필요성 재확인: 오늘 Montblanc Wes Anderson 서울 팝업 후보를 검토 중 '크리에이티브 콘텐츠는 완전히 서구, 집행 장소만 한국'인 패턴을 사전에 걸러냈음 — 이 판단 기준(콘텐츠의 창작 주체/소재가 한국과 직접 관련되어야 함, 단순 현지 매장/팝업 입지만으로는 불충분)을 다음 실행에서도 명시적으로 적용할 것.",
+    "lensculture.com이 2026-10-06, 10-07 연속 'fetch failed'로 관찰된 뒤 10-08/10-09에는 topPicks에 선택되지 않음 — 추가 관찰 없음, 재등장 시 상태 재확인.",
     "Ask the Curator 위젯의 Vercel 함수가 GEMINI_API_KEY 쿼터를 GitHub Actions 파이프라인과 공유하지 않고 별도 키를 쓰는지 주기적으로 확인할 것."
   ]
 }
