@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-10-09T00:25:22.171614",
     "considered": 40,
-    "selected": 8
+    "selected": 9
   },
   "topPicks": [
     {
@@ -199,6 +199,32 @@
       "depth": 0.85,
       "image": "https://www.ignant.com/wp-content/uploads/2026/04/ignant-exhibition-veronika-janovec-clemens-poloczek-9-720x1007.jpg",
       "pub_date": "2026-10-09T08:00:00.000000"
+    },
+    {
+      "title": "데님 위의 프레피: 타미 진스 2026 가을 캠페인이 장원영으로 재해석한 '레이어드 아메리카나'",
+      "content": "타미 힐피거가 전개하는 타미 진스가 글로벌 브랜드 앰버서더 장원영과 함께한 2026 가을 캠페인을 공개했다. 아이코닉 데님을 축으로 플리츠 타탄 스커트, 로고 스웨터, 글로시 푸퍼 재킷, 퍼 트리밍 더플백을 겹쳐 입히고, 다른 룩에서는 플래그 크루넥 스웨터에 카라 패딩 재킷을 매치해 아메리칸 클래식을 새로운 비율로 재구성했다. 캠페인 제품은 타미 진스 오프라인 매장과 H패션, EQL, 무신사에서 전개된다.",
+      "url": "https://www.ktnews.com/news/articleView.html?idxno=149099",
+      "source": "한국섬유신문",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Tommy Jeans Korea (한섬그룹 유통)",
+      "creator_insight": "뉴욕 프레피 코드를 그대로 복제하지 않고, 글로시 소재의 볼륨감 있는 아우터와 전통 타탄 체크를 한 프레임 안에 '예상치 못한 방식으로' 믹스해 장원영 특유의 경쾌한 톤으로 번역했다. 같은 모델을 2024년부터 시즌마다 기용하며 '레이어링'이라는 하나의 스타일 코드를 누적시켜온 점이 단발성 캠페인과 다르다.",
+      "tags": [
+        "브랜드앰버서더",
+        "프레피스타일링",
+        "데님캠페인",
+        "레이어드룩"
+      ],
+      "execution_techniques": [
+        "#레이어드스타일링",
+        "#아카이브인스파이어드디테일"
+      ],
+      "why": "화려한 로케이션이나 CG 없이 '겹쳐 입히기'라는 단일 스타일링 원칙만으로 시즌마다 다른 룩을 생산하는 구조는, 반복되는 모델 기용을 피로감이 아니라 누적된 브랜드 자산으로 바꾸는 TVCF 캐스팅 전략의 참고점이 된다.",
+      "social_proof": "한국섬유신문(2026-10-06)과 피플게이트(2026-10-05) 2개 매체가 동일 캠페인의 데님+타탄 레이어링 구성과 전국 매장+H패션+EQL+무신사 유통 계획을 동시 보도.",
+      "depth": 0.8,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc93SQEmjOJae9EV2dIPgh81HMNsmuMu8uuz7qwTHBcsdOAFeEkzJfjSh11GBfaReeQei2kVdbPrNhyphenhyphenRPTzwB9CgBPH0t5dRglrb0_nCc5EVk1imdUyhId4BaeG81gNWHxltipvGIq16yIE4ts2MIzYZMj4OpHuL5OxuJh2DXLE0QHABbFNR4-FvS-beY/s1200/Tommy%20Hilfiger-%EF%BB%BFTommy%20Jeans-JANG%20WON%20YOUNG-%ED%83%80%EB%AF%B8%20%ED%9E%90%ED%94%BC%EA%B1%B0-%ED%83%80%EB%AF%B8%20%EC%A7%84%EC%8A%A4-%EC%9E%A5%EC%9B%90%EC%98%81%20(15).jpg",
+      "pub_date": "2026-10-09T08:00:00.000000",
+      "agent_curated": true
     }
   ],
   "popcorn": [
