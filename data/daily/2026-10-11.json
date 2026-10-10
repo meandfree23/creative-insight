@@ -1,0 +1,376 @@
+{
+  "date": "2026-10-11",
+  "focusQ": "비주얼 오버로드가 판치는 시대에 무의미한 텍스트 기획은 아무런 가치가 없다. 렌즈를 통해 구축된 명확한 미학적 서사와 감각적 텍스처만이 소비자의 눈을 사로잡는다. 타협 없는 시각적 긴장감만이 상업적 결과물과 예술의 차이를 갈라놓는다.",
+  "creator_message": "어설픈 AI 기획안과 클리셰로 점철된 브리프에 지쳤다면 진짜 크리에이티브의 밀도를 확인하라. 단순한 예쁜 이미지가 아닌, 브랜드의 근간을 지탱하는 명확한 비주얼 전략과 연출 감각만을 골라냈다. 안목을 다듬고 싶다면 디테일 하나 놓치지 마라.",
+  "session": {
+    "timestamp": "2026-10-10T23:35:52.964368",
+    "considered": 40,
+    "selected": 12
+  },
+  "topPicks": [
+    {
+      "title": "우주로 쏘아 올린 만화, TBWA\\HAKUHODO의 '미션: 스페이스 코믹'",
+      "content": "TBWA\\HAKUHODO가 만화 '우주형제'를 실제 궤도로 쏘아 올려 우주 공간에서 읽히는 최초의 만화 프로젝트를 완성했다. 상업 만화 미디어의 한계를 넘어 실제 우주 미션과의 극적 결합을 이뤄낸 브랜드 액티베이션이다.",
+      "url": "https://www.brandinginasia.com/mission-space-comic-tbwahakuhodo-takes-space-brothers-into-orbit/",
+      "source": "Branding in Asia",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "TBWA\\HAKUHODO",
+      "creator_insight": "단순한 PR 이벤트가 아닌 우주 공학기술과 스토리텔링의 직관적 결합을 통해 브랜드 메시지를 우주적 스케일로 확충하는 대범함을 보여준다.",
+      "tags": [
+        "브랜드액티베이션",
+        "우주형제",
+        "TBWA"
+      ],
+      "execution_techniques": [
+        "Extreme PR Activation",
+        "Narrative Scaling"
+      ],
+      "why": "아이디어의 크기가 스케일을 규정함을 증명한다. 평범한 미디어 매칭에 갇힌 기획자들에게 일침을 가하는 시도다.",
+      "social_proof": "2개 매체 동시 포착: featuredvisual",
+      "depth": 0.98,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/10/Space-Brothers-Manga.webp",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "디팝의 스티브 둘이 밝히는 단단한 브랜드 자아 구축법",
+      "content": "디팝(Depop)의 크리에이티브 디렉터 스티브 둘이 브랜드 커뮤니티와 독자적 아이덴티티를 유지하며 브랜드를 성장시키는 비결을 공유한다. 빠른 트렌드 속에서도 흔들리지 않는 자기중심적 미학의 중요성을 설명한다.",
+      "url": "https://www.itsnicethat.com/features/in-house-depop-steve-dool-creative-industry-071026",
+      "source": "It's Nice That",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Steve Dool",
+      "creator_insight": "트렌드를 쫓는 대신 서브컬처 패션의 코드를 해체하여 브랜딩의 중심 축으로 이용하는 상업적 안목을 과시한다.",
+      "tags": [
+        "디팝",
+        "브랜드아이덴티티",
+        "서브컬처"
+      ],
+      "execution_techniques": [
+        "Subculture Archiving",
+        "Community Strategy"
+      ],
+      "why": "남들을 따라 하기에 급급한 얇은 브랜딩 사이에서 자기 색깔을 선명하게 유지하는 크리에이티브 방향성을 일깨운다.",
+      "social_proof": "2개 매체 동시 포착: featuredvisual",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/pKyub9aRjkX2KfjGxS-jPENIB1A=/283366/width-1440%7Cformat-jpeg/in_house_depop_itsnicethat_2.png",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "빔 벤더스가 3D 렌즈로 담아낸 페터 춤토르의 건축 세계",
+      "content": "거장 감독 빔 벤더스가 건축가 페터 춤토르의 작품들을 14년간 추적하여 입체적 3D 다큐멘터리로 완성했다. 공간의 물성과 정적의 순간을 영상 매체로 극대화한 영화적 시도다.",
+      "url": "https://www.designboom.com/architecture/what-youll-see-in-3d-in-the-peter-zumthor-documentary-by-wim-wenders/",
+      "source": "Designboom",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Wim Wenders & Peter Zumthor",
+      "creator_insight": "건축적 촉감을 3D 시네마토그래피라는 기술을 통해 화면 너머 관객의 피부로 전달하는 연출적 집요함을 보여준다.",
+      "tags": [
+        "빔벤더스",
+        "페터춤토르",
+        "3D시네마"
+      ],
+      "execution_techniques": [
+        "Spatial Cinema",
+        "Depth Stereoscopy"
+      ],
+      "why": "공간을 단순히 기록하는 촬영을 넘어, 프레임 안에서 물성을 재구성하는 거장의 프레이밍 연출 기법이 인상적이다.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/wenders-zumthor-designboom-700-500x400-22b08q85r124.jpg",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "애니마(Anyma)의 세계관: 'Genesys'에서 싱가포르 데뷔까지",
+      "content": "디지털 아티스트이자 뮤지션 애니마가 시각 예술과 멜로딕 테크노를 결합한 압도적 라이브 비주얼 연출에 대해 논한다. 초대형 LED 스크린을 활용한 3D 비주얼 스토리텔링의 정점을 보여준다.",
+      "url": "https://hypebeast.kr/2026/10/anyma-marquee-singapore-debut-interview",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Anyma (Matteo Milleri)",
+      "creator_insight": "사운드 트랙의 드롭 지점과 3D 휴머노이드 모션 연출을 초단위로 동기화하여 몰입감을 극대화한다.",
+      "tags": [
+        "Anyma",
+        "3D미디어아트",
+        "라이브무대연출"
+      ],
+      "execution_techniques": [
+        "Audio-Reactive CGI",
+        "Anamorphic Illusion"
+      ],
+      "why": "공연 연출과 미디어 아트의 경계를 허무는 압도적 비주얼 훅을 설계하고자 할 때 필수적인 기준점이다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F10%2Fanyma-marquee-singapore-debut-interview-000.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "케이티 글래스고의 'Saint' 뮤직비디오: 바닷가재 해방 잔혹극",
+      "content": "실연당한 소녀가 슈퍼마켓 수조 속 바닷가재를 바다로 풀어주기 위해 벌이는 키치하고도 기묘한 여정을 담은 조지아 크라우즈 감독의 뮤직비디오다. 엉뚱한 서사 속에 짙은 감정적 위트를 녹여냈다.",
+      "url": "https://tv.booooooom.com/2021/11/18/katie-glasgow-saint/",
+      "source": "Booooooom TV",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Georgia Krause",
+      "creator_insight": "비일상적인 소재와 가벼운 인디 팝 사운드를 대조시켜 기묘한 비주얼 톤앤매너를 구축해낸다.",
+      "tags": [
+        "뮤직비디오",
+        "인디필름",
+        "내러티브연출"
+      ],
+      "execution_techniques": [
+        "Kitsch Storytelling",
+        "Color Grading Contrast"
+      ],
+      "why": "저예산 세팅에서도 서사적 유머와 독창적인 캐릭터 연출만으로 강렬한 인상을 남길 수 있음을 증명한다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://placehold.co/800x600/0f172a/FFFFFF?text=Booooooom%20TV%0A%28FILM%29&font=playfair-display",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "니고와 제이홉의 재치 있는 만남: 다람쥐 테마 에어 포스 1",
+      "content": "스트리트 패션의 거장 니고와 BTS 제이홉이 협업한 나이키 에어 포스 1 로우가 공개됐다. 위트 있는 다람쥐 그래픽과 클래식한 컬러 블록을 매치하여 위트 있는 컬래버레이션을 완성했다.",
+      "url": "https://www.highsnobiety.com/p/nigo-nike-j-hope-air-force-1/",
+      "source": "Highsnobiety",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "NIGO & j-hope",
+      "creator_insight": "케이팝 아티스트의 상징적 유머를 스트리트웨어의 유산 위에 자연스럽게 얹어내는 센스가 돋보인다.",
+      "tags": [
+        "제이홉",
+        "NIGO",
+        "나이키컬래버"
+      ],
+      "execution_techniques": [
+        "Playful Graphics",
+        "Retro Colorblocking"
+      ],
+      "why": "팬덤 코드와 스트리트 유산을 조화롭게 버무려 브랜드 화제성을 극대화하는 상업적 공식의 정석이다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "새로운 포스트 프로덕션 스튜디오 '머슬 비치'의 강렬한 등장",
+      "content": "수상 경력에 빛나는 디렉터들이 손을 잡고 시각효과 및 포스트 프로덕션 스튜디오 '머슬 비치(Muscle Beach)'를 설립했다. 강렬한 모션 디렉팅과 독창적인 영상 미학을 무기로 시장에 첫발을 내딛는다.",
+      "url": "https://www.stashmedia.tv/new-production-studio-muscle-beach-makes-its-debut/",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Muscle Beach Studio",
+      "creator_insight": "포스트 프로덕션 영역에서 과감한 비주얼 텍스처와 과감한 편집 호흡을 차별화 포인트로 내세운다.",
+      "tags": [
+        "머슬비치",
+        "포스트프로덕션",
+        "모션디렉팅"
+      ],
+      "execution_techniques": [
+        "Dynamic Motion Cutting",
+        "VFX Texturizing"
+      ],
+      "why": "새로운 영상 프로덕션 브랜딩이 시장에 각인되기 위해 어떤 독한 연출적 색깔을 제시해야 하는지 잘 보여준다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://placehold.co/800x600/1E1E1E/FFFFFF?text=Unknown%20Source%0A%28MOTION_FILM%29&font=playfair-display",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "엘리자베타 포로디나, 곤충을 향해 몽환적인 렌즈를 들이대다",
+      "content": "패션 사진가 엘리자베타 포로디나가 특유의 회화적 조명과 색채를 활용해 곤충을 매개로 한 몽환적인 인물 사진 시리즈를 선보인다. 세밀한 빛의 조율로 그로테스크한 소재를 극도로 아름답게 연출했다.",
+      "url": "https://www.thisiscolossal.com/2026/10/elizaveta-porodina-photos-found-dreams/",
+      "source": "Colossal",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Elizaveta Porodina",
+      "creator_insight": "특유의 블러링 라이팅과 명암 대조를 활용해 2차원 프레임에 회화적 깊이감을 불어넣는 촬영 스킬이 독보적이다.",
+      "tags": [
+        "엘리자베타포로디나",
+        "패션포토그래피",
+        "조명연출"
+      ],
+      "execution_techniques": [
+        "Soft Focus Lighting",
+        "Painterly Color Palette"
+      ],
+      "why": "카메라 조명 연출만으로 3D CGI와는 차원이 다른 압도적 피사체 아우라를 만들어내는 렌즈 미학의 모범 답안.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/porodina-6.jpg",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "주우진 작가가 수집한 오브제와 섬유로 짓는 신화적 조각",
+      "content": "한국 출신 작가 주우진이 버려진 물건들과 섬유 소재를 엮어 기묘하고 오컬트적인 인형 조각들을 완성했다. 민속적 신화와 현대적 미학이 오묘하게 얽힌 오브제 작업을 보여준다.",
+      "url": "https://www.thisiscolossal.com/2026/10/woo-jin-joo-mixed-media-sculptures/",
+      "source": "Colossal",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Woo Jin Joo (주우진)",
+      "creator_insight": "동양적 서사 및 민속 신화를 텍스타일 오브제에 결합하여 이질적이면서도 묘한 흡입력을 자아낸다.",
+      "tags": [
+        "주우진",
+        "텍스타일아트",
+        "한국적모티프"
+      ],
+      "execution_techniques": [
+        "Textile Assemblage",
+        "Mythological Narrative"
+      ],
+      "why": "한국적 동양 미학을 신화적 서사로 재해석하여 글로벌 비주얼 씬에서 경쟁력을 확보한 훌륭한 예시.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/joo-8.jpg",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "파리 VFX 스튜디오 모뉴멘탈 FX, 파트너십을 통한 미국 진출",
+      "content": "파리의 대표적인 VFX 및 3D 애니메이션 스튜디오 모뉴멘탈 FX가 Modern Post와의 파트너십을 통해 미국 파이프라인을 구축했다. 하이엔드 영상 제작 시스템의 글로벌 네트워크 확장을 예고한다.",
+      "url": "https://motionographer.com/news/monumental-fx-modern-post-us-partnership/",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Monumental FX",
+      "creator_insight": "유럽 특유의 섬세한 3D 아트 디렉션을 북미의 스케일감 있는 상업 프로덕션 시스템과 유기적으로 접목한다.",
+      "tags": [
+        "모뉴멘탈FX",
+        "3D애니메이션",
+        "VFX프로덕션"
+      ],
+      "execution_techniques": [
+        "High-End VFX Pipeline",
+        "Cross-Border Post-Production"
+      ],
+      "why": "글로벌 상업 영상 프로젝트에서 정교한 비주얼 퀄리티를 유지하기 위한 프로덕션 시스템 확장 방식.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/monumental-fx-modern-post-partnership.png?fit=700%2C438&quality=80&ssl=1",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "이탈리아 전통에 신선한 모던함을 길게 늘린 말라프론테 패키징",
+      "content": "이탈리아 제과 브랜드 말라프론테가 고유의 전통적 그래픽 요소를 유연하게 늘리고 변형한 새로운 패키지 디자인을 선보였다. 유쾌한 비주얼 모션 영상과 결합하여 감각적인 브랜딩을 완성했다.",
+      "url": "https://thedieline.com/malafronte-stretches-italian-tradition-into-a-fresh-look/",
+      "source": "The Dieline",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Malafronte Design Team",
+      "creator_insight": "지루할 수 있는 유산 디자인을 타이포그래피의 시각적 스트레칭 기술로 재해석하여 위트를 더했다.",
+      "tags": [
+        "패키지디자인",
+        "타이포그래피",
+        "브랜드리뉴얼"
+      ],
+      "execution_techniques": [
+        "Dynamic Typography Distortion",
+        "Heritage Modernization"
+      ],
+      "why": "오래된 전통 브랜드를 모던하고 스타일리시하게 재탄생시키는 지능적인 시각 해법이다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://videos.files.wordpress.com/RDTjRHK6/snapinsta.to_aqmdsniu44wj0tkyprubkxnhm1np_iiy74p9au_rfbt90i9nvuafwlkmzfsvygzh5nrg5k9ssjcpyk3u6ekjk0jx_62le0reojxpuki.mp4",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "웹 브라우저에서 직접 주행하는 애스턴 마틴 불칸 3D 렌더링",
+      "content": "웹GL(WebGL)과 인터랙티브 코딩을 활용하여 브라우저 환경에서 실제처럼 주행 가능한 애스턴 마틴 불칸 3D 인터랙션을 구축했다. 정교한 리플렉션 셰이더 연출이 돋보이는 웹 아트워크다.",
+      "url": "https://medium.com/@tarunvishwakarma81/i-built-an-aston-martin-vulcan-you-can-drive-in-your-browser-223eac0922dc?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Tarun Vishwakarma",
+      "creator_insight": "웹 환경의 성능 제약을 극복하고 차량 실물 표면의 반사 및 라이팅을 시네마틱하게 구현해낸 기술적 집념.",
+      "tags": [
+        "크리에이티브코딩",
+        "WebGL",
+        "3D인터랙티브"
+      ],
+      "execution_techniques": [
+        "Real-time WebGL Shading",
+        "Interactive Camera Control"
+      ],
+      "why": "디지털 웹 인터페이스가 어떻게 시네마틱한 브랜드 경험 공간으로 확장될 수 있는지 보여준다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cdn-images-1.medium.com/max/1920/1*2D3GSDtcOJosFcqhPuzSig.jpeg",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "비 오는 날 산책도 스타일리시하게, 반려견 전용 타탄 리버서블 레인 코트",
+      "content": "기능성과 클래식한 타탄 체크 디자인을 겸비한 반려견 양면 레인 재킷 프로젝트.",
+      "url": "https://coolhunting.com/buy/tartan-reversible-rain-jacket/",
+      "source": "coolhunting.com",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "반려견패션",
+        "리버서블"
+      ],
+      "why": "귀여움에 치중하지 않고 완벽한 기능적 텍스처와 패턴을 적용한 제품 스낵 아이템.",
+      "depth": 0.5,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/10/foggydog_tartan_weenie-768x768.jpg",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "미드저니 8.1 프롬프트 레퍼런스 sRef 코드 1500 모음집",
+      "content": "틸트시프트 감성과 아날로그 세피아 톤을 즉각 구현하는 미드저니 스타일 레퍼런스 코드 모음.",
+      "url": "https://blog.naver.com/tiger6107/224281615672?fromRss=true&trackingCode=rss",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "미드저니",
+        "sref"
+      ],
+      "why": "빠른 비주얼 무드보드 작업 시 요깃거리로 써먹기 좋은 실전 이미지 툴북.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNjA1MTFfMTQ8/MDAxNzc4NDY2MTE2MzI3.Zl3Wrx1zdklKFDrBJLjxjogr6fM559J4FGqsGfIfTJsg.wuoMaqJoCYvNzj1aJxNCojnQzVpCB-BbUfuiRUp9Rs8g.PNG/20260511_112129.png?type=s3",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    },
+    {
+      "title": "NBA의 '스마트' 농구공 테스트: 스포츠 미디어의 미래인가",
+      "content": "농구공 내부에 센서를 탑재해 스핀과 궤적을 데이터로 추적하는 NBA의 기술 테스트 현장.",
+      "url": "https://www.fastcompany.com/91620794/the-nba-is-testing-smart-basketballs-heres-how-they-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "NBA",
+        "스포츠테크"
+      ],
+      "why": "스포츠 중계 그래픽과 시각화 방송 연출의 판도를 바꿀 위트 있는 기술 소식.",
+      "depth": 0.5,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91620794-nba-basketballs.jpg",
+      "pub_date": "2026-10-11T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "시네마틱 미학 서사",
+      "is_hot": true
+    },
+    {
+      "word": "입체적 3D 셰이딩",
+      "is_hot": true
+    },
+    {
+      "word": "하이엔드 비주얼 구축",
+      "is_hot": false
+    },
+    {
+      "word": "서브컬처 브랜드 유산",
+      "is_hot": true
+    },
+    {
+      "word": "익스트림 브랜드 액티베이션",
+      "is_hot": false
+    },
+    {
+      "word": "오컬트 텍스타일 조각",
+      "is_hot": false
+    }
+  ]
+}
