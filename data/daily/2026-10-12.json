@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-10-11T23:42:24.992075",
     "considered": 40,
-    "selected": 9
+    "selected": 10
   },
   "topPicks": [
     {
@@ -223,6 +223,32 @@
       "depth": 0.88,
       "image": "https://thedieline.com/wp-content/uploads/2026/10/Contrast-Sainsburys-Italian-Pizza-Range-d07cf0df29318a804e2abf57f4b8eff2-scaled-1.jpeg",
       "pub_date": "2026-10-12T08:00:00.000000"
+    },
+    {
+      "title": "서울디자인어워드 2026, 91개국 1,204개 출품작 중 톱10 발표 — DDP 라이브 평가로 그랑프리 공개",
+      "content": "서울디자인재단이 주최하는 서울디자인어워드 2026이 전 세계 91개국에서 접수된 1,204개 출품작 중 지속가능한 삶을 주제로 한 톱10 파이널리스트를 선정해 10월 14일 동대문디자인플라자(DDP)에서 라이브 평가와 함께 그랑프리를 공개한다. 올해 신설된 ESG 디자인 임팩트 어워드는 현대자동차, OpenAI Korea, 파타고니아 코리아 등 7개 기업에 수여됐다.",
+      "url": "https://www.koreatimes.co.kr/lifestyle/20261007/seoul-design-award-2026-grand-prize-winner-to-be-revealed-live-oct-14",
+      "source": "The Korea Times",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "서울디자인재단",
+      "creator_insight": "9인 국제심사위원단(삼성전자 최고디자인책임자 마우로 포르치니, 이탈리아 ADI 디자인뮤지엄 디렉터 안드레아 칸첼라토 등)의 무대 심사와 대중 투표를 결합해 그랑프리를 결정하는 방식으로, 디자인 공모전을 '사후 보도자료'가 아니라 '발표+실시간 평가'가 결합된 라이브 컨퍼런스 포맷으로 전환했다. 톱10에는 저자원 지역 신생아 저체온증을 막는 'Otter Newborn Warmer'(미국), 3D 프린팅 인공어초 'ReefCircular'(덴마크), 휠체어 이용자용 접근성 경로 공유 플랫폼 'WheeLog!'(일본) 등 사회문제 해결형 프로젝트가 고르게 포함됐다.",
+      "tags": [
+        "서울디자인어워드",
+        "지속가능디자인",
+        "DDP",
+        "ESG디자인"
+      ],
+      "execution_techniques": [
+        "Live-Jury-Evaluation",
+        "Public-Vote-Integration"
+      ],
+      "why": "공간/제품 디자인 공모전이 결과 발표를 사후 보도자료가 아니라 톱10 파이널리스트의 무대 발표·실시간 심사·대중 투표가 결합된 라이브 이벤트 포맷으로 운영한다는 점, 그리고 올해 신설한 ESG 디자인 임팩트 어워드가 현대자동차·OpenAI Korea·파타고니아 코리아 등 기업의 지속가능성 프로젝트에 수여됐다는 점에서, 디자인 어워드가 단순 시상을 넘어 브랜드의 ESG 내러티브 구축 수단으로 쓰이는 흐름을 보여준다.",
+      "social_proof": "The Korea Times(2026-10-07), FREEYORK(2026-09-23, designboom.com 인용), 서울디자인어워드 공식 사이트(seouldesignaward.or.kr)가 톱10 파이널리스트 명단, 10월 14일 DDP 라이브 행사 구성, ESG 디자인 임팩트 어워드 수상 기업(현대자동차·OpenAI Korea·파타고니아 코리아 등 7곳)을 동일하게 확인.",
+      "depth": 0.8,
+      "image": "https://newsimg.koreatimes.co.kr/2026/10/07/61686678-c285-4994-a7b7-cd316309146c.png",
+      "pub_date": "2026-10-12T09:30:00.000000",
+      "agent_curated": true
     }
   ],
   "popcorn": [
