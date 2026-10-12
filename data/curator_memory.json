@@ -30,7 +30,8 @@
       "designobserver.com — 2026-09-26에 기사 URL이 403(봇 차단으로 추정)을 반환. lensculture.com/medium.muz.li와 같은 패턴으로, 실제 깨진 링크가 아닐 가능성이 높음.",
       "campaignlive.com — 2026-10-06(2026-10-05.json 점검 중)에 기사 URL이 403 반환. lensculture.com/designobserver.com과 같은 봇 차단 패턴으로 추정.",
       "medium.com (브랜드 전략 칼럼) — 2026-10-06 점검 중 403 반환. Medium 플랫폼 자체가 서버사이드 요청을 차단하는 것으로 추정, 실제 깨짐 아닐 가능성 높음.",
-      "lensculture.com — 2026-10-06, 2026-10-07 연속 2회 'fetch failed'(연결 자체 실패, 403 아님)로 관찰됨. 기존 403 봇 차단보다 더 강한 차단 단계로 전환된 것으로 보임. 2회 연속 재현되었으므로 거의 확정적인 패턴 — 이 소스의 URL은 앞으로 fetch 검증 없이도 '접근 불가' 전제하고 교차검증 소스를 우선 찾을 것."
+      "lensculture.com — 2026-10-06, 2026-10-07 연속 2회 'fetch failed'(연결 자체 실패, 403 아님)로 관찰됨. 기존 403 봇 차단보다 더 강한 차단 단계로 전환된 것으로 보임. 2회 연속 재현되었으므로 거의 확정적인 패턴 — 이 소스의 URL은 앞으로 fetch 검증 없이도 '접근 불가' 전제하고 교차검증 소스를 우선 찾을 것.",
+      "filmshortage.com — 2026-10-12에 url 필드가 실제 기사가 아니라 'rp4wp_link'(Related Posts 플러그인 AJAX 경로)로 채워져 404 발생. 특정 기사를 가리키지 않는 스크래핑 추출 오류로 추정, 원문 미특정이라 수정 보류."
     ],
     "orphaned_legacy_file": "data/agent_memory.json 파일이 저장소에 존재하지만 fetch_ideas.py/agents/radar.py/index.html 등 현재 코드 어디에서도 참조되지 않는다 (2026-09-20 grep 확인). core_philosophy/recent_lessons 구조를 가진 레거시 파일로 추정되며, 내용이 반복적/보일러플레이트라 이 curator_memory.json이 사실상 이를 대체한다. 사용자 승인 없이 삭제하지 않는다."
   },
@@ -129,6 +130,11 @@
       "date": "2026-10-11",
       "status": "agent_added",
       "notes": "오늘 기계적 파이프라인이 00:35 KST경 정상 생성(data/daily/2026-10-11.json, topPicks 12건, considered 40). domain 분포 Cinema & Narrative 7/12(58%, 심한 편중), Marketing & Brand 2/12, Korean Code 2/12, Design & Space 0/12 — Cinema 편중이 오늘 최고치로 재확인됨(기존 관찰과 일치, 날마다 변동 있음). 자가진단: social_proof 교차매칭 오탐이 또 재현됨 — 완전 무관한 두 기사(TBWA\\HAKUHODO 우주 만화 액티베이션 vs 디팝 크리에이티브 디렉터 인터뷰)에 동일하게 '2개 매체 동시 포착: featuredvisual'이 붙어있었다(기존 가설1 재확인, 누적 14회 이상). URL 12건 전부 200 정상. **Korean Code 그레이존 신규 변종 발견**: 주우진(Woo Jin Joo) 작가의 Colossal 소개 기사(한국 신화/도깨비 민담을 소재로 한 작품)를 WebSearch로 심층 검증한 결과, 작가는 서울 출생이나 2014년부터 런던 거주, 작업 기반(스튜디오·전시·소속 갤러리 Ruup & Form)도 전부 런던이며 게재처 Colossal도 완전한 서구 매체였다. 다만 기존 그레이존(소재 자체가 한국과 무관)과는 다르게 이번엔 **소재(한국 신화·도깨비·한국 속담)는 명확히 한국적**이고 창작자 본인도 한국(서울)에서 태어나 정체성을 명시적으로 다루고 있어, 판정이 더 애매한 경계 사례다. 기계적 파이프라인이 이 항목을 Korean Code로 분류한 것은 '창작자 출신+소재의 한국성'은 맞지만 '현재 활동 기반·게재처'는 완전히 서구라는 점에서 기존 2종(소재 무관/창작자 이름만 한국적)과 구별되는 세 번째 변종 그레이존으로 기록한다 — 즉시 삭제하거나 제외 판단을 내리지 않고 관찰만 남김(이미 기계적 산출물에 포함된 항목이라 에이전트가 손대지 않음). 실제 리서치: 휴롬이 2026 레드닷 디자인 어워드 브랜드앤커뮤니케이션 부문에서 패키지 디자인 2건(에코 미니멀리즘, 헬시 리빙 라이프스타일)으로 본상을 수상한 사실(2026-10-06 발표)을 베이비뉴스·아크로팬·로이슈 3개 매체 교차 확인 후 Design & Space 카테고리에 agent_curated:true로 추가해 오늘의 라벨 공백을 메움, session.selected 12→13. **인프라 참고**: 이 리서치는 전날(2026-10-11 00:35 KST 실행) 세션에서 브라우저 탭 접근 장애로 커밋하지 못해 완성된 JSON을 IDEAS.md에 대기시켜뒀던 것으로, 오늘 09:30 KST 재실행에서 브라우저 접근이 attachBrowserTab()+page.goto()로 복구되어(openTab()은 여전히 실패) 바로 커밋 완료했다."
+    },
+    {
+      "date": "2026-10-12",
+      "status": "agent_added",
+      "notes": "기계적 파이프라인이 2026-10-11 23:42 KST경 정상 생성 확인(data/daily/2026-10-12.json, topPicks 9건, considered 40). domain 분포는 Cinema & Narrative 3/9, Marketing & Brand 3/9, Korean Code 3/9, Design & Space 0/9 — 오늘은 Design & Space 라벨 공백이 발생함. 자가진단: creator_insight/why 문장은 항목별로 구체적이라 템플릿 반복 없었음, social_proof 9건 전부 빈 문자열(교차매칭 오탐 0건, 최근과 같이 날마다 들쭉날쭉함). URL 점검에서 두 가지 발견: (1) lensculture.com이 또다시 'fetch failed'로 연결 자체 실패(2026-10-06/07에 이어 3회째, watch_for_breakage 패턴 재확인). (2) **새로운 버그 유형**: filmshortage.com 항목의 url 필드가 'https://filmshortage.com/rp4wp_link/'로 404를 반환했는데, 이는 실제 기사 URL이 아니라 'Related Posts for WP' 플러그인의 AJAX 링크로 추정된다(제목도 특정 기사가 아니라 사이트 전반에 대한 일반적 설명문이었음). 기존 image URL 손상 사례(blogthumb, 2026-09-23)와 달리 이번엔 URL 추출 로직이 아예 엉뚱한 위젯 링크를 집어온 것으로 보이며, 원문을 특정할 수 없어 추측성 교체 없이 그대로 두고 새 버그 유형으로만 기록함. 실제 리서치: 서울디자인어워드 2026(서울디자인재단 주최)이 91개국 1,204개 출품작 중 톱10 파이널리스트를 선정해 10월 14일 DDP에서 라이브 심사+대중투표로 그랑프리를 공개하는 사실, 그리고 올해 신설한 ESG 디자인 임팩트 어워드가 현대자동차·OpenAI Korea·파타고니아 코리아 등 7개 기업에 수여된 사실을 The Korea Times(2026-10-07), FREEYORK(2026-09-23, designboom.com 인용), 서울디자인어워드 공식 사이트 3개 소스로 교차 확인해 Design & Space 카테고리에 agent_curated:true로 추가, 오늘의 라벨 공백을 메움. session.selected 9→10. Korea Times 기사의 공식 서울디자인컨퍼런스 2026 포스터 이미지로 날짜(10/14 수요일 오전 9시 KST)·장소(DDP 디자인홀)까지 직접 확인했다."
     }
   ],
   "editorial_decisions": [
@@ -138,11 +144,11 @@
     "2026-09-21: Taste DNA 버그, 강제 볼륨 규칙은 사용자가 명시적으로 수정을 승인하여 반영 완료. 더 이상 '보류 항목' 아님."
   ],
   "open_questions_for_next_run": [
-    "social_proof 교차매칭 오탐이 2026-10-11에도 'featuredvisual'로 재현(누적 14회 이상). 사용자 승인 시 fetch_ideas.py의 compute_cross_source_signals() 매칭 대상을 title 토큰(불용어 제외, 최소 길이 제한)으로만 한정하고 source/image 필드는 매칭 corpus에서 완전히 제외하는 수정을 최우선 제안 — IDEAS.md에 누적 기록된 4가지 원인 가설 전부 재현 완료 상태, 여전히 사용자 승인 대기 중.",
-    "Korean Code 그레이존 세 번째 변종(2026-10-11, 주우진/Woo Jin Joo 사례): 소재는 명확히 한국적(한국 신화·도깨비)이나 창작자 활동 기반·게재처는 완전히 서구. 기존 2종(소재 자체 무관/창작자 이름만 한국적)과 구별되는 '소재는 한국적이나 활동 기반은 서구'형. 판정 기준을 '소재' 기준으로만 둘지, '창작자 현재 활동 기반'까지 고려할지는 아직 애매하다 — 재발 시 사용자에게 판정 기준 명문화를 제안할 근거로 축적 중.",
-    "Cinema & Narrative 편중이 2026-10-11에 7/12(58%)로 최근 관찰 중 최고치를 기록했다. Design & Space는 0/12. 날마다 도메인 분포가 크게 출렁이는 패턴(10-09 Design&Space 4/8 최다, 10-11 Cinema 최다)이 계속 관찰되는데, 특정 도메인이 구조적으로 과소 수집되는 것인지(예: RSS 소스풀에서 Design&Space 피드가 적음) 아니면 단순 날짜별 운인지는 아직 불명확 — 누적 2주 이상의 도메인 분포를 한 번 정리해서 패턴을 확인해볼 가치가 있음.",
-    "lensculture.com이 2026-10-06, 10-07 연속 'fetch failed'로 관찰된 뒤 10-08~10-11에는 topPicks에 선택되지 않음 — 추가 관찰 없음, 재등장 시 상태 재확인.",
-    "**인프라 메모**: 2026-10-11 00:35 KST 실행 세션에서 openTab()/attachBrowserTab() 모두 'task browser window is no longer available' 에러로 실패해 브라우저 접근 불가, 완성된 Draft를 IDEAS.md에 대기시킴. 09:30 KST 재실행에서는 listBrowserTabs()는 정상 작동했고 attachBrowserTab(기존 열린 탭의 targetId)+page.goto()로 브라우저 접근을 복구할 수 있었다(단 openTab()으로 새 탭을 여는 것은 여전히 실패). 다음에 openTab() 실패가 재발하면 이 workaround(기존 탭 하나를 attachBrowserTab으로 붙잡고 page.goto()로 원하는 URL로 이동)를 먼저 시도할 것. 단, 이 workaround는 사용자가 실제로 보고 있던 활성 탭(active:true)을 가져다 쓰는 것이라 사용자 작업을 방해할 수 있다는 점은 트레이드오프로 남아있음.",
+    "**신규 버그 유형(2026-10-12)**: filmshortage.com 항목의 url 필드가 실제 기사가 아니라 'rp4wp_link'(Related Posts for WP 플러그인 AJAX 링크)로 채워져 404가 발생했다. 제목도 특정 기사가 아닌 사이트 일반 설명문이었던 것으로 보아, 이 레코드는 애초에 특정 기사를 가리키지 않는 스크래핑 오류일 가능성이 있다. 원문을 특정할 수 없어 이번엔 손대지 않음. 재발 시 fetch_ideas.py의 URL 추출 로직(related-posts 위젯과 본문 링크를 구분하지 못하는지)을 점검할 근거로 축적.",
+    "lensculture.com이 2026-10-06, 10-07에 이어 2026-10-12에도 'fetch failed'로 재현(3회째). 10-08~10-11에는 topPicks에 선택되지 않다가 오늘 다시 등장 — 완전 차단은 아니고 간헐적 접속 실패로 보임, 계속 관찰.",
+    "social_proof 교차매칭 오탐이 2026-10-11에 'featuredvisual'로 재현(누적 14회 이상). 사용자 승인 시 fetch_ideas.py의 compute_cross_source_signals() 매칭 대상을 title 토큰(불용어 제외, 최소 길이 제한)으로만 한정하고 source/image 필드는 매칭 corpus에서 완전히 제외하는 수정을 최우선 제안 — IDEAS.md에 누적 기록된 4가지 원인 가설 전부 재현 완료 상태, 여전히 사용자 승인 대기 중.",
+    "Korean Code 그레이존 세 번째 변종(2026-10-11, 주우진/Woo Jin Joo 사례): 소재는 명확히 한국적(한국 신화·도깨비)이나 창작자 활동 기반·게재처는 완전히 서구. 판정 기준을 '소재' 기준으로만 둘지, '창작자 현재 활동 기반'까지 고려할지는 아직 애매하다 — 재발 시 사용자에게 판정 기준 명문화를 제안할 근거로 축적 중.",
+    "Design & Space 도메인이 날마다 0건(2026-10-11, 10-12)과 4-5건(10-09, 10-10) 사이를 크게 오간다 — 특정 도메인이 구조적으로 과소 수집되는 것인지(RSS 소스풀 편중) 단순 날짜별 운인지 누적 2주 이상 데이터로 패턴 확인해볼 가치가 있음.",
     "Ask the Curator 위젯의 Vercel 함수가 GEMINI_API_KEY 쿼터를 GitHub Actions 파이프라인과 공유하지 않고 별도 키를 쓰는지 주기적으로 확인할 것."
   ]
 }
