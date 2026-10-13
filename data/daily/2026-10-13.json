@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-13",
+  "focusQ": "Agent's Thought: 감각적 디테일 없이 기계적인 껍데기만 남은 레퍼런스들은 전부 도려냈다. 시각적 밀도와 연출의 본질을 찌르는 작품들만 남겼으니 똑바로 보고 영감을 흡수해라. 겉멋만 든 크리에이티브는 지겹다.",
+  "creator_message": "큐레이터의 메시지: 쓸데없는 잡음과 영양가 없는 보도자료용 멘트는 거절한다. 오늘 셀렉션은 오직 예리한 시선과 치밀한 실행력이 증명된 결과물들뿐이다.",
+  "session": {
+    "timestamp": "2026-10-13T02:03:37.440570",
+    "selected": 8
+  },
+  "topPicks": [
+    {
+      "title": "루머를 넘어선 시선: 셀린의 S/S 27 컬렉션",
+      "content": "마이클 라이더(Michael Rider)가 전개하는 셀린의 S/S 27 컬렉션은 지금 이 순간 필요한 옷의 형태를 정확하게 짚어낸다. 과장 없는 실루엣과 현재적 감각의 재해석이 돋보인다.",
+      "url": "https://www.anothermag.com/fashion-beauty/17559/celine-spring-summer-2027-show-review?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-infinite-variety-of-celine",
+      "source": "anothermag.com",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Michael Rider",
+      "creator_insight": "트렌드의 흐름을 맹목적으로 쫓는 대신, 착용자의 태도와 실루엣의 본질에 집중해 동시대적 우아함을 새롭게 정의했다.",
+      "tags": [
+        "패션",
+        "실루엣",
+        "셀린"
+      ],
+      "execution_techniques": [
+        "Minimalist Tailoring",
+        "Contemporary Silhouette"
+      ],
+      "why": "단순한 의류 리뷰를 넘어, 브랜드가 시대의 취향을 어떻게 선점하고 시각화하는지 보여주는 명확한 지침서다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479525.jpg",
+      "pub_date": "2026-10-13T08:00:00.000000"
+    },
+    {
+      "title": "사슴과 망명: 단편 영화 '르 셰브뢰유'",
+      "content": "가족이라는 압도적인 무게에 짓눌린 한 여성이 모든 것을 뒤로하고 떠나는 순간을 건조하고도 날카롭게 포착했다. 감정을 강요하지 않는 연출이 오히려 서사의 긴장감을 극대화한다.",
+      "url": "https://www.shortoftheweek.com/2026/10/06/le-chevreuil-the-roe-deer/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Unknown Director",
+      "creator_insight": "인간의 실존적 고뇌를 자연물과의 대비를 통해 시각적으로 침전시키는 탁월한 프레임 운용을 보여준다.",
+      "tags": [
+        "단편영화",
+        "내러티브",
+        "연출"
+      ],
+      "execution_techniques": [
+        "Natural Lighting",
+        "Contemplative Framing"
+      ],
+      "why": "시각 예술가와 디렉터들이 반드시 참고해야 할 밀도 높은 미장센과 호흡 조절의 정석.",
+      "social_proof": "",
+      "depth": 0.98,
+      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/10/le-chevreuil-short-film-02.jpeg",
+      "pub_date": "2026-10-13T08:00:00.000000"
+    },
+    {
+      "title": "카롱 파리 플래그십의 향수 분수 인스톨레이션",
+      "content": "카롱의 새로운 파리 스토어 중심부에 위치한 카스퍼 뮐러 크니어의 향수 분수는 수공예로 프로스팅된 유리관과 내부 조명이 결합된 압도적인 공간적 중심점을 형성한다.",
+      "url": "https://www.yellowtrace.com.au/casper-mueller-kneer-caron-rue-saint-honore-luxury-retail-interior-design/",
+      "source": "Yellowtrace",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Casper Mueller Kneer Architects",
+      "creator_insight": "하이엔드 리테일 공간에서 브랜드의 헤리티지를 물성과 빛의 물리학으로 구현해내는 방식을 정확히 이해하고 있다.",
+      "tags": [
+        "공간디자인",
+        "인테리어",
+        "리테일"
+      ],
+      "execution_techniques": [
+        "Frosted Glass",
+        "Spatial Lighting"
+      ],
+      "why": "공간이 어떻게 브랜드의 거대한 물성적 광고판이 될 수 있는지 보여주는 완벽한 공간 브랜딩 사례.",
+      "social_proof": "2개 매체 동시 포착: architects",
+      "depth": 0.96,
+      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/10/06125913/Yellowtrace-Casper-Mueller-Kneer-Caron-Rue-Saint-Honore-Photo-Paul-Riddle-02_opt80.jpg",
+      "pub_date": "2026-10-13T08:00:00.000000"
+    },
+    {
+      "title": "철거 직전의 콘크리트 골조를 점용한 임시 조형 실험",
+      "content": "서울의 철거 예정인 빈 건물을 배경으로 펼쳐진 실험적 가구와 합판 구조물들의 기묘한 동거. 날것 그대로의 콘크리트 프레임과 정교한 목공예가 충돌하며 독특한 시각적 밀도를 만들어낸다.",
+      "url": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Sukchulmok & Kangyeon Lee",
+      "creator_insight": "도시의 파괴와 유휴 공간의 물성을 역이용하여 임시성과 영속성 사이의 경계를 시각적으로 해부했다.",
+      "tags": [
+        "설치미술",
+        "공간",
+        "조형"
+      ],
+      "execution_techniques": [
+        "Raw Concrete Integration",
+        "Plywood Structure"
+      ],
+      "why": "공간을 소비하는 방식을 비틀어버리는 강력한 장소 특정적 크리에이티브 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/ghost-barstairs-temporary-hypotheses-exhibition-seoul-sukchulmok-kangyeon-lee-brbb-designboom-700-500x400-22b08q85r040.jpg",
+      "pub_date": "2026-10-13T08:00:00.000000"
+    },
+    {
+      "title": "오션 라이프의 유기적 모션 텍스처 시리즈",
+      "content": "영국의 디지털 디자인 스튜디오 세더스(Sawdust)가 해양 생물의 유기적인 형태와 색감에서 영감을 받아 제작한 모션 시리즈. 끊임없이 요동치는 리듬감이 시각적 몰입감을 선사한다.",
+      "url": "https://levineleavitt.com/sawdust-oceano-marea-azul/",
+      "source": "levineleavitt.com",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Sawdust",
+      "creator_insight": "정적인 그래픽의 한계를 넘어 자연물의 유기적 변주를 디지털 모션으로 완벽하게 체화했다.",
+      "tags": [
+        "모션그래픽",
+        "디지털아트",
+        "텍스처"
+      ],
+      "execution_techniques": [
+        "Fluid Dynamics",
+        "Organic Motion"
+      ],
+      "why": "시각적 리듬감과 타이포그래피, 그리고 모션의 결합이 무엇을 증명해야 하는지 보여주는 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "http://levineleavitt.com/wp-content/uploads/2022/05/SD_283041150_131356619276949_8682748321836147076_n.jpg",
+      "pub_date": "2026-10-13T08:00:00.000000"
+    },
+    {
+      "title": "가치를 증명하는 마케팅: 골든 스테이트 발키리즈의 스폰서십 전략",
+      "content": "WNBA 신생 구단이 자본과 사명감을 동시에 잡기 위해 브랜드와 소통하는 방식을 해부한다. 단순한 노출을 넘어선 철학적 연대가 어떻게 비즈니스로 이어지는지 보여준다.",
+      "url": "https://digiday.com/marketing/mission-and-capital-can-coexist-golden-state-valkyries-jess-smith-on-pitch-to-sponsors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Jess Smith",
+      "creator_insight": "브랜드의 서사가 단순한 마케팅 수단이 아니라 비즈니스의 핵심 코어로 작동해야 함을 증명한다.",
+      "tags": [
+        "브랜드전략",
+        "스포츠마케팅",
+        "캠페인"
+      ],
+      "execution_techniques": [
+        "Mission-driven Pitch",
+        "Brand Alignment"
+      ],
+      "why": "브랜드 캠페인을 기획할 때 명분과 실리를 어떻게 결합해야 하는지 보여주는 날카로운 비즈니스 인사이트.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Digiday%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-10-13T08:00:00.000000"
+    },
+    {
+      "title": "디지털 물성의 회복: 모듈러 시스템의 진화",
+      "content": "설치 이후에도 끊임없이 변형되고 확장되는 B+N 인더스트리의 모듈형 프레임워크 디자인. 고정된 구조물이라는 인테리어의 문법을 깨고 유연한 적응력을 시각화했다.",
+      "url": "https://design-milk.com/bn-industries-builds-its-modular-systems-to-keep-evolving-after-installation/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "B+N Industries",
+      "creator_insight": "정적인 공간 구조에 가변성을 부여함으로써 제품 자체를 살아있는 인테리어 시스템으로 탈바꿈시켰다.",
+      "tags": [
+        "모듈러디자인",
+        "공간시스템",
+        "인테리어"
+      ],
+      "execution_techniques": [
+        "Reconfigurable Frameworks",
+        "Modular Adaptation"
+      ],
+      "why": "공간을 디자인하는 이들이 물리적 한계를 어떻게 시스템으로 극복하는지 보여주는 실용적 해답.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://design-milk.com/images/2026/10/System-1224-Momentum-Showroom-1500x1125.jpg",
+      "pub_date": "2026-10-13T08:00:00.000000"
+    },
+    {
+      "title": "로마에서 재조명되는 칼 라거펠트와 펜디의 아카이브",
+      "content": "칼 라거펠트와 펜디가 패션을 박물관의 예술 영역으로 확장했던 역사적 순간을 로마 국립현대미술관에서 회고한다. 시대를 앞선 협업의 태도를 가감 없이 드러낸다.",
+      "url": "https://www.artribune.com/progettazione/moda/2026/10/fendi-karl-lagerfeld-roma/",
+      "source": "Artribune",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Karl Lagerfeld & Fendi",
+      "creator_insight": "상업 패션과 순수 미술의 경계를 무너뜨리며 브랜드 아카이브를 문화적 자산으로 승화시켰다.",
+      "tags": [
+        "패션아카이브",
+        "전시",
+        "칼라거펠트"
+      ],
+      "execution_techniques": [
+        "Archival Curation",
+        "Museum-grade Presentation"
+      ],
+      "why": "브랜드가 장기적으로 살아남기 위해 구축해야 할 헤리티지의 기준점을 제시한다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/10/after-un-percorso-di-lavoro-fendi-karl-lagerfeld-1985-installation-view-gnamc-galleria-nazionale-darte-moderna-e-contemporanea-roma-2026-1-scaled.jpeg",
+      "pub_date": "2026-10-13T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "터치디자이너 카메라 컴포넌트 3D 뷰 마스터하기",
+      "content": "복잡한 3D 공간 안에서 카메라 움직임을 제어하고 시각적 레이어를 구축하는 실무형 테크닉 가이드.",
+      "url": "https://medium.com/@wavvisual/touchdesigner-2026-cookbook-07-camera-comp-3d-view-52c38adeaf6a?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "터치디자이너",
+        "크리에이티브코딩"
+      ],
+      "why": "실무 비주얼 아티스트들이 당장 작업에 써먹을 수 있는 간결하고 확실한 기술 치트키.",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/2600/1*3hefeyFXWLLtrPCy1dm24g.png",
+      "pub_date": "2026-10-13T08:00:00.000000"
+    },
+    {
+      "title": "주목을 강탈하는 전단지 디자인의 기술",
+      "content": "수많은 시각 공해 속에서 눈에 띄는 레이아웃과 타이포그래피 정렬의 원리를 분석한 실전 가이드.",
+      "url": "https://medium.com/@theekshanac120/how-to-design-a-flyer-that-actually-gets-noticed-82d57fbcbf48?source=rss------design-5",
+      "source": "Medium Design Tag",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "그래픽디자인",
+        "레이아웃"
+      ],
+      "why": "화려한 툴 놀음보다 중요한 기본적 시각 계층 구조를 환기시켜 주는 가벼운 리프레시.",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/1376/1*3fOoj29jpbv36KodeZ1OhA.jpeg",
+      "pub_date": "2026-10-13T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "물성적 미학의 재해석",
+      "is_hot": true
+    },
+    {
+      "word": "도심 속 유휴공간 점유",
+      "is_hot": true
+    },
+    {
+      "word": "내러티브 중심의 미장센",
+      "is_hot": true
+    },
+    {
+      "word": "아카이브 기반 헤리티지",
+      "is_hot": true
+    },
+    {
+      "word": "실험적 모듈러 시스템",
+      "is_hot": true
+    }
+  ]
+}
