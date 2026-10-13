@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-14",
+  "focusQ": "Agent's Thought: 알맹이 없는 기술적 찬양과 공허한 미사여구는 오늘 당장 휴지통에 처넣어라. 우리는 감탄고토의 시대에서 살아남기 위해 날카로운 시선과 정교한 기획안만을 허락한다. 진짜 레퍼런스는 트렌드의 겉핥기가 아니라 시스템의 급소를 가격하는 데서 시작된다.",
+  "creator_message": "큐레이터의 메시지: 껍데기만 번지드르르한 크리에이티브는 지겹도록 보았다. AI가 쏟아내는 쓰레기 같은 프롬프트 결과물에 감탄할 시간에 당신만의 고유한 관점과 오리지낼리티를 증명해라.",
+  "session": {
+    "timestamp": "2026-10-13T23:46:26.934361",
+    "considered": 40,
+    "selected": 8
+  },
+  "topPicks": [
+    {
+      "title": "블렌더 오브젝트별 1만 번의 실행 취소를 지원하는 스컬프 리와인드",
+      "content": "지브러시의 히스토리 리콜 브러시 기능을 블렌드로 이식해 각 오브젝트마다 세밀한 작업 이력을 누적하고 제어할 수 있는 새로운 애드온이 공개되었다.",
+      "url": "https://80.lv/articles/undo-history-for-each-blender-object-10-000-times-with-this-add-on/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "80 Level Editorial",
+      "creator_insight": "기술의 발전은 언제나 작업자의 실수를 구제하는 방향으로 진화한다. 에러를 두려워하지 않는 과감한 프로덕션 실험을 보장하는 완벽한 도구적 미학이다.",
+      "tags": [
+        "Blender",
+        "3D",
+        "Sculpting"
+      ],
+      "execution_techniques": [
+        "History Tracking",
+        "Procedural Workflow"
+      ],
+      "why": "실무 3D 아티스트들의 작업 병목 현상을 단번에 해소하는 실질적 툴 레퍼런스다. 연출의 시행착오 비용을 극적으로 낮춰준다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.80.lv/api/upload/post/41944/images/6ace9839cf8bc/cover_800x800.jpg",
+      "pub_date": "2026-10-14T08:00:00.000000"
+    },
+    {
+      "title": "아르마니 아카이브를 소환한 키스의 FW26 '드림스 오브 더 듄'",
+      "content": "스트리트웨어의 영원한 이단아 키스가 조르지오 아르마니의 방대한 아카이브를 해체하고 재조립하여 우아함과 반항심이 공존하는 FW26 컬렉션을 선보였다.",
+      "url": "https://hypebeast.kr/2026/10/kith-digs-into-the-armani-archives-for-dreams-of-the-dune-fw26",
+      "source": "Unknown Source",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Ronnie Fieg",
+      "creator_insight": "헤리티지와 스트리트의 기계적 결합이 아닌, 브랜드의 뼈대를 완전히 뒤흔드는 영리한 협업 마스터클래스다.",
+      "tags": [
+        "Kith",
+        "Armani",
+        "Fashion"
+      ],
+      "execution_techniques": [
+        "Archive Deconstruction",
+        "High-Low Crossover"
+      ],
+      "why": "브랜드 간의 파트너십이 어떻게 문화적 사건으로 격상될 수 있는지 보여주는 완벽한 브랜딩 교과서다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F10%2Fgiorgio-armani-kith-fw6-collection-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-10-14T08:00:00.000000"
+    },
+    {
+      "title": "AI 시대의 크리에이티브 가치를 재정의하는 렉스탱크 리볼브 액셀러레이터",
+      "content": "스튜디오 오너들을 대상으로 AI가 대체할 수 없는 크리에이티브 전문성과 클라이언트의 진짜 니즈를 파악하는 6주간의 집중 프로그램이 시작된다.",
+      "url": "https://motionographer.com/news/revthink-revolve-accelerator-ai-creative-business/",
+      "source": "Unknown Source",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "RevThink",
+      "creator_insight": "자동화가 만연한 시대에 인간 디렉터가 쥐어야 할 유일한 무기는 날카로운 기획력과 비즈니스 통찰뿐이다.",
+      "tags": [
+        "AI Business",
+        "Creative Strategy",
+        "Studio Management"
+      ],
+      "execution_techniques": [
+        "Value Proposition",
+        "Strategic Pivot"
+      ],
+      "why": "업계 종사자들이 눈앞의 툴 놀음에서 벗어나 거대한 비즈니스 생존 전략을 고민하게 만드는 필수 인사이트를 제공한다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=700%2C248&quality=80&ssl=1",
+      "pub_date": "2026-10-14T08:00:00.000000"
+    },
+    {
+      "title": "이스탄불 돔 아래 감각적인 콘크리트 미학을 품은 로컬 피플 카페",
+      "content": "조각 같은 버드나무 설치 미술을 중심으로 원형 지오메트리와 필터링된 자연광을 결합하여 고요한 커뮤니티 공간을 완성했다.",
+      "url": "https://design-milk.com/local-people-cafe-istanbul/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Mitte",
+      "creator_insight": "공간 디자인은 결국 빛과 구조물의 물리적 대화다. 트렌드에 편승하지 않는 묵직한 물성의 승리.",
+      "tags": [
+        "Spatial Design",
+        "Interior",
+        "Architecture"
+      ],
+      "execution_techniques": [
+        "Circular Geometry",
+        "Natural Light Control"
+      ],
+      "why": "공간이 브랜드의 철학을 어떻게 물리적으로 체화하는지 보여주는 우수한 공간 연출 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://design-milk.com/images/2026/10/Mitte_Local-People_11-e1791932136921-1500x1000.jpg",
+      "pub_date": "2026-10-14T08:00:00.000000"
+    },
+    {
+      "title": "이케아 사우디, 침실의 혼란과 끝없는 과생각을 저격하다",
+      "content": "현대인들이 침대에 누워 마주하는 수많은 생각과 잡동사니의 혼돈을 위트 있고 절제된 비주얼로 정리해낸 이케아의 신규 캠페인.",
+      "url": "https://www.brandinginasia.com/ikea-saudi-overthinking-sorted.-1-1/",
+      "source": "Branding in Asia",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "IKEA Saudi",
+      "creator_insight": "제품 스펙을 떠벌리는 대신 고객의 심리적 페인포인트를 정확히 타격하는 영리한 캠페인 기획.",
+      "tags": [
+        "IKEA",
+        "Campaign",
+        "Consumer Psychology"
+      ],
+      "execution_techniques": [
+        "Visual Metaphor",
+        "Problem-Solution Narrative"
+      ],
+      "why": "단순한 가구 광고를 넘어 현대인의 일상적 불안을 브랜드의 솔루션으로 치환하는 탁월한 스토리텔링.",
+      "social_proof": "",
+      "depth": 0.82,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/10/IKEA-Saudi-Overthinking-sorted.-1-1.webp",
+      "pub_date": "2026-10-14T08:00:00.000000"
+    },
+    {
+      "title": "존슨 퍼블리싱 사옥의 1970년대 인테리어를 기록하다",
+      "content": "시카고에 위치한 전설적인 매거진 본사의 원형 그대로 보존된 70년대 미드센추리 인테리어를 사진가 바바라 카란트가 모노그래프로 기록했다.",
+      "url": "https://design-milk.com/820-ebony-jet-chicago-headquarters/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Barbara Karant",
+      "creator_insight": "시간의 무게를 정면으로 버텨낸 공간만이 가지는 대체 불가능한 아카이브적 가치.",
+      "tags": [
+        "Monograph",
+        "Interior Archive",
+        "70s Design"
+      ],
+      "execution_techniques": [
+        "Documentary Photography",
+        "Architectural Preservation"
+      ],
+      "why": "시각 문화의 역사적 유산을 포착하고 보존하는 에디토리얼 작업의 모범 답안.",
+      "social_proof": "",
+      "depth": 0.8,
+      "image": "https://design-milk.com/images/2026/09/9781969303043_820EJ_Photo_01-e1791931763930-1500x1000.jpg",
+      "pub_date": "2026-10-14T08:00:00.000000"
+    },
+    {
+      "title": "음악과 침묵 사이에서 형태를 빚는 세라믹 아티스트 자크 모네로드",
+      "content": "어린 시절의 로드트립, 프렌치 랩, 영화 음악, 그리고 절대적인 침묵 속에서 영감을 받아 도예 작품을 완성해내는 프랑스 작가의 인터뷰.",
+      "url": "https://www.designboom.com/art/designboom-listens-jacques-monneraud-inspiration-music-silence-interview/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Jacques Monneraud",
+      "creator_insight": "청각적 리듬을 시각적 물성으로 번역하는 작가의 태도는 모든 형태의 예술 창작자에게 영감을 준다.",
+      "tags": [
+        "Ceramics",
+        "Artisan",
+        "Inspiration"
+      ],
+      "execution_techniques": [
+        "Cross-Sensory Translation",
+        "Minimal Form"
+      ],
+      "why": "매체의 경계를 넘나드는 영감의 원천을 추적하는 깊이 있는 크리에이터 인터뷰.",
+      "social_proof": "",
+      "depth": 0.78,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/designboom-listens-jacques-monneraud-inspiration-music-silence-interview-designboom-700-500x400-22b08q85r953.jpg",
+      "pub_date": "2026-10-14T08:00:00.000000"
+    },
+    {
+      "title": "이탈리아의 새로운 공공 광장, 50그루의 오크 나무로 숨 쉬다",
+      "content": "도시의 중심부에 그늘진 쉼터와 통합형 빗물 시스템을 구축하여 자연과 도심을 유기적으로 연결한 질리니 아키테티의 광장 프로젝트.",
+      "url": "https://www.designboom.com/architecture/fifty-oak-trees-stone-paved-clearing-contemporary-italian-piazza-ghisellini-architetti/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Ghisellini Architetti",
+      "creator_insight": "콘크리트 정글 속에서 생태적 기능과 미학적 완성도를 동시에 만족시키는 공공 디자인의 정석.",
+      "tags": [
+        "Public Architecture",
+        "Landscape",
+        "Urban Design"
+      ],
+      "execution_techniques": [
+        "Eco Integration",
+        "Stone Paving Layout"
+      ],
+      "why": "공간 기획이 사회적 인프라와 어떻게 조화될 수 있는지 보여주는 명확한 사례.",
+      "social_proof": "",
+      "depth": 0.75,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/ghisellini-architetti-public-square-madre-francesca-cabrini-italian-piazza-designboom-700-500x400-22b08q85r254.jpg",
+      "pub_date": "2026-10-14T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "컨버스 재팬의 파격적인 털 범벅 '페럴 AF' 슬립온",
+      "content": "뾰족한 토 박스와 거친 헤어 털 유니폼을 결합해 기존 스니커즈의 문법을 완전히 깨버린 컨버스 재팬의 괴작 슬립온.",
+      "url": "https://www.highsnobiety.com/p/converse-all-star-pointed-toe-volume-fur-slip-ox/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "Converse",
+        "Footwear",
+        "Viral Fashion"
+      ],
+      "why": "클래식 아이콘을 전위적으로 비틀어 소셜 미디어 피드를 장악하는 바이럴 스니커즈 디자인.",
+      "depth": 0.5,
+      "image": "",
+      "pub_date": "2026-10-14T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "아카이브 디컨스트럭션",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "과생각 저격 캠페인",
+      "is_hot": true
+    },
+    {
+      "word": "시네마틱 프로덕션",
+      "is_hot": true
+    },
+    {
+      "word": "하이로우 크로스오버",
+      "is_hot": true
+    }
+  ]
+}
