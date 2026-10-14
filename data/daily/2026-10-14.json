@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-10-13T23:46:26.934361",
     "considered": 40,
-    "selected": 8
+    "selected": 9
   },
   "topPicks": [
     {
@@ -107,7 +107,7 @@
     {
       "title": "이케아 사우디, 침실의 혼란과 끝없는 과생각을 저격하다",
       "content": "현대인들이 침대에 누워 마주하는 수많은 생각과 잡동사니의 혼돈을 위트 있고 절제된 비주얼로 정리해낸 이케아의 신규 캠페인.",
-      "url": "https://www.brandinginasia.com/ikea-saudi-overthinking-sorted.-1-1/",
+      "url": "https://www.brandinginasia.com/ikea-tackles-bedroom-clutter-and-overthinking-in-new-campaign/",
       "source": "Branding in Asia",
       "domain": "Marketing & Brand",
       "category": "리뷰",
@@ -199,6 +199,36 @@
       "depth": 0.75,
       "image": "https://www.designboom.com/wp-content/uploads/2026/10/ghisellini-architetti-public-square-madre-francesca-cabrini-italian-piazza-designboom-700-500x400-22b08q85r254.jpg",
       "pub_date": "2026-10-14T08:00:00.000000"
+    },
+    {
+      "title": "이노션 '시네마바이브랜드', 한화 '우주태양광'을 세 감독의 영화로 풀어내다",
+      "content": "이노션(INNOCEAN)이 ACFM(아시아콘텐츠&필름마켓)과 공동 기획한 브랜드-영화 연결 플랫폼 '시네마바이브랜드'의 첫 브랜드 파트너로 한화그룹을 선정하고, 10월 12일 부산 벡스코에서 열린 제31회 부산국제영화제 ACFM 특별 세션에서 선정작 3편을 공개했다. '우주태양광'을 공통 소재로 에드먼드 여 감독의 'Solar Poet', 홍의정 감독의 '달노을', 이진호 감독의 'The New Mission'이 각기 다른 서사와 형식으로 제작되며, 2027년 국내외 관객에게 공개될 예정이다. 이 플랫폼은 지난해 이노션이 현대자동차와 제작해 칸 라이언즈 2025 그랑프리를 수상한 브랜디드 필름 '나이트 피싱'(차량 장착 카메라만으로 전편을 촬영, 유료 극장 개봉으로 4만6천 명 동원)의 성공을 계기로 올해 정식 출범했다.",
+      "url": "https://biz.chosun.com/en/en-industry/2026/10/13/MKBOSJ4NWBHUZNNS4CFEBXDLQE/",
+      "source": "Chosun Biz",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "이노션(INNOCEAN) × 한화그룹 — 에드먼드 여·홍의정·이진호 감독",
+      "creator_insight": "브랜드가 메시지를 전달하는 매체로 영화를 빌리는 게 아니라, 감독 개인의 서사 스타일을 그대로 인정하고 같은 소재를 세 가지 다른 영화로 병렬 제작한다는 점이 기존 브랜디드 필름과의 결정적 차이다.",
+      "tags": [
+        "브랜디드필름",
+        "이노션",
+        "한화",
+        "부산국제영화제",
+        "ACFM",
+        "우주태양광",
+        "나이트피싱"
+      ],
+      "execution_techniques": [
+        "브랜드 메시지의 직접 전달보다 감독의 창작 자율성과 영화적 완성도를 1차 심사 기준으로 설정",
+        "ACFM·한국영화프로듀서조합(PGK) 공동 심사로 글로벌 감독 공모 → 동일 소재를 복수 감독이 각자 해석하는 병렬 제작 구조",
+        "6개월 이상 장기 프로덕션 후 극장·글로벌 스트리밍 동시 공개를 전제로 한 연 1회 플랫폼화"
+      ],
+      "why": "작년 '나이트 피싱'(칸 라이언즈 그랑프리 + 판타지아영화제 편집상)이라는 단발성 성공 사례를 1회성에 그치지 않고 연례 플랫폼 비즈니스로 구조화했다는 점에서, TVCF 연출자 입장에서는 '브랜드 필름을 광고가 아니라 독립된 영화로 설계하는 심사 기준 자체'가 실무적으로 참고할 만한 레퍼런스다.",
+      "social_proof": "조선비즈·뉴스웍스·한경매거진·디일렉·메트로서울 등 국내 매체 5곳 이상이 2026-10-13 동일 사실(감독 3인, 작품명, 공개 시기)을 보도해 교차 확인됨",
+      "depth": 0.75,
+      "image": "https://biz.chosun.com/resizer/v2/LWPK4JDUDJGJXCKBFJ2FX6VLFE.jpg?auth=aa6493f5c2c95a489add84094b12450fd4777280d854d5e9aea232f927d09cb2&width=1200&height=630&smart=true",
+      "pub_date": "2026-10-13",
+      "agent_curated": true
     }
   ],
   "popcorn": [
