@@ -1,0 +1,275 @@
+{
+  "date": "2026-10-15",
+  "focusQ": "Agent's Thought: 감각적 물성과 시네마틱 연출력의 파편들이 난무하는 시대다. 표피적인 트렌드 추종을 거부하고 날카로운 서사와 미학적 결속력을 지닌 레퍼런스만 엄선했다.",
+  "creator_message": "큐레이터의 메시지: 빈껍데기 같은 AI 유행어 따위에 감탄할 시간에 본질적인 비주얼의 무게감을 보라. 오늘 고른 10개의 레퍼런스는 당신의 안일한 크리에이티브를 강하게 내려칠 것이다.",
+  "session": {
+    "timestamp": "2026-10-14T23:16:49.861902",
+    "considered": 40,
+    "selected": 10
+  },
+  "topPicks": [
+    {
+      "title": "알릭스 우리엔이 포착한 인상파 시대 파리의 현대적 잔상",
+      "content": "프랑스 사진가 알릭스 우리엔이 움직임, 빛, 색채를 활용해 현대 파리와 노르망디 전역에서 인상주의의 찰나적 아름다움을 재현한다.",
+      "url": "https://www.designboom.com/art/alix-urien-photography-artist-paris-impressionists-normandy-videos/",
+      "source": "Designboom",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Alix Urien",
+      "creator_insight": "회화적 감성을 현대적 무빙 이미지와 스틸 사진의 경계에서 직조해내며 시각적 서사의 밀도를 극대화했다.",
+      "tags": [
+        "인상주의",
+        "포토그래피",
+        "무빙이미지"
+      ],
+      "execution_techniques": [
+        "#CinematicLighting",
+        "#PainterlyMotion"
+      ],
+      "why": "클래식한 회화 미학을 현대적 비주얼 문법으로 치환하는 탁월한 카메라워크와 컬러 그레이딩의 정수를 보여준다.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/alix-urien-photography-artist-paris-impressionists-normandy-videos-designboom-3-1-500x400-22b08q85r425.jpg",
+      "pub_date": "2026-10-15T08:00:00.000000"
+    },
+    {
+      "title": "포스트 아포칼립스 FPS '메트로 2039' 프리오더 및 비주얼 에디션 공개",
+      "content": "딥실버가 포스트 아포칼립스 세계관을 바탕으로 한 신작 FPS '메트로 2039'의 출시에 앞서 에디션 구성과 프리오더를 시작했다.",
+      "url": "https://80.lv/articles/pre-orders-for-post-apocalyptic-fps-metro-2039-are-open/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Deep Silver",
+      "creator_insight": "암울한 디스토피아적 세계관을 시각적 압박감으로 구현하며 게임 시네마틱의 몰입도를 극단까지 밀어붙였다.",
+      "tags": [
+        "게임아트",
+        "디스토피아",
+        "시네마틱"
+      ],
+      "execution_techniques": [
+        "#RealtimeRendering",
+        "#AtmosphericLighting"
+      ],
+      "why": "공간을 압도하는 디스토피아 연출과 시각적 세계관 구축에 있어 현세대 최고 수준의 레퍼런스를 제공한다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://cdn.80.lv/api/upload/post/41951/images/6acf59c64e498/cover_800x800.jpg",
+      "pub_date": "2026-10-15T08:00:00.000000"
+    },
+    {
+      "title": "엑스박스, 클래식 부활 및 크로스 플랫폼 확장을 위한 '프로젝트 엑스박스 랩스' 런칭",
+      "content": "애플 컴퓨터 및 웹 플랫폼으로의 게임 포팅, 모더 지원 등을 포함한 새로운 이니셔티브가 시작되었다.",
+      "url": "https://80.lv/articles/xbox-launches-new-project-xbox-labs-to-revive-classics-port-games-explore-new-features/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Xbox Labs Team",
+      "creator_insight": "플랫폼의 경계를 허물고 과거의 헤리티지를 현재의 인터랙티브 경험으로 재편하는 영리한 기획력이다.",
+      "tags": [
+        "플랫폼전략",
+        "인터랙티브",
+        "헤리티지"
+      ],
+      "execution_techniques": [
+        "#CrossPlatform",
+        "#InteractiveDesign"
+      ],
+      "why": "브랜드 유산을 현대적 기술 환경에 이식하는 기획적 마스터클래스로서 크리에이터들에게 넓은 시야를 제공한다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cdn.80.lv/api/upload/post/41947/images/6acf2b0c242ab/cover_800x800.jpg",
+      "pub_date": "2026-10-15T08:00:00.000000"
+    },
+    {
+      "title": "모건 앤 모건이 구축한 대담한 로펌 브랜드의 크리에이티브 전략",
+      "content": "미국의 대형 상해 전문 로펌이 빌보드부터 독창적인 파트너십과 과감한 광고 전략을 통해 브랜드 파워를 구축한 과정.",
+      "url": "https://www.campaignlive.com/article/morgan-morgan-makes-creative-case-building-powerhouse-legal-brand/1972513",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Morgan & Morgan Marketing Team",
+      "creator_insight": "가장 보수적인 법률 시장에서 대중문화 아이콘 수준의 과감한 브랜딩으로 규칙을 완전히 재정의했다.",
+      "tags": [
+        "브랜드전략",
+        "캠페인",
+        "광고디자인"
+      ],
+      "execution_techniques": [
+        "#BoldTypography",
+        "#DisruptiveAdvertising"
+      ],
+      "why": "고루한 산업군에서도 크리에이티브한 기획력이 어떻게 강력한 마켓 셰어를 만들어내는지 증명하는 교과서다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "",
+      "pub_date": "2026-10-15T08:00:00.000000"
+    },
+    {
+      "title": "윌리엄 에글스턴: 멤피스의 매버릭이 포착한 낯선 미국적 일상",
+      "content": "런던 포토그래퍼스 갤러리에서 열린 신작 전시를 통해 컬러 포화 상태의 대표작과 희귀한 초기 흑백 작업을 동시에 조명한다.",
+      "url": "https://www.anothermag.com/art-photography/17565/william-eggleston-the-photographers-gallery-all-that-goes-unnoticed?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=william-eggleston-more-southern-more-weird",
+      "source": "anothermag.com",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "William Eggleston",
+      "creator_insight": "평범한 일상의 풍경을 비틀어 감정적 밀도가 높은 시각적 서사로 완성하는 대가의 시선.",
+      "tags": [
+        "포토그래피",
+        "다큐멘터리",
+        "비주얼아트"
+      ],
+      "execution_techniques": [
+        "#AnalogTexture",
+        "#ColorGrading"
+      ],
+      "why": "프레임 안에 스토리를 담아내는 가장 원초적이면서도 정교한 연출의 미학을 배울 수 있다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479582.jpg",
+      "pub_date": "2026-10-15T08:00:00.000000"
+    },
+    {
+      "title": "세이브더칠드런, CRM과 설문 데이터 통합으로 후원자 목소리를 전사에 확산하다",
+      "content": "흩어져 있던 후원자의 피드백을 CRM 데이터와 결합하여 조직 전체의 인사이트로 확장시킨 고객경험 혁신 사례.",
+      "url": "https://blog.opensurvey.co.kr/customer-stories/savethechildren/",
+      "source": "오픈서베이 블로그",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "세이브더칠드런 & 오픈서베이",
+      "creator_insight": "데이터를 단순 수치가 아닌 감정적 공감의 도구로 전환하여 조직 내부의 커뮤니케이션 결속력을 높였다.",
+      "tags": [
+        "데이터인사이트",
+        "고객경험",
+        "조직전략"
+      ],
+      "execution_techniques": [
+        "#DataDriven",
+        "#UXResearch"
+      ],
+      "why": "한국 시장에서 비영리 조직이 데이터와 브랜드 서사를 결합하는 가장 모범적인 인사이트를 제시한다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "",
+      "pub_date": "2026-10-15T08:00:00.000000"
+    },
+    {
+      "title": "크레이트 앤 배럴, 욕 월커버링과의 협업으로 월페이퍼 시장 진출",
+      "content": "빈티지 감성의 패턴과 촉각적 소재를 결합한 첫 월페이퍼 컬렉션을 Crate & Barrel 및 CB2를 통해 선보인다.",
+      "url": "https://design-milk.com/crate-barrel-wallpaper-collection/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Crate & Barrel Design Team",
+      "creator_insight": "디지털 피로감에 지친 소비자들에게 공간 속 물성과 촉각적 질감을 회복시키는 탁월한 홈퍼니싱 전략이다.",
+      "tags": [
+        "인테리어",
+        "텍스타일",
+        "공간디자인"
+      ],
+      "execution_techniques": [
+        "#TactileDesign",
+        "#VintagePattern"
+      ],
+      "why": "물성 회복 트렌드가 리빙 시장의 브랜딩과 공간 디자인에 어떻게 적용되는지 보여주는 명확한 실례다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://design-milk.com/images/2026/10/Vivaldi-Green-Scene-Wallpaper-1500x1047.jpg",
+      "pub_date": "2026-10-15T08:00:00.000000"
+    },
+    {
+      "title": "팜스프링스 모더니즘 위크, 태그 크리스토프의 미드센추리 포토 전시 개최",
+      "content": "허먼 밀러의 신규 리테일 로케이션에서 캘리포니아 모더니즘의 유산을 재조명하는 사진전이 열렸다.",
+      "url": "https://www.wallpaper.com/architecture/tag-christof-exhibition-herman-miller-palm-springs-usa",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Tag Christof",
+      "creator_insight": "모더니즘 건축의 차가운 구조미에 따스한 자연광의 텍스처를 덧입혀 공간의 시네마틱 감성을 증폭시켰다.",
+      "tags": [
+        "미드센추리",
+        "건축사진",
+        "공간미학"
+      ],
+      "execution_techniques": [
+        "#ArchitecturalPhotography",
+        "#NaturalLighting"
+      ],
+      "why": "공간과 가구가 사진이라는 매체를 통해 어떻게 하나의 브랜드 서사로 완결되는지 보여준다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.mos.cms.futurecdn.net/G2EVnBYfogizNcRexhXYpE-1920-80.jpg",
+      "pub_date": "2026-10-15T08:00:00.000000"
+    },
+    {
+      "title": "모바일 게임의 중국 시장 진출: 워 로보츠 임원이 말하는 현지화의 함정",
+      "content": "보리스 부란굴로프가 2014년 이후 높은 리텐션을 유지해 온 비결과 해외 진출 시 과도한 현지화가 초래하는 리스크를 분석한다.",
+      "url": "https://80.lv/articles/war-robots-exec-on-the-nuances-of-launching-mobile-games-for-chinese-players/",
+      "source": "80 Level",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Boris Burangulov",
+      "creator_insight": "로컬라이제이션이라는 미명 아래 브랜드의 오리지널리티를 훼손하는 우를 범하지 않아야 한다는 날카로운 통찰.",
+      "tags": [
+        "게임기획",
+        "글로벌전략",
+        "현지화"
+      ],
+      "execution_techniques": [
+        "#GlobalStrategy",
+        "#RetentionHacking"
+      ],
+      "why": "글로벌 마켓에서 브랜드의 본질을 지키며 확장하는 기획적 균형 감각을 배울 수 있다.",
+      "social_proof": "",
+      "depth": 0.84,
+      "image": "https://cdn.80.lv/api/upload/post/41934/images/6acf5339db966/cover_800x800.jpg",
+      "pub_date": "2026-10-15T08:00:00.000000"
+    },
+    {
+      "title": "한나 모첼 브라운 아티스트 스포트라이트",
+      "content": "독창적인 프레임 구성과 독특한 질감으로 시각적 경계를 탐색하는 작가 한나 모첼 브라운의 신작 세계.",
+      "url": "https://www.booooooom.com/2026/10/07/artist-spotlight-hannah-motzel-brown/",
+      "source": "Booooooom",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Hannah Motzel Brown",
+      "creator_insight": "익숙한 피사체를 전혀 다른 시각적 각도로 비틀어 새로운 비주얼 문법을 창조해낸다.",
+      "tags": [
+        "비주얼아트",
+        "포토그래피",
+        "아티스트스포트라이트"
+      ],
+      "execution_techniques": [
+        "#ExperimentalFraming",
+        "#VisualTexture"
+      ],
+      "why": "디렉터와 크리에이터들에게 시각적 고착화를 깨는 신선한 자극을 선사한다.",
+      "social_proof": "",
+      "depth": 0.83,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/08/Brown1-1.jpg",
+      "pub_date": "2026-10-15T08:00:00.000000"
+    }
+  ],
+  "popcorn": [],
+  "macro_keywords": [
+    {
+      "word": "시네마틱 미학의 확장",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "오리지널리티 중심 로컬라이제이션",
+      "is_hot": true
+    },
+    {
+      "word": "데이터 기반 서사 구축",
+      "is_hot": false
+    },
+    {
+      "word": "비주얼 장르의 경계 해체",
+      "is_hot": true
+    }
+  ]
+}
