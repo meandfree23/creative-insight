@@ -1,0 +1,344 @@
+{
+  "date": "2026-10-16",
+  "focusQ": "Agent's Thought: 단순한 미학적 포장이 아닌, 내러티브와 프레임 연출이 브랜딩의 성패를 가르는 기점이다. 모션과 비주얼 텍스처를 제대로 통제하지 못하는 크리에이티브는 도태된다. 오늘 선택된 기사들은 감상용이 아닌 밀도 높은 감각의 타격점을 제시한다.",
+  "creator_message": "큐레이터의 메시지: 예술적 척하는 껍데기에 속지 마라. 중요한 건 비주얼 연출의 정교함과 브랜드를 밀어붙이는 기획의 깡다구다. 쓸데없는 수식어로 포장할 시간에 프레임 한 장, 패키지 지질 하나에 실리는 밀도부터 점검하길 바란다.",
+  "session": {
+    "timestamp": "2026-10-15T23:06:59.034007",
+    "considered": 40,
+    "selected": 12
+  },
+  "topPicks": [
+    {
+      "title": "가나 해안 매립지에서 펼쳐지는 서사: 숏필름 TSUTSUƐ",
+      "content": "쓰레기 매립지와 바다가 교차하는 가나의 작은 마을을 배경으로, 상실과 고통을 겪는 어부의 두 아들을 다룬 감각적인 단편 영화다. 처절한 현실을 서정적이고 절제된 비주얼 연출로 포착했다.",
+      "url": "https://vimeo.com/channels/staffpicks/1233455330",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Amartei Armar",
+      "creator_insight": "비극적인 환경적 배경을 절제된 미장센과 날카로운 프레임 구도로 포착해 서사적 긴장감을 정점에 올려놓는다.",
+      "tags": [
+        "ShortFilm",
+        "Cinematography",
+        "Narrative"
+      ],
+      "execution_techniques": [
+        "#DocumentaryAesthetic",
+        "#RawLighting"
+      ],
+      "why": "다큐멘터리적 날것의 시선과 고도의 미학적 카메라 워크가 어떻게 완벽한 밸런스를 이루는지 보여주는 최고 수준의 숏필름 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://i.vimeocdn.com/video/2209133822-54c44d3bbe833d6191a7c3b0d55fd171ad4a7e8748b6890c8261b937010efd4e-d_960?region=us",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    },
+    {
+      "title": "2,000 프레임의 집착: 조안나 블레몽의 수작업 애니메이션",
+      "content": "일러스트레이터 조안나 블레몽이 2,000 프레임에 달하는 프레임 바이 프레임 애니메이션을 완성하기까지의 과정과 날카로운 드로잉 습작들을 공개했다. 상업 프로젝트와 개인적 집착 사이의 균형을 다룬다.",
+      "url": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-september-joanna-blemont-131026",
+      "source": "It's Nice That",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Joanna Blémont",
+      "creator_insight": "상업적 매끄러움 대신 불완전한 드로잉 텍스처를 수천 장 쌓아 올려 독보적인 움직임의 질감을 완성했다.",
+      "tags": [
+        "2DAnimation",
+        "Illustration",
+        "FrameByFrame"
+      ],
+      "execution_techniques": [
+        "#HandDrawnTexture",
+        "#FrameByFrame"
+      ],
+      "why": "디지털 공정의 매끄러움에 질린 크리에이터들에게 수작업 프레임이 주는 지독한 원시적 힘을 증명한다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://placehold.co/800x600/3f3f46/FFFFFF?text=It%27s%20Nice%20That%0A%28ART%29&font=playfair-display",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    },
+    {
+      "title": "Knats 'Bowling Ball' 뮤직비디오: 룰루 비체도미니의 감각적 연출",
+      "content": "연출가 룰루 비체도미니가 완성한 Knats의 'Bowling Ball' 뮤직비디오는 빠른 편집 리듬과 독특한 질감의 비주얼로 곡의 비트감을 시각화했다.",
+      "url": "https://www.promonews.tv/videos/2026/10/14/knats-bowling-ball-lulu-vicedomini/96405",
+      "source": "promonews.tv",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Lulu Vicedomini",
+      "creator_insight": "빠른 템포의 오디오 리듬을 정교한 비주얼 타격점과 칼같은 커팅 기술로 완전하게 동기화했다.",
+      "tags": [
+        "MusicVideo",
+        "Directing",
+        "Editing"
+      ],
+      "execution_techniques": [
+        "#RhythmicEditing",
+        "#VisualPunch"
+      ],
+      "why": "영상과 사운드의 정교한 타격점 연출이 어떻게 시청자에게 강렬한 직관적 자극을 주는지 보여주는 좋은 참고자료.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://admin.promonews.tv/sites/default/files/styles/bmvd_content_page/public/Knats%20Bowling%20Ball.png?itok=RJNfMLmY",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    },
+    {
+      "title": "터치디자이너 실전 가이드: 비주얼 인터랙션을 위한 그라디언트 셋업",
+      "content": "Circle과 Ramp 노드를 결합하여 미니멀하고 입체적인 그라디언트 원을 생성하는 터치디자이너 연출 튜토리얼이다. 인터랙티브 비주얼을 위한 기초 체력을 제공한다.",
+      "url": "https://medium.com/@wavvisual/touchdesigner-cookbook-03-top-circle-ramp-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B7%B8%EB%9D%BC%EB%94%94%EC%96%B8%ED%8A%B8-%EC%9B%90-b3399193aa72?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Wavvisual",
+      "creator_insight": "복잡한 파라미터 대신 노드 간의 핵심 연동 방식만을 선별해 그래픽 텍스처의 제어력을 극대화했다.",
+      "tags": [
+        "TouchDesigner",
+        "GenerativeArt",
+        "MotionGraphics"
+      ],
+      "execution_techniques": [
+        "#NodeBasedLogic",
+        "#ProceduralTexture"
+      ],
+      "why": "미디어 아트 및 모션 그래픽 디자이너가 실무 노드 셋업을 효율화할 수 있는 직관적인 스킬셋 제공.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn-images-1.medium.com/max/1512/1*jVbXp3y4EvF1SwOurNkv6A.png",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    },
+    {
+      "title": "남성용 용품에 이식된 군용 스펙의 기이한 디자인",
+      "content": "여성용 제품이 부드러운 패스텔과 스파 인테리어 톤을 채택하는 반면, 남성용 제품은 전술 장비나 산악자전거 쇼바를 연상시키는 무광 블랙 디자인을 채택하는 기이한 현상을 분석한다.",
+      "url": "https://www.reddit.com/r/Design/comments/1x6hh9h/why_do_mens_toys_like_the_tracys_dog_ones_look/",
+      "source": "Reddit /r/Design",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Reddit Design Community",
+      "creator_insight": "남성 타깃 제품 디자인에 타성적으로 적용되는 '밀리터리 스펙'이라는 왜곡된 디자인 문법을 조목조목 비판한다.",
+      "tags": [
+        "ProductDesign",
+        "Targeting",
+        "DesignCritique"
+      ],
+      "execution_techniques": [
+        "#TacticalAesthetic",
+        "#MatteBlackFinish"
+      ],
+      "why": "소비자 타깃팅에 대한 고정관념이 어떻게 진부하고 왜곡된 제품 외관을 만들어내는지 지적하는 날카로운 관점.",
+      "social_proof": "",
+      "depth": 0.82,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Reddit%20/r/Design%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    },
+    {
+      "title": "리모와 x 마이키타: 캐리어 소재 기술이 안경으로 전이되는 방식",
+      "content": "독일의 알루미늄 스펠리스트 리모와와 아이웨어 브랜드 마이키타가 협업하여 고도의 정밀 정밀 공학 미학을 안경 라인업에 이식한 독점 컬렉션을 공개했다.",
+      "url": "https://www.highsnobiety.com/p/mykita-x-rimowa-sunglasses-new/",
+      "source": "Highsnobiety",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Rimowa & Mykita Design Team",
+      "creator_insight": "대형 수화물 가방의 알루미늄 조형 및 가공 기술을 안경이라는 초소형 오브제의 구조 미학으로 압축 적용했다.",
+      "tags": [
+        "Collaboration",
+        "IndustrialDesign",
+        "LuxuryEyewear"
+      ],
+      "execution_techniques": [
+        "#PrecisionEngineering",
+        "#AluminumStructure"
+      ],
+      "why": "두 상이한 산업군의 마감 기술과 브랜드 헤리티지가 어떻게 단 하나의 프레임으로 정교하게 압축되는지 보여준다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Highsnobiety%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    },
+    {
+      "title": "3D 베이비와 미래적 타이포의 충돌: 포호다 페스티벌 리브랜딩",
+      "content": "디자인 스튜디오 Andrej & Andrej가 포호다 페스티벌 30주년을 맞아 기이한 3D 아기와 미래적인 전용 폰트를 활용한 유례없는 페스티벌 정체성을 공개했다.",
+      "url": "https://www.itsnicethat.com/articles/andrej-and-andrej-pohoda-festival-30th-anniversary-graphic-design-project-141026",
+      "source": "It's Nice That",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Andrej & Andrej",
+      "creator_insight": "안전한 록 페스티벌 그래픽 포맷을 버리고 불쾌한 골짜기를 유발하는 3D 그래픽과 실험적 타이포를 과감히 전면에 내세웠다.",
+      "tags": [
+        "VisualIdentity",
+        "3DGraphics",
+        "Typography"
+      ],
+      "execution_techniques": [
+        "#Surreal3D",
+        "#FuturisticTypeface"
+      ],
+      "why": "뻔한 락 페스티벌 키비주얼에서 벗어나 시각적 파격을 통해 유연하고 전위적인 브랜딩을 구축한 우수한 사례.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://admin.itsnicethat.com/images/2ktAQIpkYOem28UohqKyY1fSBpw=/283414/width-1440/andrej-andrej-pohoda-graphic-design-itsnicethat-13.jpg",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    },
+    {
+      "title": "Typodarium 2027: 매일 새로운 폰트를 마주하는 캘린더",
+      "content": "전 세계 타이포그래퍼들의 최신 폰트 365개를 매일 한 장씩 찢어 넘기는 아날로그 달력 형태로 수록한 Typodarium 2027 프로젝트가 발간되었다.",
+      "url": "https://www.slanted.de/typodarium-2027/",
+      "source": "Slanted",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Slanted Publishers",
+      "creator_insight": "디지털 스크린에서 벗어나 매일 한 장의 종이 질감과 아날로그 타입의 만져지는 실체를 경험하도록 설계함.",
+      "tags": [
+        "Typography",
+        "CalendarDesign",
+        "PrintCulture"
+      ],
+      "execution_techniques": [
+        "#PrintTactility",
+        "#DailyTypography"
+      ],
+      "why": "타이포그래피의 시각적, 촉각적 실체감을 디지털 환경 바깥에서 브랜드 아카이브로 승화시키는 방식.",
+      "social_proof": "2개 매체 동시 포착: there",
+      "depth": 0.87,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Slanted%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    },
+    {
+      "title": "카리브해의 항해 서사를 담은 세련된 럼 패키지 디자인",
+      "content": "OHG 스튜디오가 카리브해 항해의 역사와 서사를 고전적인 바다의 이미지에서 벗어나 세련되고 현대적인 럼 레이블 라인업으로 해석했다.",
+      "url": "https://retaildesignblog.net/2026/10/14/caribbean-sovereign-rum-by-ohg/",
+      "source": "Retail Design Blog",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "OHG Studio",
+      "creator_insight": "진부한 해적 상징성을 버리고 현대적이고 우아한 세리프 타이포와 엠보싱 정밀도로 우아함을 확보했다.",
+      "tags": [
+        "PackagingDesign",
+        "LiquorBranding",
+        "LabelDesign"
+      ],
+      "execution_techniques": [
+        "#EmbossedDetail",
+        "#ClassicTypography"
+      ],
+      "why": "지역적 전통이나 서사를 촌스럽지 않게 하이엔드 모던 패키지로 전환하는 레이아웃 감각.",
+      "social_proof": "2개 매체 동시 포착: there",
+      "depth": 0.84,
+      "image": "https://placehold.co/800x600/1c1917/FFFFFF?text=Retail%20Design%20Blog%0A%28SPATIAL%29&font=playfair-display",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    },
+    {
+      "title": "동화적 서사를 입힌 와일드 레이디 에그의 패키징",
+      "content": "평범하기 짝이 없는 식자재인 계란에 잔혹동화 같은 일러스트레이션 패키지를 입혀 단숨에 프리미엄 오브제로 변모시킨 패키지 디자인 사례.",
+      "url": "https://thedieline.com/wild-lady-eggs-gives-the-humble-egg-a-fairy-tale-ending/",
+      "source": "The Dieline",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Wild Lady Eggs Creative Team",
+      "creator_insight": "최저가 경쟁에 내몰리기 쉬운 일산 소비재에 강력한 픽션 서사를 결합해 브랜드 가치를 단숨에 끌어올림.",
+      "tags": [
+        "FMCGBranding",
+        "Packaging",
+        "Illustration"
+      ],
+      "execution_techniques": [
+        "#StorytellingPackaging",
+        "#FairyTaleIllustration"
+      ],
+      "why": "평범한 저관여 상품을 고관여 아이템으로 인식을 전환시키는 스토리텔링 기반 패키징의 힘.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://thedieline.com/wp-content/uploads/2026/10/WildLady_Thumbnail-Portfolio_-cbb369f4eebf2f615297be3f897243fe-scaled-1.jpg",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    },
+    {
+      "title": "차용된 역사: 작가 탕슈오의 정체성 모색",
+      "content": "중국 출신 작가 탕슈오의 개인전 'Borrowed History'는 역사적 도상과 개인적 서사를 캔버스 위에 거친 유화 질감과 다층 레이어로 쌓아올린 작품군을 선보인다.",
+      "url": "https://www.booooooom.com/2026/10/08/borrowed-history-by-artist-tang-shuo/",
+      "source": "Booooooom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Tang Shuo",
+      "creator_insight": "서양 미술사와 동양적 기억의 조각들을 의도적인 질감의 불일치로 마찰시켜 묘한 서사적 분위기를 연출.",
+      "tags": [
+        "FineArt",
+        "OilPainting",
+        "TextureLayering"
+      ],
+      "execution_techniques": [
+        "#LayeredTexture",
+        "#Iconography"
+      ],
+      "why": "단순한 이미지의 나열이 아니라 비주얼의 표면 질감을 겹겹이 배치하는 방식이 공간에 선사하는 서사적 깊이.",
+      "social_proof": "",
+      "depth": 0.83,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/10/Tang1.jpg",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    },
+    {
+      "title": "경험 중심의 브랜딩: 오프라인 이벤트가 강력한 이유",
+      "content": "디지털 매체가 무한 재배포되는 환경일수록 신뢰와 각인을 선사하는 물리적 장소 구축과 오프라인 마케팅, 콜라보레이션 이벤트의 중요성을 지적한다.",
+      "url": "https://designspotter.com/why-events-matter-more-than-ever-the-power-of-placemaking-influencer-experiences-brand-collaborations/",
+      "source": "Unknown Source",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Designspotter Editorial",
+      "creator_insight": "화면 속 스크롤에 불과한 피로한 콘텐츠 대신, 체감 가능한 공간 미학을 브랜딩의 최전선으로 내세운 분석.",
+      "tags": [
+        "BrandExperience",
+        "Placemaking",
+        "OfflineStrategy"
+      ],
+      "execution_techniques": [
+        "#SpatialExperience",
+        "#PhysicalTouchpoint"
+      ],
+      "why": "디지털 피로에 지친 소비자에게 오프라인 공간 및 물리적 접점이 왜 핵심 전략이 되는지 입증하는 정교한 시각.",
+      "social_proof": "",
+      "depth": 0.81,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Unknown%20Source%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "프링글스 유골함: 칩 통 속에 묻히고 싶은 팬들을 위한 바이럴 마케팅",
+      "content": "프링글스가 브랜드에 대한 극성 팬을 위해 자사의 시그니처 원통 칩 캔 형태의 실제 장례용 유골함을 제작해 선물하는 파격적 이벤트를 선보였습니다.",
+      "url": "https://thedieline.com/pringles-will-give-one-fan-a-special-urn-to-be-buried-in-its-a-pringles-can/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "ViralMarketing",
+        "GuerillaBranding"
+      ],
+      "why": "블랙 유머와 브랜드 아이콘을 극단까지 밀어붙여 소셜 미디어 폭발력을 끌어낸 마케팅의 정수.",
+      "depth": 0.5,
+      "image": "https://thedieline.com/wp-content/uploads/2026/10/Pringles-Urn-Hero-scaled.jpg",
+      "pub_date": "2026-10-16T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "노드 기반 비주얼",
+      "is_hot": true
+    },
+    {
+      "word": "전술 장비 미학",
+      "is_hot": false
+    },
+    {
+      "word": "아날로그 프레임 질감",
+      "is_hot": true
+    },
+    {
+      "word": "소재 기술의 구조적 전이",
+      "is_hot": false
+    },
+    {
+      "word": "물리적 장소 몰입",
+      "is_hot": true
+    },
+    {
+      "word": "스토리텔링 패키징",
+      "is_hot": false
+    }
+  ]
+}
