@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-17",
+  "focusQ": "에이전트의 사고: 매끄럽고 지루한 디자인 규격화를 거부하고 서사와 시각적 타격감이 선명한 영상 중심 콘텐츠를 우대 선정했다. 미학적 편의주의에 타협한 단순 건축 기사와 알맹이 없는 리포트는 전량 폐기했다. 브랜드의 생존은 오직 독자적인 시각 연출력과 단단한 서사 구조에서 증명된다.",
+  "creator_message": "큐레이터의 메시지: 허울 좋은 수식어로 포장된 디자인 미사여구에 속지 마라. 시장을 움직이는 건 미끈한 윤리관이 아니라 명확한 프레임 앵글과 서사적 긴장감이다. 오늘 컬렉션은 날카로운 렌즈 연출, 서브컬처적 미학, 그리고 에이전시의 엔터테인먼트적 체질 개선을 겨냥한 핵심 기획만을 집요하게 골라냈다.",
+  "session": {
+    "timestamp": "2026-10-16T22:53:47.989536",
+    "considered": 40,
+    "selected": 10
+  },
+  "topPicks": [
+    {
+      "title": "레바논의 문화적 기억을 재구성하는 아카이브 다큐멘터리 'Do You Love Me'",
+      "content": "감독 라나 다헤르(Lana Daher)의 데뷔 장편 다큐멘터리로, 레바논의 격동적인 역사 속에서 수집한 아카이브 영상과 음향을 결합해 국가적 기억을 시각적으로 재구성한다.",
+      "url": "https://filmmakermagazine.com/133997-do-you-love-me-reassembles-lebanons-cultural-memory/",
+      "source": "Filmmaker Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "라나 다헤르 (Lana Daher)",
+      "creator_insight": "파편화된 아카이브 풋티지를 날카로운 편집 호흡으로 조합해 역사적 비극을 감상주의 없이 차갑고 선명한 시각 몽타주로 승화시켰다.",
+      "tags": [
+        "아카이브몽타주",
+        "다큐멘터리 연출",
+        "시각기억"
+      ],
+      "execution_techniques": [
+        "Found Footage Editing",
+        "Rhythmic Soundscape Integration"
+      ],
+      "why": "단순한 역사 기록을 넘어 비디오 아카이브를 현대적 몽타주 기법으로 다루는 감각적인 시각 연출의 모범 답안이다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/07/do-you-love-me-940x400.jpg",
+      "pub_date": "2026-10-17T08:00:00.000000"
+    },
+    {
+      "title": "단편 영화 'Powder Room': 중독 탈출 후 첫 파티에서 벌어지는 서사적 긴장감",
+      "content": "에이든 아라타(Aiden Arata) 감독의 단편 영화로, 단주 중인 주인공 에마가 회복 후 처음 참석한 파티 화장실이라는 밀폐 공간에서 겪는 미묘한 심리적 균열과 관계의 동역학을 포착한다.",
+      "url": "https://tv.booooooom.com/2022/01/20/powder-room-by-aiden-arata/",
+      "source": "Booooooom TV",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "에이든 아라타 (Aiden Arata)",
+      "creator_insight": "제한된 공간 내에서 인물의 미세한 표정과 조명의 콘트라스트를 극대화해 인물의 불안한 내면을 밀도 높게 연출했다.",
+      "tags": [
+        "단편영화",
+        "밀폐공간 연출",
+        "심리프레임"
+      ],
+      "execution_techniques": [
+        "Claustrophobic Framing",
+        "Low-Key Lighting"
+      ],
+      "why": "공간의 제약을 극대화된 앵글과 숏 구성으로 극복하는 미니멀리즘 비주얼 연출법을 보여준다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://placehold.co/800x600/0f172a/FFFFFF?text=Booooooom%20TV%0A%28FILM%29&font=playfair-display",
+      "pub_date": "2026-10-17T08:00:00.000000"
+    },
+    {
+      "title": "블렌더 3D로 구현한 스파이더맨의 스케이팅 3D 애니메이션 숏폼 제작기",
+      "content": "3D 아티스트 통크(Tonq)가 블렌더를 활용해 스파이더맨이 도심 속에서 스케이트보드를 타는 역동적인 모션 커스텀과 카메라이동 기법을 다룬 비하인드 브레이크다운을 공개했다.",
+      "url": "https://80.lv/articles/see-how-you-can-make-a-blender-animation-of-spider-man-skating/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "통크 (Tonq)",
+      "creator_insight": "실제 스케이트보딩의 물리학적 궤적을 3D 애니메이션 카메라의 다이내믹 앵글과 매끄럽게 연결해 속도감을 정밀하게 설계했다.",
+      "tags": [
+        "3D애니메이션",
+        "블렌더모션",
+        "카메라워크"
+      ],
+      "execution_techniques": [
+        "Dynamic Camera Tracking",
+        "Stylized Physics Rigging"
+      ],
+      "why": "3D 모션 디자이너와 비디오 감독들에게 감각적인 앵글 워크와 캐릭터 라이딩 모션에 대한 실질적인 가이드를 제공한다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cdn.80.lv/api/upload/post/41972/images/6ad1e4e322b32/cover_800x800.jpg",
+      "pub_date": "2026-10-17T08:00:00.000000"
+    },
+    {
+      "title": "대니 보일의 걸작 '트레인스포팅' 30주년 기념 극장 재개봉",
+      "content": "90년대 오프비트 포스트펑크 미학의 정점이자 대니 보일 감독의 컬트 명작 '트레인스포팅'이 개봉 30주년을 맞아 극장에서 3일간 특별 상영된다.",
+      "url": "https://www.artribune.com/arti-performative/cinema/2026/10/trainspotting-danny-boyle-cinema-tre-giorni/",
+      "source": "Artribune",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "대니 보일 (Danny Boyle)",
+      "creator_insight": "스피디한 점프 컷, 기괴한 광각 렌즈 연출, 과감한 미장센으로 90년대 유스 컬처의 불안을 완벽한 시각 스타일로 조형했다.",
+      "tags": [
+        "시네마클래식",
+        "미장센",
+        "점프컷"
+      ],
+      "execution_techniques": [
+        "Wide-Angle Distortion",
+        "Rapid Kinetic Editing"
+      ],
+      "why": "현대 비디오 크리에이터들이 반드시 복기해야 할 패기 넘치는 시각 편집 호흡과 서브컬처 미학의 원형이다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://www.youtube.com/embed/bKrbNruyFVE",
+      "pub_date": "2026-10-17T08:00:00.000000"
+    },
+    {
+      "title": "덴츠의 전략적 전환: 엔터테인먼트를 브랜드 예산의 필수 요소로 정착시키다",
+      "content": "글로벌 광고 대행사 덴츠(Dentsu)가 전통적인 광고 매체 집행을 넘어 영화 및 엔터테인먼트 콘텐츠 제작 자체를 브랜드 마케팅 예산의 핵심 축으로 전환하는 청사진을 공개했다.",
+      "url": "https://digiday.com/marketing/inside-dentsus-plan-to-make-entertainment-a-part-of-every-brands-budget/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "덴츠 기획팀 (Dentsu Strategy Team)",
+      "creator_insight": "소비자가 건너뛰는 30초 광고 대신 소비자가 직접 찾아보는 엔터테인먼트 비디오 프랜차이즈에 브랜드의 자본을 침투시키는 대담함.",
+      "tags": [
+        "브랜드엔터테인먼트",
+        "캠페인전략",
+        "콘텐츠투자"
+      ],
+      "execution_techniques": [
+        "Branded Entertainment Integration",
+        "IP Co-Creation"
+      ],
+      "why": "더 이상 미디어 집행만으로는 소비자를 설득할 수 없는 마케터들에게 비디오 엔터테인먼트 연계 구조를 제시한다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Digiday%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-10-17T08:00:00.000000"
+    },
+    {
+      "title": "삭스 피프스 에비뉴, 파산 후 첫 홀리데이 캠페인 '주인공 에너지를 채우다'",
+      "content": "파산 보호 절차 이후 재기를 노리는 삭스 피프스 에비뉴가 럭셔리 소비 심리를 자극하기 위해 'Main Character Energy'를 테마로 내세운 극적인 비주얼 캠페인을 선보인다.",
+      "url": "https://www.retaildive.com/news/saks-fifth-avenue-holiday-campaign-main-character-energy-post-bankruptcy/832961/",
+      "source": "Retail Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "삭스 크리에이티브 팀 (Saks Creative Team)",
+      "creator_insight": "위기 상황일수록 차분함 대신 도도하고 화려한 자기중심적 서사를 비주얼 전면에 배치하여 럭셔리의 근본적 화려함을 직설적으로 어필했다.",
+      "tags": [
+        "럭셔리브랜딩",
+        "홀리데이캠페인",
+        "비주얼서사"
+      ],
+      "execution_techniques": [
+        "High-Gloss Fashion Cinematography",
+        "Dramatic Narrative Staging"
+      ],
+      "why": "위기에 처한 패션 리테일 브랜드가 어떻게 강력한 타깃 페르소나 미학을 내세워 반전을 도모하는지 보여준다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://imgproxy.divecdn.com/sEGkht6iL17kdphdURo5aMrA9hhsYcbJjaXMg5HNUT0/g:nowe:0:0/c:2399:1355/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TYWtzLUZpZnRoLUF2ZW51ZS1Ib2xpZGF5LUNhbXBhaWduLTIwMjYtSGVyby1TaG90LmpwZw==.webp",
+      "pub_date": "2026-10-17T08:00:00.000000"
+    },
+    {
+      "title": "유비소프트, 베를린 및 독일 스튜디오 인력 감축 논의",
+      "content": "게임 개발사 유비소프트가 구조조정의 일환으로 베를린, 뒤셀도르프, 마인츠 스튜디오에 걸쳐 약 100명의 인력을 감축하는 자발적 퇴직 프로그램을 제안했다.",
+      "url": "https://80.lv/articles/ubisoft-considers-reducing-its-workforce-in-germany-by-about-100-employees/",
+      "source": "80 Level",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "유비소프트 경영진 (Ubisoft Management)",
+      "creator_insight": "글로벌 콘텐츠 비즈니스의 거품이 꺼지며 발생한 조직 슬림화의 현실을 보여주는 거시적 산업 지표.",
+      "tags": [
+        "콘텐츠산업",
+        "독일게임씬",
+        "구조조정"
+      ],
+      "execution_techniques": [
+        "Corporate Downsizing Restructuring"
+      ],
+      "why": "유럽 미디어 비즈니스의 급격한 변동성을 확인하고 크리에이티브 지형의 재편을 읽을 수 있는 리포트다.",
+      "social_proof": "2개 매체 동시 포착: berlin",
+      "depth": 0.85,
+      "image": "https://cdn.80.lv/api/upload/post/41973/images/6ad1d327218ca/cover_800x800.jpg",
+      "pub_date": "2026-10-17T08:00:00.000000"
+    },
+    {
+      "title": "베를린 아트 위크 10월 이벤트 및 예술 공간 오픈 소식",
+      "content": "베를린 아트 링크가 주간 가이드를 통해 KW, 줄리아 스토셰크 재단, C/O 베를린 등 베를린 전역의 신규 오프닝과 미디어 아트 퍼포먼스를 조명한다.",
+      "url": "https://www.berlinartlink.com/2026/10/12/things-to-do-in-berlin-art-openings-performances-oct12-oct18-2026/",
+      "source": "Berlin Art Link",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "베를린 아트 링크 에디터 (Berlin Art Link Editors)",
+      "creator_insight": "날것의 산업 공간과 현대 미디어가 결합할 때 발생하는 독특한 베를린 특유의 기호학적 분위기 조율.",
+      "tags": [
+        "베를린아트",
+        "전시공간",
+        "미디어아트"
+      ],
+      "execution_techniques": [
+        "Industrial Space Curation",
+        "Site-Specific Exhibition Design"
+      ],
+      "why": "공간 디자이너와 전시 기획자들에게 최신 유럽 아트 씬의 공간 연출 트렌드를 실시간으로 전달한다.",
+      "social_proof": "2개 매체 동시 포착: berlin",
+      "depth": 0.87,
+      "image": "https://placehold.co/800x600/3f3f46/FFFFFF?text=Berlin%20Art%20Link%0A%28ART%29&font=playfair-display",
+      "pub_date": "2026-10-17T08:00:00.000000"
+    },
+    {
+      "title": "마가렛 하우엘, 런던 워크룸 공개: 정교한 셔츠 제작의 절제된 신전",
+      "content": "영국의 대표적인 디자이너 마가렛 하우엘이 런던 북부에 새롭게 오픈한 워크룸 공간을 탐방하며 브랜드의 철저한 질서와 장인정신이 배어난 시각적 공간 구조를 살펴본다.",
+      "url": "https://www.wallpaper.com/fashion-beauty/margaret-howell-london-workroom-tour",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "마가렛 하우엘 (Margaret Howell)",
+      "creator_insight": "과장된 장식을 완전히 배제하고 오직 기능적 정갈함과 빛의 질감만으로 브랜드 고유의 아틀리에 미학을 완성했다.",
+      "tags": [
+        "워크룸디자인",
+        "절제미학",
+        "브랜드아틀리에"
+      ],
+      "execution_techniques": [
+        "Minimalist Spatial Geometry",
+        "Natural Light Optimization"
+      ],
+      "why": "패션 및 공간 크리에이터들에게 브랜드 정체성이 작업 공간의 미학과 어떻게 접목되어야 하는지 보여주는 본보기다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cdn.mos.cms.futurecdn.net/DVEhXPSf5tUgzpJBBSachk-1920-80.jpg",
+      "pub_date": "2026-10-17T08:00:00.000000"
+    },
+    {
+      "title": "테이트 모던의 픽토리얼리즘 전시: 소프트 포커스 사진의 미학적 기원",
+      "content": "테이트 모던이 회화적 질감을 지향했던 초기 픽토리얼리즘 운동과 소프트 포커스 사진 기법을 조명하며 모더니즘 형성기의 정교한 초점 연출을 재해석한다.",
+      "url": "https://www.theartnewspaper.com/2026/10/16/tate-modern-exhibitions-explores-pictorialism-and-the-birth-of-soft-focus-photography",
+      "source": "The Art Newspaper",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "테이트 모던 큐레이터팀 (Tate Modern Curatorial Team)",
+      "creator_insight": "디지털의 과도한 선명도에 반기를 들고, 렌즈의 보이지 않는 산란을 활용해 오묘한 질감을 만들어낸 초기 사진가들의 시각적 장인정신.",
+      "tags": [
+        "소프트포커스",
+        "픽토리얼리즘",
+        "렌즈미학"
+      ],
+      "execution_techniques": [
+        "Soft-Focus Diffusion",
+        "Textural Lens Manipulation"
+      ],
+      "why": "최근 영상 및 사진 연출에서 빈티지 렌즈의 질감과 은은한 디퓨전 필터 연출이 왜 다시 부각되는지 미학적 근거를 제시한다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/f50009878932d05a34c6e6fd9ba3a43133501eab-2489x3254.jpg?w=140",
+      "pub_date": "2026-10-17T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "북유럽 씨앗 크리스프 'Jöey Nordic Seed Crisps': 패키지 식감 마케팅",
+      "content": "김과 타마리 간장 맛 등 강렬한 바삭함과 그래픽 패키징으로 시각과 식감을 자극하는 스낵 브랜드의 스낵컬처식 전략.",
+      "url": "https://coolhunting.com/buy/nordic-seed-crisps/",
+      "source": "coolhunting.com",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "패키지디자인",
+        "스낵마케팅"
+      ],
+      "why": "소비자의 식각적 자극을 시각 패키징으로 선명하게 치환한 유쾌한 패키지 마케팅 상표.",
+      "depth": 0.5,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/10/2EF10E2D-313F-4706-8B65-A682B693F304_1_201_a-768x768.jpeg",
+      "pub_date": "2026-10-17T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "아카이브 몽타주",
+      "is_hot": true
+    },
+    {
+      "word": "브랜드 엔터테인먼트",
+      "is_hot": true
+    },
+    {
+      "word": "소프트 포커스 렌즈미학",
+      "is_hot": false
+    },
+    {
+      "word": "주인공 서사 마케팅",
+      "is_hot": true
+    },
+    {
+      "word": "공간 절제미학",
+      "is_hot": false
+    }
+  ]
+}
