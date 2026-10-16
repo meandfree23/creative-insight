@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-10-15T23:06:59.034007",
     "considered": 40,
-    "selected": 12
+    "selected": 13
   },
   "topPicks": [
     {
@@ -295,6 +295,32 @@
       "depth": 0.81,
       "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Unknown%20Source%0A%28DESIGN%29&font=playfair-display",
       "pub_date": "2026-10-16T08:00:00.000000"
+    },
+    {
+      "title": "국유단, 형광 피규어와 생성형 AI 영상으로 전사자 귀환을 말하다 — '귀환작전' 캠페인",
+      "content": "국방부 유해발굴감식단(국유단)이 제78주년 국군의 날을 맞아 '국유단: 귀환작전(Operation Homecoming)' 캠페인을 선보였다. 스피어서울(구 서비스플랜코리아)이 기획·제작했고, 10월 1일부터 30일까지 서울 용산역 2번 출구 앞 도파민 스테이션 팝업 포토존에서 무료로 진행된다. 전시 벽면을 가득 채운 형광 연두색 군인 피규어가 '돌아온 영웅들'과 '돌아오지 못한 영웅들'로 나뉘어 각 전사자의 실제 전투 기록과 발굴·신원 확인 과정을 고증해 재현하고, 개별 QR코드로 '귀환작전보고'를 확인할 수 있다. 영상 제작에는 사우스폴의 생성형 AI 플랫폼 CRAISEE가 참여해 70여 년 전 전사자들이 처했던 상황을 시각적으로 재구성했다.",
+      "url": "https://www.brandbrief.co.kr/news/articleView.html?idxno=10422",
+      "source": "Brand Brief",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "스피어서울 (김은만 CD · 김현수 AD · 김민우 카피라이터)",
+      "creator_insight": "12만여 명이라는 숫자를 설명하는 대신, 피규어 하나하나를 '시간이 멈춘 개인'으로 치환해 무거운 전쟁·보훈 소재의 심리적 진입 장벽을 낮추고, QR코드로 개별 서사까지 끌고 가는 다단계 참여 설계가 핵심이다.",
+      "tags": [
+        "공공캠페인",
+        "참여형전시",
+        "보훈"
+      ],
+      "execution_techniques": [
+        "#GenerativeAIReenactment",
+        "#QRStorytelling",
+        "#FigurineAsNarrativeDevice"
+      ],
+      "why": "전쟁·국가유공 소재는 자칫 설명적이고 무거워지기 쉬운데, 친숙한 피규어 오브제로 접근장벽을 낮추고 AI 재현 영상·QR 개인 서사·DNA 시료 채취 캠페인까지 온오프라인 참여를 단계적으로 설계한 구조는 공공/브랜드 캠페인 양쪽에 참고할 만한 실행 레퍼런스다.",
+      "social_proof": "Brand Brief(2026-10-14)와 매드타임스(2026-10-14)가 용산역 도파민 스테이션 팝업(10월 1일~30일), 형광 피규어·AI 영상 활용, 스피어서울 제작진 구성을 동일하게 보도해 교차 확인.",
+      "depth": 0.85,
+      "image": "https://www.brandbrief.co.kr/news/photo/202610/10422_23792_355.png",
+      "pub_date": "2026-10-16T08:00:00.000000",
+      "agent_curated": true
     }
   ],
   "popcorn": [
