@@ -150,6 +150,11 @@
       "date": "2026-10-15",
       "status": "agent_added",
       "notes": "기계적 파이프라인이 2026-10-14 23:16 KST경 정상 생성 확인(data/daily/2026-10-15.json, topPicks 10건, considered 40). domain 분포 Cinema & Narrative 5/10(50%, known_bias_to_watch 재확인), Design & Space 2/10, Marketing & Brand 2/10, Korean Code 1/10(그레이존 아님 — 오픈서베이 블로그의 세이브더칠드런 CRM 사례는 한국 기업·대행사가 실제 소재라 정상 분류). 자가진단: social_proof 10건 전부 빈 문자열(오탐 0건, 2026-10-11 이후 3회 연속 깨끗함 — 코드 수정 없이 자연 개선인지 계속 관찰). URL 10건 점검 중 campaignlive.com(모건 앤 모건 기사) 1건만 403(2026-10-06부터 알려진 봇차단 목록 재확인, 새 버그 아님). 실제 리서치: 2026 서울디자인위크가 10월 14일 DDP에서 개막해 '디자인 레시피'를 주제로 25일까지 이어지는 사실(DDP디자인페어 국내 라이프스타일 브랜드 79개 참여, 홍익대-현대자동차 홈웰니스 로봇, 서울과기대-한국조폐공사 화폐 부산물 제품 등 산학협업 전시, 서울 5개 권역 150곳을 잇는 '서울 디자인 로드')을 연합뉴스(2026-10-14, 기자 현장 사진 포함)와 DDP 공식 행사 페이지(ddp.or.kr) 2개 소스로 교차 확인해 Design & Space 카테고리에 agent_curated:true로 추가. **편집 주의사항**: 같은 '서울디자인위크' 행사 내 '서울디자인어워드' 톱10/그랑프리(미국 'Otter Newborn Warmer' 선정)는 이미 2026-10-12 항목에서 다뤘으므로, 이번엔 어워드 관련 통계(91개국 1,204개 출품작 등)를 재언급하지 않고 DDP디자인페어·산학협업이라는 겹치지 않는 사실만 선별해 동일 메가이벤트 내 사실 중복을 피했다. session.selected 10→11."
+    },
+    {
+      "date": "2026-10-16",
+      "status": "agent_added",
+      "notes": "기계적 파이프라인이 2026-10-15 23:06 KST경 정상 생성 확인(data/daily/2026-10-16.json, topPicks 12건, considered 40). domain 분포는 Marketing & Brand 5/12(42%), Cinema & Narrative 4/12(33%), Design & Space 3/12, Korean Code 0/12 — Korean Code 라벨 공백 재발(최근 들쭉날쭉 패턴과 일치). 자가진단: URL 12건 전부 200 정상(medium.com도 오늘은 200 — 기존 watch_for_breakage 목록의 403 패턴이 상시는 아님을 재확인). social_proof 교차매칭 오탐이 신규 단어 'there'에서 2건 발생(기존 가설1: 제목 속 흔한 단어 매칭과 일치, 누적 15회 이상, 코드 수정은 사용자 승인 전까지 보류). creator_insight/why 문장은 항목별로 구체적이라 템플릿 반복 없음. 실제 리서치: 국방부 유해발굴감식단(국유단)이 제78주년 국군의 날을 맞아 선보인 '귀환작전(Operation Homecoming)' 캠페인(스피어서울 기획·제작, 10월 1~30일 용산역 도파민 스테이션 팝업, 형광 연두색 군인 피규어 전시+개별 QR 스토리텔링+사우스폴 CRAISEE 생성형 AI 재현 영상+유가족 DNA 시료 채취 캠페인)을 Brand Brief(2026-10-14)와 매드타임스(2026-10-14) 2개 매체 동일 보도로 교차 확인해 Korean Code 카테고리에 agent_curated:true로 추가, 오늘의 라벨 공백을 메움. session.selected 12→13. 전쟁·보훈이라는 무거운 공공 소재를 피규어(친숙한 오브제)+QR 개인 서사+AI 재현 영상으로 단계적 참여를 설계한 구조가 TVCF 연출자 관점에서 편집 가치가 높았음."
     }
   ],
   "editorial_decisions": [
@@ -163,10 +168,11 @@
     "**브랜드 뉴스 사이트 슬러그 변경으로 인한 깨진 링크 패턴**: brandinginasia.com(2026-10-14), 맥도날드 인도네시아 기사(2026-09-24)에 이어 두 번째로 URL 슬러그가 발행 후 변경되어 404가 나는 사례를 확인. 원문 검색으로 즉시 교체 가능해 심각한 문제는 아니나 계속 기록.",
     "**신규 버그 유형(2026-10-12)**: filmshortage.com 항목의 url 필드가 실제 기사가 아니라 'rp4wp_link'(Related Posts for WP 플러그인 AJAX 링크)로 채워져 404가 발생했다. 재발 시 fetch_ideas.py의 URL 추출 로직을 점검할 근거로 축적.",
     "lensculture.com이 2026-10-06, 10-07, 10-12에 'fetch failed'로 재현(3회). 10-14, 10-15에는 topPicks에 선택되지 않음 — 완전 차단은 아니고 간헐적 접속 실패로 보임, 계속 관찰.",
-    "social_proof 교차매칭 오탐이 2026-10-11 이후(10-12, 10-14, 10-15) 3회 연속 0건으로 깨끗했다. 버그 자체가 고쳐진 것은 아니나(코드 수정 없음), 최근 흐름이 바뀌었는지 좀 더 지켜볼 것 — 누적 14회 이상 재현 기록은 유효하며, 사용자 승인 시 fetch_ideas.py의 compute_cross_source_signals() 매칭 대상을 title 토큰(불용어 제외, 최소 길이 제한)으로만 한정하는 수정 제안은 계속 대기 중.",
+    "social_proof 교차매칭 오탐이 2026-10-16에 신규 단어 'there'로 재발(2026-10-11 이후 10-12/10-14/10-15 3회 연속 0건이었다가 다시 발생, 누적 15회 이상). 패턴이 완전히 사라진 건 아니고 날마다 들쭉날쭉한 것으로 재확인. 사용자 승인 시 fetch_ideas.py의 compute_cross_source_signals() 매칭 대상을 title 토큰(불용어 제외, 최소 길이 제한)으로만 한정하는 수정 제안은 계속 대기 중.",
     "Korean Code 그레이존 세 번째 변종(2026-10-11, 주우진/Woo Jin Joo 사례): 소재는 한국적이나 창작자 활동 기반·게재처는 서구. 판정 기준 명문화는 아직 미결.",
     "Korean Code/Design & Space 라벨 공백이 날마다 번갈아 재발하는 패턴(10-09, 10-11, 10-12, 10-14 등) — RSS 소스풀 자체의 도메인별 편중인지 누적 데이터로 계속 추적할 가치가 있음.",
     "Cinema & Narrative 50% 편중이 2026-10-15에도 재확인(known_bias_to_watch). 매일 보강 항목을 이 도메인에 쓰지 않는 것만으로는 구조적 해결이 안 되며, Architecture 쪽 소스 다양화가 필요할 수 있음.",
-    "Ask the Curator 위젯의 Vercel 함수가 GEMINI_API_KEY 쿼터를 GitHub Actions 파이프라인과 공유하지 않고 별도 키를 쓰는지 주기적으로 확인할 것."
+    "Ask the Curator 위젯의 Vercel 함수가 GEMINI_API_KEY 쿼터를 GitHub Actions 파이프라인과 공유하지 않고 별도 키를 쓰는지 주기적으로 확인할 것.",
+    "medium.com이 2026-10-16에는 403이 아니라 200을 반환함 — watch_for_breakage의 봇 차단이 상시가 아니라 간헐적임을 재확인(campaignlive.com/lensculture.com 패턴과 유사하게 계속 관찰 필요)."
   ]
 }
