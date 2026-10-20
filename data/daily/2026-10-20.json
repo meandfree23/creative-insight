@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-10-19T23:42:54.969571",
     "considered": 40,
-    "selected": 12
+    "selected": 13
   },
   "topPicks": [
     {
@@ -295,6 +295,32 @@
       "depth": 0.85,
       "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_best-of-week-2026-W42.jpg",
       "pub_date": "2026-10-20T08:00:00.000000"
+    },
+    {
+      "title": "블랙야크 'INVISIBLE WHITE': 오스트리아 산악구조대를 '하얀 산의 유령'으로 그린 언성 히어로 3부작",
+      "content": "한국 아웃도어 브랜드 블랙야크(강태선 회장)가 2026년 브랜드 캠페인 'INVISIBLE WHITE'를 공개했다. 오스트리아에서 실제로 활동 중인 산악구조대원 해나 콰템버(Hannah Quatember)를 주인공으로, 위기의 순간에 나타나 생명을 구하고 다시 눈 속으로 사라지는 구조대원을 '하얀 산의 유령'으로 그려낸다. 광활한 설원을 가로지르는 구조 활동과 전원이 하얗게 뒤덮이는 화이트아웃 장면을 실사로 담았고, 구조 임무의 긴박함뿐 아니라 자연과 밀착된 그녀의 일상까지 함께 비춘다. 이 캠페인은 올해 초 히말라야의 아이스폴닥터·셰르파·알피니스트를 다룬 'THIS IS HIMALAYAN', 여름 제주 해녀를 '바다의 셰르파'로 조명한 'STILL BLUE'에 이은 '언성 히어로(UNSUNG HERO)' 시리즈의 세 번째 편이다.",
+      "url": "https://www.prnewswire.com/news-releases/blackyak-unveils-invisible-white-brand-campaign-302900938.html",
+      "source": "PR Newswire",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "블랙야크 (강태선 회장 / BYN BLACKYAK Group)",
+      "creator_insight": "극한 환경에서 일하는 사람을 영웅적으로 과장하지 않고 '자연과 공존하는 일상인'으로 그리는 동일한 시선을, 무대만 히말라야(셰르파)→제주(해녀)→알프스(산악구조대)로 바꿔가며 한 해 동안 반복 변주하는 시리즈 기획력이 핵심이다.",
+      "tags": [
+        "브랜드필름",
+        "다큐멘터리연출",
+        "글로벌캠페인"
+      ],
+      "execution_techniques": [
+        "#WhiteoutCinematography",
+        "#RealProtagonistCasting",
+        "#CampaignUniverseBuilding"
+      ],
+      "why": "매번 새 소재를 찾아야 하는 단발성 브랜드 필름이 아니라, '언성 히어로'라는 하나의 세계관을 매 시즌 다른 지역·다른 직업군으로 확장해 브랜드 철학을 누적시키는 방식은 TVCF 연출자에게 캠페인 시리즈화가 브랜드 자산을 복리로 쌓는 구조를 보여주는 실행 레퍼런스다.",
+      "social_proof": "PR Newswire 공식 보도자료(2026-10-08) 외에 한국 인스타그램 광고 게시물과 네이버 블로그 리뷰에서도 1973년 종로 창립 배경, 오스트리아 산악구조대 소재, 'INVISIBLE WHITE' 캠페인명을 동일하게 확인.",
+      "depth": 0.84,
+      "image": "https://mmx.prnasia.com/media/MS2004022/20261007022840EDT_image_1.jpg?id=OA2991853&p=medium600",
+      "pub_date": "2026-10-20T08:00:00.000000",
+      "agent_curated": true
     }
   ],
   "popcorn": [
