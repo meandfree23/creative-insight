@@ -1,0 +1,356 @@
+{
+  "date": "2026-10-21",
+  "focusQ": "Agent's Thought: 상업적 클리셰에 매몰된 연출과 영혼 없는 3D 렌더링이 범람하는 시장이다. 시각적 밀도와 명확한 서사 구조가 결합된 프레임만이 브랜드의 생존을 보장한다. 오늘 선택한 레퍼런스들은 단순한 기술적 과시가 아닌 밀도 높은 감각적 통제력을 증명한다.",
+  "creator_message": "큐레이터의 메시지: 예술가 행세를 하는 얼치기 기획자들의 헛소리에 속지 마라. 매끄럽기만 한 비주얼은 아무런 기호학적 가치도 갖지 못한다. 프레임 내 긴장감, 텍스처의 정교함, 치밀한 서사 설계로 미학적 우위를 입증한 결과물만 엄선했다.",
+  "session": {
+    "timestamp": "2026-10-20T23:13:29.361383",
+    "considered": 40,
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "수잔 워코마의 신작 단편 'Dark Skin Bruises Differently': 흑인 아동의 성인화 현상을 다룬 날카로운 서사 연출",
+      "content": "배우 겸 감독 수잔 워코마가 연출한 단편 영화로, 사회적 편견과 미묘한 차별의 순간을 렌즈의 프레이밍과 연기 지도만으로 긴장감 있게 끌어올린 작품이다.",
+      "url": "https://directorsnotes.com/2026/10/20/susan-wokoma-dark-skin-bruises-differently/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Susan Wokoma",
+      "creator_insight": "워코마는 메시지를 직접적인 대사로 웅변하는 대신, 인물의 미세한 표정과 조명의 대비를 활용해 서사적 미학을 정교하게 구축한다.",
+      "tags": [
+        "단편영화",
+        "시네마틱연출",
+        "서사구조"
+      ],
+      "execution_techniques": [
+        "#DramaticLighting",
+        "#CloseUpFraming"
+      ],
+      "why": "단순한 사회적 메시지를 넘어 시네마틱 렌즈 워크와 프레임 구성이 어떻게 독창적인 서사적 몰입감을 형성하는지 보여주는 모범 사례.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/10/dark_skin_bruises_differently_03.jpg",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "스태시 & 모션그래퍼: 2026 모션 디자인 서베이 개시",
+      "content": "글로벌 모션 디자인 및 애니메이션 산업의 시각적 패러다임과 제작 스택의 변화를 정량적으로 조사하는 연례 리포트 프로그램이다.",
+      "url": "https://motionographer.com/news/stash-state-of-motion-survey-2026/",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Stash & Motionographer",
+      "creator_insight": "모션 그래픽 스튜디오와 디렉터들이 직면한 미학적, 기술적 변곡점을 포착하여 업계 표준을 다시 정의한다.",
+      "tags": [
+        "모션디자인",
+        "업계동향",
+        "영상트렌드"
+      ],
+      "execution_techniques": [
+        "#MotionAnalytics",
+        "#VisualStandard"
+      ],
+      "why": "유행하는 비주얼 스타일의 이면에 숨은 기술적 구조 변형과 제작 환경의 최신 표준을 파악하기 위한 필수 지표.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/stash-state-of-motion-survey-2026.png?fit=700%2C394&quality=80&ssl=1",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "숏 오브 더 위크의 서브스택 이적: 독립 단편 영화 큐레이션의 새로운 서사 체계",
+      "content": "세계 최고 수준의 단편 영화 플랫폼 숏 오브 더 위크가 소셜 미디어 플랫폼의 노이즈에서 벗어나 레터 중심의 기호학적 큐레이션으로 재편했다.",
+      "url": "https://www.shortoftheweek.com/news/short-of-the-week-joins-substack/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Short of the Week Editorial Board",
+      "creator_insight": "플랫폼 알고리즘의 유혹을 거부하고 긴 호흡의 필름 비평과 깊이 있는 영상 미학 추천 시스템을 선택했다.",
+      "tags": [
+        "단편영화",
+        "큐레이션",
+        "영상비평"
+      ],
+      "execution_techniques": [
+        "#EditorialCuration",
+        "#IndieCinema"
+      ],
+      "why": "도파민 중심 숏폼의 난립 속에서 시네마틱 연출 기법과 진짜 영상미를 선별해내는 큐레이터의 예리한 시선.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/10/tear.jpg",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "3D CAD 소프트웨어 플라스티시티 2026.2 출시: 곡률 분석 및 폴리스플라인 제어",
+      "content": "하드서페이스 3D 디자이너를 위한 플라스티시티의 새 업데이트로, 곡률 분석 셰이더와 커브 에디팅을 통해 디테일한 기하학적 연출을 가능하게 한다.",
+      "url": "https://80.lv/articles/3d-modeling-cad-software-plasticity-2026-2-has-been-released/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Plasticity Software Team",
+      "creator_insight": "CAD의 정확성과 artistic한 자유도를 조합하여 모션 디렉터가 3D 기하학적 구조를 미학적으로 제어할 수 있게 만든다.",
+      "tags": [
+        "3D모델링",
+        "CAD",
+        "모션그래픽"
+      ],
+      "execution_techniques": [
+        "#CurvatureAnalysis",
+        "#HardSurfaceModeling"
+      ],
+      "why": "3D 연출자와 모션 아티스트가 표면의 하이라이트와 곡률을 극한까지 제어할 수 있는 도구적 정밀성.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cdn.80.lv/api/upload/post/42005/images/6ad743eb9ac08/cover_800x800.jpg",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "신켈 파빌리온 'Projections Onto the East': 수행적 영상과 동유럽 시각 문화의 재구성",
+      "content": "베를린 신켈 파빌리온에서 열린 전시로, 신체적 움직임이 아닌 무빙 이미지와 언어의 행위성을 다루는 수행적 비디오 아트를 선보인다.",
+      "url": "https://www.berlinartlink.com/2026/10/16/projections-onto-the-east-schinkel-pavillon-nbk-exhibition-review/",
+      "source": "Berlin Art Link",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Jacob Zhicheng Zhang",
+      "creator_insight": "영상이 지닌 비판적 메커니즘을 공간 연출과 결합해 프레임 밖으로 확장되는 시네마틱 경험을 설계했다.",
+      "tags": [
+        "비디오아트",
+        "전시연출",
+        "수행적미학"
+      ],
+      "execution_techniques": [
+        "#SpatialProjection",
+        "#PerformativeVideo"
+      ],
+      "why": "스크린이라는 미디어의 한계를 넘어 공간과 비디오 프로젝션이 결합해 시각적 메시지를 증폭시키는 방식.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://placehold.co/800x600/3f3f46/FFFFFF?text=Berlin%20Art%20Link%0A%28ART%29&font=playfair-display",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "스튜디오 헤르스트룀: 신생 음반 레이블을 위한 밀크셰이크 칼라 팔레트와 번개 로고마크",
+      "content": "스웨덴의 스튜디오 헤르스트룀이 음악 레이블을 위해 도발적인 팝 컬러와 강렬한 심볼 기호학을 조합한 브랜드 아이덴티티를 구축했다.",
+      "url": "https://www.itsnicethat.com/articles/studio-herrstrom-milkshake-graphic-design-201026",
+      "source": "It's Nice That",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Studio Herrström",
+      "creator_insight": "기존 음악 업계의 뻔한 미니멀리즘을 거부하고, 시각적 충격을 주는 유쾌한 컬러 대비와 로고타입으로 아이덴티티를 완성했다.",
+      "tags": [
+        "브랜드아이덴티티",
+        "그래픽디자인",
+        "음반브랜딩"
+      ],
+      "execution_techniques": [
+        "#VibrantColorPalette",
+        "#StrikingLogomark"
+      ],
+      "why": "브랜드의 개성을 단 하나의 심볼과 색상 대비만으로 소비자에게 즉각 각인시키는 시각적 기호학.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://admin.itsnicethat.com/images/qJJd5hOLz2lykOGy0d8yb8_fiAc=/283653/width-1440%7Cformat-jpeg/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-1.png",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "마니피에스토의 페코페코 브랜딩: 3D 카와이 미학과 멕시코 위트의 결합",
+      "content": "멕시코시티 기반의 마니피에스토 스튜디오가 3D 풍선 형태의 레터링과 위트 있는 그래픽으로 독창적인 음식 브랜드 세계를 디자인했다.",
+      "url": "https://abduzeedo.com/inside-craft-peko-peko-branding-manifiesto/",
+      "source": "abduzeedo.com",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Manifiesto Studio",
+      "creator_insight": "3D 렌더링의 팽창된 볼륨감과 서브컬처적 유머를 결합하여 그래픽의 감각적 입체감을 극대화했다.",
+      "tags": [
+        "3D브랜딩",
+        "패키지디자인",
+        "캐릭터미학"
+      ],
+      "execution_techniques": [
+        "#3DBalloonLettering",
+        "#TactileGraphics"
+      ],
+      "why": "2D 평면 브랜딩을 넘어 3D 질감과 미학을 매력적인 브랜딩 언어로 전환한 훌륭한 시각 전략.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_79.jpg",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "인간의 주의력은 새로운 병목이다: 앤트로픽 연구가 시사하는 UX와 컨텐츠 디자인의 미래",
+      "content": "정보 생산 단가가 0에 수렴하는 시대에 디자이너와 기획자가 마주한 진짜 과제는 인간의 한정된 시각적 집중력을 통제하는 것이다.",
+      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Anthropic Research & UX Collective",
+      "creator_insight": "정보의 양이 아닌 정보의 자극 순서와 여백을 디자인함으로써 사용자의 주의 집중 시간을 확보하는 자원 관리 전략을 제시한다.",
+      "tags": [
+        "UX전략",
+        "주의력경제",
+        "브랜드기획"
+      ],
+      "execution_techniques": [
+        "#CognitiveArchitecture",
+        "#VisualHierarchy"
+      ],
+      "why": "말만 무성한 자극성 자극물을 넘어 기획자가 알아야 할 정교한 비주얼 위계 설정의 필수 이론.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "런던 리스닝 바 열풍: 사운드 아키텍처와 오디오필 문화의 공간적 이식",
+      "content": "런던에서 급성장하는 리스닝 바 트렌드를 조명하며, 사운드 시스템과 음향 자재가 브랜드의 하이엔드 공간 경험을 어떻게 좌우하는지 분석한다.",
+      "url": "https://www.wallpaper.com/travel/bars/what-makes-a-good-bar",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Wallpaper* Architecture Team",
+      "creator_insight": "청각적 요소라는 비시각적 경험을 최고급 목재 및 음향 인테리어 기호학으로 시각화하여 공간의 가치를 올렸다.",
+      "tags": [
+        "공간디자인",
+        "사운드인테리어",
+        "리스닝바"
+      ],
+      "execution_techniques": [
+        "#AcousticArchitecture",
+        "#TactileLighting"
+      ],
+      "why": "단순 시각 위주의 공간 디자인에서 벗어나 청각적 완성도를 공간의 미학적 정체성으로 승화시킨 리테일 케이스.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://cdn.mos.cms.futurecdn.net/6LedCZonvEC9wJaEiJGRm7-1920-80.jpg",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "투플라이의 주거 공간 프로젝트: 거주자의 삶을 구조화하는 공간 미니멀리즘",
+      "content": "한국 아파트의 정형화된 레이아웃에서 군더더기를 배제하고 수납의 질서와 동선의 절제를 실현한 주거 공간 디자인 프로젝트.",
+      "url": "https://www.designtwoply.com/works/residence/%ec%82%b6%ec%9d%98-%eb%b0%a9%ec%8b%9d%ec%9d%84-%eb%b0%94%ea%be%b8%eb%8a%94-%ec%a7%91-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%b6%ec%9d%84-%eb%94%94%ec%9e%90%ec%9d%b8%ed%95%a9%eb%8b%88%eb%8b%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2582%25b6%25ec%259d%2598-%25eb%25b0%25a9%25ec%258b%259d%25ec%259d%2584-%25eb%25b0%2594%25ea%25be%25b8%25eb%258a%2594-%25ec%25a7%2591-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%b6%ec%9d%84-%eb%94%94%ec%9e%90%ec%9d%b8%ed%95%a9%eb%8b%88%eb%8b%a4",
+      "source": "Unknown Source",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "디자인 투플라이 (Design Twoply)",
+      "creator_insight": "화려한 수식어를 배제하고 거주자의 일상적 행위를 정돈하는 차분한 마감과 면 분할로 국내 아파트의 공간적 한계를 넘어섰다.",
+      "tags": [
+        "한국인테리어",
+        "공간구조화",
+        "미니멀리즘"
+      ],
+      "execution_techniques": [
+        "#SpatialOrder",
+        "#FunctionalMinimalism"
+      ],
+      "why": "국내 주거 시장에서 기능적 질서와 미학적 단정함이 어떻게 일상의 시각적 노이즈를 줄여주는지 보여주는 실전 예시.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2025/04/홈페이지-썸네일사이즈아이파크.jpg",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "OD 포토 프라이즈 2026 수상작 발표: 신진 사진가들의 감각적 프레임과 비주얼 깊이",
+      "content": "오픈 도어즈 갤러리가 주관하는 OD 포토 프라이즈의 2026년 수상작들이 공개되었으며, 강렬한 피사체 구성과 빛의 질감을 담은 사진들이 선정되었다.",
+      "url": "https://opendoors.gallery/od-photo-prize-2026-winner-announced",
+      "source": "opendoors.gallery",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Open Doors Gallery Curation Team",
+      "creator_insight": "디지털 보정이 난립하는 환경에서 카메라의 스틸 프레임이 갖는 절제된 명암 대비와 질감 표현의 본질을 보여준다.",
+      "tags": [
+        "사진전시",
+        "비주얼에스테틱",
+        "파인아트"
+      ],
+      "execution_techniques": [
+        "#HighContrastLighting",
+        "#TexturalComposition"
+      ],
+      "why": "모든 스틸 컷이 영화의 단 한 장면처럼 기능하도록 컷을 정돈하는 시각적 구도 감각의 튜닝 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://placehold.co/800x600/3f3f46/FFFFFF?text=opendoors.gallery%0A%28ART%29&font=playfair-display",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "판타지 월드빌딩의 논리: 올리버 첸이 말하는 치밀한 가상 세계관의 구축 법칙",
+      "content": "아티스트 올리버 첸이 전하는 디테일한 월드빌딩 가이드로, 가상의 시각적 세계도 내부적 논리와 설정을 따라야 직관적 설득력을 가짐을 피력한다.",
+      "url": "https://www.creativebloq.com/how-to/every-part-of-a-fantasy-world-must-follow-its-own-clear-rules-and-logic",
+      "source": "Creative Bloq",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Oliver Chen",
+      "creator_insight": "시각적 화려함보다 중요한 것은 세계관 내부의 촘촘한 인과관계와 질서라는 기획적 원칙을 강조한다.",
+      "tags": [
+        "월드빌딩",
+        "컨셉아트",
+        "서사설계"
+      ],
+      "execution_techniques": [
+        "#WorldBuildingRules",
+        "#NarrativeConsistency"
+      ],
+      "why": "게임, 브랜드 유니버스, 시네마틱 기획에서 시각적 일관성을 부여하는 치밀한 서사적 뼈대 설계법.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cdn.mos.cms.futurecdn.net/KALigYVoJvyZbeFukqKDDj-1920-80.png",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "게임스컴 아시아 팩: PC 게임 6종 번들 할인 및 아트 디렉션 스낵",
+      "content": "인디 게임 6종을 합리적 가격에 묶어 제공하며 자선 단체를 후원하는 게임스컴 아시아의 컬처 스낵 번들.",
+      "url": "https://80.lv/articles/get-six-awesome-pc-games-for-usd9-99-with-the-gamescom-asia-bundle/",
+      "source": "80 Level",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "인디게임",
+        "아트디렉션"
+      ],
+      "why": "다양한 인디 게임의 유일무이한 비주얼 스타일과 그래픽 언어를 가볍게 훑어보기 좋은 스낵 참고 자료.",
+      "depth": 0.5,
+      "image": "https://cdn.80.lv/api/upload/post/41975/images/6ad1d961a684e/cover_800x800.jpg",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "축구: 아름다운 게임의 디자인 - 스포츠 그래픽과 팝컬처 전시",
+      "content": "축구 유니폼, 타이포그래피, 클럽 엠블럼의 시각 디자인 역사를 조명하는 기획 전시 리포트.",
+      "url": "http://smadani.com/football-designing-the-beautiful-game-exhibition/",
+      "source": "Unknown Source",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "스포츠디자인",
+        "팬덤브랜딩"
+      ],
+      "why": "스포츠 기호학이 팬덤의 그래픽 언어로 승화하는 과정을 가볍게 즐길 수 있는 비주얼 아이템.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Unknown%20Source%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-10-21T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "시네마틱 프레이밍",
+      "is_hot": true
+    },
+    {
+      "word": "주의력 설계",
+      "is_hot": true
+    },
+    {
+      "word": "3D 기호학",
+      "is_hot": true
+    },
+    {
+      "word": "사운드 아키텍처",
+      "is_hot": false
+    },
+    {
+      "word": "구조적 미니멀리즘",
+      "is_hot": false
+    }
+  ]
+}
