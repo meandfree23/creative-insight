@@ -5,7 +5,7 @@
   "session": {
     "timestamp": "2026-10-20T23:13:29.361383",
     "considered": 40,
-    "selected": 14
+    "selected": 15
   },
   "topPicks": [
     {
@@ -295,6 +295,31 @@
       "depth": 0.9,
       "image": "https://cdn.mos.cms.futurecdn.net/KALigYVoJvyZbeFukqKDDj-1920-80.png",
       "pub_date": "2026-10-21T08:00:00.000000"
+    },
+    {
+      "title": "현대차그룹 '기프트카 플레이온', 2026 한국광고주대회 올해의 마케터상 브랜드 부문 수상",
+      "content": "현대자동차그룹의 유소년 스포츠단 지원 캠페인 '기프트카 플레이온'이 1인칭 시점 촬영 기법의 캠페인 영상과 퀴즈·댓글 참여형 이벤트로 2026 한국광고주대회(10월 22일, 서울 더 웨스틴 조선호텔) 올해의 마케터상 브랜드 부문을 수상했다.",
+      "url": "https://biz.heraldcorp.com/article/10900484",
+      "source": "The Herald Business",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "현대자동차그룹 PR기획팀",
+      "creator_insight": "사회공헌이라는 무거운 메시지를 일방적 홍보 영상이 아니라 1인칭 몰입 연출과 퀴즈·댓글 참여형 이벤트로 다단계 체험시켜, 메시지 전달을 넘어선 참여 설계로 완성했다.",
+      "tags": [
+        "CSR캠페인",
+        "브랜드마케팅",
+        "유소년스포츠"
+      ],
+      "execution_techniques": [
+        "#FirstPersonPOV",
+        "#ParticipatoryCampaign"
+      ],
+      "why": "선의의 메시지를 전달에서 멈추지 않고 1인칭 시점 촬영과 체험형 이벤트로 확장해 광고주들이 직접 뽑은 '올해의 마케터'로 인정받은 설계 전략.",
+      "social_proof": "Herald Business(2026-10-13, 수상 발표)와 Autoview(2025-08-07, 캠페인 연출 기법)가 동일 캠페인의 수상 사실과 1인칭 시점 촬영 기법을 각각 확인.",
+      "depth": 0.85,
+      "image": "https://cdn.www.autoview.co.kr/w1200/q100/f_jpg/article-images/202508/96675_217539_538.jpg",
+      "pub_date": "2026-10-13T09:15:00.000000",
+      "agent_curated": true
     }
   ],
   "popcorn": [
