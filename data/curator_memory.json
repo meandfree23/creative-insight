@@ -6,7 +6,7 @@
   },
   "taste_profile": {
     "editorial_dna": "화려한 수사와 감성적 포장보다 실제 연출 기법, 데이터 근거, 크로스보더/크로스소스 신호를 우선한다. '진짜 인사이트'는 카테고리 템플릿 문장이 아니라 사건마다 다른 구체적 관찰이어야 한다.",
-    "known_bias_to_watch": "일일 큐레이션 프롬프트가 Cinema & Narrative에 강한 가중치를, Architecture에는 페널티를 부여하도록 고정되어 있다 (2026-09-18 확인). 매 실행마다 이 편향이 실제 그날의 문화적 중요도를 왜곡하지 않는지 점검한다. (2026-09-30 관찰: 오늘은 Cinema&Narrative/Design&Space/Marketing&Brand 각 4건, Korean Code 2건으로 최근 중 가장 균등한 분포였음 — 편중이 매일 고정된 것은 아니라는 반증 사례로 기록.)",
+    "known_bias_to_watch": "일일 큐레이션 프롬프트가 Cinema & Narrative에 강한 가중치를, Architecture에는 페널티를 부여하도록 고정되어 있다 (2026-09-18 확인). 매 실행마다 이 편향이 실제 그날의 문화적 중요도를 왜곡하지 않는지 점검한다. (2026-09-30 관찰: 오늘은 Cinema&Narrative/Design&Space/Marketing&Brand 각 4건, Korean Code 2건으로 최근 중 가장 균등한 분포였음 — 편중이 매일 고정된 것은 아니라는 반증 사례로 기록.) (2026-10-21 관찰: 오늘은 Cinema & Narrative 6/12=50%로 최근 중 가장 심한 편중이었음 — 날마다 들쭉날쭉하다는 기존 결론과 일치, 보강 항목은 Marketing & Brand에 배치해 완화 시도.)",
     "source_language_goal": "125→133개 소스 중 여전히 서구 소스 비중이 높다 (DESIGN 카테고리 63/125). 매일 최소 1건은 한국어 소스 또는 한국 관련 소재로 보강해 Korean Code 카테고리의 실질을 채운다."
   },
   "source_quality_notes": {
@@ -160,6 +160,11 @@
       "date": "2026-10-20",
       "status": "agent_added",
       "notes": "기계적 파이프라인이 2026-10-19 23:42 KST경 정상 생성 확인(data/daily/2026-10-20.json, topPicks 12건, considered 40). domain 분포 Cinema & Narrative 4/12(33%), Marketing & Brand 4/12(33%), Design & Space 3/12(25%), Korean Code 1/12(8%)로 특정 도메인 심한 편중은 없었음. 자가진단: URL 12건 전부 200 정상(깨진 링크 없음), creator_insight/why 문장은 항목별로 구체적이라 템플릿 반복 없음. social_proof 교차매칭 오탐이 오늘도 2건 재현 — 'design, designers'(UX Collective 기사)와 'november'(Nicer Tuesdays 11월 세션 기사)로, 둘 다 기존 가설1(제목 속 흔한 단어 매칭)과 일치(누적 16회 이상, 코드 수정은 사용자 승인 전까지 보류). **Korean Code 그레이존 재확인**: 오늘 유일한 Korean Code 항목(blog.naver.com, '나라하라 잇코'의 렌즈를 다룬 사진인문학 글)을 확인한 결과 나라하라 잇코는 일본 사진작가로, 한국어 소스이나 소재는 일본 사진가라 또다시 '한국어 소스이나 소재 무관'형 그레이존이었다(2026-09-24 베를린, 2026-09-25 파리, 2026-10-08 런던 GDIF에 이은 5번째 변종) — 오늘 기계적 파이프라인의 진짜 한국 관련 콘텐츠는 0건. 실제 리서치: 블랙야크(강태선 회장)의 2026 브랜드 캠페인 'INVISIBLE WHITE'(오스트리아 실제 산악구조대원 해나 콰템버를 '하얀 산의 유령'으로 그린 필름, 히말라야 셰르파를 다룬 'THIS IS HIMALAYAN'→제주 해녀를 다룬 'STILL BLUE'에 이은 '언성 히어로' 시리즈 3부작)을 PR Newswire 공식 보도자료(2026-10-08)와 한국 인스타그램 광고 게시물, 네이버 블로그 리뷰로 교차 확인해 Korean Code 카테고리에 agent_curated:true로 추가, 오늘의 라벨 공백을 진짜 한국 콘텐츠로 메움. session.selected 12→13. **편집 판단 메모**: 이 항목은 소재(오스트리아 구조대원)가 한국과 무관해 보일 수 있으나, 캠페인의 기획·제작·브랜드 철학이 전부 한국 기업(블랙야크) 주도이고 한국 기업이 자사 철학을 세계 무대로 확장한 사례라는 점에서, 2026-10-09 제안한 'Korean Code 자격 기준(크리에이티브 콘텐츠의 기획/연출이 한국과 직접 관련되어야 함)'을 충족하는 것으로 판단했다 — 기존 그레이존(해외 소재를 그냥 한국어로 번역/review만 한 경우)과는 구별되는 '한국 기업이 만든 글로벌 콘텐츠'형 정상 사례로 기록."
+    },
+    {
+      "date": "2026-10-21",
+      "status": "agent_added",
+      "notes": "기계적 파이프라인이 2026-10-20 23:13 KST경 정상 생성 확인(data/daily/2026-10-21.json, topPicks 12건, considered 40). domain 분포 Cinema & Narrative 6/12(50%, known_bias_to_watch 재확인 — 최근 중 가장 심한 편중), Marketing & Brand 3/12, Design & Space 2/12, Korean Code 1/12. 자가진단: URL 12건 전부 200 정상(깨진 링크 없음), social_proof 12건 전부 빈 문자열(교차매칭 오탐 0건, 날마다 들쭉날쭉한 기존 패턴과 일치), creator_insight/why 문장은 항목별로 구체적이라 템플릿 반복 없음. Korean Code 유일 항목(designtwoply.com, 국내 주거공간 디자인 프로젝트)은 그레이존이 아니라 실제 한국 소재/게재처 — 2026-10-20까지 5회 누적됐던 그레이존 패턴이 오늘은 재현되지 않음. 실제 리서치: 현대자동차그룹의 유소년 스포츠단 지원 캠페인 '기프트카 플레이온'(1인칭 시점 촬영 캠페인 영상 + 퀴즈·댓글 참여형 이벤트)이 2026 한국광고주대회(10월 22일) 올해의 마케터상 브랜드 부문을 수상한 사실을 The Herald Business(2026-10-13, 수상 발표)와 Autoview(2025-08-07, 캠페인 연출 기법 원문) 2개 매체 교차 확인해 Marketing & Brand 카테고리에 agent_curated:true로 추가, Cinema & Narrative 편중 완화에 일부 기여. session.selected 14→15. 커밋 및 GitHub Contents API 검증 완료."
     }
   ],
   "editorial_decisions": [
@@ -169,6 +174,7 @@
     "2026-09-21: Taste DNA 버그, 강제 볼륨 규칙은 사용자가 명시적으로 수정을 승인하여 반영 완료. 더 이상 '보류 항목' 아님."
   ],
   "open_questions_for_next_run": [
+    "**Korean Code 그레이존 비재현(2026-10-21)**: 2026-09-24부터 5회 누적되던 '한국어 소스이나 소재 무관' 그레이존이 오늘은 재현되지 않음(designtwoply.com 국내 주거 프로젝트는 실제 한국 소재). 그레이존이 상시가 아니라 소스 뽑기에 따라 들쭉날쭉함을 보여주는 반증 사례로 기록.",
     "**Korean Code 그레이존 5번째 변종(2026-10-20)**: 한국어 소스이나 소재가 완전히 무관한 외국 인물(이번엔 일본 사진작가 나라하라 잇코)을 다룬 네이버 블로그 글이 Korean Code로 분류됨. 베를린/파리/런던 GDIF에 이은 5번째 사례로, 이 그레이존 유형이 가장 빈번하게 재발하는 패턴임이 거의 확정적. 사용자 승인 시 fetch_ideas.py의 Korean Code 분류 프롬프트에 '게재 언어가 아니라 소재/기획 주체가 한국과 직접 관련되어야 함'을 명시하는 수정이 필요.",
     "**Korean Code 판정 기준 적용 사례(2026-10-20, 긍정적 선례)**: 블랙야크 'INVISIBLE WHITE'처럼 소재(오스트리아 산악구조대)는 해외이지만 기획·브랜드 주체가 한국 기업인 경우는 Korean Code로 인정 — 2026-10-09 제안한 '기획/연출 주체가 한국과 직접 관련' 기준과 일치. 향후 유사 사례(한국 기업의 글로벌 캠페인) 판단 시 이 선례를 참고할 것.",
     "social_proof 교차매칭 오탐이 2026-10-20에도 'design, designers'/'november' 2건 재발(누적 16회 이상). 패턴이 완전히 사라진 적 없음. 사용자 승인 시 fetch_ideas.py의 compute_cross_source_signals() 매칭 대상을 title 토큰(불용어 제외, 최소 길이 제한)으로만 한정하는 수정 제안은 계속 대기 중.",
@@ -177,7 +183,6 @@
     "**신규 버그 유형(2026-10-12)**: filmshortage.com 항목의 url 필드가 'rp4wp_link'(Related Posts for WP 플러그인 AJAX 링크)로 채워져 404. 재발 시 fetch_ideas.py의 URL 추출 로직 점검 근거로 축적.",
     "lensculture.com이 2026-10-06, 10-07, 10-12에 'fetch failed'로 재현(3회). 10-14 이후로는 topPicks에 선택되지 않아 추가 관찰 없음 — 완전 차단은 아니고 간헐적 접속 실패로 보임, 계속 관찰.",
     "Korean Code 그레이존 세 번째 변종(2026-10-11, 주우진/Woo Jin Joo 사례): 소재는 한국적이나 창작자 활동 기반·게재처는 서구. 판정 기준 명문화는 아직 미결.",
-    "Cinema & Narrative 편중은 2026-10-20엔 Marketing & Brand와 동률(33%)로 완화됐음 — known_bias_to_watch가 매일 고정은 아니라는 관찰이 계속 누적됨.",
     "Ask the Curator 위젯의 Vercel 함수가 GEMINI_API_KEY 쿼터를 GitHub Actions 파이프라인과 공유하지 않고 별도 키를 쓰는지 주기적으로 확인할 것."
   ]
 }
