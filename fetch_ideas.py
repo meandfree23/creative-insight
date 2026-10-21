@@ -22,21 +22,45 @@ def load_sources():
         return json.load(f)
 
 
-def compute_cross_source_signals(articles, min_sources=2, max_signals=12):
+def compute_cross_source_signals(articles, min_sources=2, max_signals=8):
     """
     Real (non-AI-guessed) zeitgeist signal detector.
-    Scans today's fetched article pool for keywords/proper-noun phrases that
-    appear in the title or summary of articles coming from at least
-    min_sources DIFFERENT feeds. This gives the curation LLM a grounded,
-    measurable "multiple independent sources are talking about this right now"
-    signal instead of letting it subjectively invent trend claims.
-    Note: relies on the 're' module already imported near the top of this file.
+    Extracts verified multi-source entities or specific campaign/brand events that
+    appear across at least min_sources independent feeds.
+    To eliminate false positives:
+    1. Generic single dictionary words (e.g., 'design', 'november', 'artist', 'there', 'beyond') are strictly banned.
+    2. Banned URL/base64 fragments or non-semantic tokens.
+    3. Candidates must be multi-word proper phrases (e.g., 'Milan Design Week', 'Apple Vision Pro')
+       that are NOT composed solely of generic industry vocabulary.
     """
     stopwords = set([
+        # Standard English Stopwords
         "the", "a", "an", "of", "in", "on", "for", "with", "and", "or", "to", "is",
-        "are", "how", "why", "new", "this", "that", "its", "it's", "best", "top",
-        "what", "from", "your", "you", "into", "more", "than", "just", "will",
-        "can", "not", "but", "has", "have", "his", "her", "our", "their",
+        "are", "was", "were", "how", "why", "what", "who", "when", "where", "which",
+        "new", "this", "that", "these", "those", "its", "it's", "best", "top",
+        "from", "your", "you", "into", "more", "than", "just", "will", "can", "not",
+        "but", "has", "have", "had", "his", "her", "our", "their", "they", "them",
+        "about", "after", "before", "over", "under", "all", "any", "some", "most", "every",
+        "each", "first", "last", "one", "two", "three", "life", "time", "year", "years",
+        "day", "days", "week", "weeks", "month", "months", "today", "daily", "look", "looks",
+        "make", "makes", "made", "making", "take", "takes", "took", "taking", "show", "shows",
+        "shown", "work", "works", "world", "open", "free", "good", "great", "real", "high",
+        "live", "even", "back", "still", "well", "down", "left", "right", "there", "here",
+        "beyond", "content", "nature", "guide", "series", "review", "update",
+        # Calendar / Months / Days
+        "january", "february", "march", "april", "may", "june", "july", "august",
+        "september", "october", "november", "december", "monday", "tuesday", "wednesday",
+        "thursday", "friday", "saturday", "sunday",
+        # Overly generic industry/category terms that trigger false-positive cross matches
+        "design", "designer", "designers", "designing", "art", "artist", "artists", "artwork",
+        "brand", "brands", "branding", "campaign", "campaigns", "creative", "creatives",
+        "studio", "studios", "visual", "visuals", "identity", "film", "films", "filmmaker",
+        "filmmakers", "cinema", "short", "shorts", "motion", "animation", "space", "spaces",
+        "spatial", "architecture", "architect", "architects", "interior", "exhibition",
+        "collection", "curated", "project", "projects", "future", "modern", "digital",
+        "edition", "awards", "award", "winner", "winners", "story", "stories", "house",
+        "home", "fashion", "product", "products", "technology", "tech", "video", "media",
+        "culture", "featured", "featuredvisual", "interview", "spotlight", "roundup", "digest", "weekly"
     ])
 
     term_sources = {}
@@ -44,16 +68,27 @@ def compute_cross_source_signals(articles, min_sources=2, max_signals=12):
 
     for a in articles:
         source = a.get("source") or a.get("source_name") or "?"
-        text = "{} {}".format(a.get("title", ""), (a.get("summary", "") or "")[:150])
-        candidates = re.findall(r"[A-Z][a-zA-Z0-9&']{2,}(?:\s+[A-Z][a-zA-Z0-9&']{2,}){0,2}", text)
+        title = a.get("title", "")
+        summary = (a.get("summary", "") or "")[:150]
+        # Clean text: remove HTML tags, URLs, base64 strings
+        clean_text = re.sub(r"https?://\S+|www\.\S+", "", f"{title} {summary}")
+        clean_text = re.sub(r"<[^>]+>", " ", clean_text)
+        clean_text = re.sub(r"[a-zA-Z0-9+/=]{20,}", " ", clean_text)  # remove base64 or long hashes
+        
+        # Multi-word proper noun phrases (e.g. "Seoul Design Week", "Apple Vision Pro", "Studio Drift")
+        candidates = re.findall(r"\b[A-Z][a-zA-Z0-9&']{2,}(?:\s+[A-Z][a-zA-Z0-9&']{2,}){1,2}\b", clean_text)
+        
         for raw in candidates:
-            key = raw.strip().lower()
-            if key in stopwords or len(key) < 4:
+            phrase = raw.strip()
+            tokens = [t.lower() for t in phrase.split()]
+            # If all tokens are stopwords or generic words, skip
+            if all(t in stopwords for t in tokens):
                 continue
+            key = phrase.lower()
             term_sources.setdefault(key, set()).add(source)
             examples = term_examples.setdefault(key, [])
             if len(examples) < 3:
-                examples.append(a.get("title", ""))
+                examples.append(title)
 
     signals = []
     for term, sources in term_sources.items():
@@ -283,7 +318,7 @@ def fetch_rss(sources):
                 for entry in feed.entries[:10]:
                     link = getattr(entry, "link", "").strip().lower()
                     title = getattr(entry, "title", "").strip().lower()
-                    if not link or link in seen_urls or link in batch_seen or title in seen_titles:
+                    if not link or "rp4wp_link" in link or "/wp-json" in link or "xmlrpc" in link or link in seen_urls or link in batch_seen or title in seen_titles:
                         continue
                     batch_seen.add(link)
                     
@@ -391,20 +426,22 @@ def generate_daily_insight(date_str, articles_subset):
     Curation Evaluation Formula:
     Score = (Trustworthiness + Relevance + Timeliness + Cinematic/Visual Quality + Marketing Insight + Originality) - Noise
     
-    CRITICAL PORTFOLIO WEIGHTING (USER REQUEST):
-    - EXTREMELY HIGH PRIORITY: "Cinema & Narrative" (Video, Film, Motion, Directing, Camera work). You MUST maximize the selection of moving image content.
-    - LOW PRIORITY: Traditional Architecture. Severely penalize pure architectural articles unless they have a phenomenal cinematic or video component.
+    CURATORIAL BALANCE & THEMATIC RULES:
+    - "Korean Code": CRITICAL REQUIREMENT
+      * MUST be created by Korean creators, design studios, agencies, or brands (e.g., Hyundai, Samsung, Gentle Monster, Korean film/video directors, domestic design studios) OR specifically executed within/for the Korean cultural/commercial landscape (e.g., domestic pop-ups, Korean typography, Seoul exhibitions).
+      * STRICT NEGATIVE FILTER: Simply being published in the Korean language (e.g., a Naver blog or domestic art webzine reviewing a Japanese photographer, Berlin exhibition, or London festival) DOES NOT QUALIFY as "Korean Code". Classify those by their true subject discipline ("Cinema & Narrative", "Design & Space", "Marketing & Brand").
+      * Whenever authentic Korean creative work is available in today's candidate pool, prioritize 1-2 sharp Korean Code picks to maintain domestic cultural relevance.
+    - "Cinema & Narrative":
+      * Moving images, directing craft, cinematic framing, motion design, camera work. Keep this prominent (~30-40% of topPicks) to satisfy visual depth, but maintain healthy room for other domains.
+    - "Design & Space":
+      * Architecture, spatial scenography, exhibition environments, physical materiality, typography, industrial/product design, UI/UX. (NEVER leave this at 0 if good space/design projects exist).
+    - "Marketing & Brand":
+      * High-concept campaigns, cultural activations, provocative brand strategy, visual identity, consumer psychology.
+    
     CRITICAL QUALITY RULE (NO FORCED VOLUME):
     - Select however many items in `topPicks` today's actual source material genuinely earns. This is typically 6 to 15, but can be fewer on a quiet day or more on an exceptional one. Do NOT pad the list with mediocre or generic picks just to hit a target count -- a quiet day with 6 razor-sharp picks beats 15 with filler forced in.
     - Still push yourself as a Senior CD to find the real creative angle in ordinary-seeming news before discarding it -- "no angle found yet" is different from "genuinely not worth including". Only discard after making that real attempt.
     - For `popcorn`, include 0 to 3 items -- only tools/links that are genuinely useful or fun today. An empty popcorn list is fine if nothing qualifies.
-    
-    THEMATIC TABS (CRITICAL RULE):
-    Instead of generic domains like DESIGN or ART, you MUST classify each article into one of the following highly specific curational themes for the "domain" field:
-    - "Korean Code" (Trends or insights deeply relevant to the Korean market or culture)
-    - "Cinema & Narrative" (Film, video, storytelling, camera work, directing)
-    - "Design & Space" (Architecture, spatial design, typography, UI/UX, product design)
-    - "Marketing & Brand" (Campaigns, brand strategy, consumer engagement)
     
     Sort and select items strictly by their evaluation score based on the following 6 criteria:
     1. Relevance & Importance: Why it is relevant to contemporary creators (왜 이 레퍼런스가 중요한지)
@@ -552,6 +589,27 @@ def process_date(target_date, sources=None):
         
     daily_json = generate_daily_insight(target_date, batch)
     if daily_json:
+        # Auto-Enrich images: replace placehold.co or empty images with real og:image from the article URL
+        for pick in (daily_json.get("topPicks") or []) + (daily_json.get("popcorn") or []):
+            img = pick.get("image", "")
+            if not img or "placehold.co" in img or "placeholder" in img:
+                real_url = pick.get("url", "")
+                if real_url and real_url.startswith("http"):
+                    try:
+                        headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+                        resp = requests.get(real_url, headers=headers, timeout=3)
+                        if resp.status_code == 200:
+                            soup = BeautifulSoup(resp.content, "html.parser")
+                            og_img = soup.find("meta", property="og:image")
+                            if not og_img:
+                                og_img = soup.find("meta", attrs={"name": "twitter:image"}) or soup.find("meta", attrs={"name": "image"})
+                            if og_img and og_img.get("content"):
+                                candidate_img = og_img.get("content").strip()
+                                if candidate_img.startswith("http"):
+                                    pick["image"] = candidate_img
+                    except Exception:
+                        pass
+
         os.makedirs(DAILY_DIR, exist_ok=True)
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(daily_json, f, ensure_ascii=False, indent=2)
