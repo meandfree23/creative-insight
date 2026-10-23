@@ -1,0 +1,329 @@
+{
+  "date": "2026-10-24",
+  "focusQ": "브랜드와 공간이 메시지를 가공하는 방식에서 날 선 시각적 밀도가 돋보이는 날이다. 타다오 안도의 건축적 기부부터 NFL의 파격적인 아트 엔드존까지, 미학은 어설픈 장식을 덜어내고 극단으로 밀어붙일 때 완성된다. 뻔한 기획안들에 던지는 날카로운 시각적 경고장이다.",
+  "creator_message": "어설픈 연출이나 알맹이 없는 레퍼런스는 전부 쳐냈다. 오직 압도적인 본질과 치밀한 연출 기획으로 브랜드 가치를 증명한 크리에이티브만 남겼다. 베끼기용 표피적 수집은 그만두고, 왜 이 구조와 앵글이 소비자의 감각을 흔드는지 뼈대를 파악해라.",
+  "session": {
+    "timestamp": "2026-10-23T23:10:45.424867",
+    "considered": 40,
+    "selected": 10
+  },
+  "topPicks": [
+    {
+      "title": "타다오 안도, 카가와 바다 위에 아동용 수상 도서관을 띄우다",
+      "content": "건축가 타다오 안도가 일본 카가와현에 직접 설계하고 기부한 수상 도서관 프로젝트. 선박 형태의 건축물 내부에 아동용 도서를 채워 바다 위에서 책을 읽는 독특한 공간 경험을 제공한다.",
+      "url": "https://spoon-tamago.com/tadao-ando-kagawa-floating-library/?utm_source=rss&utm_medium=rss&utm_campaign=tadao-ando-kagawa-floating-library",
+      "source": "Spoon & Tamago",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Tadao Ando",
+      "creator_insight": "특유의 노출 콘크리트 미학을 물성 고유의 정밀한 선과 결합하여, 유동적인 바다 위라는 극적인 환경 속에 엄숙하면서도 온화한 공간감을 연출했다.",
+      "tags": [
+        "타다오안도",
+        "수상건축",
+        "공공디자인"
+      ],
+      "execution_techniques": [
+        "#ArchitecturalSymmetry",
+        "#MaterialContrast"
+      ],
+      "why": "공공 건축이 지역 사회와 아이들에게 줄 수 있는 직관적 미학 선언이다. 브랜드 공간 기획 시 형태가 곧 메시지가 되는 본보기.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/09/tadao-ando-floating-library-1-200x141.jpeg",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    },
+    {
+      "title": "비트록사, 난초를 위해 시작된 스위스 시계공의 극단적 미니멀리즘 창호",
+      "content": "스위스 시계 제조업체 출신 인물이 난초 생육을 위한 미세 기후 조절용으로 개발했던 프레임리스 창호 브랜드 비트록사(Vitrocsa)의 비하인드 스토리. 완벽히 숨겨진 프레임으로 건축과 자연의 경계를 지워버린다.",
+      "url": "https://www.yellowtrace.com.au/vitrocsa-inventor-of-modern-minimalist-window-built-for-orchids/",
+      "source": "Yellowtrace",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Vitrocsa",
+      "creator_insight": "스위스 정밀 공학 메커니즘을 건축 프레임워크에 이식해 프레임을 최소화함으로써 레이아웃의 극단적 미학을 도출해냈다.",
+      "tags": [
+        "비트록사",
+        "건축디자인",
+        "미니멀리즘"
+      ],
+      "execution_techniques": [
+        "#InvisibleFraming",
+        "#PrecisionEngineering"
+      ],
+      "why": "디자인에서 요소를 '채우는 것'보다 '완벽히 숨기는 기술'이 얼마나 더 고차원의 사치인지 증명하는 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/10/06203815/Yellowtrace_MCK_Sunrise-House_Photo-Michael-Nicholson.jpeg",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    },
+    {
+      "title": "보리스 아켓, 암스테르담 댄스 이벤트에서 선보인 거대 키네틱 스펙터클",
+      "content": "아티스트 보리스 아켓이 암스테르담 중앙 마켓홀에 설치한 사상 최대 규모의 'Einder' 설치 작품. 공중에 떠 있는 거대한 캔버스가 자연의 바람과 기류 메커니즘에 따라 유기적으로 안무하듯 움직인다.",
+      "url": "https://www.highsnobiety.com/p/boris-acket-is-losing-control-by-design/",
+      "source": "Highsnobiety",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Boris Acket",
+      "creator_insight": "통제할 수 없는 자연의 물리 법칙을 정교하게 계산된 조명 및 공기역학 시스템과 연동시켜 우연성을 극대화한 미학을 완성했다.",
+      "tags": [
+        "보리스아켓",
+        "키네틱아트",
+        "공간설치"
+      ],
+      "execution_techniques": [
+        "#KineticSculpture",
+        "#AtmosphericLighting"
+      ],
+      "why": "공간 무대 연출에서 정적인 구조물을 넘어 동적인 물리적 제스처가 관객의 감각을 어떻게 압도하는지 보여준다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1792690095-e1.jpg",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    },
+    {
+      "title": "르 푸아송 볼랑: 파리의 붉은 조명 레스토랑이 나이트클럽으로 변신하는 순간",
+      "content": "옛 파리 음악 공연장을 개조한 클라브(Claves) 스튜디오의 주재로 탄생한 '르 푸아송 볼랑'. 미러 소재와 붉은 조명을 활용해 식사 공간이 늦은 밤 가변적으로 나이트클럽으로 전환되는 공간 시나리오를 구성했다.",
+      "url": "https://www.designboom.com/architecture/le-poisson-volant-red-restaurant-paris-nightclub-claves-france/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Studio Claves",
+      "creator_insight": "단순한 조명 컬러 체인지를 넘어 거울의 반사율과 조도 변화만으로 상업 공간의 페르소나를 완전히 반전시키는 공간 가변성을 설계했다.",
+      "tags": [
+        "공간디자인",
+        "파리인테리어",
+        "가변공간"
+      ],
+      "execution_techniques": [
+        "#ChiaroscuroLighting",
+        "#SpatialTransformation"
+      ],
+      "why": "하나의 공간에서 두 개의 서로 다른 브랜드 경험을 매끄럽게 교체하는 상업적 공간 기획의 스펙트럼을 보여준다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/le-poisson-volant-restaurant-paris-designboom-700-500x400-22b08q85r989.jpg",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    },
+    {
+      "title": "발렌티나 시니스, 쿠르드 여성 부대의 비밀 동굴 속 기록 '마지막 나비들'",
+      "content": "사진작가 발렌티나 시니스가 여성방위부대(HPJ) 쿠르드 여성 전사들의 비밀 동굴 주거지 내부를 다큐멘터리 사진으로 기록한 프로젝트. 혁명의 혹독함 속에서 피어나는 연대와 일상의 리추얼을 절제된 시선으로 담아냈다.",
+      "url": "https://www.lensculture.com/articles/valentina-sinis-the-last-butterflies",
+      "source": "LensCulture",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Valentina Sinis",
+      "creator_insight": "자연광이 제한된 극단적 환경에서 인물의 표정과 미세한 오브제 질감에 집중해, 자극적인 전쟁 서사 대신 정서적 무게감을 극대화한 비주얼 톤을 설정했다.",
+      "tags": [
+        "다큐멘터리사진",
+        "렌즈컬처",
+        "비주얼서사"
+      ],
+      "execution_techniques": [
+        "#ChiaroscuroPortraits",
+        "#RawDocumentary"
+      ],
+      "why": "피사체를 다루는 프레임의 깊이와 절제된 톤앤매너가 피사체의 본질적인 무게감을 어떻게 끌어올리는지 입증한다.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://images.lensculture.com/image/0e3cab44-faf4-4812-d74d-7d2bb268e600/large",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    },
+    {
+      "title": "완가리 마텡게, 1960년대 케냐의 패러다임 전환을 담아낸 강렬한 구상 회화",
+      "content": "화가 완가리 마텡게가 1960년대 탈식민지화 시기 케냐의 사회적, 문화적 변혁을 화려한 색채와 패턴이 어우러진 구상 회화 시리즈로 재구성했다. 역사적 서사를 개인의 거실 공간으로 끌어들인 인테리어 세팅이 돋보인다.",
+      "url": "https://www.thisiscolossal.com/2026/10/wangari-mathenge-remembering-paintings-kenya-1960s/",
+      "source": "Colossal",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Wangari Mathenge",
+      "creator_insight": "패턴이 강렬한 직물 요소와 미장센 배치를 통해 2차원 화폭 위에 아날로그 시대의 서사적 분위기와 레이어를 입체적으로 구축했다.",
+      "tags": [
+        "완가리마텡게",
+        "구상회화",
+        "미장센"
+      ],
+      "execution_techniques": [
+        "#PatternJuxtaposition",
+        "#SaturatedPalette"
+      ],
+      "why": "색채와 패턴의 과감한 레이어링이 어떻게 인물의 서사적 맥락과 분위기를 지배하는지 참고할 수 있는 비주얼 필름 가이드.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/mathenge-levy-2.jpg",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    },
+    {
+      "title": "더 맥캘란, 20년 숙성의 타임:스페이스 셰리 카스크 오뜨꾸뛰르 패키징",
+      "content": "더 맥캘란이 타임:스페이스 컬렉션의 세 번째 에디션으로 선보인 20년산 싱글 몰트 위스키. 자체 셰리 카스크 숙성 원액을 과감하고 현대적인 보틀 디자인 및 기하학적 패키징으로 구조화했다.",
+      "url": "https://coolhunting.com/buy/timespace-sherry-cask/",
+      "source": "Cool Hunting",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "The Macallan Design Team",
+      "creator_insight": "전통적인 위스키 헤리티지 공식에서 벗어나 현대적 조형성과 기하학적 조각 형태를 보틀 디자인에 도입하여 럭셔리 마켓의 기준을 재정의했다.",
+      "tags": [
+        "더맥캘란",
+        "럭셔리패키징",
+        "브랜드헤리티지"
+      ],
+      "execution_techniques": [
+        "#SculpturalPackaging",
+        "#HeritageModernization"
+      ],
+      "why": "오래된 유산 브랜드가 리뉴얼을 진행할 때 고리타분함을 벗어던지고 세련된 미학적 기하학을 끌어오는 전략적 정답.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/10/MAC-2026-TIMESPACE-SherryCask-Mood-S2-16x9-CMYK-300dpi-768x432.jpg",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    },
+    {
+      "title": "코카콜라, 옴니콤 파트너십과 대대적 마케팅 구조 재편",
+      "content": "글로벌 음료 거인 코카콜라가 북미 미디어 에이전시로 옴니콤을 전격 선정하며 글로벌 마케팅 파트너십 체계를 재구성했다. 전통적 광고 모델에서 벗어나 미디어 통합 실행력과 데이터 반응성을 끌어올리는 조직적 대개혁이다.",
+      "url": "https://www.marketingdive.com/news/inside-coca-colas-marketing-transformation-amid-agency-roster-shakeup/833809/",
+      "source": "Marketing Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "The Coca-Cola Company",
+      "creator_insight": "거대 글로벌 브랜드가 비대해진 내부 프로세스를 효율화하기 위해 거대 에이전시 래티스를 통합 거점으로 재편하는 단호함을 보여준다.",
+      "tags": [
+        "코카콜라",
+        "마케팅전략",
+        "에이전시재편"
+      ],
+      "execution_techniques": [
+        "#MediaConsolidation",
+        "#AgileOperations"
+      ],
+      "why": "글로벌 거대 브랜드가 속도와 효율성을 확보하기 위해 미디어 실행 파이프라인을 어떻게 칼질하는지 보여주는 실전 가이드.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://imgproxy.divecdn.com/D7jVNEcxgHDfgQexHPAw9345RxKdib6wZlEYFJI8oYM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwNDY0My5qcGc=.webp",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    },
+    {
+      "title": "NFL, 엔드존 바닥에 아티스트 제미 홈즈의 대형 뮤럴을 입히다",
+      "content": "NFL이 미식축구 경기장 엔드존에 아티스트 제미 홈즈(Jammie Holmes)의 2024년 작품 'Untitled'를 대형 뮤럴로 그리는 문화 활성화 캠페인을 펼쳤다. 스포츠 경기장을 순수 미술 캔버스로 전환하는 파격적 시도다.",
+      "url": "https://www.fastcompany.com/91627128/nfl-is-painting-a-giant-mural-on-the-end-zones-football-field?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Jammie Holmes x NFL",
+      "creator_insight": "상업적 스포츠 자산의 핵심 공간인 엔드존을 예술적 메시지 공간으로 대여함으로써 스포츠와 서브컬처 미학을 강렬하게 충돌시켰다.",
+      "tags": [
+        "NFL",
+        "제미홈즈",
+        "컬처콜라보"
+      ],
+      "execution_techniques": [
+        "#EnvironmentalGraphics",
+        "#CulturalActivation"
+      ],
+      "why": "가장 전통적이고 상업적인 자산을 상반된 컬처 영역과 결합해 단숨에 브랜드 감각을 젊게 뒤바꾸는 활성화의 정석.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91627128-nfl-color-field-activation.jpg",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    },
+    {
+      "title": "한전갤러리 'Art For Green 展': 환경적 공존을 시각화하는 김물길·김용원의 시선",
+      "content": "서울 한전아트센터 한전갤러리에서 개최된 기획 전시. 한국 작가 김물길, 김용원이 참여하여 자연과 인간의 공존을 주제로 동양적 시상과 현대적 조형 언어로 풀어낸 기획전이다.",
+      "url": "https://blog.naver.com/jujukey/222881168665?fromRss=true&trackingCode=rss",
+      "source": "한전갤러리",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "김물길, 김용원",
+      "creator_insight": "국내 공공 기관 전시장이라는 다소 경직된 틀을 깨고 환경 메시지를 세련된 동양적 미학 인스톨레이션으로 전환시켰다.",
+      "tags": [
+        "한전갤러리",
+        "한국작가",
+        "친환경전시"
+      ],
+      "execution_techniques": [
+        "#EcoSculpturalArt",
+        "#KoreanMinimalism"
+      ],
+      "why": "국내 공공/기업 갤러리가 진부한 캠페인 톤에서 벗어나 진정성 있는 작가 기획을 연출하는 유용한 벤치마크.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Unknown%20Source%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "뮤지션 자보(Jarboe)가 떠오른 아이디어를 즉시 채집하는 법",
+      "content": "40여 장의 앨범을 발매한 아방가르드 뮤지션 자보가 즉흥적 영감을 날것 그대로 기록하고 다듬는 딜레이 없는 루틴을 소개한다.",
+      "url": "https://thecreativeindependent.com/people/musician-jarboe-on-capturing-ideas-as-soon-as-they-happen/",
+      "source": "Creative Independent",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "자보",
+        "크리에이티브루틴"
+      ],
+      "why": "생각만 하다가 기획 타이밍을 놓치는 크리에이터들에게 던지는 스피드와 직관의 중요성.",
+      "depth": 0.5,
+      "image": "https://cdn.fs.thecreativeindependent.com/7aDpsDHSTzSijMNgok5z",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    },
+    {
+      "title": "아무도 버리지 않는 브랜드 굿즈 디자인의 법칙",
+      "content": "스포츠 부스터 클럽 경험을 통해 터득한 '쓰레기통으로 직행하지 않고 소장하게 만드는' 굿즈 기획의 핵심 스킬 세트.",
+      "url": "https://medium.com/@sajid_bani_hashim/what-a-booster-club-taught-me-about-merch-nobody-throws-away-d9b23a219353?source=rss------branding-5",
+      "source": "Medium Branding Tag",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "굿즈디자인",
+        "브랜드굿즈"
+      ],
+      "why": "로고만 박아대는 성의 없는 굿즈 기획자들의 뺨을 때리는 짧고 명쾌한 실전 팁.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/1e1b4b/FFFFFF?text=Medium%20Branding%20Tag%0A%28BRANDING%29&font=playfair-display",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    },
+    {
+      "title": "Cursor AI로 피그마 디자인 시스템 일관성을 자동 감사하는 법",
+      "content": "개발자용 AI 도구인 Cursor를 활용해 피그마 내 디자인 시스템 컴포넌트의 오류와 스타일 파편화를 자동으로 찾아내는 노하우.",
+      "url": "https://medium.muz.li/how-i-use-cursor-to-audit-my-design-system-bdf1b141a635?source=rss----5969bf7021a3---4",
+      "source": "Muzli (Medium)",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "피그마",
+        "CursorAI",
+        "UIUX"
+      ],
+      "why": "노가다성 디자인 시스템 검수에 들어가는 수고를 AI로 단숨에 줄여주는 영리한 워크플로우.",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/1024/1*PN1htUOOOE6Zoe0e1X5-Gw.png",
+      "pub_date": "2026-10-24T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "구조적 미니멀리즘",
+      "is_hot": true
+    },
+    {
+      "word": "가변적 공간 파편화",
+      "is_hot": true
+    },
+    {
+      "word": "오뜨꾸뛰르 패키징",
+      "is_hot": true
+    },
+    {
+      "word": "다큐멘터리 미장센",
+      "is_hot": true
+    },
+    {
+      "word": "컬처럴 컬리전 활성화",
+      "is_hot": true
+    },
+    {
+      "word": "절제된 디테일의 사치",
+      "is_hot": true
+    }
+  ]
+}
