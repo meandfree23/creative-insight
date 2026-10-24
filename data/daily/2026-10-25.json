@@ -1,0 +1,376 @@
+{
+  "date": "2026-10-25",
+  "focusQ": "장식적인 수사를 거둬낸 자리에 남는 것은 오직 명확한 콘셉트와 공간적·시각적 집요함뿐이다. 단순한 형태감이나 겉핥기식 브랜드 메시지는 대중의 감각을 자극하지 못하며, 철저하게 계산된 디테일만이 유효하다. 오늘 선별된 레퍼런스들은 본질에 집중된 미학이 어떻게 상업적·문화적 설득력을 얻는지 보여준다.",
+  "creator_message": "겉포장만 요란한 트렌드 분석에 속지 마라. 매일 쏟아지는 수백 개의 캠페인 중 진짜 크리에이터의 눈길을 사로잡는 건 억지스러운 스토리텔링이 아니라 철저한 절제와 완벽한 연출 폼이다. 오늘 소개하는 레퍼런스들의 세공된 만듦새를 씹어 삼키고 당신의 작업물에 남은 거품부터 빼라.",
+  "session": {
+    "timestamp": "2026-10-24T22:30:51.003660",
+    "considered": 40,
+    "selected": 12
+  },
+  "topPicks": [
+    {
+      "title": "스뇌헤타와 바르트가 고찰한 르 로제 기숙학교의 6가지 감각적 학습 공간",
+      "content": "스위스의 명문 르 로제 기숙학교가 바르트 및 스뇌헤타와 협력하여 기존 교실 틀을 탈피한 6개의 모듈형 공간을 설계했다. 정형화된 책상 배치를 벗어나 학생들의 자율적 움직임과 비정형적 소통을 유도하도록 건축적 레이아웃을 완전히 재구성했다.",
+      "url": "https://www.designboom.com/architecture/snohetta-barth-spaces-le-rosey-boarding-school/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Snøhetta & Barth",
+      "creator_insight": "규격화된 교육 공간의 낡은 공식을 깨부수고 물성과 가구의 배치를 통해 새로운 행태를 유도하는 스뇌헤타 특유의 공간 건축적 해답.",
+      "tags": [
+        "건축디자인",
+        "교육공간",
+        "스뇌헤타"
+      ],
+      "execution_techniques": [
+        "#모듈러레이아웃",
+        "#비정형스노그래피"
+      ],
+      "why": "공간의 물리적 구조가 사용자의 행동 패턴을 어떻게 규정하는지 보여주는 스페셜리스트의 모범 답안.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/hires.tobias.kaser_.020-500x400-22b08q85r715.jpg",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "2026 더치 디자인 위크: 아인트호벤 전체를 거대한 실험실로 바꾼 반항적 디자인들",
+      "content": "2026 더치 디자인 위크가 아인트호벤 시 전역에서 반항적인 디자인 정신을 주제로 개막했다. 도시의 공간적 맥락 자체를 전시의 주체로 끌어들여 상업주의에 균열을 내는 다채로운 미학적 시도를 선보인다.",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/dutch-design-week-2026",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Dutch Design Week Curators",
+      "creator_insight": "도시 전체를 무대로 다채로운 시도를 엮어내며 상업 박람회의 정형화된 틀을 거부하는 아인트호벤의 기획력.",
+      "tags": [
+        "더치디자인위크",
+        "전시기획",
+        "디자인트렌드"
+      ],
+      "execution_techniques": [
+        "#도시재생큐레이션",
+        "#아방가르드디자인"
+      ],
+      "why": "디자인이 단순한 오브제를 넘어 도시 맥락과 결합할 때 발생하는 강렬한 미학적 에너지.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdn.mos.cms.futurecdn.net/o5RDw47Joej3n2znsVe24L-1920-80.jpg",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "SXSW 수상작 'Man Eating Pussy': 도발적 타이틀 너머의 날카로운 영화적 연출",
+      "content": "감독 리 로슨이 단편 영화 'Man Eating Pussy'의 제작 비하인드와 서사적 완성도를 밝힌다. 도발적인 제목 속에 담긴 정교한 클로즈업과 날카로운 컷 편집으로 압도적인 시네마틱 긴장감을 선사한다.",
+      "url": "https://directorsnotes.com/2026/10/22/lee-lawson-man-eating-pussy/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Lee Lawson",
+      "creator_insight": "자극적인 헤드라인 아래에 정밀하게 설계된 카메라 워킹과 서사적 반전을 감춰둔 영리한 연출 폼.",
+      "tags": [
+        "단편영화",
+        "SXSW",
+        "영화연출"
+      ],
+      "execution_techniques": [
+        "#마이크로클로즈업",
+        "#리듬컷편집"
+      ],
+      "why": "B급 자극에 머물지 않고 미학적 프레이밍으로 시청자를 설득해내는 단편 연출의 본보기.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/10/man_eating_pussy_short_film_01a.jpg",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "단편 'The Distance Between Us and the Sky': 야간 국도변에서 펼쳐지는 정갈한 미니멀리즘",
+      "content": "바실리스 케카토스 감독의 단편 'The Distance Between Us and the Sky'는 야간 국도변 휴게소라는 단절된 공간을 무대로 한다. 절제된 2인극 연출과 컷을 아끼는 밀도 높은 프레이밍으로 묘한 정적과 감정적 파동을 포착한다.",
+      "url": "https://www.shortoftheweek.com/2026/10/13/the-distance-between-us-and-the-sky/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Vasilis Kekatos",
+      "creator_insight": "최소한의 조명과 프레임 구조만으로 두 인물 사이의 공기와 분위기를 완벽하게 지배하는 연출 기술.",
+      "tags": [
+        "시네마토그래피",
+        "미니멀리즘",
+        "단편영화"
+      ],
+      "execution_techniques": [
+        "#로우키조명",
+        "#픽스드쇼트"
+      ],
+      "why": "과도한 시각 효과 없이도 심리적 밀도를 끌어올리는 프레이밍의 힘.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/10/the-distance-between-us-and-the-sky-short-film-02.jpeg",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "라이라 고하르와 하이랜드 파크: 유년의 기억을 예술적 오브제로 번역한 위스키 스페셜 에디션",
+      "content": "아티스트 라이라 고하르가 이집트 카이로에서의 유년 시절 기억을 바탕으로 하이랜드 파크 17년산 싱글몰트 스페셜 에디션을 기획했다. 맛과 향뿐만 아니라 보틀과 패키지 디자인 전반에 에피소드적 서사를 녹여냈다.",
+      "url": "https://coolhunting.com/food-drink/laila-gohar-on-the-whisky-that-took-her-back-to-cairo/",
+      "source": "coolhunting.com",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Laila Gohar",
+      "creator_insight": "식문화 오트쿠튀르를 지향하는 라이라 고하르가 브랜드의 유산을 개인적 서사와 결합해 하이엔드 오브제로 변주한 사례.",
+      "tags": [
+        "브랜드협업",
+        "패키지디자인",
+        "위스키"
+      ],
+      "execution_techniques": [
+        "#서사적오브제",
+        "#감각적브랜딩"
+      ],
+      "why": "제품의 미각 경험을 오감 전체를 자극하는 시각적 럭셔리로 확장하는 컬래버레이션 방식.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/10/HPK-2026-BYI-2-Still-BTS-Laila-GlobalGTR-Unbranded-16x9-RGB-768x432.jpg",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "벤앤제리스가 증명하는 브랜드 용기: 신념을 마케팅의 핵심 동력으로 삼는 법",
+      "content": "벤앤제리스의 글로벌 최고마케팅책임자(CMO)가 브랜드 가치를 실제 캠페인으로 전환하는 전략을 설명한다. 정치·사회적 이슈에 철저히 개입하면서도 팬덤을 유지하는 대담한 브랜드 아이덴티티 구축법을 제시한다.",
+      "url": "https://www.creativebloq.com/news/how-ben-and-jerrys-became-a-beacon-of-brand-bravery",
+      "source": "Creative Bloq",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Ben & Jerry's Brand Team",
+      "creator_insight": "모두를 만족시키려다 색깔을 잃는 대신, 확고한 스탠스로 날카로운 브랜드 팬덤을 단단하게 구축하는 진정성 전략.",
+      "tags": [
+        "브랜드전략",
+        "마케팅",
+        "브랜드팬덤"
+      ],
+      "execution_techniques": [
+        "#가치기반마케팅",
+        "#메시지임팩트"
+      ],
+      "why": "안전지대에만 머무르는 평범한 브랜드들에게 경종을 울리는 공격적인 가치 선언 캠페인.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cdn.mos.cms.futurecdn.net/c4Gr9cVx5FoQeeYPUULnf9-1920-80.jpg",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "디자이너 그레이 데이비스의 코팩 호수 글래스 하우스: 자기 절제가 만든 인테리어 미학",
+      "content": "유명 공간 디자이너 그레이 데이비스가 뉴욕 코팩 호숫가에 자신만을 위한 유리 주택을 완성했다. 20년의 클라이언트 프로젝트 경험을 뒤로하고 미니멀한 재료감과 정갈한 선으로 완벽한 개인적 휴식처를 연출했다.",
+      "url": "https://thecoolhunter.net/gray-davis-builds-a-glass-house-on-copake-lake/",
+      "source": "The Cool Hunter",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Gray Davis",
+      "creator_insight": "클라이언트의 요구 사항에서 벗어나 정제된 물성과 레이아웃으로 본질적인 건축적 휴식을 시각화한 디자이너의 자화상.",
+      "tags": [
+        "건축디자인",
+        "인테리어",
+        "미니멀리즘"
+      ],
+      "execution_techniques": [
+        "#유리건축",
+        "#물성절제"
+      ],
+      "why": "불필요한 장식을 걷어낸 미니멀 스페이스가 주는 압도적인 정적과 조형미.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://thecoolhunter.net/wp-content/uploads/2026/09/Meyer-Davis-tch-1024x569.jpg",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "사카모토 요타로의 키네틱 쓰레드 기둥: 인간의 움직임을 변형되는 그림자로 환원하다",
+      "content": "사카모토 요타로 작가의 'Schattenrequisit'는 미세한 실로 형성된 가느다란 기둥 구조물이다. 관람객의 접근과 움직임에 따라 실이 미세하게 진동하며 벽면에 끊임없이 변화하는 그림자 패턴을 만들어낸다.",
+      "url": "https://www.designboom.com/art/youtaro-sakamoto-kinetic-thread-column-human-presence-shifting-shadows-schattenrequisit/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Youtaro Sakamoto",
+      "creator_insight": "실이라는 가벼운 물체와 그림자라는 비물질적 요소를 키네틱 메커니즘으로 연결해 관객의 존재감을 시각화한 작품.",
+      "tags": [
+        "키네틱아트",
+        "인스톨레이션",
+        "공간예술"
+      ],
+      "execution_techniques": [
+        "#그림자연출",
+        "#키네틱인스톨레이션"
+      ],
+      "why": "인터랙티브 스페이스 아트가 가질 수 있는 섬세하고 시적인 표현력.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/yotaro-sakamoto-schattenrequisit-column-kinetic-installation-threads-human-movement-shifting-shadows-designboom-700-500x400-22b08q85r715.jpg",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "SuetCo의 키치한 패키징: 기타 치는 소 캐릭터로 우지를 식탁의 주역으로 바꾸다",
+      "content": "SuetCo는 요리용 우지(Beef Tallow) 브랜딩에 기타를 연주하는 소 캐릭터 일러스트를 도입했다. 고정관념을 깨는 위트 있는 아이덴티티로 젊은 소비자층의 호기심을 유발한다.",
+      "url": "https://thedieline.com/suetco-puts-a-guitar-playing-cow-on-stage-to-get-beef-tallow-into-your-kitchen/",
+      "source": "The Dieline",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "SuetCo Creative Team",
+      "creator_insight": "자칫 보수적이거나 무거울 수 있는 식재료 패키징에 록스타 비주얼을 입혀 경쾌한 트렌드 상품으로 탈바꿈시킨 감각.",
+      "tags": [
+        "패키지디자인",
+        "브랜드아이덴티티",
+        "위트브랜딩"
+      ],
+      "execution_techniques": [
+        "#키치일러스트",
+        "#서브컬처패키징"
+      ],
+      "why": "고정관념을 비틀어 식료품 브랜드의 신선함을 확보하는 패키지 연출.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://thedieline.com/wp-content/uploads/2026/10/IG_Suet-Co-Label-2-copy-1.png",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "인스턴트 스케이트보드 x 나이키 SB: 도쿄 서브컬처 유산을 담은 2026 에어포스 1",
+      "content": "도쿄의 스케이트 숍 인스턴트 스케이트보드가 나이키 SB와 협업한 2026 시티 팩 에어포스 1 'Black/Royal'을 공개했다. 스케이트보딩의 실용적 디테일과 가죽 텍스처의 대조로 정제된 아반가르드 스트리트 룩을 보여준다.",
+      "url": "https://www.highsnobiety.com/p/instant-skateboards-nike-sb-air-force-1/",
+      "source": "Highsnobiety",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Instant Skateboards & Nike SB",
+      "creator_insight": "지역 서브컬처 커뮤니티의 헤리티지를 유유히 스니커즈 디테일로 이식해 완성도를 높인 스니커 컬래버레이션.",
+      "tags": [
+        "스트리트웨어",
+        "나이키SB",
+        "스니커컬처"
+      ],
+      "execution_techniques": [
+        "#서브컬처디테일",
+        "#질감대조"
+      ],
+      "why": "진정성 있는 로컬 숍과의 협업이 컬트적 팬덤을 만드는 기획적 과정.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1792858405-instant-skateboards-nike-sb-air-force-1.jpg",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "일본 퍼퓸 브랜드 'Today is Tuesday': 향기의 섬세함을 시각화한 공간 시노그래피",
+      "content": "일본의 수제 향수 브랜드 'Today is Tuesday'의 신규 플래그십 리테일 공간 연출. 일상의 순간들을 수집한다는 브랜드 콘셉트에 맞춰 정갈한 목재 물성과 은은한 스포트라이트로 향기의 잔향을 시각적 공간감으로 치환했다.",
+      "url": "https://retaildesignblog.net/2026/10/21/today-is-tuesday-by-house-of-ta/",
+      "source": "Retail Design Blog",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "House of Ta",
+      "creator_insight": "후각적 요소를 정교한 조명 연출과 소재의 여백으로 풀어내 브랜드의 아티잔 정체성을 공고히 한 리테일 디자인.",
+      "tags": [
+        "리테일디자인",
+        "공간시노그래피",
+        "퍼퓸브랜딩"
+      ],
+      "execution_techniques": [
+        "#여백의미학",
+        "#감각적조명"
+      ],
+      "why": "비시각적 제품을 판매하기 위해 공간 전체를 감각적 미학으로 채워 넣은 스노그래피.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://retaildesignblog.net/wp-content/uploads/2026/10/Today-is-Tuesday-by-House-of-Ta-01-720x480.png",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "야마다 코헤이 개인전 'MY SCREEN TESTS': 앤디 워홀을 재해석한 시네마틱 프레임의 회화",
+      "content": "뉴욕 Gr Gallery에서 열린 야마다 코헤이의 개인전 'MY SCREEN TESTS'는 앤디 워홀의 스크린 테스트 필름에서 영감을 받았다. 초상화의 경계를 허물고 무빙 이미지의 프레임 감각을 화폭으로 가져온 설치 전경을 담았다.",
+      "url": "https://www.juxtapoz.com/news/painting/kohei-yamada-my-screen-tests-gr-gallery-new-york/",
+      "source": "Juxtapoz",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Kohei Yamada",
+      "creator_insight": "무빙 이미지의 시간성을 캔버스 위에 고정시키는 렌즈 시각의 정밀한 회화적 번역.",
+      "tags": [
+        "현대미술",
+        "회화전시",
+        "시네마틱프레임"
+      ],
+      "execution_techniques": [
+        "#필름프레이밍",
+        "#초상화재해석"
+      ],
+      "why": "영상 매체의 프레이밍 감각이 회화와 가상 공간에 어떻게 스며들 수 있는지 증명하는 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.84,
+      "image": "https://www.juxtapoz.com/media/k2/items/cache/feb6fd8d21b05a9d2a007a4aa38955a2_L.jpg",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "캐딜락 125주년 기념 252대 한정판 에스컬레이드-V 컬렉터 시리즈",
+      "content": "캐딜락이 브랜드 125주년을 맞아 오직 252대만 한정 생산하는 최상위 에스컬레이드-V 컬렉터 에디션을 선보였다.",
+      "url": "http://www.trendhunter.com/trends/limited-run-luxury-suvs",
+      "source": "Trend Hunter",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "캐딜락",
+        "한정판"
+      ],
+      "why": "하이엔드 플렉스 소비층을 저격하는 럭셔리 자동차 브랜드의 한정판 마케팅 소스.",
+      "depth": 0.5,
+      "image": "http://cdn.trendhunterstatic.com/phpthumbnails/647/647069/647069_1_468.jpeg",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "Adweek 선정 이주의 광고: 어웨이부터 월마트까지",
+      "content": "어웨이, 제이크루, 월마트 등 주목해야 할 세계적 브랜드들의 한 주간 우수 크리에이티브 광고 모음.",
+      "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-away-to-walmart/",
+      "source": "Adweek",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "광고캠페인",
+        "바이럴"
+      ],
+      "why": "글로벌 상업 브랜드들의 최신 컷과 아이디어를 가볍게 스캔하기 좋은 숏클립 모음.",
+      "depth": 0.5,
+      "image": "https://static-www.adweek.com/wp-content/uploads/2026/10/AdsofWeekOct23.png?w=600&h=315&crop=1",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    },
+    {
+      "title": "해리 스타일스와 셀린 디온이 장기 투어 대신 '레지던시 공연'을 택하는 이유",
+      "content": "메가 뮤지션들이 과도한 세계 투어 대신 특정 도시 라이브 스폿에서 팝업 형태로 장기 주재하는 '레지던시' 콘서트 트렌드를 분석한다.",
+      "url": "https://www.fastcompany.com/91629020/major-music-stars-like-harry-styles-celine-dion-embracing-residencies-heres-why?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "음악비즈니스",
+        "공연트렌드"
+      ],
+      "why": "엔터테인먼트 산업 내 오프라인 경험 소비 방식이 어떻게 변화하는지 보여주는 스낵 정보.",
+      "depth": 0.5,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/AP26289675757499.jpg",
+      "pub_date": "2026-10-25T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 물성 재구성",
+      "is_hot": true
+    },
+    {
+      "word": "공간적 절제미",
+      "is_hot": true
+    },
+    {
+      "word": "서브컬처 이식",
+      "is_hot": false
+    },
+    {
+      "word": "시네마틱 프레이밍",
+      "is_hot": true
+    },
+    {
+      "word": "서사적 컬래버레이션",
+      "is_hot": false
+    },
+    {
+      "word": "정밀한 리테일 스노그래피",
+      "is_hot": true
+    }
+  ]
+}
