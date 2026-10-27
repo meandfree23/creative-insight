@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-28",
+  "focusQ": "디자인과 연출의 날카로운 감각은 감성적인 말장난으로 완성되지 않는다. 시각적 물질성과 정밀한 상업적 계산이 결합할 때 비로소 크리에이티브의 미학적 뼈대가 드러난다.",
+  "creator_message": "어설픈 트렌드 용어로 감싼 무색무취의 기획안은 즉시 폐기 대상이다. 이번 큐레이션은 디테일의 밀도, 자극적인 스페이스 연출, 날카로운 브랜드 협업 전략이 입증된 진짜 레퍼런스만 남겼다.",
+  "session": {
+    "timestamp": "2026-10-27T23:49:15.261161",
+    "considered": 40,
+    "selected": 10
+  },
+  "topPicks": [
+    {
+      "title": "리얼리티 범죄 방송의 교외 인테리어를 완벽하게 재현한 프로덕션 디자인",
+      "content": "프로덕션 디자이너 알렉스 디젤란도가 2000년대 초반 미국 교외 주택의 범죄 현장을 다큐멘터리 연출에 맞춰 세밀하게 조향했다. 숨겨진 카메라 각도와 당시의 서늘하고 지루한 아파트 인테리어를 사실적으로 복원해 서스펜스를 극대화한다.",
+      "url": "https://www.wallpaper.com/design-interiors/primetime-to-catch-a-predator-set-design",
+      "source": "Wallpaper*",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Alex DiGerlando",
+      "creator_insight": "시대적 진정성과 스릴러적 긴장감을 동시에 잡기 위해 의도적으로 평범하고 건조한 2000년대 미학을 완벽히 계산하여 배치했다.",
+      "tags": [
+        "프로덕션디자인",
+        "세트인테리어",
+        "서스펜스연출"
+      ],
+      "execution_techniques": [
+        "Set Design",
+        "Period Authenticity"
+      ],
+      "why": "공간 연출이 어떻게 영상의 서사적 중압감을 물리적으로 구현하는지 증명하는 프로덕션 디자인의 정수다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/HeNgN3fACjKCqgVxHGbFfc-1920-80.jpg",
+      "pub_date": "2026-10-28T08:00:00.000000"
+    },
+    {
+      "title": "TouchDesigner 3D 파티클 배열: 데이터 인스턴싱 패턴 구현법",
+      "content": "한국 뉴미디어 스튜디오 wavvisual이 전달하는 터치디자이너 실전 기술 가이드. 대규모 3D 데이터 배열을 지연 없이 실시간 파티클 체계로 제어하는 미디어아트 구현 인스턴싱 기술을 다룬다.",
+      "url": "https://medium.com/@wavvisual/touchdesigner-2026-cookbook-13-3d-instancing-particles-695932417a8d?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "wavvisual",
+      "creator_insight": "복잡한 비주얼 알고리즘을 최적화된 노드 구조로 전환하여 오프라인 전시에 최적화된 파티클 제어력을 제시한다.",
+      "tags": [
+        "TouchDesigner",
+        "터치디자이너",
+        "미디어아트"
+      ],
+      "execution_techniques": [
+        "3D Instancing",
+        "Real-time Graphics"
+      ],
+      "why": "단순 화려함에 그치지 않고 대용량 데이터 시각화를 실제 스페이스 전시 수준으로 끌어올리는 기술적 뼈대를 제공한다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cdn-images-1.medium.com/max/2600/1*FCCxQ7D8PDkp-VWSoZZXVg.png",
+      "pub_date": "2026-10-28T08:00:00.000000"
+    },
+    {
+      "title": "뉴욕이라는 도시 전체를 하나로 묶은 월드컵 아이덴티티 시각 전략",
+      "content": "크리에이티브 디렉터 아르슈 라지우딘이 뉴욕 월드컵 아이덴티티 프로젝트 비하인드를 공개했다. 다인종 도시 뉴욕의 복잡성을 정제된 그래픽 시스템과 시각 언어로 통합한 프로세스를 분석한다.",
+      "url": "https://www.itsnicethat.com/articles/nicer-tuesdays-new-york-september-arsh-raziuddin-231026",
+      "source": "It's Nice That",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Arsh Raziuddin",
+      "creator_insight": "복잡한 도시의 문화적 파편들을 타협 없이 단 하나의 단단한 시각 브랜딩 축으로 묶어냈다.",
+      "tags": [
+        "브랜드아이덴티티",
+        "도시브랜딩",
+        "그래픽디자인"
+      ],
+      "execution_techniques": [
+        "Visual Identity System",
+        "Urban Branding"
+      ],
+      "why": "대형 스포츠 이벤트의 브랜딩이 어떻게 단순 로고 설계를 넘어 도시적 정체성을 규정하는지 보여주는 모범 사례다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://www.itsnicethat.com/images/social.jpg",
+      "pub_date": "2026-10-28T08:00:00.000000"
+    },
+    {
+      "title": "호텔 테라스를 초현실주의 수목원으로 탈바꿈시킨 에드리안 브룸의 전시",
+      "content": "사진작가 에드리안 브룸이 달라스 호텔 스웨그선의 야외 테라스 공간을 생동감 넘치는 식물 조형물로 개조했다. 정적인 사진 매체를 입체적 공간 연출로 확장한 초현실적 비주얼 씬을 선보인다.",
+      "url": "https://design-milk.com/adrien-broom-living-tableaux-hotel-swexan/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Adrien Broom",
+      "creator_insight": "평면적인 렌즈의 프레임을 공간의 세트 디스플레이로 확장해 관객의 시각적 착시를 극대화했다.",
+      "tags": [
+        "공간연출",
+        "초현실주의",
+        "설치미술"
+      ],
+      "execution_techniques": [
+        "Spatial Installation",
+        "Set Scenography"
+      ],
+      "why": "럭셔리 호스피탈리티 공간이 상업성을 넘어 아트 인스톨레이션을 무대로 소비자 경험을 극대화하는 방식.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://design-milk.com/images/2026/10/img-ab2f2834-196d-47b0-a256-29fa28318645-e1793046959115-1500x1002.jpg",
+      "pub_date": "2026-10-28T08:00:00.000000"
+    },
+    {
+      "title": "업사이클링 목재와 철재로 재해석한 일본 이동식 파빌리온 ehho!²",
+      "content": "일본 도베도 스튜디오가 전통 가마 구조에서 착안한 이동식 파빌리온을 설계했다. 폐목재와 철재를 조합해 2인이 들고 이동할 수 있는 유목민적 공간 감성을 시각화했다.",
+      "url": "https://www.designboom.com/design/upcycled-timber-iron-portable-micro-barn-japan-dobedo-studio-ehho-2/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "dobedo studio",
+      "creator_insight": "전통 모빌리티 요소를 미니멀한 재료 질감과 조립식 건축 구조로 유연하게 번역했다.",
+      "tags": [
+        "가변적건축",
+        "업사이클링",
+        "파빌리온"
+      ],
+      "execution_techniques": [
+        "Modular Architecture",
+        "Material Upcycling"
+      ],
+      "why": "고정된 건축의 틀을 깨고 가변적 공간 오브제가 창출하는 유목적 라이프스타일의 미학적 가능성.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/dobedo-studio-ehho-2-portable-micro-barn-japan-designboom-700-500x400-22b08q85r689.jpg",
+      "pub_date": "2026-10-28T08:00:00.000000"
+    },
+    {
+      "title": "오라리와 테클라의 재회: 하이엔드 라운지웨어의 정석",
+      "content": "일본 미니멀리즘 브랜드 오라리와 코펜하겐 홈웨어 테클라가 협업한 라운지웨어 컬렉션. 울 캐시미어 니트웨어와 셰어링 슬리퍼를 통해 차분한 톤과 질감의 조화를 제시한다.",
+      "url": "https://www.highsnobiety.com/p/auralee-tekla-2026/",
+      "source": "Highsnobiety",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "AURALEE x Tekla",
+      "creator_insight": "과도한 로고 노출 없이 오직 소재감과 정제된 컬러 팔레트만으로 컬트적 팬덤을 자극하는 조용한 럭셔리의 정수.",
+      "tags": [
+        "콜라보레이션",
+        "라운지웨어",
+        "미니멀리즘"
+      ],
+      "execution_techniques": [
+        "Tactile Design",
+        "Minimalist Palette"
+      ],
+      "why": "제품의 본질적 물성과 브랜드 페르소나의 완벽한 조화가 만드는 프리미엄 브랜딩의 본보기.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1793112831-tekla-auralee-02-1.jpg",
+      "pub_date": "2026-10-28T08:00:00.000000"
+    },
+    {
+      "title": "벽을 타오르는 말총 조각: 니콜라 터너의 기괴한 생물학적 조형물",
+      "content": "런던 앤널리 주다 갤러리에서 전시 중인 니콜라 터너의 말총 및 유기 물질 조각 작품. 갤러리 벽면과 공간 구석을 파고드는 기계적이고 유기적인 질감의 조형 스케일을 다룬다.",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/nicola-turner-annely-juda-gallery-london-review",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Nicola Turner",
+      "creator_insight": "말총이라는 이색 소재의 거친 생체 질감을 활용해 정적인 미술관 벽을 생명체처럼 변형시켰다.",
+      "tags": [
+        "설치미술",
+        "재료학",
+        "조형예술"
+      ],
+      "execution_techniques": [
+        "Organic Sculpting",
+        "Material Contrast"
+      ],
+      "why": "파격적 소재 선택이 어떻게 오프라인 공간의 분위기를 압도하고 몰입감을 극대화하는가에 대한 해답.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://cdn.mos.cms.futurecdn.net/5PeJ5qG5wW56sYqpG9qv6R-1920-80.gif",
+      "pub_date": "2026-10-28T08:00:00.000000"
+    },
+    {
+      "title": "제28회 제주청년 작가전: 섬의 서사를 담은 지역 미술 청년 작가 3인",
+      "content": "제주 문예회관에서 열린 제주청년 작가전. 강수희, 박길주, 양형석 작가가 지역적 정체성과 매체적 도전을 결합하여 선뵈는 시각 예술 아카이브 현장이다.",
+      "url": "https://blog.naver.com/jujukey/222863947443?fromRss=true&trackingCode=rss",
+      "source": "Naver Blog",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "강수희, 박길주, 양형석",
+      "creator_insight": "제주의 로컬리티를 진부한 낭만주의가 아닌 현대적 미술 기법의 시각 언어로 단단하게 재구성했다.",
+      "tags": [
+        "제주청년작가전",
+        "로컬아트",
+        "현대미술"
+      ],
+      "execution_techniques": [
+        "Local Archiving",
+        "Exhibition Curation"
+      ],
+      "why": "지역에 기반을 둔 로컬 아티스트들이 시각 예술의 미학적 표준을 유지하면서 로컬리티를 정갈하게 풀어내는 방식.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Unknown%20Source%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-10-28T08:00:00.000000"
+    },
+    {
+      "title": "단편 영화 Alien Culture: 1979년 런던의 인종적 긴장감과 시네마틱 미학",
+      "content": "감독 이에시 타파르가 연출한 단편 영화. 1979년 런던 웨스트 지역의 갈등과 분위기를 정밀한 카메라 워킹과 미장센으로 담아낸 감각적인 시네마 작품이다.",
+      "url": "https://www.shortoftheweek.com/2026/10/19/alien-culture/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Iesh Thapar",
+      "creator_insight": "역사적 시점의 시대적 공기를 가감 없는 조명 연출과 톤 앤 매너로 연출해 서사의 밀도를 극대화했다.",
+      "tags": [
+        "단편영화",
+        "시네마토그래피",
+        "미장센"
+      ],
+      "execution_techniques": [
+        "Cinematic Lighting",
+        "Period Direction"
+      ],
+      "why": "단편 영상 크리에이터들이 톤 조율과 카메라 프레이밍만으로 시대적 긴장을 고조시키는 기술을 보여준다.",
+      "social_proof": "",
+      "depth": 0.84,
+      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/10/Alien-Culture-Iesh-Thapar-01.jpeg",
+      "pub_date": "2026-10-28T08:00:00.000000"
+    },
+    {
+      "title": "80년대 팝스타의 쇠락과 회복을 다룬 시네마틱 드라마 Nostalgie",
+      "content": "캐서린 퍼거슨 감독이 연출한 2025년 단편 드라마. 한때 빛나던 80년대 영국 팝스타가 벨파스트 무대에 오르며 겪는 감정선과 미학을 절제된 시네마토그래피로 감각화했다.",
+      "url": "https://vimeo.com/channels/staffpicks/1237618682",
+      "source": "Vimeo Staff Picks",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Kathryn Ferguson",
+      "creator_insight": "화려함과 쇠락이라는 대비적인 키워드를 레트로 감성과 현대적 시네마 톤의 날카로운 조화로 그려냈다.",
+      "tags": [
+        "VimeoStaffPick",
+        "인물드라마",
+        "감성 연출"
+      ],
+      "execution_techniques": [
+        "Retro Aesthetic",
+        "Character Study"
+      ],
+      "why": "과거를 소환하는 레트로 트렌드를 어떻게 클리셰 없이 고품격 캐릭터 스터디로 승화하는지 증명한다.",
+      "social_proof": "",
+      "depth": 0.83,
+      "image": "https://i.vimeocdn.com/video/2214963146-19a038dcc903ddc47d85bd337e7f61ba7f75c3d765c1a464b2e95c7031e63a67-d_960?region=us",
+      "pub_date": "2026-10-28T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "펜더 x 조지 해리슨: 시그니처 스트라토캐스터 3종 리미티드 캡슐",
+      "content": "펜더가 다크 호스 레코드와 협업해 전설적인 기타리스트 조지 해리슨의 커스텀 기타 3종을 리메이크 출시했다.",
+      "url": "https://hypebeast.kr/2026/10/fender-dark-george-harrison-horse-records-capsule-collection-collaboration-release-info",
+      "source": "Hypebeast Korea",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "펜더",
+        "조지해리슨",
+        "악기디자인"
+      ],
+      "why": "뮤지션 유산과 콜렉터블 악기 시장을 타깃한 정교한 리미티드 마케팅 레퍼런스.",
+      "depth": 0.5,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F10%2Ffender-dark-george-harrison-horse-records-capsule-collection-collaboration-release-info.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-10-28T08:00:00.000000"
+    },
+    {
+      "title": "미국 대형 약국 CVS의 포켓몬 카드 및 수집품 판매 전략 확대",
+      "content": "CVS가 단순 의약품 유통에서 벗어나 포켓몬 카드와 수집품 라인을 전격 확대하며 MZ세대 드롭 마케팅에 뛰어들었다.",
+      "url": "https://www.retaildive.com/news/cvs-pokemon-collectibles-beauty-seasonal/872755/",
+      "source": "Retail Dive",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "리테일트렌드",
+        "포켓몬",
+        "서브컬처"
+      ],
+      "why": "전통 유통 채널이 서브컬처 컬렉터블 아이템을 활용해 매장 체류 시간을 증대시키는 유쾌한 상업 전략.",
+      "depth": 0.5,
+      "image": "https://imgproxy.divecdn.com/DPBFhi6pJFP3Dwv-bWo1XeDVEepr996VRmJy_SjqkA8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTAtMjZfMDkzNjA4LnBuZw==.webp",
+      "pub_date": "2026-10-28T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "시각적 물성 복원",
+      "is_hot": true
+    },
+    {
+      "word": "서사적 공간 연출",
+      "is_hot": true
+    },
+    {
+      "word": "조용한 럭셔리 라운지웨어",
+      "is_hot": false
+    },
+    {
+      "word": "크리에이티브 코딩 미학",
+      "is_hot": true
+    },
+    {
+      "word": "로컬 아카이빙",
+      "is_hot": false
+    },
+    {
+      "word": "유목적 공간 파빌리온",
+      "is_hot": false
+    }
+  ]
+}
