@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-29",
+  "focusQ": "AI 가짜 버튼과 과포화된 비주얼 속에서 진짜 기획은 실체적 물성과 날카로운 맥락에서 나온다. 무의미한 기술 과시 대신 본질을 파고드는 브랜드와 공간만이 스크린을 뚫고 기억에 남는다. 오늘 큐레이션은 허울뿐인 포장을 걷어내고 실질적인 연출 및 브랜딩 감각을 갖춘 작업들로 엄선했다.",
+  "creator_message": "화면에 스파클 버튼 하나 더 얹는다고 비즈니스가 바뀌지 않는다. 보여주기식 껍데기에 집착하는 디자이너들에게 경고한다. 사운드를 비주얼로 연출한 엠블럼, 공간의 맥락을 뒤엎는 설치미술처럼 본질적인 기획력과 강렬한 서사만이 살아남는 시대다.",
+  "session": {
+    "timestamp": "2026-10-29T00:02:42.869259",
+    "considered": 40,
+    "selected": 10
+  },
+  "topPicks": [
+    {
+      "title": "애플 뮤직 브랜드 아이덴티티: 소리를 시각적 질감으로 번역하는 법",
+      "content": "TBWA\\Media Arts Lab이 애플 뮤직의 새로운 브랜드 아이덴티티를 위해 사운드를 시각화하는 파격적 액체 공정을 선보였다. 오일과 음파를 활용한 실물 실험을 통해 디스플레이 너머의 파동을 고화질 그래픽으로 구현했다.",
+      "url": "https://www.itsnicethat.com/features/apple-music-rebrand-graphic-design-spotlight-281026",
+      "source": "It's Nice That",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "TBWA\\Media Arts Lab",
+      "creator_insight": "디지털 그래픽 툴의 안이함 대신 실물 액체와 오일의 진동을 직접 촬영하여 애플 뮤직 고유의 촉각적 브랜딩을 완성했다.",
+      "tags": [
+        "애플뮤직",
+        "브랜드아이덴티티",
+        "사운드디자인"
+      ],
+      "execution_techniques": [
+        "실물 음파 실험",
+        "액체 시네마틱 텍스처"
+      ],
+      "why": "소리라는 추상적 매체를 손에 잡힐 듯한 무드로 시각화한 모범 사례. 브랜딩 기획자라면 반드시 참고해야 할 클래스다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://m.itsnicethat.com/original_images/music_thumbnail_final.jpg?class=w1440",
+      "pub_date": "2026-10-29T08:00:00.000000"
+    },
+    {
+      "title": "ROVE 스튜디오 리브랜딩: 모션 중심의 무빙 아이덴티티",
+      "content": "포틀랜드 기반 크리에이티브 스튜디오 ROVE가 모션 디자인을 최우선으로 내세운 웹사이트와 브랜딩을 공개했다. 이렌느 펠레오, 코너 린드 등 실력파 아트 디렉터들이 참전해 그래픽의 정적인 한계를 깨부쉈다.",
+      "url": "https://motionographer.com/news/rove-new-brand-identity-website-ashley-mckim/",
+      "source": "Motionographer",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "ROVE, Irene Feleo, Connor Linde",
+      "creator_insight": "정적인 로고타입을 거부하고, 웹사이트 프레임 자체를 살아있는 모션 그래픽 필드로 전환했다.",
+      "tags": [
+        "모션디자인",
+        "웹아이덴티티",
+        "브랜드리뉴얼"
+      ],
+      "execution_techniques": [
+        "인터랙티브 모션 레이아웃",
+        "키네틱 타이포그래피"
+      ],
+      "why": "모션 스튜디오가 스스로를 정의할 때 웹 환경을 어떻게 시네마틱하게 활용할 수 있는지 보여주는 명확한 가이드라인.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/CleanShot-2026-10-19-at-6.53.01-PM%402x-scaled.png?fit=700%2C310&ssl=1",
+      "pub_date": "2026-10-29T08:00:00.000000"
+    },
+    {
+      "title": "필립 존슨의 울프하우스를 재해석한 식용 조각과 금속 구조물",
+      "content": "Studio No. 29가 뉴욕 울프하우스에서 공간 특정적 설치작업 'A Landscape in Five States'를 선보였다. 식용 조각과 조립식 금속 스냅 버튼 아키텍처를 결합해 모더니즘 건축의 장소성을 흔든다.",
+      "url": "https://www.designboom.com/art/edible-sculptures-snap-button-metal-armatures-philip-johnson-wolfhouse-ny-studio-no-29/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Studio No. 29",
+      "creator_insight": "차가운 유리의 모더니즘 건축을 미각적 조각과 가변성 높은 조립식 하드웨어 미학으로 해체했다.",
+      "tags": [
+        "공간설치",
+        "식용조각",
+        "모더니즘건축"
+      ],
+      "execution_techniques": [
+        "사이트 스페시픽 인스톨레이션",
+        "미각적 오디오비주얼"
+      ],
+      "why": "아이코닉한 건축 유산 위에서 단순 전시에 그치지 않고 감각의 전이에 도전한 실험적 공간 기획.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/wolfhouse-new-york-island-on-land-a-landscape-in-five-states-studio-no-29-designboom-700-500x400-22b08q85r577.jpg",
+      "pub_date": "2026-10-29T08:00:00.000000"
+    },
+    {
+      "title": "YSG 스튜디오의 '더 젠틀맨': 2m 거구를 위한 1929년 아파트의 변신",
+      "content": "시드니 팟츠 포인트의 1929년 아르데코 빌딩에 2미터가 넘는 두 거주자를 위한 95m² 규모 아파트가 완성됐다. YSG 스튜디오는 아르데코 양식을 지키면서도 비율과 스케일을 수직적으로 과감히 비틀었다.",
+      "url": "https://www.yellowtrace.com.au/ysg-studio-the-gentleman-macleay-st-potts-point-apartment/",
+      "source": "Yellowtrace",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "YSG Studio (Yasmine Ghoniem)",
+      "creator_insight": "아르데코 보존이라는 한계 속에서 인체 스케일을 가구 및 천장 라인에 재조정하여 유쾌한 긴장감을 연출했다.",
+      "tags": [
+        "인테리어디자인",
+        "주거공간",
+        "YSG스튜디오"
+      ],
+      "execution_techniques": [
+        "컬러 블로킹",
+        "하이퍼 스케일 커스텀"
+      ],
+      "why": "제약조건이 극심한 역사적 보존 건물에서 신체 조건에 맞춘 가구와 스케일 감각을 극대화한 스페이셜 솔루션.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/10/21131906/Yellowtrace-YSG-The-Gentleman-Macleay-St-Potts-Point-Apartment-Photo-Anson-Smart-06_opt80.jpg",
+      "pub_date": "2026-10-29T08:00:00.000000"
+    },
+    {
+      "title": "블랙 포에트리의 스파클링 커피: 고전 미술과 그래피티의 리믹스",
+      "content": "Open Strategy & Design이 블랙 포에트리의 캔 커피 패키징에 고전 예술 작품과 거리의 그래피티를 미학적으로 융합했다. 정제된 기품과 거리의 반항적 에너지가 캔 표면에서 직주형으로 충돌한다.",
+      "url": "https://thedieline.com/open-strategy-design-remixes-classic-art-and-graffiti-for-black-poetrys-sparkling-coffee/",
+      "source": "The Dieline",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Open Strategy & Design",
+      "creator_insight": "고전 회화의 엄숙함을 스탠실 및 슬랩 스티커 그래피티 레이어로 덮어버리며 젊은 럭셔리 질감을 창조했다.",
+      "tags": [
+        "패키지디자인",
+        "브랜딩",
+        "팝아트"
+      ],
+      "execution_techniques": [
+        "클래식 아트 리믹스",
+        "스트리트 그래피티 레이어링"
+      ],
+      "why": "진부해지기 쉬운 고전 미술 인용을 거친 그래피티 태깅과 결합해 음료 시장에서 날카로운 존재감을 확립한 디자인.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://thedieline.com/wp-content/uploads/2026/10/BP-for-Dieline_1-1.png",
+      "pub_date": "2026-10-29T08:00:00.000000"
+    },
+    {
+      "title": "\"아무도 AI 반짝이 버튼을 원하지 않았다\": 무분별한 UI에 대한 경고",
+      "content": "모든 소프트웨어 패널에 난립하는 AI '반짝이(Sparkle) 버튼'과 사용자 반발을 다룬 칼럼. 핵심 서비스의 경험 개선 없이 단순 AI 기능 과시용 버튼만 남발하는 테크 브랜딩의 무성의함을 날카롭게 꼬집는다.",
+      "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
+      "source": "Sidebar.io",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "UX Collective",
+      "creator_insight": "기능적 우위 없는 무성의한 AI 기능 강조가 오히려 브랜드 신뢰도를 떨어뜨린다는 점을 지적한다.",
+      "tags": [
+        "UIUX",
+        "AI비판",
+        "제품기획"
+      ],
+      "execution_techniques": [
+        "안티 트렌드 리포팅",
+        "사용자 중심 맥락"
+      ],
+      "why": "트렌드라는 미명 하에 맹목적으로 AI 아이콘을 부착하는 기획자들에게 꼭 필요한 정곡을 찌르는 일침.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Sidebar.io%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-10-29T08:00:00.000000"
+    },
+    {
+      "title": "마르세유의 세기를 넘나드는 감각: 스튜디오 Betyle의 레 피기에",
+      "content": "젊은 디자인 스튜디오 Betyle이 마르세유의 공간에 1세기에 걸친 디자인 유산을 시대순 박제가 아닌 자연스러운 레이어링으로 배치했다. 망치질한 아르데코 램프와 마르셀 브로이어 체어가 동시대적 맥락으로 공존한다.",
+      "url": "https://www.yellowtrace.com.au/betyle-le-figuier-marseille-interior-design/",
+      "source": "Yellowtrace",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Betyle Studio",
+      "creator_insight": "특정 시대의 스타일을 복제하는 레트로를 거부하고 빈티지 객체들의 상호작용만으로 절묘한 톤앤매너를 완성했다.",
+      "tags": [
+        "마르세유공간",
+        "빈티지인테리어",
+        "스페이스큐레이션"
+      ],
+      "execution_techniques": [
+        "타임리스 매치앤믹스",
+        "재질감의 대비"
+      ],
+      "why": "트렌디한 모던 가구로 도배된 클리셰 공간에서 벗어나 진정한 컬렉터의 취향을 디렉팅하는 방식.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/10/07195137/Yellowtrace-Betyle-Le-Figuier-Marseille-Photo-Mathilde-Hiley-14_opt80.jpg",
+      "pub_date": "2026-10-29T08:00:00.000000"
+    },
+    {
+      "title": "배우 드루 스타키의 연출적 초상: 유명세라는 환영과 소멸",
+      "content": "<아우터뱅크스>와 <퀴어>로 주목받는 배우 드루 스타키가 AnOther Man과의 인터뷰 및 패션 화보에서 인물 연출의 본질을 보여준다. 시네마틱한 조명과 연기자의 내면적 몰입이 독창적인 아우라를 형성한다.",
+      "url": "https://www.anothermag.com/another-man/17605/drew-starkey-interview-outer-banks-another-man?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=drew-starkey-s-disappearing-tricks",
+      "source": "anothermag.com",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "AnOther Man",
+      "creator_insight": "대중적 스타성을 버리고 암영과 콘트라스트가 강한 인물 연출을 통해 캐릭터의 불안과 고독을 시각화했다.",
+      "tags": [
+        "시네마틱화보",
+        "인물사진",
+        "에디토리얼"
+      ],
+      "execution_techniques": [
+        "필름 질감 필터링",
+        "딥 섀도우 라이팅"
+      ],
+      "why": "인물 사진에서 연출가가 대상의 심리적 서사를 어떻게 톤앤매너로 이끌어내는지 증명하는 화보 컷.",
+      "social_proof": "",
+      "depth": 0.83,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/470/9/479856.jpg",
+      "pub_date": "2026-10-29T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "지진 현장을 누비는 '배낭 멘 구조 생쥐'의 등장",
+      "content": "재난 현장에서 생존자를 찾기 위해 카메라와 마이크가 탑재된 초소형 배낭을 착용한 생쥐 구조대 프로젝트.",
+      "url": "https://www.fastcompany.com/91629848/these-tiny-rat-backpacks-are-designed-to-help-find-victims-in-an-earthquake?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "테크디자인",
+        "재난구조"
+      ],
+      "why": "어설픈 로봇보다 실재하는 유기체와 하드웨어 기획의 기발한 만남이 주는 경쾌한 레퍼런스.",
+      "depth": 0.5,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91629848-hero-rat-backpacks.jpg",
+      "pub_date": "2026-10-29T08:00:00.000000"
+    },
+    {
+      "title": "도시 벽면을 채운 베를린 듀오 ZEBU의 기하학적 유머",
+      "content": "베를린 아트 듀오 ZEBU가 도시의 회색 스케일에 경쾌한 추상 캐릭터와 강렬한 색채 배합을 불어넣은 그래픽 벽화 작업.",
+      "url": "https://www.thisiscolossal.com/2026/10/zebu-vibrant-abstract-murals/",
+      "source": "Colossal",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "스트리트아트",
+        "비주얼일러스트"
+      ],
+      "why": "무채색 도시 환경에 한 방의 비주얼 펀치를 날리는 대형 스케일 그래픽 활용법.",
+      "depth": 0.5,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/zebu-1.jpg",
+      "pub_date": "2026-10-29T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "시네마틱 라이팅",
+      "is_hot": false
+    },
+    {
+      "word": "재질감의 재해석",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 브랜딩",
+      "is_hot": false
+    }
+  ]
+}
