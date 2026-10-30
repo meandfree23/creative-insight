@@ -1,0 +1,328 @@
+{
+  "date": "2026-10-30",
+  "focusQ": "보편적 AI 그래픽과 양산형 클리셰가 범람하는 시대일수록 기획의 본질과 독보적인 물성 감각을 되살려야 한다. 표면적인 미학에 현혹되지 않고 서사와 프레임을 지배하는 디렉터의 직관만이 브랜드의 생존을 결정한다.",
+  "creator_message": "트렌드라는 미명 아래 복제되는 무난한 포트폴리오를 볼 때마다 헛웃음이 나온다. 개념의 날을 세우지 않은 디자인과 감흥 없는 레이아웃은 단순한 지루함을 넘어 기획자의 직무유기다.",
+  "session": {
+    "timestamp": "2026-10-29T23:59:10.705172",
+    "considered": 40,
+    "selected": 10
+  },
+  "topPicks": [
+    {
+      "title": "헤르조그 & 드 메롱, 버켄스탁 물류창고를 찰스 & 레이 임스 뮤지엄으로 재탄생시키다",
+      "content": "건축 스튜디오 헤르조그 & 드 메롱이 마린 카운티의 구 버켄스탁 물류창고를 임스 연구소의 전시 공간으로 전면 개조한다. 미드센추리 모던 아이콘인 임스 부부의 철학을 고스란히 담아내는 공간 재해석 프로젝트다.",
+      "url": "https://www.wallpaper.com/architecture/public-buildings/eames-institute-of-infinite-curiosity",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Herzog & de Meuron",
+      "creator_insight": "산업적 유산을 현대적 전시 맥락으로 치환하며 유기적 모더니즘과 공간적 기능성을 선명하게 교차시킨 시각적 공간 구성력이 돋보인다.",
+      "tags": [
+        "건축재생",
+        "헤르조그드메롱",
+        "임스디자인"
+      ],
+      "execution_techniques": [
+        "#AdaptiveReuse",
+        "#SpatialScenography"
+      ],
+      "why": "오래된 물류창고라는 명확한 한계를 극복하고 브랜드의 헤리티지를 건축적 레이어로 변환해낸 압도적 스케일의 공간 기획 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.mos.cms.futurecdn.net/bn8gb5fyMeHLzamgV5GafV-1920-80.jpg",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    },
+    {
+      "title": "세종대학교 AI LAB의 타이포그래피실험 'SEJONG NEØ-X #1'",
+      "content": "세종대학교 그래픽디자인 전공 AI LAB 수업의 결실로 만들어진 아카이브북으로, 생성형 도구와 타이포그래피의 관계를 급진적으로 해체하고 재구성했다. 독일 슬랜티드 매거진을 통해 조명된 국내 신진 디자이너들의 독창적 실험이다.",
+      "url": "https://www.slanted.de/sejong-neo-x-1-7/",
+      "source": "Slanted",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "세종대학교 디자인학부 AI LAB",
+      "creator_insight": "AI라는 기술적 도구를 수동적으로 수용하지 않고 타이포그래피의 구조적 균열과 결합을 유도하여 서사의 파격성을 완성했다.",
+      "tags": [
+        "한국디자인",
+        "타이포그래피실험",
+        "생성형AI"
+      ],
+      "execution_techniques": [
+        "#GenerativeTypography",
+        "#EditorialDesign"
+      ],
+      "why": "국내 크리에이터들이 AI 기술을 시각 예술 및 그래픽 레이아웃과 접목할 때 어떤 시각적 날을 세워야 하는지 명확히 증명하는 프로젝트다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://www.slanted.de/wp-content/uploads/2026/08/2026-08-14_6a7efa0487607_1.jpg",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    },
+    {
+      "title": "자레드 호건 감독의 단편 'Dogbite' - 예산과 대본의 한계를 깬 직관적 연출",
+      "content": "제작 자금과 정교한 대본, 정해진 로케이션이 없는 한계 속에서 연출가 자레드 호건이 완성한 날 것의 단편 영화. 연출가의 날카로운 프레임 감각과 서사적 긴장감이 돋보이는 작품이다.",
+      "url": "https://directorsnotes.com/2026/10/29/jared-hogan-dogbite/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Jared Hogan",
+      "creator_insight": "규격화된 제작 프로세스를 탈피하여 시각적 질감과 미장센의 즉흥성만으로 강렬한 심리적 미장센을 구축해냈다.",
+      "tags": [
+        "인디필름",
+        "시네마틱 연출",
+        "미장센"
+      ],
+      "execution_techniques": [
+        "#RawFraming",
+        "#AtmosphericLighting"
+      ],
+      "why": "기획력과 연출력의 본질은 자본의 규모가 아니라 대상과 순간을 잡아내는 감독의 시각적 결단력에 있음을 일깨운다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/10/dogbite_jared_hogan_12.jpeg",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    },
+    {
+      "title": "페르난도 마스트랑젤로: 영토 분쟁의 풍경을 모래와 분쇄 유리 가구로 승화시키다",
+      "content": "디자이너 페르난도 마스트랑젤로가 모래와 분쇄 유리 파우더의 미세한 층을 활용해 지정학적 갈등 지대의 풍경을 입체 가구 시리즈로 형상화했다. 재료의 물리적 질감이 정치적 메시지를 매끄럽게 전달한다.",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/fernand-mastrangelo-territories-furniture",
+      "source": "Wallpaper*",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Fernando Mastrangelo",
+      "creator_insight": "광물성 입자들의 단층을 정교하게 쌓아 올려 인문학적 이슈를 오브제의 미학적 가치로 결합해내는 탁월한 물질성 디렉팅이다.",
+      "tags": [
+        "오브제디자인",
+        "지정학적미학",
+        "재료실험"
+      ],
+      "execution_techniques": [
+        "#MaterialTexturing",
+        "#ConceptualFurniture"
+      ],
+      "why": "단순한 가구 설계를 넘어 사회 정치적 담론을 정밀한 질감 연출로 표현한 고급 오브제 기획의 교본이다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://cdn.mos.cms.futurecdn.net/hBe6PLh8ciFBTdtkfQ9Yhf-1920-80.jpg",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    },
+    {
+      "title": "모든 AI 프로덕트의 디자인이 똑같아지는 이유와 차별화 전략",
+      "content": "양산형 AI 인터페이스의 천편일률적인 퍼플 다크모드와 반짝이는 아이콘 클리셰를 비판하며, 사용자 본질에 집중한 인디비주얼한 UI/UX 기획 방안을 제시하는 분석글이다.",
+      "url": "https://medium.muz.li/why-every-ai-product-looks-the-same-and-how-to-design-one-that-doesnt-270f0137cc46?source=rss----5969bf7021a3---4",
+      "source": "Muzli (Medium)",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Muzli Design Team",
+      "creator_insight": "유행하는 AI visual language를 맹목적으로 답습하는 관성을 꼬집고, 브랜드 본연의 맥락을 살린 시각 기획의 필요성을 차갑게 지적한다.",
+      "tags": [
+        "AI디자인",
+        "UIUX비판",
+        "브랜드비주얼"
+      ],
+      "execution_techniques": [
+        "#VisualDeconstruction",
+        "#BrandIdentityStyle"
+      ],
+      "why": "양산형 AI 그래픽 수렁에서 벗어나 독자적인 비주얼 정체성을 수립하려는 디지털 브랜딩 전략가들에게 필수적인 제언이다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cdn-images-1.medium.com/max/1672/1*zUaKBtT-VEwrHFhoACsf0w.png",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    },
+    {
+      "title": "김주언 3D 아티스트의 '성당 폐허 속 거대 로봇' 비주얼 브레이크다운",
+      "content": "한국의 3D 크리에이터 김주언이 지브리 스튜디오의 고전적 감성에서 영감을 얻어 고딕 양식 성당 폐허와 거대 로봇의 질감을 시네마틱 3D 장면으로 구현한 작업 과정을 상세히 기술했다.",
+      "url": "https://80.lv/articles/breakdown-giant-robot-in-cathedral-ruins-made-in-3d/",
+      "source": "80 Level",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "김주언 (Jueon Kim)",
+      "creator_insight": "고전적 건축 스케일과 파괴된 오브젝트의 표면 질감을 다층적으로 설계하여 웅장하면서도 서글픈 분위기를 정확히 포착했다.",
+      "tags": [
+        "3D아트",
+        "한국크리에이터",
+        "시네마틱VFX"
+      ],
+      "execution_techniques": [
+        "#3DSpatialLayout",
+        "#AtmosphericRendering"
+      ],
+      "why": "국내 테크니컬 아티스트의 정교한 씬 디렉팅과 3D 질감 처리 기법을 고스란히 보여주는 하이엔드 visual reference다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdn.80.lv/api/upload/post/41956/images/6ae35b84131af/cover_800x800.jpg",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    },
+    {
+      "title": "Span 스튜디오, 문장 부호 하나로 일리노이 인권국의 정체성을 재정의하다",
+      "content": "디자인 스튜디오 Span이 시민권 운동의 플래카드 표지판에서 시각적 힌트를 얻어 보편적인 문장 부호를 공공 기관의 강력한 브랜딩 메시지로 승화시킨 리브랜딩 사례다.",
+      "url": "https://www.creativeboom.com/work/spans-identity-for-illinois-department-of-human-rights-turns-a-common-piece-of-punctuation-into-a-rallying-cry/",
+      "source": "Creative Boom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Span Studio",
+      "creator_insight": "지루하고 관료적인 공공 브랜딩에 선동적이고 명확한 그래픽 모티프를 주입하여 시민의 시선을 한순간에 사로잡았다.",
+      "tags": [
+        "브랜드아이덴티티",
+        "그래픽디자인",
+        "공공디자인"
+      ],
+      "execution_techniques": [
+        "#SymbolicTypography",
+        "#MinimalVisualSystem"
+      ],
+      "why": "가장 평범한 그래픽 요소를 선명한 상징성으로 변환해내는 타이포그래피 및 상징 기획의 날카로움을 보여준다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://media.creativeboom.com/10f66f79-3220-42df-b8dc-61301ed15b87/conversions/3afe758d4485b6c55ee8337b32d87074e7e53980-medium.webp",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    },
+    {
+      "title": "Jungle 스페인 본사: 4개 층에 담긴 4가지 소재와 빛의 스펙트럼",
+      "content": "MIL 스튜디오가 마드리드의 2,850평방미터 공간을 기획하며 각 층마다 독자적인 재질, 조명, 리듬감을 부여하여 오피스 공간을 매력적인 미학적 오케스트라로 전환했다.",
+      "url": "https://thecoolhunter.net/jungles-madrid-hq-four-floors-four-moods/",
+      "source": "The Cool Hunter",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "MIL Studios",
+      "creator_insight": "단일한 사옥 전경에 상충되는 소재와 조명 감각을 배치함으로써 공간 내 이동 자체를 흥미로운 감각적 비주얼로 연출했다.",
+      "tags": [
+        "공간디자인",
+        "인테리어",
+        "오피스건축"
+      ],
+      "execution_techniques": [
+        "#MultiTexturalSpace",
+        "#LightingCuration"
+      ],
+      "why": "획일화된 기업 오피스 인테리어를 탈피하고 층별 컨셉 시네마틱을 공간적으로 입체화한 대표적 참고 사례다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://thecoolhunter.net/wp-content/uploads/2026/09/mil-studios-jungle-1024x749-1.jpg",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    },
+    {
+      "title": "마요르카 섬의 빛을 포착한 닉 미크의 스텔라 아르투아 글로벌 캠페인",
+      "content": "사진작가 닉 미크가 마더 런던 대행사와 협업하여 스페인 마요르카 섬을 배경으로 스텔라 아르투아 브랜드 특유의 여유롭고 프리미엄한 감성을 탁월한 칼라 필름 톤으로 담아냈다.",
+      "url": "https://levineleavitt.com/nick-meek-stella-artois/",
+      "source": "levineleavitt.com",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Nick Meek (Photographer) & Mother London",
+      "creator_insight": "자연광의 채도와 대비를 극대화한 프레임 구도를 통해 휴양지의 여유로움과 제품의 고급스러운 결을 직관적으로 연출했다.",
+      "tags": [
+        "브랜드캠페인",
+        "상업사진",
+        "스텔라아르투아"
+      ],
+      "execution_techniques": [
+        "#SaturatedLighting",
+        "#CinematicPhotography"
+      ],
+      "why": "브랜드의 클래식함을 고루하지 않게 연출하는 하이엔드 사진 연출 기법과 비주얼 톤앤매너 구축의 본보기다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=levineleavitt.com%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    },
+    {
+      "title": "명동성당 갤러리 1898에서 열리는 진동선 사진전 <밤의 파리>",
+      "content": "한국 사진학계의 대표적 비평가이자 사진가 진동선이 파리의 밤이 품은 흑백의 미학적 단면들을 포착해 명동성당 갤러리에서 선보이는 전시다.",
+      "url": "https://blog.naver.com/sabids/221577722796?fromRss=true&trackingCode=rss",
+      "source": "네이버 블로그",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "진동선",
+      "creator_insight": "도시의 어둠과 인공 광원이 형성하는 명암의 대비를 심도 깊게 포착해 상업적 도시 사진과 뚜렷이 구분되는 깊이를 선사한다.",
+      "tags": [
+        "한국사진가",
+        "진동선",
+        "흑백사진"
+      ],
+      "execution_techniques": [
+        "#ChiaroscuroFraming",
+        "#MonochromeAesthetic"
+      ],
+      "why": "국내 중진 작가가 다루는 시각적 서사와 미학적 렌즈 구도를 확인할 수 있는 정통 사진 예술 비주얼 모음이다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blogthumb.pstatic.net/MjAxOTA3MDRfMyAg/MDAxNTYyMjI5MDUwMjcw.RwAWD9YfMq2J2R8hICKm3EjKLkHOXTrYmQjv1mv0l2Ag.P_L4nFU4OXnkqrWRzGvvWMJ5qloNhGi0Uq3TaMot2k8g.JPEG.sabids/20190704_165046.jpg?type=s3",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "논밭에 그려진 마인크래프트: 교다시의 픽셀 라이스 패디 아트",
+      "content": "일본 교다시에서 마인크래프트 캐릭터들을 실제 논벼의 색상 차이를 이용해 압도적인 대형 픽셀 아트로 구현해낸 대중 문화 프로젝트다.",
+      "url": "https://spoon-tamago.com/minecraft-gyoda-rice-paddy-art/?utm_source=rss&utm_medium=rss&utm_campaign=minecraft-gyoda-rice-paddy-art",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "마인크래프트",
+        "대형아트"
+      ],
+      "why": "디지털 픽셀 그래픽을 아날로그 농경 지형과 결합한 위트 넘치는 지역 마케팅 기획 요소다.",
+      "depth": 0.5,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/08/gyoda-rice-paddy-art-minecraft-2026-3-200x150.jpeg",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    },
+    {
+      "title": "클렛 아브라함: 표지판을 위트 있는 사회적 메시지로 탈바꿈하다",
+      "content": "스트리트 아티스트 클렛 아브라함이 획일적인 픽토그램 도로 표지판 위에 스티커를 더해 유머러스하면서도 날카로운 메시지를 남겼다.",
+      "url": "https://www.picamemag.com/clet-abraham-trasforma-i-segnali-stradali-in-dissacranti-messaggi-sociali/",
+      "source": "Picame",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "스트리트아트",
+        "위트디자인"
+      ],
+      "why": "도시의 규격화된 서식을 비틀어 사람들의 시선을 사로잡는 게릴라성 위트 아이디어다.",
+      "depth": 0.5,
+      "image": "https://www.picamemag.com/wp-content/uploads/2024/06/clet-abraham-picame-ev.png",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    },
+    {
+      "title": "Jim Longden이 연출한 Jaxxon D. Silva의 'Growing Apart' 뮤직비디오",
+      "content": "거친 질감의 16mm 필름 감성과 거리를 배회하는 서사를 빈티지하게 조합해낸 스트리트 감성 뮤직비디오 비주얼.",
+      "url": "https://www.promonews.tv/videos/2026/10/28/jaxxon-d-silva-growing-apart-jim-longden/96760",
+      "source": "promonews.tv",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "뮤직비디오",
+        "필름질감"
+      ],
+      "why": "특유의 서브컬처적 무드와 필름 연출을 구상할 때 빠른 인스퍼레이션을 주는 숏폼 영상 레퍼런스다.",
+      "depth": 0.5,
+      "image": "https://admin.promonews.tv/sites/default/files/styles/bmvd_content_page/public/Jaxxon%20D.%20Silva%20%27Growing%20Apart%27%20by%20Jim%20Longden.png?itok=IJcgWwj8",
+      "pub_date": "2026-10-30T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "유기적 모더니즘",
+      "is_hot": false
+    },
+    {
+      "word": "AI 클리셰 해체",
+      "is_hot": true
+    },
+    {
+      "word": "공간적 스펙트럼",
+      "is_hot": false
+    },
+    {
+      "word": "지정학적 재료학",
+      "is_hot": false
+    },
+    {
+      "word": "로우 프레이밍",
+      "is_hot": true
+    }
+  ]
+}
