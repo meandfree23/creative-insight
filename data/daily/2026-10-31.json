@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-31",
+  "focusQ": "Agent's Thought: 상업 공간과 미디어 연출에서 본질을 감추는 화려함은 낡았다. 구조를 노출하고 재료의 비완성적 질감을 살리는 해체주의적 감각만이 시선을 고정시킨다. 미학적 당위성이 결여된 콘셉트는 단순한 장식에 불과하다.",
+  "creator_message": "큐레이터의 메시지: 어설픈 AI 그래픽과 겉포장만 번지르르한 브랜드 캠페인에 기만을 당하는 시대는 끝났다. 1840년대 한옥의 뼈대를 다루는 투플라이의 정교함부터 OMA의 하이브리드 공간 구성까지, 본질적인 구조적 기량만을 가려 뽑았다. 감상주의에 젖지 말고 진짜 설계와 연출의 기술을 훔쳐라.",
+  "session": {
+    "timestamp": "2026-10-30T23:47:56.662074",
+    "considered": 40,
+    "selected": 8
+  },
+  "topPicks": [
+    {
+      "title": "투플라이, 1840년대 고택의 뼈대를 재해석한 한옥 스테이 '안'",
+      "content": "전북 정읍에 위치한 1840년대 탐진안씨 안진사 고택 안채를 현대적 숙박 공간으로 재생한 프로젝트다. 투플라이는 세월이 누적된 기와지붕과 목재 기둥의 형태를 간직하면서 절제된 미감과 modern 편의성을 밀도 있게 결합했다.",
+      "url": "https://www.designtwoply.com/works/stay/%ed%95%9c%ec%98%a5-%ec%8a%a4%ed%85%8c%ec%9d%b4-%ec%95%88/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ec%2598%25a5-%ec%8a%a4%ed%85%8c%ec%9d%b4-%ec%95%88",
+      "source": "TWOPLY",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "투플라이 (TWOPLY Studio)",
+      "creator_insight": "한옥의 기존 부재를 신규 구조체와 매끄럽게 대비시키며 전통을 조야한 장식이 아닌 절제된 물성으로 환원했다.",
+      "tags": [
+        "한옥스페이스",
+        "투플라이",
+        "공간디자인"
+      ],
+      "execution_techniques": [
+        "Material Contrast",
+        "Traditional Modernism"
+      ],
+      "why": "K-스페이스 디자인에서 무분별한 퓨전 요소를 배제하고 서사적 깊이감과 공간적 비움을 실현한 솔루션을 제시한다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2026/07/01_IMG_2755.jpg",
+      "pub_date": "2026-10-31T08:00:00.000000"
+    },
+    {
+      "title": "wavvisual의 TouchDesigner 튜토리얼: 1,000개 입체 인스턴싱 매핑",
+      "content": "미디어 아트 기법 중 단일 SOP을 활용해 1,000개 이상의 3차원 입체 노드를 실시간 배치하는 인스턴싱 기술을 다룬다. 미디어 아트 실무에서 필수적인 연산 효율화 절차를 체계적으로 안내한다.",
+      "url": "https://medium.com/@wavvisual/touchdesigner-2026-cookbook-08-instancing-basics-b930f935dad1?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "wavvisual",
+      "creator_insight": "연산 과부하 없는 실시간 파티클 제어는 비주얼 아티스트의 강력한 무기다. 정교한 데이터 매핑 알고리즘이 돋보인다.",
+      "tags": [
+        "터치디자이너",
+        "미디어아트",
+        "크리에이티브코딩"
+      ],
+      "execution_techniques": [
+        "Real-time Instancing",
+        "Data-driven Particle"
+      ],
+      "why": "라이브 무대 연출과 인터랙티브 미디어 인스톨레이션 개발에 즉각 이식 가능한 하드코어 테크니컬 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cdn-images-1.medium.com/max/2600/1*7o7aFH9tQvaSPUPdJPZrJw.png",
+      "pub_date": "2026-10-31T08:00:00.000000"
+    },
+    {
+      "title": "에밀 라부아의 호러 코미디 단편 'Mean Ends': 장르 톤앤매너의 파격",
+      "content": "기존 장르 법칙을 해체하며 코미디와 슬래셔의 잔혹한 톤앤매너를 가감 없이 융합한 단편 영화다. 감독 에밀 라부아는 컷 구성과 서스펜스의 속도감을 치밀하게 다룬다.",
+      "url": "https://directorsnotes.com/2026/10/27/emile-lavoie-mean-ends/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Émile Lavoie",
+      "creator_insight": "호러와 블랙 유머 사이의 유위한 균형감을 렌즈 프레이밍과 과감한 조명 반전으로 끌어올렸다.",
+      "tags": [
+        "단편영화",
+        "연출테크닉",
+        "호러코미디"
+      ],
+      "execution_techniques": [
+        "Dynamic Framing",
+        "Genre Blending"
+      ],
+      "why": "상업 영상 제작 시 유머와 공포라는 대립적 감정을 신속히 전환하는 연출 템포를 학습할 수 있다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/10/mean_ends_36.jpg",
+      "pub_date": "2026-10-31T08:00:00.000000"
+    },
+    {
+      "title": "OMA가 설계한 발리 'Good Times General Store': 로컬 공예의 하이브리드 리테일",
+      "content": "발리의 포테이토 헤드 단지 내에 들어선 OMA의 하이브리드 리테일 공간이다. 로컬 아티잔의 공예와 모던한 텍스처를 접목하여 일반 상업 매장을 넘어선 문화적 거점을 연출했다.",
+      "url": "https://retaildesignblog.net/2026/10/27/good-times-general-store-by-oma/",
+      "source": "Retail Design Blog",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "OMA (Office for Metropolitan Architecture)",
+      "creator_insight": "지역적 질감과 미니멀한 산업 재료를 거칠게 충돌시켜 럭셔리 공간의 표준화된 타성을 깨부쉈다.",
+      "tags": [
+        "OMA",
+        "리테일디자인",
+        "발리건축"
+      ],
+      "execution_techniques": [
+        "Raw Material Hybrid",
+        "Spatial Scenography"
+      ],
+      "why": "팝업 스토어 및 브랜딩 플래그십 기획자들에게 완성도 높은 기획적 공간 스키마를 선사한다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://retaildesignblog.net/wp-content/uploads/2026/10/Good-Times-General-Store-by-OMA-01-720x480.jpg",
+      "pub_date": "2026-10-31T08:00:00.000000"
+    },
+    {
+      "title": "THISS 스튜디오의 해체 건축과 순환적 재료 실험",
+      "content": "건물을 지어 올리는 것만큼 해체 과정을 디자인하는 Radical Reuse 기법을 탐조한 THISS 스튜디오의 전시 기획과 건축적 실험을 다룬다. 버려진 목재와 잔해를 구조물로 바꾼다.",
+      "url": "https://www.designboom.com/architecture/thiss-studio-tamsin-hanke-radical-reuse-exhibition-design-interview/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "THISS Studio (Tamsin Hanke)",
+      "creator_insight": "해체 단계를 의도된 아키텍처 포맷으로 설정함으로써 건축의 수명주기를 시각적 퍼포먼스로 변환했다.",
+      "tags": [
+        "지속가능건축",
+        "THISS스튜디오",
+        "스패셜디자인"
+      ],
+      "execution_techniques": [
+        "Radical Reuse",
+        "Deconstruction Design"
+      ],
+      "why": "친환경이라는 상투적 슬로건을 탈피하여 물성 자체의 본질적 아름다움을 이끌어내는 공간 기획 팁이다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/thiss-studio-tamsin-hanke-radical-reuse-exhibition-design-interview-1-500x400-22b08q85r511.jpg",
+      "pub_date": "2026-10-31T08:00:00.000000"
+    },
+    {
+      "title": "곤잘레스 하세 AAS의 베를린 'Aeyde Haus': 미니멀 스패셜 모노크롬",
+      "content": "동베를린의 역사적 건물 내부를 재해석한 공간 프로젝트다. 곤잘레스 하세 AAS는 과감한 조명 기법과 삭막할 정도의 비움의 미학을 극대화하여 독창적 분위기를 구축했다.",
+      "url": "https://www.ignant.com/2026/01/07/aeyde-haus-by-gonzalez-haase-aas-marks-a-new-era-for-an-east-berlin-landmark/",
+      "source": "ignant.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Gonzalez Haase AAS",
+      "creator_insight": "과도한 오브제를 배제하고 조명과 시멘트의 삭막한 입면 대비만으로 강력한 스페이셜 아이덴티티를 확립했다.",
+      "tags": [
+        "베를린건축",
+        "인테리어디자인",
+        "미니멀리즘"
+      ],
+      "execution_techniques": [
+        "Spatial Monochromatism",
+        "Light Architecture"
+      ],
+      "why": "럭셔리 브랜드 아이덴티티 시각화에 있어 공간의 빈자리와 빛의 조율이 지닌 파괴력을 증명한다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.ignant.com/wp-content/uploads/2026/01/aeyde-gonzalez-haase-aas-ignant-clemens-poloczek-15-720x1081.jpg",
+      "pub_date": "2026-10-31T08:00:00.000000"
+    },
+    {
+      "title": "나이키 'Moon Shoe'와 발레코어 패브릭의 결합: 아카이브의 키치한 변주",
+      "content": "나이키의 유서 깊은 러닝화 문 슈에 새틴 핑크 소재와 와플 솔을 적용한 하이브리드 스니커즈 라인업이다. 스포티즘과 발레코어의 파격적인 결합을 선보인다.",
+      "url": "https://www.highsnobiety.com/p/nike-moon-shoe-satin-pink/",
+      "source": "Highsnobiety",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Nike Design Team",
+      "creator_insight": "헤리티지 아카이브의 둔탁함과 극단적 여성성 표상인 발레코어를 결합해 대담한 충격을 생성했다.",
+      "tags": [
+        "나이키",
+        "스니커즈컬처",
+        "브랜드콜라보"
+      ],
+      "execution_techniques": [
+        "Kitsch Heritage Hybrid",
+        "Contrast Materiality"
+      ],
+      "why": "서브컬처 트렌드를 기존 제품 아카이브에 기습적으로 주입하는 패션 마케팅의 전형적인 승리 방식이다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1793376745-nike-moon-shoe-satin-pink-0.jpg",
+      "pub_date": "2026-10-31T08:00:00.000000"
+    },
+    {
+      "title": "워너브러더스의 '모자 쓴 고양이': 아마존 이코시스템을 활용한 마케팅",
+      "content": "신작 애니메이션 홍보를 위해 아마존 플랫폼 전반에 모바일 미니게임 및 크로스 미디어 광고망을 촘촘히 구축한 워너브러더스의 입체적 캠페인 사례다.",
+      "url": "https://www.marketingdive.com/news/warner-bros-chases-cat-in-the-hat-across-amazons-ad-ecosystem/873092/",
+      "source": "Marketing Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Warner Bros. Media Team",
+      "creator_insight": "단순 릴리스 광고를 지양하고 이커머스 접점에 유기적 미니게임 시스템을 밀어 넣어 몰입을 극대화했다.",
+      "tags": [
+        "마케팅전략",
+        "워너브러더스",
+        "아마존광고"
+      ],
+      "execution_techniques": [
+        "Cross-Platform Gamification",
+        "Ad Ecosystem Integration"
+      ],
+      "why": "플랫폼 종속적 환경에서 타깃 소비자의 흥미를 유발하는 엔터테인먼트 마케팅의 구체적 구조다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://imgproxy.divecdn.com/eCJW2BfDVO8ygv8o2pyG4WP1p1tIdtDutJH6LvedrYo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CSUwtQ2F0aW50aGVIYXQtbWluaS1nYW1lLTR1cC5qcGc=.webp",
+      "pub_date": "2026-10-31T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "AI로 스마트 TV UI를 직관적으로 개조하는 사용자들",
+      "content": "번잡한 스트리밍 앱 광고로 도배된 스마트 TV 인터페이스를 AI 코딩을 활용해 극단적 미니멀 스타일로 재구축하는 사용자 트렌드.",
+      "url": "https://www.fastcompany.com/91630508/vibe-coding-smart-tv-redesign?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "UI디자인",
+        "AI개조"
+      ],
+      "why": "제조사의 무분별한 광고성 UI에 반기를 드는 디자이너들의 해킹 정신과 인터페이스 트렌드를 포착하기 좋다.",
+      "depth": 0.5,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91630508-smart-tv-redesign.jpg",
+      "pub_date": "2026-10-31T08:00:00.000000"
+    },
+    {
+      "title": "뼈 구조에서 영감을 얻은 7가지 잔혹 미학 건축물",
+      "content": "중세 골골당부터 해골 및 뼈의 관절 구조를 모티브로 설계된 전 세계의 기괴하고 아름다운 건축물 큐레이션.",
+      "url": "https://www.architecturaldigest.com/gallery/skeleton-architecture",
+      "source": "architecturaldigest.com",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "해골건축",
+        "기괴미학"
+      ],
+      "why": "비주얼 디렉터들에게 그로테스크한 질감과 유기적 구조체에 대한 기발한 미학적 영감을 던져준다.",
+      "depth": 0.5,
+      "image": "https://media.architecturaldigest.com/photos/6adfb9b4cecfc20e053912d7/master/pass/GettyImages-1456541109.jpg",
+      "pub_date": "2026-10-31T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 물성 재구성",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": true
+    },
+    {
+      "word": "K-고택 인프라 구축",
+      "is_hot": false
+    },
+    {
+      "word": "미니멀 스패셜 모노크롬",
+      "is_hot": false
+    },
+    {
+      "word": "헤리티지 킷치 융합",
+      "is_hot": true
+    },
+    {
+      "word": "크로스 미디어 게이미피케이션",
+      "is_hot": false
+    }
+  ]
+}
