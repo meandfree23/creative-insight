@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-01",
+  "focusQ": "Agent's Thought: 장식적 미사여구를 배제하고 기계적 정돈과 날카로운 비틀기로 완성된 디렉팅만을 집요하게 선별했다. 과잉된 비주얼 시장에서 독보적인 감각은 단순한 화려함이 아닌 질감의 정밀한 대치와 구조적 비워냄에서 드러난다. 표면적인 트렌드에 휩쓸리지 않고 구조와 재료를 완전히 지배하는 감각을 주시하라.",
+  "creator_message": "큐레이터의 메시지: 어설픈 렌더링과 매끄럽기만 한 디자인에 영혼을 맡기지 마라. 펜타그램의 저의도적 그래픽이나 하쿠텐의 거친 폐자재 연출처럼, 진짜 크리에이티브는 클리셰를 비틀어버리는 날카로운 취향과 결단력에서 발화한다. 남들의 기법을 복제하기 전에 당신의 눈이 매너리즘에 빠져있는지부터 고찰하길 바란다.",
+  "session": {
+    "timestamp": "2026-10-31T23:26:09.361008",
+    "considered": 40,
+    "selected": 8
+  },
+  "topPicks": [
+    {
+      "title": "디자인투플라이의 주거 공간 구조화: 겉치레를 깎아낸 정돈의 미학",
+      "content": "클라이언트의 생활 동선을 철저히 해체하고 불필요한 장식을 배제하여 기능적 질서를 부여한 국내 주거 공간 프로젝트. 수납과 여백의 조율을 통해 비워냄의 미학을 완성했다.",
+      "url": "https://www.designtwoply.com/works/residence/%ec%82%b6%ec%9d%98-%eb%b0%a9%ec%8b%9d%ec%9d%84-%eb%b0%a9%ec%8b%9d%ec%9d%84-%eb%b0%94%ea%be%b8%eb%8a%94-%ec%a7%91-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%b6%ec%9d%84-%eb%94%94%ec%9e%90%ec%9d%b8%ed%95%a9%eb%8b%88%eb%8b%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2582%25b6%25ec%259d%2598-%25eb%25b0%25a9%25ec%258b%259d%25ec%259d%2584-%25eb%25b0%2594%25ea%25be%25b8%25eb%258a%2594-%25ec%25a7%2591-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%b6%ec%9d%84-%eb%94%94%ec%9e%90%ec%9d%b8%ed%95%a9%eb%8b%88%eb%8b%a4",
+      "source": "Unknown Source",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "디자인투플라이 (Design Twoply)",
+      "creator_insight": "투플라이는 화려한 마감재로 시선을 교란하는 대신, 거주자의 정돈되지 않은 라이프스타일을 기하학적 구조와 동선 재배치로 정형화하는 냉철함을 보여준다.",
+      "tags": [
+        "공간디자인",
+        "인테리어",
+        "투플라이"
+      ],
+      "execution_techniques": [
+        "스트럭처럴 미니멀리즘",
+        "수납 가구 일체화"
+      ],
+      "why": "비주얼 과잉의 시대에 주거 공간이 갖춰야 할 본질적 정돈 능력을 시각적으로 입증하는 직관적인 공간 설계 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2025/04/홈페이지-썸네일사이즈아이파크.jpg",
+      "pub_date": "2026-11-01T08:00:00.000000"
+    },
+    {
+      "title": "펜타그램의 LenLen 브랜딩: 뉴욕 맨해튼 상업 공간에 이식한 B급 유머",
+      "content": "펜타그램이 뉴욕 맨해튼의 태국 식당 LenLen을 위해 제작한 브랜드 아이덴티티. 버블 레터링과 마커 타이포그래피, 해학적인 타이거-캣 캐릭터를 조합해 위트 있는 브랜드 그래픽을 완성했다.",
+      "url": "https://abduzeedo.com/pentagram-unveils-lenlen-branding/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Pentagram",
+      "creator_insight": "펜타그램은 엘리트주의적 럭셔리 그래픽의 클리셰를 비웃듯, 저의도적이고 해학적인 그래픽 레이어링으로 대중의 시선을 단숨에 낚아채는 세련된 질감의 B급 미학을 구현했다.",
+      "tags": [
+        "펜타그램",
+        "브랜드아이덴티티",
+        "타이포그래피"
+      ],
+      "execution_techniques": [
+        "루즈 마커 타이포그래피",
+        "캐릭터 아이콘 기법"
+      ],
+      "why": "상업 브랜드 그래픽이 고정관념에서 벗어나 디테일한 비틀기로 얼마나 매력적인 위트를 얻을 수 있는지 보여주는 모범 답안.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_89.jpg",
+      "pub_date": "2026-11-01T08:00:00.000000"
+    },
+    {
+      "title": "Yu Su – 'Melaleuca': 디지털과 아날로그의 기괴하고 매혹적인 미학 연출",
+      "content": "뮤지션 Yu Su의 트랙 'Melaleuca' 뮤직비디오. 감독 조던 민코프가 디지털 그래픽과 손으로 만든 애니메이션 요소를 기묘하게 결합해 독창적인 영상미를 완성했다.",
+      "url": "https://tv.booooooom.com/2021/12/03/premiere-yu-su-melaleuca/",
+      "source": "Booooooom TV",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Jordan Minkoff",
+      "creator_insight": "조던 민코프는 매끈한 3D 렌더링에 매몰된 현대 영상 기법에 반기를 들듯, 거친 질감의 질감 중심 애니메이션을 혼합해 독보적인 위트와 키치함을 창조했다.",
+      "tags": [
+        "뮤직비디오",
+        "모션디렉팅",
+        "애니메이션"
+      ],
+      "execution_techniques": [
+        "믹스드 미디어 애니메이션",
+        "텍스처 프레임 레이어링"
+      ],
+      "why": "아날로그 질감과 디지털 레이아웃의 결합이 프레임 단위의 몰입감을 어떻게 증폭시키는지 증명하는 비주얼 가이드.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "http://tv.booooooom.com/wp-content/uploads/2021/12/YuSu-Melaleuca-09.jpg",
+      "pub_date": "2026-11-01T08:00:00.000000"
+    },
+    {
+      "title": "트라팔가 광장의 'Lady in Blue': 공공 조각이 도시에 던지는 미학적 균열",
+      "content": "런던 트라팔가 광장 네 번째 좌대에 설치된 차발라라 셀의 조각 'Lady in Blue'. 유색 인종 여성의 신체를 선명한 블루 컬러와 강렬한 질감으로 입체화해 권위적 공간 구조에 정면으로 대립한다.",
+      "url": "https://www.dezeen.com/2026/10/30/lady-in-blue-trafalgar-square-priya-khanchandani-opinion/",
+      "source": "Dezeen",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Tschabalala Self",
+      "creator_insight": "차발라라 셀은 역사적 중량감에 짓눌린 광장 한가운데에 고의적인 비례 파괴와 원색의 질감을 배치함으로써, 공공 미술이 지녀야 할 거친 메시지 전달력을 완벽히 제어했다.",
+      "tags": [
+        "공공미술",
+        "공간조각",
+        "런던트라팔가"
+      ],
+      "execution_techniques": [
+        "비례 파괴 오프셋",
+        "모노크롬 코팅 표면"
+      ],
+      "why": "클래식한 건축적 맥락 속에서 현대 조각의 색채와 질감이 거대한 시각적 타격감을 형성하는 비주얼 기획 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://static-2026.dezeen.com/uploads/2026/10/lady-in-blue-tschabalala-self-trafalgar-square-fourth-plinth-london-sq_dezeen_2364_col_0-1024x1024.jpg",
+      "pub_date": "2026-11-01T08:00:00.000000"
+    },
+    {
+      "title": "뉴욕시의 8시간 도시 전환 로지스틱스: 할로윈 축제에서 마라톤 트랙으로의 스위칭",
+      "content": "할로윈 퍼레이드가 끝난 직후 불과 8시간 만에 도심 전체를 뉴욕 마라톤 트랙으로 전환하는 뉴욕시의 초고속 공간 운영 전략.",
+      "url": "https://www.fastcompany.com/91632474/nyc-flips-streets-halloween-to-the-marathon?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "New York City Operations",
+      "creator_insight": "도시 연출가들과 운영진은 수백만 명이 모이는 대형 이벤트를 오차 없이 릴레이식으로 교체함으로써, '도시' 자체가 가장 거대한 라이브 퍼포먼스 스테이지임을 입증한다.",
+      "tags": [
+        "도시브랜딩",
+        "이벤트운영",
+        "공간디렉팅"
+      ],
+      "execution_techniques": [
+        "모듈러 스페이스 스위칭",
+        "초밀도 동선 설계"
+      ],
+      "why": "대규모 오프라인 팝업이나 대형 브랜드 활성화 이벤트를 기획할 때 참조해야 할 초밀도 공간 동선 변환 프레임워크.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-91632474-New-York-City-Halloween-and-Marathon-Weekend-2026.jpg",
+      "pub_date": "2026-11-01T08:00:00.000000"
+    },
+    {
+      "title": "로무알드 하주메의 버려진 플라스틱 가면: 산업 폐기물로 연출한 초현실적 표상",
+      "content": "아티스트 로무알드 하주메가 버려진 플라스틱 휘발유통과 오브제를 조합해 만든 현대적 아프리칸 가면 조각 연작.",
+      "url": "https://www.thisiscolossal.com/2026/10/romuald-hazoume-plastic-jug-mask-sculptures/",
+      "source": "Colossal",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Romuald Hazoumè",
+      "creator_insight": "하주메는 자본주의의 쓰레기에 전통 가면의 인상학을 투영하여, 저렴한 재료로 압도적인 아우라와 비판적 메시지를 조형해내는 재료 재해석력을 선보인다.",
+      "tags": [
+        "오브제아트",
+        "업사이클링디자인",
+        "조각"
+      ],
+      "execution_techniques": [
+        "파운드 오브제 재구성",
+        "텍스처 메타포"
+      ],
+      "why": "오브제 재조합과 물성 변용을 통해 브랜드 전시 및 업사이클링 오브제 디자인에 날카로운 영감을 제공하는 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/hazoume-3.jpg",
+      "pub_date": "2026-11-01T08:00:00.000000"
+    },
+    {
+      "title": "포르토 라파엘의 조개껍데기 형상 빌라: 풍화 작용을 형상화한 유기적 입체 건축",
+      "content": "지중해 해안가에 위치한 이 빌라는 현지 석재와 조개껍데기 모티프를 활용하여 마치 바람과 햇빛에 수십 년간 깎여 나간 듯한 유기적 질감을 연출했다.",
+      "url": "https://www.architecturaldigest.com/story/shell-shaped-mediterranean-villa",
+      "source": "architecturaldigest.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Gheri Architects",
+      "creator_insight": "건축가는 자연 환경과 인공 건축물의 경계를 모호하게 만들기 위해 인위적 인위성을 배제하고 곡면 스투코와 로컬 스톤의 질감을 정밀하게 정제해냈다.",
+      "tags": [
+        "유기적건축",
+        "공간디자인",
+        "지중해미학"
+      ],
+      "execution_techniques": [
+        "유기적 곡면 스투코",
+        "내추럴 스톤 텍스처링"
+      ],
+      "why": "공간 연출이나 상업 팝업에서 자연주의적 텍스처와 곡면 감성을 연출할 때 참고할 수 있는 압도적 텍스처 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.83,
+      "image": "https://media.architecturaldigest.com/photos/6ae0effeab44a618ac77495b/master/pass/FG_Porto-Rafael_ph-Gheri%20(6).jpg",
+      "pub_date": "2026-11-01T08:00:00.000000"
+    },
+    {
+      "title": "하쿠텐의 'SALVAGED WORKS': 폐기 자재에 내재된 서사를 끌어올린 인테리어 미학",
+      "content": "도쿄 디자인아트 2026에서 공개된 하쿠텐의 전시 프로젝트. 철거 현장에서 수거한 산업 폐기물과 파편을 고급 가구 및 공간 구조물로 재탄생시켰다.",
+      "url": "https://www.adfwebmagazine.jp/en/design/hakuten-interior-design-room-to-present-salvaged-works-at-designart-tokyo-2026/",
+      "source": "ADF Web Magazine",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "HAKUTEN INTERIOR DESIGN ROOM",
+      "creator_insight": "하쿠텐 팀은 거친 폐자재의 날것 그대로의 표면과 정밀하게 가공된 금속·유리 마감을 대비시켜, 거친 재료로 고급스러운 감각을 유발한다.",
+      "tags": [
+        "도쿄디자인아트",
+        "공간연출",
+        "하쿠텐"
+      ],
+      "execution_techniques": [
+        "클래시 오브 텍스처",
+        "대비적 재료 병치"
+      ],
+      "why": "리테일 공간이나 전시 스파티얼 디자인에서 재료의 미학적 대비를 극대화하는 시각적 힌트를 제시한다.",
+      "social_proof": "",
+      "depth": 0.82,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/10/adf-web-magazine-salvage-hakuten-designart-1-300x147.jpg",
+      "pub_date": "2026-11-01T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "피그마(Figma) 피쳐 업데이트가 디자이너를 자괴감에 빠뜨릴 때",
+      "content": "오토레이아웃과 복잡한 컴포넌트 구조 속에서 순간적으로 능률이 붕괴하는 디자이너들의 생생한 넋두리와 밈 모음.",
+      "url": "https://www.reddit.com/r/Design/comments/1xk5vp2/has_figma_ever_made_you_feel_genuinely_stupid/",
+      "source": "Reddit /r/Design",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "Figma",
+        "디자이너밈"
+      ],
+      "why": "툴의 노예가 된 현대 UI/UX 디자이너라면 누구나 뼈맞출 현실적인 유머와 공감대.",
+      "depth": 0.5,
+      "image": "https://preview.redd.it/4z2inj0rvryh1.png?width=320&crop=smart&auto=webp&s=15810c7caa6716c342092347b6fe9b584bb18b87",
+      "pub_date": "2026-11-01T08:00:00.000000"
+    },
+    {
+      "title": "그림자가 완성하는 위트: 일상 속 사물과 빛의 연극",
+      "content": "햇빛과 사물의 일치로 연출된 착시 기법 그림자 아트 모음집.",
+      "url": "https://www.fubiz.net/2023/01/10/amusing-pieces-made-with-shadows-3/",
+      "source": "Fubiz",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "그림자아트",
+        "비주얼위트"
+      ],
+      "why": "복잡한 그래픽 기술 없이 순수한 광원과 시점 비틀기만으로 만드는 짧고 명확한 시각적 숏폼 아이디어.",
+      "depth": 0.5,
+      "image": "https://www.fubiz.net/wp-content/uploads/2022/01/VB6.jpg",
+      "pub_date": "2026-11-01T08:00:00.000000"
+    },
+    {
+      "title": "2026년 에프터이펙트 커리큘럼: 복잡함의 늪에서 살아남기",
+      "content": "타임라인과 패널의 폭격 속에서 에프터이펙트의 핵심 기법만 효율적으로 쥐어짜내는 실전 모션디자인 가이드.",
+      "url": "https://medium.com/@bilalfarooq/how-to-learn-adobe-after-effects-in-2026-a-practical-roadmap-for-beginners-85022051c3b1?source=rss------design-5",
+      "source": "Medium Design Tag",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "AfterEffects",
+        "모션디자인"
+      ],
+      "why": "미루고 미루던 모션 그래픽 학습을 오늘 당장 시작하게 만드는 실용적인 튜토리얼 팁.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Medium%20Design%20Tag%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-11-01T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "다층적 질감 대치",
+      "is_hot": true
+    },
+    {
+      "word": "저의도적 B급 미학",
+      "is_hot": true
+    },
+    {
+      "word": "비워냄의 공간 구조화",
+      "is_hot": false
+    },
+    {
+      "word": "초밀도 공간 스위칭",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 하이브리드 모션",
+      "is_hot": false
+    },
+    {
+      "word": "파운드 오브제 재해석",
+      "is_hot": true
+    }
+  ]
+}
