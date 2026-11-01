@@ -1,0 +1,328 @@
+{
+  "date": "2026-11-02",
+  "focusQ": "디자인사적 유산과 감각적 절제를 상실한 브랜드는 껍데기만 남는다. 기술적 표피나 비공개 악수가 아닌, 본질적인 서사와 물리적 질감으로 승부해야 하는 시대다. 장식적 과잉을 쳐내고 서사의 밀도를 극대화하는 직관적 미학만이 기획의 생존 조건이다.",
+  "creator_message": "허울 좋은 AI 드라이브니 겉치레뿐인 리브랜딩이니 하는 말장난에 속지 마라. 표피만 매끄러운 디자인은 도로 위의 개성 없는 차종들처럼 빠르게 잊혀진다. 금주 큐레이션은 메시지의 과잉을 경계하고 물리적 물성과 기획의 칼날을 정교하게 다듬은 비주얼만을 골라냈다.",
+  "session": {
+    "timestamp": "2026-11-01T23:37:22.466750",
+    "considered": 40,
+    "selected": 10
+  },
+  "topPicks": [
+    {
+      "title": "친환경 전환의 묵직한 부작용을 기록한 톰 헤겐의 사진집 ‘더 미네랄 에이지’",
+      "content": "사진작가 톰 헤겐이 친환경 에너지 전환에 필요한 자원 채굴 현장의 거대하고 잔혹한 풍경을 수중 및 항공 촬영으로 기록했다. 아름다움과 비극이 공존하는 그래픽적인 앵글로 산업의 이면을 정교하게 조명한다.",
+      "url": "https://www.thisiscolossal.com/2026/10/tom-hegen-the-mineral-age-photo-book/",
+      "source": "Colossal",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Tom Hegen",
+      "creator_insight": "항공 촬영의 미학을 환경적 잔해의 비극적 풍경으로 환원시켜 상업적 세련미와 비판적 메시지를 동시에 쟁취한다.",
+      "tags": [
+        "항공사진",
+        "미학적다큐멘터리",
+        "환경조형"
+      ],
+      "execution_techniques": [
+        "#AerialScenography",
+        "#EnvironmentalAbstraction"
+      ],
+      "why": "친환경이라는 미명 하에 가려진 자원 채굴 현장을 정교한 미학적 조형미로 담아내어 시각적 메시지 전달의 극단을 보여준다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/Tom-Hegen-The-Mineral-Age-Press-2.jpg",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    },
+    {
+      "title": "WPP 최고경영자의 일침: 피치 없는 CEO 간 비공개 악수 거래에 대한 비판",
+      "content": "WPP의 신임 수장 신디 로즈가 최근 펩시코 사례와 같이 정식 경쟁 피치 없이 진행되는 비공개 에이전시 계약 행태를 날카롭게 비판했다. 기획의 실력과 검증 프로세스가 무시되는 광고업계의 구조적 문제를 꼬집는다.",
+      "url": "https://www.campaignlive.com/article/cindy-rose-criticizes-pitchless-ceo-handshake-deals/1973837",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Cindy Rose",
+      "creator_insight": "검증 없는 비공개 거래의 위험성을 경고하며 경쟁 피치를 통한 정당한 기획 평가 시스템의 회복을 촉구한다.",
+      "tags": [
+        "에이전시비즈니스",
+        "광고기획",
+        "브랜드전략"
+      ],
+      "execution_techniques": [
+        "#ExecutiveStrategy",
+        "#PitchTransparency"
+      ],
+      "why": "펩시코의 기습적인 에이전시 이적 등 최근 광고계의 어두운 이면을 조명하고 경쟁력 있는 기획의 본질적 가치를 환기한다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://www.campaignlive.com/img/logo-default-og.png",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    },
+    {
+      "title": "단편 애니메이션 ‘파이프(Pipes)’ - 퀴어 페티시 클럽에 불시착한 배관공",
+      "content": "배관공 밥이 고장 난 파이프를 고치기 위해 출동했다가 뜻밖에 퀴어 페티시 클럽 한가운데로 떨어지는 코미디 3D 단편 애니메이션. 유쾌하고 과감한 연출과 공간 반전이 돋보인다.",
+      "url": "https://vimeo.com/channels/staffpicks/1237176348",
+      "source": "Vimeo Staff Picks",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Kilian Feusi, Jessica Meier, Sujanth Ravichandran",
+      "creator_insight": "일상적 노동의 부조리와 전복적인 공간 감각을 유머러스한 카메라 연출과 리드미컬한 프레이밍으로 폭발시킨다.",
+      "tags": [
+        "3D애니메이션",
+        "코미디숏폼",
+        "공간전환"
+      ],
+      "execution_techniques": [
+        "#SurrealFraming",
+        "#RhythmEditing"
+      ],
+      "why": "명확한 콘셉트와 위트 있는 앵글 전환만으로 숏폼 폼팩터에서 서사적 쾌감을 끌어내는 연출력을 보여준다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://i.vimeocdn.com/video/2216929615-37651044bfb21ed4573e9349bb0f3b466c516a6220617caa17e51aaaf8c93785-d_960?region=us",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    },
+    {
+      "title": "버튼의 종말: 최선의 인터페이스는 인터페이스가 없는 것이다",
+      "content": "웹이 클릭과 폼, 메뉴 중심에서 인간의 의도를 중심으로 작동하는 환경으로 변모하고 있다. UX 디자이너가 무형의 인터페이스(No Interface) 시대에 맞추어 설계 방식과 관점을 전환해야 하는 이유를 논한다.",
+      "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+      "source": "Smashing Magazine",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Smashing Magazine UI Editorial",
+      "creator_insight": "그래픽 UI의 굴레에서 벗어나 인간의 의도와 행동 패턴을 직관적으로 읽어내는 무형의 인터페이스 구조를 제시한다.",
+      "tags": [
+        "ZeroUI",
+        "인터페이스디자인",
+        "UX패러다임"
+      ],
+      "execution_techniques": [
+        "#ZeroUIArchitecture",
+        "#IntentBasedDesign"
+      ],
+      "why": "파편화된 버튼과 클릭 유도 장치로 점철된 현재의 UX 패러다임을 전면 거부하고 무형의 인터페이스가 가져올 본질적 UX 변화를 통찰한다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    },
+    {
+      "title": "중국 전기차에 맞서는 유럽의 병기: 브랜드 디자인 유산의 재발견",
+      "content": "공기역학 풍동실험으로 인해 공장 밖의 모든 차종이 천편일률적인 형태가 되어가는 시대. 유럽 자동차 제조사들이 중국의 물량 공세에 대응해 그들만의 독보적인 디자인 유산을 어떻게 디자인 자산으로 되살리는지 분석한다.",
+      "url": "https://www.fastcompany.com/91629033/europe-has-a-weapon-to-wield-against-chinese-carmakers-its-design-history",
+      "source": "Fast Company",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Fast Company Design Analysis",
+      "creator_insight": "풍동 실험실이 만들어낸 똑같은 유선형 덩어리 속에서 역사적 헤리티지만이 유일한 브랜드 차별화 무기임을 증명한다.",
+      "tags": [
+        "모빌리티디자인",
+        "브랜드헤리티지",
+        "산업디자인"
+      ],
+      "execution_techniques": [
+        "#HeritageBranding",
+        "#FormFactorDNA"
+      ],
+      "why": "기술적 하향평준화 시대에 브랜드가 고유의 디자인 유산을 어떻게 시각적 자산으로 변환해야 하는지 짚어준다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91629033-design-dna.jpg",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    },
+    {
+      "title": "팔라스 x 버버리, 런던 플래그십 오픈 기념 한정판 캡슐 컬렉션 공개",
+      "content": "영국 스트리트웨어 브랜드 팔라스와 럭셔리 하우스 버버리가 런던 신규 플래그십 오픈을 기념해 협업 캡슐 컬렉션을 발표했다. 체크 패턴과 스트리트 실루엣의 도발적 결합을 보여준다.",
+      "url": "https://hypebeast.kr/2026/11/palace-skateboard-burberry-limited-edition-capsule-london-flagship-opening-exclusive-collaboration-release-info",
+      "source": "Hypebeast Korea",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Palace Skateboards & Burberry Creative Team",
+      "creator_insight": "하이엔드 럭셔리의 고전적 패턴과 스트리트 서브컬처의 파격적 위트를 충돌시켜 런던 플래그십의 스펙터클을 완성한다.",
+      "tags": [
+        "콜라보레이션",
+        "럭셔리스트리트",
+        "캡슐컬렉션"
+      ],
+      "execution_techniques": [
+        "#SubversiveCollaboration",
+        "#CulturalCollision"
+      ],
+      "why": "서로 다른 두 브랜드가 고유의 정체성을 훼손하지 않으면서 팝업 및 오프라인 플래그십의 화제성을 극대화하는 정석을 보여준다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F11%2Fpalace-skateboard-burberry-limited-edition-capsule-london-flagship-opening-exclusive-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    },
+    {
+      "title": "오설리반 스쿠포글루 아키텍츠: 고요하지만 단단한 조형미의 하이베리 정원 스튜디오",
+      "content": "런던 하이베리에 위치한 크리에이티브 커플의 가든 스튜디오. 낮게 깔린 벽돌 기단 위에 정갈한 목재 구조를 올려 조용하면서도 존재하는 공간적 아우라를 살려냈다.",
+      "url": "https://www.dezeen.com/2026/10/31/osullivan-skoufoglou-architects-garden-studio/",
+      "source": "Dezeen",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "O'Sullivan Skoufoglou Architects",
+      "creator_insight": "벽돌의 중량감과 목재의 따스한 질감을 대비시켜 소규모 작업 공간에 밀도 높은 프라이버시와 집중도를 부여한다.",
+      "tags": [
+        "스페이셜디자인",
+        "건축물성",
+        "작업공간"
+      ],
+      "execution_techniques": [
+        "#MaterialContrast",
+        "#TactileArchitecture"
+      ],
+      "why": "좁은 공간에서도 물성 간의 세심한 조화로 비범한 공간감을 창출해내는 스페이셜 디자인의 정수를 보여준다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_sq2-1024x1024.jpg",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    },
+    {
+      "title": "직설주의의 함정: 현대 미술이 도달한 가장 죽은 구석",
+      "content": "마니페스타 16 비엔날레를 통해 관념적 구호와 구체적 정치 메시지에만 매몰된 현대 아트 기획의 빈곤함을 날카롭게 조명한다. 메세지와 의미를 혼동하는 브랜딩 및 미술계의 직설주의를 침착하게 해부한다.",
+      "url": "https://www.artforum.com/features/kristian-madsen-manifesta-16-1234762346/",
+      "source": "Artforum",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Kristian Madsen",
+      "creator_insight": "수사학적 구호와 메시지 전달에 갇혀 은유의 미학을 상실한 기획과 예술 현장의 타락을 날카롭게 비판한다.",
+      "tags": [
+        "비평",
+        "전시기획",
+        "현대미술"
+      ],
+      "execution_techniques": [
+        "#CriticalAnalysis",
+        "#NarrativeDepth"
+      ],
+      "why": "관객에게 답을 강요하는 직설적 브랜딩과 기획이 왜 생명력을 잃는지 서사적 정교함의 부재 측면에서 꼬집는다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/Manifesta_16_St_Marien_ph_Ivan_Erofeev-IVER2792-HDR.jpg?w=650",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    },
+    {
+      "title": "Three.js 기반 절차적 종이 질감 위 수채화 번짐 연출 기법",
+      "content": "웹 3D 크리에이티브 코딩을 이용해 실제 종이 질감의 텍스처 위에서 자연스럽게 번지는 수채화 효과를 구현한 기술 아티클. 디지털 캔버스에서 물리적 아날로그 질감을 사실감 있게 재현한다.",
+      "url": "https://franky-arkon-digital.medium.com/realistic-watercolor-reveal-effect-on-procedural-paper-texture-with-three-js-514d06ab0aef?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Franky Arkon",
+      "creator_insight": "아날로그 수채화의 불확정적 번짐과 종이 질감을 코드 알고리즘으로 완벽히 통제해 디지털 인터랙션을 완성한다.",
+      "tags": [
+        "크리에이티브코딩",
+        "Threejs",
+        "디지털물성"
+      ],
+      "execution_techniques": [
+        "#ProceduralShading",
+        "#AnalogSimulation"
+      ],
+      "why": "웹 기술 기반 연출이 어떻게 아날로그적 온기와 정교한 미학을 인터랙티브하게 재현할 수 있는지 기술적 시각성을 제시한다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://cdn-images-1.medium.com/max/2440/1*txn4mYiS4ajpuPmVYw15_Q.jpeg",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    },
+    {
+      "title": "공간과 소리의 서사: 음악공방 피오레움, 신민규 피아니스트 초대석",
+      "content": "밀폐된 오디오 소공방 피오레움에서 펼쳐진 피아니스트 신민규의 밀착형 연주회. 악기의 떨림과 음향적 공명을 사적인 공간의 서사로 풀어내어 몰입감을 선사한다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=83128",
+      "source": "아트인사이트",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "신민규 피아니스트 & 피오레움",
+      "creator_insight": "밀폐된 소규모 공방의 오디오 음향 특성과 건반의 밀착된 울림을 살려 클래식 연주의 직관적 몰입감을 극대화한다.",
+      "tags": [
+        "공간음향",
+        "클래식공연",
+        "사적공간기획"
+      ],
+      "execution_techniques": [
+        "#AcousticSpatialization",
+        "#PerformanceFraming"
+      ],
+      "why": "대형 콘서트홀을 벗어나 소규모 사적 공간에서 펼쳐지는 연주 기획이 어떻게 브랜드 경험의 깊이를 높이는지 보여준다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://www.artinsight.co.kr/data/tmp/2611/20261101180000_zoypwtge.jpeg",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "모션 인식 웹 악기 ‘에어 테레민’",
+      "content": "스마트폰을 기울이거나 카메라 앞에서 손을 흔드는 동작만으로 피치와 음량을 조절하는 웹 테레민 토이.",
+      "url": "https://theremin.bizibah.com/",
+      "source": "Sidebar.io",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "인터랙티브웹",
+        "모션인식"
+      ],
+      "why": "카메라와 기기 기울기 센서만으로 순식간에 몰입감을 유발하는 웹 인터랙션의 재미있는 레퍼런스.",
+      "depth": 0.5,
+      "image": "https://theremin.bizibah.com/og.png",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    },
+    {
+      "title": "샴페인 병에서 영감을 얻은 나이키 SB 덩크 ‘블랙 스프루스’",
+      "content": "유광 에나멜 가죽과 스페셜 컬러웨이로 샴페인의 고급스러운 질감을 표현한 스케이트보드 화.",
+      "url": "https://www.highsnobiety.com/p/nike-sb-dunk-black-spruce/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "스니커즈",
+        "재질감"
+      ],
+      "why": "스트리트 스케이트보드 화에 럭셔리 샴페인 패키징 기법을 위트 있게 재해석한 물성 결합 레퍼런스.",
+      "depth": 0.5,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1793548725-nike-sb-dunk-black-spruce-0.jpg",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    },
+    {
+      "title": "입문자를 위한 4색 3D 프린터 '엘레구 센타우리 카본 2'",
+      "content": "합리적인 가격대에 다색 출력을 지원하여 실물 시제품 제작 장입장벽을 낮춘 3D 프린터 리뷰.",
+      "url": "https://www.creativebloq.com/deals/this-brilliant-budget-3d-printer-is-the-one-i-would-buy-if-i-were-getting-into-the-hobby",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "3D프린팅",
+        "하드웨어"
+      ],
+      "why": "하드웨어 프로토타이핑을 손쉽게 테스트하고자 하는 크리에이터에게 유용한 실성능 스낵 뉴스.",
+      "depth": 0.5,
+      "image": "https://cdn.mos.cms.futurecdn.net/PJdQpexfJwSpkuxEMdQZrh-1920-80.jpg",
+      "pub_date": "2026-11-02T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "물성 기반 서사",
+      "is_hot": true
+    },
+    {
+      "word": "인터페이스 비가시화",
+      "is_hot": true
+    },
+    {
+      "word": "헤리티지 조형성",
+      "is_hot": true
+    },
+    {
+      "word": "직설주의 탈피",
+      "is_hot": false
+    },
+    {
+      "word": "절차적 아날로그",
+      "is_hot": false
+    },
+    {
+      "word": "공간 음향 몰입",
+      "is_hot": false
+    }
+  ]
+}
