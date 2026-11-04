@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-04",
+  "focusQ": "겉핥기식 트렌드와 알맹이 없는 미사여구를 배제하고 본질적인 구조와 물성에 집중한 레퍼런스를 가려냈다. 디지털 스크린의 가벼움을 넘어서는 연출의 밀도와 날카로운 전략만이 실제 창작의 기준점이 된다.",
+  "creator_message": "화려한 수식어로 범벅된 기획안에 속지 마라. 미학적 완성도는 단단한 물성과 정교한 연출에서만 나온다. 오늘 큐레이션된 프로젝트들에서 폼만 잡는 가짜를 솎아내는 실전 안목을 다지길 바란다.",
+  "session": {
+    "timestamp": "2026-11-04T00:39:30.838449",
+    "considered": 40,
+    "selected": 8
+  },
+  "topPicks": [
+    {
+      "title": "애틀랜타 하이 뮤지엄 전 COO 60만 달러 횡령으로 징역형 선고",
+      "content": "애틀랜타 하이 뮤지엄 오브 아트의 전 최고운영책임자 브래디 럼이 기관 자금 60만 달러 이상을 횡령한 혐의로 연방 교도소 1년형을 선고받았다. 7년간 재직하며 저지른 범죄가 법적 처벌로 마무리된 사건이다.",
+      "url": "https://www.theartnewspaper.com/2026/11/03/high-museum-art-chief-operating-officer-sentenced-embezzling-funds",
+      "source": "The Art Newspaper",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Brady Lum, High Museum of Art",
+      "creator_insight": "문화예술 기관의 투명성과 브랜딩 뒤에 숨은 내부 통제 시스템의 붕괴를 단적으로 보여준다.",
+      "tags": [
+        "아트이슈",
+        "기관운영",
+        "브랜드리스크"
+      ],
+      "execution_techniques": [
+        "#InstitutionalRisk",
+        "#CrisisManagement"
+      ],
+      "why": "유명 미술관이라는 비영리 브랜드가 내부 관리 부실로 한순간에 신뢰도를 잃는 과정을 보여주는 리스크 관리 레퍼런스다.",
+      "social_proof": "2개 매체 동시 포착: former high museum",
+      "depth": 0.9,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/e2080b69aa4d680f49ae2dd08b15908ee4a45a80-1280x914.jpg?w=140",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "공공 공간 스파티얼 연출: 전북 건강생활지원센터 인테리어 제안",
+      "content": "디자인 스튜디오 '디자인투플라이'가 진행한 전북 건강생활지원센터의 인테리어 기획안. 자칫 지루해지기 쉬운 공공 보건 시설을 현대적이고 유기적인 동선과 소재감으로 풀어냈다.",
+      "url": "https://www.designtwoply.com/planning/%ec%a0%84%eb%b6%81-%e2%97%8b%e2%97%8b%ec%8b%9c-%ea%b1%b4%ea%b0%95%ec%83%9d%ed%99%9c%ec%a7%80%ec%9b%90%ec%84%bc%ed%84%b0-%ec%9d%b8%ed%85%8c%eb%a6%ac%ec%96%b4-%ec%a0%9c%ec%95%88/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%2584%25eb%25b6%2581-%25e2%2597%258b%25e2%2597%258b%25ec%258b%259c-%25ea%25b1%25b4%25ea%25b0%2595%25ec%2583%259d%25ed%2599%259c%25ec%25a7%2580%25ec%259b%2590%25ec%2584%25bc%25ed%2584%25b0-%25ec%259d%25b8%25ed%2585%258c%25eb%25a6%25ac%25ec%2596%25b4-%25ec%25a0%259c%25ec%2595%2588",
+      "source": "디자인투플라이",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "디자인투플라이 (Design Two Ply)",
+      "creator_insight": "경직된 공공기관 인테리어 문법을 절제된 마감재와 곡선형 동선으로 재해석했다.",
+      "tags": [
+        "한국디자인",
+        "공간기획",
+        "인테리어디자인"
+      ],
+      "execution_techniques": [
+        "#SpatialScenography",
+        "#PublicArchitecture"
+      ],
+      "why": "공공 프로젝트의 제한된 조건 속에서도 세련된 감도를 유지하는 국내 스튜디오의 실전 기획력을 배울 수 있다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2026/08/planning-cover-health.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "데이터 기반 푸드 R&D: 오픈서베이의 신제품 컨셉 검증 프레임워크",
+      "content": "식품 신제품 개발 시 기술 기반 아이디어를 소비자 데이터로 정량화하여 증명하는 오픈서베이의 유즈케이스. 감에 의존하던 신제품 기획을 실증적 지표로 전환하는 기획 방법론을 다룬다.",
+      "url": "https://blog.opensurvey.co.kr/ai/food-concept-studio-usecase-rnd/",
+      "source": "오픈서베이 블로그",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "오픈서베이 (Opensurvey)",
+      "creator_insight": "크리에이티브 기획에 정량적 데이터 타당성을 결합하여 브랜드 설득력을 극대화한다.",
+      "tags": [
+        "데이터마케팅",
+        "소비자분석",
+        "제품기획"
+      ],
+      "execution_techniques": [
+        "#DataDrivenDesign",
+        "#ConceptTesting"
+      ],
+      "why": "마케터와 기획자가 주관적인 직관에 그치지 않고 시장 설득력을 갖춘 데이터 지표를 구축하는 방식을 명확히 보여준다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blog.opensurvey.co.kr/wp-content/uploads/2026/10/26_conceptstudio_blog_ai_product_04-1.png",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "트라우마와 집착을 그리는 단편 영화 'Don't Be Afraid'",
+      "content": "괴로움에 시달리는 사진작가가 복귀를 시도하며 벌어지는 심리적 갈등을 다룬 단편 연출작. 인물의 내면적 불안을 극적인 조명과 거친 미장센으로 포착했다.",
+      "url": "https://www.shortoftheweek.com/2026/10/26/dont-be-afraid/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Short of the Week Curators",
+      "creator_insight": "심리적 프레임워크와 밀폐된 공간 연출을 통해 캐릭터의 광기를 직관적으로 전한다.",
+      "tags": [
+        "단편영화",
+        "미장센",
+        "심리 연출"
+      ],
+      "execution_techniques": [
+        "#ChiaroscuroLighting",
+        "#PsychologicalFraming"
+      ],
+      "why": "제한된 런타임 속에서 캐릭터의 집착을 visual tone만으로 고조시키는 연출 테크닉이 탁월하다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://static.shortoftheweek.com/wp-content/uploads/2026/10/Dont-Be-Afraid-Thumb-04.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "권력 다툼과 연극의 경계를 허문 영화 'Backstage'",
+      "content": "에밀 V. 슈레서 감독의 'Backstage'는 무대 위 연극적 권력관계와 무대 뒤 실제 학대 양상을 교차시킨다. 연출과 현실의 모호한 경계를 통렬하게 짚어내는 각본 구조를 보여준다.",
+      "url": "https://directorsnotes.com/2026/10/26/emile-v-schlesser-backstage/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Émile V. Schlesser",
+      "creator_insight": "메타 서사 구조를 이용해 창작 현장 내 액팅과 실제 폭력의 모호성을 고발한다.",
+      "tags": [
+        "메타서사",
+        "영화연출",
+        "시나리오"
+      ],
+      "execution_techniques": [
+        "#MetaNarrative",
+        "#StageToScreen"
+      ],
+      "why": "연극과 영화의 문법을 결합해 인간관계의 위선과 권력 구도를 날카롭게 차단해 보여주는 연출안이다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/10/backstage_11.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "픽셀을 넘어 물성으로 확장되는 알렉스 로리슨의 사진 오브제",
+      "content": "사진작가 알렉스 로리슨은 화면 속 픽셀에 머무는 사진이 아닌, 직접 만질 수 있는 물리적 개체로서의 사진 연작을 작업한다. 사진을 물질적 조각으로 다루는 감각을 제공한다.",
+      "url": "https://www.itsnicethat.com/articles/alex-rorison-photography-discover-021126",
+      "source": "It's Nice That",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Alex Rorison",
+      "creator_insight": "평면적인 평면 이미지를 입체적 물성으로 재가공하여 디지털 과잉 시대에 회화적 실체감을 선사한다.",
+      "tags": [
+        "사진미학",
+        "물성",
+        "시각예술"
+      ],
+      "execution_techniques": [
+        "#TactilePhotography",
+        "#MaterialObject"
+      ],
+      "why": "디지털 스크린 중심의 비주얼 제작 방식에 반기를 들고, 물질성을 가진 레퍼런스로서 사진의 가치를 다각화한다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://admin.itsnicethat.com/images/Av9mbztGkcU-XKL3bcpS5yOQx6Y=/284099/width-1440/acr_size_asics_45_WR.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "형상을 초월한 공간 미학: Further Ther 스튜디오의 리스본 주거 연출",
+      "content": "토마스 페르난데스와 나타샤 그제시키에비치가 이끄는 Further Ther의 리스본 홈 인테리어. 단단한 구조적 형태를 넘어 거주자의 삶과 취향이 녹아든 공간 스케일 연출을 보여준다.",
+      "url": "https://www.ignant.com/2026/10/12/design-beyond-form-at-home-with-tomas-fernandes-and-natasza-grzeskiewicz-of-further-ther/",
+      "source": "ignant.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Tomás Fernandes, Natasza Grzeskiewicz",
+      "creator_insight": "정형화된 디자인 가구를 배제하고 여백과 비대칭성을 활용해 독창적인 주거 톤앤매너를 완성했다.",
+      "tags": [
+        "공간디자인",
+        "주거인테리어",
+        "스노비즘"
+      ],
+      "execution_techniques": [
+        "#MinimalistScenography",
+        "#SpatialTexture"
+      ],
+      "why": "단순히 예쁜 가구를 배밀하는 수준을 넘어, 공간의 비례감과 여백으로 완성도를 극대화하는 방식을 고찰할 수 있다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://www.IGNANT.com/wp-content/uploads/2026/10/ignant-furtherther-lisbon-clemens-poloczek-28-720x960.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "원격 아바타 바텐더가 제안하는 기술 기반 리테일 가스통 모노 'OrySnack'",
+      "content": "도쿄에 등장한 OrySnack 바는 집에서 원격 근무하는 아바타 바텐더가 손님을 맞이한다. 기술 기반의 접객 스타일을 음료 문화에 이식한 차세대 공간 개념이다.",
+      "url": "https://spoon-tamago.com/orysnack-avatar-bartender/?utm_source=rss&utm_medium=rss&utm_campaign=orysnack-avatar-bartender",
+      "source": "Spoon & Tamago",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Ory Lab",
+      "creator_insight": "원격 노동의 차가움을 아바타 브랜드 캐릭터를 통한 따뜻한 대화 경험으로 치환했다.",
+      "tags": [
+        "리테일테크",
+        "공간경험",
+        "브랜드브랜딩"
+      ],
+      "execution_techniques": [
+        "#AvatarHospitality",
+        "#RetailTech"
+      ],
+      "why": "기술 도입이 자칫 차가워지기 쉬운 오프라인 공간에서 접객 경험을 미학적으로 설계하는 신선한 접근법이다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/10/OrySnack-remote-avatar-bartenders-4-200x125.jpeg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "Rob Ulitski 감독의 뮤직비디오 Ear Candy 'Clean Clothes'",
+      "content": "위트 넘치는 연출과 비비드한 컬러 필터링이 돋보이는 Rob Ulitski의 세탁소 배경 뮤직비디오.",
+      "url": "https://www.promonews.tv/videos/2026/11/03/ear-candy-clean-clothes-rob-ulitski/96844",
+      "source": "promonews.tv",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "뮤직비디오",
+        "컬러풀비주얼"
+      ],
+      "why": "팝한 색감과 위트 있는 숏폼 스타일 연출 컷을 수집하기에 적합한 비주얼 스낵.",
+      "depth": 0.5,
+      "image": "https://admin.promonews.tv/sites/default/files/styles/bmvd_content_page/public/earcandy_cleanclothes_1%20Large.jpeg?itok=Vb5MP4Yx",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "욕실로 들어온 스마트 홈: VitrA V-Care 3 양변기 스튜디오",
+      "content": "noa design studio와의 협업으로 완성된 지능형 스마트 양변기 디자인 라인업.",
+      "url": "https://www.designboom.com/design/smart-home-technology-bathroom-vitra-v-care-3/",
+      "source": "Designboom",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "스마트홈",
+        "산업디자인"
+      ],
+      "why": "가장 사적인 공간까지 파고드는 리빙 테크 제품의 유기적 형태감을 확인해볼 법하다.",
+      "depth": 0.5,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/vitra-bathrooms-v-care-3-designboom-700-500x400-22b08q85r440.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "아도비 구독 해제 절차 관련 집단 소송 재개",
+      "content": "미국 연방법원이 어도비의 복잡한 구독 취소 절차와 위약금 부과 문제에 대한 집단 소송을 재개시켰다.",
+      "url": "https://thedieline.com/federal-judge-revives-class-action-suit-against-adobe-over-subscription-cancellations/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "크리에이터이슈",
+        "구독모델"
+      ],
+      "why": "모든 디자이너가 매달 겪는 다크 패턴 관련 법적 공방으로 실질적 업계 이슈를 파악하기 좋다.",
+      "depth": 0.5,
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/AdobeStock_334129978_Editorial_Use_Only-scaled.jpeg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "물성 중심 미학",
+      "is_hot": true
+    },
+    {
+      "word": "공공 공간 연출",
+      "is_hot": false
+    },
+    {
+      "word": "정량적 데이터 검증",
+      "is_hot": true
+    },
+    {
+      "word": "메타 서사 구조",
+      "is_hot": false
+    },
+    {
+      "word": "리테일 아바타 접객",
+      "is_hot": true
+    },
+    {
+      "word": "브랜드 윤리 리스크",
+      "is_hot": false
+    }
+  ]
+}
