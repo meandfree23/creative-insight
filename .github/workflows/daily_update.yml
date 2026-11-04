@@ -35,11 +35,11 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI || secrets.GEMINI_API_KEY || secrets.GOOGLE_API_KEY }}
           GOOGLE_API_KEY: ${{ secrets.GEMINI || secrets.GEMINI_API_KEY || secrets.GOOGLE_API_KEY }}
         run: |
-          if [ $(date +%w) -eq 0 ]; then
-            echo "Running Radar Agent to discover new sources..."
+          if [ $(TZ='Asia/Seoul' date +%w) -eq 0 ]; then
+            echo "Running Radar Agent to discover new sources (KST Sunday)..."
             python agents/radar.py
           else
-            echo "Not Sunday. Skipping Radar Agent."
+            echo "Not Sunday in KST. Skipping Radar Agent."
           fi
 
       - name: Run script
@@ -49,9 +49,10 @@ jobs:
         run: |
           python fetch_ideas.py ${{ github.event.inputs.target_date }}
 
-          # Save all generated daily files to a temporary directory
+          # Save all generated daily files AND sources.json to temporary directory
           mkdir -p /tmp/daily_backup
           cp data/daily/*.json /tmp/daily_backup/
+          cp data/sources.json /tmp/daily_backup/sources.json
 
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -61,8 +62,9 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             
-            # Restore all generated files
+            # Restore all generated files and preserved sources registry
             cp /tmp/daily_backup/*.json data/daily/
+            cp /tmp/daily_backup/sources.json data/sources.json
             
             # Rebuild manifest.json dynamically
             python3 -c "import os, json; json.dump({'dates': sorted([f.replace('.json', '') for f in os.listdir('data/daily') if f.endswith('.json')], reverse=True)}, open('data/manifest.json', 'w'), indent=2)"

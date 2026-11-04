@@ -10,42 +10,89 @@ if api_key:
 
 SOURCES_FILE = "data/sources.json"
 
-CATEGORIES = ["DESIGN", "TECH_ART", "UIUX", "BRANDING", "ART", "ARCHITECTURE", "TREND_RESEARCH", "MARKETING", "KOREAN_TREND"]
+CATEGORIES = [
+    "KOREAN_TREND", "TREND_RESEARCH", "BRANDING", "MARKETING", 
+    "TECH_ART", "SPATIAL", "MOTION_FILM", "DESIGN", "UIUX", "ART"
+]
+
+def pick_weighted_category(sources):
+    """
+    Pick category with inverse weighting: categories with fewer sources get picked more often
+    to organically heal catalog imbalances (e.g. KOREAN_TREND, TREND_RESEARCH).
+    """
+    counts = {cat: 0 for cat in CATEGORIES}
+    for s in sources:
+        cat = s.get("category")
+        if cat in counts:
+            counts[cat] += 1
+        elif cat == "FILM":
+            counts["MOTION_FILM"] += 1
+        elif cat == "ARCHITECTURE":
+            counts["SPATIAL"] += 1
+            
+    # Compute inverse weights (fewer sources = higher probability)
+    max_c = max(counts.values()) if counts else 10
+    weights = [max(1, max_c - counts[cat] + 2) for cat in CATEGORIES]
+    chosen = random.choices(CATEGORIES, weights=weights, k=1)[0]
+    print(f"Target category selected by Radar Agent: {chosen} (Current source count: {counts.get(chosen, 0)})")
+    return chosen
 
 def discover_new_sources():
     print("Initiating Radar Agent: Brainstorming new sources...")
-    target_category = random.choice(CATEGORIES)
+    with open(SOURCES_FILE, "r", encoding="utf-8") as f:
+        existing_sources = json.load(f)
+        
+    target_category = pick_weighted_category(existing_sources)
     
     category_hint = ""
     if target_category == "KOREAN_TREND":
         category_hint = """
-    This category is specifically about the KOREAN market. You MUST suggest real Korean-language
-    consumer trend, culture, or marketing-insight sources (e.g. Korean research firms, Korean
-    marketing/agency blogs, Korean Naver/Tistory blogs about trends), NOT English-language sources.
+    This category is specifically about the KOREAN market (Korean design, consumer culture, branding, ad campaigns).
+    You MUST suggest real Korean-language sources with active RSS feeds.
+    Examples of valid Korean feed formats:
+    - Naver Blog RSS: https://rss.blog.naver.com/[blog_id].xml
+    - Tistory RSS: https://[blog_name].tistory.com/rss
+    - Medium Korean Tags: https://medium.com/feed/tag/korea, https://medium.com/feed/tag/korean-design
+    - Korean design/marketing news: e.g. OpenAds, MadTimes, Design Jungle, etc.
+    Do NOT suggest generic English design blogs for this category.
     """
     elif target_category == "TREND_RESEARCH":
         category_hint = """
-    This category is about genuine trend-spotting / consumer-insight / zeitgeist-tracking media
-    (the kind of outlets that forecast what's next in culture, retail, and consumer behavior),
-    NOT generic design portfolio blogs.
+    This category is for forecasting, consumer insight, zeitgeist culture, and future retail/tech trends.
+    Examples: Substack publications on culture/strategy, Medium tags (consumer-trends, future-trends),
+    trend research blogs, Reddit (r/futurology, r/socialmedia).
     """
     elif target_category == "MARKETING":
         category_hint = """
-    This category is about marketing/advertising trade press covering brand campaigns, media
-    strategy, and consumer engagement news, not general design inspiration blogs.
+    This category is for marketing, advertising activations, brand strategy, and creative campaigns.
+    Examples: Adweek/AdAge feeds, Substack brand strategy newsletters, Medium tags (marketing-strategy, branding).
+    """
+    elif target_category == "SPATIAL":
+        category_hint = """
+    This category is for spatial scenography, exhibition media, architectural installations, and physical branding.
+    Examples: Frame Web, ArchDaily, Designboom, Gooood, Yellowtrace feeds.
+    """
+    elif target_category == "TECH_ART":
+        category_hint = """
+    This category is for interactive media art, creative coding, kinetic installations, and generative visuals.
+    Examples: CreativeApplications, Reddit (r/generative, r/touchdesigner), Vimeo channels on projection mapping/kinetic art.
+    """
+    elif target_category == "MOTION_FILM":
+        category_hint = """
+    This category is for short film, motion design, cinematic camera work, and commercial directing.
+    Examples: Vimeo channels, Stash Media, Motionographer, Director's Notes, Short of the Week.
     """
 
     prompt = f"""
-    You are an AI Radar Agent specialized in discovering high-quality creative data sources.
-    Instead of guessing custom domain RSS feeds that often 404, you MUST construct valid RSS feeds from proven platforms:
-    - Medium Tag: https://medium.com/feed/tag/[tag-name]
-    - Substack: https://[publication].substack.com/feed
-    - Vimeo Channel: https://vimeo.com/channels/[channelname]/videos/rss
-    - Reddit: https://www.reddit.com/r/[subreddit]/.rss
+    You are an autonomous AI Radar Agent specialized in discovering high-quality creative data sources with active RSS feeds.
+    Target Category: {target_category}
     {category_hint}
-    Suggest 5 highly specific, niche, and professional feeds for the category: {target_category}.
-    Return ONLY a JSON array of objects with keys: "name", "url", and "category".
-    Ensure "category" is {target_category}.
+    
+    Requirements:
+    1. Every suggested source MUST have a real, valid, working RSS or Atom feed URL.
+    2. Suggest 5 highly specific, niche, and professional feeds.
+    3. Return ONLY a valid JSON array of objects with keys: "name", "url", and "category".
+    4. Ensure "category" is strictly "{target_category}".
     """
     
     supported_models = []
@@ -127,7 +174,8 @@ def validate_and_add(suggestions):
             
         print(f"Validating RSS feed: {name} ({url})...")
         try:
-            feed = feedparser.parse(url)
+            headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+            feed = feedparser.parse(url, request_headers=headers)
             if feed.entries and len(feed.entries) > 0:
                 print(f"  -> SUCCESS! Found {len(feed.entries)} entries. Adding to registry.")
                 sources.append({"name": name, "url": url, "category": category})

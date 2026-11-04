@@ -632,5 +632,40 @@
     "name": "Trend Bible",
     "url": "https://www.trendbible.com/feed",
     "category": "TREND_RESEARCH"
+  },
+  {
+    "name": "매드타임스 (MadTimes - 한국 광고마케팅 트렌드)",
+    "url": "https://www.madtimes.org/rss/allArticle.xml",
+    "category": "KOREAN_TREND"
+  },
+  {
+    "name": "Medium - Korean Design & Culture",
+    "url": "https://medium.com/feed/tag/korean-design",
+    "category": "KOREAN_TREND"
+  },
+  {
+    "name": "Substack - The Honest Broker (Ted Gioia - Cultural Trends)",
+    "url": "https://www.honest-broker.com/feed",
+    "category": "TREND_RESEARCH"
+  },
+  {
+    "name": "Substack - After School by Casey Lewis (Youth Culture Trends)",
+    "url": "https://afterschool.substack.com/feed",
+    "category": "TREND_RESEARCH"
+  },
+  {
+    "name": "r/generative - Algorithmic and Generative Art",
+    "url": "https://www.reddit.com/r/generative/.rss",
+    "category": "TECH_ART"
+  },
+  {
+    "name": "Medium - Generative AI & Digital Art",
+    "url": "https://medium.com/feed/tag/generative-art",
+    "category": "TECH_ART"
+  },
+  {
+    "name": "Designboom - Architecture & Spatial Installations",
+    "url": "https://www.designboom.com/feed/",
+    "category": "SPATIAL"
   }
 ]
