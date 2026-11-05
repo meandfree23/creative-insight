@@ -42,7 +42,8 @@
   {
     "name": "maxgoldmandp.com",
     "url": "https://maxgoldmandp.com/feed/",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "thestylewatcher.wordpress.com",
@@ -62,7 +63,8 @@
   {
     "name": "photobookstore.co.uk",
     "url": "https://photoeditions.pub/rss",
-    "category": "PHOTOGRAPHY"
+    "category": "PHOTOGRAPHY",
+    "fail_count": 1
   },
   {
     "name": "architecturaldigest.com",
@@ -102,12 +104,14 @@
   {
     "name": "creativereview.co.uk",
     "url": "https://www.creativereview.co.uk/feed/",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "hubbardbirchler.net",
     "url": "https://www.hubbardbirchler.net/feed/",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "url": "https://rss.blog.naver.com/jujukey.xml",
@@ -151,7 +155,8 @@
   },
   {
     "url": "http://www.dailymotion.com/rss",
-    "category": "MOTION_FILM"
+    "category": "MOTION_FILM",
+    "fail_count": 1
   },
   {
     "url": "https://hypebeast.kr/feed",
@@ -163,7 +168,8 @@
   },
   {
     "url": "https://directorslibrary.com/feed/",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "url": "https://www.stashmedia.tv/feed/",
@@ -187,7 +193,8 @@
   },
   {
     "url": "https://blog.naver.com/feed",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "url": "https://rss.blog.naver.com/sabids.xml",
@@ -207,15 +214,18 @@
   },
   {
     "url": "https://thenationalgrid.com.au/welcome?format=rss",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "url": "https://adim21.co.kr/wp-content/plugins/kboard/rss.php",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "url": "http://smadani.com/feed",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "Creative Boom",
@@ -238,7 +248,8 @@
   },
   {
     "url": "http://www.adim21.co.kr/feed",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "It's Nice That",
@@ -298,17 +309,20 @@
   {
     "name": "ART iT",
     "url": "https://art-it.asia/en/feed",
-    "category": "ART"
+    "category": "ART",
+    "fail_count": 1
   },
   {
     "name": "SHIFT",
     "url": "https://shift.jp.org/en/blog/feed",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "Shotenkenchiku",
     "url": "https://shotenkenchiku.com/blog/en/feed",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "Spoon & Tamago",
@@ -318,7 +332,8 @@
   {
     "name": "Tokyo Art Beat",
     "url": "https://www.tokyoartbeat.com/rss",
-    "category": "ART"
+    "category": "ART",
+    "fail_count": 1
   },
   {
     "name": "IDEA Magazine",
@@ -328,7 +343,8 @@
   {
     "name": "Street Art Barcelona",
     "url": "https://streetartbcn.com/feed",
-    "category": "ART"
+    "category": "ART",
+    "fail_count": 1
   },
   {
     "name": "Base Elements Blog",
@@ -343,7 +359,8 @@
   {
     "name": "Arquitectura Viva",
     "url": "https://arquitecturaviva.com/feed",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "The Art Wolf",
@@ -353,7 +370,8 @@
   {
     "name": "Berlin Art Link",
     "url": "https://www.berlinartlink.com/feed/",
-    "category": "ART"
+    "category": "ART",
+    "fail_count": 1
   },
   {
     "name": "Art Aurea",
@@ -393,7 +411,8 @@
   {
     "name": "Eye on Design",
     "url": "https://eyeondesign.aiga.org/feed",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "Designboom",
@@ -417,7 +436,8 @@
   },
   {
     "url": "https://www.hubbardbirchler.net/feed",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "url": "https://motionographer.com/feed",
@@ -436,7 +456,8 @@
   {
     "name": "Frame Web",
     "url": "https://frameweb.com/rss",
-    "category": "SPATIAL"
+    "category": "SPATIAL",
+    "fail_count": 1
   },
   {
     "name": "Yellowtrace",
@@ -466,12 +487,14 @@
   {
     "name": "UnderConsideration: Brand New",
     "url": "https://feeds.feedburner.com/brandnew",
-    "category": "BRANDING"
+    "category": "BRANDING",
+    "fail_count": 1
   },
   {
     "name": "The Drum",
     "url": "https://www.thedrum.com/rss",
-    "category": "BRANDING"
+    "category": "BRANDING",
+    "fail_count": 1
   },
   {
     "name": "Creative Applications",
@@ -491,17 +514,20 @@
   {
     "name": "Reddit /r/CreativeCoding",
     "url": "https://www.reddit.com/r/CreativeCoding/top/.rss?t=day",
-    "category": "TECH_ART"
+    "category": "TECH_ART",
+    "fail_count": 1
   },
   {
     "name": "Reddit /r/web_design",
     "url": "https://www.reddit.com/r/web_design/top/.rss?t=day",
-    "category": "UIUX"
+    "category": "UIUX",
+    "fail_count": 1
   },
   {
     "name": "Reddit /r/graphic_design",
     "url": "https://www.reddit.com/r/graphic_design/top/.rss?t=day",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "Medium Design Tag",
@@ -561,17 +587,20 @@
   {
     "name": "Nowness",
     "url": "https://www.nowness.com/feed",
-    "category": "FILM"
+    "category": "FILM",
+    "fail_count": 1
   },
   {
     "name": "LBBOnline",
     "url": "https://www.lbbonline.com/news/rss",
-    "category": "MARKETING"
+    "category": "MARKETING",
+    "fail_count": 1
   },
   {
     "name": "Ad Age",
     "url": "https://adage.com/rss",
-    "category": "MARKETING"
+    "category": "MARKETING",
+    "fail_count": 1
   },
   {
     "name": "Campaign Live",
@@ -586,7 +615,8 @@
   {
     "name": "Shots",
     "url": "https://shots.net/rss",
-    "category": "FILM"
+    "category": "FILM",
+    "fail_count": 1
   },
   {
     "name": "Booooooom TV",
@@ -636,7 +666,8 @@
   {
     "name": "매드타임스 (MadTimes - 한국 광고마케팅 트렌드)",
     "url": "https://www.madtimes.org/rss/allArticle.xml",
-    "category": "KOREAN_TREND"
+    "category": "KOREAN_TREND",
+    "fail_count": 1
   },
   {
     "name": "Medium - Korean Design & Culture",
@@ -651,7 +682,8 @@
   {
     "name": "Substack - After School by Casey Lewis (Youth Culture Trends)",
     "url": "https://afterschool.substack.com/feed",
-    "category": "TREND_RESEARCH"
+    "category": "TREND_RESEARCH",
+    "fail_count": 1
   },
   {
     "name": "r/generative - Algorithmic and Generative Art",
