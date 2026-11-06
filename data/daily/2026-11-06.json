@@ -1,0 +1,264 @@
+{
+  "date": "2026-11-06",
+  "focusQ": "안이한 AI 텍스트 생성과 무분별한 브랜드 리브랜딩이 범람하는 시장에서 진짜 직관을 증명하는 것은 오직 디테일과 집요한 물성뿐이다. 오늘 큐레이션은 불필요한 장식을 덜어내고 타깃의 심리를 직접 타격하는 독창적 연출과 공간 브랜딩에 집중한다.",
+  "creator_message": "말만 거창한 겉치레는 치워라. 클라이언트를 설득하고 소비자의 시선을 사로잡는 건 말장난이 아니라 압도적인 시각적 미학이다. 오늘 소개하는 레퍼런스들의 서사와 마감 재질을 똑똑히 확인해라.",
+  "session": {
+    "timestamp": "2026-11-06T01:00:59.411127",
+    "considered": 40,
+    "selected": 8
+  },
+  "topPicks": [
+    {
+      "title": "RVMN이 설계한 서울의 하이엔드 웨딩 라운지 'WISE'",
+      "content": "한국의 프리미엄 웨딩 시장을 겨냥해 RVMN 스튜디오가 선보인 WISE 라운지는 절제된 미학적 매스감과 은은한 조명 연출로 독보적인 공간 몰입감을 제시한다.",
+      "url": "https://retaildesignblog.net/2026/11/05/wise-lounge-by-rvmn/",
+      "source": "Retail Design Blog",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "RVMN (리브먼)",
+      "creator_insight": "한국 특유의 과시적 웨딩 문화를 미니멀한 절제미로 해석하여 브랜드의 프리미엄 감도를 극대화했다.",
+      "tags": [
+        "공간디자인",
+        "웨딩라운지",
+        "한국인테리어"
+      ],
+      "execution_techniques": [
+        "#SpatialScenography",
+        "#MinimalistLuxury"
+      ],
+      "why": "국내 특수 상업 공간에서 감도 높은 스페이셜 시노그래피를 연출하는 방식의 정석을 보여준다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://retaildesignblog.net/wp-content/uploads/2026/11/WISE-lounge-by-RVMN-01-720x480.jpg",
+      "pub_date": "2026-11-06T08:00:00.000000"
+    },
+    {
+      "title": "한국적 브랜딩을 완성하는 20가지 한글 타이포그래피 큐레이션",
+      "content": "현대 한국 브랜드 디자인 시스템에서 시각적 독창성과 읽기 쉬운 형태를 동시에 구현하는 최상급 한글 서체 컬렉션과 적용 매커니즘을 분석한다.",
+      "url": "https://medium.com/design-bootcamp/20-best-korean-fonts-for-korean-branding-837e2f09bc4e?source=rss------korean_design-5",
+      "source": "Medium - Korean Design & Culture",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "디자인 캠프 큐레이터 연합",
+      "creator_insight": "한글 자모의 구조적 특성을 브랜드 페르소나와 정교하게 결합하여 고유한 시각적 목소리를 조율했다.",
+      "tags": [
+        "한글타이포그래피",
+        "브랜드디자인",
+        "서체큐레이션"
+      ],
+      "execution_techniques": [
+        "#KoreanTypography",
+        "#BrandIdentity"
+      ],
+      "why": "한글 서체 선택 하나만으로 브랜드의 정체성과 고급감을 어떻게 완전히 바꿀 수 있는지 입증한다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cdn-images-1.medium.com/max/2000/1*d7ikXwNjjzx8v-Cz5QZGSA.jpeg",
+      "pub_date": "2026-11-06T08:00:00.000000"
+    },
+    {
+      "title": "라이카 스튜디오의 수공예 집착: 영화 '와일드우드' 페더 디테일 연출기",
+      "content": "라이카 스튜디오가 신작 '와일드우드'의 장군 캐릭터를 위해 수천 개의 깃털을 한 땀씩 수작업으로 제작해 아날로그 스톱모션의 정점을 보여준다.",
+      "url": "https://80.lv/articles/laika-shares-how-it-made-the-feathers-of-general-in-wildwood/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Travis Knight (LAIKA Studios)",
+      "creator_insight": "디지털 그래픽이 대체할 수 없는 스톱모션 특유의 아날로그 질감과 장인정신을 고집했다.",
+      "tags": [
+        "스톱모션",
+        "라이카스튜디오",
+        "프로덕션디자인"
+      ],
+      "execution_techniques": [
+        "#StopMotionAnimation",
+        "#HandcraftedProp"
+      ],
+      "why": "효율성과 타협하지 않는 오프라인 질감이 주는 지독한 영상 몰입감을 짚어낸다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://cdn.80.lv/api/upload/post/42160/images/6aec5c6f3b007/cover_800x800.jpg",
+      "pub_date": "2026-11-06T08:00:00.000000"
+    },
+    {
+      "title": "빛이 지어낸 공간: 제임스 터렐, 2027년 슈퍼블루 교토 전격 개관",
+      "content": "빛과 스페이스 아트의 거장 제임스 터렐의 대형 전시가 교토 문화 지구에 개관하며 감각적 경험을 극대화한 몰입형 설치 미술을 선보인다.",
+      "url": "https://www.designboom.com/art/landmark-james-turrell-exhibition-superblue-kyoto-early-2027-teamlab/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "James Turrell",
+      "creator_insight": "빛과 물리적 여백 자체를 연극적 재료로 삼아 관객의 감각 경험을 직관적으로 재구성했다.",
+      "tags": [
+        "제임스터렐",
+        "빛의예술",
+        "공간전시"
+      ],
+      "execution_techniques": [
+        "#LightInstallation",
+        "#ImmersiveSpace"
+      ],
+      "why": "공간 설치 미술이 관객의 물리적 감각을 조종하는 최고 수준의 장소성을 증명한다.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/landmark-james-turrell-exhibition-superblue-kyoto-early-2027-designboom-700-500x400-22b08q85r986.jpg",
+      "pub_date": "2026-11-06T08:00:00.000000"
+    },
+    {
+      "title": "소용량 포맷으로 200만 병 판매를 달성한 포코 비노의 규격 재정의 전략",
+      "content": "음주 소비 감소 추세에 맞춰 전통 와인 병 크기를 대폭 줄인 포코 비노의 신규 규격 브랜딩이 대히트를 기록하며 시장의 패러다임을 바꿨다.",
+      "url": "https://thedieline.com/americans-are-drinking-less-so-poco-vino-bet-on-a-smaller-bottle-and-sold-2-million-right-away/",
+      "source": "The Dieline",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Poco Vino 브랜딩 팀",
+      "creator_insight": "소비 습관 변화를 위기가 아닌 제품 용량 규격 재정의와 디자인 변화의 기회로 전환했다.",
+      "tags": [
+        "패키지디자인",
+        "소비자심리",
+        "브랜드전략"
+      ],
+      "execution_techniques": [
+        "#DownsizingStrategy",
+        "#PackagingConcept"
+      ],
+      "why": "소비자 행동 변화를 정밀하게 포착해 규격 자체를 바꾼 정교한 마케팅 기획이다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/Poco_Hero-97557e0b7083d5a94441410ae7044f10.jpg",
+      "pub_date": "2026-11-06T08:00:00.000000"
+    },
+    {
+      "title": "TBWA\\Media Arts Lab, 애플 디자인 통찰력을 이끈 제임스 테일러 승진",
+      "content": "애플 뮤직과 애플 TV의 주요 비주얼 리브랜딩을 성공시킨 제임스 테일러가 TBWA\\Media Arts Lab의 글로벌 최고 디자인 책임자로 선임되었다.",
+      "url": "https://www.campaignlive.com/article/tbwa-media-arts-lab-promotes-james-taylor-global-chief-design-officer/1974330",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "James Taylor",
+      "creator_insight": "글로벌 IT 기업의 복잡한 서비스 생태계를 극도의 미니멀리즘 비주얼 체계로 정돈했다.",
+      "tags": [
+        "크리에이티브디렉터",
+        "애플브랜딩",
+        "디자인리더십"
+      ],
+      "execution_techniques": [
+        "#MinimalVisualIdentity",
+        "#GlobalDesignDirection"
+      ],
+      "why": "글로벌 테크 브랜드의 톤앤매너를 일관되게 통제하는 디렉션의 중요성을 깨닫게 한다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://www.campaignlive.com/img/logo-default-og.png",
+      "pub_date": "2026-11-06T08:00:00.000000"
+    },
+    {
+      "title": "생일 파티의 아수라장을 스타일리시하게 다룬 단편 영화 'Surprise'",
+      "content": "감독 켄달 골드버그는 엉망이 된 생일 파티라는 익숙한 상황을 리드미컬한 컷 편집과 카메라운동으로 위트 있는 코미디 단편으로 완성했다.",
+      "url": "https://directorsnotes.com/2026/11/05/kendall-goldberg-surprise/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Kendall Goldberg",
+      "creator_insight": "일상의 사소한 혼돈을 극대화하는 속도감 있는 프레이밍과 컷 타이밍 연출을 보여줬다.",
+      "tags": [
+        "단편영화",
+        "코미디연출",
+        "카메라워크"
+      ],
+      "execution_techniques": [
+        "#RhythmicEditing",
+        "#ComedicPacing"
+      ],
+      "why": "위트 있는 상업 영상 연출을 위해 템포와 인물 구도를 어떻게 설계해야 하는지 말해준다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/11/surprise_23.jpg",
+      "pub_date": "2026-11-06T08:00:00.000000"
+    },
+    {
+      "title": "런던 나이츠브릿지에 입성한 재규어 플래그십 스토어의 미래적 공간미",
+      "content": "영국 자동차 브랜드 재규어가 런던 중심가에 유일무이한 최첨단 매장을 공개하며 럭셔리 자동차 리테일 디자인의 새로운 기준을 정립했다.",
+      "url": "https://retaildesignblog.net/2026/11/05/jaguar-flagship-store/",
+      "source": "Retail Design Blog",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Jaguar In-House Design Team",
+      "creator_insight": "브랜드의 헤리티지를 과감히 정제하고 미래지향적 매스감과 재질감으로 공간화했다.",
+      "tags": [
+        "플래그십스토어",
+        "럭셔리브랜딩",
+        "리테일디자인"
+      ],
+      "execution_techniques": [
+        "#SpatialIdentity",
+        "#LuxuryRetailScenography"
+      ],
+      "why": "브랜드 유산을 현대적 매장 스케일로 시각화하는 상업 공간 기획의 정석이다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://retaildesignblog.net/wp-content/uploads/2026/11/Jaguar-flagship-store-01-720x480.jpg",
+      "pub_date": "2026-11-06T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "질레트 로고 커팅 면도날 비주얼에 숨겨진 비밀 공식 확인",
+      "content": "질레트가 자사 타이포그래피 로고 속에 숨어있던 면도날 각도의 히든 디자인 커팅을 인스타그램을 통해 공개했다.",
+      "url": "https://www.creativebloq.com/news/gillette-finally-confirms-its-logo-hides-a-hidden-design",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "로고디자인",
+        "숨은디자인"
+      ],
+      "why": "면도날처럼 날카로운 로고 커팅 기법을 재조명한 바이럴 마케팅의 흥미로운 소재다.",
+      "depth": 0.5,
+      "image": "https://cdn.mos.cms.futurecdn.net/YqYbAi2ev3Z4nszsJb4jrh-1920-80.jpg",
+      "pub_date": "2026-11-06T08:00:00.000000"
+    },
+    {
+      "title": "멕시코 가정집의 재활용 습관을 재치 있게 포착한 라라 크레마 패키징",
+      "content": "빈 크림 통을 반찬통으로 재활용하는 현지 가정을 위해 용기 표면에 내용을 적을 수 있게 만든 위트 있는 패키지 아이디어.",
+      "url": "https://thedieline.com/whats-in-that-reused-lala-crema-tub-mexican-households-no-longer-have-to-guess/",
+      "source": "The Dieline",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "바이럴패키징",
+        "소비자문화"
+      ],
+      "why": "소비자의 실제 재활용 습관을 재치 있게 마케팅으로 풀어낸 일상 밀착형 기획이다.",
+      "depth": 0.5,
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-9.10.26-AM.png",
+      "pub_date": "2026-11-06T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "아날로그 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "절제된 스페이셜 시노그래피",
+      "is_hot": true
+    },
+    {
+      "word": "규격 재정의 브랜딩",
+      "is_hot": false
+    },
+    {
+      "word": "한글 서체 구조주의",
+      "is_hot": true
+    },
+    {
+      "word": "몰입형 조명 인스톨레이션",
+      "is_hot": false
+    },
+    {
+      "word": "일상밀착 바이럴 위트",
+      "is_hot": false
+    }
+  ]
+}
