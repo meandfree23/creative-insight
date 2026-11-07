@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-07",
+  "focusQ": "본질을 감추는 화려한 수사학을 덜어내고 객관적 완성도와 치밀한 구조로만 승부하는 비주얼 프로젝트를 검증한다. 형태가 기능을 압도하거나, 데이터가 크리에이티브를 조종하는 착시를 배제한다. 기획자의 명확한 의도와 매체의 물리적 한계가 부딪쳐 만든 날카로운 조형 언어만을 스크랩했다.",
+  "creator_message": "어설픈 AI 기호와 감성적인 겉포장에 속지 마라. 마케팅 비용으로 도배한 바이럴이나 의미 없는 도달 수치는 브랜드의 체력을 갉아먹을 뿐이다. 오늘 소개하는 레퍼런스들은 단순한 겉치레를 지우고 오직 기획의 뼈대와 조형적 완성도로만 본질을 증명하는 무자비하게 날카로운 사례들이다.",
+  "session": {
+    "timestamp": "2026-11-07T00:09:43.442250",
+    "considered": 40,
+    "selected": 11
+  },
+  "topPicks": [
+    {
+      "title": "필라델피아 오케스트라와 임윤찬: 감상주의를 배제한 클래식의 서사 구조",
+      "content": "피아니스트 임윤찬과 지휘자 마린 알솝이 이끄는 필라델피아 오케스트라의 협연 리뷰. 과도한 감정 몰입을 덜어내고 악보 해석의 절대적인 정밀도와 구조적 밀도로 무대를 압도한다.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=83191",
+      "source": "Art Insight",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "임윤찬, 마린 알솝",
+      "creator_insight": "임윤찬은 상업적 스타성에 타협하지 않고 테크닉의 압도적 정밀함과 구조적 엄격함만으로 클래식 연주가 도달할 수 있는 서사의 한계를 경신한다.",
+      "tags": [
+        "클래식",
+        "무대연출",
+        "음악서사"
+      ],
+      "execution_techniques": [
+        "Structural Interpretation",
+        "Acoustic Precision"
+      ],
+      "why": "클래식 무대마저 신파조 마케팅으로 도배되는 시대에, 오직 압도적인 기량과 치밀한 연주 구조만으로 청중을 설득하는 본질적 연출법을 보여준다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.artinsight.co.kr/data/tmp/2611/20261106141835_klzieuaw.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "텔레필름 캐나다 브랜딩: 영사기 빛의 각도를 조형 언어로 환원하다",
+      "content": "몬트리올 디자인 스튜디오 Caserne이 텔레필름 캐나다의 아이덴티티를 30°-70° 프로젝터 빔 그리드와 디컷 인쇄 시스템으로 재설계했다.",
+      "url": "https://abduzeedo.com/inside-telefilm-canada-brand-identity-caserne/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Caserne",
+      "creator_insight": "영화의 추상적인 감성을 지워버리고 영사기가 사사하는 빛의 광학적 그리드라는 물리적 본질만 남겨 브랜드 정체성을 완성했다.",
+      "tags": [
+        "브랜드아이덴티티",
+        "타이포그래피",
+        "그리드시스탬"
+      ],
+      "execution_techniques": [
+        "Projector-Beam Grid",
+        "Die-Cut Printing"
+      ],
+      "why": "모호한 미학적 메타포를 배제하고, 매체의 물리적 요소(프로젝터 빔)를 수학적 그리드로 변환해 브랜드 전체를 제어하는 감각이 탁월하다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_tlfilm-caserne.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "멕시코시티의 카르스텐 흴러: 4개 미끄럼틀이 해체하는 상업 공간의 일상성",
+      "content": "작가 카르스텐 흴러가 멕시코시티의 다목적 빌딩 내부 공간을 가로지르는 4개의 거대한 미끄럼틀 구조물을 설치해 도시인의 보행 동선을 자극적 유희로 전환했다.",
+      "url": "https://www.designboom.com/art/carsten-holler-people-together-four-giant-slides-mexico-city-arte-abierto-polanco-soma-sordo-madaleno-antara/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Carsten Höller",
+      "creator_insight": "건축적 동선의 통제된 규칙을 유희적 파격으로 깨부수며 상업 공간을 오락적 경험의 실험실로 변모시켰다.",
+      "tags": [
+        "공간인스톨레이션",
+        "건축동선",
+        "인터랙티브아트"
+      ],
+      "execution_techniques": [
+        "Spatial Disruption",
+        "Interactive Structural Form"
+      ],
+      "why": "건축물과 상업 공간이 빠지기 쉬운 지루한 효율성주의에 정면으로 균열을 내는 대형 설치 미술의 직관적 힘을 증명한다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/carsten-holler-people-together-four-giant-slides-mexico-city-arte-abierto-polanco-soma-sordo-madaleno-antara-designboom-700-500x400-22b08q85r642.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "수면 디저트 'Snooz' 브랜딩: 타깃 행동 데이터가 만든 밤의 패키징",
+      "content": "아이스크림 소비의 60%가 저녁 6시 이후에 발생한다는 데이터에 기반하여, 에이전시 HOW+HOW가 달식과 야간 프레임을 모티브로 완결 지은 기능성 브랜드 정체성.",
+      "url": "https://abduzeedo.com/inside-craft-snooz-ice-cream-branding-howhow/",
+      "source": "abduzeedo.com",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "HOW+HOW",
+      "creator_insight": "디저트의 죄책감을 숙면이라는 유용한 명분으로 재정의하고, 이를 짙은 밤하늘과 별빛의 시각적 언어로 정교하게 패키징했다.",
+      "tags": [
+        "패키지디자인",
+        "소비자행동데이터",
+        "브랜드콘셉트"
+      ],
+      "execution_techniques": [
+        "Data-Driven Concepting",
+        "High-Contrast Visual Identity"
+      ],
+      "why": "소비 습관의 맹점을 찾아내 제품의 명분으로 탈바꿈하고, 이를 억지스러움 없이 일관된 비주얼 그래픽으로 구현한 기획의 정석.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_1600_12.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "도달 범위의 신화 종말: 마케팅이 잃어버린 문화적 신뢰도",
+      "content": "숫자상의 대량 노출에만 몰두하던 수량적 마케팅의 한계를 지적하며, 진정한 브랜드 자산은 밀도 높은 특정 커뮤니티 내의 문화적 권위에서 온다는 비평.",
+      "url": "https://designspotter.com/beyond-influencers-why-cultural-credibility-matters-more-than-reach/",
+      "source": "Designspotter",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Designspotter Editorial Team",
+      "creator_insight": "돈으로 사들인 인플루언서 도달 수가 브랜드 고유의 진정성을 어떻게 파괴하는지 칼날 같은 언어로 직격한다.",
+      "tags": [
+        "마케팅전략",
+        "브랜드자산",
+        "문화적신뢰"
+      ],
+      "execution_techniques": [
+        "Critical Analysis",
+        "Strategic Positioning"
+      ],
+      "why": "단순 조회수와 클릭수에 영혼을 파는 마케터들에게 진짜 커머스 설득력이 어디서 나오는지 일깨워주는 신선한 경고장.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://designspotter.com/wp-content/uploads/2026/11/posting-1024x683.png",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "앙리 마티스의 '붉은 화실': 단일 색채가 입체 공간을 비우는 방식",
+      "content": "Great Art Explained가 앙리 마티스의 대표작 '붉은 화실'을 분석하며, 원색 캔버스가 입체적 3차원 공간을 평면화하고 주 객체만을 강조하는 미학적 원리를 다룬다.",
+      "url": "https://www.thisiscolossal.com/2026/11/great-art-explained-henri-matisse-the-red-studio-video/",
+      "source": "Colossal",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Great Art Explained (James Payne)",
+      "creator_insight": "불필요한 배경 맥락을 단 하나의 강렬한 붉은 색조로 눌러버리고 시선을 주인공 오브제에 고정시키는 극한의 프레이밍 기술을 분석한다.",
+      "tags": [
+        "색채미학",
+        "프레이밍",
+        "비디오에세이"
+      ],
+      "execution_techniques": [
+        "Color Monopolization",
+        "Spatial Flattening"
+      ],
+      "why": "화면 안에 모든 요소를 쓸데없이 채워 넣으려는 영상 감독과 디자이너들에게 '비움과 칠함'의 시각적 거칠음을 가르쳐준다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/red-studio-3.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "항 유의 기괴한 연극성: 광대와 연출된 정체성의 피사체 포착",
+      "content": "사진작가 항 유가 뉴욕과 코니 아일랜드의 광대 학교 비하인드를 배경으로 인간이 자아를 과장되게 인공 조성하는 연극적 순간들을 렌즈에 담았다.",
+      "url": "https://www.creativeboom.com/inspiration/step-inside-hang-yus-wonderfully-strange-world-of-clowns-costumes-and-constructed-identities/",
+      "source": "Creative Boom",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Hang Yu",
+      "creator_insight": "매끄럽고 작위적인 룩북 스타일을 거부하고, 과장된 분장과 피사체의 어색한 기교 뒤에 숨은 기괴한 인공성을 정면 포착했다.",
+      "tags": [
+        "인물사진",
+        "연출미학",
+        "정체성"
+      ],
+      "execution_techniques": [
+        "Staged Authenticity",
+        "High-Contrast Subject Framing"
+      ],
+      "why": "예쁘게 포장된 패션 필터에서 벗어나 인공적 조형물로서의 피사체가 가진 지독한 연극적 미학을 시각화한다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://media.creativeboom.com/93b25328-93fb-49ed-9e7b-cb60d4935ba9/conversions/5cac1e8c0e795dba6a5ac49ba926e024e467e64f-medium.webp",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "NM 아트&디자인 UI/UX: 갤러리 플랫폼을 위한 여백과 스텐실 모노그램",
+      "content": "ESH Gruppa가 스텐실 모노그램과 차분한 크림-오커 톤의 인터페이스를 결합해 컨템포러리 아트 갤러리 NM Art & Design의 디지털 디지털 플랫폼을 완성했다.",
+      "url": "https://abduzeedo.com/nm-art-design-digital-platform-uiux-design-esh-gruppa/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "ESH Gruppa",
+      "creator_insight": "플랫폼 자체의 화려함을 절제하고 미술 작품이 자연스럽게 투영되도록 정갈한 타이포그래피와 절제된 톤으로 갤러리 공간감을 디지털화했다.",
+      "tags": [
+        "UIUX",
+        "디지털갤러리",
+        "모노그램"
+      ],
+      "execution_techniques": [
+        "Minimalist Interface",
+        "Stencil Typography System"
+      ],
+      "why": "디지털 화면 설계에서 화려한 인터랙션 자랑질을 빼고 작품 전시라는 본질에 충실하게 여백을 배치한 우수한 인터페이스 사례.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_nm-art-design-esh-gruppa.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "닌텐도 스위치 2 판매량 40% 급감: 하드웨어 가격 인상이 부른 팬덤의 냉소",
+      "content": "기기 가격 인상 직후 닌텐도 스위치 2의 초기 판매량이 40% 폭락하며 막강한 팬덤도 가격 저항선 앞에서는 냉정하다는 사실을 입증했다.",
+      "url": "https://hypebeast.kr/2026/11/nintendo-switch-2-sales-drop-following-hardware-price-hike",
+      "source": "Hypebeast Korea",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "닌텐도",
+        "가격전략",
+        "소비자심리"
+      ],
+      "why": "충성도 높은 글로벌 IP 브랜드라 할지라도 가격 정책의 무리수가 브랜드 팬덤을 얼마나 신속하게 냉담하게 만드는지 보여주는 팝콘각 뉴스.",
+      "depth": 0.5,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F11%2Fnintendo-switch-2-sales-drop-following-hardware-price-hike-1.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "연말 마케팅의 이중성: 크리에이터 시대라지만 결국 대목엔 A급 셀럽",
+      "content": "일년 내내 소통과 크리에이터 마케팅을 부르짖던 브랜드들이 연말 대목 매출 경쟁에 들어서자 일 일탈 없이 전통적 헐리우드 셀럽으로 복귀하는 현상 분석.",
+      "url": "https://digiday.com/marketing/future-of-marketing-briefing-creators-had-a-big-year-christmas-still-went-to-the-celebrities/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "연말캠페인",
+        "셀러브리티",
+        "마케팅위선"
+      ],
+      "why": "'트렌디한 트렌드'를 외치던 마케터들도 거대한 돈이 오가는 대목에서는 가장 고전적인 안전장치로 돌아간다는 현실적 위선을 비웃는 관점.",
+      "depth": 0.5,
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2023/11/tv-snow-globe-digiday.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "맥도날드 미국 CMO 경질: 밈 마케팅도 매출 감소 앞에서는 무용지물",
+      "content": "실적 악화와 매출 감소 책임으로 맥도날드 미국 마케팅 총괄(CMO)이 전격 사임하며 화려한 소셜 마케팅의 한계를 노출했다.",
+      "url": "https://www.marketingdive.com/news/mcdonalds-us-cmo-steps-down-as-sales-decline/873927/",
+      "source": "Marketing Dive",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "맥도날드",
+        "CMO사임",
+        "실적주의"
+      ],
+      "why": "바이럴 밈으로 아무리 소셜 공간을 도배해봐야 결국 숫자로 손익을 증명하지 못하면 목이 날아간다는 냉혹한 상업 비즈니스의 잔혹사.",
+      "depth": 0.5,
+      "image": "https://imgproxy.divecdn.com/7QDxy3aKcbLbD8ymT9RykGFESpDlaXR4sRWlVxj74o4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0OTE0Njg4LmpwZw==.webp",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "감상주의 배제",
+      "is_hot": true
+    },
+    {
+      "word": "광학적 그리드",
+      "is_hot": false
+    },
+    {
+      "word": "공간 동선 파격",
+      "is_hot": true
+    },
+    {
+      "word": "행동 데이터 패키징",
+      "is_hot": false
+    },
+    {
+      "word": "문화적 신뢰도",
+      "is_hot": true
+    },
+    {
+      "word": "단색 평면화",
+      "is_hot": false
+    },
+    {
+      "word": "연출된 인공성",
+      "is_hot": false
+    }
+  ]
+}
