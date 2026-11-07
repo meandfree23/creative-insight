@@ -196,7 +196,7 @@
   {
     "url": "https://www.andrew-townsend.com/rss/",
     "category": "DESIGN",
-    "fail_count": 1
+    "fail_count": 0
   },
   {
     "url": "https://blog.naver.com/feed",
@@ -719,7 +719,7 @@
     "name": "r/generative - Algorithmic and Generative Art",
     "url": "https://www.reddit.com/r/generative/.rss",
     "category": "TECH_ART",
-    "fail_count": 2
+    "fail_count": 0
   },
   {
     "name": "Medium - Generative AI & Digital Art",
@@ -730,5 +730,15 @@
     "name": "Designboom - Architecture & Spatial Installations",
     "url": "https://www.designboom.com/feed/",
     "category": "SPATIAL"
+  },
+  {
+    "name": "Brandingmag",
+    "url": "https://www.brandingmag.com/feed/",
+    "category": "MARKETING"
+  },
+  {
+    "name": "Seth Godin's Blog",
+    "url": "https://seths.blog/feed/",
+    "category": "MARKETING"
   }
 ]
