@@ -144,7 +144,7 @@
   {
     "url": "https://cheimread.com/feed",
     "category": "DESIGN",
-    "fail_count": 1
+    "fail_count": 0
   },
   {
     "url": "https://rss.blog.naver.com/jujukey.xml",
@@ -720,7 +720,7 @@
     "name": "r/generative - Algorithmic and Generative Art",
     "url": "https://www.reddit.com/r/generative/.rss",
     "category": "TECH_ART",
-    "fail_count": 1
+    "fail_count": 2
   },
   {
     "name": "Medium - Generative AI & Digital Art",

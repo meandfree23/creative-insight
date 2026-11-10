@@ -1,0 +1,264 @@
+{
+  "date": "2026-11-10",
+  "focusQ": "기교에만 몰두한 비주얼 럭셔리는 미학적 파산 상태에 도달했다. 미니멀리즘과 서사적 완성도가 부재한 브랜딩은 소비자의 감각을 자극하지 못하고 표류할 뿐이다. 진짜 본질은 그래픽 레이아웃의 선명함과 서사 구조의 서늘한 정밀함에서 결정된다.",
+  "creator_message": "어설픈 렌더링과 말뿐인 컨셉으로 포장된 기획서가 판을 치는 계절이다. 디자이너와 디렉터라면 자극적인 그래픽의 유혹을 버리고 굵직한 서사적 기틀과 서체 구조부터 다시 파악하라. 감각을 트레이닝하지 않는 창작자에게 남는 건 얄팍한 유행의 찌꺼기뿐이다.",
+  "session": {
+    "timestamp": "2026-11-10T02:46:38.244963",
+    "considered": 40,
+    "selected": 8
+  },
+  "topPicks": [
+    {
+      "title": "1975년 100원 기념동화 속 독립운동가 상: 파고다 공원 작품의 표절인가",
+      "content": "1975년 발행된 100원 기념동화에 도안된 독립운동가 형상이 탑골공원의 릴리프 조각을 그대로 복제했다는 의혹과 근대 한국 조각의 상징적 유산과 시각적 기록을 다룬 고찰.",
+      "url": "https://medium.com/@mlovmo/the-independence-figure-on-the-1975-100-won-commemorative-coin-copied-from-a-work-in-pagoda-park-6ddaf39db43c?source=rss------korean_design-5",
+      "source": "Medium - Korean Design & Culture",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Mark Lovmo",
+      "creator_insight": "화폐 디자인이라는 국가적 시각 매체조차 타인의 조각 기법을 유통기한 없는 레퍼런스로 착용한 한국 근대 그래픽의 아카이브적 결함과 잔재를 신랄하게 조명한다.",
+      "tags": [
+        "한국디자인사",
+        "화폐디자인",
+        "타이포그래피"
+      ],
+      "execution_techniques": [
+        "Archive Sculpture Translation",
+        "Monochrome Relief Art"
+      ],
+      "why": "공공 디자인의 아카이브가 원작의 아우라를 어떻게 소모하는지 파악하는 시각적 사료이자 직설적인 비평.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn-images-1.medium.com/max/885/1*PLV5Q1Fk7cZJGaljcXeQOg.jpeg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "아크로님 디자인 비전: 매터 시네 위크 '26의 브랜딩 아이덴티티",
+      "content": "아크로님 디자인 비로가 제작한 매터 시네 위크 '26 비주얼 시스템. 캠코더 광학 요소와 픽셀 지오메트리, 과감한 인쇄 매체 레이아웃을 조합해 영화제의 정체성을 재정의했다.",
+      "url": "https://abduzeedo.com/akronim-design-bureaus-brand-identity-matter-cine-week-26/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Akronim Design Bureau",
+      "creator_insight": "디지털 노이즈와 아날로그 인쇄의 거친 질감을 의도적으로 부딪혀 스크린 너머의 시각적 긴장감을 물리적 지면에 이식했다.",
+      "tags": [
+        "브랜드아이덴티티",
+        "그래픽디자인",
+        "포스터디자인"
+      ],
+      "execution_techniques": [
+        "Pixel Geometry",
+        "Optic Grids"
+      ],
+      "why": "스크린 렌즈의 프레임을 타이포그래피 그리드로 변환하는 감각적 인쇄 마감 기법의 정석.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_matter-cine-week-26-akronim-design-bureau.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "자본주의 광대극: 젠 페이스 감독의 긱 이코노미 호러 코미디 영화",
+      "content": "플랫폼 노동과 현대 사회의 고용 불안을 기괴하고 잔혹한 코미디 서사로 연출한 단편 영화. 자본주의 시스템에 갇힌 인물들의 절망을 감각적인 조명과 미장센으로 비틀어낸다.",
+      "url": "https://directorsnotes.com/2026/10/30/zen-pace-are-you-fucking-kidding-me/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Zen Pace",
+      "creator_insight": "노동의 가치가 휘발된 플랫폼 사회의 피로감을 광대라는 아이콘과 호러 장르의 연출 미학으로 치밀하게 연결했다.",
+      "tags": [
+        "영화연출",
+        "미장센",
+        "블랙코미디"
+      ],
+      "execution_techniques": [
+        "Saturated Lighting",
+        "Absurdist Framing"
+      ],
+      "why": "자본주의의 불쾌한 현실을 시각적 페이소스와 하이 콘트라스트 미장센으로 전환하는 연출 기법.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/10/are_you_fucking_kidding_me_01a.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "몬데인 도피오 시계: 하나의 타이포그래피 시스템과 이중성의 언어",
+      "content": "스위스 연방 철도 시계의 상징적 디자인을 지닌 몬데인이 선보이는 새로운 타이포그래피 라인업. 정교한 이중 타이포 시스템을 통해 지침과 문자판의 미학적 밸런스를 구성한다.",
+      "url": "https://www.slanted.de/mondaine-doppio-watches-one-typographic-system-and-the-language-of-double/",
+      "source": "Slanted",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Mondaine Design Team",
+      "creator_insight": "시계라는 극도로 제한된 원형 미디어 안에서 서체의 두께와 비율만으로 시간의 지각 방식을 극대화했다.",
+      "tags": [
+        "타이포그래피",
+        "제품디자인",
+        "미니멀리즘"
+      ],
+      "execution_techniques": [
+        "Dual-Layer Typography",
+        "Precision Layout"
+      ],
+      "why": "아이콘이 된 유산을 건드리지 않으면서 서체 레이어의 미세한 변주로 브랜드의 시각 계보를 다지는 방식.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.slanted.de/wp-content/uploads/2026/10/A.MLE_.41280.SM_.MS_-scaled.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "선 룩스 'Out Into Us': 신체 언어와 영상 미학의 서사",
+      "content": "실험적 음악 그룹 선 룩스의 신곡 뮤직비디오. 세대를 넘나드는 인물들의 동선과 비언어적 몸짓을 정제된 카메라 워크와 모노톤에 가까운 질감으로 담아냈다.",
+      "url": "https://vimeo.com/channels/staffpicks/1228116196",
+      "source": "Unknown Source",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Mass MoCA & Pioneer Works",
+      "creator_insight": "대사 한 줄 없이 오직 신체의 리듬과 조명 밀도만으로 장엄한 피로감과 인간적 연대를 동시에 빚어낸 영상 연출.",
+      "tags": [
+        "뮤직비디오",
+        "카메라워크",
+        "신체아트"
+      ],
+      "execution_techniques": [
+        "Kinetic Movement",
+        "Desaturated Palette"
+      ],
+      "why": "상업 비디오가 놓치기 쉬운 질감 위주의 프레이밍과 피사체 간의 서사적 장력을 증명하는 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://i.vimeocdn.com/video/2207155061-05e1466c175c4c30865b67ad65d90863171f9459678796eaad88e8d379916e3c-d_960?region=us",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "ChatGPT의 브랜드 언급 횟수 대시보드 도입과 마케터의 생존법",
+      "content": "OpenAI가 ChatGPT 답변 내 특정 브랜드의 노출 빈도와 맥락 데이터를 브랜드 마케터들에게 제공하는 분석 대시보드를 테스트 중이다.",
+      "url": "https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "OpenAI Product Team",
+      "creator_insight": "키워드 검색광고의 종말과 AI 프롬프트 기반 권장 인지도 싸움으로의 완전한 브랜드 전략 패러다임 이동을 정량화한다.",
+      "tags": [
+        "AI마케팅",
+        "브랜드전략",
+        "데이터분석"
+      ],
+      "execution_techniques": [
+        "Prompt Mention Tracking",
+        "Generative Impression Analytics"
+      ],
+      "why": "SEO 시대를 넘어 생성형 AI 모델 내부의 추천 지분을 확보해야 하는 브랜드 기획자들의 필독 지표.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2026/05/openai-infrastructure-digiday.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "카페 모리의 신규 패키지: 일본에서 브라질로 이어지는 커피 뿌리의 추적",
+      "content": "카페 모리의 브랜드 리뉴얼 패키지 디자인. 일본과 브라질을 잇는 이민 및 커피 재배 역사와 문화를 미니멀한 그래픽 모티프와 감각적인 지질로 완성했다.",
+      "url": "https://thedieline.com/cafe-moris-new-coffee-bags-trace-its-roots-from-japan-to-brazil/",
+      "source": "The Dieline",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Café Mori Design Team",
+      "creator_insight": "복잡한 역사적 이동의 서사를 미니멀한 그래픽 라인과 지류의 질감 차이로 단순화하여 고급 포장 미학으로 이끌어냈다.",
+      "tags": [
+        "패키지디자인",
+        "브랜드스토리",
+        "그래픽미학"
+      ],
+      "execution_techniques": [
+        "Cultural Motif Printing",
+        "Tactile Paper Mix"
+      ],
+      "why": "지역적 민속 모티프를 현대적 럭셔리 그래픽 체계로 재해석하는 디자이너의 지혜.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/SnapInsta.to_817868436_18366744040243723_2492184025345035674_n.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "패션 브랜드 리포메이션의 홈 디자인 확장: 럭셔리 러그 컬렉션",
+      "content": "지속 가능한 패션 라인 리포메이션이 프랑스 럭셔리 제작사 Les Éditions de Tapis와 협업하여 수공예 수놓은 러그 컬렉션을 선보이며 리빙 스페이스로 확장을 꾀한다.",
+      "url": "https://design-milk.com/reformation-rug-collection-les-editions-de-tapis/",
+      "source": "Design Milk",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Reformation & Les Éditions de Tapis",
+      "creator_insight": "패션 브랜드의 태피스트리 패턴을 공간 오브제로 치환하며 브랜드가 추구하는 라이프스타일의 영토를 물리적으로 확장하는 교본.",
+      "tags": [
+        "브랜드확장",
+        "패션앤리빙",
+        "텍스타일디자인"
+      ],
+      "execution_techniques": [
+        "Hand-Knotted Craftsmanship",
+        "Pattern Porting"
+      ],
+      "why": "의류에 머물던 브랜드 시각 자산을 홈 데코 럭셔리 영역으로 스케일업하는 브랜딩 전략.",
+      "social_proof": "",
+      "depth": 0.84,
+      "image": "https://design-milk.com/images/2026/11/Helen-Silk-Midi-Skirt-Snow-Leopard-Placement-Calista-Flat-Black-Velvet1-1500x1000.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "패밀리마트와 스모 전설 치요노후지의 팝컬처 콜라보레이션",
+      "content": "일본 편의점 브랜드 패밀리마트가 스모의 전설적인 인물 치요노후지 아이콘을 결합해 선보인 위트 있는 굿즈 캠페인.",
+      "url": "https://spoon-tamago.com/familymart-sumo-legend-chiyonofuji-collab/?utm_source=rss&utm_medium=rss&utm_campaign=familymart-sumo-legend-chiyonofuji-collab",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "팝컬처",
+        "바이럴캠페인"
+      ],
+      "why": "전통 스포츠 영웅을 편의점 상업 그래픽으로 둔갑시키는 유쾌한 팝아트적 재치.",
+      "depth": 0.5,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/08/family-mart-chiyonofuji-collab-5-200x200.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "캔디 코팅 구강 센서: 복숭아 맛 롤리팝으로 측정하는 침 분석기",
+      "content": "USC 연구진이 개발한 사탕 형태의 바이오 센서. 약물 성분을 침으로 측정하면서 사탕처럼 섭취하는 유쾌한 헤리티지 테크.",
+      "url": "https://www.trendhunter.com/trends/candy-coated-oral-sensors",
+      "source": "Trend Hunter",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "테크디자인",
+        "아이디어"
+      ],
+      "why": "불쾌하고 기계적인 헬스케어 디바이스를 키치한 디저트로 포장해 대중적 거부감을 날려버린 기획.",
+      "depth": 0.5,
+      "image": "https://cdn.trendhunterstatic.com/phpthumbnails/651/651982/651982_1_468.jpeg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "아카이브 복제 미학",
+      "is_hot": true
+    },
+    {
+      "word": "픽셀 지오메트리",
+      "is_hot": true
+    },
+    {
+      "word": "긱 이코노미 잔혹극",
+      "is_hot": false
+    },
+    {
+      "word": "생성형 AI 지분율",
+      "is_hot": true
+    },
+    {
+      "word": "이중 타이포그래피",
+      "is_hot": false
+    },
+    {
+      "word": "패션 라이프스타일 확장",
+      "is_hot": false
+    }
+  ]
+}
