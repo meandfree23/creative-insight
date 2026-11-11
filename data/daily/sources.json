@@ -720,7 +720,8 @@
     "name": "r/generative - Algorithmic and Generative Art",
     "url": "https://www.reddit.com/r/generative/.rss",
     "category": "TECH_ART",
-    "fail_count": 2
+    "fail_count": 3,
+    "quarantined": true
   },
   {
     "name": "Medium - Generative AI & Digital Art",
