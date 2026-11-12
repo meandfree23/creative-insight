@@ -563,11 +563,13 @@ def generate_daily_insight(date_str, articles_subset):
 def update_manifest(date_str):
     with open(MANIFEST_FILE, "r") as f:
         manifest = json.load(f)
-    if date_str not in manifest["dates"]:
-        manifest["dates"].append(date_str)
-        manifest["dates"].sort(reverse=True)
-        with open(MANIFEST_FILE, "w") as f:
-            json.dump(manifest, f, indent=2)
+    valid_dates = [d for d in manifest.get("dates", []) if re.match(r"^\d{4}-\d{2}-\d{2}$", str(d))]
+    if date_str not in valid_dates and re.match(r"^\d{4}-\d{2}-\d{2}$", str(date_str)):
+        valid_dates.append(date_str)
+    valid_dates.sort(reverse=True)
+    manifest["dates"] = valid_dates
+    with open(MANIFEST_FILE, "w") as f:
+        json.dump(manifest, f, indent=2)
 
 import sys
 def process_date(target_date, sources=None):

@@ -866,7 +866,7 @@ window.UX_BOOTED = true;
     try {
       var res = await fetch('data/manifest.json?' + Date.now(), { cache: 'no-store' });
       var manifest = await res.json();
-      MANIFEST_DATES = manifest.dates || [];
+      MANIFEST_DATES = (manifest.dates || []).filter(function (d) { return /^\d{4}-\d{2}-\d{2}$/.test(d); });
       DATA.latest_date = MANIFEST_DATES[0] || '';
     } catch (err) {
       console.error('manifest', err);

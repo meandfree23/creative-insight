@@ -435,7 +435,7 @@ async function init() {
   try {
     const res = await fetch("data/manifest.json?" + new Date().getTime());
     const manifest = await res.json();
-    MANIFEST_DATES = manifest.dates || [];
+    MANIFEST_DATES = (manifest.dates || []).filter(d => /^\d{4}-\d{2}-\d{2}$/.test(d));
     if(MANIFEST_DATES.length > 0) {
       DATA.latest_date = MANIFEST_DATES[0];
     }

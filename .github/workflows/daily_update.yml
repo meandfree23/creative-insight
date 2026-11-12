@@ -2,7 +2,8 @@ name: Daily Creative Insight Update
 
 on:
   schedule:
-    - cron: '17 20 * * *' # 5:17 AM KST (Absorbs up to 3 hours of GitHub delay)
+    - cron: '17 20 * * *' # 5:17 AM KST (Primary early-bird trigger)
+    - cron: '43 22 * * *' # 7:43 AM KST (Safety-net fallback if GitHub drops/stalls primary cron)
   workflow_dispatch:
     inputs:
       target_date:
@@ -49,10 +50,11 @@ jobs:
         run: |
           python fetch_ideas.py ${{ github.event.inputs.target_date }}
 
-          # Save all generated daily files AND sources.json to temporary directory
+          # Save all generated daily files AND sources.json to separate temporary locations
           mkdir -p /tmp/daily_backup
+          rm -f data/daily/sources.json
           cp data/daily/*.json /tmp/daily_backup/
-          cp data/sources.json /tmp/daily_backup/sources.json
+          cp data/sources.json /tmp/sources_backup.json
 
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -62,12 +64,13 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             
-            # Restore all generated files and preserved sources registry
+            # Restore all generated daily files and preserved sources registry separately
+            rm -f data/daily/sources.json
             cp /tmp/daily_backup/*.json data/daily/
-            cp /tmp/daily_backup/sources.json data/sources.json
+            cp /tmp/sources_backup.json data/sources.json
             
-            # Rebuild manifest.json dynamically
-            python3 -c "import os, json; json.dump({'dates': sorted([f.replace('.json', '') for f in os.listdir('data/daily') if f.endswith('.json')], reverse=True)}, open('data/manifest.json', 'w'), indent=2)"
+            # Rebuild manifest.json dynamically (strictly YYYY-MM-DD files only)
+            python3 -c "import os, re, json; json.dump({'dates': sorted([f[:-5] for f in os.listdir('data/daily') if re.match(r'^\d{4}-\d{2}-\d{2}\.json$', f)], reverse=True)}, open('data/manifest.json', 'w'), indent=2)"
             git add data/
             if git diff --staged --quiet; then
               echo "No changes to commit."
