@@ -1,0 +1,336 @@
+{
+  "date": "2026-11-14",
+  "focusQ": "크리에이티브의 기본은 요란한 기술적 과장이 아닌 밀도 높은 감각적 정제에 있다. 브랜드가 소비자의 시선을 끌기 위해 비어있는 AI 수사를 남발할 때, 진정한 시각적 유산은 집요한 디테일과 확고한 태도에서 나온다. 오늘 큐레이션은 불필요한 노이즈를 덜어내고 본질적 미학과 강렬한 기획력을 증명한 레퍼런스만을 가려냈다.",
+  "creator_message": "어설픈 트렌드 용어로 포장된 기획서만큼 지루한 것은 없다. 껍데기만 남은 디지털 마케팅과 양산형 콘텐츠 사이에서 시각적 쾌감과 명확한 논리를 갖춘 작업만을 집어냈다. 감각을 벼리고 싶다면 타협 없는 본질을 읽어라.",
+  "session": {
+    "timestamp": "2026-11-14T00:55:30.969158",
+    "considered": 40,
+    "selected": 11
+  },
+  "topPicks": [
+    {
+      "title": "나미브 제주: 이갑철·남인근·진동선 작가가 제시하는 제주 렌즈의 시각적 절제",
+      "content": "제주 나미브에서 열리는 사진 캠프 프로젝트로, 한국을 대표하는 사진가 이갑철, 남인근, 진동선이 참전해 프레임 안의 서사와 아날로그적 텍스처를 조명한다. 거친 자연의 질감과 사진적 프레임 기법을 조율하는 마스터클래스 성격의 큐레이션.",
+      "url": "https://blog.naver.com/sabids/221578978225?fromRss=true&trackingCode=rss",
+      "source": "Naver Blog",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "이갑철, 남인근, 진동선",
+      "creator_insight": "한국 프레임 미학의 거장들이 제주라는 흔한 대상을 날카롭고 절제된 시선으로 재해석하며 프레이밍의 깊이를 입증한다.",
+      "tags": [
+        "한국사진",
+        "제주나미브",
+        "프레이밍미학"
+      ],
+      "execution_techniques": [
+        "#HighContrastFraming",
+        "#RawTexturePhototherapy"
+      ],
+      "why": "국내 아티스트들이 전형적인 풍경 사진의 틀을 깨고 대상을 다루는 강렬한 톤앤매너와 시각적 관점을 제공한다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://blogthumb.pstatic.net/MjAxOTA3MDZfNzUg/MDAxNTYyMzcyMDA5MTQz.GwugeAqOP9Cm0eiwV9ypHUewgRVmco5GpRBAoQj3iQUg.mGVgFjPb2sl8PUwat32Eh1DoiMLpV3SiF2p0BkET1Pkg.JPEG.sabids/1562337262151.jpg?type=s3",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    },
+    {
+      "title": "스크린이 어두워질 때: 스포츠 드라마가 팬들의 심상을 포착하는 카메아워크",
+      "content": "스포츠 경기장 위가 아닌 화면이 꺼진 뒤의 서사를 다루는 숏필름 연출 분석. 경기 결과에 숨겨진 팬덤의 미학적 심리와 고요한 미장센을 고찰한다.",
+      "url": "https://filmshortage.com/when-the-screen-goes-dark-how-sports-drama-captures-what-fans-already-know/",
+      "source": "Film Shortage",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Film Shortage Editorial Board",
+      "creator_insight": "경기 장면의 박진감 대신 정적과 어둠을 활용한 조명 연출로 인물의 내면적 고뇌를 시각화하는 감각이 탁월하다.",
+      "tags": [
+        "스포츠시네마",
+        "미장센",
+        "서사연출"
+      ],
+      "execution_techniques": [
+        "#LowKeyLighting",
+        "#EmotionalStaticShot"
+      ],
+      "why": "역동적인 스포츠라는 소재를 극도로 정적인 조명과 카메라 움직임으로 다루는 서사 연출의 반전 기법이 돋보인다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://filmshortage.com/wp-content/uploads/2026/10/image1.jpg",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    },
+    {
+      "title": "스탈린 보이스: 텍사스 국경 마을 청소년들의 기이하고 날카로운 블랙코미디",
+      "content": "텍사스 국경 지대의 중학생 4명이 찰스 스탈린에 관한 연극을 집필하고 연출하며 벌어지는 기묘한 단편 영화. 연출의 톤앤매너와 인물 연출이 독보적인 뿜대를 자아낸다.",
+      "url": "https://vimeo.com/channels/staffpicks/1242476309",
+      "source": "Vimeo Staff Picks",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Vimeo Staff Pick Selection",
+      "creator_insight": "부조리한 소재를 무미건조한 클로즈업과 칼같은 편집 호흡으로 다루며 유머와 긴장감을 동시에 이끌어낸다.",
+      "tags": [
+        "비미오스태프픽",
+        "단편영화",
+        "블랙코미디"
+      ],
+      "execution_techniques": [
+        "#DeadpanDirecting",
+        "#SymmetricalFraming"
+      ],
+      "why": "소재의 엉뚱함과 연출의 정교함이 결합할 때 생기는 미학적 텐션을 직관적으로 보여주는 훌륭한 영상 인스피레이션.",
+      "social_proof": "Vimeo Staff Pick 선정작",
+      "depth": 0.95,
+      "image": "https://i.vimeocdn.com/video/2220842278-a14ceea2fde6503383a9b7090be52d6372f5fa13e012038a90658e87c40cbc6a-d_960?region=us",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    },
+    {
+      "title": "비디오 다이어리: 낚시 레슨 - 자연의 고요함을 담은 가이 코작의 인디 미학",
+      "content": "감독 가이 코작(Guy Kozak)이 연출한 NOWNESS 다이어리 시리즈로, 낚시라는 행위를 관조적 카메라워크와 필름 질감으로 담아낸 감성적 필름.",
+      "url": "https://www.nowness.com/series/diaries/fishing-lessons-guy-kozak",
+      "source": "NOWNESS",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Guy Kozak",
+      "creator_insight": "자연광 중심의 사색적 앵글과 16mm 아날로그 감성을 융합해 관객에게 극도의 시각적 안식과 서사적 몰입을 선사한다.",
+      "tags": [
+        "나우니스",
+        "16mm필름",
+        "시네마틱다이어리"
+      ],
+      "execution_techniques": [
+        "#GrainyAnalogLook",
+        "#ObservationalCinematography"
+      ],
+      "why": "상업적 화려함에 지친 창작자들에게 정제된 톤의 16mm 아날로그 미학이 주는 정서적 무게감을 제시한다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://img.nowness.com/nowness-frontend/SUqvNm6FTx4rW2bLCJRA_FISHING%20LESSONS%20STILL%202.jpg",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    },
+    {
+      "title": "토리노의 1960년대 오피스 바: 공간 시노그래피로 재해석한 레브 오피스 바",
+      "content": "이탈리아 토리노에 위치한 칵테일 바 공간 디자인으로, 1960년대 비즈니스 오피스의 우주 시대 재료와 과감한 컬러 팔레트를 음주 공간으로 끌어들였다.",
+      "url": "https://thecoolhunter.net/leve-office-bar-brings-1960s-office-design-to-life-as-a-cocktail-bar-in-turin/",
+      "source": "The Cool Hunter",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "The Cool Hunter Design Team",
+      "creator_insight": "격식 차린 차가운 사무 공간 요소를 비비드한 가구와 유기적 동선으로 변주해 신선한 상업 공간 브랜딩을 완성했다.",
+      "tags": [
+        "공간디자인",
+        "1960s레트로",
+        "상업인테리어"
+      ],
+      "execution_techniques": [
+        "#RetroFuturismInterior",
+        "#SaturatedColorPalette"
+      ],
+      "why": "과거 특정 시대의 사무실 공간 언어를 럭셔리 호스피탈리티 공간으로 재구성한 시노그래피 전략이 돋보인다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "http://thecoolhunter.net/wp-content/uploads/2026/06/fabio5-1024x682.jpg",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    },
+    {
+      "title": "아르노 베자디의 스페이셜 디자인: 기억과 감정을 건축적 질감으로 번역하는 방법",
+      "content": "파리의 두비스(Doobie's)와 리옹의 파비용(Pavyllon) 레스토랑을 설계한 건축가 아르노 베자디가 미학을 넘어선 공간적 경험과 절제된 재료 선택을 논한다.",
+      "url": "https://www.designboom.com/architecture/arnaud-behzadi-doobies-paris-pavyllon-lyon/",
+      "source": "Designboom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Arnaud Behzadi",
+      "creator_insight": "화려한 디테일을 배제하고 빛과 조명, 원자재의 본질적 질감만으로 상업 공간의 감정적 톤을 설계하는 건축적 결단력.",
+      "tags": [
+        "공간건축",
+        "파리디자인",
+        "호스피탈리티"
+      ],
+      "execution_techniques": [
+        "#MaterialityDriven",
+        "#AtmosphericLighting"
+      ],
+      "why": "단순히 아름다운 인테리어를 넘어 방문객의 감정과 공간의 텍스처를 긴밀하게 연결하는 공간 설계 전략.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-7-500x400-22b08q85r380.jpg",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    },
+    {
+      "title": "에든버러의 브루탈리즘 유산: 아자일 하우스의 콘크리트 미학 구조",
+      "content": "스코틀랜드 에든버러 캐슬 록 기초에 위치한 랜드마크 아자일 하우스(Argyle House)의 구조적 조형미와 브루탈리즘 건축 서사를 다룬다.",
+      "url": "https://www.archdaily.com/1187810/argyle-house-the-story-behind-edinburghs-brutalist-landmark",
+      "source": "ArchDaily",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "ArchDaily Architectural Research",
+      "creator_insight": "노출 콘크리트의 육중함과 선형적 파사드 구성을 통해 현대 도시 환경에서 건축적 압도감을 선사한다.",
+      "tags": [
+        "브루탈리즘",
+        "건축디자인",
+        "파사드구조"
+      ],
+      "execution_techniques": [
+        "#RawConcreteStructure",
+        "#LinearMonolithicFacade"
+      ],
+      "why": "단단한 물성과 거친 텍스처가 어떻게 공간 브랜딩과 시각적 중량감의 기준이 되는지 일깨워준다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://images.adsttc.com/media/images/6ae3/e7ae/a04f/d001/89cd/3fb7/newsletter/argyle-house-the-story-behind-edinburghs-brutalist-landmar_33.jpg?1793320882",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    },
+    {
+      "title": "타이포그래피는 신뢰이자 사용성이다: 찰스 닉스의 서체 철학",
+      "content": "모노타입의 찰스 닉스(Charles Nix)가 헬스케어 및 제약 브랜드의 타이포그래피가 어떻게 소비자의 신뢰와 브랜드 접근성을 좌우하는지 제언한다.",
+      "url": "https://designobserver.com/typography-is-an-accessibility-usability-and-customer-care-issue-says-charles-nix/",
+      "source": "Design Observer",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Charles Nix",
+      "creator_insight": "타이포그래피를 가시적 화려함이 아닌 브랜드의 책임감과 기능적 사용성을 대변하는 정밀 장치로 다루는 철학.",
+      "tags": [
+        "타이포그래피",
+        "브랜드아이덴티티",
+        "사용성디자인"
+      ],
+      "execution_techniques": [
+        "#FunctionalTypography",
+        "#MicroLegibilityDetail"
+      ],
+      "why": "디자인 디테일이 소비자의 경험적 신뢰도와 직결된다는 지점을 날카롭게 짚어내는 그래픽 브랜딩 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://designobserver.com/wp-content/uploads/2026/10/kenvue_01_2_0-1024x576.jpeg",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    },
+    {
+      "title": "기네스의 슬로우 크리에이터 마케팅: 대량 양산을 거부하는 브랜드의 담대함",
+      "content": "기네스(Guinness)가 수많은 인플루언서와의 양산형 협업을 지양하고 고품질의 소수 크리에이터와 절제된 톤앤매너로 마케팅을 전개하는 전략적 분석.",
+      "url": "https://digiday.com/marketing/future-of-marketing-briefing-inside-guinness-go-slow-approach-to-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Guinness Marketing Strategy Team",
+      "creator_insight": "콘텐츠의 양에 집착하지 않고 브랜딩의 톤을 지키며 크리에이터와의 깊이 있는 오리지널리티를 선택한 브랜드 배짱.",
+      "tags": [
+        "기네스",
+        "브랜드전략",
+        "크리에이터마케팅"
+      ],
+      "execution_techniques": [
+        "#QualityOverQuantity",
+        "#HighToneBrandControl"
+      ],
+      "why": "무분별한 디지털 노이즈 속에서 희소성과 미학적 퀄리티를 선택해 브랜딩 가치를 높이는 전략적 시사점.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/guinness-revenue-digiday.jpg",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    },
+    {
+      "title": "나를 수익화하지 마라: 테드 지오이아의 하이퍼 상업화 문화 비판",
+      "content": "문화 평론가 테드 지오이아가 모든 창작물과 플랫폼이 지나치게 상업성 및 수익 모델로 왜곡되는 문화적 현상을 냉철하게 해부한다.",
+      "url": "https://www.honest-broker.com/p/dont-monetize-me-bro",
+      "source": "Substack - The Honest Broker",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Ted Gioia",
+      "creator_insight": "알고리즘 기반 수익화 모델이 창작자의 독창적 미학과 문화적 깊이를 어떻게 갉아먹는지에 대한 날카로운 비평.",
+      "tags": [
+        "문화비평",
+        "수익화비판",
+        "브랜드진정성"
+      ],
+      "execution_techniques": [
+        "#CulturalCritique",
+        "#AntiAlgorithmStrategy"
+      ],
+      "why": "상업광고와 브랜딩을 기획하는 크리에이티브 디렉터들이 진정한 진정성과 가치가 무엇인지 다시 되돌아보게 만든다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/7f3e7736-eacc-4194-ae43-1888abf03ce2_800x340.jpeg",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    },
+    {
+      "title": "카니발 크루즈의 트위치 게이미피케이션: 인터랙티브 라이브스트림 캠페인",
+      "content": "카니발 크루즈가 트위치(Twitch) 플랫폼에서 유저들의 투표와 참여로 진행되는 게이밍 라이브스트림을 론칭해 젊은 소비자층을 포섭한 캠페인.",
+      "url": "https://www.marketingdive.com/news/carnival-gamifies-cruise-experience-via-interactive-twitch-livestream/874033/",
+      "source": "Marketing Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Carnival Marketing Team",
+      "creator_insight": "전통적 여행 캠페인을 젊은 라이브 게이밍 환경으로 이식하여 시청자를 단순 관람객이 아닌 브랜드 서사의 참여자로 전환했다.",
+      "tags": [
+        "카니발크루즈",
+        "트위치캠페인",
+        "게이미피케이션"
+      ],
+      "execution_techniques": [
+        "#InteractiveLiveGamification",
+        "#AudienceDrivenCampaign"
+      ],
+      "why": "경험형 레저 브랜드를 디지털 서브컬처 채널에 어떤 상호작용적 디자인으로 녹여내야 하는지 보여준다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://imgproxy.divecdn.com/ELwpsoMO4l1bhMjQzcgLnAb-5Y76TLbuw0709_G23ME/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYXJuaXZhbF9DcnVpc2VfTGluZV9sYXVuY2hlc19QbGF5X0Nhcm5pdmFsX2ludGVyYWN0aXZlX2xpdmVzdHJlYW1fb25fVHdpdGNoLnBuZw==.webp",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "마이크로소프트 엑셀 셀로만 제작된 비디오 아티스트의 기묘한 프레임 애니메이션",
+      "content": "전문 애니메이션 툴 대신 엑셀 셀 색상 조작으로 완성한 집요함 끝판왕의 프레임 애니메이션.",
+      "url": "https://www.youtube.com/watch?v=sz_vI8V_k1E",
+      "source": "Sidebar.io",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "엑셀애니메이션",
+        "집요한창작"
+      ],
+      "why": "제작 툴의 한계를 비웃듯 서식 프로그램으로 시각 예술을 구현한 창의적인 기믹 레퍼런스.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Sidebar.io%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    },
+    {
+      "title": "n8n 기반의 AI 에이전트 자동화 시스템 구축 실전 가이드",
+      "content": "단순 프롬프트 입력을 넘어 노코드 툴 n8n으로 AI 워크플로우를 자동화하는 개발/기획 팁.",
+      "url": "https://blog.naver.com/nkj2001/223908998209?fromRss=true&trackingCode=rss",
+      "source": "Naver Blog",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "AI자동화",
+        "n8n"
+      ],
+      "why": "반복적 크리에이티브 파이프라인을 효율화하기 위한 에이전트 설계 팁.",
+      "depth": 0.5,
+      "image": "https://blogthumb.pstatic.net/MjAyNTA6MjJfMTY4/MDAxNzUwNTMxNjE0MjA4.Z2koWyhtFQNlWyHNM4plxO79qSCukl9M8VdcAoqbZDkg.FAd9AiYXUMCVcJTA5q42yFPzlSsMFbbXf6678QzBqOsg.PNG/image.png?type=s3",
+      "pub_date": "2026-11-14T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "슬로우 브랜딩 전략",
+      "is_hot": true
+    },
+    {
+      "word": "시노그래피 재해석",
+      "is_hot": true
+    },
+    {
+      "word": "탈알고리즘 진정성",
+      "is_hot": false
+    },
+    {
+      "word": "아날로그 미장센",
+      "is_hot": true
+    },
+    {
+      "word": "기능적 타이포그래피",
+      "is_hot": false
+    },
+    {
+      "word": "물성 중심 공간 설계",
+      "is_hot": true
+    }
+  ]
+}
