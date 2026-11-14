@@ -743,5 +743,10 @@
     "name": "Seth Godin's Blog",
     "url": "https://seths.blog/feed/",
     "category": "MARKETING"
+  },
+  {
+    "name": "CDM (Create Digital Motion & Music)",
+    "url": "https://cdm.link/feed/",
+    "category": "TECH_ART"
   }
 ]
