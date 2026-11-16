@@ -76,7 +76,8 @@
   {
     "name": "levineleavitt.com",
     "url": "https://levineleavitt.com/feed/",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "strba.ch",
@@ -681,7 +682,8 @@
   {
     "name": "The Cool Hunter",
     "url": "https://www.thecoolhunter.net/feed/",
-    "category": "TREND_RESEARCH"
+    "category": "TREND_RESEARCH",
+    "fail_count": 1
   },
   {
     "name": "오픈서베이 블로그",
