@@ -12,7 +12,7 @@ SOURCES_FILE = "data/sources.json"
 
 CATEGORIES = [
     "KOREAN_TREND", "TREND_RESEARCH", "BRANDING", "MARKETING", 
-    "TECH_ART", "SPATIAL", "MOTION_FILM", "DESIGN", "UIUX", "ART"
+    "MOTION_FILM", "TECH_ART", "UIUX", "DESIGN", "ART"
 ]
 
 def pick_weighted_category(sources):
@@ -27,8 +27,6 @@ def pick_weighted_category(sources):
             counts[cat] += 1
         elif cat == "FILM":
             counts["MOTION_FILM"] += 1
-        elif cat == "ARCHITECTURE":
-            counts["SPATIAL"] += 1
             
     # Compute inverse weights (fewer sources = higher probability)
     max_c = max(counts.values()) if counts else 10
@@ -67,11 +65,6 @@ def discover_new_sources():
     This category is for marketing, advertising activations, brand strategy, and creative campaigns.
     Examples: Adweek/AdAge feeds, Substack brand strategy newsletters, Medium tags (marketing-strategy, branding).
     """
-    elif target_category == "SPATIAL":
-        category_hint = """
-    This category is for spatial scenography, exhibition media, architectural installations, and physical branding.
-    Examples: Frame Web, ArchDaily, Designboom, Gooood, Yellowtrace feeds.
-    """
     elif target_category == "TECH_ART":
         category_hint = """
     This category is for interactive media art, creative coding, kinetic installations, and generative visuals.
@@ -91,8 +84,9 @@ def discover_new_sources():
     Requirements:
     1. Every suggested source MUST have a real, valid, working RSS or Atom feed URL.
     2. Suggest 5 highly specific, niche, and professional feeds.
-    3. Return ONLY a valid JSON array of objects with keys: "name", "url", and "category".
-    4. Ensure "category" is strictly "{target_category}".
+    3. STRICT EXCLUSION: Do NOT suggest pure architecture, residential interior, or real-estate blogs (those belong to a separate spatial archive). Focus on film/directing, branding/campaigns, cultural trends, graphic/UIUX, or tech art.
+    4. Return ONLY a valid JSON array of objects with keys: "name", "url", and "category".
+    5. Ensure "category" is strictly "{target_category}".
     """
     
     supported_models = []

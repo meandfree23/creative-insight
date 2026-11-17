@@ -52,11 +52,6 @@
     "category": "DESIGN"
   },
   {
-    "name": "ignant.com",
-    "url": "https://www.ignant.com/feed/",
-    "category": "DESIGN"
-  },
-  {
     "name": "opendoors.gallery",
     "url": "https://opendoors.gallery/feed",
     "category": "ART"
@@ -67,11 +62,6 @@
     "category": "PHOTOGRAPHY",
     "fail_count": 3,
     "quarantined": true
-  },
-  {
-    "name": "architecturaldigest.com",
-    "url": "https://www.architecturaldigest.com/feed/rss",
-    "category": "SPATIAL"
   },
   {
     "name": "levineleavitt.com",
@@ -306,11 +296,6 @@
     "category": "DESIGN"
   },
   {
-    "name": "Wallpaper*",
-    "url": "https://www.wallpaper.com/feeds.xml",
-    "category": "DESIGN"
-  },
-  {
     "name": "Creative Bloq",
     "url": "https://www.creativebloq.com/feeds.xml",
     "category": "DESIGN"
@@ -329,11 +314,6 @@
     "name": "Design Milk",
     "url": "https://design-milk.com/feed",
     "category": "DESIGN"
-  },
-  {
-    "name": "Artforum",
-    "url": "https://www.artforum.com/feed/rss/",
-    "category": "ART"
   },
   {
     "name": "Booooooom",
@@ -423,11 +403,6 @@
     "category": "ART"
   },
   {
-    "name": "Archzine",
-    "url": "https://archzine.net/feed/",
-    "category": "SPATIAL"
-  },
-  {
     "name": "Slanted",
     "url": "https://www.slanted.de/feed/",
     "category": "DESIGN"
@@ -460,11 +435,6 @@
     "quarantined": true
   },
   {
-    "name": "Designboom",
-    "url": "https://www.designboom.com/feed",
-    "category": "DESIGN"
-  },
-  {
     "name": "Design Observer",
     "url": "https://designobserver.com/feed",
     "category": "DESIGN"
@@ -478,28 +448,6 @@
     "name": "Behance",
     "url": "https://www.behance.net/rss",
     "category": "DESIGN"
-  },
-  {
-    "name": "Dezeen",
-    "url": "https://www.dezeen.com/feed/",
-    "category": "SPATIAL"
-  },
-  {
-    "name": "ArchDaily",
-    "url": "https://www.archdaily.com/rss.xml",
-    "category": "SPATIAL"
-  },
-  {
-    "name": "Frame Web",
-    "url": "https://frameweb.com/rss",
-    "category": "SPATIAL",
-    "fail_count": 3,
-    "quarantined": true
-  },
-  {
-    "name": "Yellowtrace",
-    "url": "https://www.yellowtrace.com.au/feed/",
-    "category": "SPATIAL"
   },
   {
     "name": "Retail Design Blog",

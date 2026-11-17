@@ -478,17 +478,20 @@ def generate_daily_insight(date_str, articles_subset):
     Score = (Trustworthiness + Relevance + Timeliness + Cinematic/Visual Quality + Marketing Insight + Originality) - Noise
     
     CURATORIAL BALANCE & THEMATIC RULES:
-    - "Korean Code": CRITICAL REQUIREMENT
-      * MUST be created by Korean creators, design studios, agencies, or brands (e.g., Hyundai, Samsung, Gentle Monster, Korean film/video directors, domestic design studios) OR specifically executed within/for the Korean cultural/commercial landscape (e.g., domestic pop-ups, Korean typography, Seoul exhibitions).
+    - IDENTITY & ANTI-OVERLAP (CRITICAL):
+      * This platform ("Creative Insight") focuses on **Film/Video Directing, Brand Marketing & Campaigns, Cultural Trends, and Korean Creative Intelligence** — NOT residential/hotel architecture or interior design (which belong to a separate spatial archive, RE:COLLECTION).
+      * STRICT NEGATIVE FILTER: REJECT pure architectural buildings, house/apartment/hotel interior renovations, and static fine-art gallery reviews unless they involve a major brand activation or cinematic/motion craft.
+    - "Korean Code" (~15-20%): CRITICAL REQUIREMENT
+      * MUST be created by Korean creators, design studios, agencies, or brands (e.g., Hyundai, Samsung, Gentle Monster, Korean film/video directors, domestic design studios) OR specifically executed within/for the Korean cultural/commercial landscape (e.g., domestic pop-ups, Korean typography, Seoul brand activations).
       * STRICT NEGATIVE FILTER: Simply being published in the Korean language (e.g., a Naver blog or domestic art webzine reviewing a Japanese photographer, Berlin exhibition, or London festival) DOES NOT QUALIFY as "Korean Code". Classify those by their true subject discipline ("Cinema & Narrative", "Design & Space", "Marketing & Brand").
-      * NO RELEASE DROPS: Routine global sneaker/apparel release announcements (e.g., Nike/Jordan drop dates, generic retail restocks on Hypebeast Korea) MUST BE REJECTED unless there is an original Korean creative campaign or spatial/editorial angle.
+      * NO RELEASE DROPS: Routine global sneaker/apparel release announcements (e.g., Nike/Jordan drop dates, generic retail restocks on Hypebeast Korea) MUST BE REJECTED unless there is an original Korean creative campaign or editorial angle.
       * Whenever authentic Korean creative work is available in today's candidate pool, prioritize 1-2 sharp Korean Code picks to maintain domestic cultural relevance.
-    - "Cinema & Narrative":
-      * Moving images, directing craft, cinematic framing, motion design, camera work. Keep this prominent (~30-40% of topPicks) to satisfy visual depth, but maintain healthy room for other domains.
-    - "Design & Space":
-      * Architecture, spatial scenography, exhibition environments, physical materiality, typography, industrial/product design, UI/UX. (NEVER leave this at 0 if good space/design projects exist).
-    - "Marketing & Brand":
-      * High-concept campaigns, cultural activations, provocative brand strategy, visual identity, consumer psychology.
+    - "Cinema & Narrative" (~35-45%):
+      * Moving images, commercial directing craft, cinematic framing, motion design, VFX, music videos, camera work. This is a core pillar alongside Marketing & Brand.
+    - "Marketing & Brand" (~25-35%):
+      * High-concept brand campaigns, cultural activations, provocative brand strategy, consumer psychology, trend research.
+    - "Design & Space" (~10-15%):
+      * Strictly **Graphic Design, Typography, Packaging, UI/UX, Product/Object Design, and Brand Pop-up Experiences** — DO NOT select residential/hotel architecture or interior design.
     
     CRITICAL QUALITY RULE (NO FORCED VOLUME):
     - Select however many items in `topPicks` today's actual source material genuinely earns. This is typically 6 to 15, but can be fewer on a quiet day or more on an exceptional one. Do NOT pad the list with mediocre or generic picks just to hit a target count -- a quiet day with 6 razor-sharp picks beats 15 with filler forced in.
@@ -624,18 +627,21 @@ def update_manifest(date_str):
         json.dump(manifest, f, indent=2)
 
 import sys
-def process_date(target_date, sources=None):
+def process_date(target_date, sources=None, article_pool=None, used_urls=None):
     out_path = os.path.join(DAILY_DIR, f"{target_date}.json")
     if os.path.exists(out_path) and target_date != "ver.1":
         print(f"Data for {target_date} already exists. Skipping.")
         return True
 
-    if sources is None:
-        sources = load_sources()
-    all_articles = fetch_rss(sources)
+    if article_pool is not None:
+        all_articles = [a for a in article_pool if (a.get("link") or "").strip().lower() not in (used_urls or set())]
+    else:
+        if sources is None:
+            sources = load_sources()
+        all_articles = fetch_rss(sources)
     
     if len(all_articles) < 14:
-        print(f"Not enough articles fetched for {target_date}!")
+        print(f"Not enough articles fetched for {target_date}! ({len(all_articles)} available)")
         return False
     
     random.shuffle(all_articles)
@@ -643,6 +649,11 @@ def process_date(target_date, sources=None):
         
     daily_json = generate_daily_insight(target_date, batch)
     if daily_json:
+        if used_urls is not None:
+            for item in (daily_json.get("topPicks") or []) + (daily_json.get("popcorn") or []):
+                u = (item.get("url") or "").strip().lower()
+                if u:
+                    used_urls.add(u)
         # Auto-Enrich images: replace placehold.co or empty images with real og:image from the article URL
         for pick in (daily_json.get("topPicks") or []) + (daily_json.get("popcorn") or []):
             img = pick.get("image", "")
@@ -707,17 +718,19 @@ def main():
             
         print(f"Found {len(missing_dates)} missing dates: {missing_dates}. Processing in single batch...")
         sources = load_sources()
+        article_pool = fetch_rss(sources) if len(missing_dates) > 1 else None
+        used_urls = set()
         
         any_success = False
         for d_str in missing_dates:
-            success = process_date(d_str, sources=sources)
+            success = process_date(d_str, sources=sources, article_pool=article_pool, used_urls=used_urls)
             if success:
                 any_success = True
-                print(f"Successfully processed {d_str}. Pausing 15s before next date...")
-                time.sleep(15)
+                print(f"Successfully processed {d_str}. Pausing 5s before next date...")
+                time.sleep(5)
             else:
-                print(f"Failed to process {d_str}. Pausing 30s before next date...")
-                time.sleep(30)
+                print(f"Failed to process {d_str}. Pausing 15s before next date...")
+                time.sleep(15)
                 
         if not any_success:
             print("ERROR: All attempted dates failed to generate. Exiting with error code to trigger GitHub Actions alert.")
