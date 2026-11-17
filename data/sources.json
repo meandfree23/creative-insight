@@ -80,11 +80,6 @@
     "category": "DESIGN"
   },
   {
-    "name": "anothermag.com",
-    "url": "https://www.anothermag.com/Feed",
-    "category": "DESIGN"
-  },
-  {
     "name": "silvanderwoerd.com",
     "url": "https://www.silvanderwoerd.com/blog-feed.xml",
     "category": "DESIGN"
@@ -301,23 +296,8 @@
     "category": "DESIGN"
   },
   {
-    "name": "Colossal",
-    "url": "https://www.thisiscolossal.com/feed/",
-    "category": "ART"
-  },
-  {
     "name": "The Art Newspaper",
     "url": "https://www.theartnewspaper.com/rss.xml",
-    "category": "ART"
-  },
-  {
-    "name": "Design Milk",
-    "url": "https://design-milk.com/feed",
-    "category": "DESIGN"
-  },
-  {
-    "name": "Booooooom",
-    "url": "https://www.booooooom.com/feed",
     "category": "ART"
   },
   {
@@ -611,11 +591,6 @@
     "category": "FILM",
     "fail_count": 3,
     "quarantined": true
-  },
-  {
-    "name": "Booooooom TV",
-    "url": "https://tv.booooooom.com/feed/",
-    "category": "FILM"
   },
   {
     "name": "Trend Hunter",
