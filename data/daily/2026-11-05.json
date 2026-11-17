@@ -1,0 +1,411 @@
+{
+  "date": "2026-11-05",
+  "focusQ": "에이전트의 통찰: 시장은 여전히 매끄러운 템플릿에 집착하지만 진짜 돈과 시선은 균열과 비효율의 미학에서 발생한다. 껍데기뿐인 디지털 환상에서 벗어나 물성과 태도를 다시 정의할 때다. 더 이상 게으른 위안에 속지 마라.",
+  "creator_message": "큐레이터의 메시지: 뻔한 보도자료를 복사해 붙여넣는 레퍼런스 수집은 이제 그만둬라. 오늘 우리가 건지는 14개의 파편은 시장의 나태함을 후벼파는 날카로운 도구다. 제대로 보고 흡수해라.",
+  "session": {
+    "timestamp": "2026-11-17T07:32:20.661103",
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "언리얼 엔진 5 프로젝트 최적화 툴킷",
+      "content": "Leartes Studios에서 프로젝트의 건강도를 스코어링하고 사용되지 않는 에셋과 의존성을 찾아내는 에디터 확장 프로그램을 공개했다.",
+      "url": "https://80.lv/articles/keep-unreal-engine-5-projects-clean-with-this-optimization-toolkit/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Leartes Studios",
+      "creator_insight": "화려한 비주얼 렌더링 뒤에 숨겨진 구조적 부채를 청산하는 기술적 결기다. 디렉터라면 감당할 수 없는 디테일의 쓰레기를 치우는 법부터 배워야 한다.",
+      "tags": [
+        "언리얼엔진",
+        "최적화",
+        "프로젝트관리"
+      ],
+      "execution_techniques": [
+        "구조적 해체주의",
+        "감성적 모듈화"
+      ],
+      "why": "크리에이티브의 완성도는 늘 백엔드의 깔끔함에서 판가름 난다. 비주얼 거품을 걷어내는 실질적인 기술적 가이드.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.80.lv/api/upload/post/42272/images/6afb0116c14ed/cover_800x800.jpg",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "알레프 팜스의 대담한 브랜드 아이덴티티 재정의",
+      "content": "BOND는 배양육 브랜드 알레프 팜스의 아이덴티티를 고대 페니키아 문자 '알레프'를 뒤집은 황소 형상으로 재구축했다.",
+      "url": "https://abduzeedo.com/bond-unveils-aleph-farms-brand-identity/",
+      "source": "abduzeedo.com",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "BOND",
+      "creator_insight": "실험실에서 배양한 고기라는 차가운 과학에 고고학적 유산을 결합해 기괴한 생명력을 부여했다. 뻔한 친환경 마케팅의 허를 찌르는 전략.",
+      "tags": [
+        "브랜드아이덴티티",
+        "배양육",
+        "타이포그래피"
+      ],
+      "execution_techniques": [
+        "노스탤지어 재맥락화",
+        "헤리티지 킷치 융합"
+      ],
+      "why": "미래 기술을 다룰수록 과거의 원형을 비틀어 세우는 태도가 얼마나 강력한지 증명한다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_1600_36.jpg",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "끝없는 가려움증의 환각, 단편 영화 '피카'",
+      "content": "도무지 멈추지 않는 가려움증에 시달리며 광기의 절치로 치달아가는 한 남자의 기괴하고 강렬한 추적을 그린 단편 영화.",
+      "url": "https://www.shortoftheweek.com/2026/11/11/pika-the-itch/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Short of the Week",
+      "creator_insight": "일상의 사소한 신체적 불쾌감을 시네마틱한 공포로 치환하는 연출력이 매섭다. 관객의 신경을 박박 긁어내는 미학적 자극.",
+      "tags": [
+        "단편영화",
+        "연출",
+        "심리적스릴러"
+      ],
+      "execution_techniques": [
+        "로우 프레이밍",
+        "시네마틱 라이팅"
+      ],
+      "why": "매끈한 상업 영상에 질린 시청자들에게 날것의 신경증적 시각 경험을 선사하는 훌륭한 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://www.shortoftheweek.com/wp-content/uploads/2026/11/¡PIKA-Short-Film-1024x576.jpeg",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "오픈서베이: AI로 컨셉보드 만들기 실전 가이드",
+      "content": "AI 툴을 활용해 신제품 아이디어의 헤드라인부터 RTB까지 완결된 컨셉보드를 구축하는 실무 방법론을 제안한다.",
+      "url": "https://blog.opensurvey.co.kr/research-tips/ai-concept-board-headline-to-rtb/",
+      "source": "오픈서베이 블로그",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "오픈서베이",
+      "creator_insight": "AI를 신비화하는 게으른 태도를 버리고 실무 기획의 무기로 뾰족하게 갈아내는 국내 마케팅 현장의 현실적 단면.",
+      "tags": [
+        "AI기획",
+        "컨셉보드",
+        "마케팅리서치"
+      ],
+      "execution_techniques": [
+        "AI 클리셰 해체",
+        "감성적 모듈화"
+      ],
+      "why": "뜬구름 잡는 AI 예찬론 대신 당장 기획서에 써먹을 수 있는 뼈대 있는 실무 가이드.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://blog.opensurvey.co.kr/wp-content/uploads/2026/11/26_conceptstudio_blog_research_tips_04.png",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "전주 한옥 스테이 '보물'의 공간적 확장",
+      "content": "전주에 자리한 한옥 스테이 '보물'은 투플라이가 전작 '선물'의 감성과 이야기 구조를 이어받아 두 번째로 완성한 공간이다.",
+      "url": "https://www.designtwoply.com/works/stay/%ed%95%9c%ec%98%a5-%ec%8a%a4%ed%85%8c%ec%9d%b4-%eb%b3%b4%eb%ac%bc/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ec%2598%25a5-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4-%25eb%25b3%25b4%25eb%25ac%25bc",
+      "source": "Design Twoply",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "투플라이",
+      "creator_insight": "전통의 문법을 소비하는 데 그치지 않고, 공간의 서사를 연작 형태로 직조해 브랜드 자산을 구축하는 고도의 로컬 브랜딩.",
+      "tags": [
+        "한옥스테이",
+        "공간디자인",
+        "로컬브랜딩"
+      ],
+      "execution_techniques": [
+        "K-고택 인프라 구축",
+        "아날로그 브랜딩"
+      ],
+      "why": "단순한 인테리어를 넘어 공간이 어떻게 하나의 서사적 브랜드가 되는지 보여주는 국내 디자인 스튜디오의 수작.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2026/10/bomul_intro_living.jpg",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "AI 시대 UX의 새로운 과제: 실패를 디자인하기",
+      "content": "완벽한 경험만을 설계하던 시대를 지나, AI가 오작동할 때 사용자와 어떻게 교감하고 신뢰를 유지할 것인가에 대한 UX 디자인의 전환점.",
+      "url": "https://medium.muz.li/aithe-new-ux-skill-nobody-taught-us-designing-for-ai-mistakes-a99a203ae5ee?source=rss----5969bf7021a3---4",
+      "source": "Muzli (Medium)",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Muzli 커뮤니티",
+      "creator_insight": "완벽함을 가장하는 인공지능의 허점을 인정하고, 오류 상황 자체를 매끄러운 브랜드 경험의 일부로 흡수하는 냉철한 인터페이스 전략.",
+      "tags": [
+        "UX디자인",
+        "AI오류",
+        "인터페이스"
+      ],
+      "execution_techniques": [
+        "디지털 물성 회복",
+        "구조적 해체주의"
+      ],
+      "why": "생성형 AI 시대에 디자이너가 진짜로 통제해야 할 영역이 어디인지 본질을 짚어준다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://cdn-images-1.medium.com/max/1024/1*U5IYYGrswRaYy7w5-YGamw.png",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "애플 홈뷰: 집단 거주 공간을 겨냥한 스마트 디스플레이",
+      "content": "아이맥 G4의 실루엣을 차용한 애플의 첫 스마트 디스플레이 홈뷰는 개인별 인식보다 공간 내 모든 거주자를 위한 포괄적 접근을 선보인다.",
+      "url": "https://coolhunting.com/tech/apple-homeview-opens-up-before-get-personal/",
+      "source": "coolhunting.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Apple",
+      "creator_insight": "개인화라는 현대 테크의 강박을 살짝 비틀어, 과거 아이맥의 향수를 소환하는 오브제 중심의 거실 인프라로 재정의했다.",
+      "tags": [
+        "애플",
+        "스마트디스플레이",
+        "제품디자인"
+      ],
+      "execution_techniques": [
+        "노스탤지어 재맥락화",
+        "유기적 모더니즘"
+      ],
+      "why": "형태가 과거를 향하면서도 기능은 극도로 현대적인 레트로 퓨처리즘의 훌륭한 하드웨어 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/11/Apple-HomeView-lifestyle-living-room-01-768x512.png",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "플레이스테이션의 아이코닉한 부팅 화면 탄생 비화",
+      "content": "소리와 모션, 로고 디자인의 완벽한 결합으로 게이머의 심장을 뛰게 만드는 플레이스테이션 초기 구동 화면의 연출 마스터클래스.",
+      "url": "https://www.creativebloq.com/news/how-playstation-nailed-its-iconic-startup-screen",
+      "source": "Creative Bloq",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Sony Interactive Entertainment",
+      "creator_insight": "단 수초의 등장으로 기계 전원을 켜는 행위를 하나의 신성한 의식으로 각인시킨 브랜딩의 정점. 감각적 모듈화의 교과서.",
+      "tags": [
+        "모션디자인",
+        "사운드디자인",
+        "플레이스테이션"
+      ],
+      "execution_techniques": [
+        "시네마틱 라이팅",
+        "아날로그 브랜딩"
+      ],
+      "why": "시각과 청각을 동시에 장악하여 브랜드 로열티를 심리적으로 박아넣는 법을 증명한다.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://cdn.mos.cms.futurecdn.net/WjDGpWH9uyARofmvyA5jTi-1920-80.jpg",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "손 럭스 'Out Into Us' 뮤직비디오",
+      "content": "매스 모카와 파이오니어 워크스가 커미션한 손 럭스의 음악 속에서 가족과 세대를 가로지르는 인류학적 풍경을 담아낸 영상 작업.",
+      "url": "https://vimeo.com/channels/staffpicks/1228116196",
+      "source": "Vimeo",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "손 럭스 (Son Lux)",
+      "creator_insight": "음악을 시각화하는 관성적인 방식을 거부하고, 인간 군상의 묵직한 물성을 카메라에 안착시켜 거대한 서사를 완성했다.",
+      "tags": [
+        "뮤직비디오",
+        "시네마토그래피",
+        "다큐멘터리"
+      ],
+      "execution_techniques": [
+        "지정학적 재료학",
+        "시네마틱 라이팅"
+      ],
+      "why": "하이엔드 뮤직비디오가 도달할 수 있는 가장 깊은 사색적 미학을 보여준다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://i.vimeocdn.com/video/2207155061-05e1466c175c4c30865b67ad65d90863171f9459678796eaad88e8d379916e3c-d_960?region=us",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "노번의 더 영 원스: 알렉스 아시의 '개구리'",
+      "content": "신진 감독 알렉스 아시가 포착한 독특한 시선과 청춘의 단면을 감각적인 프레이밍으로 담아낸 NOWNESS 에디토리얼.",
+      "url": "https://www.nowness.com/series/the-young-ones/frog-alex-acy",
+      "source": "NOWNESS",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Alex Acy",
+      "creator_insight": "젊음이라는 진부한 주제를 불쾌하고도 매혹적인 질감의 프레임으로 찢어발기며 새로운 시각적 문법을 제시한다.",
+      "tags": [
+        "단편",
+        "시네마토그래피",
+        "비주얼디렉팅"
+      ],
+      "execution_techniques": [
+        "로우 프레이밍",
+        "재질감의 재해석"
+      ],
+      "why": "비주얼 크리에이터라면 반드시 레퍼런스 북에 박아두어야 할 감각적인 카메라 앵글의 집합.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://img.nowness.com/nowness-frontend/jiBxP5bMRLChEJAkmJQi_FROG%20STILL%2012.jpg",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "제69회 그래미 어워드 후보 전면 공개",
+      "content": "전 세계 대중음악계의 판도를 가늠할 제69회 그래미 어워드 최종 후보 리스트가 발표되며 치열한 경합을 예고했다.",
+      "url": "https://hypebeast.kr/2026/11/2027-69th-grammy-awards-nominations-full-list",
+      "source": "Hypebeast Korea",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Recording Academy",
+      "creator_insight": "글로벌 사운드 트렌드가 어떤 지점에서 변주되고 있는지 한눈에 읽어낼 수 있는 거대한 문화적 바로미터.",
+      "tags": [
+        "그래미어워드",
+        "음악",
+        "글로벌트렌드"
+      ],
+      "execution_techniques": [
+        "크로스 미디어 게이미피케이션",
+        "공간적 스펙트럼"
+      ],
+      "why": "동시대 대중문화의 최전선에서 어떤 아티스트가 헤게모니를 쥐고 있는지 파악하기 위한 필수 체크리스트.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F11%2F2027-69th-grammy-awards-nominations-full-list-1.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "인뮤직, AKAI 및 Moog 모드 개방 선언",
+      "content": "AKAI와 Moog 등의 모회사인 인뮤직이 MPC 키보드 등의 오픈소스화와 코더들을 위한 하드웨어 모딩 허용 범위를 대폭 넓힌다.",
+      "url": "https://cdm.link/inmusic-opens-up-for-namm/",
+      "source": "CDM (Create Digital Motion & Music)",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "inMusic",
+      "creator_insight": "닫혀 있던 뮤직 하드웨어 생태계를 해체하고, 유저들이 직접 코딩으로 기기를 재정의하게 만드는 대담한 오픈 플랫폼 전략.",
+      "tags": [
+        "하드웨어모딩",
+        "오픈소스",
+        "신디사이저"
+      ],
+      "execution_techniques": [
+        "구조적 해체주의",
+        "다층적 물성 재구성"
+      ],
+      "why": "디지털 악기와 물리적 하드웨어의 경계가 무너지는 테크 아트의 최신 흐름을 보여준다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cdm.link/app/uploads/2026/11/new-mpc-hardware.png",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "Three.js로 구현하는 절차적 종이 질감 수채화 리빌 효과",
+      "content": "프로시저럴 페이퍼 텍스처 위에서 디지털 수채화가 번져나가듯 드러나는 정교한 웹 그래픽 렌더링 기법.",
+      "url": "https://franky-arkon-digital.medium.com/realistic-watercolor-reveal-effect-on-procedural-paper-texture-with-three-js-514d06ab0aef?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Franky Arkon",
+      "creator_insight": "차가운 웹 코딩의 세계에 전통 회화의 아날로그적 물성과 우연성을 정교한 알고리즘으로 이식해 낸 기술적 승리.",
+      "tags": [
+        "Three.js",
+        "크리에이티브코딩",
+        "웹그래픽"
+      ],
+      "execution_techniques": [
+        "디지털 물성 회복",
+        "재질감의 재해석"
+      ],
+      "why": "웹 디자이너와 크리에이티브 코더들이 디지털 환경에서 촉각적 감성을 구현하는 최고의 기술적 영감.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdn-images-1.medium.com/max/2440/1*txn4mYiS4ajpuPmVYw15_Q.jpeg",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "에이코 호소에가 포착한 미시마 유키오의 육체적 반역",
+      "content": "도쿄 자택에서 문학적 반역자 미시마 유키오의 날것 그대로의 육체를 담아낸 에이코 호소에의 전위적인 누드 포토그래피 아카이브.",
+      "url": "https://www.anothermag.com/art-photography/17637/eikoh-hosoe-yukio-mishima-leslie-lohman-museum?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=eikoh-hosoe-s-nude-photographs-of-literary-rebel-yukio-mishima",
+      "source": "anothermag.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Eikoh Hosoe",
+      "creator_insight": "인간의 육체와 공간의 물성을 극단적인 명암 대비로 결속시켜, 예술이 도달할 수 있는 가장 위험하고 매혹적인 긴장감을 연출했다.",
+      "tags": [
+        "포토그래피",
+        "아카이브",
+        "비주얼아트"
+      ],
+      "execution_techniques": [
+        "시네마틱 라이팅",
+        "지정학적 재료학"
+      ],
+      "why": "이미지의 홍수 속에서 단 한 장의 사진으로 시선을 압도하는 클래식한 연출의 교본.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/480/0/480310.jpg",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "플랫하게 접히는 아크릴 크리스마스 트리",
+      "content": "스튜디오 SKO가 선보인 투명 아크릴 소재로 제작되어 사용하지 않을 때는 납작하게 보관 가능한 신개념 소장용 크리스마스 트리.",
+      "url": "https://www.trendhunter.com/trends/collectible-christmas-trees",
+      "source": "Trend Hunter",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "오브제",
+        "크리스마스"
+      ],
+      "why": "계절성 이벤트 굿즈가 얼마나 미니멀하고 위트 있게 변모할 수 있는지 보여주는 유쾌한 오브제.",
+      "depth": 0.5,
+      "image": "https://cdn.trendhunterstatic.com/phpthumbnails/654/654245/654245_1_468.jpeg",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    },
+    {
+      "title": "우버 앱으로 호출하는 아마존 자율주행 로보택시",
+      "content": "아마존 소유의 자율주행 기업 룩스(Zoox)가 라스베이거스 우버 플랫폼에 로보택시 서비스를 전격 론칭하며 모빌리티 지각변동을 일으킨다.",
+      "url": "https://www.trendhunter.com/trends/driverless-ride-options",
+      "source": "Trend Hunter",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "자율주행",
+        "모빌리티"
+      ],
+      "why": "테크 거물들의 합종연횡이 일상의 이동 방식을 어떻게 바꾸는지 보여주는 신선한 비즈니스 스낵.",
+      "depth": 0.5,
+      "image": "https://cdn.trendhunterstatic.com/phpthumbnails/654/654265/654265_1_468.jpeg",
+      "pub_date": "2026-11-05T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": true
+    },
+    {
+      "word": "지정학적 재료학",
+      "is_hot": false
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 브랜딩",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": false
+    },
+    {
+      "word": "K-고택 인프라 구축",
+      "is_hot": true
+    }
+  ]
+}

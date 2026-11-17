@@ -1,0 +1,431 @@
+{
+  "date": "2026-11-09",
+  "focusQ": "에디토리얼의 본질은 유행어 따위의 수사가 아니라 냉혹한 편집력에서 출발한다. 이번 시즌의 아젠다는 기계적 자동화에 대한 정면 거부와 시각적 물성의 복원에 맞춰져 있다. 감성적 포장마저 걷어낸 자리에서 날것의 크리에이티브만 생존한다.",
+  "creator_message": "큐레이터의 메시지: 뻔한 단어로 도배된 보도자료와 AI가 뱉어낸 감성 팔이식 기획안들은 전부 휴지통으로 직행시켰다. 오늘 우리가 마주한 레퍼런스들은 철저하게 시각적 타격감과 구조적 영민함으로 증명된 것들뿐이다.",
+  "session": {
+    "timestamp": "2026-11-17T07:34:29.033297",
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "마더 디자인, 메이저리그 베이스볼 브랜드 아이덴티티 리프레시",
+      "content": "마더 디자인이 MLB의 방대한 역사 속 시각적 유산을 현대적으로 재구성하여 5종의 맞춤형 서체와 1968년도 배터 마크를 기반으로 한 새로운 브랜드 아이덴티티를 선보였다.",
+      "url": "https://www.itsnicethat.com/articles/mother-design-major-league-baseball-brand-refresh-graphic-design-project-161126",
+      "source": "It's Nice That",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Mother Design",
+      "creator_insight": "로고 하나로 모든 것을 해결하려는 안일한 태도를 버리고, 문장과 역사적 맥락 자체를 브랜드의 언어로 치환해 버린 영민한 기획력이다.",
+      "tags": [
+        "브랜드아이덴티티",
+        "타이포그래피",
+        "노스탤지어 재맥락화"
+      ],
+      "execution_techniques": [
+        "Custom Typeface",
+        "Heritage Integration"
+      ],
+      "why": "오래된 헤리티지를 단순 답습하는 게 아니라 현대적인 스튜디오의 감각으로 어떻게 재맥락화해야 하는지 보여주는 완벽한 교과서다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://admin.itsnicethat.com/images/2H0w60ZMycFyejGj3k3wKMUDKq8=/284793/width-1440%7Cformat-jpeg/mother-design-mlb-graphic-design-itsnicethat-1.png",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "더 스트록스 'Lonely In The Future' 뮤직비디오 (감독: 워렌 푸)",
+      "content": "워렌 푸가 연출을 맡은 더 스트록스의 신곡 뮤직비디오는 독창적인 미장센과 레트로 퓨처리즘의 결합을 통해 시각적 밀도를 극대화했다.",
+      "url": "https://www.promonews.tv/videos/2026/11/12/strokes-lonely-future-warren-fu/96952",
+      "source": "promonews.tv",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Warren Fu",
+      "creator_insight": "시대착오적일 수 있는 밴드의 감성을 가장 세련된 시네마틱 라이팅과 공간적 스펙트럼 속으로 끌어들이는 데 성공했다.",
+      "tags": [
+        "뮤직비디오",
+        "시네마틱 라이팅",
+        "안티-AI 미학"
+      ],
+      "execution_techniques": [
+        "Retro-Futuristic Grading",
+        "In-Camera Effects"
+      ],
+      "why": "뮤직비디오가 지향해야 할 미학적 기준이 어디에 있는지 증명하는 훌륭한 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://admin.promonews.tv/sites/default/files/styles/pickoftheday/public/The%20Strokes%20%27Lonely%20In%20The%20Future%27%20by%20Warren%20Fu4.png?itok=-VWACSg3",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "시술 대신 홈뷰티, 2026 뷰티·시술 트렌드 리포트",
+      "content": "오픈서베이가 발표한 리포트에 따르면 소비자들이 비용 부담과 지속성을 이유로 병원 시술 대신 고성능 홈뷰티 디바이스를 적극적으로 선택하고 있다.",
+      "url": "https://blog.opensurvey.co.kr/article/beauty-aesthetics-2026-2/",
+      "source": "오픈서베이 블로그",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "OpenSurvey",
+      "creator_insight": "한국 소비자들의 치밀한 루틴 중심 소비 심리를 데이터로 포착하여 뷰티 시장의 권력이 홈 인프라로 이동하고 있음을 정확히 짚어냈다.",
+      "tags": [
+        "K-뷰티",
+        "소비자심리",
+        "감성적 모듈화"
+      ],
+      "execution_techniques": [
+        "Data Visualization",
+        "Consumer Trend Analysis"
+      ],
+      "why": "한국 시장 특유의 효율 지향적 라이프스타일이 어떻게 브랜드의 제품 기획으로 이어지는지 보여주는 필수 인사이트다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://blog.opensurvey.co.kr/wp-content/uploads/2026/11/26_thumbnail_trendreport_22-1.png",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "토브 얀손과 호빗의 숨겨진 서사",
+      "content": "노브네스가 조명한 이번 기획은 무민의 작가 토브 얀손이 톨킨의 '호빗' 초기 판본에 남긴 일러스트와 그 시각적 영감의 원천을 추적한다.",
+      "url": "https://www.nowness.com/story/tove-jansson-and-the-hobbit-moomin",
+      "source": "NOWNESS",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Tove Jansson",
+      "creator_insight": "북유럽 특유의 서늘하고 기묘한 상상력이 어떻게 하나의 문학적 유니버스를 시각화하는지 보여주는 귀중한 기록이다.",
+      "tags": [
+        "일러스트레이션",
+        "아날로그 브랜딩",
+        "헤리티지"
+      ],
+      "execution_techniques": [
+        "Archival Framing",
+        "Textural Scans"
+      ],
+      "why": "디지털 시대에 원초적 드로잉과 오리지널 물성이 가지는 아카이브적 가치를 일깨워준다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://img.nowness.com/nowness-frontend/2YP4MaJ2SNWF2Sx7rJPm_MOOMIN%20STILL%203.jpg",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "클락 호딘이 포착한 알래스카의 야생적인 자동차 낙하 스펙터클",
+      "content": "사진작가 클락 호딘이 알래스카 글레이셔 뷰에서 열리는 독립기념일 행사인 절벽 자동차 낙하 이벤트를 날것의 시선으로 담아냈다.",
+      "url": "https://wepresent.wetransfer.com/stories/clark-hodgin-photography-glacier-view",
+      "source": "WePresent",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Clark Hodgin",
+      "creator_insight": "인간의 광기와 통제 불능의 스펙터클을 건조하면서도 압도적인 구감으로 포착해 시각적 쾌감을 선사한다.",
+      "tags": [
+        "다큐멘터리 사진",
+        "로우 프레이밍",
+        "스펙터클"
+      ],
+      "execution_techniques": [
+        "High-Speed Shutter",
+        "Wide-Angle Landscape"
+      ],
+      "why": "브랜드 콘텐츠가 이토록 원초적인 아드레날린을 어떻게 시각화할 수 있는지 힌트를 준다.",
+      "social_proof": "",
+      "depth": 0.83,
+      "image": "https://images.ctfassets.net/adaoj5ok2j3t/2drddNSFqnVtexcsNfJZ8Y/0c89ee9a91ef8830e7c9dfde078dfe80/20260704-CAH_8733-Edit.jpg",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "델로이트 디지털의 에이전틱 툴, 마케팅 워크플로우를 혁신하다",
+      "content": "델로이트 디지털이 마케팅 팀의 복잡한 운영 절차를 자동화하고 정돈하기 위한 새로운 에이전트 기반 툴셋을 공개했다.",
+      "url": "https://www.marketingdive.com/news/deloitte-digitals-new-agentic-tools-aim-to-fix-messy-marketing-workflows/874779/",
+      "source": "Marketing Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Deloitte Digital",
+      "creator_insight": "마케팅 조직의 비효율을 시스템으로 때려잡겠다는 냉정한 테크놀로지 지상주의의 실현이다.",
+      "tags": [
+        "마케팅 테크",
+        "워크플로우 자동화",
+        "에이전틱 AI"
+      ],
+      "execution_techniques": [
+        "Workflow Architecture",
+        "System Integration"
+      ],
+      "why": "크리에이티브 조직이 행정적 잡무에서 벗어나기 위해 앞으로 마주해야 할 기술적 현실을 보여준다.",
+      "social_proof": "",
+      "depth": 0.8,
+      "image": "https://imgproxy.divecdn.com/y72PAW_ex8SEXF_vojFCEg0087DSwmuJEQwQvGjrg8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDQ0NDg4NjUyLmpwZw==.webp",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "로직 프로 13, 터치 UI는 살렸으나 지능형 어시스턴트에서 스텀블하다",
+      "content": "새로운 다크 리퀴드 글래스 테마와 향상된 브라우저를 탑재한 애플의 로직 프로 13이 터치 조작성에는 합격점을 받았으나 AI 어시스턴트 기능에서는 아쉬움을 남겼다.",
+      "url": "https://cdm.link/logic-pro-13-touch-and-intelligence/",
+      "source": "CDM (Create Digital Motion & Music)",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Apple Sound Team",
+      "creator_insight": "물리적 인터페이스의 감각을 소프트웨어에 이식하려는 시도는 훌륭했으나, 강요된 지능형 기능은 여전히 과도기적 오류를 범한다.",
+      "tags": [
+        "UI/UX",
+        "오디오 디자인",
+        "디지털 물성 회복"
+      ],
+      "execution_techniques": [
+        "Liquid Glass UI",
+        "Haptic Integration"
+      ],
+      "why": "프로페셔널 크리에이티브 툴에서 UI와 AI의 주도권 싸움이 어떤 양상으로 전개되는지 보여주는 예리한 분석이다.",
+      "social_proof": "",
+      "depth": 0.79,
+      "image": "https://cdm.link/app/uploads/2026/11/Apple-Creator-Studio-Logic-Pro-for-Mac-261027-scaled.jpg",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "스태시 미디어, 에디션 180으로 폭발적인 인스피레이션 투척",
+      "content": "모션 디자인과 애니메이션 분야의 방오물 같은 레퍼런스를 모아둔 스태시 미디어의 최신호가 크리에이터들을 위한 영감의 불길을 지폈다.",
+      "url": "https://www.stashmedia.tv/new-issue-stash-180-drops-inspiration-insight-insanity/",
+      "source": "Stash Media",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Stash Editors",
+      "creator_insight": "필요에 의해 엄선된 모션 그래픽의 정수가 무엇인지, 시각적 압박감을 통해 타협 없는 큐레이션의 힘을 증명한다.",
+      "tags": [
+        "모션디자인",
+        "VFX",
+        "다층적 물성 재구성"
+      ],
+      "execution_techniques": [
+        "CGI Compilation",
+        "Kinetic Typography"
+      ],
+      "why": "모션 디렉터들이 매번 참고해야 할 가장 신뢰도 높은 레퍼런스 아카이브다.",
+      "social_proof": "",
+      "depth": 0.78,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/email-sub-options-table-email-489corp2.jpg",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "캘럽 스타인과의 대화: 허드슨 강변의 사진을 기록하며",
+      "content": "1년이 넘는 시간 동안 하나의 장소를 집요하게 기록해 온 사진가 캘럽 스타인이 사진 작업 속에서 구축한 신뢰와 커뮤니티의 미학을 풀어놓는다.",
+      "url": "https://www.lensculture.com/articles/caleb-stein-down-by-the-hudson-making-the-photographs",
+      "source": "lensculture.com",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Caleb Stein",
+      "creator_insight": "스쳐 지나가는 이미지 소비 시대에 한 장소에 깊게 뿌리내린 시선이 가지는 다큐멘터리적 힘을 역설한다.",
+      "tags": [
+        "다큐멘터리",
+        "아날로그 브랜딩",
+        "포토그래피"
+      ],
+      "execution_techniques": [
+        "Documentary Medium Format",
+        "Natural Light Study"
+      ],
+      "why": "속도전인 크리에이티브 업계에서 묵직한 호흡의 리서치가 왜 필요한지 환기해 준다.",
+      "social_proof": "",
+      "depth": 0.77,
+      "image": "https://images.lensculture.com/image/710fb09c-ae5d-4b3c-c3b9-5f980443d900/large",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "재즈 카툰 사운드트랙의 황금기 (파트 1)",
+      "content": "테드 지오야가 핑크 판서, 찰리 브라운 등 클래식 애니메이션을 지탱했던 세련된 재즈 사운드트랙의 역사와 문화적 배경을 심도 있게 해부한다.",
+      "url": "https://www.honest-broker.com/p/the-golden-age-of-jazz-cartoon-soundtracks",
+      "source": "Substack - The Honest Broker",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Ted Gioia",
+      "creator_insight": "대중문화의 이면에 숨겨진 최고 수준의 음악적 장인정신이 어떻게 시청각적 완성도를 끌어올렸는지 증명한다.",
+      "tags": [
+        "사운드트랙",
+        "재즈",
+        "노스탤지어 재맥락화"
+      ],
+      "execution_techniques": [
+        "Acoustic Arrangement",
+        "Animation Scoring"
+      ],
+      "why": "영상 연출에 있어 사운드가 가지는 절대적 권력을 재확인할 수 있는 문화사적 기록이다.",
+      "social_proof": "",
+      "depth": 0.76,
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/cf44b5e9-8e50-4538-9811-fbfb4afd51c6_498x372.gif",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "디자인 관찰 연습의 필요성",
+      "content": "현업 디자이너들이 입 모아 강조하는 '관찰 연습'의 중요성과, 세상을 바라보는 시각적 태도를 루틴화하는 방법에 대한 고찰.",
+      "url": "https://designobserver.com/you-need-an-observation-practice/",
+      "source": "Design Observer",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Design Observer Contributors",
+      "creator_insight": "화려한 툴 기능에 매몰된 주니어들에게 영감은 모니터가 아니라 일상의 예리한 관찰에서 온다는 사실을 일깨운다.",
+      "tags": [
+        "디자인 방법론",
+        "관찰력",
+        "크리에이티브 루틴"
+      ],
+      "execution_techniques": [
+        "Visual Journaling",
+        "Contextual Inquiry"
+      ],
+      "why": "아이디어가 고갈될 때마다 꺼내 봐야 할 크리에이터의 기본기를 다지는 글이다.",
+      "social_proof": "",
+      "depth": 0.75,
+      "image": "https://designobserver.com/wp-content/uploads/2026/10/405e7950-3b06-4a0d-b8bc-67bb70bb93dc_2000x1000-1024x512.webp",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "달라 나세르, 파괴된 레바논 유적지를 재구성하다",
+      "content": "프리즈 아티스트 어워드를 수상한 달라 나세르는 로마 유적 위에 세워진 무슬림 성지를 현대 미술의 문법으로 재해석해 설치 미술로 구현했다.",
+      "url": "https://www.theartnewspaper.com/2026/11/16/frieze-artist-award-reimagines-endangered-lebanese-site",
+      "source": "The Art Newspaper",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Dala Nasser",
+      "creator_insight": "역사적 상흔과 지정학적 재료학을 공간 조형물로 치환하여 정치적 메시지를 미학의 언어로 완벽하게 포장했다.",
+      "tags": [
+        "설치미술",
+        "지정학적 재료학",
+        "구조적 해체주의"
+      ],
+      "execution_techniques": [
+        "Site-Specific Installation",
+        "Material Archiving"
+      ],
+      "why": "공간을 다루는 크리에이터라면 역사적 맥락을 어떻게 비주얼 아트로 승화하는지 반드시 봐야 할 작품이다.",
+      "social_proof": "",
+      "depth": 0.74,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/20d2ae0a2b0f5dd118800a486fc5e3531332035c-3000x2001.jpg?w=140",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "애니마: 친구가 알고리즘이 되는 음악 디스커버리 앱",
+      "content": "기계적 추천 알고리즘에 지친 사용자들을 위해 실제 친구들의 취향을 필터로 삼아 음악을 발굴하는 소셜 UI/UX 디자인 프로젝트.",
+      "url": "https://medium.com/@kmnndesign/anima-a-music-discovery-app-where-your-friends-are-the-algorithm-f55da4c64632?source=rss------ui_ux-5",
+      "source": "Medium UI/UX Tag",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "KMNNDESIGN",
+      "creator_insight": "차가운 데이터 중심의 추천 시스템에 인간적 관계라는 가장 원초적인 필터를 덧씌워 UI의 감성적 가치를 되살렸다.",
+      "tags": [
+        "UI/UX",
+        "소셜 앱",
+        "디지털 물성 회복"
+      ],
+      "execution_techniques": [
+        "Social Graph UI",
+        "Minimalist Interaction"
+      ],
+      "why": "AI 클리셰에 지친 프로덕트 디자이너들에게 관계 중심 UX의 대안을 제시한다.",
+      "social_proof": "",
+      "depth": 0.73,
+      "image": "https://cdn-images-1.medium.com/max/2001/1*5qZjVwOswqp5uTwzcrGf_g.png",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "제품 팀을 위한 AI 도입 사분면 감사 가이드",
+      "content": "AI 기능을 무작정 도입하느라 사용자의 시간만 낭비하게 만드는 프로덕트 팀을 위한 실전적 검증 문항과 가이드라인.",
+      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+      "source": "Smashing Magazine",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Smashing Magazine UX Team",
+      "creator_insight": "기술을 위한 기술 탑재를 뼈저리게 반성하게 만드는, 프로덕트 기획자의 자존심을 지켜주는 냉혹한 감사 리포트다.",
+      "tags": [
+        "프로덕트 기획",
+        "AI 클리셰 해체",
+        "UX 전략"
+      ],
+      "execution_techniques": [
+        "Audit Framework",
+        "Heuristic Evaluation"
+      ],
+      "why": "모든 것이 AI로 포장되는 시대에 진짜 쓸모있는 기능인지 판별해 주는 최고의 실무 가이드다.",
+      "social_proof": "",
+      "depth": 0.72,
+      "image": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-au-audit-product-teams.jpg",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "GTA 6에 너무 어린 말레이시아 게이머들을 위한 칩스모어의 레벨업 캠페인",
+      "content": "나이 제한으로 GTA 6를 즐기지 못하는 유저들을 위해 과자 브랜드가 현실 속에서 유쾌한 게임형 미션을 제공한 마케팅 캠페인.",
+      "url": "https://www.brandinginasia.com/chipsmore-offers-malaysian-gamers-too-young-for-gta-v-a-way-to-level-up/",
+      "source": "Branding in Asia",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "바이럴캠페인",
+        "크로스 미디어 게이미피케이션"
+      ],
+      "why": "문화적 제약을 재기발한 아이디어로 우회하여 타겟층과 강하게 인터랙션하는 위트 있는 기획이다.",
+      "depth": 0.5,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/11/01-ChipsMore-KV.webp",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "도쿄 아트 토쿄에서 만나는 기상천외한 공공 미술 스펙터클",
+      "content": "도쿄 도심 한복판을 거대한 전시장으로 탈바꿈시킨 아티스트들의 기발하고 유머러스한 공공 설치 미술 모음.",
+      "url": "https://spoon-tamago.com/arte-tokyo-public-art/?utm_source=rss&utm_medium=rss&utm_campaign=arte-tokyo-public-art",
+      "source": "Spoon & Tamago",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "공공미술",
+        "공간적 스펙트럼"
+      ],
+      "why": "도시 공간을 어떻게 시각적 놀이터로 만드는지 보여주는 가볍고 유쾌한 영감거리.",
+      "depth": 0.45,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/11/ZIP_FASTENER_SHIP_kv-200x112.jpeg",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    },
+    {
+      "title": "뉴욕 보데가 고양이들의 은밀하고 평화로운 일상 아카이브",
+      "content": "뉴욕 동네 슈퍼마켓인 보데가를 지키는 고양이들과 단골 주민들의 이름을 기록한 따뜻하고 위트 있는 포토 아카이브 사이트.",
+      "url": "https://bodegacatsofnewyork.com/",
+      "source": "Sidebar.io",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "포토그래피",
+        "아날로그 브랜딩"
+      ],
+      "why": "가장 로컬하고 날것의 일상이 어떻게 강력한 콘텐츠 팬덤을 만드는지 보여주는 좋은 예시.",
+      "depth": 0.4,
+      "image": "https://bodegacatsofnewyork.com/hero/hero-tuxedo-aisle.jpg",
+      "pub_date": "2026-11-09T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": true
+    },
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": false
+    },
+    {
+      "word": "다층적 물성 재구성",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "지정학적 재료학",
+      "is_hot": false
+    },
+    {
+      "word": "아날로그 브랜딩",
+      "is_hot": true
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "date": "2026-11-07",
+  "focusQ": "Agent's Thought: 알고리즘이 양산한 매끄러운 쓰레기에 매몰될 시간에 실물 접점과 물리적 감각의 본질을 복원하라. 브랜드의 생존은 껍데기가 아니라 날것의 물성과 구조적 해체주의에서 판가름 난다.",
+  "creator_message": "큐레이터의 메시지: 뻔한 보도자료를 복사해 붙여넣는 안일한 태도는 오늘 당장 버려라. 우리는 진짜 감각을 가진 크리에이터의 서슬 퍼런 벼린 시선만을 남긴다.",
+  "session": {
+    "timestamp": "2026-11-17T07:33:31.752677",
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "물리학이 새로운 크리에이티브 소재로 진화하는 법",
+      "content": "디지털 환경에서 물리 법칙을 시각적 재료로 활용하여 인터랙티브한 물성을 구현하는 크리에이티브 코딩의 최전선.",
+      "url": "https://medium.com/@etsy3dperson/physics-is-becoming-a-creative-material-a238dba0b6f6?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "Cinema & Narrative",
+      "category": "TECH_ART",
+      "creator_name": "Etsy 3D Person",
+      "creator_insight": "시뮬레이션의 정밀함이 곧 미적 우위를 결정한다. 물리엔진을 단순 도구가 아닌 조각의 도구로 다루는 냉정한 접근.",
+      "tags": [
+        "디지털 물성 회복",
+        "크리에이티브 코딩",
+        "물리학"
+      ],
+      "execution_techniques": [
+        "Physics Simulation",
+        "Generative Materiality"
+      ],
+      "why": "단순한 3D 렌더링을 넘어 물리적 법칙을 질감으로 치환하는 방식이 비주얼 디렉터들에게 던지는 시사점이 크다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn-images-1.medium.com/max/1672/1*ah3AZeOL2o7V1m6dWxFCIA.png",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "일렉트릭 시어터 콜렉티브에 합류한 아아트 디렉터 플로라 맥레오드",
+      "content": "촉각적 CG 이미지와 혁신적인 공간 연출로 주목받아온 플로라 맥레오드가 ETC 3D 디자인 팀에 전격 합류했다.",
+      "url": "https://motionographer.com/news/flora-macleod-electric-theatre-collective/",
+      "source": "Motionographer",
+      "domain": "Cinema & Narrative",
+      "category": "MOTION_FILM",
+      "creator_name": "Flora MacLeod",
+      "creator_insight": "디지털 화면 속에서도 손에 쥘 수 있을 것 같은 극도의 촉각적 물성을 구현해내는 탁월한 시각 감각의 소유자.",
+      "tags": [
+        "다층적 물성 재구성",
+        "시네마틱 라이팅",
+        "3D 디자인"
+      ],
+      "execution_techniques": [
+        "Tactile CG",
+        "Immersive Motion"
+      ],
+      "why": "디지털 영상 속에서 손끝의 질감을 느끼게 만드는 그녀의 연출력은 모션 디렉터들이 반드시 연구해야 할 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/11/flora-macleod-electric-theatre-collective-scaled.jpeg?fit=700%2C467&ssl=1",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "바르카스가 재정의한 쿠다(Kuda) 브랜드 아이덴티티",
+      "content": "단순한 로고를 넘어 하나의 문장과 'More Life' 철학에서 출발하여 커스텀 타이포그래피로 확장된 아프리카 핀테크 브랜딩.",
+      "url": "https://abduzeedo.com/kuda-brand-identity-masterclass-more-life-barkas/",
+      "source": "abduzeedo.com",
+      "domain": "Marketing & Brand",
+      "category": "DESIGN",
+      "creator_name": "Barkas",
+      "creator_insight": "로고를 먼저 그리는 시대는 끝났다. 세계관을 짜고 그 속에서 언어를 조형하는 브랜딩의 정석을 보여준다.",
+      "tags": [
+        "구조적 해체주의",
+        "타이포그래피",
+        "브랜드 아이덴티티"
+      ],
+      "execution_techniques": [
+        "Stacked Wordmark",
+        "Custom Typeface"
+      ],
+      "why": "진정한 브랜드 빌딩이 무엇인지 증명하는 마스터클래스. 껍데기만 번지르르한 디자인 에이전시들이 통째로 외워야 할 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_1600_37.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "사미 아부삼라의 소비에트풍 단편 '탱크': 위장된 권력에 대한 냉소적 경고",
+      "content": "진짜 힘있는 자와 가짜 강자 사이의 균열을 건조하고 날카로운 유머로 포착한 단편 영화.",
+      "url": "https://directorsnotes.com/2026/11/02/sami-abusamra-tank/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "FILM",
+      "creator_name": "Sami Abusamra",
+      "creator_insight": "정치적 아이러니를 시각적 미장센과 절제된 프레이밍으로 밀어붙이는 대담한 연출력.",
+      "tags": [
+        "지정학적 재료학",
+        "로우 프레이밍",
+        "시네마틱 라이팅"
+      ],
+      "execution_techniques": [
+        "Dry Comedy",
+        "Soviet Era Aesthetic"
+      ],
+      "why": "단순한 풍자를 넘어선 날카로운 서사적 긴장감. 연출자가 세상을 바라보는 태도가 어떻게 프레임에 박히는지 보여준다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/11/tank_06a.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "알고리즘의 시대, 왜 인간은 삐뚤어진 접시에 열광하는가",
+      "content": "완벽하게 계산된 디지털 UI/UX의 균일함에 피로감을 느낀 유저들이 비정형의 촉각적 인터페이스로 회귀하는 현상 분석.",
+      "url": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "domain": "Design & Space",
+      "category": "UIUX",
+      "creator_name": "UX Collective Editor",
+      "creator_insight": "매끄러움이라는 강박에서 벗어나 인간적인 결함과 물성을 디지털에 이식하는 고난도 기획.",
+      "tags": [
+        "디지털 물성 회복",
+        "안티-AI 미학",
+        "UIUX 디자인"
+      ],
+      "execution_techniques": [
+        "Imperfect UI",
+        "Human-Centric Digital Craft"
+      ],
+      "why": "천편일률적인 모던 디자인에 신물 난 디자이너들에게 던지는 강력한 시각적 경고장.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cdn-images-1.medium.com/max/710/0*fYWy32dkzlchhe4g",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "아워레가시가 도쿄 다이칸야마에 숨겨둔 비밀스러운 세계",
+      "content": "도쿄의 오래된 아파트 건물을 통째로 활용해 민속적 전통과 현대적 의복을 기묘하게 엮어낸 스웨덴 브랜드의 로컬 팝업 공간.",
+      "url": "https://www.anothermag.com/fashion-beauty/17634/our-legacy-tokyo-store-daikanyama?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=another-world-our-legacy-s-hidden-tokyo-store-is-full-of-surprises",
+      "source": "anothermag.com",
+      "domain": "Marketing & Brand",
+      "category": "DESIGN",
+      "creator_name": "Our Legacy",
+      "creator_insight": "클래식한 공간 소스를 완전히 다른 맥락으로 비틀어 브랜드의 팬덤을 하위문화 차원으로 격상시킨다.",
+      "tags": [
+        "노스탤지어 재맥락화",
+        "아날로그 브랜딩",
+        "공간적 스펙트럼"
+      ],
+      "execution_techniques": [
+        "Subcultural Retail",
+        "Contextual Merchandising"
+      ],
+      "why": "단순한 매장 오픈이 아니라 브랜드가 하나의 문화적 대안이 되는 방식을 정확히 보여준다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/480/0/480255.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "제이슨 펄포드의 '얼어붙은 특징': 기억의 슬롯머신이 소환한 내면의 풍경",
+      "content": "작가의 기억 속 파편들을 무작위로 조합해 시각적 충격을 주는 메타버스적 포토몽타주 작업.",
+      "url": "https://www.lensculture.com/articles/jason-fulford-frozen-features",
+      "source": "lensculture.com",
+      "domain": "Cinema & Narrative",
+      "category": "PHOTOGRAPHY",
+      "creator_name": "Jason Fulford",
+      "creator_insight": "사진을 찍는 행위가 아니라 기억을 편집하는 방식으로 시각 예술의 영토를 확장한다.",
+      "tags": [
+        "노스탤지어 재맥락화",
+        "다층적 물성 재구성",
+        "포토몽타주"
+      ],
+      "execution_techniques": [
+        "Photomontage",
+        "Metaphysical Framing"
+      ],
+      "why": "이미지의 홍수 속에서 새로운 시각적 서사를 구축하는 작가의 태도가 영상 및 광고 크리에이터들에게 깊은 자극을 준다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://images.lensculture.com/image/6e5e8225-ffbc-402e-244e-9cfd625be200/large",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "오픈서베이: 매년 반복되는 조직문화 진단, 운영 부담 줄이는 법",
+      "content": "반복되는 사내 문화 진단 프로세스의 비효율을 데이터 수집 자동화와 전문가의 통찰로 해결하는 한국형 조직 관리 솔루션.",
+      "url": "https://blog.opensurvey.co.kr/research-tips/organizational-culture-assessment-operations/",
+      "source": "오픈서베이 블로그",
+      "domain": "Korean Code",
+      "category": "KOREAN_TREND",
+      "creator_name": "OpenSurvey",
+      "creator_insight": "감에 의존하던 사내 문화를 정교한 데이터 모듈로 해체하여 실무적 피로도를 극적으로 낮춘다.",
+      "tags": [
+        "감성적 모듈화",
+        "K-고택 인프라 구축",
+        "조직문화 데이터"
+      ],
+      "execution_techniques": [
+        "Data-Driven Culture",
+        "Survey Automation"
+      ],
+      "why": "국내 크리에이티브 조직과 에이전시들이 실무 운영의 비효율을 탈피하고 기획에 집중하게 만드는 유용한 전략적 인사이트.",
+      "social_proof": "K-고택 인프라 구축 매체 동시 포착",
+      "depth": 0.85,
+      "image": "https://blog.opensurvey.co.kr/wp-content/uploads/2026/10/26_thumbnail_researchtips_01.png",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "에이전트 시대의 홀리데이 리테일: 소비자는 과연 AI를 신뢰하는가",
+      "content": "리테일러의 63%가 AI를 고객 소통에 도입했으나 소비자의 신뢰는 고작 26%에 머무는 간극을 분석한 마케팅 보고서.",
+      "url": "https://www.retaildive.com/spons/holiday-retails-ai-test-from-skeptical-shoppers-to-agents-they-trust-afte/874054/",
+      "source": "Retail Dive",
+      "domain": "Marketing & Brand",
+      "category": "MARKETING",
+      "creator_name": "Retail Dive Analysts",
+      "creator_insight": "기술 도입률과 소비자 신뢰도의 괴리를 메우는 것은 결국 고도의 감성적 브랜딩과 투명성이다.",
+      "tags": [
+        "AI 클리셰 해체",
+        "아날로그 브랜딩",
+        "리테일 인사이트"
+      ],
+      "execution_techniques": [
+        "AI Trust Mapping",
+        "Retail Strategy"
+      ],
+      "why": "테크 기조의 마케팅이 소비자와 마주하는 지점에서 왜 실패하는지 냉정하게 짚어주는 필수 리포트.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Retail%20Dive%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "디지털 슬롭의 이동: 에이전트가 코드를 쓰자 디자인이 망가지기 시작했다",
+      "content": "AI 코딩 에이전트의 발전으로 엉성한 코드의 시대가 저물고, 이제는 저품질의 디자인 슬롭이 디지털 생태계를 잠식하는 현상에 대한 비판적 고찰.",
+      "url": "https://gabeorlanski.github.io/posts/slop-moves-up/",
+      "source": "Sidebar.io",
+      "domain": "Design & Space",
+      "category": "DESIGN",
+      "creator_name": "Gabe Orlanski",
+      "creator_insight": "기술이 편해질수록 크리에이터의 안목과 검열 기준은 더욱 가혹해져야 한다는 것을 보여주는 날카로운 지적.",
+      "tags": [
+        "AI 클리셰 해체",
+        "구조적 해체주의",
+        "디지털 슬롭"
+      ],
+      "execution_techniques": [
+        "Critical UI/UX",
+        "Anti-Slop Curation"
+      ],
+      "why": "AI 생산성이라는 허상 뒤에서 무너지고 있는 시각적 기준을 바로 세우게 만드는 대단히 중요한 에세이.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://gabeorlanski.github.io/posts/slop-moves-up/index.png",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "벌거벗은 여인들의 스캔들: 제1회 베니스 비엔날레의 충격적인 회화 역사",
+      "content": "1895년 베니스 비엔날레 개막 당시 미술계를 발칵 뒤집어놓았던 자코모 그로소의 도발적인 작품 뒤에 숨겨진 예술적 스캔들.",
+      "url": "https://www.artribune.com/arti-visive/2026/11/giacomo-grosso-scandalo-biennale-1895/",
+      "source": "Artribune",
+      "domain": "Cinema & Narrative",
+      "category": "ART",
+      "creator_name": "Giacomo Grosso",
+      "creator_insight": "시대의 금기를 시각적 전격전으로 돌파하는 예술가의 태도는 언제나 시대를 앞서간다.",
+      "tags": [
+        "노스탤지어 재맥락화",
+        "구조적 해체주의",
+        "아트 아카이브"
+      ],
+      "execution_techniques": [
+        "Historical Critique",
+        "Provocative Fine Art"
+      ],
+      "why": "오늘날의 파격과 도발이 과연 과거의 충격만큼 날카로운지 스스로를 돌아보게 만드는 매혹적인 역사적 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/11/1000621736.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "맥락의 오류: 세스 고딘이 경고하는 상관관계의 함정",
+      "content": "단순한 데이터 상관관계에 현혹되어 인과관계를 오인하는 마케터들의 어리석음을 통렬하게 비판하는 단상.",
+      "url": "https://seths.blog/2026/11/confusion-about-causation/",
+      "source": "Seth Godin's Blog",
+      "domain": "Marketing & Brand",
+      "category": "MARKETING",
+      "creator_name": "Seth Godin",
+      "creator_insight": "지표가 가리키는 방향을 맹신하지 말고 그 이면의 진짜 인간적 동기를 파악하라는 마케팅의 진리.",
+      "tags": [
+        "마케팅 통찰",
+        "AI 클리셰 해체",
+        "소비자 심리"
+      ],
+      "execution_techniques": [
+        "Causal Analysis",
+        "Brand Strategy"
+      ],
+      "why": "숫자에 매몰되어 본질을 잃어버린 에이전시 기획자들에게 따끔한 경종을 울리는 글.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061313.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "일본의 지미(수수께끼 같은 평범함) 할로윈 코스튬 2026",
+      "content": "화려한 분장 대신 일상 속 묘하게 고증된 평범한 순간들을 포착해 코스튬화하는 일본의 독창적인 서브컬처 페스티벌.",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/?utm_source=rss&utm_medium=rss&utm_campaign=japan-jimi-mundane-halloween-costumes-2026",
+      "source": "Spoon & Tamago",
+      "domain": "Design & Space",
+      "category": "DESIGN",
+      "creator_name": "Jimi Halloween Creators",
+      "creator_insight": "가장 일상적이고 사소한 디테일을 극단적으로 관찰하여 유머와 해체주의적 감각으로 승화시킨다.",
+      "tags": [
+        "노스탤지어 재맥락화",
+        "안티-AI 미학",
+        "서브컬처"
+      ],
+      "execution_techniques": [
+        "Mundane Observation",
+        "Conceptual Costume"
+      ],
+      "why": "아이디어의 기발함이 어디서 오는지 보여주는 대표적 사례. 뻔한 트렌드 예측보다 일상의 발견이 더 강력하다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://spoon-tamago.com/wp-content/uploads/2026/10/jimi-halloween-2026-top-2-200x200.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "지하철 고고학이 암스텔강에 부여한 역사적 목소리",
+      "content": "암스테르담 지하철 공사 과정에서 발굴된 유물을 통해 도시의 역사적 층위를 웹 아카이브로 구축한 공공 디자인 프로젝트.",
+      "url": "https://belowthesurface.amsterdam/en/vondsten",
+      "source": "Sidebar.io",
+      "domain": "Design & Space",
+      "category": "DESIGN",
+      "creator_name": "Below the Surface Project",
+      "creator_insight": "도시에 묻힌 물리적 유물을 디지털 인터페이스로 끌어올려 시공간의 감각을 직조하는 탁월한 아카이빙.",
+      "tags": [
+        "디지털 물성 회복",
+        "지정학적 재료학",
+        "아카이브 디자인"
+      ],
+      "execution_techniques": [
+        "Archaeological UI",
+        "Interactive Archive"
+      ],
+      "why": "공간과 역사가 디지털 인터페이스와 어떻게 결합할 수 있는지 보여주는 완벽한 크로스 도메인 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Sidebar.io%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "브로윈 뉴포트의 굿와이프 홀리데이 캠페인",
+      "content": "'브라보' 스타가 휴일 욕실을 유쾌하게 뒤집어 놓은 Goodwipes의 파격적인 홀리데이 광고 영상.",
+      "url": "https://www.adweek.com/brand-marketing/a-bravo-star-decks-the-bathroom-halls-in-goodwipes-first-holiday-ad/",
+      "source": "Adweek",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "바이럴 광고",
+        "홀리데이 캠페인"
+      ],
+      "why": "가장 지루하고 진부한 일상 용품 카테고리를 위트와 셀럽 파워로 단숨에 트렌디한 바이럴로 탈바꿈시킨 기획.",
+      "depth": 0.5,
+      "image": "https://static-www.adweek.com/wp-content/uploads/2026/11/oreo-holiday-ad-2.png?w=600&h=315&crop=1",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "엘 레이로 재해석된 아일리스 아이작의 콜라주 테킬라 보틀",
+      "content": "아일리스 아이작의 대담한 콜라주 아트를 테킬라 보틀 패키지에 이식해 소장 가치를 극대화한 아트 콜라보레이션.",
+      "url": "https://www.trendhunter.com/trends/artist-designed-tequila-bottles",
+      "source": "Trend Hunter",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "패키지 디자인",
+        "아트 콜라보"
+      ],
+      "why": "선반 위의 술병을 하나의 갤러리 피스로 만드는 패키지 디자인의 강력한 상업적 파괴력.",
+      "depth": 0.5,
+      "image": "https://cdn.trendhunterstatic.com/phpthumbnails/654/654282/654282_1_468.jpeg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    },
+    {
+      "title": "질린과 서드 코스트 퍼커션의 서사적 사운드 콜라보레이션 'Vernacular'",
+      "content": "시카고 퍼커션 앙상블과 일렉트로닉 뮤지션 질린이 결합해 선보인 압도적인 청각적 스펙타클.",
+      "url": "https://cdm.link/productions-gone-live-as-jlin-joins-third-coast-percussion-on-vernacular/",
+      "source": "CDM (Create Digital Motion & Music)",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "사운드 디자인",
+        "오디오 비주얼"
+      ],
+      "why": "장르의 경계를 부수고 사운드를 물리적 질감처럼 다루는 오디오 프로덕션의 최고급 영감거리.",
+      "depth": 0.5,
+      "image": "https://cdm.link/app/uploads/2026/11/thirdcoasttrippy.jpg",
+      "pub_date": "2026-11-07T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": true
+    },
+    {
+      "word": "지정학적 재료학",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 브랜딩",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": true
+    },
+    {
+      "word": "AI 클리셰 해체",
+      "is_hot": true
+    },
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    }
+  ]
+}

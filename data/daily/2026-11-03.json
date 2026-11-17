@@ -1,0 +1,411 @@
+{
+  "date": "2026-11-03",
+  "focusQ": "알고리즘이 양산해 낸 무미건조한 텍스트 파편들에 환멸을 느낀다면, 오늘 엄선된 레퍼런스들이 그 해독제가 될 것이다. 기계적인 완결성 대신 날것의 감각과 집요한 장인정신이 담긴 작업들만 추렸다.",
+  "creator_message": "보여주기식 껍데기만 남은 기획은 이제 그만둬라. 진짜 크리에이터라면 남들이 다 치우는 잔해 속에서 새로운 물질성을 건져 올려야 하는 법이다.",
+  "session": {
+    "timestamp": "2026-11-17T07:30:24.378275",
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "우크라이나가 러시아 폰트와 결별하며 독자적인 국가 타이포그래피를 구축한 이유",
+      "content": "우크라이나는 지정학적 자주성을 시각 문화 전반으로 확장하며, 러시아 주도의 서체 헤게모니에서 벗어나기 위한 독자적인 국가 타이포그래피 시스템을 완성했다.",
+      "url": "https://www.fastcompany.com/91638747/ukraine-designed-its-own-national-typeface-so-it-doesnt-have-to-use-russian-fonts?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Ukraine Design Bureau",
+      "creator_insight": "언어와 문자가 곧 정치적 선언이자 무기가 되는 현장을 보여준다. 시각적 형태가 권력 구조를 해체하고 재편하는 가장 날카로운 수단임을 증명한다.",
+      "tags": [
+        "타이포그래피",
+        "지정학적 재료학",
+        "브랜드 아이덴티티"
+      ],
+      "execution_techniques": [
+        "그리드 시스템",
+        "구조적 해체주의"
+      ],
+      "why": "단순한 디자인 폰트 개발을 넘어, 시각 언어가 국가적 정체성과 정치적 저항을 어떻게 시각화하는지 보여주는 최고 수준의 케이스 스터디.",
+      "social_proof": "2개 매체 동시 포착: new york times",
+      "depth": 0.95,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91638747-ukrainian-typeface.png",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "빅서에서 피아노와 함께 미지의 세계로 걸어 들어간 95세 피아니스트의 기록",
+      "content": "반세기 동안 빅서에 머물며 하피즈의 가르침을 받아온 95세 학생이 즉흥 연주를 통해 삶의 마지막 장을 미지와 마주하는 여정을 다룬 단편 다큐멘터리.",
+      "url": "https://www.shortoftheweek.com/2026/11/02/penny-here/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Documentary Film Unit",
+      "creator_insight": "시간의 무게를 견뎌낸 신체와 음향의 결합을 통해 매끄러운 디지털 영상이 줄 수 없는 깊은 물성감을 화면 위에 복원해 낸다.",
+      "tags": [
+        "다큐멘터리",
+        "아날로그 브랜딩",
+        "시네마틱 라이팅"
+      ],
+      "execution_techniques": [
+        "내러티브 시퀀스",
+        "로우 프레이밍"
+      ],
+      "why": "연로한 예술가의 즉흥적 퍼포먼스를 통해 삶의 유한성과 예술의 영속성을 동시에 포착해 낸 연출력이 돋보인다.",
+      "social_proof": "2개 매체 동시 포착: new york times",
+      "depth": 0.92,
+      "image": "https://www.shortoftheweek.com/wp-content/uploads/2026/11/Penny-plays.jpeg",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "100년의 기억을 품은 경남 함양의 한옥 스테이 '하미'",
+      "content": "1920년대 대종택의 구조적 맥락을 이어받아 경상남도 함양에 자리 잡은 한옥 스테이 '하미'는 방치되었던 공간을 현대적 감각의 휴식처로 되살려냈다.",
+      "url": "https://www.designtwoply.com/works/stay/%ed%95%9c%ec%98%a5-%ec%8a%a4%ed%85%8c%ec%9d%b4-%ed%95%98%eb%af%b8/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ec%2598%25a5-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4-%25ed%2595%2598%25eb%25af%25b8",
+      "source": "Design Twoply",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Design Studio Twoply",
+      "creator_insight": "전통 건축의 낡은 유산을 그대로 박제하는 대신, 동시대 여행자가 체감할 수 있는 온기와 공간적 스펙트럼으로 재해석했다.",
+      "tags": [
+        "K-고택 인프라 구축",
+        "노스탤지어 재맥락화",
+        "공간적 스펙트럼"
+      ],
+      "execution_techniques": [
+        "미니멀 스패셜 모노크롬",
+        "유기적 모더니즘"
+      ],
+      "why": "한국적 공간 자산을 현대적 감각으로 복원하여 감성적 모듈화와 로컬 아카이빙의 모범 답안을 제시한다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2026/10/01_untitled-3175-편집.jpg",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "베를린의 크리에이티브 스튜디오가 CG의 한계를 시험하다, 단편 애니메이션 'Quorum'",
+      "content": "베를린에 본거지를 둔 'Colors And The Kids'가 선보인 실험적인 CG 단편 필름 'Quorum'은 자체 제작된 사운드와 함께 통념을 깨부수는 비주얼 문법을 제시한다.",
+      "url": "https://www.stashmedia.tv/quorum-is-the-latest-buzz-from-colors-and-the-kids/",
+      "source": "Stash Media",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Colors And The Kids",
+      "creator_insight": "매끈한 렌더링에 안주하는 업계의 타성을 거부하고, 형태와 물성을 거칠게 뒤틀며 새로운 시각적 쾌감을 조조해 낸다.",
+      "tags": [
+        "크리에이티브 코딩 미학",
+        "다층적 물성 재구성",
+        "AI 클리셰 해체"
+      ],
+      "execution_techniques": [
+        "프로시저럴 셰이딩",
+        "키네틱 타이포그래피"
+      ],
+      "why": "테크놀로지와 디테일의 극한을 오가며 시각적 충격을 안겨주는 모션 그래픽 디렉터들의 필독 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/22Quorum22-CG-short-film-by-Colors-And-The-Kids-STASH-MAGAZINE-1920x1080.jpg",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "1908년 뉴욕타임스 기사에서 영감을 얻은 애니메이션 'Beast of the Seine'",
+      "content": "세느강을 배경으로 1세기 전의 기묘하고도 가슴 아픈 기록을 바탕으로 존 포트먼 감독이 완성한 애니메이션 단편.",
+      "url": "https://www.shortoftheweek.com/2026/11/16/beast-of-the-seine/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Jon Portman",
+      "creator_insight": "활자에 박혀 있던 흑백의 기록을 환각적이고 시네마틱한 모션으로 부활시켜 서사적 공간 연출의 정수를 보여준다.",
+      "tags": [
+        "서사적 공간 연출",
+        "디지털 물성 회복",
+        "노스탤지어 재맥락화"
+      ],
+      "execution_techniques": [
+        "핸드메이드 텍스처 매핑",
+        "로-파이 라이팅"
+      ],
+      "why": "과거의 아카이브를 현대적 애니메이션 문법으로 해체하고 재조립하는 뛰어난 스토리텔링 방식을 증명한다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://www.shortoftheweek.com/wp-content/uploads/2026/11/Beast_Underwater-1024x576.jpeg",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "소셜 스테이터스와 조던 브랜드가 사시코 소재로 재해석한 에어 조던 1 로우 OG",
+      "content": "전통적인 자수 기법인 사시코를 스니커즈 실루엣에 이식해 장인정신과 스트리트웨어를 결합한 협업 프로젝트.",
+      "url": "https://hypebeast.kr/2026/11/social-status-air-jordan-1-low-og-sashiko-iu4982-600-first-look-release-info",
+      "source": "Hypebeast Korea",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Social Status & Jordan Brand",
+      "creator_insight": "단순한 콜라보레이션을 넘어 공예적 직물을 대량 생산 스니커즈에 접목함으로써 물성과 촉각성을 극대화했다.",
+      "tags": [
+        "헤리티지 킷치 융합",
+        "재질감의 재해석",
+        "아날로그 브랜딩"
+      ],
+      "execution_techniques": [
+        "스티치 패널링",
+        "텍스처 레이어링"
+      ],
+      "why": "패션 마켓에서 헤리티지 공예 요소를 현대적 스니커즈 디자인으로 승화시키는 완벽한 프로덕트 기획 사례.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F11%2Fsocial-status-air-jordan-1-low-og-sashiko-IU4982-600-first-look-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "온니츠카 타이거의 클래식 스니커즈에 더해진 기묘한 털의 물성",
+      "content": "클래식 실루엣인 HMR 피크 모델에 퍼(Fur) 소재를 전면 적용하여 시각적 촉각성을 극대화한 온니츠카 타이거의 파격적인 마케팅 비주얼.",
+      "url": "https://www.brandinginasia.com/onitsuka-tiger-gives-classic-styles-a-furry-makeover/",
+      "source": "Branding in Asia",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Onitsuka Tiger Design Team",
+      "creator_insight": "익숙한 실루엣에 이질적인 촉각적 질감을 충돌시켜 소셜 미디어 피드에서 시선을 강탈하는 전형적인 하이프 전략.",
+      "tags": [
+        "디지털 물성 회복",
+        "재질감의 재해석",
+        "크로스 미디어 게이미피케이션"
+      ],
+      "execution_techniques": [
+        "하이퍼 텍스처 렌더링",
+        "오브젝트 클로즈업"
+      ],
+      "why": "제품 디자인에서 물성의 변주가 어떻게 강력한 바이럴 마케팅 무기가 되는지 보여주는 직관적인 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/11/Fur-HMR-Peak-3-.webp",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "생추어린이가 프렌치프레스를 은퇴시키며 커피 포터와 나눈 작별",
+      "content": "아마야 커피와의 협업을 통해 클래식한 추출 도구를 과감히 퇴장시키고 새로운 커피 문화의 지형도를 그려낸 브랜딩 캠페인.",
+      "url": "https://www.trendhunter.com/trends/farewell-coffee-porters",
+      "source": "Trend Hunter",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Saint Arnold & Amaya Coffee",
+      "creator_insight": "오랜 관성을 리추얼이라는 이름으로 포장하지 않고, 단호하게 방식을 바꾸어 브랜드의 태세를 전환하는 기획력.",
+      "tags": [
+        "아날로그 브랜딩",
+        "노스탤지어 재맥락화",
+        "로컬 아카이빙"
+      ],
+      "execution_techniques": [
+        "미니멀 다큐멘터리 컷",
+        "오브젝트 스틸 컷"
+      ],
+      "why": "F&B 브랜드가 전통적인 도구의 퇴장을 하나의 문화적 이벤트이자 스토리텔링 자산으로 탈바꿈시킨 훌륭한 기획.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://cdn.trendhunterstatic.com/phpthumbnails/654/654264/654264_1_468.jpeg",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "로지텍 G3 파워 업 캠페인: 일상적인 세탁실에서 벌어지는 게이밍 세션",
+      "content": "가장 평범하고 지루한 공간인 세탁실을 게이밍 아레나로 탈바꿈시키며 게이머들의 일상적 공간 스펙트럼을 넓힌 로지텍의 재치 있는 모션 캠페인.",
+      "url": "https://motionographer.com/quickie/logitech-g3-power-up-campaign-laundry/",
+      "source": "Motionographer",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Motionographer Editorial",
+      "creator_insight": "하드웨어 스펙 나열 대신 일상 속 공간을 게임의 영토로 편입시키는 위트 있는 연출과 경쾌한 리듬감.",
+      "tags": [
+        "크로스 미디어 게이미피케이션",
+        "공간적 스펙트럼",
+        "시네마틱 라이팅"
+      ],
+      "execution_techniques": [
+        "스피드램프 전환",
+        "컬러 그레이딩"
+      ],
+      "why": "제품 마케팅 영상이 얼마나 유쾌하고 감각적인 서사를 품을 수 있는지 보여주는 모션 크래프트의 정석.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/11/laundry-logitech-still-00.jpg?fit=700%2C394&ssl=1",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "상실의 시대를 기록하는 사진가 제이콥 페시의 '고드가 Pittsburgh로 이끌었다'",
+      "content": "피츠버그의 쓸쓸한 이면과 인간 군상의 단면을 날것 그대로 포착해 낸 제이콥 페시의 감각적인 포토그래피 아카이브.",
+      "url": "https://www.booooooom.com/2026/11/06/god-brought-me-to-pittsburgh-by-photographer-jacob-pesci/",
+      "source": "Booooooom",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Jacob Pesci",
+      "creator_insight": "정제되지 않은 로우 프레이밍과 거친 필름 그레인을 통해 도시의 쓸쓸한 공기를 시각적 물성으로 복원해 낸다.",
+      "tags": [
+        "디지털 물성 회복",
+        "로우 프레이밍",
+        "시각적 물성 복원"
+      ],
+      "execution_techniques": [
+        "내추럴 라이팅",
+        "필름 그레인 매핑"
+      ],
+      "why": "디지털 연출이 흉내 낼 수 없는 오리지널 아날로그 포토그래피의 미학적 깊이를 보여주는 수작.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/10/Jacob1.jpg",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "음악 비즈니스는 정말 붕괴하고 있는가? 테드 지오유가 분석한 메이저 레이블의 실책들",
+      "content": "스트리밍 경제와 알고리즘 중심의 음악 생태계가 초래한 구조적 모순과, 메이저 레이블들이 범한 일곱 가지 치명적인 패착을 고발하는 문화 비평.",
+      "url": "https://www.honest-broker.com/p/is-the-music-business-collapsing",
+      "source": "Substack - The Honest Broker (Ted Gioia - Cultural Trends)",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Ted Gioia",
+      "creator_insight": "데이터와 효율만 좇다 문화적 다양성과 예술적 토양을 스스로 불태운 현대 미디어 산업의 민낯을 예리하게 해부한다.",
+      "tags": [
+        "AI 클리셰 해체",
+        "지정학적 재료학",
+        "아날로그 브랜딩"
+      ],
+      "execution_techniques": [
+        "텍스트 아카이빙",
+        "에디토리얼 포맷"
+      ],
+      "why": "콘텐츠 제작자와 브랜드 마케터들이 오늘날 직면한 구조적 한계를 꿰뚫어 보는 필수적인 거시적 인사이트.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/560b522e-72d9-46aa-928a-df08a114a23a_1200x898.jpeg",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "생성형 AI 시대에 레딧이 가진 '진정성'이라는 특제 소스를 브랜드가 활용하는 법",
+      "content": "알고리즘이 생성한 파편적 정보에 피로감을 느낀 대중이 레딧 같은 커뮤니티의 날것의 목소리로 이동하는 현상을 분석하고 브랜드의 대응 전략을 제시한 인사이트.",
+      "url": "https://www.campaignlive.com/article/brands-harness-reddits-special-sauce-authenticity-ai-era/1975221",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Rob Gaige",
+      "creator_insight": "완벽하게 연출된 가짜 브랜드 스토리보다 거칠고 가감 없는 유저들의 대화가 더 강력한 설득력을 갖는 시대적 전환.",
+      "tags": [
+        "AI 클리셰 해체",
+        "아날로그 브랜딩",
+        "크로스 미디어 게이미피케이션"
+      ],
+      "execution_techniques": [
+        "인포그래픽 분석",
+        "케이스 스터디"
+      ],
+      "why": "AI가 범람하는 시대에 브랜드가 마케팅 신뢰를 구축하기 위해 어디로 눈을 돌려야 하는지 명확히 짚어준다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/150/cached.offlinehbpl.hbpl.co.uk/news/SUC/campaign-ai-deciphered-keynote-2026-credit-diana-bradley-CUS.jpeg",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "마실 수 있는 아날로그의 여운: 스카이 글라부시의 모래와 유화 풍경화",
+      "content": "모래와 유화 물감을 결합하여 대지에 대한 촉각적 기억을 거대한 캔버스 위에 구현해 내는 스카이 글라부시의 최근 회화 작업.",
+      "url": "https://www.thisiscolossal.com/2026/11/sky-glabush-landscape-paintings/",
+      "source": "Colossal",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Sky Glabush",
+      "creator_insight": "스크린 속 플랫한 픽셀에 지친 눈에게 물질적인 두께감과 거친 표면의 마찰력을 선물하는 물성 복원 작업.",
+      "tags": [
+        "재질감의 재해석",
+        "다층적 물성 재구성",
+        "시각적 물성 복원"
+      ],
+      "execution_techniques": [
+        "임파스토 기법",
+        "혼합 매체 레이어링"
+      ],
+      "why": "디지털 시대에 순수한 물리적 재료가 어떻게 시각적 밀도를 확보하는지 보여주는 아름다운 예술 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/glabush-8.jpg",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "마사니 피자의 가족 중심 브랜드 스토리를 위트 있게 시각화한 생트-위르뱅",
+      "content": "가족 중심의 오랜 철학을 담은 마사니 피자의 브랜딩 프로젝트로, 타이포그래피와 벽면 그래픽을 통해 공간 전체에 서사를 불어넣었다.",
+      "url": "https://thedieline.com/saint-urbain-leans-into-the-family-first-brand-story-of-masani-pizza/",
+      "source": "The Dieline",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Saint-Urbain Agency",
+      "creator_insight": "식음료 브랜딩이 단순히 트렌디한 타이틀을 붙이는 것을 넘어, 가족이라는 깊은 서사를 공간과 패키지 전체에 직조해 내는 방식을 보여준다.",
+      "tags": [
+        "노스탤지어 재맥락화",
+        "로컬 아카이빙",
+        "헤리티지 킷치 융합"
+      ],
+      "execution_techniques": [
+        "패키지 그래픽 시스템",
+        "벽면 타이포그래피 레이아웃"
+      ],
+      "why": "브랜드의 뿌리와 정체성을 그래픽 디자인과 공간 경험으로 완벽하게 번역해 낸 디자이너들의 교과서.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/19-Masani-Pizza-Wall-scaled.jpg",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "젤다의 전설 오카리나를 브라우저에서 연주하다, OCA 오카리나 앱",
+      "content": "웹 브라우저에서 가볍게 실행해 가상 오카리나를 연주할 수 있는 감각적인 웹 악기 및 사운드북 프로젝트.",
+      "url": "https://cdm.link/theres-a-zelda-friendly-ocarina-app-for-fm-1-and-you-can-try-it-in-a-browser/",
+      "source": "CDM (Create Digital Motion & Music)",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "크리에이티브 코딩",
+        "웹 오디오"
+      ],
+      "why": "추억의 게임 노스탤지어를 가벼운 웹 인터랙션으로 구현해 영감을 자극하는 재미있는 스낵 콘텐츠.",
+      "depth": 0.5,
+      "image": "https://cdm.link/app/uploads/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_16.jpg",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    },
+    {
+      "title": "가정용 집안일을 유쾌하게 비틀다, 단편 애니메이션 'Scullion'",
+      "content": "가사 노동을 두고 장난을 치다 뜻밖의 존재를 소환하게 되는 부부의 이야기를 다룬 유쾌한 스릴러 단편.",
+      "url": "https://filmshortage.com/dailyshortpicks/scullion/",
+      "source": "Film Shortage",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "단편영화",
+        "블랙코미디"
+      ],
+      "why": "지루한 일상의 반복을 위트 있는 장르적 상상력으로 비틀어버리는 연출 감각이 돋보인다.",
+      "depth": 0.5,
+      "image": "https://filmshortage.com/wp-content/uploads/2026/11/shortpicks-scullion.jpg",
+      "pub_date": "2026-11-03T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": true
+    },
+    {
+      "word": "지정학적 재료학",
+      "is_hot": true
+    },
+    {
+      "word": "시네마틱 라이팅",
+      "is_hot": true
+    },
+    {
+      "word": "크로스 미디어 게이미피케이션",
+      "is_hot": true
+    },
+    {
+      "word": "AI 클리셰 해체",
+      "is_hot": true
+    },
+    {
+      "word": "재질감의 재해석",
+      "is_hot": true
+    }
+  ]
+}

@@ -248,7 +248,7 @@
   {
     "url": "http://smadani.com/feed",
     "category": "DESIGN",
-    "fail_count": 1,
+    "fail_count": 0,
     "name": "Shaz Madani Studio"
   },
   {
@@ -260,7 +260,7 @@
     "name": "Juxtapoz",
     "url": "https://www.juxtapoz.com/news/?format=feed&type=rss",
     "category": "ART",
-    "fail_count": 1
+    "fail_count": 2
   },
   {
     "name": "WePresent",
@@ -367,7 +367,7 @@
     "name": "Street Art Barcelona",
     "url": "https://streetartbcn.com/feed",
     "category": "ART",
-    "fail_count": 1
+    "fail_count": 0
   },
   {
     "name": "Base Elements Blog",
@@ -395,7 +395,7 @@
     "name": "Berlin Art Link",
     "url": "https://www.berlinartlink.com/feed/",
     "category": "ART",
-    "fail_count": 1
+    "fail_count": 0
   },
   {
     "name": "Art Aurea",

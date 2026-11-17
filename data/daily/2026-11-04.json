@@ -1,0 +1,391 @@
+{
+  "date": "2026-11-04",
+  "focusQ": "진정성을 가장한 레트로 범람 속에서 크리에이터들은 이제 피상적 재현을 넘어선 디테일의 생존을 증명해야 합니다. 껍데기뿐인 기획을 걷어내고 실물 자체의 밀도를 복원하는 작업만이 시각적 피로를 돌파할 수 있습니다.",
+  "creator_message": "큐레이터의 메시지: 유행이라는 명목으로 쏟아지는 영혼 없는 레퍼런스들에 지쳤다면 오늘 리스트를 보십시오. 기획의 본질을 꿰뚫는 것들만 골라 담았습니다.",
+  "session": {
+    "timestamp": "2026-11-17T07:31:13.936562",
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "리프레임 스튜디오, 퍼시스 만타 체어 런칭 필름",
+      "content": "서울에 거주하는 리프레임 스튜디오가 독일 스튜디오 Jehs+Laub이 디자인한 퍼시스의 만타 체어를 위해 정갈한 CG 스타일의 런칭 필름을 선보였습니다.",
+      "url": "https://www.stashmedia.tv/stashmedia.tv/reframe-studio-get-comfortable-in-fursys-manta-chair/",
+      "source": "Stash Media",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Reframe Studio",
+      "creator_insight": "한국 가구 브랜드의 실용성과 독일 디자인의 미학적 결합을 과장 없이 정교한 CG 미학으로 풀어냈습니다.",
+      "tags": [
+        "퍼시스",
+        "만타체어",
+        "CG디렉팅"
+      ],
+      "execution_techniques": [
+        "시네마틱 라이팅",
+        "디지털 물성 회복"
+      ],
+      "why": "국내 브랜드가 글로벌 수준의 모션 그래픽과 만나 어떻게 하이엔드 아이덴티티를 구축하는지 보여주는 모범 답안입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/Fursys-Manta-Chair-launch-film-by-Reframe-Studio-STASH-MAGAZINE7-1920x1080.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "데이비드 셸든 힉스와 아트 틴들리의 새로운 팟캐스트 'Reframe'",
+      "content": "테리토리 스튜디오의 데이비드 셸든 힉스와 아트 틴들리가 기술과 창의성을 다루는 새로운 팟캐스트를 론칭했습니다. 첫 게스트로는 '듄'의 프로덕션 디자이너 패트리스 베르메트가 참여했습니다.",
+      "url": "https://motionographer.com/news/reframe-david-sheldon-hicks-and-art-tindsley-open-a-new-podcast-with-patrice-vermette/",
+      "source": "Motionographer",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "David Sheldon-Hicks & Art Tindsley",
+      "creator_insight": "현대 영화 미술의 거장과 타이틀 디자인의 전설이 만나 비주얼 제작의 이면을 날것 그대로 해부합니다.",
+      "tags": [
+        "팟캐스트",
+        "프로덕션디자인",
+        "테리토리"
+      ],
+      "execution_techniques": [
+        "서사적 공간 연출",
+        "로컬 아카이빙"
+      ],
+      "why": "스크린 뒤에서 실제로 작동하는 영감과 테크놀로지의 관계를 파악하는 데 이보다 더 날카로운 대담은 없습니다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/11/reframe-podcast-landscape.jpg?fit=700%2C394&ssl=1",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "야스미나 카라자 감독의 단편 'Ambush'",
+      "content": "임시 팝업 테크노 클럽을 배경으로 두 고독한 영혼의 궤적을 쫓는 야스미나 카라자 감독의 야간 단편 영화입니다.",
+      "url": "https://directorsnotes.com/2026/11/09/yassmina-karajah-ambush/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Yassmina Karajah",
+      "creator_insight": "공간의 일탈과 고립된 개인의 심리를 로우 프레이밍과 감각적인 조명으로 밀도 있게 포착했습니다.",
+      "tags": [
+        "단편영화",
+        "테크노",
+        "미장센"
+      ],
+      "execution_techniques": [
+        "시네마틱 라이팅",
+        "로우 프레이밍"
+      ],
+      "why": "공간과 서사가 어떻게 하나의 유기적 미학으로 융합되는지 보여주는 시각적 교과서입니다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/11/ambush_03a.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "웰치의 홀리데이 마이크로 드라마, Y2K 노스탤지어를 소환하다",
+      "content": "Z세대가 부모가 된 시점을 겨냥해 브랜드 웰치가 Y2K 감성을 위트롤리하게 녹여낸 홀리데이 시즌 마이크로 드라마 캠페인입니다.",
+      "url": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
+      "source": "Marketing Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Welch's Brand Team",
+      "creator_insight": "세대 교체에 따른 소비자의 향수를 자극하되, 진부한 클리셰를 비틀어 세련된 내러티브로 전환했습니다.",
+      "tags": [
+        "웰치",
+        "Y2K",
+        "마케팅캠페인"
+      ],
+      "execution_techniques": [
+        "노스탤지어 재맥락화",
+        "아날로그 브랜딩"
+      ],
+      "why": "단순한 추억팔이를 넘어 타겟층의 라이프스테이지 변화를 포착한 영민한 브랜딩 전략입니다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://imgproxy.divecdn.com/pNpMj3H_DjdBYdAQ0HmB0uy-WfDi9hWbMfL4ffQqWks/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfTVMyMDMwMTk1XzAwMDAwMV9XZWxjaC1zLUhlcm8tSW1hZ2UtVGhhdC1zLVdvcnRoLUEtVG9hc3QuanBn.webp",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "파브리치오 주지아로의 구리 스컬프처 슈퍼카 'Peralta D'",
+      "content": "디자이너 파브리치오 주지아로가 수작업으로 두들겨 만든 구리 바디와 조형적 실루엣을 결합해 완성한 원오프 그랜드 투어러 차량입니다.",
+      "url": "https://design-milk.com/peralta-d-copper-supercar/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Fabrizio Giugiaro",
+      "creator_insight": "차가운 기계 공학에 전통 장인정신의 물성을 결합해 자동차 디자인의 새로운 감각적 지평을 열었습니다.",
+      "tags": [
+        "슈퍼카",
+        "구리디자인",
+        "수작업"
+      ],
+      "execution_techniques": [
+        "지정학적 재료학",
+        "다층적 물성 재구성"
+      ],
+      "why": "하이엔드 오브제가 가져야 할 독보적인 재질감과 물성의 극치를 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://design-milk.com/images/2026/11/GFG-PeraltaD_04-e1794598783627-1500x1000.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "바이아븡 스튜디오의 레트로 일러스트 브랜드 아이덴티티",
+      "content": "일러스트레이션을 브랜드 DNA의 핵심으로 삼아 독보적인 위트와 빈티지 무드를 구축한 바이아븡 스튜디오의 그래픽 작업물입니다.",
+      "url": "https://www.itsnicethat.com/articles/biabum-graphic-design-illustration-discover-111126",
+      "source": "It's Nice That",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Biabum Studio",
+      "creator_insight": "획일화된 미니멀리즘에 지친 시장에 일러스트레이션 중심의 레이어를 더해 브랜드의 서사를 확장했습니다.",
+      "tags": [
+        "그래픽디자인",
+        "일러스트",
+        "브랜딩"
+      ],
+      "execution_techniques": [
+        "헤리티지 킷치 융합",
+        "아날로그 브랜딩"
+      ],
+      "why": "그래픽 아이덴티티가 얼마나 위트 있으면서도 단단한 고유성을 가질 수 있는지 증명합니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://admin.itsnicethat.com/images/XGNyWE8Hi4xh0qokiup1ibkLHso=/284079/width-1440/Biabum_Salva_Bar_1.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "미우 미우의 고양이 밈 재해석 멀티채널 캠페인",
+      "content": "인터넷 문화의 상징적인 고양이 밈들을 고품격 하이패션 감성으로 재해석하여 멀티채널로 전개한 미우 미우의 캠페인입니다.",
+      "url": "https://www.marketingdive.com/news/meow-mix-reimagines-iconic-cat-memes-for-multichannel-campaign/874724/",
+      "source": "Marketing Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Meow Mix Team",
+      "creator_insight": "가벼운 디지털 밈을 하이엔드 브랜드의 맥락으로 끌어올려 대중과 스킨십하는 영리한 바이럴 전략입니다.",
+      "tags": [
+        "밈캠페인",
+        "멀티채널",
+        "디지털문화"
+      ],
+      "execution_techniques": [
+        "AI 클리셰 해체",
+        "크로스 미디어 게이미피케이션"
+      ],
+      "why": "저급할 수 있는 인터넷 요소를 하이엔드 크리에이티브로 승화시키는 방법을 여실히 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.84,
+      "image": "https://imgproxy.divecdn.com/z3qqMJlktnvukCzTHgExxAlFW-9qqBvvInSTW5FBCvI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NTV82LmpwZw==.webp",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "에이블톤 라이브 13 핸즈온: ARA 2 및 새로운 드럼 신시사이저",
+      "content": "오래 기다려온 ARA 2 지원과 멀티밴드 랙, 완전히 개편된 프리셋 네비게이션을 탑재한 에이블톤 라이브 13의 공개 베타 프리뷰입니다.",
+      "url": "https://cdm.link/ableton-live-13-hands-on-whats-new/",
+      "source": "CDM (Create Digital Motion & Music)",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Ableton Sound Lab",
+      "creator_insight": "프로듀서들의 고질적인 워크플로우 갈증을 정확히 짚어내어 기술적 편의성과 사운드 물성을 동시에 강화했습니다.",
+      "tags": [
+        "에이블톤",
+        "사운드디자인",
+        "음향장비"
+      ],
+      "execution_techniques": [
+        "감성적 모듈화",
+        "크리에이티브 코딩 미학"
+      ],
+      "why": "오디오 콘텐츠를 다루는 모든 사운드 디렉터와 모션 아티스트가 주목해야 할 필수 업데이트입니다.",
+      "social_proof": "",
+      "depth": 0.83,
+      "image": "https://cdm.link/app/uploads/2026/11/live13-1.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "아르카디아의 알메야 컬렉션, 유연한 디자인의 신기원을 열다",
+      "content": "현대적인 업무 환경과 협업의 변화에 발맞춰 유연하고 유기적인 시팅 경험을 제공하는 아르카디아의 신규 컬렉션입니다.",
+      "url": "https://design-milk.com/arcadia-almeya-collection/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Arcadia Design Team",
+      "creator_insight": "정형화된 오피스 공간의 구조를 해체하고 모듈형 유연성을 부여해 현대 노동의 파편화를 수용했습니다.",
+      "tags": [
+        "오피스가구",
+        "모듈디자인",
+        "공간기획"
+      ],
+      "execution_techniques": [
+        "감성적 모듈화",
+        "유기적 모더니즘"
+      ],
+      "why": "공간 구성과 가구 디자인이 어떻게 브랜드의 일하는 방식을 정의하는지 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.82,
+      "image": "https://design-milk.com/images/2026/11/15870_Arcadia_Almeya_Work-Lounge_1-v2-1500x1061.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "유니티, 인디 개발자를 위한 5만 달러 펠로십 프로그램 발표",
+      "content": "지분이나 상환 조건 없이 인디 게임 및 인터랙티브 콘텐츠 개발자들에게 실질적인 자금을 지원하는 유니티의 새로운 펠로십 제도입니다.",
+      "url": "https://80.lv/articles/unity-offers-indie-developers-usd50k-grants-through-new-fellowship-program/",
+      "source": "80 Level",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Unity Foundation",
+      "creator_insight": "대형 자본에 예속되지 않는 독창적인 서사와 비주얼 실험을 지탱하는 최소한의 안전망을 제공합니다.",
+      "tags": [
+        "유니티",
+        "인디게임",
+        "크리에이터지원"
+      ],
+      "execution_techniques": [
+        "크로스 미디어 게이미피케이션",
+        "로컬 아카이빙"
+      ],
+      "why": "독립 비주얼 크리에이터와 게임 디렉터들에게 실질적인 제작 인프라를 제공하는 중요한 마일스톤입니다.",
+      "social_proof": "",
+      "depth": 0.81,
+      "image": "https://cdn.80.lv/api/upload/post/42276/images/6afb26f01980d/cover_800x800.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "줄리아 록테프가 포착하는 역사와 현장의 다큐멘터리 시선",
+      "content": "급변하는 지정학적 갈등과 역사적 순간들의 이면을 카메라에 담아내는 다큐멘터리 감독 줄리아 록테프의 작업 세계를 조명합니다.",
+      "url": "https://filmmakermagazine.com/134720-julia-loktev-captures-history-as-it-happens/",
+      "source": "Filmmaker Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Julia Loktev",
+      "creator_insight": "가장 뜨거운 현장에서 사건을 소비하는 대신, 그 기록의 윤리와 시네마틱 프레임의 본질을 묻습니다.",
+      "tags": [
+        "다큐멘터리",
+        "영화연출",
+        "역사기록"
+      ],
+      "execution_techniques": [
+        "로우 프레이밍",
+        "지정학적 재료학"
+      ],
+      "why": "영상 매체가 시대의 현실을 어떻게 기록해야 하는지 가장 묵직한 질문을 던지는 레퍼런스입니다.",
+      "social_proof": "",
+      "depth": 0.8,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/11/image-1-1-940x400.avif",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "파이프 클리너부터 점토까지, 'Interwoven'이 해체하는 바스켓리 공예 전통",
+      "content": "전통적인 바구니 공예의 재료적 한계를 넘어 파이프 클리너와 점토 등 이질적인 소재를 결합해 공예의 경계를 확장하는 현대 미술 전시입니다.",
+      "url": "https://www.thisiscolossal.com/2026/11/interwoven-basketry-as-expanded-practice-craft-exhibition/",
+      "source": "Colossal",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Various Craft Artists",
+      "creator_insight": "오래된 공예의 물성을 현대적 문맥으로 재해석하여 시각적 신선함과 촉각적 자극을 동시에 선사합니다.",
+      "tags": [
+        "공예",
+        "오브제",
+        "물성연구"
+      ],
+      "execution_techniques": [
+        "다층적 물성 재구성",
+        "지정학적 재료학"
+      ],
+      "why": "제품과 오브제를 디자인할 때 소재를 다루는 태도에 신선한 영감을 주는 시각적 원천입니다.",
+      "social_proof": "",
+      "depth": 0.79,
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/basketry-9-e1794842263977.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "유레카 에르고노믹스의 아룬델 컬렉션, 캔버스로 벽면에 정착하다",
+      "content": "우드 그레인 패널과 유리 캐비닛, 통합 조명을 단 하나의 알루미늄 프레임 안에 모듈형으로 구성한 신개념 월 시스템입니다.",
+      "url": "https://design-milk.com/eureka-ergonomics-arundel-collection-moves-onto-the-wall-canvas-its-new-wall-system/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Eureka Design Team",
+      "creator_insight": "공간의 수직 면을 단순한 인테리어가 아닌 기능적 모듈 인프라로 탈바꿈시켰습니다.",
+      "tags": [
+        "월시스템",
+        "공간디자인",
+        "모듈러"
+      ],
+      "execution_techniques": [
+        "감성적 모듈화",
+        "미니멀 스패셜 모노크롬"
+      ],
+      "why": "공간 속에서 빛과 재질감이 어떻게 결합되어 시각적 스펙트럼을 넓히는지 보여주는 수작입니다.",
+      "social_proof": "",
+      "depth": 0.78,
+      "image": "https://design-milk.com/images/2026/11/Eureka-DM-01-canvas-living-room.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    },
+    {
+      "title": "아티스트 팻 페리의 신작 'Whilst'",
+      "content": "독특한 드로잉과 일러스트레이션으로 인간의 내면과 자연의 풍경을 환상적으로 직조해낸 아티스트 팻 페리의 신작 아카이브입니다.",
+      "url": "https://www.booooooom.com/2026/11/14/whilst-by-artist-pat-perry/",
+      "source": "Boooooom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Pat Perry",
+      "creator_insight": "디지털 시대에 역행하는 듯한 정교한 펜라인과 아날로그 감성의 밀도를 통해 시각적 피로를 정화합니다.",
+      "tags": [
+        "팻페리",
+        "드로잉",
+        "비주얼아트"
+      ],
+      "execution_techniques": [
+        "시각적 물성 복원",
+        "아날로그 브랜딩"
+      ],
+      "why": "순수 시각 예술이 브랜드 그래픽과 스토리텔링에 어떻게 깊이를 더할 수 있는지 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.77,
+      "image": "https://cdn.booooooom.com/wp-content/uploads/2026/11/Perry1.jpg",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "칩스모어, GTA 6를 즐기기엔 너무 어린 말레이시아 게이머들을 위한 레벨업 캠페인",
+      "content": "출시 연령 제한에 걸린 어린 게이머들을 위해 쿠키 브랜드가 과자 패키지로 가상 게임 세계관을 체험하게 만든 위트 있는 바이럴 캠페인입니다.",
+      "url": "https://www.brandinginasia.com/chipsmore-offers-malaysian-gamers-too-young-for-gta-si-a-way-to-level-up/",
+      "source": "Branding in Asia",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "바이럴마케팅",
+        "게이미피케이션"
+      ],
+      "why": "문화적 화제성을 브랜드의 유쾌한 마케팅 자산으로 치환하는 뻔뻔하고도 영리한 기획력입니다.",
+      "depth": 0.5,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/11/01-ChipsMore-KV.webp",
+      "pub_date": "2026-11-04T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": true
+    },
+    {
+      "word": "지정학적 재료학",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "다층적 물성 재구성",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 브랜딩",
+      "is_hot": true
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "date": "2026-11-17",
+  "focusQ": "알고리즘이 양산해낸 무성의한 껍데기를 걷어내고, 날것의 물성과 장인정신으로 회귀하는 크리에이티브의 본질을 직시할 때입니다. 기획의 무게중심을 잃지 않고 시장을 도발하는 진짜 작업들만 추렸습니다.",
+  "creator_message": "큐레이터의 메시지: 뻔한 보도자료를 베껴 쓰는 짓은 그만두십시오. 우리는 지금 무엇이 시각적 잔상을 남기는지, 그리고 어떤 전략이 소비자의 지갑을 여는지 냉정하게 판독해야 합니다.",
+  "session": {
+    "timestamp": "2026-11-17T07:35:55.238305",
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "스포츠의 문법을 다시 쓰다: 마더 디자인의 MLB 브랜드 아이덴티티",
+      "content": "마더 디자인은 노스탤지어 재맥락화 전략을 활용해 5종의 커스텀 서체와 1968년 배터 마크를 결합하여 MLB의 새로운 브랜드 아이덴티티를 구축했습니다. 로고가 아닌 하나의 선언문으로서 작동하는 타이포그래피 시스템을 제시합니다.",
+      "url": "https://abduzeedo.com/sports-mlb-brand-identity-mother-design/",
+      "source": "abduzeedo.com",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Mother Design",
+      "creator_insight": "단순한 로고 리뉴얼을 넘어 스포츠 역사 속의 파편을 현대적 타이포그래피로 직조해내는 기획력이 압권입니다. 과거의 유산을 게으르게 재탕하지 않고 날카롭게 해체했습니다.",
+      "tags": [
+        "노스탤지어 재맥락화",
+        "브랜드 아이덴티티",
+        "타이포그래피"
+      ],
+      "execution_techniques": [
+        "Custom Typeface System",
+        "Archive Revival"
+      ],
+      "why": "오래된 브랜드가 어떻게 고루하지 않으면서도 헤리티지를 지킬 수 있는지 보여주는 교과서적 브랜딩 사례입니다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_1600_38.jpg",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "전통의 무게를 견디는 시선: 한옥 스테이 '안'",
+      "content": "전북 정읍에 위치한 1840년대 고택의 안채를 투플라이가 새롭게 다듬었습니다. 오랜 세월 쌓인 기와와 목재의 물성을 온전히 보존하면서 현대적 여행자의 동선을 매끄럽게 이식했습니다.",
+      "url": "https://www.designtwoply.com/works/stay/%ed%95%9c%ec%98%a5-%ec%8a%a4%ed%85%8c%ec%9d%b4-%ec%95%88/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ec%2598%25a5-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4-%25ec%2595%2588",
+      "source": "Design Twoply",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Design Twoply",
+      "creator_insight": "공간을 억지로 성형하는 대신 세월의 흔적을 전면에 내세우는 디지털 물성 회복의 미학을 보여줍니다. 한국적 공간 인프라의 기준을 한 단계 끌어올린 수작입니다.",
+      "tags": [
+        "K-고택 인프라 구축",
+        "디지털 물성 회복",
+        "공간 브랜딩"
+      ],
+      "execution_techniques": [
+        "Heritage Preservation",
+        "Material Honesty"
+      ],
+      "why": "화려한 인테리어 치장에만 매몰된 업계에 공간이 지닌 고유의 역사성이야말로 가장 강력한 마케팅 자산임을 증명합니다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://www.designtwoply.com/wp-content/uploads/2026/07/01_IMG_2755.jpg",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "블랙하인 'Northside Needs Me' by 마우 모르고",
+      "content": "마우 모르고가 연출한 블랙하인의 뮤직비디오는 날것의 움직임과 시네마틱 라이팅을 통해 도시의 음울하고 긴장감 넘치는 공기를 화면에 각인시킵니다. 관객의 시선을 강제로 붙잡아두는 로우 프레이밍의 극치입니다.",
+      "url": "https://www.promonews.tv/videos/2026/11/11/blackhaine-northside-needs-me-mau-morgo/96936",
+      "source": "promonews.tv",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Mau Morgo",
+      "creator_insight": "안티-AI 미학의 진수를 보여주는 영상으로, 계산된 오류와 거친 질감이 만들어내는 시각적 폭력이 매우 매력적입니다.",
+      "tags": [
+        "시네마틱 라이팅",
+        "로우 프레이밍",
+        "안티-AI 미학"
+      ],
+      "execution_techniques": [
+        "Gritty Handheld",
+        "Chiaroscuro Lighting"
+      ],
+      "why": "매끈하게 잘 다듬어진 상업 영상이 지겨워진 디렉터들에게 신선한 시각적 충격을 선사하는 레퍼런스입니다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://admin.promonews.tv/sites/default/files/styles/pickoftheday/public/Blackhaine%20%27Northside%20Needs%20Me%27%20by%20Mau%20Morgo.png?itok=YG2uAqeO",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "나코 바에브의 3D 프린티드 체어 'THE OBJECT 01'",
+      "content": "재활용 PETG 소재를 활용해 20kg 무게의 모듈러 체어를 완성했습니다. 브루탈리스트의 묵직한 물성과 일본의 미니멀한 절제미가 기묘하게 충돌하는 오브제 디자인입니다.",
+      "url": "https://abduzeedo.com/object-01-3d-printed-chair-nako-baev/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Nako Baev",
+      "creator_insight": "지정학적 재료학의 관점에서 지속가능성을 외치는 뻔한 슬로건 대신 거친 물성의 결합으로 디자인의 실천적 대안을 제시합니다.",
+      "tags": [
+        "지정학적 재료학",
+        "다층적 물성 재구성",
+        "오브제 디자인"
+      ],
+      "execution_techniques": [
+        "Large-scale 3D Printing",
+        "Recycled PETG Fabrication"
+      ],
+      "why": "디지털 제조 공정이 어떻게 아날로그적 물성과 만나 깊이 있는 결과를 만들어내는지 보여주는 완벽한 예시입니다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_sustainable-design-meets-3d-printed-chair-nako-baev.jpg",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "반란의 디자인: VS/Goods의 가상 스토어프론트 웹",
+      "content": "따뜻한 스톤 톤의 웹 디자인에 어두운 에셋 셸프와 플로팅 어워드 카드를 매칭해 가상의 쇼핑 경험을 구현했습니다. 피그마와 지터 환경을 위해 설계된 인터랙티브 모의 스토어입니다.",
+      "url": "https://abduzeedo.com/vsgoods-playful-web-design-mockup-storefront/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Hot Designers",
+      "creator_insight": "정형화된 이커머스 UI 격차를 해체하고 유기적 모더니즘을 웹 인터페이스에 이식했습니다. 디지털 환경에서도 손에 잡힐 듯한 물성을 구현해 냈습니다.",
+      "tags": [
+        "구조적 해체주의",
+        "유기적 모더니즘",
+        "UI 인터랙션"
+      ],
+      "execution_techniques": [
+        "Interactive Prototyping",
+        "Tactile Web Design"
+      ],
+      "why": "웹 디자인이 단지 정보를 전달하는 도구를 넘어 얼마나 감각적인 브랜드 경험을 줄 수 있는지 증명합니다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_play-mockups-created-by-hot-designers-real-vs-goods.jpg",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "나이키 튠드 에어의 재발명: 에어의 반세기",
+      "content": "나이키가 수십 년간 고수해 온 에어 기술을 다시 한번 해체하고 재구성했습니다. NASA에서 유래된 쿠셔닝 기술을 현대적 스트리트 문맥에 맞춰 재조립한 독점 리포트입니다.",
+      "url": "https://www.fastcompany.com/91641174/nike-tuned-air-reinventing-air-technology?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Nike Innovation Team",
+      "creator_insight": "헤리티지를 단순히 우려먹는 것이 아니라 기술적 모듈화를 통해 완전히 새로운 제품군으로 확장하는 기획력을 보여줍니다.",
+      "tags": [
+        "감성적 모듈화",
+        "헤리티지 킷치 융합",
+        "브랜드 전략"
+      ],
+      "execution_techniques": [
+        "Pneumatic Engineering",
+        "Product Architecture"
+      ],
+      "why": "거대 브랜드가 과거의 영광을 어떻게 미래지향적 자산으로 치환하는지 보여주는 마케팅 실무 지침서입니다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91641174-nike-tuned-air.jpg",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "타이르 'Out Of My Mind' by 크루즈 린",
+      "content": "크루즈 린이 연출한 뮤직비디오는 시각적 파편들을 리드믹하게 엮어내며 몰입감을 선사합니다. 정형화된 서사를 거부하고 감각의 스펙트럼을 넓히는 연출력이 돋보입니다.",
+      "url": "https://www.promonews.tv/videos/2026/11/16/tybird-out-my-mind-cruiz-lynn/96958",
+      "source": "promonews.tv",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Cruiz Lynn",
+      "creator_insight": "AI가 생성하는 미끈한 클리셰를 정면으로 거부하며, 손으로 빚어낸 듯한 질감의 편집 리듬을 고수했습니다.",
+      "tags": [
+        "AI 클리셰 해체",
+        "공간적 스펙트럼",
+        "뮤직비디오 연출"
+      ],
+      "execution_techniques": [
+        "Rhythmic Editing",
+        "Mixed Media Composite"
+      ],
+      "why": "영상 연출에 있어서 서사의 논리보다 감각적 타격감이 얼마나 중요한지 일깨워주는 레퍼런스입니다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://admin.promonews.tv/sites/default/files/styles/bmvd_content_page/public/TYBIRD%20%27Out%20Of%20My%20Mind%27%20by%20Cruiz%20Lynn.png?itok=mik8Ei5M",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "ESR x 크레이그 앤 칼의 테크 액세서리 콜라보레이션",
+      "content": "일상적인 테크 가젯에 대담하고 원색적인 그래픽을 이식하여 평범한 기기를 생동감 있는 팝 오브제로 탈바꿈시켰습니다.",
+      "url": "https://design-milk.com/esr-craig-karl-collection/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Craig & Karl",
+      "creator_insight": "차갑고 건조한 하드웨어 주변기기에 유쾌한 위트를 불어넣어 가젯 소비층의 시각적 갈증을 정확히 타격했습니다.",
+      "tags": [
+        "헤리티지 킷치 융합",
+        "오브제 디자인",
+        "컬래버레이션"
+      ],
+      "execution_techniques": [
+        "Bold Graphic Application",
+        "Surface Pattern Design"
+      ],
+      "why": "제품 디자인에서 시각적 그래픽이 하드웨어의 한계를 어떻게 극복하는지 보여주는 훌륭한 사례입니다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://design-milk.com/images/2026/10/DSC08406-1-1500x1000.jpg",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "테크노의 선구자 후안 앳킨스를 추모하며",
+      "content": "테크노라는 용어를 직접 주조하며 현대 전자음악의 뼈대를 세운 후안 앳킨스가 향년 64세로 영면에 들었습니다. 그의 발자취는 오늘날 디지털 사운드 디자인의 영원한 원형으로 남습니다.",
+      "url": "https://cdm.link/the-techno-originator-juan-atkins-has-died-at-64/",
+      "source": "CDM (Create Digital Motion & Music)",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Juan Atkins",
+      "creator_insight": "디지털 사운드와 기계적 물성을 최초로 결합한 그의 철학은 현대 미디어 아트와 사운드 디자인의 근간을 이루고 있습니다.",
+      "tags": [
+        "아날로그 브랜딩",
+        "디지털 물성 회복",
+        "음악 역사"
+      ],
+      "execution_techniques": [
+        "Synthesizer Modular Sound",
+        "Electronic Rhythm Design"
+      ],
+      "why": "모든 디지털 크리에이티브의 뿌리가 어디에 닿아 있는지 상기시켜주는 역사적 기록입니다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdm.link/app/uploads/2026/11/juan.jpg",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "이리나 로조브스키의 사진집 'Mountain Black Heart'",
+      "content": "십여 년에 걸친 방랑의 기록을 담은 사진집으로, 마음과 심장의 지리에 기반한 파편적이고 서정적인 풍경들을 포착했습니다.",
+      "url": "https://www.lensculture.com/articles/irina-rozovsky-mountain-black-heart",
+      "source": "lensculture.com",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Irina Rozovsky",
+      "creator_insight": "가장 아날로그적인 시선으로 장소의 본질을 파고들며, 기계적 완벽함 대신 인간의 시각적 방황을 미학화했습니다.",
+      "tags": [
+        "로우 프레이밍",
+        "시네마틱 라이팅",
+        "포토그래피"
+      ],
+      "execution_techniques": [
+        "Natural Light Photography",
+        "Documentary Framing"
+      ],
+      "why": "프레임 하나에 시대의 공기와 정서를 담아내는 법을 고민하는 영상 디렉터들에게 깊은 영감을 줍니다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://images.lensculture.com/image/09b9c9ef-8270-4e84-26f4-d5c743b1c000/large",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "탄마이 사세나의 초현실주의 포토그래피",
+      "content": "금융업을 떠나 삶의 기묘한 순간들을 카메라에 담기 시작한 사진가의 독창적인 세계관을 조명합니다. 일상의 평범함을 비틀어 낯선 서사를 구축합니다.",
+      "url": "https://www.creativeboom.com/inspiration/tanmay-saxena-on-leaving-a-banking-job-to-make-surreal-photographs-about-lifes-stranger-moments/",
+      "source": "Creative Boom",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Tanmay Saxena",
+      "creator_insight": "현실과 비현실의 경계를 허물며 대중의 시각적 고착화를 깨부수는 과감한 스토리텔링 방식을 보여줍니다.",
+      "tags": [
+        "노스탤지어 재맥락화",
+        "초현실주의",
+        "포토그래피"
+      ],
+      "execution_techniques": [
+        "Surrealist Composition",
+        "Conceptual Staging"
+      ],
+      "why": "캠페인 비주얼을 기획할 때 관객의 상상력을 자극하는 비정형적 접근법을 배울 수 있습니다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://media.creativeboom.com/f201485e-9bae-4b9d-9212-630bd079bccc/conversions/2aca177b33c7e551042d70750250eb71e356b51c-medium.webp",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "디일라인 연례 보고서 2026 무료 공개",
+      "content": "포장 및 브랜드 디자인 트렌드의 최전선을 기록한 디일라인의 2026년 연례 보고서가 공개되었습니다. 올해 패키징 업계가 주목한 혁신적 물성들을 집대성했습니다.",
+      "url": "https://thedieline.com/dieline-annual-2026/",
+      "source": "The Dieline",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "The Dieline Editorial",
+      "creator_insight": "물리적 형태와 브랜드 메시지가 어떻게 한 몸처럼 결합하는지 보여주는 실무 아카이브입니다.",
+      "tags": [
+        "다층적 물성 재구성",
+        "지정학적 재료학",
+        "패키지 디자인"
+      ],
+      "execution_techniques": [
+        "Sustainable Packaging",
+        "Structural Dieline"
+      ],
+      "why": "제품 디자인과 브랜드 패키징의 최신 흐름을 한눈에 파악할 수 있는 필수 참고 자료입니다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/dieline-annual-2026-hero-2560x1440-1.jpg",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "스프링엣츠의 반세기: 브랜드 구축의 지혜",
+      "content": "50년간 브랜드를 만들어온 에이전시가 시장에서 살아남은 비결을 공유합니다. 대중의 심리를 파고드는 네이밍과 전략의 본질을 짚어냅니다.",
+      "url": "https://www.creativeboom.com/insight/what-50-years-in-business-has-taught-springetts-about-building-brands-that-thrive/",
+      "source": "Creative Boom",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Springetts",
+      "creator_insight": "유행에 쉽게 휩쓸리지 않는 단단한 브랜드 코어를 어떻게 구축하는지 보여주는 장기적 관점의 기획서입니다.",
+      "tags": [
+        "아날로그 브랜딩",
+        "브랜드 전략",
+        "에이전시 인사이트"
+      ],
+      "execution_techniques": [
+        "Brand Architecture",
+        "Consumer Psychology"
+      ],
+      "why": "단기 성과주의에 지친 마케터들에게 묵직한 기준점을 제시하는 실무 칼럼입니다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://media.creativeboom.com/2a7e4cff-d754-4cbd-b6b9-6c1befa6e951/conversions/13b4b0ddbe1e1a99b20024dc92220bc12027e553-medium.webp",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "하이브리드 로보틱스: R3 로보틱스의 비주얼 아이덴티티",
+      "content": "전기차 배터리를 재활용하는 산업용 로봇의 브랜드 아이덴티티를 구축했습니다. 차가운 기계 미학과 정교한 공학적 그래픽의 결합입니다.",
+      "url": "https://www.behance.net/gallery/257048263/R3-Robotics",
+      "source": "Behance",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "R3 Design Team",
+      "creator_insight": "하이테크 산업이 마주한 친환경적 과제를 시각적으로 어떻게 권위 있게 포장할 것인지 보여주는 우수한 브랜딩입니다.",
+      "tags": [
+        "지정학적 재료학",
+        "감성적 모듈화",
+        "산업 디자인"
+      ],
+      "execution_techniques": [
+        "Industrial UI",
+        "Branding System"
+      ],
+      "why": "하드코어 테크놀로지 분야에서 디자인이 어떤 전략적 완충재 역할을 하는지 보여줍니다.",
+      "social_proof": "",
+      "depth": 0.84,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/69dc47257048263.Y3JvcCw4MDgsNjMyLDAsMA.png",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "잠긴 문 뒤의 비밀: 단편 영화 'Behind This Locked Door'",
+      "content": "여성 주인공이 남자친구와 동거를 시작한 후 그가 화장실에서 보낸 의문의 시간에 대해 파헤치는 서스펜스 단편입니다.",
+      "url": "https://filmshortage.com/dailyshortpicks/behind-this-locked-door/",
+      "source": "Film Shortage",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "단편영화",
+        "서스펜스"
+      ],
+      "why": "짧은 러닝타임 안에서 관객을 압박하는 밀도 높은 공간 연출과 편집 템포를 벤치마킹하기 좋습니다.",
+      "depth": 0.5,
+      "image": "https://filmshortage.com/wp-content/uploads/2026/11/shortpicks-lbehind-this-locked-door.jpg",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "서브컬처의 힘: 커뮤니티가 브랜드 의미를 만드는 법",
+      "content": "북부 소울과 바이닐 문화가 어떻게 브랜드에 진정성과 문화적 관련성을 부여하는지 분석한 인사이트입니다.",
+      "url": "https://designspotter.com/the-power-of-subculture-how-communities-create-brand-meaning/",
+      "source": "Designspotter",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "서브컬처",
+        "팬덤"
+      ],
+      "why": "타깃 마케팅의 허점을 찌르는 생생한 커뮤니티 빌딩 사례를 가볍게 읽기 좋습니다.",
+      "depth": 0.5,
+      "image": "https://designspotter.com/wp-content/uploads/2024/03/blogpost_subcultures-1024x683.png",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    },
+    {
+      "title": "닷디스커버리 414호: 불만을 조직화하기",
+      "content": "디지털 시대 크리에이터들의 불만과 저항 정신을 예리하게 큐레이션한 뉴스레터 아카이브입니다.",
+      "url": "https://www.densediscovery.com/issues/414/",
+      "source": "Substack - Dense Discovery",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "큐레이션",
+        "인사이트"
+      ],
+      "why": "이번 주 크리에이티브 업계의 은근한 불호와 트렌드 맥을 짚어보는 데 유용한 가십거리입니다.",
+      "depth": 0.5,
+      "image": "https://www.densediscovery.com/img/screenshot/square-414.jpg",
+      "pub_date": "2026-11-17T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": true
+    },
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": false
+    },
+    {
+      "word": "다층적 물성 재구성",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "지정학적 재료학",
+      "is_hot": true
+    },
+    {
+      "word": "K-고택 인프라 구축",
+      "is_hot": true
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "date": "2026-11-08",
+  "focusQ": "알고리즘의 불신을 돌파하려는 마케터들의 몸부림은 결국 진짜 감각을 증명하라는 압박이다. 데이터와 허세로 포장된 껍데기를 벗겨내지 못하면 브랜드는 시장에서 즉시 도태된다. 날것의 물성과 서사에 집중하는 태도만이 유일한 생존 전략이다.",
+  "creator_message": "큐레이터의 메시지: 쓸데없는 AI 미사여구는 집어치워라. 오늘 우리가 주목할 것은 껍데기가 아니라 본질을 파고드는 날카로운 기획과 비주얼의 타율뿐이다. 제대로 된 레퍼런스만 골라 담았으니 눈크게 뜨고 읽어라.",
+  "session": {
+    "timestamp": "2026-11-17T07:34:00.578064",
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "AI 불신 시대에 맞서는 마케터들의 새로운 무기",
+      "content": "생성형 AI에 대한 대중의 피로감과 의심이 극에 달한 시점에서, 마케터들은 진정성과 투명성을 무기로 새로운 광고 제작 방식을 실험하고 있다. 기술의 껍데기를 벗고 날것의 제작 과정을 공개하는 백스테이지 콘텐츠가 브랜드 신뢰 회복의 핵심 수단으로 떠올랐다.",
+      "url": "https://www.fastcompany.com/91638642/meet-the-marketers-fighting-ai-suspicion-advertisings-new-secret-weapon?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "Marketing & Brand",
+      "category": "TREND_RESEARCH",
+      "creator_name": "Fast Company Creative Team",
+      "creator_insight": "기술 만능주의에 대한 대중의 냉소적 반응을 정확히 읽어내고, 반대로 '불완전한 인간의 과정'을 마케팅 자산으로 치환하는 전략적 영리함이 돋보인다.",
+      "tags": [
+        "안티-AI 미학",
+        "디지털 물성 회복",
+        "브랜드 전략"
+      ],
+      "execution_techniques": [
+        "Raw BTS Framing",
+        "Anti-Cliche Documentary"
+      ],
+      "why": "자동화된 세상에서 소비자가 진정으로 갈구하는 '진짜 인간의 땀방울'을 어떻게 마케팅 언어로 번역해야 하는지 보여주는 날카로운 케이스 스터디.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-2-91638642-bts-videos-se.jpg",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "그래픽 디자인은 어떻게 외로움을 수익화하고 커뮤니케이션을 장악했는가",
+      "content": "현대 그래픽 디자인이 단순한 시각 조형물을 넘어 소비자의 소속감과 고립감을 파고드는 거대한 커뮤니티 구축 도구로 변모했다. 비주얼 언어가 어떻게 현대인의 심리적 공백을 파고들어 브랜드 충성도로 이어지는지 비판적으로 분석한다.",
+      "url": "https://www.itsnicethat.com/articles/pov-graphic-design-helped-monetise-loneliness-creative-industry-161126",
+      "source": "It's Nice That",
+      "domain": "Design & Space",
+      "category": "ART",
+      "creator_name": "It's Nice That Editorial",
+      "creator_insight": "디자인을 미적 유희로 소비하는 시대는 끝났다. 고립된 현대인의 정서적 결핍을 시각적 코드로 포획하는 자본의 메커니즘을 적나라하게 폭로한다.",
+      "tags": [
+        "구조적 해체주의",
+        "감성적 모듈화",
+        "디자인 비평"
+      ],
+      "execution_techniques": [
+        "Critical Graphic Typology",
+        "Socio-Cultural Visual Layout"
+      ],
+      "why": "디자이너라면 누구나 고민해야 할 시각 문화의 사회적 책임과 자본주의적 포섭 과정을 냉정하게 직시하게 만드는 에세이.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://admin.itsnicethat.com/images/Cxl-Ecbe3M_Kv4U6p4RQF4a0tIA=/284770/width-1440%7Cformat-jpeg/pov_graphic_design_helped_monetise_loneliness_hero.png",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "퍼스디자인의 미래: 알고리즘과 수치가 지배하는 서체 실험",
+      "content": "고정된 형태의 폰트를 거부하고 데이터와 매개변수에 따라 실시간으로 변형되는 파라메트릭 폰트의 가능성을 탐구한다. 타이포그래피가 단순한 텍스트 전달 매체를 넘어 인터랙티브 비주얼 아트로 진화하는 지점을 포착했다.",
+      "url": "https://www.slanted.de/parametric-fonts/",
+      "source": "Slanted",
+      "domain": "Design & Space",
+      "category": "DESIGN",
+      "creator_name": "Slanted Publishers",
+      "creator_insight": "정형화된 그리드 시스템에 안주하지 않고, 코딩과 타이포그래피의 경계를 허물며 새로운 시각적 레이어를 구축하려는 치열한 실험 정신.",
+      "tags": [
+        "다층적 물성 재구성",
+        "디지털 물성 회복",
+        "파라메트릭 디자인"
+      ],
+      "execution_techniques": [
+        "Generative Typography",
+        "Algorithmic Grid"
+      ],
+      "why": "평면적인 텍스트에 생명력을 불어넣는 디지털 타입 디자인의 최전선을 보여주는 시각적 교과서.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.slanted.de/wp-content/uploads/2026/08/2026-08-18_6a84aaabedb7b_Capturadepantalla2026-08-18alas20.53.22.jpg",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "AI 추천 알고리즘 시대, 이니스프리와 팸퍼스의 검색 가시성 전략",
+      "content": "전통적인 검색엔진 최적화(SEO)의 시대를 지나 생성형 AI 추천 결과에 브랜드가 노출되도록 만드는 GEO(Generative Engine Optimization) 전략이 마케팅의 핵심으로 부상했다. 버슬 디지털 그룹과 프로포운드의 협업을 통해 알고리즘 추천 생태계의 민낯을 파헤친다.",
+      "url": "https://digiday.com/media/how-bustle-digital-group-is-helping-pampers-innisfree-show-up-in-ai-recommendations/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday",
+      "domain": "Marketing & Brand",
+      "category": "MARKETING",
+      "creator_name": "Bustle Digital Group & Profound",
+      "creator_insight": "더 이상 인간이 직접 검색하지 않는 시대, AI의 선택을 받기 위해 브랜드가 어떻게 언어와 데이터를 조작하고 재맥락화해야 하는지 보여주는 적나라한 비즈니스 현실.",
+      "tags": [
+        "AI 클리셰 해체",
+        "지정학적 재료학",
+        "알고리즘 마케팅"
+      ],
+      "execution_techniques": [
+        "GEO Data Optimization",
+        "Algorithmic Content Architecture"
+      ],
+      "why": "미래의 브랜드 노출 공식을 선점하려는 기획자라면 반드시 이해해야 할 냉혹한 디지털 생태계 리포트.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Digiday%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "스포츠 다큐멘터리가 축구 팬들의 심장을 뛰게 만드는 연출의 기술",
+      "content": "단순한 경기 중계 녹화물을 넘어선 스포츠 다큐멘터리들이 어떻게 한 편의 시네마틱 드라마로 재탄생하는지 분석한다. 감독들은 경기장 안팎의 긴장감을 극대화하며 팬들이 소비하는 감정의 결을 치밀하게 설계한다.",
+      "url": "https://filmshortage.com/how-sports-documentaries-capture-the-drama-football-fans-live-for/",
+      "source": "Film Shortage",
+      "domain": "Cinema & Narrative",
+      "category": "MOTION_FILM",
+      "creator_name": "Film Shortage Curators",
+      "creator_insight": "현장 기록을 넘어선 극적인 서사 구축 능력이 곧 다큐멘터리의 가치를 결정한다. 사실을 재료 삼아 감정을 조각하는 연출력의 승리.",
+      "tags": [
+        "시네마틱 라이팅",
+        "노스탤지어 재맥락화",
+        "다큐멘터리 연출"
+      ],
+      "execution_techniques": [
+        "Cinematic Archival Framing",
+        "Dynamic Narrative Tension"
+      ],
+      "why": "논픽션 영상 작업에서 서사와 시각적 타율을 동시에 높이는 방법을 고민하는 디렉터들에게 명확한 레퍼런스를 제공한다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://filmshortage.com/wp-content/uploads/2026/10/image1.png",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "정신의학 병원의 환자들이 직접 참여한 애니메이션 '사이코너츠'",
+      "content": "정신 질환을 의인화하여 인간의 내면을 시각화한 단편 애니메이션. 자그레브 정신의학 병원 환자들이 제작 과정에 직접 참여하여 만든 이 작품은 날것의 심리적 고통을 거침없는 애니메이션 문법으로 풀어냈다.",
+      "url": "https://vimeo.com/channels/staffpicks/1245502303",
+      "source": "Vimeo",
+      "domain": "Cinema & Narrative",
+      "category": "MOTION_FILM",
+      "creator_name": "University Psychiatry Hospital Vrapče Collaborators",
+      "creator_insight": "완벽하게 정제된 애니메이션의 기교를 비웃듯, 치환되지 않은 날것의 인간 심리를 시각 예술의 영역으로 끌어올린 압도적인 진정성.",
+      "tags": [
+        "구조적 해체주의",
+        "감성적 모듈화",
+        "정신적 물성"
+      ],
+      "execution_techniques": [
+        "Anthropomorphic Animation",
+        "Raw Psychological Framing"
+      ],
+      "why": "상투적인 스토리텔링에 찌든 크리에이터들의 시각적 감수성을 단번에 깨워주는 기괴하고도 아름다운 마스터피스.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://i.vimeocdn.com/video/2224652526-1a5fbcfe2884ed9f38fbb160efe92eab159361d605432c449d15c5ea47b75dcb-d_960?region=us",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "첫 검색은 네이버, 마지막 예약은 OTA: 데이터로 추적한 국내 여행 플랫폼의 이동 경로",
+      "content": "국내 소비자들이 정보 탐색을 시작할 때는 네이버라는 거대한 관문을 거치지만, 최종 결제와 숙소 비교는 전문 OTA 플랫폼으로 이탈하는 패턴을 오픈서베이 데이터로 분석했다. 플랫폼 간의 역할 분담과 소비자 심리의 미세한 균열을 짚어낸다.",
+      "url": "https://blog.opensurvey.co.kr/article/domestic-travel-2026-2/",
+      "source": "오픈서베이 블로그",
+      "domain": "Korean Code",
+      "category": "KOREAN_TREND",
+      "creator_name": "OpenSurvey Research Team",
+      "creator_insight": "한국 디지털 소비자의 독특한 동선 파편화를 데이터로 증명했다. 플랫폼 기획자라면 이 기민한 유저의 이동 경로를 무시할 수 없을 것이다.",
+      "tags": [
+        "K-고택 인프라 구축",
+        "공간적 스펙트럼",
+        "국내 소비자 데이터"
+      ],
+      "execution_techniques": [
+        "Behavioral Funnel Analysis",
+        "Domestic UX Mapping"
+      ],
+      "why": "국내 디지털 서비스 기획 및 마케팅 전략 수립 시 반드시 참고해야 할 실질적인 유저 저니(User Journey) 데이터.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://blog.opensurvey.co.kr/wp-content/uploads/2026/10/26_thumbnail_article_20.png",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "전사 평균의 함정: 조직문화 진단 데이터 뒤에 숨겨진 진짜 갈등을 읽는 법",
+      "content": "단순한 전사 평균 지표만으로는 조직의 진짜 병폐를 진단할 수 없다. 부서별, 직급별 극단적인 편차를 분석하고 AI를 활용해 조직문화 진단의 본질을 파헤치는 실무 가이드.",
+      "url": "https://blog.opensurvey.co.kr/research-tips/organizational-culture-assessment-analysis/",
+      "source": "오픈서베이 블로그",
+      "domain": "Korean Code",
+      "category": "KOREAN_TREND",
+      "creator_name": "OpenSurvey Insight Lab",
+      "creator_insight": "평균이라는 거대한 착시 뒤에 숨어 있는 조직 내 진짜 균열을 직시하게 만든다. 크리에이티브 조직을 리드하는 디렉터들이 눈여겨봐야 할 진단 지침.",
+      "tags": [
+        "구조적 해체주의",
+        "조직 진단",
+        "데이터 분석"
+      ],
+      "execution_techniques": [
+        "Granular Data Segmentation",
+        "Organizational Culture Mapping"
+      ],
+      "why": "팀을 이끄는 리더들이 겉치레식 지표에 속지 않고 실질적인 크리에이티브 환경을 구축하는 데 필요한 날카로운 인사이트.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://blog.opensurvey.co.kr/wp-content/uploads/2026/10/26_thumbnail_researchtips_02.png",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "윈드 앤 씨와 NBA의 콜라보레이션: 치노 패브릭과 게임 메쉬의 기묘한 결합",
+      "content": "스트리트웨어 브랜드 윈드 앤 씨(Wind and Sea)와 NBA가 손을 잡고 클래식한 치노 팬츠와 스포티한 게임 메쉬 소재를 결합한 컬렉션을 선보였다. 이질적인 스포츠 헤리티지를 일상복으로 끌어들이는 방식이 돋보인다.",
+      "url": "https://hypebeast.kr/2026/11/nba-wind-and-sea-collaboration-collection-release-info",
+      "source": "Hypebeast Korea",
+      "domain": "Marketing & Brand",
+      "category": "DESIGN",
+      "creator_name": "Wind and Sea Design Team",
+      "creator_insight": "스포츠 유니폼의 기능적 소재를 일상적인 스트리트 실루엣에 무심하게 이식하여 새로운 하이브리드 웨어를 완성했다.",
+      "tags": [
+        "헤리티지 킷치 융합",
+        "아날로그 브랜딩",
+        "스트리트 패션"
+      ],
+      "execution_techniques": [
+        "Hybrid Fabric Layering",
+        "Retro Sportswear Styling"
+      ],
+      "why": "서로 다른 서사를 가진 브랜드들이 파트너십을 통해 시각적 신선함을 극대화하는 방식을 보여주는 전형적인 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F11%2Fnba-wind-and-sea-collaboration-collection-release-info-000.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "마퀘이의 스킨케어 패키징: 일상 속 셀프 케이를 완성하는 물성의 미학",
+      "content": "단순한 용기를 넘어 매일의 반복되는 일상을 특별한 의식으로 만들어주는 마퀘이(Maquei)의 스킨케어 패키징 디자인. 촉각적 만족감과 미니멀한 타이포그래피가 조화를 이룬다.",
+      "url": "https://thedieline.com/maqueis-skincare-packaging-delivers-everyday-acts-of-self-care/",
+      "source": "The Dieline",
+      "domain": "Design & Space",
+      "category": "DESIGN",
+      "creator_name": "Maquei Studio",
+      "creator_insight": "화장품 용기를 소비하는 것이 아니라 행위의 '물성'을 소유하게 만드는 패키징 디자인의 탁월한 촉각적 접근.",
+      "tags": [
+        "디지털 물성 회복",
+        "미니멀 스패셜 모노크롬",
+        "오브젝트 디자인"
+      ],
+      "execution_techniques": [
+        "Tactile Materiality",
+        "Minimalist Monochromatic Packaging"
+      ],
+      "why": "물리적 제품이 디지털 시대에 살아남기 위해 어떤 감각적 레이어를 장착해야 하는지 증명하는 수작.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/FAIT_social_Maquei_14-a14b6d394277db7cdc82a5c870ab138e-scaled-1.jpg",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "네리앤후가 재해석한 케이프타운의 해양 헤리티지: 에디션 호텔의 공간 서사",
+      "content": "건축 스튜디오 네리앤후가 케이프타운 항구의 역사적 물성을 현대적 호텔 공간으로 재맥락화했다. 지역 고유의 자재와 산업 건축의 흔적을 공간 전체에 이식해 깊이 있는 장소성을 구축했다.",
+      "url": "https://design-milk.com/cape-town-edition-nerihu/",
+      "source": "Design Milk",
+      "domain": "Design & Space",
+      "category": "DESIGN",
+      "creator_name": "Neri&Hu",
+      "creator_insight": "로컬의 역사적 파편을 공간 디자인의 문법으로 세밀하게 직조해내어 단순한 숙박 시설을 넘어선 문화적 거점을 완성했다.",
+      "tags": [
+        "노스탤지어 재맥락화",
+        "지정학적 재료학",
+        "공간적 스펙트럼"
+      ],
+      "execution_techniques": [
+        "Industrial Material Heritage",
+        "Contextual Spatial Layering"
+      ],
+      "why": "공간을 다루는 크리에이터들에게 역사적 장소성과 모더니즘의 결합이 무엇인지 보여주는 탁월한 시각적 교보재.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://design-milk.com/images/2026/11/ED_CPTEB_Exterior_05-1500x1000.jpg",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "쓰레기를 줍는 대신 나눠주는 로봇: UX 디자인의 역발상",
+      "content": "도시 환경에서 쓰레기를 수거하는 기존 로봇의 공식을 깨고, 오히려 시민들에게 무언가를 나누어주며 상호작용을 유도하는 도심형 인터랙션 로봇의 실험적 UX 디자인.",
+      "url": "https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "domain": "Design & Space",
+      "category": "UIUX",
+      "creator_name": "Interactive Urban Design Lab",
+      "creator_insight": "로봇의 쓸모를 통념에서 비틀어 공공 장소에서 인간과 기계의 관계를 재정의하는 도발적인 서비스 디자인 접근.",
+      "tags": [
+        "구조적 해체주의",
+        "안티-AI 미학",
+        "인터랙션 디자인"
+      ],
+      "execution_techniques": [
+        "Inverted Functional UX",
+        "Provocative Object Interaction"
+      ],
+      "why": "기능 중심의 유저 인터페이스 설계를 완전히 다른 각도에서 바라보게 만드는 유쾌하고 날카로운 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cdn-images-1.medium.com/max/2600/1*rJzIX7VSM6KLSfr7FqCJNQ.png",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "영화계에 불어닥친 예측 불가능성의 미학 '서프라이즈의 부흥'",
+      "content": "내러티브의 공식과 알고리즘적 서사 구조를 거부하고 극단적인 예측 불가능성을 무기로 삼는 독립 영화들의 최근 흐름을 조명한다. 관객의 기대를 배반하는 편집과 연출이 왜 영화계의 새로운 트렌드가 되었는가.",
+      "url": "https://filmmakermagazine.com/134700-the-rise-of-surprise/",
+      "source": "Filmmaker Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "MOTION_FILM",
+      "creator_name": "Filmmaker Magazine Editors",
+      "creator_insight": "관객이 예상하는 순간 정확히 그 반대 방향으로 카메라를 꺾어버리는 과감한 편집 미학이 영화적 긴장감을 되살린다.",
+      "tags": [
+        "구조적 해체주의",
+        "시네마틱 라이팅",
+        "내러티브 파괴"
+      ],
+      "execution_techniques": [
+        "Subversive Editing",
+        "Anti-Formulaic Narration"
+      ],
+      "why": "정형화된 스토리텔링에 갇힌 영상 연출가들에게 날것의 충격을 주는 필수 독서 아티클.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/11/image-1-1-940x400.jpg",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "아식스의 물류창고 드론 도입: 재고 관리를 혁신하는 자율주행의 물성",
+      "content": "스포츠 브랜드 아식스가 물류창고 내 재고 관리 효율을 극대화하기 위해 자율주행 드론 시스템을 전면 도입했다. 공급망 관리와 리테일 운영의 기술적 진화가 브랜드 백엔드를 어떻게 바꾸고 있는지 보여준다.",
+      "url": "https://www.retaildive.com/news/asics-boosts-inventory-management-using-warehouse-drones/874481/",
+      "source": "Retail Dive",
+      "domain": "Marketing & Brand",
+      "category": "MARKETING",
+      "creator_name": "Asics Operations & Logistics Team",
+      "creator_insight": "화려한 전면 광고 뒤편에서 공급망과 물류의 물리적 효율을 극단적으로 밀어붙이는 브랜드의 내실 있는 운영 전략.",
+      "tags": [
+        "디지털 물성 회복",
+        "지정학적 재료학",
+        "물류 혁신"
+      ],
+      "execution_techniques": [
+        "Autonomous Warehouse Automation",
+        "Supply Chain Optimization"
+      ],
+      "why": "브랜드의 성공이 화려한 캠페인뿐만 아니라 백엔드 인프라의 정교함에서 온다는 것을 보여주는 비즈니스 인사이트.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://imgproxy.divecdn.com/l4b2rUaSEYsGPlg-FGD1sA422GAUjCM2_5cX-fy8eIU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc2ljcy1zaW5gls-sc2FuLDEyODAuanBn.webp",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "조던의 스케이트보드 파크 진출: 스포티 캐주얼의 새로운 경계선",
+      "content": "나이키 에어 기술을 탑재하고 스케이트보드 신발로 위장한 조던 스트라다의 기묘한 스니커즈 비주얼.",
+      "url": "https://www.highsnobiety.com/p/jordan-strada-sneakers/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "스니커즈",
+        "스트리트컬처"
+      ],
+      "why": "헤리티지 스포츠와 서브컬처 스케이트 시 사이의 경계를 유쾌하게 무너뜨리는 스니커 디자인 바이럴.",
+      "depth": 0.5,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1794848283-jordan-strada-sneakers.jpg",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "세스 고딘이 말하는 실용적 공감의 기술",
+      "content": "고객과 완벽하게 똑같이 보고 느낄 수 없다는 사실을 인정하는 것에서 출발하는 진짜 마케팅 서비스 철학.",
+      "url": "https://seths.blog/2026/11/practical-empathy/",
+      "source": "Seth Godin's Blog",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "마케팅에세이",
+        "통찰"
+      ],
+      "why": "뻔한 공감 타령을 날카롭게 해체하는 세스 고딘식 팩트 폭행 에세이.",
+      "depth": 0.5,
+      "image": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_1806135-1.jpg",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    },
+    {
+      "title": "테드 지오이아가 추천하는 유튜브 영상 14선",
+      "content": "문화 평론가 테드 지오이아가 직접 골라낸 알고리즘 너머의 진짜 볼만한 유튜브 아카이브 추천.",
+      "url": "https://www.honest-broker.com/p/14-youtube-videos-im-recommending",
+      "source": "Substack - The Honest Broker",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "큐레이션",
+        "영상추천"
+      ],
+      "why": "알고리즘이 추천하는 쓰레기 영상에 지친 크리에이터들을 위한 영감 가득한 주말 시청 리스트.",
+      "depth": 0.5,
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/i36yNutkdeA",
+      "pub_date": "2026-11-08T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": true
+    },
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": true
+    },
+    {
+      "word": "다층적 물성 재구성",
+      "is_hot": false
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "지정학적 재료학",
+      "is_hot": false
+    }
+  ]
+}

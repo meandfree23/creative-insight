@@ -1,0 +1,427 @@
+{
+  "date": "2026-11-17",
+  "focusQ": "Agent's Thought: 알맹이 없는 트렌드 타령은 가볍게 걷어내고, 오직 날 선 연출 감각과 기획의 본질만 남겼다. 시네마틱 프레임과 브랜드 태도의 극한을 조율하는 것만이 크리에이터가 살아남는 유일한 법이다.",
+  "creator_message": "큐레이터의 메시지: 도처에 널린 미사여구와 영혼 없는 보도자료 짜깁기에 지쳤다면 잘 찾아왔다. 오늘 선별한 14개의 레퍼런스는 핑계 대지 않는 실행력과 집요한 미학적 태도에 대한 기록이다.",
+  "session": {
+    "timestamp": "2026-11-17T07:35:02.664036",
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "알베르 세라, 타협 없는 시선의 기록",
+      "content": "거장 알베르 세라가 영화 촬영 현장과 미학적 태도에 대해 타협 없는 시선과 서사를 풀어낸 인물 인터뷰 아카이브.",
+      "url": "https://filmmakermagazine.com/134766-albert-serra-dares-to-look/",
+      "source": "Filmmaker Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Albert Serra",
+      "creator_insight": "관객의 눈치를 보지 않는 무자비한 카메라 워크와 장르의 경계를 부수는 연출력은 대중성을 핑계 대는 크리에이터들에게 가장 따끔한 채찍질이다.",
+      "tags": [
+        "시네마틱 라이팅",
+        "구조적 해체주의",
+        "로우 프레이밍"
+      ],
+      "execution_techniques": [
+        "Uncompromising Directing",
+        "Radical Framing"
+      ],
+      "why": "오락 영화와 예술 영화의 경계에서 헤매는 이들에게 매뉴얼 같은 단단한 연출 철학을 제공한다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/11/image-1-2-940x400.avif",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "유리 스즈키의 소리 나는 미니 테마파크 '오노마토피아'",
+      "content": "사운드 아티스트 유리 스즈키가 앰비언트 노이즈와 테마파크 어트랙션에서 영감을 받은 미니 구조물을 통해 감각적 경험의 확장을 실험한다.",
+      "url": "https://www.fastcompany.com/91640356/yuri-suzukis-onomatopia-is-a-mini-theme-park-designed-to-be-listened-to?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Yuri Suzuki",
+      "creator_insight": "단순한 청각적 요소를 공간 시노그래피와 정교하게 결합하여 물리적 공간에서 브랜드가 소통하는 방식을 완전히 재정의한다.",
+      "tags": [
+        "감성적 모듈화",
+        "아날로그 브랜딩",
+        "다층적 물성 재구성"
+      ],
+      "execution_techniques": [
+        "Sonic Spatial Design",
+        "Interactive Installation"
+      ],
+      "why": "공간을 단순한 시각적 오브제가 아닌 청각적 자극의 무대로 탈바꿈시키는 기획적 영감을 선사한다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/06-91640356-onomatopia.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "남성성의 이면을 추적하는 스릴러 단편 '세 운 옴브레'",
+      "content": "사냥 여행의 기억을 바탕으로 남성성의 위태로운 뉘앙스를 심리 스릴러 장르로 풀어낸 루카스 파라 감독의 신작 단편.",
+      "url": "https://directorsnotes.com/2026/11/06/lucas-parra-ser-un-hombre/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Lucas Parra",
+      "creator_insight": "폭력성과 연약함이 공존하는 인간의 내면을 밀도 높은 사운드 디자인과 로우 프레이밍 기법으로 포착해냈다.",
+      "tags": [
+        "시네마틱 라이팅",
+        "구조적 해체주의",
+        "로우 프레이밍"
+      ],
+      "execution_techniques": [
+        "Psychological Thriller Directing",
+        "Tense Camera Work"
+      ],
+      "why": "단편 영화가 가져야 할 응축된 서사와 날 선 미학적 긴장감을 보여주는 교과서 같은 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/10/be_a_man_short_film_02.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "올레리우스 올리브 오일 패키징: 진정한 물성의 복원",
+      "content": "프랑스 올리브 오일 브랜드 올레리우스가 어두운 유리병과 GPS 농장 좌표를 결합하여 미니멀한 패키징 디자인의 정수를 보여준다.",
+      "url": "https://abduzeedo.com/packaging-design-olearius-olive-oil-vrai-studio/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Vrai Studio",
+      "creator_insight": "장식적인 요소를 모두 걷어내고 원재료의 지정학적 출처와 순수한 물성 자체를 패키지 전면에 내세운 대담한 기획.",
+      "tags": [
+        "지정학적 재료학",
+        "디지털 물성 회복",
+        "미니멀 스패셜 모노크롬"
+      ],
+      "execution_techniques": [
+        "Restrained Packaging",
+        "Typography Grid System"
+      ],
+      "why": "럭셔리 브랜딩이 과시적 화려함에서 벗어나 어떻게 물성의 진정성으로 회귀하는지 보여주는 모범 사례.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_olearius-olive-oil-packaging-packaging-world.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "찰스 닉스가 말하는 타이포그래피와 고객 경험의 본질",
+      "content": "제약 및 웰니스 브랜드에서 타이포그래피가 단순한 디자인 요소를 넘어 접근성과 신뢰 구축을 위한 핵심 도구임을 강조한 인사이트.",
+      "url": "https://designobserver.com/typography-is-an-accessibility-usability-and-customer-care-issue-says-charles-nix/",
+      "source": "Design Observer",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Charles Nix",
+      "creator_insight": "아름다운 서체는 기본이며, 그것이 브랜드의 윤리적 태도와 고객에 대한 배려로 직결되어야 함을 날카롭게 지적한다.",
+      "tags": [
+        "아날로그 브랜딩",
+        "디지털 물성 회복",
+        "감성적 모듈화"
+      ],
+      "execution_techniques": [
+        "Accessible Typography",
+        "Brand Voice System"
+      ],
+      "why": "시각적 디테일이 어떻게 기업의 신뢰도와 브랜드 철학을 완성하는지 증명한다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://designobserver.com/wp-content/uploads/2026/10/kenvue_01_2_0-1024x576.jpeg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "니콜라이 뵐커의 사진전: 남성 우정과 일상의 비현실성",
+      "content": "스위스 사진작가 니콜라이 뵐커가 축구 셔츠와 스컬 캡을 매개로 젊은 남성들의 일상 속 유대감과 미묘한 부조리함을 포착했다.",
+      "url": "https://www.creativeboom.com/inspiration/skull-caps-football-shirts-and-the-sweetness-of-male-friendship-in-nikolai-voelckers-photographs/",
+      "source": "Creative Boom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Nikolai Voelcker",
+      "creator_insight": "지극히 일상적인 서브컬처 코드를 치밀하게 연출된 프레임 속에 가두어 새로운 노스탤지어의 미학을 완성했다.",
+      "tags": [
+        "노스탤지어 재맥락화",
+        "안티-AI 미학",
+        "로우 프레이밍"
+      ],
+      "execution_techniques": [
+        "Staged Photography",
+        "Subculture Documentation"
+      ],
+      "why": "AI가 생성할 수 없는 인간 고유의 엉뚱함과 우정의 질감을 시각적으로 훌륭하게 아카이빙했다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://media.creativeboom.com/6ee62189-1070-49b5-8d3c-83ce7ff29283/conversions/84e1003f197898dbef4b46703848b7673ccc9e98-medium.webp",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "홀리스숏 UK 2026 선정작: 역사적 재난과 비둘기의 서사",
+      "content": "인간의 역사, 생태, 그리고 재난의 기억을 독창적인 시선으로 풀어낸 단편 영화 수작들을 조명한 비평 아카이브.",
+      "url": "https://directorsnotes.com/2026/11/12/hollyshorts-uk-2026-best-shorts/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Various Directors",
+      "creator_insight": "거대 담론을 소소한 일상적 오브제와 결합해 관객의 허를 찌르는 내러티브 빌딩의 진수를 보여준다.",
+      "tags": [
+        "시네마틱 라이팅",
+        "구조적 해체주의",
+        "지정학적 재료학"
+      ],
+      "execution_techniques": [
+        "Short Film Curatorial",
+        "Narrative Experimentation"
+      ],
+      "why": "오늘날 독립 영화계가 주목해야 할 가장 날카로운 문제의식과 연출 방향성을 제시한다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/11/child_of_the_rouge_holly_shorts_uk_01.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "J.크루, 앤트로픽과 손잡고 AI 스타일 어드바이저 도입",
+      "content": "패션 브랜드 J.크루가 단순한 상품 검색을 넘어 개별 고객의 취향을 정교하게 스타일링하는 대화형 AI 어드바이저를 런칭했다.",
+      "url": "https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/",
+      "source": "Retail Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "J.Crew & Anthropic",
+      "creator_insight": "기술을 위한 기술이 아닌, 패션 브랜드가 고객과의 감정적 유대를 디지털 환경에서 구현하는 실질적인 마케팅 전략.",
+      "tags": [
+        "감성적 모듈화",
+        "디지털 물성 회복",
+        "아날로그 브랜딩"
+      ],
+      "execution_techniques": [
+        "Conversational AI UX",
+        "Personalized Retail Strategy"
+      ],
+      "why": "커머스 마케팅에서 생성형 AI가 단순 효율화를 넘어 고객 경험의 핵심 축으로 진화하는 방식을 보여준다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Retail%20Dive%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "드라마 '100일의 거짓말': 낭만적 투사의 단일한 얼굴을 지우다",
+      "content": "두려움과 부끄러움 속에서도 각자의 방식으로 살아남아 사랑하는 이를 지키려 했던 청춘들의 입체적 민낯을 조명한 드라마 비평.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=83333",
+      "source": "Art Insight",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Domestic Production Team",
+      "creator_insight": "정형화된 서사의 영웅주의를 거부하고 연약함과 생존 본능을 드러내는 한국적 청춘 서사의 진화.",
+      "tags": [
+        "노스탤지어 재맥락화",
+        "구조적 해체주의",
+        "감성적 모듈화"
+      ],
+      "execution_techniques": [
+        "Character Deconstruction",
+        "Nuanced Melodrama"
+      ],
+      "why": "한국 대중문화 콘텐츠가 인물 설정을 입체화하고 클리셰를 비틀어내는 방식을 명확히 보여준다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://www.artinsight.co.kr/data/tmp/2611/20261116012324_wgbcwrrw.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "메르세데스-벤츠, 미국서 레벨 2 핸즈프리 주행 도입",
+      "content": "메르세데스-벤츠가 고속도로 핸즈프리 주행 및 포인트 투 포인트 내비게이션 기능을 미국 시장에 전격 도입하며 모빌리티 UX를 혁신한다.",
+      "url": "https://hypebeast.kr/2026/11/mercedes-benz-unveils-level-2-hands-free-driving-tech",
+      "source": "Hypebeast Korea",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Mercedes-Benz",
+      "creator_insight": "운전 경험의 물리적 행위를 완벽하게 재구성하여 하드웨어와 소프트웨어의 경계를 허무는 하이엔드 모빌리티 브랜딩.",
+      "tags": [
+        "디지털 물성 회복",
+        "미니멀 스패셜 모노크롬",
+        "지정학적 재료학"
+      ],
+      "execution_techniques": [
+        "Autonomous UX Design",
+        "Seamless Mobility Integration"
+      ],
+      "why": "기술이 하드웨어 브랜딩과 소비자 라이프스타일을 어떻게 지배하는지 보여주는 대표적 마케팅 벤치마크.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F11%2Fmercedes-benz-unveils-level-2-hands-free-driving-tech-1.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "케이크(CAKE)의 매력적인 알루미늄 트라이앵글 램프",
+      "content": "독창적인 구조와 알루미늄 소재의 물성을 극대화한 케이크의 트라이앵글 램프 오브젝트 디자인 공개.",
+      "url": "https://hypebeast.kr/2026/11/cake-architecture-triangle-lamp-info",
+      "source": "Hypebeast Korea",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "CAKE Architecture",
+      "creator_insight": "건축적 구조의 엄격함을 소형 가구 오브제로 축소해 공간 안에서 시각적 ânchoring 역할을 수행하도록 설계했다.",
+      "tags": [
+        "구조적 해체주의",
+        "미니멀 스패셜 모노크롬",
+        "지정학적 재료학"
+      ],
+      "execution_techniques": [
+        "Object Design",
+        "Aluminum Fabrication"
+      ],
+      "why": "물성의 순수함과 구조적 기하학이 만나 만들어내는 하이엔드 라이프스타일 오브제의 모범.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F11%2Fcake-architecture-triangle-lamp-info-0.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "야요이 쿠사마 '무한 그물' 회화 1,470만 달러 경매 낙찰",
+      "content": "야요이 쿠사마의 1960년작 '무한 그물' 회화가 미술 시장에서 역대 최고가를 경신하며 거장으로서의 위치를 공고히 했다.",
+      "url": "https://hypebeast.kr/2026/11/yayoi-kusama-painting-sells-for-record-14-7m",
+      "source": "Hypebeast Korea",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Yayoi Kusama",
+      "creator_insight": "반복되는 패턴의 집요함이 어떻게 상업적 가치와 문화적 헤리티지로 환원되는지 보여주는 미술 시장의 정점.",
+      "tags": [
+        "노스탤지어 재맥락화",
+        "안티-AI 미학",
+        "다층적 물성 재구성"
+      ],
+      "execution_techniques": [
+        "Infinite Patterning",
+        "Fine Art Curation"
+      ],
+      "why": "현대 비주얼 크리에이터들에게 반복과 집착이 만들어내는 미학적 설득력의 무게를 일깨운다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F11%2Fyayoi-kusama-painting-sells-for-record-14-7m-1.jpg?w=800&amp;cbr=1&amp;q=90&amp;fit=max",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "크리에이티브 코딩의 새로운 듀엣: 인간과 코드의 협업",
+      "content": "제너레이티브 아트와 크리에이티브 코딩 영역에서 인간 크리에이터와 알고리즘이 단순한 도구 활용을 넘어 상호작용하는 듀엣 관계로 진화하고 있다.",
+      "url": "https://medium.com/@etsy3dperson/creative-coding-is-becoming-a-duet-46585aae2694?source=rss------generative_art-5",
+      "source": "Medium - Generative AI & Digital Art",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Generative Collective",
+      "creator_insight": "AI 클리셰를 답습하지 않고 알고리즘의 의외성을 통제하며 새로운 시각적 문법을 직조해내는 고도의 크리에이티브 프로세스.",
+      "tags": [
+        "디지털 물성 회복",
+        "안티-AI 미학",
+        "다층적 물성 재구성"
+      ],
+      "execution_techniques": [
+        "Generative Algorithmic Duet",
+        "Creative Coding"
+      ],
+      "why": "디지털 시대에 크리에이터가 기술을 주도하는 주체적 태도가 무엇인지 정확히 짚어준다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdn-images-1.medium.com/max/1672/1*zntRotjl5IAfUL_1-y4idw.png",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "몰입형 디지털 파인 다이닝 경험 '세이보' 피그마 디자인",
+      "content": "피그마를 기반으로 파인 다이닝의 감각적 경험을 디지털 UI/UX 환경으로 이식하는 과정을 실험한 인터랙션 디자인 사례.",
+      "url": "https://medium.com/@darkpiodos/designing-savor-crafting-an-immersive-digital-fine-dining-experience-in-figma-5d2699aa1f95?source=rss------ui_ux-5",
+      "source": "Medium UI/UX Tag",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Dark Piodos",
+      "creator_insight": "정적인 스크린 위에 오감의 미학을 재현하기 위해 타이포그래피와 모션 타이밍을 극단적으로 조율한 디지털 스노그래피.",
+      "tags": [
+        "미니멀 스패셜 모노크롬",
+        "감성적 모듈화",
+        "디지털 물성 회복"
+      ],
+      "execution_techniques": [
+        "Figma Prototyping",
+        "Immersive UI Architecture"
+      ],
+      "why": "오프라인의 감각적 경험을 디지털 인터페이스로 번역하는 크리에이티브 엔지니어링의 가능성을 제시한다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cdn-images-1.medium.com/max/1211/1*SmVgq0GZoGjglcqXt966sw.png",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "슈뢰딩거의 황: 엔비디아가 모두에게 모든 것이 될 수 없는 이유",
+      "content": "AI 시대 반도체 패권의 아이러니를 위트 있게 파고든 UX/테크 업계의 날 선 시선.",
+      "url": "https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "AI 클리셰 해체",
+        "테크 비평"
+      ],
+      "why": "기술 독점의 시대에 크리에이터가 가져야 할 냉소적이고 현실적인 비판 의식을 환기한다.",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/1072/0*gqf8_YQf9UQKv9T5.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "학교를 공포로 물들이는 사악한 음악 교사 '자르'",
+      "content": "다크 마법을 사용해 원거리에서 학생을 위협하는 음악 교사의 서사를 담은 오싹한 호러 단편.",
+      "url": "https://www.shortoftheweek.com/2026/10/30/zar/",
+      "source": "Short of the Week",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "시네마틱 라이팅",
+        "단편 호러"
+      ],
+      "why": "짧은 러닝타임 안에 관객을 몰아넣는 사운드 디자인과 공간 연출의 묘미를 가볍게 즐기기 좋다.",
+      "depth": 0.5,
+      "image": "https://www.shortoftheweek.com/wp-content/uploads/2026/10/Zar-horror-short-film-10-640x222.jpg",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "캔디스 호이스가 말하는 즉흥 연주의 기술",
+      "content": "음악과 커뮤니티 지식을 결합해 자신만의 즉흥적 창작 영역을 개척해 온 싱어의 인터뷰.",
+      "url": "https://thecreativeindependent.com/people/singer-candice-hoyes-on-learning-how-to-improvise/",
+      "source": "Creative Independent",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "아날로그 브랜딩",
+        "음악 서사"
+      ],
+      "why": "기획서에 얽매이지 않고 현장에서 즉흥적으로 영감을 살려내는 창작자의 태도를 엿볼 수 있다.",
+      "depth": 0.5,
+      "image": "https://cdn.fs.thecreativeindependent.com/mQSA8Ig2QC6evDA6Th3Q",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": true
+    },
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": true
+    },
+    {
+      "word": "다층적 물성 재구성",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "지정학적 재료학",
+      "is_hot": true
+    }
+  ]
+}

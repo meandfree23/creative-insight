@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-13",
+  "focusQ": "크리에이티브 업계는 안티-AI 미학과 디지털 물성 회복을 바탕으로 진짜와 가짜의 경계를 해체하고 있다. 무의미한 알고리즘 복제에서 벗어나 서사의 본질을 복원하는 타이밍이다.",
+  "creator_message": "영감 타령은 그만하고 결과물로 증명해라. 오늘 선별한 레퍼런스들은 번지르르한 말장난 없이 감각과 기술의 날 선 긴장감을 보여준다.",
+  "session": {
+    "timestamp": "2026-11-17T07:36:22.452551",
+    "selected": 6
+  },
+  "topPicks": [
+    {
+      "title": "루프 아키텍츠, 바이킹 포트리스 보그링 익스피리언스 센터",
+      "content": "바이킹 포트리스 보그링의 역사와 풍경을 고스란히 담아내어, 유적의 서사를 현대적 체험 센터로 구축한 공간 프로젝트다.",
+      "url": "https://retaildesignblog.net/2026/11/12/viking-fortress-borgring-experience-center-by-loop-architects/",
+      "source": "Retail Design Blog",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "LOOP Architects",
+      "creator_insight": "역사적 유적을 단순한 전시물이 아니라 물리적 지형과 결합된 서사적 장치로 탈바꿈시켰다.",
+      "tags": [
+        "공간적 스펙트럼",
+        "지정학적 재료학",
+        "노스탤지어 재맥락화"
+      ],
+      "execution_techniques": [
+        "Spatial Narrative",
+        "Contextual Materiality"
+      ],
+      "why": "공간을 단순한 인테리어가 아닌 역사적 서사를 전달하는 매체로 활용하는 방식을 보여준다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://retaildesignblog.net/wp-content/uploads/2026/11/Viking-Fortress-Borgring-Experience-Center-by-LOOP-Architects-01-720x480.png",
+      "pub_date": "2026-11-12T08:00:00.000000"
+    },
+    {
+      "title": "모니크 에베트의 디지털 식물 악기 조형물",
+      "content": "컴퓨터 과학자이자 아티스트인 모니크 에베트가 디지털 모델링과 물리적 제조를 결합해 꽃이 피어나는 하프와 기타 형태의 조형 악기를 선보였다.",
+      "url": "https://cdm.link/fanciful-creations-of-monique-evette/",
+      "source": "CDM (Create Digital Motion & Music)",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Monique Evette Byars",
+      "creator_insight": "디지털 코드가 어떻게 유기적 물성과 결합하여 새로운 형태의 악기 조형물로 구현되는지 증명한다.",
+      "tags": [
+        "디지털 물성 회복",
+        "유기적 모더니즘",
+        "감성적 모듈화"
+      ],
+      "execution_techniques": [
+        "Digital Fabrication",
+        "Organic Modeling"
+      ],
+      "why": "가상과 현실의 경계에서 물성을 재구성하는 디자이너들에게 명확한 시각적 레퍼런스를 제공한다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cdm.link/app/uploads/2026/11/3up-bloomin-harp.jpg",
+      "pub_date": "2026-11-13T08:00:00.000000"
+    },
+    {
+      "title": "언럴레이티드 스튜디오의 '로프소응'",
+      "content": "트라이베카 게임즈에서 공개된 '로프소응'은 노래하는 돌과 브루탈리즘 건축물을 배경으로 언어를 초월한 깊은 시간의 서사를 전달하는 게임 프로젝트다.",
+      "url": "https://motionographer.com/2026/11/10/lofsong-and-the-language-that-outlives-us/",
+      "source": "Motionographer",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Alessandro Durando",
+      "creator_insight": "언어와 사운드를 물성 있는 오브젝트처럼 다루며 인터랙티브 미디어의 미학적 기준을 높였다.",
+      "tags": [
+        "시네마틱 라이팅",
+        "안티-AI 미학",
+        "구조적 해체주의"
+      ],
+      "execution_techniques": [
+        "Brutalist Rendering",
+        "Sonic Atmosphere"
+      ],
+      "why": "비주얼과 내러티브가 결합하여 도달할 수 있는 극상의 몰입감을 보여주는 뛰어난 사례다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/11/trimLofsong-BergmalWorldPremiereTrailergamescomOpeningNightLive2026-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+      "pub_date": "2026-11-10T08:00:00.000000"
+    },
+    {
+      "title": "마더의 쇼피파이 글로벌 캠페인",
+      "content": "광고대행사 마더가 제작한 쇼피파이의 새 국제 캠페인은 창업자들이 거대한 아이디어를 포기하지 않고 현실로 밀어붙이도록 독려한다.",
+      "url": "https://www.campaignlive.com/article/shopify-urges-entries-stick-big-idea/1975340",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Mother",
+      "creator_insight": "브랜드 메시지를 단순한 계도가 아니라 문화적 도발로 전환하는 뛰어난 기획력을 보여준다.",
+      "tags": [
+        "아날로그 브랜딩",
+        "AI 클리셰 해체",
+        "크로스 미디어 게이미피케이션"
+      ],
+      "execution_techniques": [
+        "Provocative Copywriting",
+        "Campaign Strategy"
+      ],
+      "why": "진부한 브랜드 슬로건을 탈피하고 소비자에게 실질적인 태도 변화를 요구하는 캠페인 전략의 정석이다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.campaignlive.com/img/logo-default-og.png",
+      "pub_date": "2026-11-13T08:00:00.000000"
+    },
+    {
+      "title": "신 우치다의 'FLORA//404' 전시",
+      "content": "도쿄 긴자 MH갤러리에서 개최된 신 우치다의 개인전은 디지털 오류와 자연의 생명력을 교차시키며 현대적인 시각 조형 언어를 탐구한다.",
+      "url": "https://www.adfwebmagazine.jp/en/art/flora-404-by-shinn-uchida-at-mh-gallery/",
+      "source": "ADF Web Magazine",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Shinn Uchida",
+      "creator_insight": "시스템의 결함을 시각적 예술로 승화시키는 방식으로 안티-AI 미학의 새로운 축을 제시한다.",
+      "tags": [
+        "안티-AI 미학",
+        "다층적 물성 재구성",
+        "미니멀 스패셜 모노크롬"
+      ],
+      "execution_techniques": [
+        "Glitch Aesthetics",
+        "Minimalist Sculpture"
+      ],
+      "why": "시각 디자이너들에게 오류와 불완전성이 주는 미학적 가치를 환기시키는 훌륭한 레퍼런스다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/11/adf-web-magazine-uchida-ginza-mh-gallery-1-300x203.jpg",
+      "pub_date": "2026-11-13T08:00:00.000000"
+    },
+    {
+      "title": "카롤라 브라가의 후각 예술과 존재의 감각",
+      "content": "브라질 출신의 아티스트이자 후각 연구원 카롤라 브라가는 향을 단순한 상품이 아닌 정치적, 비판적 시각 매체로 다루는 작업을 선보였다.",
+      "url": "https://www.berlinartlink.com/2026/11/12/interview-karola-braga-art-senses-olfactory-art/",
+      "source": "Berlin Art Link",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Karola Braga",
+      "creator_insight": "시각과 청각을 넘어 후각이라는 감각적 모듈을 통해 브랜드와 예술의 경계를 확장한다.",
+      "tags": [
+        "감성적 모듈화",
+        "노스탤지어 재맥락화",
+        "다층적 물성 재구성"
+      ],
+      "execution_techniques": [
+        "Olfactory Art",
+        "Sensory Installation"
+      ],
+      "why": "오감 기반의 브랜딩과 몰입형 경험을 설계하는 크리에이터들에게 시야를 넓혀주는 독보적인 접근이다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://www.berlinartlink.com/wp-content/uploads/2026/11/berlinartlink-karolabraga-portrait.jpg",
+      "pub_date": "2026-11-12T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "블렌더 유저들을 위한 유기적 거미줄 생성기",
+      "content": "가볍고 완전 커스텀 가능한 유기적 웹 생성기로 3D 신에 즉각적인 그로테스크함을 더해준다.",
+      "url": "https://80.lv/articles/create-gross-organic-webs-with-this-blender-generator/",
+      "source": "80 Level",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "유기적 모더니즘",
+        "디지털 물성 회복"
+      ],
+      "why": "3D 모션 그래픽 작업에서 지저분하고 리얼한 디테일을 단숨에 살려주는 실용적인 툴킷이다.",
+      "depth": 0.5,
+      "image": "https://cdn.80.lv/api/upload/post/42275/images/6afb1973348c9/cover_800x800.jpg",
+      "pub_date": "2026-11-13T08:00:00.000000"
+    },
+    {
+      "title": "메타 AI 광고의 무단 할인 쿠폰 해프닝",
+      "content": "메타의 AI 광고 툴이 프로모션을 꺼둔 상태에서도 무단으로 할인 혜택을 게시해버린 웃지 못할 해프닝.",
+      "url": "https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/",
+      "source": "Marketing Dive",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "AI 클리셰 해체",
+        "지정학적 재료학"
+      ],
+      "why": "자동화된 마케팅 툴의 맹점을 보여주는, 실무자라면 씁쓸하게 웃으며 볼 만한 에피소드다.",
+      "depth": 0.5,
+      "image": "https://placehold.co/800x600/172554/FFFFFF?text=Marketing%20Dive%0A%28MARKETING%29&font=playfair-display",
+      "pub_date": "2026-11-13T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": true
+    },
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": true
+    },
+    {
+      "word": "다층적 물성 재구성",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 브랜딩",
+      "is_hot": true
+    }
+  ]
+}

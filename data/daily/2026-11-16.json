@@ -1,0 +1,434 @@
+{
+  "date": "2026-11-16",
+  "focusQ": "크리에이터들이여, 영감 없는 기성품 감성에 더 이상 속지 마라. 진짜 레퍼런스는 날것의 물성과 서사에서 온다.",
+  "creator_message": "이번 주 큐레이션은 표피적인 비주얼 나열을 배격하고, 매체 고유의 물성과 치밀한 전략적 기획력에 집중했다. 쓸모없는 소음을 걷어낸 진짜 크리에이티브만 확인해라.",
+  "session": {
+    "timestamp": "2026-11-17T07:37:40.785341",
+    "selected": 14
+  },
+  "topPicks": [
+    {
+      "title": "올팩토리오브젝트의 새로운 미니 뮤지컬 'Something in the Air'",
+      "content": "베를린 크리에이티브 콘트롤 스튜디오의 디렉터 마르코스 시케이레이와 줄리앙 마르수앵이 후각적 감각을 재해치하는 재치 있는 미니 뮤지컬 형식의 단편 영화를 공개했다.",
+      "url": "https://www.stashmedia.tv/the-nose-nose-creative-control-makes-stash-debut-with-something-in-the-air-short-film/",
+      "source": "Stash Media",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Marcos Siqueira & Julien Marsouin",
+      "creator_insight": "후각이라는 보이지 않는 감각을 영상 매체 속 서사로 치환하는 연출력이 탁월하다. 감성적 모듈화와 디지털 물성 회복의 경계에서 시각과 후각의 공감각적 전이를 완벽하게 증명했다.",
+      "tags": [
+        "미니뮤지컬",
+        "후각적 연출",
+        "크리에이티브 콘트롤"
+      ],
+      "execution_techniques": [
+        "Olfactory Cinema",
+        "Mini-Musical Frame"
+      ],
+      "why": "보이지 않는 추상적 감각을 어떻게 스크린 위에 시각적으로 구현할 것인가에 대한 명쾌한 해답을 제시한다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/Something-in-the-Air-Short-Film-by-Creative-Control-Studio-_-STASH-MAGAZINE12-1522x1080.jpg",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "스포츠 드라마가 포착하는 팬덤의 해부학",
+      "content": "축구 경기가 끝난 뒤 경기장 밖에서 작동하는 팬들의 내러티브와 서사를 감각적으로 포착한 단편 필름 작품이다.",
+      "url": "https://filmshortage.com/when-the-screen-goes-dark-how-sports-drama-captures-what-fans-already-know/",
+      "source": "Film Shortage",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Film Shortage Editors",
+      "creator_insight": "스포츠라는 거대한 스펙터클을 개인의 미시적 노스탤지어로 축소시키는 연출이 날카롭다. 노스탤지어 재맥락화의 정석을 보여주는 프레임이다.",
+      "tags": [
+        "스포츠 드라마",
+        "팬덤",
+        "다큐멘터리 연출"
+      ],
+      "execution_techniques": [
+        "Cinematic Framing",
+        "Micro-Narrative"
+      ],
+      "why": "스포츠 마케팅과 팬덤 커뮤니케이션을 다루는 크리에이터라면 반드시 분석해야 할 감정적 프레임워크를 제공한다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://filmshortage.com/wp-content/uploads/2026/10/image1.jpg",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "조지 맥아슬란의 손그림: 값비싼 툴을 거부하는 물성의 미학",
+      "content": "디지털 일러스트레이션 시장에서 과도한 툴 의존을 거부하고 날것의 질감과 촉각적 'squish'를 살려내는 일러스트레이터 조지 맥아슬란의 작업 세계.",
+      "url": "https://www.itsnicethat.com/articles/georgie-mcausland-illustration-discover-121126",
+      "source": "It's Nice That",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Georgie McAusland",
+      "creator_insight": "AI와 하이테크가 지배하는 시대에 아날로그 브랜딩과 디지털 물성 회복을 동시에 달성하는 반역적인 드로잉 방법론이다.",
+      "tags": [
+        "일러스트레이션",
+        "아날로그 텍스처",
+        "드로잉"
+      ],
+      "execution_techniques": [
+        "Tactile Illustration",
+        "Anti-AI Aesthetic"
+      ],
+      "why": "매끈한 벡터와 인공지능이 난무하는 포트폴리오 사이에서 작가만의 독보적인 물성 질감을 무기로 삼는 법을 배운다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://admin.itsnicethat.com/images/1irhgvizaKxnywQ6PNxj3ZCR1w8=/284115/width-1440/Turtle_lake.jpg",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "세콘도: 대화형 인터페이스로 어도비 앱을 조율하다",
+      "content": "디자인 업계에서 30년을 보낸 베테랑 호세 마누엘 페르난데스가 대화형 인터페이스를 통해 크리에이티브 소프트웨어를 다루는 새로운 방식을 제안한다.",
+      "url": "https://www.slanted.de/sekondo-control-adobe-apps-through-conversation/",
+      "source": "Slanted",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "José Manuel Fernández",
+      "creator_insight": "UI/UX의 전통적 툴바 개념을 해체하고 자연어 기반의 구조적 해체주의를 소프트웨어 조작 영역까지 확장했다.",
+      "tags": [
+        "UI/UX",
+        "어도비",
+        "대화형 디자인"
+      ],
+      "execution_techniques": [
+        "Conversational UI",
+        "Structural Deconstruction"
+      ],
+      "why": "디자이너와 소프트웨어 간의 상호작용 방식을 근본적으로 뒤흔드는 도구적 실험의 최전선을 보여준다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.slanted.de/wp-content/uploads/2026/11/Sekondo-Lightroom-Classic.jpg",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "어도비 맥스 2026: 프레임 안으로 걸어 들어가는 기술",
+      "content": "마이애미에서 열린 어도비 맥스에서 공개된 재정의된 파이어플라이와 연구 프리뷰는 어떤 프레임도 최종본이 아님을 증명한다.",
+      "url": "https://coolhunting.com/tech/adobe-max-2026-walking-into-the-frame/",
+      "source": "coolhunting.com",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Adobe Research Team",
+      "creator_insight": "촬영과 편집의 경계를 완전히 허물고, 실시간 다층적 물성 재구성을 통해 영상 연출의 문법을 재작성하고 있다.",
+      "tags": [
+        "어도비맥스",
+        "생성형AI",
+        "영상 편집"
+      ],
+      "execution_techniques": [
+        "Generative Frame Reconstruction",
+        "Post-Production Tech"
+      ],
+      "why": "카메라 앵글과 조명, 의상까지 포스트프로덕션에서 실시간으로 재배치하는 미래 프로덕션 표준을 제시한다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://coolhunting.com/wp-content/uploads/2026/11/KRE883351-768x512.jpg",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "정체성과 음악의 경계: 단편 영화 'Lu'",
+      "content": "우리가 잃어버린 자아와 앞으로 마주할 자아 사이, 그 기억과 꿈의 경계에서 음악을 매개로 펼쳐지는 정체성 추적 단편.",
+      "url": "https://filmshortage.com/dailyshortpicks/lu/",
+      "source": "Film Shortage",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Studio Film Shortage",
+      "creator_insight": "청각적 사운드트랙과 시각적 프레임의 감성적 모듈화를 통해 서사의 흡입력을 극대화한 모범적인 프로토타입.",
+      "tags": [
+        "단편영화",
+        "정체성",
+        "음악영화"
+      ],
+      "execution_techniques": [
+        "Auditory-Visual Modularization",
+        "Concept Proof"
+      ],
+      "why": "상업광고와 뮤직비디오 감독들이 눈여겨봐야 할 감정선 빌드업의 전형적인 교본이다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://filmshortage.com/wp-content/uploads/2026/11/shortpicks-lu.jpg",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "오픈서베이: 컨셉보드 구성 요소와 가격 표기 기준 가이드",
+      "content": "국내 소비자의 신제품 구매 의향과 반응을 정확히 측정하기 위해 브랜드 기획자들이 반드시 거쳐야 할 컨셉보드 설계 지침.",
+      "url": "https://blog.opensurvey.co.kr/research-tips/what-is-concept-board/",
+      "source": "오픈서베이 블로그",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "오픈서베이 마켓 인텔리전스",
+      "creator_insight": "한국 시장의 특수한 소비 심리와 가격 민감도를 데이터화하여 K-브랜딩 실무에 즉시 적용 가능한 지정학적 재료학의 마케팅 버전.",
+      "tags": [
+        "컨셉보드",
+        "소비자조사",
+        "마케팅기획"
+      ],
+      "execution_techniques": [
+        "Quantitative Consumer Testing",
+        "Concept Validation"
+      ],
+      "why": "감으로 때우는 마케팅에서 벗어나 철저한 데이터 기반 기획 검증 프로세스를 구축하게 만든다.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://blog.opensurvey.co.kr/wp-content/uploads/2026/10/26_conceptstudio_blog_research_tips_02.png",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "류 후지모토의 도쿄 라이브 퍼포먼스: 폭력의 시대에 서서",
+      "content": "전자 음악의 기계 뒤에 숨는 대신 육체와 목소리, 때로는 절규를 통해 물리적 현장성을 극대화하는 아티스트 류 후지모토의 라이브.",
+      "url": "https://cdm.link/ryo-fujimoto-live-in-tokyo/",
+      "source": "CDM (Create Digital Motion & Music)",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Ryo Fujimoto",
+      "creator_insight": "완벽하게 통제된 디지털 사운드 아츠에 역으로 균열을 내는 안티-AI 미학과 디지털 물성 회복의 극단적 실천.",
+      "tags": [
+        "라이브퍼포먼스",
+        "전자음악",
+        "디지털아트"
+      ],
+      "execution_techniques": [
+        "Embodied Electronic Sound",
+        "Physical Noise Art"
+      ],
+      "why": "디지털 사운드 디자인과 멀티미디어 퍼포먼스 기획자들에게 날것의 에너지란 무엇인지 각인시킨다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://cdm.link/app/uploads/2026/11/ryo-3.png",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "토라이 x 루이스 컬처 'Sundown' 뮤직비디오 by 자이넵 아벨크",
+      "content": "자이넵 아벨크가 연출한 토라이와 루이스 컬처의 싱글 'Sundown'은 빛과 그림자의 대조를 통해 감정의 밀도를 시각화했다.",
+      "url": "https://www.promonews.tv/videos/2026/11/13/tora-i-ft-louis-culture-sundown-zaineb-abelque/96973",
+      "source": "promonews.tv",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Zaineb Abelque",
+      "creator_insight": "로파이한 질감의 카메라워크와 정밀한 미장센 조율을 통해 대중음악 비주얼의 기준점을 다시 세웠다.",
+      "tags": [
+        "뮤직비디오",
+        "자이넵아벨크",
+        "시네마틱"
+      ],
+      "execution_techniques": [
+        "Lo-Fi Lighting",
+        "Narrative Choreography"
+      ],
+      "why": "뮤직비디오 연출에서 트렌디한 무드를 잡는 법에 대한 가장 세련된 비주얼 참고서다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://admin.promonews.tv/sites/default/files/styles/bmvd_content_page/public/webform/image_24.jpg?itok=pdm4Av69",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "돌리 파튼의 엘비스 거절: 개인 브랜딩의 교과서",
+      "content": "엘비스 프레슬리의 협업 제안을 거절한 돌리 파튼의 선택은 철저한 자기 주도적 브랜드 관리가 무엇인지 보여주는 마스터클래스다.",
+      "url": "https://www.fastcompany.com/91635165/dolly-parton-elvis-personal-branding?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Dolly Parton",
+      "creator_insight": "대형 브랜드의 러브콜에 흔들리지 않는 오리지널리티 구축 전략. 아날로그 브랜딩의 핵심은 결국 '자기 주권'에 있다.",
+      "tags": [
+        "퍼스널브랜딩",
+        "전략기획",
+        "돌리파튼"
+      ],
+      "execution_techniques": [
+        "Strategic Refusal",
+        "Brand Sovereignty"
+      ],
+      "why": "모든 제안을 수용하는 것이 성장이 아님을 증명하는 브랜드 전략가의 필수 교양.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/dolly-parton-elvis-no-inc-950456870.jpg",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "빔즈 x 아디다스 50주년 로퍼 협업",
+      "content": "빔즈가 아디다스와 손잡고 선보인 클래식 아이비 스타일의 클래급 로퍼 콜라보레이션.",
+      "url": "https://www.highsnobiety.com/p/beams-adidas-loafer/",
+      "source": "Highsnobiety",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "BEAMS Design Team",
+      "creator_insight": "전통적인 클래식 아카이브를 현대적 스트리트 문맥으로 재해석하는 노스탤지어 재맥락화의 정점.",
+      "tags": [
+        "빔즈",
+        "아디다스",
+        "스니커즈컬렉션"
+      ],
+      "execution_techniques": [
+        "Hybrid Footwear Design",
+        "Archive Recontextualization"
+      ],
+      "why": "브랜드 콜라보레이션에서 헤리티지와 위트를 동시에 잡는 훌륭한 프로덕트 디자인 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1794848779-beams-adidas-loafer-0.jpg",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "밀라노 푸마갈리 & 도시: 마지막 석고 주조 공방의 기록",
+      "content": "한때 수없이 많았던 밀라노의 석고 주조 공방 중 유일하게 남은 곳에서 전통적인 방식으로 역사를 주조해 내는 공간 아카이브.",
+      "url": "https://thecoolhunter.net/fumagalli-and-dossi-milan/",
+      "source": "The Cool Hunter",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Fumagalli & Dossi",
+      "creator_insight": "지정학적 재료학과 디지털 물성 회복 시대에 역설적으로 가장 아날로그적인 물리적 텍스처를 보존하는 공방의 미학.",
+      "tags": [
+        "밀라노",
+        "석고공방",
+        "장인정신"
+      ],
+      "execution_techniques": [
+        "Plaster Casting",
+        "Material Preservation"
+      ],
+      "why": "공간과 오브젝트 디자인을 다루는 크리에이터에게 재료가 가진 본래의 물성을 환기시킨다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "http://thecoolhunter.net/wp-content/uploads/2026/10/4YL7Q000000PQroWAG-interview2-1024x683.jpg",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "안타까운 아마추어의 브랜딩 전문가 참칭 현상 비판",
+      "content": "충분한 실무 경험 없이 브랜딩 전문가와 전략가를 자처하는 세태를 향한 디자인 커뮤니티의 날카로운 자성.",
+      "url": "https://www.reddit.com/r/Design/comments/1xxs5sk/inexperienced_designers_calling_themselves/",
+      "source": "Reddit /r/Design",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Reddit Design Community",
+      "creator_insight": "유행어만 차용한 가짜 전문성이 판치는 크리에이티브 업계에 대한 뼈 때리는 경고.",
+      "tags": [
+        "브랜딩",
+        "디자인윤리",
+        "커뮤니티"
+      ],
+      "execution_techniques": [
+        "Critical Discourse",
+        "Industry Critique"
+      ],
+      "why": "얕은 지식으로 포장된 마케팅 잡음 속에서 진짜 실력을 갖춘 크리에이터가 되기 위한 각성제.",
+      "social_proof": "",
+      "depth": 0.84,
+      "image": "https://placehold.co/800x600/18181b/FFFFFF?text=Reddit%20/r/Design%0A%28DESIGN%29&font=playfair-display",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "앙더맨 겨울/봄 2027 이슈 런칭 파티와 살만 투어의 시선",
+      "content": "코톨드 갤러리에서 열린 앙더맨 매거진 신호 발행 행사와 살만 투어의 전시가 교차하며 만들어낸 문화적 스냅샷.",
+      "url": "https://www.anothermag.com/art-photography/17629/what-went-down-at-the-another-man-winter-spring-27-issue-launch?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=what-went-down-at-the-another-man-winter-spring-2027-issue-launch",
+      "source": "anothermag.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "AnOther Man Editorial",
+      "creator_insight": "하이엔드 패션과 순수 미술이 오프라인 공간에서 어떻게 결합하는지 보여주는 문화적 자산.",
+      "tags": [
+        "앙더맨",
+        "매거진런칭",
+        "살만투어"
+      ],
+      "execution_techniques": [
+        "Editorial Event",
+        "Curated Exhibition"
+      ],
+      "why": "패션과 미디어가 공간 이벤트를 통해 브랜드 권력을 공고히 하는 방식을 보여준다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://images-prod.anothermag.com/786/azure/another-prod/480/0/480323.jpg",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "패밀리 돌라, 불공정 가격 책정 소송으로 6,300만 달러 합의",
+      "content": "규제 당국과의 오랜 법적 공방 끝에 대형 유통사가 거액의 합의금을 지불하며 드러난 리테일 시장의 단면.",
+      "url": "https://www.retaildive.com/news/family-dollar-63-million-settlement-unfair-pricing-claims-ftc/874605/",
+      "source": "Retail Dive",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "유통",
+        "규제",
+        "가격전략"
+      ],
+      "why": "리테일 브랜드들이 가격 정책에서 겪는 법적, 윤리적 리스크를 보여주는 흥미로운 가십.",
+      "depth": 0.5,
+      "image": "https://imgproxy.divecdn.com/wSLn1xqW1YY71nyE2gCqANNNYNhvbodF7jZsuWouUQw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yV0s2QTNELmpwZw==.webp",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "소하 알리 칸, '베터 뉴트리션' 브랜드 앰배서더 및 투자자 합류",
+      "content": "셀러브리티가 단순 모델을 넘어 지분 투자자로 브랜드 성장 서사에 직접 개입하는 최신 비즈니스 트렌드.",
+      "url": "https://www.brandinginasia.com/soha-ali-khan-joins-better-nutrition-as-brand-ambassador-and-investor/",
+      "source": "Branding in Asia",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "브랜드앰배서더",
+        "투자",
+        "인플루언서"
+      ],
+      "why": "단순 광고 모델 계약의 시대가 저물고 공동 창업자형 파트너십이 대세가 되는 현상.",
+      "depth": 0.5,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/11/Better-Nutrition-Soha-Ali-Khan-.webp",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    },
+    {
+      "title": "웹사이트 도메인 마스코트의 부활",
+      "content": "디지털 UI 디자인에서 차갑고 정형화된 레이아웃 대신 감정적 연결을 유도하는 도메인 마스코트 활용법.",
+      "url": "https://medium.com/@resti.guay/bring-your-website-to-life-why-you-need-a-domain-mascot-71618d56dd4e?source=rss------ui_ux-5",
+      "source": "Medium UI/UX Tag",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "UIUX",
+        "마스코트",
+        "디지털브랜딩"
+      ],
+      "why": "웹 환경에 위트와 캐릭터성을 부여하는 가볍고 유용한 웹 디자인 팁.",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/2286/1*BAw_C7T0ecjjUnXocSox1A.png",
+      "pub_date": "2026-11-16T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": true
+    },
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": true
+    },
+    {
+      "word": "다층적 물성 재구성",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 브랜딩",
+      "is_hot": true
+    },
+    {
+      "word": "지정학적 재료학",
+      "is_hot": true
+    }
+  ]
+}
