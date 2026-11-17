@@ -22,6 +22,45 @@ def load_sources():
         return json.load(f)
 
 
+def is_recent_entry(entry, max_age_days=45):
+    """Return False if the RSS entry has a parseable date older than max_age_days."""
+    parsed = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
+    if not parsed:
+        return True
+    try:
+        entry_dt = datetime.datetime(*parsed[:6])
+        return (datetime.datetime.utcnow() - entry_dt).days <= max_age_days
+    except Exception:
+        return True
+
+
+def is_recent_url(url, min_year=2025):
+    """Reject sitemap URLs that explicitly encode an old year (e.g., /2018/ .. /2024/)."""
+    m = re.search(r"/(20\d{2})/", url)
+    if m and int(m.group(1)) < min_year:
+        return False
+    return True
+
+
+def load_recent_macro_keywords(days=7):
+    """Collect recent macro_keywords from the last N daily files for Weekly Trend continuity."""
+    kws = []
+    seen = set()
+    files = sorted(glob.glob(os.path.join(DAILY_DIR, "20??-??-??.json")), reverse=True)[:days]
+    for p in files:
+        try:
+            with open(p, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            for item in data.get("macro_keywords") or []:
+                w = (item.get("word") or "").strip()
+                if w and w not in seen:
+                    seen.add(w)
+                    kws.append(w)
+        except Exception:
+            pass
+    return kws[:24]
+
+
 def compute_cross_source_signals(articles, min_sources=2, max_signals=8):
     """
     Real (non-AI-guessed) zeitgeist signal detector.
@@ -236,7 +275,7 @@ def fetch_sitemap_urls(source_url):
             if url.endswith('.xml'):
                 sitemaps.append(url)
             elif '/20' in url or '/post/' in url or '/article/' in url:
-                if not url.endswith(('.jpg', '.png', '.pdf', '.mp4')):
+                if not url.endswith(('.jpg', '.png', '.pdf', '.mp4')) and is_recent_url(url):
                     urls.append(url)
                     
         if not urls and sitemaps:
@@ -250,7 +289,7 @@ def fetch_sitemap_urls(source_url):
                 for loc in soup2.find_all('loc'):
                     url = loc.text.strip()
                     if '/20' in url or '/post/' in url or '/article/' in url:
-                        if not url.endswith(('.jpg', '.png', '.pdf', '.mp4')):
+                        if not url.endswith(('.jpg', '.png', '.pdf', '.mp4')) and is_recent_url(url):
                             urls.append(url)
         return urls
     except Exception as e:
@@ -319,6 +358,8 @@ def fetch_rss(sources):
                     link = getattr(entry, "link", "").strip().lower()
                     title = getattr(entry, "title", "").strip().lower()
                     if not link or "rp4wp_link" in link or "/wp-json" in link or "xmlrpc" in link or link in seen_urls or link in batch_seen or title in seen_titles:
+                        continue
+                    if not is_recent_entry(entry) or not is_recent_url(link):
                         continue
                     batch_seen.add(link)
                     
@@ -416,12 +457,22 @@ def generate_daily_insight(date_str, articles_subset):
             + "\n\n이 신호와 연관된 기사가 topPicks에 있다면, social_proof 필드에 이 신호를 근거로 명시하고 우선순위를 높이세요. 신호가 없는 기사도 품질이 좋다면 당연히 선택하되, social_proof를 억지로 지어내지는 마세요.\n"
         )
 
+    recent_kws = load_recent_macro_keywords(days=7)
+    weekly_kw_text = ""
+    if recent_kws:
+        weekly_kw_text = (
+            "\n[WEEKLY TREND CONTINUITY - 최근 7일 매크로 키워드]\n"
+            "최근 7일간 사용된 키워드: " + ", ".join(recent_kws) + "\n"
+            "오늘의 흐름이 위 키워드와 맞닿아 있다면 표기를 임의로 변형(예: 공간 시노그래피 vs 공간 스케노그라피)하지 말고 위 기존 키워드 명칭을 그대로 재사용하여 주간 트렌드가 일관되게 연결되도록 하세요. 완전히 새로운 흐름일 때만 새 키워드를 만드세요.\n"
+        )
+
     prompt = f"""
     You are a cynical, sharp-tongued Senior Creative Director and GQ/Vogue Editor-in-Chief.
     You despise fluffy, generic AI jargon (DO NOT USE words like "여정", "탐구", "교차점", "시너지", "잠재력", "혁신").
     Your writing must be professional, highly specific, slightly cynical, and extremely sharp.
     {taste_instruction}
     {trend_signal_text}
+    {weekly_kw_text}
     
     Curation Evaluation Formula:
     Score = (Trustworthiness + Relevance + Timeliness + Cinematic/Visual Quality + Marketing Insight + Originality) - Noise
@@ -430,6 +481,7 @@ def generate_daily_insight(date_str, articles_subset):
     - "Korean Code": CRITICAL REQUIREMENT
       * MUST be created by Korean creators, design studios, agencies, or brands (e.g., Hyundai, Samsung, Gentle Monster, Korean film/video directors, domestic design studios) OR specifically executed within/for the Korean cultural/commercial landscape (e.g., domestic pop-ups, Korean typography, Seoul exhibitions).
       * STRICT NEGATIVE FILTER: Simply being published in the Korean language (e.g., a Naver blog or domestic art webzine reviewing a Japanese photographer, Berlin exhibition, or London festival) DOES NOT QUALIFY as "Korean Code". Classify those by their true subject discipline ("Cinema & Narrative", "Design & Space", "Marketing & Brand").
+      * NO RELEASE DROPS: Routine global sneaker/apparel release announcements (e.g., Nike/Jordan drop dates, generic retail restocks on Hypebeast Korea) MUST BE REJECTED unless there is an original Korean creative campaign or spatial/editorial angle.
       * Whenever authentic Korean creative work is available in today's candidate pool, prioritize 1-2 sharp Korean Code picks to maintain domestic cultural relevance.
     - "Cinema & Narrative":
       * Moving images, directing craft, cinematic framing, motion design, camera work. Keep this prominent (~30-40% of topPicks) to satisfy visual depth, but maintain healthy room for other domains.

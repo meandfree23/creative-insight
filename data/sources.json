@@ -120,124 +120,146 @@
   },
   {
     "url": "https://rss.blog.naver.com/jujukey.xml",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "name": "Naver Blog - 후아 전중관"
   },
   {
     "url": "https://motionographer.com/feed/",
-    "category": "MOTION_FILM"
+    "category": "MOTION_FILM",
+    "name": "Motionographer"
   },
   {
     "url": "https://rss.blog.naver.com/tiger6107.xml",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "name": "Naver Blog - cREATIVE aRTISTIC pHoTo"
   },
   {
     "url": "https://filmshortage.com/feed/",
-    "category": "MOTION_FILM"
+    "category": "MOTION_FILM",
+    "name": "Film Shortage"
   },
   {
     "url": "https://feeds.feedburner.com/artofthetitle_rss",
-    "category": "ART"
+    "category": "ART",
+    "name": "Art of the Title"
   },
   {
     "url": "https://rss.blog.naver.com/rca_37art.xml",
-    "category": "ART"
+    "category": "ART",
+    "name": "Naver Blog - 37ARTSTUDIO"
   },
   {
     "url": "https://cheimread.com/feed",
     "category": "DESIGN",
-    "fail_count": 0
-  },
-  {
-    "url": "https://rss.blog.naver.com/jujukey.xml",
-    "category": "DESIGN"
+    "fail_count": 0,
+    "name": "Cheim & Read"
   },
   {
     "url": "http://www.designtwoply.com/feed",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "name": "Design Twoply"
   },
   {
     "url": "https://www.nowness.com/rss",
-    "category": "MOTION_FILM"
+    "category": "MOTION_FILM",
+    "name": "NOWNESS"
   },
   {
     "url": "http://www.dailymotion.com/rss",
     "category": "MOTION_FILM",
     "fail_count": 3,
-    "quarantined": true
+    "quarantined": true,
+    "name": "Dailymotion"
   },
   {
     "url": "https://hypebeast.kr/feed",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "name": "Hypebeast Korea"
   },
   {
     "url": "https://vimeo.com/rss.xml",
-    "category": "MOTION_FILM"
+    "category": "MOTION_FILM",
+    "name": "Vimeo"
   },
   {
     "url": "https://directorslibrary.com/feed/",
     "category": "DESIGN",
     "fail_count": 3,
-    "quarantined": true
+    "quarantined": true,
+    "name": "Directors Library"
   },
   {
     "url": "https://www.stashmedia.tv/feed/",
-    "category": "MOTION_FILM"
+    "category": "MOTION_FILM",
+    "name": "Stash Media"
   },
   {
     "url": "https://rss.blog.naver.com/damwon.xml",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "name": "Naver Blog - 생각이 바뀌면 사진이 바뀐다"
   },
   {
     "url": "https://rss.blog.naver.com/justina75.xml",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "name": "Naver Blog - 힐데 책방"
   },
   {
     "url": "http://graymonster.tistory.com/feed",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "name": "그레이몬스터의 포토일러"
   },
   {
     "url": "https://www.andrew-townsend.com/rss/",
     "category": "DESIGN",
-    "fail_count": 0
+    "fail_count": 0,
+    "name": "Andrew Townsend"
   },
   {
     "url": "https://blog.naver.com/feed",
     "category": "DESIGN",
     "fail_count": 3,
-    "quarantined": true
+    "quarantined": true,
+    "name": "Naver Blog"
   },
   {
     "url": "https://rss.blog.naver.com/sabids.xml",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "name": "Naver Blog - 진동선의 영원한 거울"
   },
   {
     "url": "http://feeds.feedburner.com/behance/vorr",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "name": "Behance"
   },
   {
     "url": "https://designspotter.com/feed/",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "name": "Designspotter"
   },
   {
     "url": "https://rss.blog.naver.com/nkj2001.xml",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "name": "Naver Blog - Blog Of Life"
   },
   {
     "url": "https://thenationalgrid.com.au/welcome?format=rss",
     "category": "DESIGN",
     "fail_count": 3,
-    "quarantined": true
+    "quarantined": true,
+    "name": "The National Grid"
   },
   {
     "url": "https://adim21.co.kr/wp-content/plugins/kboard/rss.php",
     "category": "DESIGN",
     "fail_count": 3,
-    "quarantined": true
+    "quarantined": true,
+    "name": "Adim21"
   },
   {
     "url": "http://smadani.com/feed",
     "category": "DESIGN",
-    "fail_count": 1
+    "fail_count": 1,
+    "name": "Shaz Madani Studio"
   },
   {
     "name": "Creative Boom",
@@ -257,13 +279,15 @@
   },
   {
     "url": "https://www.artinsight.co.kr/rss",
-    "category": "ART"
+    "category": "ART",
+    "name": "Art Insight"
   },
   {
     "url": "http://www.adim21.co.kr/feed",
     "category": "DESIGN",
     "fail_count": 3,
-    "quarantined": true
+    "quarantined": true,
+    "name": "Adim21"
   },
   {
     "name": "It's Nice That",
@@ -454,16 +478,6 @@
     "name": "Behance",
     "url": "https://www.behance.net/rss",
     "category": "DESIGN"
-  },
-  {
-    "url": "https://www.hubbardbirchler.net/feed",
-    "category": "DESIGN",
-    "fail_count": 3,
-    "quarantined": true
-  },
-  {
-    "url": "https://motionographer.com/feed",
-    "category": "MOTION_FILM"
   },
   {
     "name": "Dezeen",
@@ -731,11 +745,6 @@
     "name": "Medium - Generative AI & Digital Art",
     "url": "https://medium.com/feed/tag/generative-art",
     "category": "TECH_ART"
-  },
-  {
-    "name": "Designboom - Architecture & Spatial Installations",
-    "url": "https://www.designboom.com/feed/",
-    "category": "SPATIAL"
   },
   {
     "name": "Brandingmag",
