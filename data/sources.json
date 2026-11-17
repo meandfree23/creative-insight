@@ -77,7 +77,7 @@
     "name": "levineleavitt.com",
     "url": "https://levineleavitt.com/feed/",
     "category": "DESIGN",
-    "fail_count": 1
+    "fail_count": 0
   },
   {
     "name": "strba.ch",
@@ -237,7 +237,7 @@
   {
     "url": "http://smadani.com/feed",
     "category": "DESIGN",
-    "fail_count": 0
+    "fail_count": 1
   },
   {
     "name": "Creative Boom",
@@ -247,7 +247,8 @@
   {
     "name": "Juxtapoz",
     "url": "https://www.juxtapoz.com/news/?format=feed&type=rss",
-    "category": "ART"
+    "category": "ART",
+    "fail_count": 1
   },
   {
     "name": "WePresent",
@@ -362,7 +363,7 @@
     "name": "Street Art Barcelona",
     "url": "https://streetartbcn.com/feed",
     "category": "ART",
-    "fail_count": 0
+    "fail_count": 1
   },
   {
     "name": "Base Elements Blog",
@@ -390,7 +391,7 @@
     "name": "Berlin Art Link",
     "url": "https://www.berlinartlink.com/feed/",
     "category": "ART",
-    "fail_count": 0
+    "fail_count": 1
   },
   {
     "name": "Art Aurea",
@@ -683,7 +684,7 @@
     "name": "The Cool Hunter",
     "url": "https://www.thecoolhunter.net/feed/",
     "category": "TREND_RESEARCH",
-    "fail_count": 1
+    "fail_count": 0
   },
   {
     "name": "오픈서베이 블로그",
