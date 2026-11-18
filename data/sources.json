@@ -255,7 +255,8 @@
     "name": "Juxtapoz",
     "url": "https://www.juxtapoz.com/news/?format=feed&type=rss",
     "category": "ART",
-    "fail_count": 2
+    "fail_count": 3,
+    "quarantined": true
   },
   {
     "name": "WePresent",
@@ -303,7 +304,8 @@
   {
     "name": "ADF Web Magazine",
     "url": "https://adfwebmagazine.jp/en/feed",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "ART iT",
@@ -476,7 +478,8 @@
   {
     "name": "Reddit /r/Design",
     "url": "https://www.reddit.com/r/Design/top/.rss?t=day",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "Reddit /r/CreativeCoding",
