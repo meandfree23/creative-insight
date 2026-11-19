@@ -1,0 +1,264 @@
+{
+  "date": "2026-11-19",
+  "focusQ": "알고리즘이 도배하는 뻔한 비주얼 잔치 속에서 날카로운 기획 전략을 골라내는 일은 늘 피곤하다. 오늘 피드 역시 날선 감각과 표피적인 트렌드 흉내내기가 팽팽하게 맞선다. 진짜 브랜딩은 말장난이 아니라 기획의 뼈대에서 결정된다.",
+  "creator_message": "AI가 1초 만에 템플릿을 찍어내는 시대에 엉성한 콘셉트는 바로 들통난다. 오늘 뽑아낸 레퍼런스들은 단순한 예쁜 껍데기가 아닌, 시각적 구조와 맥락을 쥐고 흔드는 진짜 기획자들의 전유물이다. 눈속임에 속지 말고 뼈대를 읽어라.",
+  "session": {
+    "timestamp": "2026-11-19T01:54:27.883317",
+    "considered": 40,
+    "selected": 8
+  },
+  "topPicks": [
+    {
+      "title": "삼성 아트스토어, 아트 바젤 파리 2026 작품 19종 단독 수록",
+      "content": "삼성전자가 아트 바젤 파리 2026과의 협업을 통해 더 프레임 TV 전용 플랫폼인 삼성 아트스토어에 신규 아트워크 19점을 추가했다. 거실 공간을 디지털 갤러리로 전환하며 하드웨어 판매를 넘어 문화적 리더십을 확보하는 브랜드 전략이다.",
+      "url": "https://www.adfwebmagazine.jp/en/art/samsung-art-store-art-basel-paris-2026/",
+      "source": "ADF Web Magazine",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "삼성전자 아트스토어 에디토리얼 팀 (Samsung Electronics)",
+      "creator_insight": "전자제품에 '아트 큐레이션'이라는 라이프스타일 껍데기를 씌워 고가 라인업의 정당성을 부여하는 상업적 기민함이 돋보인다.",
+      "tags": [
+        "디지털갤러리",
+        "아트바젤",
+        "브랜드큐레이션"
+      ],
+      "execution_techniques": [
+        "#CurationMarketing",
+        "#DigitalCanvas"
+      ],
+      "why": "단순한 TV 스펙 싸움을 피하고 아트 커뮤니티의 권위를 브랜드 플랫폼 안으로 끌어들인 한국형 럭셔리 마케팅의 정석.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.adfwebmagazine.jp/wp-content/uploads/2026/11/adf-web-magazine-samsung-art-store-2-300x182.jpg",
+      "pub_date": "2026-11-19T08:00:00.000000"
+    },
+    {
+      "title": "에단 로메인 감독의 단편 영화 'Blue': 재회와 불쾌한 정적의 미학",
+      "content": "오랜 친구와의 우연한 만남에서 발생하는 어색함과 미묘한 심리적 긴장감을 조용하지만 다이내믹한 연출로 담아낸 단편 영화다. 대사 사이의 빈 공간과 프레임 구도를 통해 서사의 밀도를 극대화했다.",
+      "url": "https://vimeo.com/channels/staffpicks/1247312751",
+      "source": "Vimeo",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "에단 로메인 (Ethan Romaine)",
+      "creator_insight": "과도한 연출 효과를 배제하고 오직 렌즈의 미세한 앵글 변화와 사운드 디자인만으로 텍스트 이면의 불안을 수면 위로 끌어올린다.",
+      "tags": [
+        "단편영화",
+        "시네마틱연출",
+        "미니멀리즘"
+      ],
+      "execution_techniques": [
+        "#StaticFraming",
+        "#AmbientSoundDesign"
+      ],
+      "why": "대사가 아닌 정적으로 캐릭터의 정서를 주무르는 프레이밍은 연출자라면 반드시 노트해야 할 감정 통제 기술이다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://i.vimeocdn.com/video/2228050380-8bb7f817dd0bfa89dd91ddf790b884fc2706a168b06deb67b9a2a7d3d11c3d2a-d_960?region=us",
+      "pub_date": "2026-11-19T08:00:00.000000"
+    },
+    {
+      "title": "범블의 신규 캠페인: Gen Z 밈과 팝컬처 이스터에그로 무장한 브랜딩",
+      "content": "데이팅 앱 범블이 하락세인 매출과 사용자 이탈을 막기 위해 틱톡 스타 알릭스 얼과 협업한 센세이셔널 광고 캠페인을 공개했다. Z세대의 숏폼 관습과 팝컬처 노이즈를 미학적 이스터에그로 번역해 소비자의 눈길을 사로잡는다.",
+      "url": "https://www.campaignlive.com/article/bumbles-alix-earle-spot-full-easter-eggs-chronically-online/1975487",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "범블 인하우스 크리에이티브 팀 (Bumble)",
+      "creator_insight": "틱톡의 산만함과 노이즈를 기획 수준의 이스터에그로 승화시켜 도파민 중독자들의 화면 점유 시간을 정밀하게 타격한다.",
+      "tags": [
+        "데이팅앱",
+        "Z세대마케팅",
+        "팝컬처"
+      ],
+      "execution_techniques": [
+        "#MemeAesthetics",
+        "#EasterEggStrategy"
+      ],
+      "why": "단순한 인플루언서 협업을 넘어 디지털 서브컬처 언어를 캠페인 뼈대로 삼은 유쾌하고 시니컬한 마케팅 사례.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/150/cached.offlinehbpl.hbpl.co.uk/news/SUC/Bumble-Alix-Earle-SC-CUS.jpg",
+      "pub_date": "2026-11-19T08:00:00.000000"
+    },
+    {
+      "title": "버거킹의 셀프 디스 캠페인: 고객 피드백을 노출하는 솔직함의 브랜드 기획",
+      "content": "버거킹이 자사 매장의 미흡한 서비스와 낙후된 시설에 대한 실제 고객들의 신랄한 비판 메시지를 대형 광고판으로 직조해 공개했다. 브랜드의 약점을 가리지 않고 정면 돌파하며 현대화 개편 프로젝트의 진정성을 확보한다.",
+      "url": "https://www.marketingdive.com/news/burger-kings-push-for-consumer-feedback-takes-aim-at-its-own-restaurants/874704/",
+      "source": "Marketing Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "버거킹 글로벌 크리에이티브 팀 (Burger King)",
+      "creator_insight": "잘 포장된 거짓말보다 신랄한 고객 불만을 캠페인의 전면에 세우는 자학적 솔직함으로 세련된 위기 관리 미학을 완성했다.",
+      "tags": [
+        "버거킹",
+        "노이즈마케팅",
+        "브랜드진정성"
+      ],
+      "execution_techniques": [
+        "#SelfDeprecatingAd",
+        "#OOHCampaign"
+      ],
+      "why": "뻔한 브랜드 자랑질에 지친 소비자들에게 위트 있는 약점 공개로 진짜 호감을 얻어내는 역발상 전략.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://imgproxy.divecdn.com/Mna1VNN1r9R9WNICJe6B9KYwS3VQe6I--q7Q8SOhJNM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CdXJnZXJfS2luZ19Ub21fQ3VydGlzX3hfUmVzdGF1cmFudF9Nb2Rlcm5pemF0aW9uLmpwZw==.webp",
+      "pub_date": "2026-11-19T08:00:00.000000"
+    },
+    {
+      "title": "노스 디자인의 세인즈버리 아트 센터 브랜딩: 1970년대 건축 스케치의 현대적 재해석",
+      "content": "노스 디자인(North Design)이 노먼 포스터의 1970년대 건축 스케치와 아인슈타인 폰트로 유명한 오틀 아이허(Otl Aicher)의 디자인 철학을 결합해 세인즈버리 미술관의 신규 브랜드 아이덴티티를 구축했다. 구조적 조형미와 타이포그래피의 엄격함이 어우러진다.",
+      "url": "https://www.itsnicethat.com/articles/north-design-sainsbury-museum-and-art-centre-graphic-design-171126",
+      "source": "It's Nice That",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "노스 디자인 (North Design)",
+      "creator_insight": "과거의 건축적 유산을 촌스러운 복고가 아닌 차가운 구조적 그래픽 시스템으로 직조해내는 고도의 타이포그래피 감각.",
+      "tags": [
+        "브랜드아이덴티티",
+        "타이포그래피",
+        "노스탤지어재맥락화"
+      ],
+      "execution_techniques": [
+        "#ArchitecturalIdentity",
+        "#GridSystem"
+      ],
+      "why": "주간 매크로 트렌드인 '노스탤지어 재맥락화'를 그래픽 디자인 분야에서 어떻게 우아하게 처리해야 하는지 보여주는 본보기.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://admin.itsnicethat.com/images/h4hjlYoiBX1AnsWNTJ2EtOWUfA0=/284924/width-1440/North_Design_Sainsbury_Museum_and_Art_Centre_How_Do_We_Find_Love_1_zLq4nKe.jpg",
+      "pub_date": "2026-11-19T08:00:00.000000"
+    },
+    {
+      "title": "이고르 노라의 파르니에라 브랜드 아이덴티티: 실크와 조각적 금속의 대비",
+      "content": "디자이너 이고르 노라(Igor Nora)가 정교하게 조각된 금속 체계와 부드러운 실크 나방 모티프를 결합해 파르니에라(Parniera)의 브랜드 시스템을 완성했다. 거친 질감과 미세한 디테일의 대비를 통해 압도적인 고급감을 구현한다.",
+      "url": "https://abduzeedo.com/parniera-brand-identity-inside-igor-noras-sculpted-system/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "이고르 노라 (Igor Nora)",
+      "creator_insight": "연약한 나방의 물성과 차가운 금속 조각의 상반된 이미지를 팽팽한 시각적 균형감으로 엮어낸 다층적 물성 재구성.",
+      "tags": [
+        "브랜딩",
+        "패키지디자인",
+        "다층적물성재구성"
+      ],
+      "execution_techniques": [
+        "#TactileMateriality",
+        "#CustomTypography"
+      ],
+      "why": "극단적인 두 가지 질감을 럭셔리 그래픽 언어로 승화시키는 디자이너의 예리한 시각적 감각.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_1600_42.jpg",
+      "pub_date": "2026-11-19T08:00:00.000000"
+    },
+    {
+      "title": "AI 에이전트와 베지에 툴이 만난 브라우저 폰트 에디터 'Meshfont'",
+      "content": "오픈소스 폰트를 브라우저 상에서 베지에 핸들과 워프 툴, 그리고 AI 에이전트(MCP)를 활용해 직접 입체적으로 변형하고 디자인할 수 있는 무료 웹 에디터 Meshfont가 등장했다. 타이포그래피 실험의 장벽을 대폭 낮췄다.",
+      "url": "https://abduzeedo.com/meshfont-browser-font-editor-ai-agent-support/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "메쉬폰트 개발 팀 (Meshfont Team)",
+      "creator_insight": "복잡한 서체 조형 작업을 브라우저 기반의 모듈형 인터페이스로 직관화하여 크리에이터의 실험 속도를 극대화했다.",
+      "tags": [
+        "폰트디자인",
+        "AI디자인툴",
+        "디지털물성회복"
+      ],
+      "execution_techniques": [
+        "#VectorWarping",
+        "#AIAssistedType"
+      ],
+      "why": "기술 자랑질이 아니라 디자이너의 생산성과 실험적 서체 생성을 돕는 실용적 도구의 훌륭한 예시.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_meshfont-make-type-your-own-meshfont.jpg",
+      "pub_date": "2026-11-19T08:00:00.000000"
+    },
+    {
+      "title": "루퍼트 횔러 감독의 'Higher' 뮤직비디오: 감각적인 컷 분할과 색채 연출",
+      "content": "루퍼트 횔러(Rupert Höller) 감독이 연출한 HYPESOCIETY X Forever '99의 신곡 'Higher' 뮤직비디오다. 속도감 있는 편집과 비트에 맞춘 정교한 모션 그래픽 컷 믹싱으로 사운드의 질감을 감각적으로 시각화했다.",
+      "url": "https://www.promonews.tv/videos/2026/11/17/hypesociety-x-forever-99-ft-jess-folley-higher-rupert-h%C3%B6ller/97005",
+      "source": "promonews.tv",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "루퍼트 횔러 (Rupert Höller)",
+      "creator_insight": "오디오 파형과 시각적 프레임의 일치감을 극대화해 지루할 틈 없는 시각적 리듬감을 직조해낸 모션 연출력.",
+      "tags": [
+        "뮤직비디오",
+        "영상연출",
+        "모션디자인"
+      ],
+      "execution_techniques": [
+        "#RhythmicEditing",
+        "#VisualPacing"
+      ],
+      "why": "3초 안에 시선을 잡아야 하는 최근 브랜드 필름이나 뮤직비디오가 참고해야 할 템포 컨트롤의 튜토리얼.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://admin.promonews.tv/sites/default/files/styles/bmvd_content_page/public/webform/Screenshot%202026-11-10%20at%2012.33.47.png?itok=9Jdw5_xE",
+      "pub_date": "2026-11-19T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "24시간 르망 레이스 모터스포츠 포스터 비주얼 아트",
+      "content": "내구 레이스의 극적인 속도감과 24시간의 시간 경과를 강렬한 타이포그래피 레이어와 컬러 블록으로 표현한 비주얼 아카이브.",
+      "url": "https://www.behance.net/gallery/258456175/24h-Le-Mans",
+      "source": "Behance",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "모터스포츠",
+        "비주얼아트"
+      ],
+      "why": "거친 스포츠의 속도감을 그래픽 레이아웃으로 직관적으로 환원한 매력적인 시각 레퍼런스.",
+      "depth": 0.5,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/a20395258456175.Y3JvcCwyMjk2LDE3OTUsMTkzLDM4Ng.png",
+      "pub_date": "2026-11-19T08:00:00.000000"
+    },
+    {
+      "title": "Smashing Magazine 11월 아트 데스크톱 월페이퍼 모음",
+      "content": "전 세계 디자이너들이 가을의 끝자락에 선사하는 다채로운 그래픽 칼라와 일러스트 데스크톱 월페이퍼 모음집.",
+      "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+      "source": "Smashing Magazine",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "데스크톱아트",
+        "일러스트"
+      ],
+      "why": "영감이 막혔을 때 화면을 바꿈으로써 기분 전환과 시각적 자극을 동시에 얻을 수 있는 아이템.",
+      "depth": 0.5,
+      "image": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
+      "pub_date": "2026-11-19T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": true
+    },
+    {
+      "word": "다층적 물성 재구성",
+      "is_hot": false
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "자학적 진정성 마케팅",
+      "is_hot": true
+    }
+  ]
+}

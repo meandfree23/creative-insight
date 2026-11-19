@@ -67,7 +67,7 @@
     "name": "levineleavitt.com",
     "url": "https://levineleavitt.com/feed/",
     "category": "DESIGN",
-    "fail_count": 0
+    "fail_count": 1
   },
   {
     "name": "strba.ch",
@@ -305,7 +305,7 @@
     "name": "ADF Web Magazine",
     "url": "https://adfwebmagazine.jp/en/feed",
     "category": "DESIGN",
-    "fail_count": 1
+    "fail_count": 0
   },
   {
     "name": "ART iT",
@@ -479,7 +479,7 @@
     "name": "Reddit /r/Design",
     "url": "https://www.reddit.com/r/Design/top/.rss?t=day",
     "category": "DESIGN",
-    "fail_count": 1
+    "fail_count": 2
   },
   {
     "name": "Reddit /r/CreativeCoding",
@@ -624,7 +624,7 @@
     "name": "The Cool Hunter",
     "url": "https://www.thecoolhunter.net/feed/",
     "category": "TREND_RESEARCH",
-    "fail_count": 0
+    "fail_count": 1
   },
   {
     "name": "오픈서베이 블로그",
