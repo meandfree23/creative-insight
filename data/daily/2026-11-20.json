@@ -1,0 +1,292 @@
+{
+  "date": "2026-11-20",
+  "focusQ": "AI 자동화 도구가 퍼뜨린 무개성의 미학이 디지털 디자인 전반을 오염시키고 있다. 날것의 시각적 서사와 불친절한 구조적 해체주의, 그리고 로컬 자본을 럭셔리로 재맥락화하는 영악한 브랜딩 기획만이 이 진부함 속에서 살아남는다.",
+  "creator_message": "기술이 클라이언트의 판단을 대신해 주는 시대일수록 획일화된 매끈함은 도리어 삼류의 증거가 된다. 입에 붙은 통속적인 마케팅 문구를 걷어내라. 오늘 집요하게 선별한 작업들은 툴의 편의성에 안주하지 않고 콘셉트의 독한 날을 세워 시각적 충격을 던지는 직관의 산물들이다.",
+  "session": {
+    "timestamp": "2026-11-20T01:48:42.595008",
+    "considered": 40,
+    "selected": 9
+  },
+  "topPicks": [
+    {
+      "title": "꼬모 1907: 이탈리아 소도시 축구 클럽이 유럽 빅클럽을 뒤흔드는 브랜딩 전략",
+      "content": "인구 8만 5천 명의 소도시 축구팀 코모 1907이 고유한 레이크 코모의 휴양지 이미지와 럭셔리 라이프스타일 헐무트를 결합해 마케팅 판도를 바꾸고 있다.",
+      "url": "https://www.fastcompany.com/91641642/how-a-tiny-italian-soccer-team-plans-to-beat-the-biggest-clubs-in-europe?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Mirwan Suwarso",
+      "creator_insight": "거대 중계권 자본 싸움 대신 지역 자산의 문화적 자본을 극대화해 패션·휴양 럭셔리 브랜딩으로 재맥락화했다.",
+      "tags": [
+        "스포츠마케팅",
+        "브랜드전략",
+        "노스탤지어 재맥락화"
+      ],
+      "execution_techniques": [
+        "Luxury Hospitality Positioning",
+        "Heritage Storytelling"
+      ],
+      "why": "단순한 중계권 수입에 목메는 스포츠 비즈니스의 틀을 깨고 도시 자체가 가진 감성적 자산으로 글로벌 팬덤을 끌어모으는 명리한 기획이다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91641642-como-1907.jpg",
+      "pub_date": "2026-11-20T08:00:00.000000"
+    },
+    {
+      "title": "오스카 허드슨 감독의 단편 'Straight Circle' 트레일러",
+      "content": "초현실주의적 카메라 워크와 왜곡된 순환적 서사를 통해 기하학적 이미지를 기괴하면서도 매혹적인 연출로 풀어낸 단편 영화 트레일러.",
+      "url": "https://www.nowness.com/films/straight-circle-trailer-oscar-hudson",
+      "source": "NOWNESS",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Oscar Hudson",
+      "creator_insight": "CG 의존도를 낮추고 인카메라 아날로그 트릭과 정교한 시노그래피를 결합해 독창적인 비주얼을 설계했다.",
+      "tags": [
+        "시네마틱",
+        "아날로그 브랜딩",
+        "안티-AI 미학"
+      ],
+      "execution_techniques": [
+        "In-Camera Visual Effects",
+        "Practical Framing"
+      ],
+      "why": "화면을 가득 채운 디지털 합성의 가짜 감흥 대신 실제 카메라 프레이밍이 주는 서늘한 물성을 직관적으로 체감할 수 있다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://www.nowness.com/media/zdbfgmao/straight-circle-trailer-oscar-hudson.jpg",
+      "pub_date": "2026-11-20T08:00:00.000000"
+    },
+    {
+      "title": "신체 변형 단편 영화 'IMaGO': 모녀 관계의 그로테스크한 시각화",
+      "content": "엄마가 곤충으로 변해가는 과정 속에서 얽혀버린 의존적 모녀 관계의 갈등을 집요한 바디 호러 연출로 포착한 시동 프레임 단편.",
+      "url": "https://vimeo.com/channels/staffpicks/1243581164",
+      "source": "Vimeo",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Didi Romero",
+      "creator_insight": "감정적 억압을 텍스처와 신체 변형 미학으로 구체화해 심리적 압박감을 화면 가득 밀도 높게 표현했다.",
+      "tags": [
+        "단편영화",
+        "바디호러",
+        "디지털 물성 회복"
+      ],
+      "execution_techniques": [
+        "Body Horror Prosthetics",
+        "Claustrophobic Lighting"
+      ],
+      "why": "뻔한 가족극의 상투성을 기괴한 신체적 연출 기법으로 파괴하고 감정의 극단을 미학적으로 정직하게 밀어붙였다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://i.vimeocdn.com/video/2222731672-986a973875a7aee0b56eff1b7323a5dbea1922441e1e4a61e8848eaad75930ae-d_960?region=us",
+      "pub_date": "2026-11-20T08:00:00.000000"
+    },
+    {
+      "title": "매튜 윌콕: 일상 데이터로 음악을 만드는 사운드 디자인 실험",
+      "content": "환경 실시간 데이터와 소음을 사운드 엔진에 동기화하여 시각적 이미지와 정밀하게 유기 반응하도록 만든 데이터 기반 아티스틱 사운드 프로젝트.",
+      "url": "https://www.itsnicethat.com/articles/matthew-wilcock-sound-design-project-181126",
+      "source": "It's Nice That",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Matthew Wilcock",
+      "creator_insight": "배경음악의 단순 보조적 역할을 거부하고 데이터 추출 소스를 시각 미학의 촉각적 동력으로 활용했다.",
+      "tags": [
+        "사운드디자인",
+        "인터랙티브",
+        "감성적 모듈화"
+      ],
+      "execution_techniques": [
+        "Generative Soundscapes",
+        "Data-Driven Audio Sync"
+      ],
+      "why": "영상과 그래픽 뒤에 숨어있던 사운드를 정면으로 끌어올려 데이터와 텍스처가 상호작용하는 선명한 통찰을 준다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://m.itsnicethat.com/original_images/033Cloudsv2Remaster20260407_1-ezgif.com-video-to-gif-converter.gif",
+      "pub_date": "2026-11-20T08:00:00.000000"
+    },
+    {
+      "title": "MECCHA KIREI: 일본 현대 그래픽 디자인의 비대칭적 타이포그래피",
+      "content": "서구적 미니멀리즘 프레임에 갇히지 않고 일본 고유의 레이아웃 구조와 조형 언어로 그래픽 디자인의 오늘을 지배하는 시각 모듈 모음집.",
+      "url": "https://www.slanted.de/meccha-kirei-graphic-design-in-japan/",
+      "source": "Slanted",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Slanted Publishers",
+      "creator_insight": "동시대 일본 신진 디자이너들의 과감한 글리치, 여백 무시, 비대칭 레이아웃 패턴을 체계적으로 도록화했다.",
+      "tags": [
+        "그래픽디자인",
+        "타이포그래피",
+        "구조적 해체주의"
+      ],
+      "execution_techniques": [
+        "Asymmetrical Layout",
+        "Experimental Grid Break"
+      ],
+      "why": "규격화된 서구 UI/UX 디자인 가이드라인에 반기를 들고 그리드를 의도적으로 파괴하는 그래픽 시도가 신선한 자극을 준다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.slanted.de/wp-content/uploads/2026/09/Komma-mal-anders-11-scaled.jpg",
+      "pub_date": "2026-11-20T08:00:00.000000"
+    },
+    {
+      "title": "최태범 싱글 프로젝트: AI 생성 툴과 감성 인디 텍스트의 해외 방송 유통 실험",
+      "content": "직접 쓴 노랫말에 생성형 AI 작곡·보컬 모델을 접목해 4개국 라디오에 독자 채널 방송망을 확보한 독립 음악 기획 프로젝트.",
+      "url": "https://www.artinsight.co.kr/news/view2.php?no=83367",
+      "source": "Art Insight",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "최태범",
+      "creator_insight": "대형 기획사 유통망 없이도 AI 기술을 프로덕션 도구로 정교하게 다루어 국내 텍스트를 글로벌 방송에 안착시켰다.",
+      "tags": [
+        "인디뮤직",
+        "생성형AI",
+        "자학적 진정성 마케팅"
+      ],
+      "execution_techniques": [
+        "AI Sound Engineering",
+        "Direct-to-Radio Distribution"
+      ],
+      "why": "기술을 그저 과시용 도구로 쓰는 것에 그치지 않고 자본 없는 제작자가 해외 마케팅 접점을 확보하는 실용적 수단으로 벼려냈다.",
+      "social_proof": "",
+      "depth": 0.86,
+      "image": "https://www.artinsight.co.kr/data/tmp/2611/20261118155124_uarvvavm.jpg",
+      "pub_date": "2026-11-20T08:00:00.000000"
+    },
+    {
+      "title": "1,160억 달러 크리에이터 시장: 기존 광고 대행사 모델을 대체하는 숏폼 프로덕션",
+      "content": "전통적인 30초 TVC 광고 제작 패러다임이 무너지고 크리에이터 중심의 직관적이고 자학적인 진정성 마케팅 콘텐츠로 자본이 대거 이동하고 있다.",
+      "url": "https://digiday.com/media-buying/brands-booking-creators-to-make-their-ads-are-pushing-up-116b-global-influencer-market/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "source": "Digiday",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Eric Seufert",
+      "creator_insight": "고비용의 매끈한 스튜디오 프로덕션보다 틱톡·릴스 특유의 친근하고 계산되지 않은 서사가 소비자 전환율을 결정한다는 분석.",
+      "tags": [
+        "크리에이터이코노미",
+        "광고기획",
+        "자학적 진정성 마케팅"
+      ],
+      "execution_techniques": [
+        "UGC Ad Production",
+        "Raw Authenticity Scripting"
+      ],
+      "why": "매끄럽게 잘 다듬어진 에이전시 광고가 외면받고 소비자와 가장 가까운 톤앤매너가 승리한다는 마케팅 판도의 변화를 명백히 보여준다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2023/11/creators-influencers-digiday.png",
+      "pub_date": "2026-11-20T08:00:00.000000"
+    },
+    {
+      "title": "Too Claudified: AI 디자이너가 유행시킨 프론트엔드 미학의 획일성 비판",
+      "content": "Claude, V0 등 AI 인터페이스 생성 도구가 상용화되면서 모든 모바일·웹 앱의 버튼과 그리드가 클론처럼 닮아가는 획일화 현상을 경고한다.",
+      "url": "https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "UX Collective Editorial",
+      "creator_insight": "프론트엔드 코드 자동 생성이 인간 디자이너의 직관적 감각을 말살하고 모니터 전반을 매끈한 지루함으로 뒤덮고 있음을 꼬집는다.",
+      "tags": [
+        "UIUX",
+        "비평",
+        "안티-AI 미학"
+      ],
+      "execution_techniques": [
+        "Critical Interface Design",
+        "Anti-Standardization"
+      ],
+      "why": "편의성이라는 명목하에 브랜드의 개성을 AI 프롬프트 가이드라인에 헌납해 버린 수많은 디자이너들이 반드시 뼈아프게 읽어야 할 팩트 폭격.",
+      "social_proof": "",
+      "depth": 0.85,
+      "image": "https://cdn-images-1.medium.com/max/600/0*k5uI3X8C4vFS2_ZB.jpg",
+      "pub_date": "2026-11-20T08:00:00.000000"
+    },
+    {
+      "title": "아디다스 포럼 SQ 트레이너: 사각형 토캡으로 재해석한 클래식 스니커즈 실루엣",
+      "content": "농구화의 둥근 라인을 과감히 파괴하고 날카로운 직각 실루엣을 대입해 클래식 아카이브를 기하학적으로 재해석한 신규 스니커즈 라인업.",
+      "url": "https://www.highsnobiety.com/p/adidas-forum-sq-trainer-white/",
+      "source": "Highsnobiety",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "adidas Originals Design Team",
+      "creator_insight": "스트리트웨어의 뻔한 볼드함 대신 오뜨 쿠튀르 풋웨어에서나 보던 직각 형태 구조를 제품 디자인 전면에 이식했다.",
+      "tags": [
+        "스니커즈디자인",
+        "제품디자인",
+        "구조적 해체주의"
+      ],
+      "execution_techniques": [
+        "Square-Toe Geometry",
+        "Archive Reconstruction"
+      ],
+      "why": "오랫동안 고착화된 아카이브 신발의 범주일지라도 구조적 형상을 대담하게 바꿈으로써 완전히 새로운 제품 미학을 만들어낼 수 있음을 보여준다.",
+      "social_proof": "",
+      "depth": 0.84,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1795011407-2-12.png",
+      "pub_date": "2026-11-20T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "인스타그램 리스·게시물에 아마존 어필리에이트 링크 직접 연동 기능 도입",
+      "content": "크리에이터가 숏폼 영상과 이미지 태그에 아마존 구매 링크를 바로 이식할 수 있게 되면서 릴스가 단순 감상용을 넘어 즉각적인 커머스 매개체로 완전히 체질을 개선했다.",
+      "url": "https://www.retaildive.com/news/instagram-creators-add-amazon-affiliate-links-reels-posts/874889/",
+      "source": "Retail Dive",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "인스타그램",
+        "커머스마케팅"
+      ],
+      "why": "소셜 미디어 콘텐츠 연출이 피드 디자인을 넘어 즉각적인 결제 전환으로 이어지는 숏폼 마케터들의 최신 필독 트렌드이다.",
+      "depth": 0.5,
+      "image": "https://imgproxy.divecdn.com/_ZuGINS4ZL_yvCqRvkb1hODSmKeXKR8itBm7Y63l24M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMTZfMTMyMjA3LnBuZw==.webp",
+      "pub_date": "2026-11-20T08:00:00.000000"
+    },
+    {
+      "title": "락스타 게임즈: 'GTA 6' PS5 Pro 포함 전 플랫폼 30 FPS 프레임 제한 확정",
+      "content": "최첨단 콘솔 기기에서도 60 프레임을 포기하고 밀도 높은 렌더링과 시네마틱 텍스처 그래픽 품질을 유지하기로 선택한 콘솔 그래픽 연출의 논란과 선택.",
+      "url": "https://80.lv/articles/rockstar-confirms-gta-6-won-t-get-60-fps-mode/",
+      "source": "80 Level",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "GTA6",
+        "비주얼렌더링"
+      ],
+      "why": "기술적 프레임 레이트와 극한의 시각적 밀도 사이에서 락스타가 택한 타협 없는 그래픽 연출 고집이 영감을 준다.",
+      "depth": 0.5,
+      "image": "https://cdn.80.lv/api/upload/post/42315/images/6afef9a6c957e/cover_800x800.jpg",
+      "pub_date": "2026-11-20T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": false
+    },
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "자학적 진정성 마케팅",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": false
+    },
+    {
+      "word": "아날로그 브랜딩",
+      "is_hot": false
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    }
+  ]
+}
