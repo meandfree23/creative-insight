@@ -469,7 +469,8 @@
     "name": "Creative Applications",
     "url": "https://www.creativeapplications.net/feed/",
     "category": "TECH_ART",
-    "fail_count": 2
+    "fail_count": 3,
+    "quarantined": true
   },
   {
     "name": "80 Level",
@@ -688,5 +689,10 @@
     "name": "CDM (Create Digital Motion & Music)",
     "url": "https://cdm.link/feed/",
     "category": "TECH_ART"
+  },
+  {
+    "name": "Short of the Week",
+    "url": "https://www.shortoftheweek.com/feed/",
+    "category": "MOTION_FILM"
   }
 ]
