@@ -694,5 +694,10 @@
     "name": "Short of the Week",
     "url": "https://www.shortoftheweek.com/feed/",
     "category": "MOTION_FILM"
+  },
+  {
+    "name": "Neural - Critical Digital Culture and Media Art",
+    "url": "https://neural.it/feed/",
+    "category": "TECH_ART"
   }
 ]
