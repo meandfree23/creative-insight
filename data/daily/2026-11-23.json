@@ -1,0 +1,331 @@
+{
+  "date": "2026-11-23",
+  "focusQ": "생성형 AI가 쏟아내는 기계적인 그래픽 속에서 창작자의 감도를 증명하는 기준은 결국 무거운 아날로그 물성과 타협 없는 디테일이다. 영혼 없는 템플릿 마케팅을 거둬내고, 정교한 타이포그래피 구조와 렌즈 기반 서사가 살아있는 레퍼런스만 엄선했다.",
+  "creator_message": "어설픈 트렌드 용어로 포장된 기획서만큼 보기 흉한 것도 없다. 오늘 트렌드 리포트는 눈속임용 AI 비주얼을 비웃듯, 압도적인 타이포그래피 구조와 서사적 렌즈 작업, 마케팅의 냉혹한 본질을 짚어내는 레퍼런스들로 채웠다. 감도를 다듬고 싶다면 당장 텍스트를 정독해라.",
+  "session": {
+    "timestamp": "2026-11-23T00:53:38.865646",
+    "considered": 40,
+    "selected": 10
+  },
+  "topPicks": [
+    {
+      "title": "전통예술 기획자 창작랩 '연습되지 않은 오늘의 리듬'",
+      "content": "국립정동극장 전통예술 기획자 창작랩(TAPL)의 시연회로, 정해진 틀을 탈피한 소리와 무용 움직임을 통해 동시대 한국 전통예술의 동적 해체와 재조합을 실험한 공연 프로젝트.",
+      "url": "https://www.artinsight.co.kr/news/view.php?no=83399",
+      "source": "Art Insight",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "국립정동극장 TAPL",
+      "creator_insight": "전통 음률의 고정된 서사 구조를 거부하고 불완전한 즉흥성을 무대 동선과 결합해 한국적 미학을 해체했다.",
+      "tags": [
+        "한국전통예술",
+        "즉흥공연",
+        "공간시노그래피"
+      ],
+      "execution_techniques": [
+        "#구조적해체주의",
+        "#감성적모듈화"
+      ],
+      "why": "전통 요소의 진부한 재현에서 벗어나 현대적 퍼포먼스 라인으로 재맥락화하는 정교한 시각적 영감을 제공한다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://www.artinsight.co.kr/data/tmp/2611/20261121203423_zwduulat.jpg",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    },
+    {
+      "title": "존슨 뱅크스, 200주년 맞은 RIBA(영국왕립건축가협회) 신규 브랜드 아이덴티티 공개",
+      "content": "200년 역사의 영국왕립건축가협회를 위해 네거티브 스페이스를 극적으로 활용한 강렬한 타이포그래피 마크와 3D 미학 시스템을 구축한 존슨 뱅크스의 리브랜딩 작업.",
+      "url": "https://abduzeedo.com/johnson-banks-unveils-riba-brand-identity/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Johnson Banks (Michael Johnson)",
+      "creator_insight": "글자 사이의 여백을 건축적 조형물처럼 다루며 고전적 기관 브랜딩의 케묵은 형태를 현대적 그래픽 서사로 전환했다.",
+      "tags": [
+        "브랜드아이덴티티",
+        "타이포그래피",
+        "네거티브스페이스"
+      ],
+      "execution_techniques": [
+        "#구조적해체주의",
+        "#네거티브스페이스"
+      ],
+      "why": "건축적 요소를 건축 그래픽 기호 자체로 환원하는 정교한 시각적 시스템의 정석을 보여준다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_1600_3d.jpg",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    },
+    {
+      "title": "펜타그램의 포에트리 파운데이션 리브랜딩 비하인드",
+      "content": "70개의 페가수스 실루엣 모티브와 연대기적 2색 커버 디렉팅으로 시(Poetry)의 조용한 압도감을 수공예적 그래픽으로 정리한 펜타그램의 브랜드 아이덴티티.",
+      "url": "https://abduzeedo.com/inside-pentagrams-brand-identity-poetry-foundation/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Pentagram (Eddie Opara)",
+      "creator_insight": "활자의 중앙 축 배열과 미니멀한 2색 인쇄 체계를 통해 텍스트 고유의 중량감을 아날로그 물성으로 재현했다.",
+      "tags": [
+        "펜타그램",
+        "북디자인",
+        "아날로그브랜딩"
+      ],
+      "execution_techniques": [
+        "#아날로그브랜딩",
+        "#디지털물성회복"
+      ],
+      "why": "그래픽 요소의 과잉 생산 시대에 여백과 한정된 칼라 팔레트만으로 브랜드의 역사성을 증명하는 예시.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_poetry.jpg",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    },
+    {
+      "title": "아티스트 코작의 신곡 'That's Gonna Be Me' 뮤직비디오",
+      "content": "감독 로버트 바스가 연출한 영상으로, 거칠고 실존적인 필름 그레인 테일과 날카로운 프레이밍으로 아티스트의 자학적 서사를 극적으로 연출한 작품.",
+      "url": "https://www.promonews.tv/videos/2026/11/18/kojaque-thats-gonna-be-me-kojaque-robert-bass/97008",
+      "source": "promonews.tv",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Robert Bass",
+      "creator_insight": "인물의 고립감을 화면 구석으로 밀어 넣는 밀폐적 앵글과 35mm 필름 특유의 시각적 질감으로 곡의 분노를 극대화했다.",
+      "tags": [
+        "뮤직비디오",
+        "35mm필름",
+        "시네마틱 연출"
+      ],
+      "execution_techniques": [
+        "#안티-AI미학",
+        "#필름텍스처"
+      ],
+      "why": "디지털 그래픽 합성으로 대체할 수 없는 날것의 시네마틱 카메라워크와 피사체의 밀도를 체감하게 만든다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://admin.promonews.tv/sites/default/files/styles/pickoftheday/public/webform/TGBM_Kojaque_HERO_V5_Prep_For_GRADE.00_02_30_07.Still054.jpeg?itok=whzMSmdy",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    },
+    {
+      "title": "오스카 허드슨 감독의 단편 트레일러 'Straight Circle'",
+      "content": "아날로그 카메라 트릭과 기하학적 공간 연출의 거장 오스카 허드슨이 연출한 신작으로, 착시와 카메라 이동만으로 일상 공간을 기이한 물리 법칙의 공간으로 변형시킨 트레일러.",
+      "url": "https://www.nowness.com/films/straight-circle-trailer-oscar-hudson/",
+      "source": "NOWNESS",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Oscar Hudson",
+      "creator_insight": "CG 컷 없이 오직 실물 세트의 회전과 물리적 렌즈 왜곡 기법만으로 초현실적 서사를 설계했다.",
+      "tags": [
+        "NOWNESS",
+        "오스카허드슨",
+        "아날로그무빙"
+      ],
+      "execution_techniques": [
+        "#디지털물성회복",
+        "#실물세트연출"
+      ],
+      "why": "CG 매너리즘에 빠진 영상 제작자들에게 아날로그 트릭이 주는 직관적 몰입감을 재인지시킨다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://www.nowness.com/media/zdbfgmao/straight-circle-trailer-oscar-hudson.jpg",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    },
+    {
+      "title": "콜로라도 황량한 계곡의 남매 이야기, 단편 다큐멘터리 '게이터빌'",
+      "content": "색이 바낸 계곡 농장에서 악어를 키우며 청춘의 종말을 맞이하는 남매의 쓸쓸한 일상을 조명한 다큐멘터리 연출작.",
+      "url": "https://www.shortoftheweek.com/2026/11/05/gatorville/",
+      "source": "Short of the Week",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Zack Shults",
+      "creator_insight": "거친 자연광과 롱테이크 카메라 앵글을 통해 인물의 체념과 정서를 미학적으로 담아냈다.",
+      "tags": [
+        "다큐멘터리",
+        "단편영화",
+        "내러티브"
+      ],
+      "execution_techniques": [
+        "#노스탤지어재맥락화",
+        "#자연광디렉팅"
+      ],
+      "why": "극적인 연출 없이도 피사체와 공간의 레이어만으로 날카로운 정서적 밀도를 만들어내는 카메라 연출법.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://www.shortoftheweek.com/wp-content/uploads/2026/11/gatorville-doc-06-640x268.jpg",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    },
+    {
+      "title": "앤월시(&Walsh), 인섬니아 쿠키의 감각적 리브랜딩 진행",
+      "content": "밤샘 소비층을 타깃으로 하는 인섬니아 쿠키 브랜드의 비주얼 언어를 팝아트적 폰트와 과감한 쿠키 클로즈업 패키징으로 재구축한 프로젝트.",
+      "url": "https://thedieline.com/walsh-gives-insomnia-cookies-a-fresh-new-look-that-highlights-what-already-makes-the-brand-great-the-cookies/",
+      "source": "The Dieline",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Jessica Walsh (&Walsh)",
+      "creator_insight": "브랜드의 유래를 기교 없이 제품의 질감 자체로 직관화하는 굵직한 시각 언어를 주입했다.",
+      "tags": [
+        "앤월시",
+        "패키지디자인",
+        "푸드브랜딩"
+      ],
+      "execution_techniques": [
+        "#유틸리티미학",
+        "#과감한클로즈업"
+      ],
+      "why": "텍스트 위주의 지루한 커뮤니케이션 대신 시각적 직관성만으로 소비자의 욕망을 자극하는 상업 디자인의 본보기.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/5f6b1521aad9c9ee934dd14e6df73594.webp",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    },
+    {
+      "title": "팝업 스토어의 역설: 일시적 공간이 브랜드 잔상 가치를 남기는 방식",
+      "content": "양산형 팝업스토어의 피로감 속에서 영구적인 브랜드 가치를 형성하는 한정적 공간 브랜딩의 구조를 분석한 에세이.",
+      "url": "https://designspotter.com/the-pop-up-paradox/",
+      "source": "Designspotter",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Designspotter Editorial",
+      "creator_insight": "단순한 포토존 나열을 넘어 브랜드를 물질적 스케일로 경험하게 만드는 일시적 공간 전략을 정밀 진단한다.",
+      "tags": [
+        "팝업스토어",
+        "공간브랜딩",
+        "브랜드전략"
+      ],
+      "execution_techniques": [
+        "#감성적모듈화",
+        "#공간시노그래피"
+      ],
+      "why": "인스타그램용 무분별한 팝업 마케팅에 지친 디렉터들에게 공간 콘텐츠의 진정한 밀도를 재고하게 만든다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://designspotter.com/wp-content/uploads/2026/10/popuppost-1024x683.png",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    },
+    {
+      "title": "KFC 인도의 위트 있는 소스 캠페인 'Drip Happens'",
+      "content": "정갈함을 강요하는 맞선 문화와 소스가 옷에 튀는 솔직한 순간을 대비시켜 자학적 유머를 자극하는 KFC의 유머러스한 광고 캠페인.",
+      "url": "https://www.brandinginasia.com/drip-happens-kfc-india-puts-a-saucy-twist-on-a-matchmaking-tale/",
+      "source": "Branding in Asia",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Ogilvy India",
+      "creator_insight": "브랜드 제품의 불편함(소스 흘림)을 결점이 아닌 유쾌한 정체성으로 전환하는 역발상 서사 기법.",
+      "tags": [
+        "KFC",
+        "자학적마케팅",
+        "유머광고"
+      ],
+      "execution_techniques": [
+        "#자학적진정성마케팅",
+        "#리얼리티크리에이티브"
+      ],
+      "why": "결점을 완벽하게 덮으려는 가식적인 광고 판도에서 통쾌한 솔직함으로 소비자의 공감을 끌어내는 마케팅 인사이트.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2026/11/KFC-India-Campaign.webp",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    },
+    {
+      "title": "취향의 상품화: AI 툴이 규격화하는 디자이너 상상력의 한계",
+      "content": "프롬프트 기반 템플릿 툴이 창작자의 독창적 취향을 일률적인 규격품으로 전락시키는 현상을 거세게 비판하는 디자인 컬럼.",
+      "url": "https://medium.muz.li/the-productisation-of-taste-b0427979e48b?source=rss----5969bf7021a3---4",
+      "source": "Muzli (Medium)",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Muzli Editorial",
+      "creator_insight": "도구의 편의성에 의존하는 순간 창작자의 감도 역시 알고리즘의 평균값으로 하락한다는 사실을 직설적으로 경고한다.",
+      "tags": [
+        "디자인비평",
+        "AI미학",
+        "크리에이티브감도"
+      ],
+      "execution_techniques": [
+        "#안티-AI미학",
+        "#디지털물성회복"
+      ],
+      "why": "AI 툴 도입에 열광하는 크리에이티브 업계에 창작자의 독보적인 비주얼 안목과 주체성을 점검하게 만든다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://cdn-images-1.medium.com/max/1024/1*EporLNbpvp2zplrCIp53iA.jpeg",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "아디다스의 톤온톤 아이스 블루 '마이애미' 삼바",
+      "content": "GTA VI 분위기를 조준한 듯한 쿨톤 컬러웨이의 삼바 스니커즈 실물 디테일.",
+      "url": "https://www.highsnobiety.com/p/adidas-samba-miami/",
+      "source": "Highsnobiety",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "아디다스",
+        "GTAVI",
+        "스니커즈"
+      ],
+      "why": "팝컬처와 신제품 라이벌리를 엮어내는 전형적인 하이프스노비티 스타일의 시각적 떡밥.",
+      "depth": 0.5,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1795364350-adidas-samba-miami-0.jpg",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    },
+    {
+      "title": "GTA 6의 NPC가 주연급 렌더링 퀄리티를 갖춘 이유",
+      "content": "록스타 게임즈가 1,000개 이상의 애니메이션 세트와 모발/직물 기술을 쏟아부어 완성한 길거리 NPC들의 디테일.",
+      "url": "https://www.creativebloq.com/news/gta-6s-npcs-are-built-to-the-same-visual-standard-as-jason-and-lucia",
+      "source": "Creative Bloq",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "GTA6",
+        "3D디테일",
+        "게임디렉팅"
+      ],
+      "why": "엑스트라 레이어까지 주인공 급으로 완성하는 록스타 특유의 미친 디테일 집착이 주는 창작 자극.",
+      "depth": 0.5,
+      "image": "https://cdn.mos.cms.futurecdn.net/nbxwq38jJRoQ77KrmMpPPQ-1920-80.jpg",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    },
+    {
+      "title": "나인 인치 네일스, 20년간 수집한 2000개 라이브 음원 무료 스트리밍 공개",
+      "content": "1988년부터 축적된 1,200회의 콘서트 실황을 포함한 거대한 라이브 오디오 아카이브 프로젝트.",
+      "url": "https://cdm.link/nin-live-streaming/",
+      "source": "CDM (Create Digital Motion & Music)",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "나인인치네일스",
+        "아카이빙",
+        "음악미학"
+      ],
+      "why": "서브컬처 팬덤을 묶어두는 밴드의 압도적인 아카이브 무기.",
+      "depth": 0.5,
+      "image": "https://cdm.link/app/uploads/2026/11/nin-peel-it-back-1.jpeg",
+      "pub_date": "2026-11-23T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 브랜딩",
+      "is_hot": false
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": false
+    },
+    {
+      "word": "자학적 진정성 마케팅",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": true
+    }
+  ]
+}
