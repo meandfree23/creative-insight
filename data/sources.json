@@ -543,7 +543,8 @@
   {
     "name": "Sidebar.io",
     "url": "https://sidebar.io/feed.xml",
-    "category": "DESIGN"
+    "category": "DESIGN",
+    "fail_count": 1
   },
   {
     "name": "A List Apart",
