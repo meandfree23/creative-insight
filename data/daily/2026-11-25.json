@@ -1,0 +1,320 @@
+{
+  "date": "2026-11-25",
+  "focusQ": "기술 스펙만으로 브랜드를 설명하려는 안일함이 시장에서 어떻게 처참하게 외면받는지 입증되는 시대다. 매끄러운 3D CGI 대신 둔탁한 아날로그 텍스처를 선택하고, 거대 도시의 지저분한 유산을 브랜딩의 전면에 내세우는 집요함만이 시각적 설득력을 획득한다.",
+  "creator_message": "자극적인 툴과 미끈한 AI 프롬프트 뒤에 숨는 크리에이터들에게 경종을 울린다. 진짜 기획은 매끈함을 걷어내고 질감의 노이즈를 벼리며, 소비자의 왜곡된 브랜드 심리를 집요하게 해부하는 손끝에서 나온다.",
+  "session": {
+    "timestamp": "2026-11-25T03:34:24.402207",
+    "considered": 40,
+    "selected": "11"
+  },
+  "topPicks": [
+    {
+      "title": "전기차 트렌드 리포트 2026: 브랜드 계급장이 스펙을 압도하는 마케팅 실태",
+      "content": "오픈서베이의 2026 전기차 리포트에 따르면, 블라인드 상태에서 스펙과 가성비로 BYD를 선택했던 고관여 소비자들이 브랜드명을 공개하는 순간 테슬라와 아이오닉으로 대거 이탈한다. 스펙이 아닌 브랜드 지각 가치가 구매를 결정짓는 구체적 데이터다.",
+      "url": "https://blog.opensurvey.co.kr/trendreport/electric-vehicle-2026/",
+      "source": "오픈서베이 블로그",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "오픈서베이 리서치 팀",
+      "creator_insight": "제품의 객관적 성능보다 브랜드가 전달하는 상징성이 소비자 선택을 어떻게 왜곡하는지 명확한 수치로 제시한다.",
+      "tags": [
+        "브랜드전략",
+        "소비자심리",
+        "전기차"
+      ],
+      "execution_techniques": [
+        "자학적 진정성 마케팅",
+        "브랜드 지각 왜곡"
+      ],
+      "why": "기술 부품의 우수성을 열거하는 기획이 얼마나 무의미한지 깨달아야 한다. 마케터가 구축해야 할 것은 스펙표가 아니라 브랜딩의 후광 효과다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://blog.opensurvey.co.kr/wp-content/uploads/2026/11/26_thumbnail_trendreport_23.png",
+      "pub_date": "2026-11-25T08:00:00.000000"
+    },
+    {
+      "title": "베르디 X 메르세데스-벤츠 코리아 'VICK x G-클래스': 스트리트 아트를 얹은 럭셔리 모빌리티의 변주",
+      "content": "스트리트 아티스트 베르디(Verdy)와 메르세데스-벤츠 코리아가 협력하여 'VICK x G-클래스' 캡슐 컬렉션의 마지막 장을 공개했다. 캐릭터 VICK의 위트 있는 그래픽과 G-클래스의 하드코어한 유틸리티 미학이 결합된 라인업이다.",
+      "url": "https://hypebeast.kr/2026/11/verdy-mercedes-benz-japan-third-vick-x-g-class-collaboration-release-info",
+      "source": "Hypebeast Korea",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Verdy",
+      "creator_insight": "럭셔리 모빌리티의 중후함을 서브컬처 아이콘으로 균열을 내며 브랜드에 새로운 생명력을 주입한다.",
+      "tags": [
+        "스트리트아트",
+        "브랜드콜라보",
+        "모빌리티"
+      ],
+      "execution_techniques": [
+        "아날로그 브랜딩",
+        "노스탤지어 재맥락화"
+      ],
+      "why": "전통적 럭셔리 브랜드가 서브컬처 예술가를 만나 브랜드 계급장을 내려놓고 젊은 층과 접점을 만드는 유연한 마케팅 사례다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2026%2F11%2Fverdy-x-mercedes-benz-japan-third-vick-g-class-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+      "pub_date": "2026-11-25T08:00:00.000000"
+    },
+    {
+      "title": "Chewy의 홀리데이 스톱모션 애니메이션: 매끈한 3D CGI에 던지는 안티-AI 미학의 반격",
+      "content": "반려동물 브랜드 Chewy가 이번 홀리데이 캠페인에서 정교하게 제작된 스톱모션 애니메이션 연출을 선보였다. 손으로 직접 만지고 만든 아날로그 질감이 인공적인 디지털 영상 사이에서 압도적인 실감과 온기를 전달한다.",
+      "url": "https://www.marketingdive.com/news/chewy-jumps-on-stop-motion-animation-trend-lighting-up-holiday-ads/875412/",
+      "source": "Marketing Dive",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Chewy In-House Creative Team",
+      "creator_insight": "범람하는 AI 합성 영상 속에서 아날로그 수공예 텍스처를 선택해 소비자에게 잊혔던 감각적 울림을 전달한다.",
+      "tags": [
+        "스톱모션",
+        "홀리데이캠페인",
+        "브랜드필름"
+      ],
+      "execution_techniques": [
+        "안티-AI 미학",
+        "디지털 물성 회복"
+      ],
+      "why": "AI가 영상을 1초 만에 생성하는 시대에, 역설적으로 사람 손맛이 살아있는 프레임 단위의 노가다가 브랜드의 진정성을 입증한다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://imgproxy.divecdn.com/jxtk6KKm13TQvlN758vMv8Ror5prkNTJk-h6zkF41bE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8weW52VFdmai5qcGVn.webp",
+      "pub_date": "2026-11-25T08:00:00.000000"
+    },
+    {
+      "title": "더 타워 & 더 위치: Ripplet 스튜디오가 빚어낸 몽환적 CG 트레일러",
+      "content": "조지아 트빌리시의 Ripplet 스튜디오 디렉터 레나르 싱가툴로프가 자체 기획한 판타지 게임 스펙 트레일러를 공개했다. 어두운 세계관과 압도적인 조명 콘트라스트가 돋보이는 모션 디렉팅의 정수다.",
+      "url": "https://www.stashmedia.tv/the-tower-the-witch-new-spec-game-trailer-by-ripplet/",
+      "source": "Stash Media",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Lenar Singatullov",
+      "creator_insight": "화려한 효과에 의존하지 않고 시네마틱 라이팅과 정교한 카메라 워킹만으로 밀폐된 세계관의 압박감을 완벽하게 묘사한다.",
+      "tags": [
+        "CG트레일러",
+        "시네마틱 연출",
+        "월드빌딩"
+      ],
+      "execution_techniques": [
+        "구조적 해체주의",
+        "다층적 물성 재구성"
+      ],
+      "why": "독자적인 비주얼 트레일러 하나로 어떻게 거대한 게임 세계관의 톤앤매너를 시각화하는지 보여주는 우수한 시네마틱 벤치마크다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/Tower-Spec-game-trailer-by-Ripplet-Studio-_-STASH-MAGAZINE9-1498x1080.jpg",
+      "pub_date": "2026-11-25T08:00:00.000000"
+    },
+    {
+      "title": "영웅과의 인터뷰: 캄보디아 세대적 상흔을 담아낸 셀레스테 디에프의 다큐-픽션",
+      "content": "감독 셀레스테 디에프(Celeste Diep)가 캄보디아 크메르 루주 시절의 세대적 비극을 다룬 단편영화 연출을 선보였다. 사실적 인터뷰 형식과 시네마틱 프레이밍을 결합해 역사의 유령을 정면으로 직시한다.",
+      "url": "https://directorsnotes.com/2026/11/23/cceleste-diep-interview-with-a-hero/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Celeste Diep",
+      "creator_insight": "개인의 절제된 증언을 화면 중앙에 고정하고 여백의 미학을 활용해 트라우마의 무게감을 시각화한다.",
+      "tags": [
+        "독립단편",
+        "시네마틱프레이밍",
+        "다큐픽션"
+      ],
+      "execution_techniques": [
+        "자학적 진정성 마케팅",
+        "정서적 구도 연출"
+      ],
+      "why": "감정적 억즙이나 억지 과장을 배제하고 정갈한 카메라 앵글만으로 서사의 비극성을 극대화하는 연출력을 배울 수 있다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/11/interview_with_a_hero_08.jpg",
+      "pub_date": "2026-11-25T08:00:00.000000"
+    },
+    {
+      "title": "2027 그래미 어워드 베스트 뮤직비디오 후보 발표: 글로벌 영상 연출의 미학적 좌표",
+      "content": "2027년 그래미 어워드 '베스트 뮤직비디오' 부문 후보작들이 공개되었다. 최신 시각 효과 기술부터 지극히 사적인 아날로그 텍스처 필름까지, 올 한 해 전 세계 뮤직비디오 씬을 뒤흔든 최정상 디렉팅 작품들을 조명한다.",
+      "url": "https://www.promonews.tv/news/2026/11/24/best-music-video-nominations-2027-grammy-awards-announced/97041",
+      "source": "promonews.tv",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Grammy Music Video Nominees",
+      "creator_insight": "글로벌 비주얼 트렌드의 최전선에 서 있는 감독들의 컷 편집 기술과 색보정 미학을 종합적으로 검증한다.",
+      "tags": [
+        "뮤직비디오",
+        "영상 연출",
+        "그래미"
+      ],
+      "execution_techniques": [
+        "안티-AI 미학",
+        "디지털 물성 회복"
+      ],
+      "why": "현재 상업 비디오 연출 씬에서 가장 높은 평가를 받는 시각 언어가 무엇인지 한눈에 파악할 수 있는 필수 아카이브다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://admin.promonews.tv/sites/default/files/styles/bmvd_content_page/public/Screenshot%202026-11-19%20at%2017.02.00.png?itok=IgIAVsoK",
+      "pub_date": "2026-11-25T08:00:00.000000"
+    },
+    {
+      "title": "런던 뮤지엄의 4억 3,700만 파운드 리브랜딩: 도시의 얼룩과 비둘기를 품은 역발상 브랜드 전략",
+      "content": "구 런던 박물관이 4억 3,700만 파운드를 들여 런던 뮤지엄으로 재개관하며 파격적인 브랜딩을 공개했다. 고결한 예술품 대신 도시의 비둘기와 하수도 찌꺼기(Fatberg) 같은 역겨우면서도 지극히 런던다운 요소를 미학적 상징으로 승화시켰다.",
+      "url": "https://www.theartnewspaper.com/2026/11/24/fatbergs-pigeons-and-pankhurst-rebranded-london-museum-opens-new-£437m-home",
+      "source": "The Art Newspaper",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "London Museum Rebrand Team",
+      "creator_insight": "아름다운 겉치레를 버리고 도시의 날것 그대로의 미학을 아이덴티티로 채택하는 자학적 진정성을 보여준다.",
+      "tags": [
+        "브랜드아이덴티티",
+        "뮤지엄브랜딩",
+        "역발상마케팅"
+      ],
+      "execution_techniques": [
+        "구조적 해체주의",
+        "자학적 진정성 마케팅"
+      ],
+      "why": "모두가 예쁘고 정갈한 브랜딩만 쫓을 때, 브랜드가 속한 진짜 현실의 노이즈를 미학으로 전환하는 대담한 기획 프레임이다.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/ad4aed5b86644e23c72541ae29638a52702c81ab-8968x5515.jpg?w=140",
+      "pub_date": "2026-11-25T08:00:00.000000"
+    },
+    {
+      "title": "크리에이터 이코노미 1,160억 달러 시대: 미디어 자본이 선택한 새로운 마케팅 엔진",
+      "content": "2026년 브랜드들의 크리에이터 마케팅 집행비가 폭발적으로 증가하며 크리에이터 이코노미 규모가 1,160억 달러에 도달했다. 전체 마케팅 예산 중 미디어 연계 집행이 44%를 차지하며 단순 챌린지를 넘어선 전략적 매체화가 진행 중이다.",
+      "url": "https://www.campaignlive.com/article/creator-economy-hit-116b-brands-hike-spending-report/1975791",
+      "source": "Campaign Live",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Campaign Live Analysis Team",
+      "creator_insight": "개인 크리에이터가 단순 홍보 채널을 넘어 하나의 독립된 대안 미디어 네트워크로 작용하는 자본 흐름을 분석한다.",
+      "tags": [
+        "크리에이터이코노미",
+        "마케팅트렌드",
+        "미디어집행"
+      ],
+      "execution_techniques": [
+        "유틸리티 미학",
+        "감성적 모듈화"
+      ],
+      "why": "예산 집행의 우열이 TV/디지털 매체에서 개별 크리에이터 단위로 이동했음을 파악하고 브랜드 캠페인의 전달 체계를 재설계해야 한다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.campaignlive.com/img/logo-default-og.png",
+      "pub_date": "2026-11-25T08:00:00.000000"
+    },
+    {
+      "title": "GraphicDesign.zip: 스위스 우표 100년사로 보는 미니멀 그래픽 미학",
+      "content": "스위스의 100년 우표 디자인 역사를 탐구한 'GraphicDesign.zip' 출간 소식이다. 몇 섭티미터에 불과한 극소 평면 위에서 스위스 디자이너들이 어떻게 자국 타이포그래피와 레이아웃 그리드의 정수를 구현했는지 체계적으로 보여준다.",
+      "url": "https://www.slanted.de/graphicdesign-zip/",
+      "source": "Slanted",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Slanted Publishers",
+      "creator_insight": "한정된 사각형 스케일 내에서 극도의 절제미와 시각적 질서를 구현하는 스위스 디자인 방법론의 정수를 짚어낸다.",
+      "tags": [
+        "그래픽디자인",
+        "타이포그래피",
+        "스위스디자인"
+      ],
+      "execution_techniques": [
+        "유틸리티 미학",
+        "구조적 해체주의"
+      ],
+      "why": "모바일 화면이라는 극소형 뷰포트에 갇힌 현대 UI/UX 및 카드뉴스 디자이너들에게 밀도 높은 평면 그리드 구조의 뼈대를 제공한다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://www.slanted.de/wp-content/uploads/2026/11/Slanted_GraphicDesignZip-01-1024x683.jpg",
+      "pub_date": "2026-11-25T08:00:00.000000"
+    },
+    {
+      "title": "PAÑPURI 상하이 부티크: 복잡한 쇼핑몰 한가운데 구축한 감각적 휴식의 공간 시노그래피",
+      "content": "디자인 스튜디오 ADS가 상하이 쇼핑몰 내에 연출한 PAÑPURI 플래그십 스페이스다. 번잡한 상업 시설과 대비되는 절제된 자재 연출과 은은한 조명을 통해 브랜드의 감각적 정체성을 공간적으로 구현했다.",
+      "url": "https://retaildesignblog.net/2026/11/19/panpuri-first-boutique-in-shanghai/",
+      "source": "Retail Design Blog",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "ADS Studio",
+      "creator_insight": "상업적 공간 안에서 매장 자체가 소비자의 감각을 진정시키는 명상적 안식처가 되도록 재료의 물성을 제어한다.",
+      "tags": [
+        "리테일디자인",
+        "공간시노그래피",
+        "브랜드스페이스"
+      ],
+      "execution_techniques": [
+        "감성적 모듈화",
+        "다층적 물성 재구성"
+      ],
+      "why": "제품을 단순 진열하는 뻔한 매장이 아니라 브랜드 경험을 통각적으로 전달하는 공간 큐레이션의 좋은 예시다.",
+      "social_proof": "",
+      "depth": 0.87,
+      "image": "https://retaildesignblog.net/wp-content/uploads/2026/11/DSC0160-720x613.jpg",
+      "pub_date": "2026-11-25T08:00:00.000000"
+    },
+    {
+      "title": "공간적 개입으로서의 타이포그래피: 도시 표면을 재해석하는 파울라 미넬가이테의 시각적 실험",
+      "content": "파울라 미넬가이테(Paula Minelgaitė)가 기획한 프로젝트 'HOCA3'는 타이포그래피가 도시 디자인 및 건축 공간과 어떻게 상호작용하는지 분석한다. 단순 정보를 전달하는 글자를 넘어 스케일감을 통해 도시 환경에 물리적으로 개입한다.",
+      "url": "https://www.slanted.de/typography-as-spacial-intervention/",
+      "source": "Slanted",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Paula Minelgaitė",
+      "creator_insight": "2차원 폰트를 도시 구조물이라는 3차원 입체 표면과 결합해 거대한 시각적 설치 미술로 재정의한다.",
+      "tags": [
+        "타이포그래피",
+        "공간디자인",
+        "도시인터벤션"
+      ],
+      "execution_techniques": [
+        "구조적 해체주의",
+        "디지털 물성 회복"
+      ],
+      "why": "타이포그래피를 단순히 종이나 화면 위의 글자로만 제한하던 고정관념을 깨부수고 공간 브랜딩 요소로 확장하는 시각을 제공한다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://www.slanted.de/wp-content/uploads/2026/09/2026-09-13_6aa6c09a4de9a_HOCA3_Slanted_1.jpg",
+      "pub_date": "2026-11-25T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "정상적 대화를 금지당한 AI, B급 인터넷 밈 마스터로 각성하다: Gadsby-4B 실험",
+      "content": "일반적인 언어 생성을 금지하는 엄격한 제약 조건을 부여하자, 자발적으로 B급 시트포스팅과 밈을 생성하며 통제를 우회하는 경이로운 AI 모델 Gadsby-4B의 실험 과정이다.",
+      "url": "https://pub.towardsai.net/gadsby-4b-the-model-that-was-banned-from-talking-normal-so-it-learned-to-shitpost-instead-03cbb12312a3?source=rss------creative_coding-5",
+      "source": "Medium Creative Coding Tag",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "AI실험",
+        "B급밈"
+      ],
+      "why": "규제가 통제 불능의 밈 문화를 낳는 역설적 현상을 통해, 디지털 하청 콘텐츠가 가진 바이럴 본능의 이면을 엿볼 수 있다.",
+      "depth": 0.5,
+      "image": "https://cdn-images-1.medium.com/max/732/1*FG2drkKqooIf16lcK-zIZw.png",
+      "pub_date": "2026-11-25T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "아날로그 브랜딩",
+      "is_hot": false
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": true
+    },
+    {
+      "word": "자학적 진정성 마케팅",
+      "is_hot": false
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    }
+  ]
+}
