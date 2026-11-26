@@ -243,7 +243,7 @@
   {
     "url": "http://smadani.com/feed",
     "category": "DESIGN",
-    "fail_count": 1,
+    "fail_count": 0,
     "name": "Shaz Madani Studio"
   },
   {
@@ -344,13 +344,13 @@
     "name": "IDEA Magazine",
     "url": "https://idea-mag.com/feed/",
     "category": "DESIGN",
-    "fail_count": 1
+    "fail_count": 0
   },
   {
     "name": "Street Art Barcelona",
     "url": "https://streetartbcn.com/feed",
     "category": "ART",
-    "fail_count": 1
+    "fail_count": 0
   },
   {
     "name": "Base Elements Blog",
@@ -378,7 +378,7 @@
     "name": "Berlin Art Link",
     "url": "https://www.berlinartlink.com/feed/",
     "category": "ART",
-    "fail_count": 1
+    "fail_count": 0
   },
   {
     "name": "Art Aurea",

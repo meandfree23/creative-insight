@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-26",
+  "focusQ": "크리에이티브 현장은 여전히 어설픈 AI 생성을 흉내 내다 굴욕을 겪는 브랜드와, 철저하게 다듬어진 기하학적 아날로그 미학으로 도피하는 정교한 디렉션으로 극명하게 갈리고 있다. 인공지능이 채우지 못하는 맥락적 질감과 물성을 어떻게 시각언어로 정밀 타격할 것인가가 브랜드의 생존을 결정짓는다.",
+  "creator_message": "AI가 그려낸 가짜 축구장에 팬들이 분노하고, 금융 브랜드는 우주적 정적감을 담은 모션 그래픽으로 차별화를 꾀한다. 빈껍데기 같은 기술 과장에 낚이지 마라. 오늘 큐레이션은 날카로운 조형미와 안티-AI적 진정성으로 시장의 미학적 기준점을 다시 세우는 레퍼런스들이다.",
+  "session": {
+    "timestamp": "2026-11-26T02:52:57.160246",
+    "considered": 40,
+    "selected": 7
+  },
+  "topPicks": [
+    {
+      "title": "ManvsMachine이 완성한 로빈후드 'Hood Summit ’26' 오프닝 타이틀 시퀀스",
+      "content": "디자인 스튜디오 ManvsMachine이 모바일 투자 플랫폼 로빈후드의 플래그십 이벤트 'Hood Summit ’26'을 위해 제작한 타이틀 시퀀스다. 절제된 럭셔리와 우주적 선(Zen) 미학을 조합하여 핀테크 이벤트의 시각적 격조를 한 차원 올려놓았다.",
+      "url": "https://www.stashmedia.tv/manvsmachine-opens-hood-summit-26-for-robinhood/",
+      "source": "Stash Media",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "ManvsMachine",
+      "creator_insight": "ManvsMachine은 흔해빠진 핀테크의 그래프 모티프를 완전히 배제하고, 아카이벌한 질감과 하이엔드 3D 렌더링을 조합해 로빈후드 브랜딩에 극도의 정제된 구조적 해체주의를 부여했다.",
+      "tags": [
+        "모션디자인",
+        "타이틀시퀀스",
+        "구조적 해체주의"
+      ],
+      "execution_techniques": [
+        "#SpaceZenMotion",
+        "#Minimal3DRendering"
+      ],
+      "why": "금융 이벤트 영상이 도달할 수 있는 가장 세련된 조형적 연출. 텍스처와 빛의 제어만으로 브랜드의 세련미를 증명하는 정석적인 연출법이다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "http://www.stashmedia.tv/wp-content/uploads/Robinhood-Hood-Summit-26-Title-Sequence-by-ManvsMachine-STASH-MAGAZINE1-1920x597.jpg",
+      "pub_date": "2026-11-26T08:00:00.000000"
+    },
+    {
+      "title": "Base Design이 전면 재구축한 비자(Visa)의 글로벌 브랜드 아이덴티티",
+      "content": "Base Design이 비자의 상징적인 심볼과 타이포그래피를 현대적인 시각 환경에 맞춰 대대적으로 리프레시했다. 결제 네트워크라는 범용적 이미지를 넘어 유동적이고 과감한 시각적 시스템을 구축했다.",
+      "url": "https://www.itsnicethat.com/articles/base-design-visa-brand-refresh-graphic-design-project-241126",
+      "source": "It's Nice That",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Base Design",
+      "creator_insight": "수십억 명이 매일 접하는 시각 요소에서 촌스러운 보수성을 덜어내고, 디지털 스크린 환경에서 강력한 시각적 인지도를 발휘할 수 있도록 가독성과 서체를 정밀하게 다듬었다.",
+      "tags": [
+        "브랜드아이덴티티",
+        "타이포그래피",
+        "그래픽디자인"
+      ],
+      "execution_techniques": [
+        "#GlobalBrandSystem",
+        "#CustomTypeface"
+      ],
+      "why": "거대 기업의 재단 작업이 보여줄 수 있는 가장 칼 같은 브랜딩. 익숙함과 신선함 사이의 균형을 유지하는 심볼 다듬기의 정수를 보여준다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://admin.itsnicethat.com/images/6co_fKSSA3vykTRuQY3kHweqwu8=/285223/width-1440/16_PRESS_Visa.jpg",
+      "pub_date": "2026-11-26T08:00:00.000000"
+    },
+    {
+      "title": "AI 이미지 한 장으로 팬들의 십자포화를 맞은 크리스탈 팰리스 FC의 미학적 참사",
+      "content": "영국 프레미어리그 구단 크리스탈 팰리스가 공식 SNS에 어설픈 AI 생성 경기장 이미지를 올렸다가 팬들로부터 강한 비판을 받았다. 자체 소장 사진도 없냐는 팬들의 비난 속에 안티-AI 미학 정서가 또다시 입증되었다.",
+      "url": "https://www.creativebloq.com/news/crystal-palace-tried-to-get-away-with-posting-ai-and-fans-tore-it-to-shreds",
+      "source": "Creative Bloq",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Crystal Palace FC Marketing Team",
+      "creator_insight": "비용 절감을 위해 AI를 남용하다 브랜드 진정성을 손상시킨 대표적 잔혹사. 날것의 서포터 문화가 지배하는 스포츠 브랜딩에서 가짜 생성 미학은 끔찍한 오답이다.",
+      "tags": [
+        "안티-AI 미학",
+        "브랜드리스크",
+        "스포츠마케팅"
+      ],
+      "execution_techniques": [
+        "#AntiAIBacklash",
+        "#BrandAuthenticity"
+      ],
+      "why": "AI 트렌드에 눈이 멀어 브랜드가 지닌 아날로그적 진정성을 팽개쳤을 때 소비자 반응이 얼마나 차가운지 보여주는 명확한 경고창.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://cdn.mos.cms.futurecdn.net/8cSPmHfTFcv3YPqpYYYxJW-1920-80.jpg",
+      "pub_date": "2026-11-26T08:00:00.000000"
+    },
+    {
+      "title": "BLOND가 선보인 모듈형 하드웨어 디자인 'Edge Node 01 V2'",
+      "content": "디자인 스튜디오 BLOND가 탈중앙화 클라우드 하드웨어를 위해 설계한 'Edge Node 01 V2' 디자인을 공개했다. 반투명 호박색 케이싱과 자석으로 고정되는 스왑 패널을 결합해 하드웨어 고유의 물성적 가치를 극대화했다.",
+      "url": "https://abduzeedo.com/edge-node-01-v2-modular-cloud-industrial-design-blond",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "BLOND Studio",
+      "creator_insight": "차가운 서버 장비를 거실 장식장 위에 놓아도 손색없는 오브제로 재구성했다. 호박색 투명 소재와 자석 구조는 산업 디자인이 보여줄 수 있는 정교한 감성적 모듈화의 예시다.",
+      "tags": [
+        "감성적 모듈화",
+        "유틸리티 미학",
+        "디지털 물성 회복"
+      ],
+      "execution_techniques": [
+        "#TranslucentAmberShell",
+        "#MagneticModularDesign"
+      ],
+      "why": "소프트웨어와 클라우드가 지배하는 시대에 제품의 단단한 실체감을 시각화하는 기술적이고 감각적인 접근법.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_edge-node-01-v2-industrial-design-engineering-blond.jpg",
+      "pub_date": "2026-11-26T08:00:00.000000"
+    },
+    {
+      "title": "화산재 속 유령을 탐도하는 다큐멘터리 'Ramón Who Speaks to Ghosts'",
+      "content": "화산 폭발 이후 라팔마 섬을 배경으로 마이크 하나를 들고 유령의 소리를 찾아 헤매는 인물 라몽의 이야기를 다룬 단편 다큐멘터리다. 몽환적인 음향 디자인과 거친 질감의 필름 프레이밍이 돋보인다.",
+      "url": "https://vimeo.com/channels/staffpicks/1249436870",
+      "source": "Vimeo",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Vimeo Staff Pick Selection Director",
+      "creator_insight": "재난 이후의 상흔을 감성적 신파가 아닌, 사운드스케이프와 절제된 앵글로 담아내어 시각적 조용함 속에 숨겨진 묵직한 서사적 아우라를 완성했다.",
+      "tags": [
+        "단편영화",
+        "사운드디자인",
+        "시네마틱프레이밍"
+      ],
+      "execution_techniques": [
+        "#SoundscapeNarrative",
+        "#AtmosphericCinematography"
+      ],
+      "why": "화려한 VFX 없이 카메라 시선과 소리 구조화만으로 청중의 몰입을 끌어내는 미니멀 영상 연출의 훌륭한 레퍼런스.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://i.vimeocdn.com/video/2230203672-55ae7cae93faf407f4014ba0bcd31160534b1beff96b7f8417d25218c3c61266-d_960?region=us",
+      "pub_date": "2026-11-26T08:00:00.000000"
+    },
+    {
+      "title": "2027 서울도시건축비엔날레, 카를로 라티와 AI의 공동 총감독 체제 발표",
+      "content": "이탈리아의 건축가이자 디자이너인 카를로 라티가 2027 서울도시건축비엔날레 총감독으로 위촉되었다. 이번 비엔날레는 인공지능과의 협업 프레임워크를 바탕으로 서울이라는 도시의 공간 재구성을 다룰 예정이다.",
+      "url": "https://www.artribune.com/progettazione/architettura/2026/11/carlo-ratti-direttore-seoul-biennale-2027/",
+      "source": "Artribune",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Carlo Ratti",
+      "creator_insight": "서울의 도시 맥락에 인공지능을 실험적 큐레이터로 끌어들이는 대담함. 데이터에 기반한 도시 스케노그라피가 어디까지 디렉팅될 수 있는지 보여줄 실험적 기획이다.",
+      "tags": [
+        "서울도시건축비엔날레",
+        "도시스케노그라피",
+        "컬처럴트렌드"
+      ],
+      "execution_techniques": [
+        "#AICuratorIntegration",
+        "#UrbanScenography"
+      ],
+      "why": "서울을 무대로 기술과 공간 기획이 결합하는 방식을 가장 고차원적으로 관찰할 수 있는 거대 문화적 이벤트 선점하기.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://www.artribune.com/wp-content/uploads/2026/11/2026-11-carlo-ratti-appointed-by-mayor-oh-se-hoon-as-general-director-of-the-6th-seoul-biennale-of-architecture-and-urbanism.jpeg",
+      "pub_date": "2026-11-26T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "상장 서류에 '재앙적 사고' 단어를 247번 적어 넣은 앤트로픽의 자학적 고백",
+      "content": "AI 스타트업 앤트로픽이 IPO 증권신고서에 '부정적 사건(adverse events)'이나 치명적 위험 가능성을 무려 247회나 언급하며 과도하게 솔직한 솔직함을 보여주었다.",
+      "url": "https://designobserver.com/anthropics-ipo-filing-confesses-the-potential-for-catastrophic-mishaps/",
+      "source": "Design Observer",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "자학적 진정성 마케팅",
+        "AI이슈"
+      ],
+      "why": "투자자 유치를 위한 문서에서 역설적으로 대참사의 가능성을 연발하는 기업의 황당하면서도 도발적인 투명성 전략.",
+      "depth": 0.5,
+      "image": "https://designobserver.com/wp-content/uploads/2026/10/c863eff6-ae7d-4222-9e63-b2320a0893bb_1456x1456-1024x1024.webp",
+      "pub_date": "2026-11-26T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "유틸리티 미학",
+      "is_hot": false
+    },
+    {
+      "word": "자학적 진정성 마케팅",
+      "is_hot": true
+    }
+  ]
+}
