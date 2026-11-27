@@ -1,0 +1,292 @@
+{
+  "date": "2026-11-27",
+  "focusQ": "AI가 쏟아내는 매끄러운 껍데기에 대한 피로감이 아날로그 물성과 직관적 구조로의 회귀를 가속화한다. 기술적 편의성보다 날것의 서사와 시각적 타격감을 선구하는 감각만이 상업 무대에서 생존한다. 불필요한 미사여구를 걷어내고 기획의 뼈대와 미학적 본질에 집중할 때다.",
+  "creator_message": "뻔한 기술 낭만주의와 공허한 자동화 붐에 속지 마라. 시장이 진짜 갈구하는 것은 매끄러운 알고리즘이 아니라 압도적인 시각적 타격감과 명확한 전략적 뼈대다. 이번 큐레이션은 정교하게 세공된 아날로그 브랜딩부터 파격적인 시네마틱 연출까지, 껍데기를 걷어내고 실질적 연출력을 증명한 레퍼런스들만 골라냈다.",
+  "session": {
+    "timestamp": "2026-11-27T02:52:44.639366",
+    "considered": 40,
+    "selected": 11
+  },
+  "topPicks": [
+    {
+      "title": "아프가니스탄의 우주 잔혹사: 엘함 에흐사스 감독의 단편 '잊혀진 우주비행사'",
+      "content": "BIFA 후보에 오른 엘함 에흐사스 감독의 단편 영화 'Forgotten Spaceman'은 아프가니스탄 최초의 우주비행사 아브둘 아하드 모흐만드의 실화를 바탕으로 정청된 국가적 고립과 잊혀진 역사적 순간을 밀도 있게 조명한다.",
+      "url": "https://directorsnotes.com/2026/11/22/elham-ehsas-forgotten-spaceman/",
+      "source": "Directors Notes",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "Elham Ehsas",
+      "creator_insight": "정치적 격변 속에 묻힌 우주비행사의 고독을 정적인 클로즈업과 차가운 미니멀리즘 톤앤매너로 다듬어 국가적 비극을 압축적 프레임으로 직조했다.",
+      "tags": [
+        "단편영화",
+        "시네마틱 연출",
+        "서사 기획"
+      ],
+      "execution_techniques": [
+        "#로우키조명",
+        "#미니멀프레임"
+      ],
+      "why": "거창한 VFX 없이도 인물의 역사적 고립감을 극대화하는 카메라 워킹과 톤 조율 방식이 시네마틱 연출 기법으로서 훌륭한 레퍼런스를 제공한다.",
+      "social_proof": "",
+      "depth": 0.95,
+      "image": "https://directorsnotes.com/wp-content/uploads/2026/11/forgotten_spaceman_03.jpg",
+      "pub_date": "2026-11-27T08:00:00.000000"
+    },
+    {
+      "title": "오픈서베이 2027 식생활 소비 예측: 줄어드는 식탁과 변화하는 스낵 컬처",
+      "content": "국내 식소비 데이터 플랫폼 오픈서베이가 제시하는 2027년 식생활 예측 리포트로, GLP-1 비만치료제 보급과 아침 식사 스킵율 증가가 미치는 식품 소비 구조의 지형 변화를 분석한다.",
+      "url": "https://blog.opensurvey.co.kr/event/webinar-eat-buy-play-2026/",
+      "source": "오픈서베이 블로그",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "오픈서베이 (Opensurvey)",
+      "creator_insight": "단순한 식품 트렌드를 넘어 소비자 라이프스타일의 해체와 타겟 페르소나의 파편화를 정밀한 정량 데이터로 도출해 마케팅 기획의 명분을 제시한다.",
+      "tags": [
+        "소비자트렌드",
+        "식소비리포트",
+        "마케팅전략"
+      ],
+      "execution_techniques": [
+        "#데이터시각화",
+        "#트렌드분석"
+      ],
+      "why": "국내 브랜드 마케터라면 식소비 축소가 F&B에 그치지 않고 라이프스타일 전반의 패키징 및 액티베이션 전략으로 전이되는 지점을 짚어내야 한다.",
+      "social_proof": "",
+      "depth": 0.92,
+      "image": "https://blog.opensurvey.co.kr/wp-content/uploads/2026/11/26_eatbuyplay_blog_thumnail_1.png",
+      "pub_date": "2026-11-27T08:00:00.000000"
+    },
+    {
+      "title": "단 하나의 세포에서 시작되는 바이오 시스템: 스튜디오 Mucho의 Biotic 브랜드 아이덴티티",
+      "content": "디자인 스튜디오 Mucho가 합성 세포 플랫폼 Biotic을 위해 개발한 브랜딩 아이덴티티 프로젝트로, 반사-확산 반응 공식을 활용해 반응형 로고 시스템을 구현했다.",
+      "url": "https://abduzeedo.com/branding-biotic-brand-identity-mucho/",
+      "source": "abduzeedo.com",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Mucho",
+      "creator_insight": "생명공학의 복잡한 메커니즘을 하나의 점에서 증식하는 유기적 그래픽 모듈로 변환하여 시각적 개연성과 브랜드 서사를 동시에 확보했다.",
+      "tags": [
+        "브랜드아이덴티티",
+        "생동형디자인",
+        "구조적해체주의"
+      ],
+      "execution_techniques": [
+        "#감성적모듈화",
+        "#반응형그래픽"
+      ],
+      "why": "고도화된 바이오·테크 브랜드가 어떻게 딱딱한 설명 대신 미학적 모듈화 시스템으로 기술적 우위를 시각화하는지 증명하는 우수한 디자인 사례다.",
+      "social_proof": "",
+      "depth": 0.94,
+      "image": "https://cms.abduzeedo.com/sites/default/files/originals/hero_1600_66.jpg",
+      "pub_date": "2026-11-27T08:00:00.000000"
+    },
+    {
+      "title": "닭의 시선으로 바라본 세계: 죄르지 팔피 감독의 파격적 앵글 'Hen'",
+      "content": "헝가리 거장 죄르지 팔피 감독이 닭의 시점을 주격 카메라로 설정하여 관습적인 샷 구도를 파괴하고 감각적인 시각 체계를 구축한 신작 영화 분석.",
+      "url": "https://filmmakermagazine.com/134853-viewfinder-birds-eye-view-gyorgy-palfi-gives-chicken-star-treatment/",
+      "source": "Filmmaker Magazine",
+      "domain": "Cinema & Narrative",
+      "category": "리뷰",
+      "creator_name": "György Pálfi",
+      "creator_insight": "비인간 객체의 시선을 전면에 내세워 렌즈의 높이와 시점을 극단적으로 낮춤으로써 비주얼 스토리텔링의 낯설게 하기(Defamiliarization)를 극한으로 밀어붙였다.",
+      "tags": [
+        "영화연출",
+        "시점파괴",
+        "실험적프레임"
+      ],
+      "execution_techniques": [
+        "#안티-AI미학",
+        "#극단적앵글"
+      ],
+      "why": "AI가 학습한 표준적인 구도와 프레임을 비웃듯 극단적인 실사 카메라 앵글로 완전히 새로운 감각적 자극을 남기는 연출 컷의 표본이다.",
+      "social_proof": "",
+      "depth": 0.96,
+      "image": "https://cdn.filmmakermagazine.com/uploads/2026/11/image-1-8-940x400.jpg",
+      "pub_date": "2026-11-27T08:00:00.000000"
+    },
+    {
+      "title": "2026 홀리데이 패키지: 친환경 종이 소재로 재맥락화된 럭셔리 패키징 5가지 기법",
+      "content": "국내 브랜딩 미디어 Mosca가 분석한 2026 홀리데이 시즌 패키징 트렌드로, 플라스틱 코팅을 지우고 질감 있는 종이 구조와 형압으로 럭셔리 질감을 재정의하는 5가지 실무 솔루션을 다룬다.",
+      "url": "https://medium.com/@mosca.kr/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%ED%95%9C%EC%A0%95%ED%8C%90-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%9D%B4%EC%A0%9C-%EC%A2%85%EC%9D%B4%EB%A1%9C-2026-%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4-%ED%8C%A8%ED%82%A4%EC%A7%80-5%EA%B0%80%EC%A7%80-%EB%B0%A9%EC%8B%9D-e28aca044c2b",
+      "source": "Medium Branding Tag",
+      "domain": "Korean Code",
+      "category": "리뷰",
+      "creator_name": "Mosca",
+      "creator_insight": "화려한 겉치레 대신 아날로그적 촉각성과 재료 본연의 물리적 질감을 전면에 내세워 지속가능성과 고급감을 동시에 타격하는 전략을 제시한다.",
+      "tags": [
+        "패키지디자인",
+        "종이패키징",
+        "아날로그브랜딩"
+      ],
+      "execution_techniques": [
+        "#디지털물성회복",
+        "#지정학적재료학"
+      ],
+      "why": "홀리데이 프로모션 기획 시 불필요한 장식을 배제하고 재질감만으로 강력한 실물 인상을 남기는 지물 구조 기법의 참고 자료다.",
+      "social_proof": "",
+      "depth": 0.91,
+      "image": "https://placehold.co/800x600/1e1b4b/FFFFFF?text=Medium%20Branding%20Tag%0A%28BRANDING%29&font=playfair-display",
+      "pub_date": "2026-11-27T08:00:00.000000"
+    },
+    {
+      "title": "초기 웹 그래픽과 손그림의 재조합: 지지 보르제세의 아날로그 노스탤지어 드로잉",
+      "content": "뉴욕 기반 아티스트 지지 보르제세가 2000년대 초기 브라우저 창 인터페이스 그래픽과 정교한 연필 드로잉을 충돌시켜 가상과 현실의 경계를 탐미한 작업 연작.",
+      "url": "https://www.creativeboom.com/inspiration/birds-browser-windows-and-broken-connections-inside-gigi-borgeses-drawings/",
+      "source": "Creative Boom",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Gigi Borgese",
+      "creator_insight": "거친 흑연 입자와 조잡한 픽셀 창의 대비를 통해 디지털 추억을 조형적 텍스처로 환원하고 잊혀진 인터넷 감성을 미술 사조로 재맥락화했다.",
+      "tags": [
+        "일러스트",
+        "노스탤지어",
+        "비주얼아트"
+      ],
+      "execution_techniques": [
+        "#노스탤지어재맥락화",
+        "#디지털물성회복"
+      ],
+      "why": "레트로 요소를 1차원적으로 복제하는 수준을 넘어 아날로그 텍스처와 미학적으로 결합시키는 고밀도 비주얼 디렉팅의 좋은 본보기다.",
+      "social_proof": "",
+      "depth": 0.89,
+      "image": "https://media.creativeboom.com/163c5f7a-0963-4084-82cd-2640977fd5ed/conversions/52cab9c347c51aa9f65c313e31af2d0fab476e59-medium.webp",
+      "pub_date": "2026-11-27T08:00:00.000000"
+    },
+    {
+      "title": "스포츠 리테일의 플랫폼화: 딕스 스포팅 구즈의 유스 스포츠 데이터 광고 비즈니스",
+      "content": "미국 스포츠 유통 거인 Dick's Sporting Goods가 자회사 GameChanger 앱을 통해 유스 스포츠 생중계 및 커뮤니티 데이터를 미디어 플랫폼 광고 사업으로 전환하는 수익화 전략.",
+      "url": "https://digiday.com/marketing/dicks-sporting-goods-is-turning-youth-sports-into-a-premium-ad-business/",
+      "source": "Digiday",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "Dick's Sporting Goods",
+      "creator_insight": "전통 오프라인 리테일러가 단순 제품 판매를 넘어 극도로 타겟팅된 풀뿌리 스포츠 데이터를 기반으로 자체 프리미엄 광고 생태계를 구축했다.",
+      "tags": [
+        "리테일미디어",
+        "광고플랫폼",
+        "브랜드전략"
+      ],
+      "execution_techniques": [
+        "#유틸리티미학",
+        "#데이터비즈니스"
+      ],
+      "why": "브랜드가 소비자와 만나는 접점을 커뮤니티 데이터 미디어로 확장할 때 어떤 새로운 사업적 명분과 시각적 플랫폼이 필요한지 보여준다.",
+      "social_proof": "",
+      "depth": 0.88,
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2024/07/sports-revenue-digiday.gif",
+      "pub_date": "2026-11-27T08:00:00.000000"
+    },
+    {
+      "title": "OMA가 건축한 스톤아일랜드 밀라노 플래그십: 유틸리티 미학의 공간화",
+      "content": "건축 사무소 OMA가 설계한 밀라노 스톤아일랜드 플래그십 스토어로, 콘크리트와 특수 가공 소재를 활용해 브랜드의 소재 실험 정신을 묵직한 공간 스케노그라피로 구현했다.",
+      "url": "https://retaildesignblog.net/2026/11/24/stone-island-flagship-store-by-oma/",
+      "source": "Retail Design Blog",
+      "domain": "Marketing & Brand",
+      "category": "리뷰",
+      "creator_name": "OMA",
+      "creator_insight": "스톤아일랜드의 고유한 섬유 가공 기술을 오프라인 공간의 건축 자재로 전환하여 브랜드 정체성을 거친 물질감으로 압도적 스케일 감을 완성했다.",
+      "tags": [
+        "리테일스페이스",
+        "공간브랜딩",
+        "스톤아일랜드"
+      ],
+      "execution_techniques": [
+        "#구조적해체주의",
+        "#유틸리티미학"
+      ],
+      "why": "공간을 인테리어가 아닌 브랜드 메시지를 전달하는 입체적 팝업 상징물이자 브랜드 물질성의 집약체로 풀어내는 우수한 스페셜 에디션 연출 전략이다.",
+      "social_proof": "",
+      "depth": 0.93,
+      "image": "https://retaildesignblog.net/wp-content/uploads/2026/11/Stone-Island-flagship-store-by-OMA-01-720x480.jpg",
+      "pub_date": "2026-11-27T08:00:00.000000"
+    },
+    {
+      "title": "야후 뉴스의 시각적 해체: 앤드루 푸팃의 타이포그래피 키 비주얼 시스템",
+      "content": "디자이너 앤드루 푸팃이 야후 뉴스를 위해 제작한 글로벌 그래픽 캠페인으로, 볼드한 타이포그래피 모듈과 강렬한 3D 오브젝트를 결합해 뉴스 미디어의 중량감을 표현했다.",
+      "url": "https://www.behance.net/gallery/258952285/Yahoo-News-X-Andrew-Footit",
+      "source": "Behance",
+      "domain": "Design & Space",
+      "category": "리뷰",
+      "creator_name": "Andrew Footit",
+      "creator_insight": "텍스트의 굵기와 입체감을 극단적으로 조율하여 딱딱한 보도 매체의 캐릭터를 감각적인 팝아트적 텍스처로 변환해 시각적 집중도를 확보했다.",
+      "tags": [
+        "타이포그래피",
+        "키비주얼",
+        "모듈러디자인"
+      ],
+      "execution_techniques": [
+        "#감성적모듈화",
+        "#볼드타이포"
+      ],
+      "why": "자칫 지루해질 수 있는 뉴스 콘텐츠의 포스터 그래픽을 타이포그래피 모듈의 힘만으로 현대적 아트워크 반열에 올려놓은 제작 스킬이다.",
+      "social_proof": "",
+      "depth": 0.9,
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/871750258952285.Y3JvcCwyNTU2LDIwMDAsMTg5LDA.png",
+      "pub_date": "2026-11-27T08:00:00.000000"
+    }
+  ],
+  "popcorn": [
+    {
+      "title": "디지털 시대의 아날로그 반격: Korg의 phase8 아쿠스틱 신디사이저",
+      "content": "Korg가 발표한 아쿠스틱 울림판 기반의 하이브리드 악기 phase8의 신규 공진 앱 및 물리적 튜닝 업데이트.",
+      "url": "https://cdm.link/korgs-phase8-update-companion/",
+      "source": "CDM",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "사운드디자인",
+        "하드웨어"
+      ],
+      "why": "플러그인 소프트웨어가 넘쳐나는 시대에 물리적 울림통을 결합한 사운드 툴의 아날로그적 물성 감각이 인상적이다.",
+      "depth": 0.5,
+      "image": "https://cdm.link/app/uploads/2026/11/phase8-companion-superbooth.jpg",
+      "pub_date": "2026-11-27T08:00:00.000000"
+    },
+    {
+      "title": "밀라노 뉴질랜드 감독 탄크레디의 신곡 MV: 루벤 칸투 라놀디의 초현실 영상미",
+      "content": "Tancredi의 신곡 비디오에서 선보인 루벤 칸투 라놀디 감독의 그로테스크하면서도 서정적인 인물 연출 연작.",
+      "url": "https://www.promonews.tv/videos/2026/11/26/tancredi-ho-visto-un-uomo-il-male-ruben-cant%C3%B9-rajnoldi/97147",
+      "source": "promonews.tv",
+      "domain": "POPCORN",
+      "category": "스낵/바이럴",
+      "tags": [
+        "뮤직비디오",
+        "비주얼디렉팅"
+      ],
+      "why": "뮤직비디오 조명 연출 및 미장센 톤 조정을 위한 숏폼 스낵 레퍼런스로 활용성이 높다.",
+      "depth": 0.5,
+      "image": "https://admin.promonews.tv/sites/default/files/styles/bmvd_content_page/public/Tancredi%20Huomo%202.jpg?itok=hWmNlXL7",
+      "pub_date": "2026-11-27T08:00:00.000000"
+    }
+  ],
+  "macro_keywords": [
+    {
+      "word": "안티-AI 미학",
+      "is_hot": true
+    },
+    {
+      "word": "구조적 해체주의",
+      "is_hot": true
+    },
+    {
+      "word": "감성적 모듈화",
+      "is_hot": false
+    },
+    {
+      "word": "디지털 물성 회복",
+      "is_hot": true
+    },
+    {
+      "word": "유틸리티 미학",
+      "is_hot": false
+    },
+    {
+      "word": "아날로그 브랜딩",
+      "is_hot": true
+    },
+    {
+      "word": "노스탤지어 재맥락화",
+      "is_hot": false
+    }
+  ]
+}
